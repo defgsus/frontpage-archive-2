@@ -5,15 +5,12 @@ class TOnline(Scraper):
     ID = "t-online.de"
     URL = "https://www.t-online.de/"
     SUB_URLS = [
-        ("index.html", URL),
-        ("politik.html", URL + "nachrichten/"),
-        ("panorama.html", URL + "nachrichten/panorama/"),
-        ("sport.html", URL + "sport/"),
-        ("unterhaltung.html", URL + "unterhaltung/"),
-
-        ("datenschutz.html", URL + "datenschutz/"),
+        ("index", URL),
+        ("politik", URL + "nachrichten/"),
+        ("panorama", URL + "nachrichten/panorama/"),
+        ("sport", URL + "sport/"),
+        ("unterhaltung", URL + "unterhaltung/"),
     ]
     SUB_LINK_NAMES = [
         "Coronavirus",
-        "Impressum",
     ]

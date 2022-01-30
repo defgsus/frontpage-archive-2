@@ -25,16 +25,12 @@ class Zeit(Scraper):
     ]
 
 
-
 class ZeitSchule(Scraper):
     ID = "zeitfuerdieschule.de"
     URL = "https://www.zeitfuerdieschule.de"
     SUB_URLS = [
-        ("index.html", URL),
-        ("werte.html", URL + "/themen/werte/"),
-        ("demokratie.html", URL + "/themen/demokratie/"),
-        ("deutschland.html", URL + "/themen/deutschland/"),
-
-        ("impressum.html", URL + "/impressum/"),
-        ("datenschutz.html", "https://datenschutz.zeit.de/zeit-schule"),
+        ("index", URL),
+        ("werte", URL + "/themen/werte/"),
+        ("demokratie", URL + "/themen/demokratie/"),
+        ("deutschland", URL + "/themen/deutschland/"),
     ]

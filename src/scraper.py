@@ -164,7 +164,9 @@ class Scraper:
                 }
                 try:
                     for article in self.iter_articles(url, short_filename, content):
-                        file_data["articles"].append(article)
+                        file_data["articles"].append(
+                            self.finalize_article_dict(url, short_filename, article)
+                        )
                         self.report["articles"] += 1
                 except:
                     self.report["exceptions"].append({
@@ -274,14 +276,43 @@ class Scraper:
             url: Optional[str] = None,
             image_url: Optional[str] = None,
             image_title: Optional[str] = None,
+            author: Optional[str] = None,
+            topic: Optional[str] = None,
     ) -> dict:
         return {
-            "title": title,
-            "teaser": teaser,
-            "url": url,
-            "image_url": image_url,
-            "image_title": image_title,
+            key: value
+            for key, value in {
+                "title": title,
+                "topic": topic,
+                "teaser": teaser,
+                "url": url,
+                "author": author,
+                "image_url": image_url,
+                "image_title": image_title,
+            }.items()
+            if value
         }
+
+    def finalize_article_dict(self, url: str, filename: str, article: dict) -> dict:
+        article = {
+            key: value
+            for key, value in article.items()
+            if value
+        }
+        if article.get("image_url"):
+            if article["image_url"].startswith("data:"):
+                del article["image_url"]
+
+        for key in ("url", "image_url"):
+            article_url = article.get(key)
+            if article_url:
+                if article_url.startswith("/"):
+                    article[key] = self.url_join(url, article_url)
+
+        return article
+
+    def find_headline(self, tag: bs4.Tag) -> Optional[bs4.Tag]:
+        return tag.find("h3") or tag.find("h2") or tag.find("h1") or tag.find("header")
 
     def iter_articles(self, url: str, filename: str, content: str) -> Generator[dict, None, None]:
         """
@@ -294,12 +325,13 @@ class Scraper:
             if not (tag.text and tag.text.strip()):
                 continue
 
-            headline = tag.find("h3") or tag.find("h2") or tag.find("h1") or tag.find("header")
+            headline = self.find_headline(tag)
+            headline = self.strip(headline)
             if not headline:
                 continue
 
             article = self.create_article_dict(
-                title=self.strip(headline),
+                title=headline,
                 teaser=self.strip(tag.find("p")) or self.strip(tag.find("section")),
             )
 

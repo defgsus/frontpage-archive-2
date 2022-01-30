@@ -44,15 +44,3 @@ class Spiegel(Scraper):
                 author = spans[-1].text.strip()
                 if author.startswith("Von "):
                     article["author"] = author[4:]
-
-
-class SpiegelDaily(Scraper):
-    ID = "spiegeldaily.de"
-    URL = "https://www.spiegeldaily.de/"
-    SUB_URLS = [
-        ("index", URL),
-        ("freizeit", URL + "category/freizeit/"),
-        ("leben", URL + "category/leben/"),
-        ("lebensstil", URL + "category/lebensstil/"),
-        ("allgemeines", URL + "category/allgemeines/"),
-    ]

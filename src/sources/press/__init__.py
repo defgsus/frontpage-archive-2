@@ -3,7 +3,7 @@ from .compact import Compact
 from .faz import FrankfurterAllgemeine
 from .fr import FrankfurterRundschau
 from .heise import Heise
-from .spiegel import Spiegel, SpiegelDaily
+from .spiegel import Spiegel
 from .sueddeutsche import Sueddeutsche
 from .volkstimme import Volksstimme
 from .welt import Welt
