@@ -1,3 +1,5 @@
+import bs4
+
 from ...scraper import Scraper
 
 
@@ -5,18 +7,20 @@ class Heise(Scraper):
     ID = "heise.de"
     URL = "https://www.heise.de/"
     SUB_URLS = [
-        ("index.html", URL),
-        ("it.html", URL + "newsticker/it/"),
-        ("wissen.html", URL + "newsticker/wissen/"),
-        ("mobiles.html", URL + "newsticker/mobiles/"),
-        ("security.html", URL + "security/"),
-        ("entertainment.html", URL + "newsticker/entertainment/"),
-        ("netzpolitik.html", URL + "newsticker/netzpolitik/"),
-        ("wirtschaft.html", URL + "newsticker/wirtschaft/"),
-        ("journal.html", URL + "newsticker/journal/"),
-        ("newsticker.html", URL + "newsticker/"),
-        ("plus.html", URL + "plus/"),
-
-        ("impressum.html", URL + "impressum.html"),
-        ("datenschutz.html", URL + "Datenschutzerklaerung-der-Heise-Medien-GmbH-Co-KG-4860.html"),
+        ("index", URL),
+        ("it", URL + "newsticker/it/"),
+        ("wissen", URL + "newsticker/wissen/"),
+        ("mobiles", URL + "newsticker/mobiles/"),
+        ("security", URL + "security/"),
+        ("entertainment", URL + "newsticker/entertainment/"),
+        ("netzpolitik", URL + "newsticker/netzpolitik/"),
+        ("wirtschaft", URL + "newsticker/wirtschaft/"),
+        ("journal", URL + "newsticker/journal/"),
+        ("newsticker", URL + "newsticker/"),
+        ("plus", URL + "plus/"),
+        ("telepolis", URL + "tp/"),
     ]
+
+    def patch_article(self, article: dict, tag: bs4.BeautifulSoup):
+        author = tag.find("li", {"class": "has-author"})
+        article["author"] = self.strip(author)

@@ -294,13 +294,13 @@ class Scraper:
             if not (tag.text and tag.text.strip()):
                 continue
 
-            headline = tag.find("h3") or tag.find("h2")
+            headline = tag.find("h3") or tag.find("h2") or tag.find("h1") or tag.find("header")
             if not headline:
                 continue
 
             article = self.create_article_dict(
                 title=self.strip(headline),
-                teaser=self.strip(tag.find("p")),
+                teaser=self.strip(tag.find("p")) or self.strip(tag.find("section")),
             )
 
             a = tag.find("a")
@@ -310,10 +310,16 @@ class Scraper:
             image = tag.find("img")
             if image and image.get("src"):
                 article["image_url"] = image["src"]
-                if image.get("alt"):
-                    article["image_title"] = self.strip(image["alt"])
+                article["image_title"] = self.strip(
+                    image.get("alt") or image.get("title")
+                )
+
+            self.patch_article(article, tag)
 
             yield article
+
+    def patch_article(self, article: dict, tag: bs4.BeautifulSoup):
+        pass
 
     def iter_scripts(self, url: str, filename: str, content: str) -> Generator[dict, None, None]:
         soup = self.to_soup(content)
@@ -334,5 +340,6 @@ class Scraper:
                 "id": tag.get("id"),
                 "text": text,
             }
+
 
 _RE_MULTI_SPACE = re.compile(r"\s+")

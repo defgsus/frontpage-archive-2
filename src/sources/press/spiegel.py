@@ -1,3 +1,7 @@
+import re
+
+import bs4
+
 from ...scraper import Scraper
 
 
@@ -5,39 +9,50 @@ class Spiegel(Scraper):
     ID = "spiegel.de"
     URL = "https://www.spiegel.de/"
     SUB_URLS = [
-        ("index.html", URL),
-        ("schlagzeilen.html", URL + "schlagzeilen/"),
-        ("plus.html", URL + "plus/"),
-        ("coronavirus.html", URL + "thema/coronavirus/"),
-        ("politik.html", URL + "politik/"),
-        ("ausland.html", URL + "ausland/"),
-        ("panorama.html", URL + "panorama/"),
-        ("sport.html", URL + "sport/"),
-        ("wirtschaft.html", URL + "wirtschaft/"),
-        ("wissenschaft.html", URL + "wissenschaft/"),
-        ("netzwelt.html", URL + "netzwelt/"),
-        ("kultur.html", URL + "kultur/"),
-        ("leben.html", URL + "thema/leben/"),
-        ("karriere.html", URL + "karriere/"),
-        ("geschichte.html", URL + "geschichte/"),
-        ("auto.html", URL + "auto/"),
-        ("tests.html", URL + "tests/"),
-        ("deinspiegel.html", URL + "deinspiegel/"),
-        ("audio.html", URL + "audio/"),
-        ("video.html", URL + "video/"),
-        ("impressum.html", URL + "impressum/"),
-        ("datenschutz.html", URL + "datenschutz-spiegel"),
+        ("index", URL),
+        ("schlagzeilen", URL + "schlagzeilen/"),
+        ("plus", URL + "plus/"),
+        ("coronavirus", URL + "thema/coronavirus/"),
+        ("politik", URL + "politik/"),
+        ("ausland", URL + "ausland/"),
+        ("panorama", URL + "panorama/"),
+        ("sport", URL + "sport/"),
+        ("wirtschaft", URL + "wirtschaft/"),
+        ("wissenschaft", URL + "wissenschaft/"),
+        ("netzwelt", URL + "netzwelt/"),
+        ("kultur", URL + "kultur/"),
+        ("leben", URL + "thema/leben/"),
+        ("karriere", URL + "karriere/"),
+        ("geschichte", URL + "geschichte/"),
+        ("auto", URL + "auto/"),
+        ("tests", URL + "tests/"),
+        ("deinspiegel", URL + "deinspiegel/"),
+        ("audio", URL + "audio/"),
+        ("video", URL + "video/"),
     ]
+
+    _RE_TITLE_TIME = re.compile("Vor \d+ Min$")
+
+    def patch_article(self, article: dict, tag: bs4.BeautifulSoup):
+        if article["title"]:
+            article["title"] = self._RE_TITLE_TIME.sub("", article["title"]).strip()
+
+        section = tag.find("section")
+        if section:
+            spans = section.find_all("span")
+            if spans and spans[-1].text:
+                author = spans[-1].text.strip()
+                if author.startswith("Von "):
+                    article["author"] = author[4:]
 
 
 class SpiegelDaily(Scraper):
     ID = "spiegeldaily.de"
     URL = "https://www.spiegeldaily.de/"
     SUB_URLS = [
-        ("index.html", URL),
-        ("freizeit.html", URL + "category/freizeit/"),
-        ("leben.html", URL + "category/leben/"),
-        ("lebensstil.html", URL + "category/lebensstil/"),
-        ("allgemeines.html", URL + "category/allgemeines/"),
-        ("datenschutz.html", URL + "datenschutzerklaerung/"),
+        ("index", URL),
+        ("freizeit", URL + "category/freizeit/"),
+        ("leben", URL + "category/leben/"),
+        ("lebensstil", URL + "category/lebensstil/"),
+        ("allgemeines", URL + "category/allgemeines/"),
     ]

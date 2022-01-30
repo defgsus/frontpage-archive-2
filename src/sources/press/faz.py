@@ -7,22 +7,18 @@ class FrankfurterAllgemeine(Scraper):
     ID = "faz.net"
     URL = "https://www.faz.net/"
     SUB_URLS = [
-        ("index.html", URL + "aktuell/"),
-        ("politik.html", URL + "aktuell/politik/"),
-        ("wirtschaft.html", URL + "aktuell/wirtschaft/"),
-        ("finanzen.html", URL + "aktuell/finanzen/"),
-        ("feuilleton.html", URL + "aktuell/feuilleton/"),
-        ("karriere.html", URL + "aktuell/karriere-hochschule/"),
-        ("sport.html", URL + "aktuell/sport/"),
-        ("gesellschaft.html", URL + "aktuell/gesellschaft/"),
-        ("stil.html", URL + "aktuell/stil/"),
-        ("rhein-main.html", URL + "aktuell/rhein-main/"),
-        ("technik.html", URL + "aktuell/technik-motor/"),
-        ("wissen.html", URL + "aktuell/wissen/"),
-        ("reise.html", URL + "aktuell/reise/"),
-    ]
-    SUB_LINK_NAMES = [
-        "Impressum",
-        "Datenschutz",
+        ("index", URL + "aktuell/"),
+        ("politik", URL + "aktuell/politik/"),
+        ("wirtschaft", URL + "aktuell/wirtschaft/"),
+        ("finanzen", URL + "aktuell/finanzen/"),
+        ("feuilleton", URL + "aktuell/feuilleton/"),
+        ("karriere", URL + "aktuell/karriere-hochschule/"),
+        ("sport", URL + "aktuell/sport/"),
+        ("gesellschaft", URL + "aktuell/gesellschaft/"),
+        ("stil", URL + "aktuell/stil/"),
+        ("rhein-main", URL + "aktuell/rhein-main/"),
+        ("technik", URL + "aktuell/technik-motor/"),
+        ("wissen", URL + "aktuell/wissen/"),
+        ("reise", URL + "aktuell/reise/"),
     ]
 
