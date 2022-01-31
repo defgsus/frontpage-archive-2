@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-31T10:29:58",
+  "timestamp": "2022-01-31T10:41:08",
   "url": "https://www.spiegel.de/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wirtschaft in der Pandemie: Eurozone erholt sich, aber Deutschland hinkt hinterher",
+      "url": "https://www.spiegel.de/wirtschaft/konjunktur-die-wirtschaft-in-der-eurozone-erholt-sich-aber-deutschland-hinkt-hinterher-a-03445eac-5bae-4501-b000-a9aeae0c72e5"
+    },
+    {
       "title": "»Das Boot«-Filmarchitekt: Oscar-Preisträger Rolf Zehetbauer ist tot",
       "url": "https://www.spiegel.de/kultur/rolf-zehetbauer-das-boot-filmarchitekt-und-oscar-preistraeger-ist-tot-a-d2200fef-a637-4bf4-a6e4-233ba13dfbb4"
     },
@@ -48,15 +52,11 @@
       "url": "https://www.spiegel.de/panorama/justiz/nordrhein-westfalen-polizei-und-zoll-in-nrw-zerschlagen-drogenbande-a-ade989d8-4fed-49e9-8bff-238a8349f0ec"
     },
     {
-      "title": "Gewaltaufrufe im Messengerdienst: Apple soll Bundesregierung eine Telegram-Anschrift gegeben haben",
-      "url": "https://www.spiegel.de/netzwelt/netzpolitik/apple-soll-bundesregierung-eine-telegram-anschrift-gegeben-haben-a-f2578ff0-6aec-4bdb-bd0c-5d0589d939f4"
-    },
-    {
-      "title": "Bericht der Vereinten Nationen Taliban haben offenbar mehr als 100 Ortskräfte und Mitarbeiter der Ex-Regierung getötet",
-      "teaser": "»Außergerichtliche Tötungen, gewaltsames Verschwindenlassen«: Laut Uno sind in Afghanistan viele vermeintliche Kollaborateure ums Leben gekommen – trotz angekündigter Generalamnestie der Taliban.",
-      "url": "https://www.spiegel.de/ausland/afghanistan-taliban-haben-laut-uno-mehr-als-100-ortskraefte-und-ex-regierungsmitarbeiter-getoetet-a-155ecdb7-a7fe-484d-9377-4dc5aae11e2a",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/7a9168d4-3066-419f-84ad-c3964c9f4cec_w872_r1.778_fpx41_fpy48.jpg",
-      "image_title": "Taliban haben offenbar mehr als 100 Ortskräfte und Mitarbeiter der Ex-Regierung getötet - Marco Di Lauro / Getty Images"
+      "title": "Wirtschaft in der Pandemie Eurozone erholt sich, aber Deutschland hinkt hinterher",
+      "teaser": "Neue Daten zeigen, wie die Wirtschaft in der Eurozone wächst. In Spanien und Italien brummt das Geschäft – in Deutschland und Österreich schwächelt die Konjunktur.",
+      "url": "https://www.spiegel.de/wirtschaft/konjunktur-die-wirtschaft-in-der-eurozone-erholt-sich-aber-deutschland-hinkt-hinterher-a-03445eac-5bae-4501-b000-a9aeae0c72e5",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/e5b0ffed-6d1a-41eb-8484-cdbd7bd52de8_w872_r1.778_fpx58_fpy45.jpg",
+      "image_title": "Eurozone erholt sich, aber Deutschland hinkt hinterher - Matthias Rietschel / dpa"
     },
     {
       "title": "»Luftnot ist ein Warnzeichen« Wie kuriere ich Covid-19 zu Hause aus?",
@@ -106,11 +106,11 @@
       "image_title": "»In Europa ist noch nie jemand an Atomabfall gestorben« - Federico Gambarini/ dpa"
     },
     {
-      "title": "Waffenlieferungen an die Ukraine Merkels Ex-Außenpolitik-Berater Heusgen kritisiert deutsche Zurückhaltung",
-      "teaser": "Christoph Heusgen wirft der Bundesregierung vor, bei der Frage von Waffenlieferungen in Krisengebiete mit zweierlei Maß zu messen. Immerhin schicke man auch U-Boote nach Israel.",
-      "url": "https://www.spiegel.de/politik/deutschland/christoph-heusgen-deutschland-macht-es-sich-mit-dem-nein-zu-waffenlieferungen-in-die-ukraine-zu-einfach-a-1174c674-8119-47f8-9070-a28fc7f99d5e",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/34093161-3166-425d-8e77-07332cb5ee25_w117_r1.33_fpx35.37_fpy49.98.jpg",
-      "image_title": "Merkels Ex-Außenpolitik-Berater Heusgen kritisiert deutsche Zurückhaltung - Ralf Hirschberger / dpa"
+      "title": "Bericht der Vereinten Nationen Taliban haben offenbar mehr als 100 Ortskräfte und Mitarbeiter der Ex-Regierung getötet",
+      "teaser": "»Außergerichtliche Tötungen, gewaltsames Verschwindenlassen«: Laut Uno sind in Afghanistan viele vermeintliche Kollaborateure ums Leben gekommen – trotz angekündigter Generalamnestie der Taliban.",
+      "url": "https://www.spiegel.de/ausland/afghanistan-taliban-haben-laut-uno-mehr-als-100-ortskraefte-und-ex-regierungsmitarbeiter-getoetet-a-155ecdb7-a7fe-484d-9377-4dc5aae11e2a",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/7a9168d4-3066-419f-84ad-c3964c9f4cec_w117_r1.33_fpx41_fpy48.jpg",
+      "image_title": "Taliban haben offenbar mehr als 100 Ortskräfte und Mitarbeiter der Ex-Regierung getötet - Marco Di Lauro / Getty Images"
     },
     {
       "title": "Reaktionen auf Trumps Ankündigung von Milde für Kapitolstürmer »Das ist das Niveau eines Diktators«",
@@ -250,18 +250,19 @@
       "url": "https://www.spiegel.de/wissenschaft/natur/australien-viel-geld-soll-das-great-barrier-reef-retten-a-a1622466-c477-413c-b179-87d47f7259ed"
     },
     {
-      "title": "Die Lage am Morgen: Nicht einmal die SPD muss jeden Ratschlag annehmen Von Özlem Topçu, stellvertretende Ressortleiterin Ausland",
+      "title": "Waffenlieferungen an die Ukraine: Merkels Ex-Außenpolitik-Berater Heusgen kritisiert deutsche Zurückhaltung",
+      "url": "https://www.spiegel.de/politik/deutschland/christoph-heusgen-deutschland-macht-es-sich-mit-dem-nein-zu-waffenlieferungen-in-die-ukraine-zu-einfach-a-1174c674-8119-47f8-9070-a28fc7f99d5e",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/34093161-3166-425d-8e77-07332cb5ee25_w488_r1.778_fpx35.37_fpy49.98.jpg",
+      "image_title": "Waffenlieferungen an die Ukraine: Merkels Ex-Außenpolitik-Berater Heusgen kritisiert deutsche Zurückhaltung - Ralf Hirschberger / dpa"
+    },
+    {
+      "title": "Die Lage am Morgen: Nicht einmal die SPD muss jeden Ratschlag annehmen Von Özlem Topçu, stellvertretende Ressortleiterin Ausland 6 Min Zur Merkliste hinzufügen",
       "url": "https://www.spiegel.de/politik/deutschland/news-lars-klingbeil-olaf-scholz-corona-anthony-fauci-neil-young-spotify-meghan-und-harry-a-e1c57801-b913-429f-88ed-4d7fffc11e04",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w488_r1.778_fpx28.09_fpy49.93.png",
-      "image_title": "Die Lage am Morgen: Nicht einmal die SPD muss jeden Ratschlag annehmen - DER SPIEGEL"
+      "image_url": "https://cdn.prod.www.spiegel.de/images/463f5e5d-81ed-4f61-aa9a-45c8a72e11da_w56_r1_fpx51_fpy47.jpg"
     },
     {
       "title": "Debatte über Impfpflicht: Kubicki nennt mögliche Nachteile für ungeimpfte Arbeitslose »unerträglich«",
       "url": "https://www.spiegel.de/politik/deutschland/wolfgang-kubicki-moegliche-nachteile-fuer-ungeimpfte-arbeitslose-unertraeglich-a-bf3a08d4-66ea-4948-b5da-7ed82673ffda"
-    },
-    {
-      "title": "Scholz lädt zum G7-Gipfel ins Elmautal: Hafengeburtstag im Bayerischen Oberland Von Katharina Horban",
-      "url": "https://www.spiegel.de/politik/deutschland/olaf-scholz-laedt-zum-g7-gipfel-ins-elmautal-hafengeburtstag-im-bayerischen-oberland-a-36805e30-05bd-4b9d-9c9a-b1031cbf74d9"
     },
     {
       "title": "Junta in Myanmar: Aung San Suu Kyi nun auch wegen Wahlbetrugs angeklagt",
