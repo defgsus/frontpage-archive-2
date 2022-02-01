@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-01T08:23:00",
+  "timestamp": "2022-02-01T09:19:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Samba",
+      "url": "https://www.heise.de/news/Code-Schmuggel-mit-root-Rechten-durch-Luecke-in-Samba-Dienst-6344428.html"
+    },
+    {
       "title": "Foxit PDF",
       "url": "https://www.heise.de/news/Einschleusen-von-Malware-in-Foxit-PDF-moeglich-6343108.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/XML-Parser-Expat-ermoeglicht-Angreifern-Einschleusen-von-Schadcode-6341560.html"
     },
     {
-      "title": "Drupal",
-      "url": "https://www.heise.de/news/Jetzt-deinstallieren-Zahlreiche-Drupal-Erweiterungen-nicht-mehr-unterstuetzt-6341080.html"
+      "title": "Code-Schmuggel mit root-Rechten durch Lücke in Samba-Dienst",
+      "teaser": "Aktualisierte Pakete schließen eine Schwachstelle in der Software für Windows-Dienste Samba, durch die eingeschleuster Schadcode mit root-Rechten läuft.",
+      "url": "https://www.heise.de/news/Code-Schmuggel-mit-root-Rechten-durch-Luecke-in-Samba-Dienst-6344428.html",
+      "image_title": "Aufmacherbild Kritische Lücke in Samba"
     },
     {
       "title": "\"Ändere dein Passwort\"-Tag? Besser: \"Aktiviere 2FA\"!",
@@ -65,15 +71,15 @@
       "url": "https://www.heise.de/news/Einschleusen-von-Malware-in-Foxit-PDF-moeglich-6343108.html"
     },
     {
+      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
+      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
+    },
+    {
       "title": "My 2022: Experte erhebt Spionagevorwürfe gegen Chinas Olympia-App",
       "teaser": "Ein Sicherheitsforscher erhebt schwere Vorwürfe gegen My2022, die offizielle App für alle Teilnehmer der Winterspiele in Beijing: Die App soll Nutzer abhören.",
       "url": "https://www.heise.de/news/My-2022-Experte-erhebt-Spionagevorwuerfe-gegen-Chinas-Olympia-App-6342124.html",
       "image_title": "Aufmacherbild MY2022 unbelegte Spionagevorwürfe"
-    },
-    {
-      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
-      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
     },
     {
       "title": "XML-Parser Expat ermöglicht Angreifern Einschleusen von Schadcode",
@@ -156,11 +162,6 @@
       "title": "Vollzugriff durch Hintertür in WordPress-Erweiterungen",
       "teaser": "Bei einem Servereinbruch landete Hintertür-Schadcode in Plugins und Themes von AccessPress. Angreifer könnten dadurch WordPress-Instanzen übernehmen.",
       "url": "https://www.heise.de/news/Vollzugriff-durch-Hintertuer-in-WordPress-Erweiterungen-6337344.html"
-    },
-    {
-      "title": "Jetzt patchen! Attacken auf Fernzugrifflösung SMA 100 von Sonicwall",
-      "teaser": "Sicherheitsforscher warnen davor, dass Angreifer derzeit Sonicwall Secure Mobile Access im Visier haben. Dagegen lässt sich etwas tun.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Fernzugriffloesung-SMA-100-von-Sonicwall-6337222.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
