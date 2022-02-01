@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-01T11:16:52",
+  "timestamp": "2022-02-01T12:31:12",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "China: Sport als Soft Power",
+      "teaser": "Handball, Tennis, Fußball – weltweit sind im Sport so viele Marken aus China zu sehen wie selten zuvor. Nun sollen die Sponsoren auch Olympia in Peking dominieren.",
+      "url": "https://www.zeit.de/sport/2022-01/china-sport-olympia-marken-wirtschaftsmacht",
+      "image_url": "https://img.zeit.de/sport/2022-01/coca-cola-mengniu-olympia/cinema__980x420"
+    },
+    {
       "title": "Hertha BSC: Arne Friedrich verlängert seinen Vertrag als Sportdirektor nicht",
       "teaser": "Im Sommer ist für den ehemaligen Hertha-Kapitän Schluss. Konkrete Pläne für die Zeit danach gebe es nicht, sagt Friedrich. Auch der Verein steht vor ungeklärten Fragen.",
       "url": "https://www.zeit.de/sport/2022-02/hertha-bsc-arne-friedrich-sportdirektor",
-      "image_url": "https://img.zeit.de/sport/2022-02/hertha-bsc-arne-friedrich/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-02/hertha-bsc-arne-friedrich/wide__822x462",
+      "image_title": "Hertha BSC: Arne Friedrich verlängert seinen Vertrag als Sportdirektor nicht"
     },
     {
       "title": "Covid bei Spitzensportlern: \"Man sollte eine Herzbeteiligung auf jeden Fall ernst nehmen\"",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/sport/2022-01/covid-19-spitzensportler-studie",
       "image_url": "https://img.zeit.de/sport/2022-01/covid-19-spitzensportler-studie-bild/wide__822x462",
       "image_title": "Covid bei Spitzensportlern: \"Man sollte eine Herzbeteiligung auf jeden Fall ernst nehmen\""
-    },
-    {
-      "title": "Streaming-TV: Springer plant neues Sport-Streamingportal – ohne Fußball",
-      "teaser": "Zusammen mit dem früheren DFL-Chef Christian Seifert will der Medienkonzern eine Plattform für weniger populäre Sportarten aufbauen. Im Herbst 2023 soll es losgehen.",
-      "url": "https://www.zeit.de/digital/2022-01/sport-streaming-plattformchristian-seifert-springer-dfl",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2022-01/sport-streaming-plattformchristian-seifert-springer-dfl-bild/wide__822x462",
-      "image_title": "Streaming-TV: Springer plant neues Sport-Streamingportal – ohne Fußball"
     },
     {
       "title": "Vincent Keymer: \"Schachspieler als Beruf ist in Deutschland nicht vorgesehen\"",
@@ -96,6 +96,13 @@
       "image_title": "Danielle Collins: Gegen das Tabu"
     },
     {
+      "title": "Streaming-TV: Springer plant neues Sport-Streamingportal – ohne Fußball",
+      "teaser": "Zusammen mit dem früheren DFL-Chef Christian Seifert will der Medienkonzern eine Plattform für weniger populäre Sportarten aufbauen. Im Herbst 2023 soll es losgehen.",
+      "url": "https://www.zeit.de/digital/2022-01/sport-streaming-plattformchristian-seifert-springer-dfl",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2022-01/sport-streaming-plattformchristian-seifert-springer-dfl-bild/wide__822x462",
+      "image_title": "Streaming-TV: Springer plant neues Sport-Streamingportal – ohne Fußball"
+    },
+    {
       "title": "Rafael Nadal: Der Tag, um alles zu geben",
       "teaser": "Rafael Nadal hat nur fünf Monate nach einer Fußoperation die Australian Open gewonnen und ist vorerst \"der Größte aller Zeiten\" im Tennis. Wie war so etwas möglich?",
       "url": "https://www.zeit.de/sport/2022-01/rafael-nadal-australian-open-grand-slam-geschichte",
@@ -110,13 +117,6 @@
       "image_title": "DFB-Pokal: Union empfängt St. Pauli im Viertelfinale"
     },
     {
-      "title": "Handball-Europameisterschaft: Schweden besiegt Spanien und ist Handball-Europameister",
-      "teaser": "Die schwedische Nationalmannschaft konnte sich im Finale gegen Spanien den fünften EM-Titel sichern. Mit einem Endergebnis von 27:26 blieb es aber durchgehend knapp.",
-      "url": "https://www.zeit.de/sport/2022-01/handballeuropameisterschaft-finale-schweden-spanien-sieg",
-      "image_url": "https://img.zeit.de/sport/2022-01/handball-em-finale-schweden-spanien/wide__822x462",
-      "image_title": "Handball-Europameisterschaft: Schweden besiegt Spanien und ist Handball-Europameister"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.zeitde.verlagteasersport.suma.verlagsteaser.basketball.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagteasersport&utm_content=suma_verlagsteaser_basketball_x",
@@ -124,11 +124,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Australian Open: Rafael Nadal gewinnt die Australian Open",
-      "teaser": "In einem dramatischen Fünfsatz-Match hat der Spanier den Russen Daniil Medwedew besiegt. Nadal holte sich damit den 21. Grand-Slam-Titel und ist alleiniger Rekordhalter.",
-      "url": "https://www.zeit.de/sport/2022-01/australian-open-finale-rafael-nadal-daniil-medwedew",
-      "image_url": "https://img.zeit.de/sport/2022-01/australian-open-finale-daniil-medwedew-rafael-nadal-bild-7/wide__822x462",
-      "image_title": "Australian Open: Rafael Nadal gewinnt die Australian Open"
+      "title": "Handball-Europameisterschaft: Schweden besiegt Spanien und ist Handball-Europameister",
+      "teaser": "Die schwedische Nationalmannschaft konnte sich im Finale gegen Spanien den fünften EM-Titel sichern. Mit einem Endergebnis von 27:26 blieb es aber durchgehend knapp.",
+      "url": "https://www.zeit.de/sport/2022-01/handballeuropameisterschaft-finale-schweden-spanien-sieg",
+      "image_url": "https://img.zeit.de/sport/2022-01/handball-em-finale-schweden-spanien/wide__822x462",
+      "image_title": "Handball-Europameisterschaft: Schweden besiegt Spanien und ist Handball-Europameister"
     },
     {
       "title": "Thomas Müller: Mein schlimmster Tag: \"Am liebsten wären wir zum Heulen unter die Bettdecke gekrochen\"",
@@ -145,6 +145,13 @@
       "image_title": "Dixie Dörner: Der Dresdner Meisterdirigent"
     },
     {
+      "title": "Australian Open: Rafael Nadal gewinnt die Australian Open",
+      "teaser": "In einem dramatischen Fünfsatz-Match hat der Spanier den Russen Daniil Medwedew besiegt. Nadal holte sich damit den 21. Grand-Slam-Titel und ist alleiniger Rekordhalter.",
+      "url": "https://www.zeit.de/sport/2022-01/australian-open-finale-rafael-nadal-daniil-medwedew",
+      "image_url": "https://img.zeit.de/sport/2022-01/australian-open-finale-daniil-medwedew-rafael-nadal-bild-7/wide__822x462",
+      "image_title": "Australian Open: Rafael Nadal gewinnt die Australian Open"
+    },
+    {
       "title": "NFL: Rücktritt von Tom Brady nicht bestätigt",
       "teaser": "Für kurze Zeit verabschiedete sich die Footballwelt von Superstar Tom Brady. Nun gibt sein Teammanager bekannt, eine Entscheidung habe Brady noch gar nicht getroffen.",
       "url": "https://www.zeit.de/sport/2022-01/usa-nfl-tom-brady-karriereende-football",
@@ -157,13 +164,6 @@
       "url": "https://www.zeit.de/sport/2022-01/australian-open-2022-ashleigh-barty-sieg-danielle-collins",
       "image_url": "https://img.zeit.de/sport/2022-01/australian-open-2022-ashleigh-barty-sieg-danielle-collins-bild/wide__822x462",
       "image_title": "Australian Open: Ashleigh Barty gewinnt gegen Danielle Collins"
-    },
-    {
-      "title": "Max Eberl: Er will raus",
-      "teaser": "Gladbachs Sportdirektor Max Eberl tritt zurück, weil er keine Kraft mehr hat. Die Reaktionen sind erstaunlich für das harte Profifußball-Geschäft: voller Empathie.",
-      "url": "https://www.zeit.de/sport/2022-01/max-eberl-ruecktritt-ausgebrannt",
-      "image_url": "https://img.zeit.de/sport/2022-01/max-eberl-2/wide__822x462",
-      "image_title": "Max Eberl: Er will raus"
     },
     {
       "title": "Danielle Collins: Gegen das Tabu",
