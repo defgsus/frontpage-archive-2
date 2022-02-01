@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-01T13:21:02",
+  "timestamp": "2022-02-01T14:17:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Windows",
+      "url": "https://www.heise.de/news/Update-installieren-Beispiel-Exploit-fuehrt-Rechteausweitung-in-Windows-vor-6344703.html"
+    },
+    {
       "title": "WordPress Essential Addons for Elementor",
       "url": "https://www.heise.de/news/WordPress-Plug-in-Essential-Addons-for-Elementor-als-Schadcode-Schleuder-6344583.html"
     },
@@ -44,8 +48,32 @@
       "url": "https://www.heise.de/news/Einschleusen-von-Malware-in-Foxit-PDF-moeglich-6343108.html"
     },
     {
-      "title": "Qnap NAS",
-      "url": "https://www.heise.de/news/Jetzt-patchen-oder-zwangsgepatcht-werden-QNAP-verteilt-ungefragt-Updates-6342465.html"
+      "title": "Microsoft Updates: Zu kurze Online-Zeit verhindert Installation",
+      "teaser": "Microsoft hat untersucht, warum manche Maschinen aktuell sind, andere hingegen nicht. Die Systeme sind einfach nicht lange genug online, so das Ergebnis.",
+      "url": "https://www.heise.de/news/Microsoft-Updates-Zu-kurze-Online-Zeit-verhindert-Installation-6344845.html",
+      "image_title": "Aufmacherbild Minimale Onlinezeit für verlässliches Update"
+    },
+    {
+      "title": "Erstes IT-Sicherheitskennzeichen des BSI geht an mail.de",
+      "teaser": "Erst kürzlich startete das BSI mit dem Antragsverfahren für sein IT-Sicherheitskennzeichen – heute soll das erste an mail.de vergeben werden.",
+      "url": "https://www.heise.de/news/Erstes-IT-Sicherheitskennzeichen-des-BSI-geht-an-mail-de-6344883.html",
+      "image_title": "BSI"
+    },
+    {
+      "title": "BSI-Grundschutz-Kompendium 2022: Neue Bausteine, schlankere Struktur",
+      "teaser": "Das IT-Grundschutzkompendium in der Edition 2022 wartet mit einigen neuen Bausteinen, aber auch mit strukturellen Änderungen auf.",
+      "url": "https://www.heise.de/news/BSI-Grundschutz-Kompendium-2022-Neue-Bausteine-schlankere-Struktur-6344956.html"
+    },
+    {
+      "title": "Update installieren! Beispiel-Exploit zeigt Rechteausweitung in Windows",
+      "teaser": "Die Windows-Updates vom Januar verursachten Probleme und wurden deshalb teilweise deinstalliert. Beispielcode führt eine Lücke vor, die die Updates schließen.",
+      "url": "https://www.heise.de/news/Update-installieren-Beispiel-Exploit-fuehrt-Rechteausweitung-in-Windows-vor-6344703.html",
+      "image_title": "Aufmacherbild PoC für Windows-Lücke"
+    },
+    {
+      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
+      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
     },
     {
       "title": "IT-Sicherheitskongress: Bundesinnenministerin will das BSI stärken",
@@ -68,11 +96,6 @@
       "title": "Einschleusen von Malware in Foxit PDF möglich",
       "teaser": "Neue Fassungen der Foxit PDF-Software schließen Sicherheitslücken, durch die Angreifer ihren Opfern mit manipulierten Dateien Schadcode unterschieben könnten.",
       "url": "https://www.heise.de/news/Einschleusen-von-Malware-in-Foxit-PDF-moeglich-6343108.html"
-    },
-    {
-      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
-      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
@@ -138,28 +161,6 @@
       "title": "Bundesregierung: BSI meldet alle entdeckten Sicherheitslücken an Hersteller",
       "teaser": "Noch feilt die Bundesregierung an einem künftigen \"wirksamen Schwachstellenmanagement\". Sie hält aber auch bereits etablierte Wege für effektiv.",
       "url": "https://www.heise.de/news/Bundesregierung-BSI-meldet-alle-entdeckten-Sicherheitsluecken-an-Hersteller-6339806.html"
-    },
-    {
-      "title": "Verfassungsschutz: \"Hyperbro\"-Angriffskampagne auf deutsche Unternehmen",
-      "teaser": "Das Bundesamt für Verfassungsschutz warnt vor aktuellen Cyberangriffen auf Unternehmen. Es gibt zudem Hinweise zur Erkennung kompromittierter Systeme.",
-      "url": "https://www.heise.de/news/Verfassungsschutz-Hyperbro-Angriffskampagne-auf-deutsche-Unternehmen-6339478.html",
-      "image_title": "Aufmacherbild BfV warnt vor Cyberangriffen"
-    },
-    {
-      "title": "Let's Encrypt zieht bestimmte Zertifikate nach Prüfungsfehler vorzeitig zurück",
-      "teaser": "Ab Freitag wird Let's Encrypt Zertifikate zurückziehen, deren Domaininhaberschaften bis zum 26. Januar 2022 mit einer bestimmten Challenge verifiziert wurden.",
-      "url": "https://www.heise.de/news/Let-s-Encrypt-zieht-bestimmte-Zertifikate-nach-Pruefungsfehler-vorzeitig-zurueck-6338991.html",
-      "image_title": "Aufmacherbild Bestimmte Let's Encrypt-Certs zurückgezogen"
-    },
-    {
-      "title": "Finanzsoftware IBM Cognos Controller könnte Finanzberichte leaken",
-      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Lücken in IBM Cognos Controller.",
-      "url": "https://www.heise.de/news/Finanzsoftware-IBM-Cognos-Controller-koennte-Finanzberichte-leaken-6339229.html"
-    },
-    {
-      "title": "GitHub bietet mit Mobile 2FA Zwei-Faktor-Authentifizierung für Android und iOS",
-      "teaser": "Nach den Git-Operations kündigt der Code-Hoster die passwortfreie Authentifizierung für mobile iOS- oder Android-Endgeräte an – verfügbar wohl ab dieser Woche.",
-      "url": "https://www.heise.de/news/GitHub-bietet-mit-Mobile-2FA-Zwei-Faktor-Authentifizierung-fuer-Android-und-iOS-6339086.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
