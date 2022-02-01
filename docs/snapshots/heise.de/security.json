@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-01T09:19:20",
+  "timestamp": "2022-02-01T10:21:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress Essential Addons for Elementor",
+      "url": "https://www.heise.de/news/WordPress-Plug-in-Essential-Addons-for-Elementor-als-Schadcode-Schleuder-6344583.html"
+    },
+    {
       "title": "Samba",
       "url": "https://www.heise.de/news/Code-Schmuggel-mit-root-Rechten-durch-Luecke-in-Samba-Dienst-6344428.html"
     },
@@ -44,20 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-oder-zwangsgepatcht-werden-QNAP-verteilt-ungefragt-Updates-6342465.html"
     },
     {
-      "title": "XML-Parser Expat",
-      "url": "https://www.heise.de/news/XML-Parser-Expat-ermoeglicht-Angreifern-Einschleusen-von-Schadcode-6341560.html"
-    },
-    {
-      "title": "Code-Schmuggel mit root-Rechten durch Lücke in Samba-Dienst",
-      "teaser": "Aktualisierte Pakete schließen eine Schwachstelle in der Software für Windows-Dienste Samba, durch die eingeschleuster Schadcode mit root-Rechten läuft.",
-      "url": "https://www.heise.de/news/Code-Schmuggel-mit-root-Rechten-durch-Luecke-in-Samba-Dienst-6344428.html",
-      "image_title": "Aufmacherbild Kritische Lücke in Samba"
-    },
-    {
-      "title": "\"Ändere dein Passwort\"-Tag? Besser: \"Aktiviere 2FA\"!",
-      "teaser": "Ändere dein Passwort-Tag? Gut gemeint, aber etwas aus der Zeit gefallen und kaum hilfreich bis schädlich: Wie man Zugangssicherheit wirklich erhöht.",
-      "url": "https://www.heise.de/news/Aendere-dein-Passwort-Tag-Besser-Aktiviere-2FA-6343549.html",
-      "image_title": "Aufmacherbild Ändere Dein Passwort-Tag: Ein virtuelles Vorhängeschloss schwebt über eine Tastatur"
+      "title": "WordPress-Plug-in Essential Addons for Elementor als Schadcode-Schleuder",
+      "teaser": "In der aktuellen Version von Essential Addons for Elementor haben die Entwickler eine Sicherheitslücke geschlossen.",
+      "url": "https://www.heise.de/news/WordPress-Plug-in-Essential-Addons-for-Elementor-als-Schadcode-Schleuder-6344583.html"
     },
     {
       "title": "Per Blaupause überprüfen: Wie sicher sind KI-Systeme in Autos?",
@@ -71,9 +64,19 @@
       "url": "https://www.heise.de/news/Einschleusen-von-Malware-in-Foxit-PDF-moeglich-6343108.html"
     },
     {
+      "title": "Log4Shell: Eine Bestandsaufnahme",
+      "teaser": "Nach der Panik wegen der größten Sicherheitslücke aller Zeiten blieb der große Knall aus. Kommt der noch oder haben wir das Gröbste überstanden?",
+      "url": "https://www.heise.de/hintergrund/Log4Shell-Eine-Bestandsaufnahme-6342536.html"
+    },
+    {
       "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
       "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
       "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
+    },
+    {
+      "title": "Jetzt patchen oder zwangsgepatcht werden – QNAP verteilt ungefragt Updates",
+      "teaser": "QNAP hat sich offenbar für Zwangsupdates entschieden, da Deadbolt bereits mehr als 3600 QNAP-Netzwerkspeicher (NAS) befallen und verschlüsselt hat.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-oder-zwangsgepatcht-werden-QNAP-verteilt-ungefragt-Updates-6342465.html"
     },
     {
       "title": "My 2022: Experte erhebt Spionagevorwürfe gegen Chinas Olympia-App",
@@ -157,11 +160,6 @@
       "teaser": "Sicherheitsforscher haben eine Schwachstelle in Polkit entdeckt, die Rechteausweitung ermöglicht. Für viele Distributionen sind bereits Patches verfügbar.",
       "url": "https://www.heise.de/news/Root-Zugriff-unter-Linux-durch-Polkit-Luecke-6338569.html",
       "image_title": "Aufmacherbild root-Lücke in Polkit"
-    },
-    {
-      "title": "Vollzugriff durch Hintertür in WordPress-Erweiterungen",
-      "teaser": "Bei einem Servereinbruch landete Hintertür-Schadcode in Plugins und Themes von AccessPress. Angreifer könnten dadurch WordPress-Instanzen übernehmen.",
-      "url": "https://www.heise.de/news/Vollzugriff-durch-Hintertuer-in-WordPress-Erweiterungen-6337344.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
