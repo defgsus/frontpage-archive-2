@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-02-02T11:16:13",
+  "timestamp": "2022-02-02T12:30:20",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,19 +19,43 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.1.0-cats-release--22.01/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.1.0-cats-release--22.01/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://script.ioam.de/iam.js?m=1",
+      "src": "https://script.ioam.de/iam.js",
       "id": null,
       "text": null
     },
@@ -48,335 +66,11 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e911053b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendor.748e4e2e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f79ca389.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Falscher Impfpass? : Das droht Nathalie Volk jetzt",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/nathalie-volk-falscher-impfpass-was-ihr-nach-dem-malediven-urlaub-jetzt-droht-79015028.bild.html",
-      "image_title": "Nathalie Volk: Falscher Impfpass? Was ihr nach dem Malediven-Urlaub jetzt droht"
-    },
-    {
-      "title": "Benzin-Knaller im Nachbarland : Erste Tank-Touristen fahren nach Polen",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/benzin-knaller-in-polen-erste-tank-touristen-fahren-rueber-79015944.bild.html",
-      "image_title": "Benzin-Knaller in Polen: Erste Tank-Touristen fahren rüber"
-    },
-    {
-      "title": "Einstiegsdroge : Suchtselbsthilfe-Stiftung warnt vor Cannabis-Legalisierung",
-      "teaser": "Zehntausenden Berlinern hat Synanon aus der Abhängigkeit geholfen. Nun warnt die Stiftung.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/synanon-schlaegt-alarm-suchtselbsthilfe-stiftung-warnt-vor-cannabis-legalisierun-79001366.bild.html",
-      "image_title": "Synanon schlägt Alarm: Suchtselbsthilfe-Stiftung warnt vor Cannabis-Legalisierung"
-    },
-    {
-      "title": "Lebensmittelwarnung : Firma ruft eingelegte Tomaten zurück",
-      "teaser": "Die Hamburger Firma Dovgan GmbH hat eine Lebensmittelwarnung herausgegeben.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/lebensmittelwarnung-firma-ruft-eingelegte-tomaten-zurueck-79009584.bild.html",
-      "image_title": "Lebensmittelwarnung: Firma ruft eingelegte Tomaten zurück"
-    },
-    {
-      "title": "Innensenator Ulrich Mäurer (SPD) ist entsetzt : Hassplakat nach tödlichen Schüssen auf zwei Polizisten",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/innensenator-ist-entsetzt-hassplakat-nach-toedlichen-schuessen-auf-zwei-polizist-79014934.bild.html",
-      "image_title": "Innensenator ist entsetzt: Hassplakat nach tödlichen Schüssen auf zwei Polizisten"
-    },
-    {
-      "title": "Einigung mit Senat : Neues Leben für die Strandlust",
-      "teaser": "Nachdem das Hotel nach 122 Jahren in die Insolvenz ging, werden dort Wohnungen gebaut.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/eigentuemer-einigen-sich-mit-senat-neues-leben-fuer-die-strandlust-79006378.bild.html",
-      "image_title": "Eigentümer einigen sich mit Senat: Neues Leben für die Strandlust"
-    },
-    {
-      "title": "Impfquote und Kranke : Verwirrung um Corona-Zahlen",
-      "teaser": "Impfquote und Hospitalisierungsrate sind wichtige Pandemie-Werte. Aber wie verlässlich?",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/impfquote-und-hospitalisierungsrate-verwirrung-um-corona-zahlen-79006328.bild.html",
-      "image_title": "Impfquote und Hospitalisierungsrate: Verwirrung um Corona-Zahlen"
-    },
-    {
-      "title": "Günter Ottiger (92) bringt Oldtimer wieder in Gang : Sachsens alter Meister",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsens-alter-meister-guenter-ottiger-92-bringt-oldtimer-wieder-in-gang-79012752.bild.html",
-      "image_title": "Sachsens alter Meister Günter Ottiger (92) bringt Oldtimer wieder in Gang"
-    },
-    {
-      "title": "Planung macht Probleme : Baustopp bei Sachsens Mega-Brücke",
-      "teaser": "Erneuter Baustopp an der lang ersehnten Schnellstraße in die Sächsische Schweiz.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/duenne-planung-macht-probleme-baustopp-bei-sachsens-mega-bruecke-79016466.bild.html",
-      "image_title": "Dünne Planung macht Probleme: Baustopp bei Sachsens Mega-Brücke"
-    },
-    {
-      "title": "Unternehmern droht der Ruin : Jetzt fressen die Energiepreise auch noch unsere Jobs",
-      "teaser": "Die hohen Stromkosten gefährden Arbeitsplätze! BILD dokumentiert zwei aktuelle Fälle.",
-      "url": "https://www.bild.de/sparfochs/2022/bild-kaempft-fuer-sie/hohe-energie-preise-jetzt-frisst-die-kosten-explosion-auch-noch-unsere-jobs-78900468.bild.html",
-      "image_title": "Hohe Energie-Preise: Jetzt frisst die Kosten-Explosion auch noch unsere Jobs"
-    },
-    {
-      "title": "Jörg Kubiessa als Heißer Kandidat : Neuer Polizeichef für Sachsen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/joerg-kubiessa-neuer-polizeichef-fuer-sachsen-79012152.bild.html",
-      "image_title": "Jörg Kubiessa als Kandidat: Neuer Polizeichef für Sachsen"
-    },
-    {
-      "title": "Aus dem Rollstuhl zu GNTM : Liselotte (66): „Mein linkes Bein ist zum Teil gelähmt“",
-      "teaser": "Mutig sei sie „nicht wegen des Alters, sondern wegen der körperlichen Anforderungen, die für alle gleich sind“",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/gntm-kandidatin-lieselotte-66-mein-linkes-bein-ist-zum-teil-gelaehmt-79009210.bild.html",
-      "image_title": "GNTM-Kandidatin Lieselotte (66): „Mein linkes Bein ist zum Teil gelähmt“"
-    },
-    {
-      "title": "Dynamo Dresden : Diese Verträge haben sich heimlich verlängert",
-      "teaser": "Bei Dynamo Dresden enden nach dieser Saison 15 Spielerverträge. Doch der Schein trügt.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/2-liga-diese-vertraege-haben-sich-bei-dynamo-dresden-heimlich-verlaengert-79008422.bild.html",
-      "image_title": "2. Liga: Diese Verträge haben sich bei Dynamo Dresden heimlich verlängert"
-    },
-    {
-      "title": "Vertrag auch für die 3. Liga? : GINCZEK »Völlig egal – wir steigen nicht ab!",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-daniel-ginczek-sicher-wir-steigen-nicht-ab-79011744.bild.html",
-      "image_title": "Fortuna Düsseldorf: Daniel Ginczek sicher: »Wir steigen nicht ab!"
-    },
-    {
-      "title": "Neu-Boss Jobst : „Ich möchte einer von WIR werden!”",
-      "teaser": "Der Beginn einer neuen Fortuna-Ära! Alexander Jobst (48) ist in Düsseldorf angetreten.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-alexander-jobst-moechte-einer-von-wir-werden-79012132.bild.html",
-      "image_title": "Fortuna Düsseldorf: Alexander Jobst: „Möchte einer von WIR werden!”"
-    },
-    {
-      "title": "Fortuna am Abgrund : Allofs träumt trotzdem vom Aufstieg",
-      "teaser": "Läuft es dumm, schmiert Fortuna Düsseldorf Dienstag auf einen Abstiegsplatz ab!",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-klaus-allofs-traeumt-weiter-vom-aufstieg-79013082.bild.html",
-      "image_title": "Fortuna Düsseldorf: Klaus Allofs träumt weiter vom Aufstieg"
-    },
-    {
-      "title": "241-Meter-Windräder in Reinhardswald : Märchenwald wird für Klimaschutz geopfert",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/241-meter-windraeder-maerchenwald-wird-fuer-klimaschutz-geopfert-79010176.bild.html",
-      "image_title": "241-Meter-Windräder: Märchenwald wird für Klimaschutz geopfert"
-    },
-    {
-      "title": "Corona : Hanau streicht 2G im Handel",
-      "teaser": "Nachdem einem Gerichtsentscheid streicht Hanau 2G im Groß- und Einzelhandel.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/corona-hanau-streicht-2g-im-handel-79016770.bild.html",
-      "image_title": "Corona: Hanau streicht 2G im Handel"
-    },
-    {
-      "title": "Polizisten-Doppelmord : Anwalt schiebt alle Schuld auf Andreas S. (38)",
-      "teaser": "Nach dem Mord an zwei Polizisten (24,29) äußert sich der Anwalt eines der Verdächtigen.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/polizisten-doppelmord-anwalt-schiebt-alle-schuld-auf-andreas-s-38-79010124.bild.html",
-      "image_title": "Polizisten-Doppelmord: Anwalt schiebt alle Schuld auf Andreas S. (38)"
-    },
-    {
-      "title": "Todes-Drama in Glinde : Mann (65) bleibt an Stacheldraht hängen und stirbt",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/todes-drama-in-glinde-mann-bleibt-an-stacheldraht-haengen-und-stirbt-79015114.bild.html",
-      "image_title": "Todes-Drama in Glinde: Mann bleibt an Stacheldraht hängen und stirbt"
-    },
-    {
-      "title": "Sturmflut : Hamburger Fischmarkt erneut unter Wasser",
-      "teaser": "In der Nacht zu Mittwoch wurde der berühmte Hamburger Fischmarkt schon wieder überflutet.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/sturmflut-hamburger-fischmarkt-erneut-unter-wasser-79014430.bild.html",
-      "image_title": "Sturmflut: Hamburger Fischmarkt erneut unter Wasser"
-    },
-    {
-      "title": "Hamburger Reederei : Sea Cloud Cruises soll verkauft werden",
-      "teaser": "Ein Stück Hamburger Seefahrtsgeschichte geht bald über den Großen Teich in die USA.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburger-reederei-sea-cloud-cruises-soll-verkauft-werden-79016180.bild.html",
-      "image_title": "Hamburger Reederei: Sea Cloud Cruises soll verkauft werden"
-    },
-    {
-      "title": "Heinz T. bekam vor 30 Jahren ein neues Organ : „Mein Herz tut fast weh vor Dankbarkeit“",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/heinz-t-bekam-neues-organ-mein-herz-tut-fast-weh-vor-dankbarkeit-79011784.bild.html",
-      "image_title": "Heinz T. bekam neues Organ: „Mein Herz tut fast weh vor Dankbarkeit“"
-    },
-    {
-      "title": "Inventur im Vogelpark : Marabu, wie groß bist Du?",
-      "teaser": "Noch bis 19. März müssen ALLE 4000 Vögel zur Inventur, werden gewogen, gemessen, gezählt.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/irre-inventur-im-vogelpark-marabu-wie-gross-bist-du-79005426.bild.html",
-      "image_title": "Irre Inventur im Vogelpark: Marabu, wie groß bist Du?"
-    },
-    {
-      "title": "Bei Hannovers U23 : Twumasi trainiert mit Ananas-Frisur",
-      "teaser": "Drei Wochen war Patrick Twumasi von Hannover 96 freigestellt. Jetzt trainiert er wieder.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-torjaeger-patrick-twumasi-trainiert-jetzt-bei-der-u23-79011674.bild.html",
-      "image_title": "Hannover 96: Torjäger Patrick Twumasi trainiert jetzt bei der U23"
-    },
-    {
-      "title": "Corona-Radar : Das sind die aktuellen Corona-Zahlen",
-      "url": "https://www.bild.de/ratgeber/2021/ratgeber/corona-zahlen-aktuell-rki-covid-19-inzidenz-neuinfektionen-intensivstationen-so-ist-die-lage-75899640.bild.html",
-      "image_title": "Corona in Deutschland: Aktuelle RKI-Zahlen – die Lage am Mittwochmorgen"
-    },
-    {
-      "title": "Disziplinarverfahren : Drei NRW-Lehrer unter Rechtsextremismus-Verdacht",
-      "teaser": "In NRW sind drei Lehrer in den Verdacht geraten, Rechtsextremisten zu sein.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/disziplinarverfahren-in-nrw-drei-lehrer-unter-rechtsextremismus-verdacht-79011038.bild.html",
-      "image_title": "Disziplinarverfahren in NRW: Drei Lehrer unter Rechtsextremismus-Verdacht"
-    },
-    {
-      "title": "Halal-Süßigkeiten : Das sind die Lecker-Trends",
-      "teaser": "Naschen wird immer gesünder. BILD hat auf der Kölner Süßwarenmesse (ISM) gekostet.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/suesswarenmesse-in-koeln-das-sind-die-lecker-trends-79010160.bild.html",
-      "image_title": "Süßwarenmesse in Köln: Das sind die Lecker-Trends"
-    },
-    {
-      "title": "Todes-Rätsel im Erfurter Zoo : Nashorn-Baby Tayo gestorben",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/todes-raetsel-im-zoo-nashorn-baby-tayo-gestorben-79016914.bild.html",
-      "image_title": "Zoo: Nashorn-Baby Tayo in Erfurt gestorben"
-    },
-    {
-      "title": "Abgänge, kein Neuer : Das Transferzeugnis der Leipziger",
-      "teaser": "Erstmals hat sich RB im Winter nicht verstärkt. Dafür gingen zwei Sommertransfers wieder.",
-      "url": "https://www.bild.de/sport/fussball/fussball/bundesliga-zwei-abgaenge-kein-neuer-das-transferzeugnis-von-leipzig-79016492.bild.html",
-      "image_title": "Bundesliga: Zwei Abgänge, kein Neuer! Das Transferzeugnis von Leipzig"
-    },
-    {
-      "title": "Connewitz-Überfall : JVA-Mann soll Mittäter bewacht haben",
-      "teaser": "Sechs Jahre nach dem sogenannten „Sturm auf Connewitz“ steht seit Dienstag Kersten H. (36) wegen Landfriedensbruchs vor dem Amtsgericht.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-jva-mann-soll-mittaeter-nach-connewitz-ueberfall-bewacht-haben-79015296.bild.html",
-      "image_title": "Leipzig: JVA-Mann soll Mittäter nach Connewitz-Überfall bewacht haben"
-    },
-    {
-      "title": "Polizei mit Großaufgebot : Corona-Protest im Nordosten reißt nicht ab",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/polizei-mit-grossaufgebot-corona-protest-im-nordosten-reisst-nicht-ab-79014518.bild.html",
-      "image_title": "Polizei mit Großaufgebot : Corona-Protest im Nordosten reißt nicht ab"
-    },
-    {
-      "title": "„Nadia“ wütete in Meck-Pomm : Sturmtief fällte 100 000 Bäume",
-      "teaser": "Das Sturmtief „Nadia“ hat in den Wäldern Mecklenburg-Vorpommerns deutlich mehr als 100 000 Bäume umgeworfen.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/nadia-sturmtief-faellte-100000-baeume-79003670.bild.html",
-      "image_title": "Nadia: Sturmtief fällte 100 000 Bäume"
-    },
-    {
-      "title": "Hansas neue Sturmhoffnung : Sikan schon im Sonder-Training",
-      "teaser": "Rostocks Offensiv-Zugang Danylo Sikan (Leihgabe aus Donezk) war Montag schon am Ball.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansas-neue-sturmhoffnung-sikan-schon-im-sonder-training-79000610.bild.html",
-      "image_title": "Hansas neue Sturmhoffnung: Sikan schon im Sonder-Training"
-    },
-    {
-      "title": "Polizei sucht die Täter : Geldautomat in Memmingen gesprengt",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/polizei-sucht-die-taeter-geldautomat-in-memmingen-gesprengt-79017908.bild.html",
-      "image_title": "Polizei sucht die Täter: Geldautomat in Memmingen gesprengt"
-    },
-    {
-      "title": "Strecken-Rätsel! : Geheimnis um Olympia- Abfahrt wird gelüftet",
-      "teaser": "Endlich wird das große Olympia-Geheimnis um die Abfahrts-Strecke gelüftet!",
-      "url": "https://www.bild.de/sport/olympia/olympia/olympia-2022-geheimnis-um-olympia-abfahrt-wird-gelueftet-79017702.bild.html",
-      "image_title": "Olympia 2022: Geheimnis um Olympia-Abfahrt wird gelüftet"
-    },
-    {
-      "title": "Nachrichten zu Covid-19 : Corona-News im Live-Ticker",
-      "teaser": "Die neuesten Informationen, Zahlen und Fakten zum Coronavirus. Der Live-Ticker von BILD!",
-      "url": "https://www.bild.de/news/inland/news-inland/corona-news-im-live-ticker-alle-nachrichten-zu-covid-19-77205864.bild.html",
-      "image_title": "Corona aktuell, News im Ticker: Nachrichten, Zahlen, Fakten zu Covid-19"
-    },
-    {
-      "title": "Zoll knackt Dealer-Netzwerk : Neun Crystal-Händler vor Gericht",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/zoll-knackt-dealer-netzwerk-neun-crystal-haendler-vor-gericht-79016966.bild.html",
-      "image_title": "Zoll knackt Dealer-Netzwerk: Neun Crystal-Händler vor Gericht"
-    },
-    {
-      "title": "Mit Blut an der Wange : Das sagte die Sexdate-Killerin direkt nach dem Mord",
-      "teaser": "Weitere verstörende Details zu Killerin Sarah M. (19): Das sagen Zeugen über sie.",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/bamberg-zeugen-sagen-vor-gericht-ueber-sex-date-killerin-sarah-m-aus-79007386.bild.html",
-      "image_title": "Bamberg: Das sagen Zeugen vor Gericht über Sex-Date-Killerin Sarah M. aus"
-    },
-    {
-      "title": "Unfall im Ostallgäu : Bus prallt gegen Baum: Fahrerin schwer verletzt",
-      "teaser": "Im Fahrzeug befanden sich während des Unfalls nur die Busfahrerin (25) und ein Junge (14)",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/unfall-im-ostallgaeu-bus-prallt-gegen-baum-fahrerin-25-schwer-verletzt-79010758.bild.html",
-      "image_title": "Unfall im Ostallgäu: Bus prallt gegen Baum: Fahrerin (25) schwer verletzt"
-    },
-    {
-      "title": "Auf einem Friedhof in Rietberg (NRW) : Vandalen verwüsten 60 Gräber",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/rietberg-vandalen-verwuesten-60-graeber-79017828.bild.html",
-      "image_title": "Rietberg: Vandalen verwüsten 60 Gräber"
-    },
-    {
-      "title": "Täter flüchten im Audi : Haus nach Automatensprengung evakuiert",
-      "teaser": "Im Vorraum einer Bank in Duisburg sollen drei Unbekannte den Automaten gesprengt haben.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/duisburg-haus-nach-automatensprengung-evakuiert-79017658.bild.html",
-      "image_title": "Duisburg: Haus nach Automatensprengung evakuiert"
-    },
-    {
-      "title": "Kampfsportler verletzt : Wer schoss hier über den Zaun?",
-      "teaser": "In Dinslaken wurde ein Mann niedergeschossen. Von der Tat tauchte jetzt ein Video auf.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/dinslaken-wer-schoss-ueber-den-zaun-auf-einen-kampfsportler-79012194.bild.html",
-      "image_title": "Dinslaken: Wer schoss über den Zaun auf einen Kampfsportler"
-    },
-    {
-      "title": "Corona im Saarland : Jetzt impfen die Apotheker",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/saarbruecken-corona-im-saarland-jetzt-impfen-die-apotheker-79016572.bild.html",
-      "image_title": "Saarbrücken: Corona im Saarland: Jetzt impfen die Apotheker"
-    },
-    {
-      "title": "Mama Melanie : Blutkrebs! Klinikum kämpft um Kollegin",
-      "teaser": "Melanie ist Mama von zwei Söhnen. Vor Kurzem bekam sie die Schockdiagnose AML – Blutkrebs!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/stammzellenspender-fuer-melanie-blutkrebs-klinikum-kaempft-um-kollegin-79014262.bild.html",
-      "image_title": "Stammzellenspender für Melanie: Blutkrebs! Klinikum kämpft um Kollegin"
-    },
-    {
-      "title": "Ältester Tabakladen : Mein Traum soll nicht verpuffen",
-      "teaser": "Deutschlands ältesten Tabakladen gibt’s seit 1874. Jetzt wird ein Nachfolger gesucht.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/deutschlands-aeltester-tabakladen-mein-traum-soll-nicht-verpuffen-79008226.bild.html",
-      "image_title": "Deutschlands ältester Tabakladen: Mein Traum soll nicht verpuffen"
-    },
-    {
-      "title": "Schon Samstag im Kader? : Bösel legt in Halle los",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-schon-samstag-im-kader-sebastian-boesel-legt-in-halle-los-79014666.bild.html",
-      "image_title": "3. Liga: Schon Samstag im Kader? – Sebastian Bösel legt in Halle los"
-    },
-    {
-      "title": "Untreue-Vorwürfe gegen Bürgermeister : Polizei durchsucht Rathaus in Halle",
-      "teaser": "Die Polizei hat in Halle die Diensträume des suspendierten Oberbürgermeisters und des amtierenden Bürgermeisters durchsucht.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/halle-untreue-vorwuerfe-gegen-buergermeister-polizei-durchsucht-rathaus-79010852.bild.html",
-      "image_title": "Halle: Untreue-Vorwürfe gegen Bürgermeister – Polizei durchsucht Rathaus"
-    },
-    {
-      "title": "Prozess nach Mordversuch : Rentnerin (68) auf Friedhof angezündet",
-      "teaser": "Der Bad Schmiedeberger war wegen versuchten heimtückischen Mordes angeklagt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/prozess-in-sachsen-anhalt-rentnerin-68-auf-friedhof-angezuendet-79012496.bild.html",
-      "image_title": "Prozess in Sachsen-Anhalt: Rentnerin (68) auf Friedhof angezündet"
-    },
-    {
-      "title": "Anklage wegen Mord : Mann soll Kind misshandelt haben, bis es starb",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/anklage-wegen-mord-mann-soll-kind-misshandelt-haben-bis-es-starb-79016744.bild.html",
-      "image_title": "Anklage wegen Mord: Mann soll Kind misshandelt haben, bis es starb"
-    },
-    {
-      "title": "Schwer verletzt : Autofahrerin fährt in Sattelzug",
-      "teaser": "Eine Autofahrerin ist in ein entgegenkommendes Fahrzeug gefahren.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/schwer-verletzt-autofahrerin-faehrt-bei-untermuenkheim-in-lastwagen-79016504.bild.html",
-      "image_title": "Schwer verletzt: Autofahrerin fährt bei Untermünkheim in Lastwagen"
-    },
-    {
-      "title": "Nur 75 Quadratmeter : Das ist Deutschlands kleinster IKEA",
-      "teaser": "Ravensburg – Auf nur 75 Quadratmetern eröffnet heute Deutschlands kleinster IKEA.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/nur-75-quadratmeter-das-ist-deutschlands-kleinster-ikea-79006314.bild.html",
-      "image_title": "Nur 75 Quadratmeter: Das ist Deutschlands kleinster IKEA"
-    },
-    {
-      "title": "Die ganze Wahrheit : Ex-Trainer Rost packt über Rot-Weiß Erfurt aus",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/fussball/die-ganze-wahrheit-ueber-rot-weiss-erfurt-ex-trainer-rost-packt-aus-79009342.bild.html",
-      "image_title": "Die ganze Wahrheit über Rot-Weiß Erfurt: Ex-Trainer Rost packt aus"
-    },
-    {
-      "title": "Erfurt : Polizeieinsatz im Friseursalon von Corona-Rebellin",
-      "teaser": "Bei der Corona-Rebellin (48) gilt „1G“. „Gesunder Menschenverstand“, sagt sie.",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/erfurt-polizeieinsatz-im-friseursalon-von-corona-rebellin-79011468.bild.html",
-      "image_title": "Erfurt: Polizeieinsatz im Friseursalon von Corona-Rebellin"
-    },
-    {
-      "title": "Nach Rathaus-Aus für Vogelhaus : Guck mal, Erfurt! So geht Taubenschutz",
-      "teaser": "Unter Thüringens Tauben-Freunden sorgt die Nachricht aus der Landeshauptstadt für Kopfschütteln.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/nach-rathaus-aus-fuer-vogelhaus-guck-mal-erfurt-so-geht-taubenschutz-79009688.bild.html",
-      "image_title": "Nach Rathaus-Aus für Vogelhaus: Guck mal, Erfurt! So geht Taubenschutz"
-    }
-  ]
+  "articles": []
 }
