@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-03T09:19:02",
+  "timestamp": "2022-02-03T10:20:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.505c3fcfef9dd81213b9",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.003c1814565f7e52c955",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
+    },
     {
       "title": "Eset Endpoint Antivirus",
       "url": "https://www.heise.de/news/Einige-Eset-Produkte-koennten-Angreifern-System-Rechte-verschaffen-6346867.html"
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-IBMs-Backup-Loesung-Spectrum-Protect-Plus-ist-loechrig-6345826.html"
     },
     {
-      "title": "Windows",
-      "url": "https://www.heise.de/news/Update-installieren-Beispiel-Exploit-fuehrt-Rechteausweitung-in-Windows-vor-6344703.html"
-    },
-    {
-      "title": "Einige Eset-Produkte könnten Angreifern System-Rechte verschaffen",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Windows-Schutzlösungen von Eset.",
-      "url": "https://www.heise.de/news/Einige-Eset-Produkte-koennten-Angreifern-System-Rechte-verschaffen-6346867.html"
+      "title": "Sicherheitsupdate: Google Chrome für Schadcode-Attacken anfällig",
+      "teaser": "Der Webbrowser Chrome ist in gegen verschiedene Angriffe abgesicherten Versionen für Linux, macOS und Windows erschienen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
     },
     {
       "title": "Sicherheitsupdate: IBMs Backup-Lösung Spectrum Protect Plus ist löchrig",
@@ -77,6 +77,12 @@
       "teaser": "Der Lieferant Oiltanking wurde Opfer einer Cyber-Attacke. Tankwagen können nicht beladen werden. An vielen Tankstellen im Norden gehe nichts mehr.",
       "url": "https://www.heise.de/news/Cyber-Angriff-legt-Logistikunternehmen-Oiltanking-lahm-6344979.html",
       "image_title": "Aufmacherbild Cyberangriff Oiltanking"
+    },
+    {
+      "title": "Microsoft Updates: Zu kurze Online-Zeit verhindert Installation",
+      "teaser": "Microsoft hat untersucht, warum manche Maschinen aktuell sind, andere hingegen nicht. Die Systeme sind einfach nicht lange genug online, so das Ergebnis.",
+      "url": "https://www.heise.de/news/Microsoft-Updates-Zu-kurze-Online-Zeit-verhindert-Installation-6344845.html",
+      "image_title": "Aufmacherbild Minimale Onlinezeit für verlässliches Update"
     },
     {
       "title": "Erstes IT-Sicherheitskennzeichen des BSI geht an mail.de",
@@ -155,12 +161,6 @@
       "title": "Microsoft kontert Rekord-DDoS-Attacke mit 3,47 Terabit auf Cloud-Plattform Azure",
       "teaser": "Einem Bericht zufolge kommen DDoS-Attacken nicht aus der Mode. Angreifer versuchen auf einem konstant hohen Niveau über das Jahr Online-Dienste lahmzulegen.",
       "url": "https://www.heise.de/news/Microsoft-kontert-Rekord-DDoS-Attacke-mit-3-47-Terabit-auf-Cloud-Plattform-Azure-6341800.html"
-    },
-    {
-      "title": "Jetzt deinstallieren: Zahlreiche Drupal-Erweiterungen nicht mehr unterstützt",
-      "teaser": "Da die Entwickler Sicherheitslücken in ihren Erweiterungen nicht geschlossen haben, setzt Drupal sie auf den Status \"unsupported\" und rät zur Deinstallation.",
-      "url": "https://www.heise.de/news/Jetzt-deinstallieren-Zahlreiche-Drupal-Erweiterungen-nicht-mehr-unterstuetzt-6341080.html",
-      "image_title": "Aufmacherbild Drupal-Erweiterungen deinstallieren"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
