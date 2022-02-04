@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-04T13:16:28",
+  "timestamp": "2022-02-04T14:15:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra XSS Zeroday",
+      "url": "https://www.heise.de/news/Gezielte-Angriffe-auf-Zero-Day-Luecke-in-Zimbra-6350138.html"
+    },
+    {
       "title": "Cisco-Router der RV-Serie",
       "url": "https://www.heise.de/news/Cisco-Router-Serie-mit-mehreren-kritischen-Luecken-6349844.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Einige-Eset-Produkte-koennten-Angreifern-System-Rechte-verschaffen-6346867.html"
     },
     {
-      "title": "Sicherheitslücken im UEFI-BIOS",
-      "url": "https://www.heise.de/news/Updates-notwendig-Sicherheitsluecken-im-UEFI-BIOS-erleichtern-Rootkitverankerung-6346108.html"
+      "title": "Gezielte Angriffe auf Zero-Day-Lücke in Zimbra",
+      "teaser": "Über eine bislang unbekannte Lücke in Zimbra stehlen Angreifer Mails ausgewählter Opfer, warnt eine Sicherheitsfirma. Einen Patch gibt es bislang nicht.",
+      "url": "https://www.heise.de/news/Gezielte-Angriffe-auf-Zero-Day-Luecke-in-Zimbra-6350138.html"
     },
     {
       "title": "Schwachstelle in GitOps-Tool: Argo CD über Path Traversal angreifbar",
@@ -63,14 +68,14 @@
       "url": "https://www.heise.de/news/Urteil-Bank-muss-Schaden-nach-Phishing-Angriff-nicht-voll-ersetzen-6349226.html"
     },
     {
-      "title": "Sicherheitsupdate: Google Chrome für Schadcode-Attacken anfällig",
-      "teaser": "Der Webbrowser Chrome ist in gegen verschiedene Angriffe abgesicherten Versionen für Linux, macOS und Windows erschienen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
-    },
-    {
       "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
       "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
       "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
+    },
+    {
+      "title": "Sicherheitsupdate: Google Chrome für Schadcode-Attacken anfällig",
+      "teaser": "Der Webbrowser Chrome ist in gegen verschiedene Angriffe abgesicherten Versionen für Linux, macOS und Windows erschienen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
     },
     {
       "title": "Sicherheitsupdate: IBMs Backup-Lösung Spectrum Protect Plus ist löchrig",
@@ -154,11 +159,6 @@
       "title": "Log4Shell: Eine Bestandsaufnahme",
       "teaser": "Nach der Panik wegen der größten Sicherheitslücke aller Zeiten blieb der große Knall aus. Kommt der noch oder haben wir das Gröbste überstanden?",
       "url": "https://www.heise.de/hintergrund/Log4Shell-Eine-Bestandsaufnahme-6342536.html"
-    },
-    {
-      "title": "Jetzt patchen oder zwangsgepatcht werden – QNAP verteilt ungefragt Updates",
-      "teaser": "QNAP hat sich offenbar für Zwangsupdates entschieden, da Deadbolt bereits mehr als 3600 QNAP-Netzwerkspeicher (NAS) befallen und verschlüsselt hat.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-oder-zwangsgepatcht-werden-QNAP-verteilt-ungefragt-Updates-6342465.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
