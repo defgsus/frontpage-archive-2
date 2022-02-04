@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-04T12:25:14",
+  "timestamp": "2022-02-04T13:16:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco-Router der RV-Serie",
+      "url": "https://www.heise.de/news/Cisco-Router-Serie-mit-mehreren-kritischen-Luecken-6349844.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Updates-notwendig-Sicherheitsluecken-im-UEFI-BIOS-erleichtern-Rootkitverankerung-6346108.html"
     },
     {
-      "title": "IBM Spectrum Protect Plus",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-IBMs-Backup-Loesung-Spectrum-Protect-Plus-ist-loechrig-6345826.html"
+      "title": "Schwachstelle in GitOps-Tool: Argo CD über Path Traversal angreifbar",
+      "teaser": "Angriffe mit manipulierten Helm-Charts ermöglichen Zugriff auf beliebige Verzeichnisse im Repository des Continuous-Delivery-Werkzeugs für Kubernetes.",
+      "url": "https://www.heise.de/news/Schwachstelle-in-GitOps-Tool-Argo-CD-ueber-Path-Traversal-angreifbar-6349810.html"
+    },
+    {
+      "title": "Cisco-Router-Serie mit mehreren kritischen Lücken",
+      "teaser": "Die bei kleineren und mittleren Unternehmen eingesetzten Router der RV-Serie weisen kritische Lücken auf. Es gibt Demo-Exploits und Cisco liefert Updates.",
+      "url": "https://www.heise.de/news/Cisco-Router-Serie-mit-mehreren-kritischen-Luecken-6349844.html"
     },
     {
       "title": "Gericht: Bank muss Schaden nach Phishing-Angriff nicht voll ersetzen",
@@ -58,6 +68,11 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
     },
     {
+      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
+      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
+    },
+    {
       "title": "Sicherheitsupdate: IBMs Backup-Lösung Spectrum Protect Plus ist löchrig",
       "teaser": "IBM hat mehrere Komponenten in Spectrum Protect Plus aktualisiert, um Attacken vorzubeugen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-IBMs-Backup-Loesung-Spectrum-Protect-Plus-ist-loechrig-6345826.html"
@@ -66,11 +81,6 @@
       "title": "Israel: Spyware-Dementi der Polizei voreilig, neue Vorwürfe gegen NSO Group",
       "teaser": "In Israel hat die Polizei wohl doch illegal Spyware genutzt. Außerdem soll die NSO Group einer US-Firma \"Taschen voll Bargeld\" für Spionagehilfe geboten haben.",
       "url": "https://www.heise.de/news/Israel-Spyware-Dementi-der-Polizei-voreilig-neue-Vorwuerfe-gegen-NSO-Group-6345557.html"
-    },
-    {
-      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
-      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
     },
     {
       "title": "Browser-Fingerprinting: PCs, Smartphones & Co. lassen sich über die GPU tracken",
@@ -149,18 +159,6 @@
       "title": "Jetzt patchen oder zwangsgepatcht werden – QNAP verteilt ungefragt Updates",
       "teaser": "QNAP hat sich offenbar für Zwangsupdates entschieden, da Deadbolt bereits mehr als 3600 QNAP-Netzwerkspeicher (NAS) befallen und verschlüsselt hat.",
       "url": "https://www.heise.de/news/Jetzt-patchen-oder-zwangsgepatcht-werden-QNAP-verteilt-ungefragt-Updates-6342465.html"
-    },
-    {
-      "title": "My 2022: Experte erhebt Spionagevorwürfe gegen Chinas Olympia-App",
-      "teaser": "Ein Sicherheitsforscher erhebt schwere Vorwürfe gegen My2022, die offizielle App für alle Teilnehmer der Winterspiele in Beijing: Die App soll Nutzer abhören.",
-      "url": "https://www.heise.de/news/My-2022-Experte-erhebt-Spionagevorwuerfe-gegen-Chinas-Olympia-App-6342124.html",
-      "image_title": "Aufmacherbild MY2022 unbelegte Spionagevorwürfe"
-    },
-    {
-      "title": "XML-Parser Expat ermöglicht Angreifern Einschleusen von Schadcode",
-      "teaser": "Eine Sicherheitslücke in der Expat-Bibliothek zur Verarbeitung von XML könnten Angreifer nutzen, um in verwundbare Systeme einzudringen.",
-      "url": "https://www.heise.de/news/XML-Parser-Expat-ermoeglicht-Angreifern-Einschleusen-von-Schadcode-6341560.html",
-      "image_title": "Aufmacherbild Sicherheitslücke in Expat"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
