@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-07T06:23:09",
+  "timestamp": "2022-02-07T07:17:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,16 +48,6 @@
       "url": "https://www.heise.de/news/Einige-Eset-Produkte-koennten-Angreifern-System-Rechte-verschaffen-6346867.html"
     },
     {
-      "title": "FOSDEM: Clevere Netzwerktunnel mit RPort",
-      "teaser": "Keine leichte Aufgabe, Clients hinter Firewalls und NAT zur Fernwartung erreichbar zu halten. Zur FOSDEM 22 zeigt RPort eine Lösung per Reverse Tunnel.",
-      "url": "https://www.heise.de/news/FOSDEM-Clevere-Netzwerktunnel-mit-RPort-6351196.html"
-    },
-    {
-      "title": "Sicherheitsanalyse mit MobSF: Mobilen Anwendungen effizient auf den Zahn fühlen",
-      "teaser": "Das Mobile Security Framework hilft, Schadcode und Sicherheitsmängel in Android-, iOS- & Windows-Apps aufzuspüren. Unser Praxisartikel erklärt den Einstieg.",
-      "url": "https://www.heise.de/ratgeber/Sicherheitsanalyse-mit-MobSF-Mobilen-Anwendungen-effizient-auf-den-Zahn-fuehlen-6344062.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
-    },
-    {
       "title": "News Corp.: Cyberangriff auf Medienkonzern vermutlich aus China",
       "teaser": "Der New Yorker Verlag, der unter anderem das \"Wall Street Journal\" herausbringt, wurde angegriffen. Sicherheitsexperten vermuten dahinter China.",
       "url": "https://www.heise.de/news/News-Corp-Cyberangriff-auf-Medienkonzern-vermutlich-aus-China-6350413.html"
@@ -68,11 +58,6 @@
       "url": "https://www.heise.de/news/Hardware-Sicherheitsluecken-Intel-schloss-2021-mehr-als-200-Schlupfloecher-6350278.html"
     },
     {
-      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
-      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
-    },
-    {
       "title": "Gezielte Angriffe auf Zero-Day-Lücke in Zimbra",
       "teaser": "Über eine bislang unbekannte Lücke in Zimbra stehlen Angreifer Mails ausgewählter Opfer, warnt eine Sicherheitsfirma. Einen Patch gibt es bislang nicht.",
       "url": "https://www.heise.de/news/Gezielte-Angriffe-auf-Zero-Day-Luecke-in-Zimbra-6350138.html"
@@ -81,6 +66,11 @@
       "title": "Schwachstelle in GitOps-Tool: Argo CD über Path Traversal angreifbar",
       "teaser": "Angriffe mit manipulierten Helm-Charts ermöglichen Zugriff auf beliebige Verzeichnisse im Repository des Continuous-Delivery-Werkzeugs für Kubernetes.",
       "url": "https://www.heise.de/news/Schwachstelle-in-GitOps-Tool-Argo-CD-ueber-Path-Traversal-angreifbar-6349810.html"
+    },
+    {
+      "title": "Mit der Schlange in die Produktion: Python für (I)IoT-Anwendungen",
+      "teaser": "Als beliebte Programmiersprache hat Python Nachteile beim Datenbankzugriff und bei der Performance. Abhilfe versprechen Tools, die Python näher an die Daten selbst heranrücken. Genau darüber geht ein Webcast am 10. Februar.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/mit-der-schlange-in-die-produktion-python-fuer-iiot-anwendungen-4203/?source=nat-teaser"
     },
     {
       "title": "Cisco-Router-Serie mit mehreren kritischen Lücken",
@@ -96,6 +86,16 @@
       "title": "Sicherheitsupdate: Google Chrome für Schadcode-Attacken anfällig",
       "teaser": "Der Webbrowser Chrome ist in gegen verschiedene Angriffe abgesicherten Versionen für Linux, macOS und Windows erschienen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Google-Chrome-fuer-Schadcode-Attacken-anfaellig-6346916.html"
+    },
+    {
+      "title": "Einige Eset-Produkte könnten Angreifern System-Rechte verschaffen",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Windows-Schutzlösungen von Eset.",
+      "url": "https://www.heise.de/news/Einige-Eset-Produkte-koennten-Angreifern-System-Rechte-verschaffen-6346867.html"
+    },
+    {
+      "title": "Updates notwendig: Sicherheitslücken im UEFI-BIOS erleichtern Rootkitverankerung",
+      "teaser": "Zahlreiche Bugs in UEFI-BIOS-Versionen der Firma Insyde H2O betreffen auch große PC-Hersteller. Sie erleichtern gezielte Angriffe auf Desktop-PCs und Notebooks.",
+      "url": "https://www.heise.de/news/Updates-notwendig-Sicherheitsluecken-im-UEFI-BIOS-erleichtern-Rootkitverankerung-6346108.html"
     },
     {
       "title": "Sicherheitsupdate: IBMs Backup-Lösung Spectrum Protect Plus ist löchrig",
