@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-08T11:16:56",
+  "timestamp": "2022-02-08T12:32:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,10 +32,35 @@
   ],
   "articles": [
     {
+      "title": "Patchday Kritische System-Lücke lässt Angreifer auf Android-Geräte",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für Android 10, 11, 12 und verschiedene Komponenten des Systems.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecke-laesst-Angreifer-auf-Android-Geraete-6355256.html"
+    },
+    {
+      "title": "Jetzt offiziell Nvidia bläst ARM-Übernahme mit Milliardenverlust ab",
+      "teaser": "Der Behördendruck wurde offensichtlich zu stark: ARM wird nicht Teil von Nvidia und geht stattdessen bis Anfang 2023 an die Börse.",
+      "url": "https://www.heise.de/news/Bestaetigt-Nvidia-blaest-ARM-Uebernahme-mit-Milliardenverlust-ab-6355481.html"
+    },
+    {
+      "title": "Kommentar Facebook und Whatsapp raus aus Europa – warum nicht?",
+      "teaser": "Meta warnt, es könne vielleicht demnächst in Europa nicht mehr so weiterwurschteln wie bisher. Es zeigt auch, dass bisher einiges falsch gelaufen ist.",
+      "url": "https://www.heise.de/meinung/Kommentar-Facebook-und-Whatsapp-raus-aus-Europa-warum-nicht-6355713.html"
+    },
+    {
+      "title": "Datentransfer Meta warnt vor Aus für Facebook und Instagram in der EU",
+      "teaser": "Der US-Konzern warnt in seinem Jahresbericht vor möglichen Konsequenzen, sollten die Verhandlungen über den Datentransfer in die USA keine Früchte tragen.",
+      "url": "https://www.heise.de/news/Meta-Ohne-Datentransfer-muessten-wir-Facebook-und-Instagram-in-der-EU-abschalten-6351818.html"
+    },
+    {
       "title": "Microsoft Office soll VBA-Makros standardmäßig blockieren",
-      "teaser": "Microsoft plant, VBA-Makros standardmäßig in einer Reihe von Office-Anwendungen zu blockieren und vor einer Freigabe zu warnen. Der Schritt ist längst überfällig.",
+      "teaser": "Microsoft plant, VBA-Makros standardmäßig in einer Reihe von Office-Anwendungen zu blockieren. Der Schritt ist längst überfällig.",
       "url": "https://www.heise.de/news/Microsoft-will-Office-VBA-Makros-standardmaessig-blockieren-6353429.html",
       "image_title": "Microsoft-Firmenlogo an Grundstückseingang"
+    },
+    {
+      "title": "Komplexe Mac-Malware Safari Admin-Rechte werden im Vorbeisurfen abgegriffen",
+      "teaser": "Der \"DazzleSpy\" genannte Schädling kann Macs fernsteuern und alle Daten absaugen. Er nutzt dazu eine komplizierte Exploit Chain.",
+      "url": "https://www.heise.de/news/Komplexe-Mac-Malware-holt-sich-per-Safari-Admin-Rechte-im-Vorbeisurfen-6339054.html"
     },
     {
       "title": "Fairness und Künstliche Intelligenz Warum Metriken alleine nicht ausreichen",
@@ -44,32 +69,10 @@
       "image_title": "Artificial,Intelligence,Abstract,Face,Created,By,Neural,Network,Machine,Learning"
     },
     {
-      "title": "Datentransfer Meta warnt vor Aus für Facebook und Instagram in der EU",
-      "teaser": "Der US-Konzern warnt in seinem Jahresbericht vor möglichen Konsequenzen, sollten die Verhandlungen über den Datentransfer in die USA keine Früchte tragen.",
-      "url": "https://www.heise.de/news/Meta-Ohne-Datentransfer-muessten-wir-Facebook-und-Instagram-in-der-EU-abschalten-6351818.html"
-    },
-    {
-      "title": "Rekord Abermillionen Grafikkarten schürfen die Kryptowährung Ethereum",
-      "teaser": "Grafikkarten könnten teuer bleiben: Das Ethereum-Rechennetz kommt erstmals auf über 1 Petahash pro Sekunde, wofür Dutzende Millionen Grafikkarten rechnen.",
-      "url": "https://www.heise.de/hintergrund/Rekord-Abermillionen-Grafikkarten-schuerfen-die-Kryptowaehrung-Ethereum-6351753.html",
-      "image_title": "Ethereum,Mining.,Using,Powerful,Video,Cards,To,Mine,And,Earn"
-    },
-    {
-      "title": "Auskunftei Schufa Kartellamt hat keine Bedenken gegen potenzielle Übernahme durch Investor",
-      "teaser": "Der Finanzinvestor EQT darf die Wirtschaftsauskunftei Schufa übernehmen, wenn es nach den Kartellwächtern geht. Auch eine Alternative geben sie frei.",
-      "url": "https://www.heise.de/news/Auskunftei-Bundeskartellamt-hat-keine-Bedenken-gegen-potenzielle-Uebernahme-6352214.html"
-    },
-    {
-      "title": "Plug-in-Hybrid im Test BMW 520e – Basismodell mit geringem Spareffekt",
-      "teaser": "Von drei PHEV im 5er ist der 520e der am wenigsten teure. Er spart nur beim Kauf, nicht beim Unterhalt. Ein angenehmes Basismodell, wenn sparen unnötig ist.",
-      "url": "https://www.heise.de/tests/Im-Test-Plug-in-Hybrid-BMW-520e-Basismodell-mit-geringem-Spareffekt-6345168.html",
-      "image_title": "BMW 520e"
-    },
-    {
-      "title": "Startschuss fürs Startup Wie Sie aus einer Idee ein Unternehmen machen",
-      "teaser": "In 12 Schritten geht es von der Idee über Team, Tools, Geschäftsmodell und Geld in Richtung Erfolg. Ein ausführlicher Guide für angehende Gründer.",
-      "url": "https://www.heise.de/ratgeber/Startschuss-fuers-Startup-Wie-Sie-aus-einer-Idee-ein-Unternehmen-machen-6348487.html?wt_mc=intern.red.plus.topteaser.startseite.teaser.teaser",
-      "image_title": ", Bild: Tumisu / Pixabay"
+      "title": "Programmieren mit Python Follow-Me-Drohne selbst programmieren",
+      "teaser": "Anstatt Ihre Drohne mit der Fernbedienung zu kontrollieren, können Sie ganz einfach dank eines Python-Scripts eine intelligente Follow-Me-Drohne programmieren.",
+      "url": "https://www.heise.de/ratgeber/Follow-Me-Drohne-mit-Python-selbst-programmieren-6325424.html?wt_mc=intern.red.plus.topteaser.startseite.teaser.teaser",
+      "image_title": "Kameradrohne im Flug, von vorne fotografiert."
     },
     {
       "title": "Kryptobörse geprüft Geld vermehren mit Crypto.com",
@@ -78,15 +81,16 @@
       "image_title": "Kaufbeuren,,Germany,-,October,02,,2021.,Crypto.com,Company,Logo,On"
     },
     {
-      "title": "Programmieren mit Python Follow-Me-Drohne selbst programmieren",
-      "teaser": "Anstatt Ihre Drohne mit der Fernbedienung zu kontrollieren, können Sie ganz einfach dank eines Python-Scripts eine intelligente Follow-Me-Drohne programmieren.",
-      "url": "https://www.heise.de/ratgeber/Follow-Me-Drohne-mit-Python-selbst-programmieren-6325424.html?wt_mc=intern.red.plus.topteaser.startseite.teaser.teaser",
-      "image_title": "Kameradrohne im Flug, von vorne fotografiert."
+      "title": "Startschuss fürs Startup Wie Sie aus einer Idee ein Unternehmen machen",
+      "teaser": "In 12 Schritten geht es von der Idee über Team, Tools, Geschäftsmodell und Geld in Richtung Erfolg. Ein ausführlicher Guide für angehende Gründer.",
+      "url": "https://www.heise.de/ratgeber/Startschuss-fuers-Startup-Wie-Sie-aus-einer-Idee-ein-Unternehmen-machen-6348487.html?wt_mc=intern.red.plus.topteaser.startseite.teaser.teaser",
+      "image_title": ", Bild: Tumisu / Pixabay"
     },
     {
-      "title": "Möglicher Strommangel Schweizer AKW-Betreiber für massiven Ausbau der Photovoltaik",
-      "teaser": "Der Schweiz könnte in Zukunft ein Strommangel drohen. Die Atomkraft sieht der Chef des Energiekonzerns Axpo aber trotzdem nicht als Lösung an.",
-      "url": "https://www.heise.de/news/Schweizer-AKW-Betreiber-fuer-massiven-Ausbau-der-Photovoltaik-6352090.html"
+      "title": "Plug-in-Hybrid im Test BMW 520e – Basismodell mit geringem Spareffekt",
+      "teaser": "Von drei PHEV im 5er ist der 520e der am wenigsten teure. Er spart nur beim Kauf, nicht beim Unterhalt. Ein angenehmes Basismodell, wenn sparen unnötig ist.",
+      "url": "https://www.heise.de/tests/Im-Test-Plug-in-Hybrid-BMW-520e-Basismodell-mit-geringem-Spareffekt-6345168.html",
+      "image_title": "BMW 520e"
     },
     {
       "title": "Missing Link Urknalltheorie – wie ein Priester die Kosmologie revolutionierte",
@@ -96,6 +100,27 @@
     {
       "title": "Über 30% Rabatt - Nur für kurze Zeit",
       "url": "https://shop.heise.de/mc-31495-mc000008?LPID=31495_MC000008_20057_3_57&wt_mc=intern.abo.mac-and-i.mc_0122.ho.oa.oa"
+    },
+    {
+      "title": "Leitfaden für die Cloud-Transformation im Unternehmen",
+      "teaser": "Der Weg in die Cloud sollte gut geplant werden. Eine Cloud Transformation Roadmap unterstützt Unternehmen beim Planen und Realisieren ihrer Cloud-Infrastruktur.",
+      "url": "https://www.heise.de/hintergrund/Leitfaden-fuer-die-Cloud-Transformation-im-Unternehmen-6330483.html"
+    },
+    {
+      "title": "Slackware 15.0: Modellpflege nach langer Pause beim Linux-Urgestein",
+      "teaser": "Nach zehn Jahren ist wieder eine Hauptversion von Slackware erschienen. Version 15.0 des Linux-Veteranen widmet sich hauptsächlich der Versionspflege.",
+      "url": "https://www.heise.de/news/Slackware-15-0-Modellpflege-nach-langer-Pause-beim-Linux-Urgestein-6355921.html",
+      "image_title": "Linux Kernel 5.1"
+    },
+    {
+      "title": "Agile Infrastruktur in der Cloud erfordert besondere Sicherheit",
+      "teaser": "Die Nutzung der Cloud hat viele Vorteile, stellt Unternehmen in punkto Sicherheit aber vor neue Herausforderungen. Im Webcast am 27.1.2022 um 11:00 Uhr erfahren Sie, wie Sie Ihre Umgebung in der Cloud durch den gesamten Entwicklungsprozess absichern können.",
+      "url": "https://business-services.heise.de/it-management/cloud-computing/beitrag/agile-infrastruktur-in-der-cloud-erfordert-besondere-sicherheit-4192/?source=native"
+    },
+    {
+      "title": "Perseverance-Bodenproben : NASA bestellt Rakete für Abtransport vom Mars",
+      "teaser": "Vor Ende des Jahrzehnts sollen gleich mehrere Raumfahrzeuge die ersten Bodenproben vom Mars zur Erde bringen. Eine Rakete wurde jetzt in Auftrag gegeben.",
+      "url": "https://www.heise.de/news/Perseverance-Bodenproben-NASA-bestellt-Rakete-fuer-Transport-vom-Mars-zur-Erde-6355685.html"
     },
     {
       "title": "Viel Arbeit für den digitalen Hausmeister",
@@ -108,12 +133,7 @@
       "url": "https://www.heise.de/meinung/Kommentar-Facebook-und-Whatsapp-raus-aus-Europa-warum-nicht-6355713.html"
     },
     {
-      "title": "Agile Infrastruktur in der Cloud erfordert besondere Sicherheit",
-      "teaser": "Die Nutzung der Cloud hat viele Vorteile, stellt Unternehmen in punkto Sicherheit aber vor neue Herausforderungen. Im Webcast am 27.1.2022 um 11:00 Uhr erfahren Sie, wie Sie Ihre Umgebung in der Cloud durch den gesamten Entwicklungsprozess absichern können.",
-      "url": "https://business-services.heise.de/it-management/cloud-computing/beitrag/agile-infrastruktur-in-der-cloud-erfordert-besondere-sicherheit-4192/?source=native"
-    },
-    {
-      "title": "AlertPatchday: Kritische System-Lücke lässt Angreifer auf Android-Geräte",
+      "title": "AlertUpdatePatchday: Kritische System-Lücke lässt Angreifer auf Android-Geräte",
       "teaser": "Es gibt wichtige Sicherheitsupdates für Android 10, 11, 12 und verschiedene Komponenten des Systems.",
       "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecke-laesst-Angreifer-auf-Android-Geraete-6355256.html"
     },
@@ -129,6 +149,27 @@
       "url": "https://www.heise.de/news/Epic-Games-Fortnite-wird-nicht-fuers-Steam-Deck-portiert-6355456.html"
     },
     {
+      "title": "Leitfaden für die Cloud-Transformation im Unternehmen",
+      "teaser": "Leitfaden für die Cloud-Transformation im Unternehmenheise_plus_positiviX Magazin",
+      "url": "https://www.heise.de/hintergrund/Leitfaden-fuer-die-Cloud-Transformation-im-Unternehmen-6330483.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Workshop: Datenbanken verwalten und benutzen mit SQL",
+      "teaser": "Workshop: Datenbanken verwalten und benutzen mit SQLheise_plus_positiv2Mac & i",
+      "url": "https://www.heise.de/ratgeber/Workshop-Datenbanken-verwalten-und-benutzen-mit-SQL-6352704.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ", Grafik: elenabsl – shutterstock"
+    },
+    {
+      "title": "Craft: Notiz- und Informationsmanager für Apple-Systeme im Test",
+      "teaser": "Craft: Notiz- und Informationsmanager für Apple-Systeme im Testheise_plus_positivc't Magazin",
+      "url": "https://www.heise.de/tests/Craft-Notiz-und-Informationsmanager-fuer-Apple-Systeme-im-Test-6343625.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "heise+ feiert 3. Geburtstag",
+      "teaser": "heise+ wird 3 Jahre! Wir freuen uns sehr darüber und möchten Ihnen ein exklusives Geburtstags-Angebot unterbreiten. Das Angebot gilt nur für kurze Zeit! Lesen Sie die nächsten drei Monate heise+ für nur 3 € mtl. und sparen Sie fast 10 € pro Monat gegenüber dem regulären Preis von 12,95 €!.",
+      "url": "https://shop.heise.de/heise+/geburtstag?affiliateId=31490_HP000047_20103_999_0&wt_mc=intern.abo.plus.hp_3geburtstag.ho-advt.ad.v1"
+    },
+    {
       "title": "Nach Kritik: US-Steuerbehörde verzichtet auf Gesichtserkennung für Onlinedienste",
       "teaser": "Um Dienstleistungen des IRS online nutzen zu können, war zuletzt eine Identifizierung per Gesichtserkennung nötig. Davon nimmt die Behörde nun Abstand.",
       "url": "https://www.heise.de/news/Nach-Kritik-US-Steuerbehoerde-verzichtet-auf-Gesichtserkennung-fuer-Onlinedienste-6355346.html"
@@ -142,28 +183,6 @@
       "title": "secIT 2022: \"IT-Security ist so wichtig wie noch nie\"",
       "teaser": "Attackieren Angreifer Firmen-PCs, ist schnelles Handeln gefragt. Die Referenten der Security-Konferenz secIT haben die richtigen Vorgehensweisen parat.",
       "url": "https://www.heise.de/news/secIT-2022-IT-Security-ist-so-wichtig-wie-noch-nie-6351584.html"
-    },
-    {
-      "title": "Workshop: Datenbanken verwalten und benutzen mit SQL",
-      "teaser": "Workshop: Datenbanken verwalten und benutzen mit SQLheise_plus_positiv1Mac & i",
-      "url": "https://www.heise.de/ratgeber/Workshop-Datenbanken-verwalten-und-benutzen-mit-SQL-6352704.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ", Grafik: elenabsl – shutterstock"
-    },
-    {
-      "title": "Craft: Notiz- und Informationsmanager für Apple-Systeme im Test",
-      "teaser": "Craft: Notiz- und Informationsmanager für Apple-Systeme im Testheise_plus_positivc't Magazin",
-      "url": "https://www.heise.de/tests/Craft-Notiz-und-Informationsmanager-fuer-Apple-Systeme-im-Test-6343625.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Anleitung: Flexible Platinen drucken und galvanisieren",
-      "teaser": "Anleitung: Flexible Platinen drucken und galvanisierenheise_plus_positivMake Magazin",
-      "url": "https://www.heise.de/ratgeber/Anleitung-Flexible-Platinen-drucken-und-galvanisieren-6338409.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": "3D-gedruckter Makey mit zwei flexiblen Platinen."
-    },
-    {
-      "title": "heise+ feiert 3. Geburtstag",
-      "teaser": "heise+ wird 3 Jahre! Wir freuen uns sehr darüber und möchten Ihnen ein exklusives Geburtstags-Angebot unterbreiten. Das Angebot gilt nur für kurze Zeit! Lesen Sie die nächsten drei Monate heise+ für nur 3 € mtl. und sparen Sie fast 10 € pro Monat gegenüber dem regulären Preis von 12,95 €!.",
-      "url": "https://shop.heise.de/heise+/geburtstag?affiliateId=31490_HP000047_20103_999_0&wt_mc=intern.abo.plus.hp_3geburtstag.ho-advt.ad.v1"
     },
     {
       "title": "Werkstattberichte: Neues aus den Fablabs und der Makerszene",
@@ -208,23 +227,6 @@
       "url": "https://www.heise.de/news/CDU-Chef-Merz-Wir-sollten-vorurteilsfrei-ueber-neue-Kernenergie-nachdenken-6354956.html"
     },
     {
-      "title": "Malware-Schutz: Google Cloud erhält Crypto-Miner-Erkennung",
-      "teaser": "Nach Einbrüchen in Cloud-Dienste schürfen die Cyberkriminellen dort oftmals Kryptowährungen. Google ergänzt in seiner Cloud nun Crypto-Miner-Erkennung.",
-      "url": "https://www.heise.de/news/Malware-Schutz-Google-Cloud-erhaelt-Crypto-Miner-Erkennung-6354930.html",
-      "image_title": "Aufmacherbild Google Cloud Crypto-Miner-Erkennung"
-    },
-    {
-      "title": "Biden: Russische Ukraine-Invasion wäre Aus für Nord Stream 2",
-      "teaser": "Die Pipeline war von jeher umstritten, aber in Falle einer russischen Ukraine-Invasion könnte ihr nun wirklich das Aus drohen.",
-      "url": "https://www.heise.de/news/Biden-Russische-Ukraine-Invasion-waere-Aus-fuer-Nord-Stream-2-6355004.html"
-    },
-    {
-      "title": "Fairness und Künstliche Intelligenz: Warum Metriken nicht ausreichen",
-      "teaser": "Klassisches Software-Testing lässt sich nicht ohne Weiteres auf KI übertragen. Model Governance und interne Audits sind nötig, um Fairness zu gewährleisten.",
-      "url": "https://www.heise.de/hintergrund/Fairness-und-Kuenstliche-Intelligenz-Warum-Metriken-nicht-ausreichen-6352125.html",
-      "image_title": "Artificial,Intelligence,Abstract,Face,Created,By,Neural,Network,Machine,Learning"
-    },
-    {
       "title": "Digitalisierung: Wie Deutschland den Aufbruch schaffen könnte",
       "teaser": "Die Digitalisierung des Landes ist dringend notwendig – und schleppt sich doch nur so dahin. Dabei gibt es Elan und Ideen. Doch reicht das?",
       "url": "https://www.heise.de/hintergrund/Mehr-Digitalisierung-wagen-6337807.html",
@@ -240,6 +242,23 @@
       "title": "Digitalisierung in der Schule: Warum iPads allein nicht reichen",
       "teaser": "In der Pandemie wurde an Schulen digital aufgerüstet, auch ist viel Geld in verschiedene Schulclouds geflossen. Doch Experten mahnen: Die Strategie fehlt.",
       "url": "https://www.heise.de/hintergrund/iPads-allein-reichen-nicht-6337815.html"
+    },
+    {
+      "title": "Malware-Schutz: Google Cloud erhält Crypto-Miner-Erkennung",
+      "teaser": "Nach Einbrüchen in Cloud-Dienste schürfen die Cyberkriminellen dort oftmals Kryptowährungen. Google ergänzt in seiner Cloud nun Crypto-Miner-Erkennung.",
+      "url": "https://www.heise.de/news/Malware-Schutz-Google-Cloud-erhaelt-Crypto-Miner-Erkennung-6354930.html",
+      "image_title": "Aufmacherbild Google Cloud Crypto-Miner-Erkennung"
+    },
+    {
+      "title": "Biden: Russische Ukraine-Invasion wäre Aus für Nord Stream 2",
+      "teaser": "Die Pipeline war von jeher umstritten, aber in Falle einer russischen Ukraine-Invasion könnte ihr nun wirklich das Aus drohen.",
+      "url": "https://www.heise.de/news/Biden-Russische-Ukraine-Invasion-waere-Aus-fuer-Nord-Stream-2-6355004.html"
+    },
+    {
+      "title": "Fairness und Künstliche Intelligenz: Warum Metriken nicht ausreichen",
+      "teaser": "Klassisches Software-Testing lässt sich nicht ohne Weiteres auf KI übertragen. Model Governance und interne Audits sind nötig, um Fairness zu gewährleisten.",
+      "url": "https://www.heise.de/hintergrund/Fairness-und-Kuenstliche-Intelligenz-Warum-Metriken-nicht-ausreichen-6352125.html",
+      "image_title": "Artificial,Intelligence,Abstract,Face,Created,By,Neural,Network,Machine,Learning"
     },
     {
       "title": "TechStage Deals-Check: Carbon-Smartphone mit 42 Prozent Rabatt, 50 Zoll TV für 369 Euro",
@@ -265,22 +284,6 @@
       "title": "Amazon will in Kaiserslautern Logistikzentrum mit 1000 Jobs eröffnen",
       "teaser": "Durch den Einsatz von Transportrobotern könne mittlerweile kompakter gebaut werden.",
       "url": "https://www.heise.de/news/Amazon-will-in-Kaiserslautern-Logistikzentrum-mit-1000-Jobs-eroeffnen-6354783.html"
-    },
-    {
-      "title": "Dank Elektroden am Rückenmark: Querschnittsgelähmte können wieder laufen",
-      "teaser": "Eine elektrische Stimulation des Rückenmarks lässt drei Querschnittsgelähmte wieder gehen, schwimmen, Rad und Kanu fahren.",
-      "url": "https://www.heise.de/hintergrund/Dank-Elektroden-am-Rueckenmark-Querschnittsgelaehmte-koennen-wieder-laufen-6352846.html"
-    },
-    {
-      "title": "Dienstag: Meta macht Druck auf Verhandler, Metaverse gegen virtuelle Belästigung",
-      "teaser": "Facebook & Instagram in EU gefährdet + Neue Sicherheitsfunktion im Metaverse + Feinkalibrierung von Weltraumteleskop + AKW-Betreiber für Photovoltaik",
-      "url": "https://www.heise.de/news/Dienstag-Meta-macht-Druck-auf-Verhandler-Facebook-gegen-virtuelle-Belaestigung-6353955.html",
-      "image_title": "Meta-Logo, dazu Text: DIENSTAG Meta-Warnung, Facebook-Sicherheitsfunktion, Ethereum-Mining, Weltraumteleskop & Photovoltaik"
-    },
-    {
-      "title": "TV-Trends 2022: Erweiterungen für HDMI, Filmmaker Mode und Dolby Vision IQ",
-      "teaser": "Bei Fernsehern geht es auch darum, das letzte Quäntchen Bildqualität herauszuquetschen. Um dies zu erreichen, werden verschiedene Strategien verfolgt.",
-      "url": "https://www.heise.de/news/TV-Trends-2022-Erweiterungen-fuer-HDMI-Filmmaker-Mode-und-Dolby-Vision-IQ-6335403.html"
     },
     {
       "title": "Solardächer über Autobahnen: Deutschland plant Pilotprojekt noch in diesem Jahr",
