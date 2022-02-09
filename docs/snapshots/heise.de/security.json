@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-09T13:21:46",
+  "timestamp": "2022-02-09T14:17:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google: So effektiv wirkt Zwei-Faktor-Authentifizierung gegen Account-Übernahme",
+      "url": "https://www.heise.de/news/Google-So-effektiv-wirkt-Zwei-Faktor-Authentifizierung-gegen-Account-Uebernahme-6363247.html"
+    },
+    {
       "title": "Firefox und Thunderbird",
       "url": "https://www.heise.de/news/Ausfuehren-von-Schadcode-denkbar-Sicherheitsupdates-fuer-Firefox-und-Thunderbird-6360477.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-koennten-eine-Kernel-Luecke-in-Windows-ausnutzen-6360267.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-Luecken-in-SAP-Produkten-ermoeglichen-Codeschmuggel-6356776.html"
+      "title": "Google: So effektiv wirkt Zwei-Faktor-Authentifizierung gegen Account-Übernahme",
+      "teaser": "Seit 2021 aktiviert Google für Accounts automatisch eine Zwei-Faktor-Authentifizierung (2FA). Nun zeigt sich, wie gut der Schutz wirkt.",
+      "url": "https://www.heise.de/news/Google-So-effektiv-wirkt-Zwei-Faktor-Authentifizierung-gegen-Account-Uebernahme-6363247.html"
     },
     {
       "title": "iX-Workshop: Die Cloud sicher nutzen",
@@ -65,15 +70,15 @@
       "image_title": "Aufmacherbild SAP Patchday 02/2022"
     },
     {
+      "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
+      "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
+    },
+    {
       "title": "FBI gibt Hilfestellung zur Erkennung von Lockbit-Befall",
       "teaser": "Woran Administratoren eine Kompromittierung ihrer Maschinen mit der Ransomware Lockbit 2.0 erkennen, erläutert das FBI in einer aktuellen Anleitung.",
       "url": "https://www.heise.de/news/FBI-gibt-Hilfestellung-zur-Erkennung-von-Lockbit-Befall-6355209.html",
       "image_title": "Aufmacherbild FBI hilft bei Malware-Erkennung Lockbit 2.0"
-    },
-    {
-      "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
-      "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
     },
     {
       "title": "Patchday: Kritische Systemlücke lässt Angreifer Android-Geräte übernehmen",
@@ -155,11 +160,6 @@
       "title": "Gezielte Angriffe auf Zero-Day-Lücke in Zimbra",
       "teaser": "Über eine bislang unbekannte Lücke in Zimbra stehlen Angreifer Mails ausgewählter Opfer, warnt eine Sicherheitsfirma. Einen Patch gibt es bislang nicht.",
       "url": "https://www.heise.de/news/Gezielte-Angriffe-auf-Zero-Day-Luecke-in-Zimbra-6350138.html"
-    },
-    {
-      "title": "Schwachstelle in GitOps-Tool: Argo CD über Path Traversal angreifbar",
-      "teaser": "Angriffe mit manipulierten Helm-Charts ermöglichen Zugriff auf beliebige Verzeichnisse im Repository des Continuous-Delivery-Werkzeugs für Kubernetes.",
-      "url": "https://www.heise.de/news/Schwachstelle-in-GitOps-Tool-Argo-CD-ueber-Path-Traversal-angreifbar-6349810.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
