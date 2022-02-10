@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-10T10:21:04",
+  "timestamp": "2022-02-10T11:16:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap NAS",
+      "url": "https://www.heise.de/news/Qnap-warnt-vor-root-Luecke-in-samba-6369996.html"
+    },
+    {
       "title": "SAP",
       "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Luecke-in-Kernkomponente-bedroht-SAP-Produkte-6369582.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Patchday-Intel-liefert-Firmware-Updates-6363173.html"
     },
     {
-      "title": "Firefox und Thunderbird",
-      "url": "https://www.heise.de/news/Ausfuehren-von-Schadcode-denkbar-Sicherheitsupdates-fuer-Firefox-und-Thunderbird-6360477.html"
+      "title": "Netzwerkspeicher: Qnap warnt vor root-Lücke in Samba",
+      "teaser": "Die Netzwerkspeicher von Qnap könnten für die kürzlich entdeckte root-Lücke in Samba anfällig sein, warnt der Hersteller. Tipps zur Konfiguration sollen helfen.",
+      "url": "https://www.heise.de/news/Qnap-warnt-vor-root-Luecke-in-samba-6369996.html",
+      "image_title": "Aufmacher Qnap NAS samba-Lücke"
     },
     {
       "title": "WordPress-Übernahme durch kritische Lücken in PHP Everywhere",
@@ -66,14 +72,14 @@
       "image_title": "Aufmacher Intel Patchday 02/2022"
     },
     {
-      "title": "iX-Workshop: Die Cloud sicher nutzen",
-      "teaser": "Lernen Sie an zwei Tagen am Beispiel von Microsoft Azure wie Sie Cloud-Dienste sicher und datenschutzkonform einsetzen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Die-Cloud-sicher-nutzen-6356494.html"
-    },
-    {
       "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
       "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
       "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
+    },
+    {
+      "title": "iX-Workshop: Die Cloud sicher nutzen",
+      "teaser": "Lernen Sie an zwei Tagen am Beispiel von Microsoft Azure wie Sie Cloud-Dienste sicher und datenschutzkonform einsetzen können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Die-Cloud-sicher-nutzen-6356494.html"
     },
     {
       "title": "Firefox- und Thunderbird-Updates schließen Sicherheitslecks",
@@ -158,11 +164,6 @@
       "teaser": "Dreitgägiger und umfassender Überblick über Inhalte und Umsetzung der IT-Grundschutz-Methodik des BSI, inkl. Prüfung zum Grundschutz-Praktiker. Rabatt bis 22.2.",
       "url": "https://www.heise.de/news/iX-Workshop-Schulung-zum-IT-Grundschutz-Praktiker-mit-Zertifikat-6346068.html",
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
-    },
-    {
-      "title": "FOSDEM: Clevere Netzwerktunnel mit RPort",
-      "teaser": "Keine leichte Aufgabe, Clients hinter Firewalls und NAT zur Fernwartung erreichbar zu halten. Zur FOSDEM 22 zeigt RPort eine Lösung per Reverse Tunnel.",
-      "url": "https://www.heise.de/news/FOSDEM-Clevere-Netzwerktunnel-mit-RPort-6351196.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
