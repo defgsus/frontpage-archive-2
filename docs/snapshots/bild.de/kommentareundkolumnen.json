@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-02-10T15:19:56",
+  "timestamp": "2022-02-10T16:28:58",
   "url": "https://www.bild.de/home/hot-on-bild/bild-kommentar/kommentare-meinungen-und-kolumnen-zu-aktuellen-themen-35874522.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,19 +19,43 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.2.5-cats-release--22.02/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.2.5-cats-release--22.02/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,43158176.8-72042622.2.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://script.ioam.de/iam.js?m=1",
+      "src": "https://script.ioam.de/iam.js",
       "id": null,
       "text": null
     },
@@ -46,190 +64,7 @@
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.3df76646.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendor.0f8bb7ff.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f79ca389.js",
-      "id": null,
-      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Post von Wagner : Licht am Ende des Corona-Tunnels",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-licht-am-ende-des-corona-tunnels-79099258.bild.html",
-      "image_url": "https://images.bild.de/6204003bea63d148ab02e62b/537173a1c28424673e309234e085ed43/1/3?w=656",
-      "image_title": "Post von Wagner: Licht am Ende des Corona-Tunnels"
-    },
-    {
-      "title": "Kommentar : Eine unanständige Wahl!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-eine-unanstaendige-wahl-79099200.bild.html",
-      "image_url": "https://images.bild.de/6203feda92ba05542165676e/46bd41d60eb3c175795442179923182b-miniSquare/1/2?w=320",
-      "image_title": "Kommentar: Eine unanständige Wahl!"
-    },
-    {
-      "title": "Kommentar : Lauterbach liegt falsch!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-lauterbach-liegt-falsch-79088090.bild.html",
-      "image_url": "https://images.bild.de/6202cda2ea63d148ab02e421/5212a50b8da935b5eceebb16a4332ed6-miniSquare/1/2?w=320",
-      "image_title": "Kommentar: Lauterbach liegt falsch!"
-    },
-    {
-      "title": "Post von Wagner : Lieber Papst Franziskus,",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-papst-franziskus-79088062.bild.html",
-      "image_url": "https://images.bild.de/6202cbf04b7a9e19fb214725/650d7765537e776b78c541f8a392439d/1/4?w=320",
-      "image_title": "Post von Wagner: Lieber Papst Franziskus,"
-    },
-    {
-      "title": "BILD-Reporterin über Depressionen : Ich kann nicht mehr",
-      "url": "https://www.bild.de/politik/kolumnen/politik-inland/bild-reporterin-ueber-depression-in-der-pandemie-ich-kann-nicht-mehr-79077818.bild.html",
-      "image_url": "https://images.bild.de/620211a0fbf70d2ff6774481/fb1d44e2fa919a8f05c63b09b4916a2a/1/1?w=320",
-      "image_title": "BILD-Reporterin über Depression in der Pandemie: Ich kann nicht mehr"
-    },
-    {
-      "title": "Kommentar : Die Risiko-Ministerin",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-die-risiko-ministerin-nancy-faeser-79075336.bild.html",
-      "image_title": "Kommentar: Die Risiko-Ministerin Nancy Faeser"
-    },
-    {
-      "title": "Post von Wagner : Kanzler, wie sehen Sie aus?",
-      "teaser": "Kanzler Scholz lässt sich unbekümmert im Pulli im Flugzeug nach Washington fotografieren.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-kanzler-wie-sehen-sie-aus-79075266.bild.html",
-      "image_title": "Post von Wagner: Kanzler, wie sehen Sie aus?"
-    },
-    {
-      "title": "Kommentar von BILD-Chef Johannes Boie : Weniger Zumutung",
-      "teaser": "Wer grundsätzliche Freiheiten für zeitweise Sicherheit aufgibt, hat beides nicht verdient. Weder Freiheit noch Sicherheit. Das hat ...",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-von-bild-chef-boie-weniger-zumutung-79064514.bild.html",
-      "image_title": "Kommentar von BILD-Chef Johannes Boie: Weniger Zumutung"
-    },
-    {
-      "title": "Post von Wagner : Das Testament der Queen",
-      "teaser": "Sie wird bis zum letzten Atemzug Königin bleiben. Jetzt, beim 70. Thronjubiläum, wiederholte sie ihr Versprechen „Mein ganzes Leben ...",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-das-testament-der-queen-79065140.bild.html",
-      "image_title": "Post von Wagner: Das Testament der Queen"
-    },
-    {
-      "title": "Standpunkt : Keine Extra-Fahrprüfung für Senioren!",
-      "teaser": "Meine Mutter ist 75 Jahre alt und eine sehr gute Autofahrerin.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/standpunkt-keine-extra-fahrpruefung-fuer-senioren-79051970.bild.html",
-      "image_title": "Standpunkt: Keine Extra-Fahrprüfung für Senioren!"
-    },
-    {
-      "title": "Kommentar : Aufwachen, Kanzler!",
-      "teaser": "Sachlich, unaufgeregt, langweilig: Mit ruhiger Hand hat Olaf Scholz die Wahl gewonnen.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-aufwachen-kanzler-79051962.bild.html",
-      "image_title": "Kommentar: Aufwachen, Kanzler!"
-    },
-    {
-      "title": "Kommentar : Gegen Diktatoren, für den Sport",
-      "teaser": "Die Olympischen Spiele. Ein großes, historisches Ereignis. Und eines, das immer wieder missbraucht worden ist von Diktaturen.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-gegen-diktatoren-fuer-den-sport-79048732.bild.html",
-      "image_title": "Kommentar: Gegen Diktatoren, für den Sport"
-    },
-    {
-      "title": "Kommentar : Diese Aktivisten gefährden Leben!",
-      "teaser": "Was die Aktivisten der sogenannten „Letzten Generation“ anrichten, ist lebensgefährlich.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-diese-aktivisten-gefaehrden-leben-79048540.bild.html",
-      "image_title": "Kommentar: Diese Aktivisten gefährden Leben!"
-    },
-    {
-      "title": "Post von Wagner : Liebe Claudia Pechstein,",
-      "teaser": "Sie waren am Rande des Ausgestoßenseins. Ihr Überlebenswille hat gesiegt.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-claudia-pechstein-79036432.bild.html",
-      "image_title": "Post von Wagner: Liebe Claudia Pechstein"
-    },
-    {
-      "title": "Kommentar : Die Impfung muss freiwillig bleiben",
-      "teaser": "Spätestens jetzt sollte die Impfpflicht vom Tisch sein. Denn drei Impfungen reichen nicht.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-die-impfung-muss-freiwillig-bleiben-79036158.bild.html",
-      "image_title": "Kommentar: Die Impfung muss freiwillig bleiben"
-    },
-    {
-      "title": "Kommentar : Jetzt zählen Taten!",
-      "teaser": "Es ist nicht die erste große Wende von Markus Söder, aber definitiv die beste.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-jetzt-zaehlen-taten-79023960.bild.html",
-      "image_title": "Kommentar: Jetzt zählen Taten!"
-    },
-    {
-      "title": "Post von Wagner : Lauterbach, Kimmich – das große Show-Impfen",
-      "teaser": "Von BILD bis ARD, alle wären zugegen. Trommelwirbel würde einsetzen.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lauterbach-kimmich-das-grosse-show-impfen-79024110.bild.html",
-      "image_title": "Post von Wagner: Lauterbach, Kimmich – das große Show-Impfen"
-    },
-    {
-      "title": "Kommentar : Die Polizei braucht uns!",
-      "teaser": "Polizisten riskieren ihr Leben für uns. Das ist keine Floskel, sondern brutale Realität.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-die-polizei-braucht-uns-79012710.bild.html",
-      "image_title": "Kommentar: Die Polizei braucht uns!"
-    },
-    {
-      "title": "Post von Wagner : Olympia gucken – ja oder nein?",
-      "teaser": "Wenn wir am Freitag auf unseren Sofas sitzen, werden wir dann alle einer Meinung sein?",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-olympia-gucken-ja-oder-nein-79012950.bild.html",
-      "image_title": "Post von Wagner: Olympia gucken – ja oder nein?"
-    },
-    {
-      "title": "Kommentar : Das Kopftuch ist das Gegenteil von Freiheit",
-      "teaser": "Am 1. Feb. ist „Welt-Kopftuch-Tag“. Die BILD-Autorin meint: Mit Freiheit hat das nichts zu tun.",
-      "url": "https://www.bild.de/politik/kolumnen/politik-ausland/kommentar-zum-welt-kopftuch-tag-das-kopftuch-ist-das-gegenteil-von-freiheit-79003626.bild.html",
-      "image_title": "Kommentar zum Welt-Kopftuch-Tag: Das Kopftuch ist das Gegenteil von Freiheit"
-    },
-    {
-      "title": "Kommentar : Es gibt rote Linien",
-      "teaser": "Nach Amtsantritt erklärte Scholz, dass es im Kampf gegen Corona „keine roten Linien“ gebe…",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zur-corona-politik-es-gibt-rote-linien-79001510.bild.html",
-      "image_title": "Kommentar zur Corona-Politik: Es gibt rote Linien"
-    },
-    {
-      "title": "Post von Wagner : Vier Uhr morgens…",
-      "teaser": "...während wir schliefen, waren die beiden Polizisten unsere Wächter…",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-vier-uhr-morgens-79001820.bild.html",
-      "image_title": "Post von Wagner: Vier Uhr morgens…"
-    },
-    {
-      "title": "Post von Wagner : Lieber Rafael Nadal,",
-      "teaser": "herzlichen Glückwunsch zu Ihrem 21. Grand-Slam-Titel. Für diesen Titel trickste Djokovic. Es war großartig, wie Sie nach einem 0:2-S...",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-rafael-nadal-78992478.bild.html",
-      "image_title": "Post von Wagner: Lieber Rafael Nadal,"
-    },
-    {
-      "title": "Kommentar : Dieser Behörden- Chef spaltet!",
-      "teaser": "Die Impfung gegen Corona ist die größte Errungenschaft im Kampf gegen die Pandemie.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-dieser-behoerden-chef-spaltet-78992378.bild.html",
-      "image_title": "Kommentar: Dieser Behörden-Chef spaltet!"
-    },
-    {
-      "title": "Standpunkt : Eberl hat die Eier, die Kahn vermisste",
-      "teaser": "Jungs weinen nicht? Schluss mit diesem Quatsch! Gefühle gehören zu uns.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/standpunkt-eberl-hat-die-eier-die-kahn-vermisste-78981172.bild.html",
-      "image_title": "Standpunkt: Eberl hat die Eier, die Kahn vermisste"
-    },
-    {
-      "title": "VERBOT VON REGENBOGENFARBEN : Uefa stärkt Schwulen-Hasser auf der ganzen Welt",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/allianz-arena-nicht-in-regenbogenfarben-die-verlogene-uefa-76858004,auto=true.bild.html",
-      "image_title": "Allianz Arena nicht in Regenbogenfarben: Die verlogene Uefa"
-    },
-    {
-      "title": "Kommentar zu Antisemitismus : Mir wurde beigebracht, Juden zu hassen",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/kommentar-zu-antisemitismus-mir-wurde-beigebracht-juden-zu-hassen-76467928,auto=true.bild.html",
-      "image_title": "Kommentar zu Antisemitismus: Mir wurde beigebracht, Juden zu hassen"
-    },
-    {
-      "title": "Rassismus gegen asiatisch-stämmige Deutsche : Ein Nazi-Mob hat uns angegriffen und alles angepisst",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/rassismus-gegen-asiaten-nazis-haben-angegriffen-und-alles-angepisst-76066044,auto=true.bild.html",
-      "image_title": "Rassismus gegen Asiaten: Nazis haben angegriffen und alles angepisst"
-    }
-  ]
+  "articles": []
 }
