@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-10T08:22:04",
+  "timestamp": "2022-02-10T09:18:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3b96bf9023ada5a47e6f",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.01b8fe3b80b4c3126751",
       "id": null,
       "text": null
     },
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "SAP",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Luecke-in-Kernkomponente-bedroht-SAP-Produkte-6369582.html"
+    },
+    {
+      "title": "PHP Everywhere",
+      "url": "https://www.heise.de/news/WordPress-Uebernahme-durch-kritische-Luecken-in-PHP-Everywhere-6369318.html"
+    },
+    {
       "title": "Patchday Intel",
       "url": "https://www.heise.de/news/Patchday-Intel-liefert-Firmware-Updates-6363173.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Ausfuehren-von-Schadcode-denkbar-Sicherheitsupdates-fuer-Firefox-und-Thunderbird-6360477.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Illustrator-6360575.html"
+      "title": "Jetzt patchen! Kritische Lücke in Kernkomponente bedroht SAP-Produkte",
+      "teaser": "Eine kritische Sicherheitslücke mit Höchstwertung bedroht unter anderem SAP NetWeaver und Web Dispatcher. Admins sollten umgehend handeln.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Luecke-in-Kernkomponente-bedroht-SAP-Produkte-6369582.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-koennten-eine-Kernel-Luecke-in-Windows-ausnutzen-6360267.html"
+      "title": "WordPress-Übernahme durch kritische Lücken in PHP Everywhere",
+      "teaser": "Angreifer hätten durch eine kritische Sicherheitslücke in PHP Everywhere beliebigen Code in WordPress-Instanzen ausführen können. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/WordPress-Uebernahme-durch-kritische-Luecken-in-PHP-Everywhere-6369318.html",
+      "image_title": "Aufmacher PHP Everywhere/WP Update"
     },
     {
       "title": "\"Terroristischer Akt\": Vodafone Portugal nach Cyberattacke komplett ausgefallen",
@@ -59,6 +70,11 @@
       "url": "https://www.heise.de/news/iX-Workshop-Die-Cloud-sicher-nutzen-6356494.html"
     },
     {
+      "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
+      "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
+    },
+    {
       "title": "Firefox- und Thunderbird-Updates schließen Sicherheitslecks",
       "teaser": "Die Mozilla-Entwickler schließen in aktualisierten Versionen von Firefox und Thunderbird viele Sicherheitslücken. Einige davon stufen sie als hohes Risiko ein.",
       "url": "https://www.heise.de/news/Ausfuehren-von-Schadcode-denkbar-Sicherheitsupdates-fuer-Firefox-und-Thunderbird-6360477.html",
@@ -68,11 +84,6 @@
       "title": "Patchday: Adobe schließt Schadcode-Lücken in Illustrator",
       "teaser": "Die Entwickler von Adobe haben ihr Software-Portfolio gegen mögliche Attacken abgesichert.",
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Illustrator-6360575.html"
-    },
-    {
-      "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
-      "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
     },
     {
       "title": "Patchday Microsoft: Angreifer könnten eine Kernel-Lücke in Windows ausnutzen",
@@ -151,16 +162,6 @@
       "title": "FOSDEM: Clevere Netzwerktunnel mit RPort",
       "teaser": "Keine leichte Aufgabe, Clients hinter Firewalls und NAT zur Fernwartung erreichbar zu halten. Zur FOSDEM 22 zeigt RPort eine Lösung per Reverse Tunnel.",
       "url": "https://www.heise.de/news/FOSDEM-Clevere-Netzwerktunnel-mit-RPort-6351196.html"
-    },
-    {
-      "title": "IT-Security: Sicherheitsmängel in iOS-, Android- und Windows-Apps aufspüren",
-      "teaser": "Das Mobile Security Framework hilft, Schadcode und Sicherheitsmängel in Android-, iOS- & Windows-Apps aufzuspüren. Unser Praxisartikel erklärt den Einstieg.",
-      "url": "https://www.heise.de/ratgeber/Sicherheitsanalyse-mit-MobSF-Mobilen-Anwendungen-effizient-auf-den-Zahn-fuehlen-6344062.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
-    },
-    {
-      "title": "News Corp.: Cyberangriff auf Medienkonzern vermutlich aus China",
-      "teaser": "Der New Yorker Verlag, der unter anderem das \"Wall Street Journal\" herausbringt, wurde angegriffen. Sicherheitsexperten vermuten dahinter China.",
-      "url": "https://www.heise.de/news/News-Corp-Cyberangriff-auf-Medienkonzern-vermutlich-aus-China-6350413.html"
     },
     {
       "title": "Der Treffpunkt für IT Security Heroes",
