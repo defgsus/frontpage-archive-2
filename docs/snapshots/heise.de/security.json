@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-11T10:20:28",
+  "timestamp": "2022-02-11T11:16:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wordpress-Plug-in WP Statistics",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Wordpress-Plug-in-WP-Statistics-koennte-Passwort-Hashes-leaken-6445092.html"
+    },
+    {
       "title": "iOS und macOS",
       "url": "https://www.heise.de/news/Notfall-Patch-fuer-iPhones-iPads-und-Macs-iOS-15-3-1-und-macOS-12-2-1-verfuegbar-6440372.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Luecke-in-Kernkomponente-bedroht-SAP-Produkte-6369582.html"
     },
     {
-      "title": "PHP Everywhere",
-      "url": "https://www.heise.de/news/WordPress-Uebernahme-durch-kritische-Luecken-in-PHP-Everywhere-6369318.html"
+      "title": "Schwachstelle im Virenschutz Microsoft-Defender stillschweigend abgedichtet",
+      "teaser": "Durch zu laxe Rechtevergabe hätten Angreifer auf die Microsoft-Defender-Ausnahmen zugreifen können. Die Lücke hat das Unternehmen ohne Ankündigung behoben.",
+      "url": "https://www.heise.de/news/Schwachstelle-im-Virenschutz-Microsoft-Defender-stillschweigend-abgedichtet-6444399.html",
+      "image_title": "Aufmacher Microsoft Defender schließt stillschweigend Lücke"
+    },
+    {
+      "title": "Sicherheitsupdate: Wordpress-Plug-in WP Statistics könnte Passwort-Hashes leaken",
+      "teaser": "Eine kritische Sicherheitslücke in WP Statistics gefährdet potenziell 600.000 Wordpress-Websites.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Wordpress-Plug-in-WP-Statistics-koennte-Passwort-Hashes-leaken-6445092.html"
     },
     {
       "title": "Notfall-Patch für iPhones, iPads und Macs: iOS 15.3.1 und macOS 12.2.1 verfügbar",
@@ -59,6 +70,11 @@
       "url": "https://www.heise.de/news/Ransomware-Wachsende-Bedrohung-durch-Professionalisierung-6439718.html"
     },
     {
+      "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
+      "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
+    },
+    {
       "title": "Entschlüsselungstool für Ransomware Egregor, Maze und Sekhmet verfügbar",
       "teaser": "Die Hintermänner des Erpressungstrojaners Maze sind ausgestiegen: Sie geben an, den Source Code zerstört zu haben. Die Masterschlüssel wurden veröffentlicht.",
       "url": "https://www.heise.de/news/Entschluesselungstool-fuer-Ransomware-Egregor-Maze-und-Sekhmet-verfuegbar-6370705.html"
@@ -68,11 +84,6 @@
       "teaser": "Die Netzwerkspeicher von Qnap könnten für die kürzlich entdeckte root-Lücke in Samba anfällig sein, warnt der Hersteller. Tipps zur Konfiguration sollen helfen.",
       "url": "https://www.heise.de/news/Qnap-warnt-vor-root-Luecke-in-samba-6369996.html",
       "image_title": "Aufmacher Qnap NAS samba-Lücke"
-    },
-    {
-      "title": "Die Lehren aus den Sicherheitskatastrophen 2021",
-      "teaser": "Auch 2021 hat es viel zu viele Meldungen über neue Sicherheitslücken und Cyber-Angriffe gegeben. Was sind die Lehren daraus? Im Webcast am 15. Februar zeigen wir Ihnen, was Sie tun können, um Cyber-Bedrohungen immer einen Schritt voraus zu sein.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherheitskatastrophen-2021-und-was-wir-daraus-nicht-gelernt-haben-4211/?source=nat_teas"
     },
     {
       "title": "WordPress-Übernahme durch kritische Lücken in PHP Everywhere",
@@ -150,17 +161,6 @@
       "teaser": "Nach Einbrüchen in Cloud-Dienste schürfen die Cyberkriminellen dort oftmals Kryptowährungen. Google ergänzt in seiner Cloud nun Crypto-Miner-Erkennung.",
       "url": "https://www.heise.de/news/Malware-Schutz-Google-Cloud-erhaelt-Crypto-Miner-Erkennung-6354930.html",
       "image_title": "Aufmacherbild Google Cloud Crypto-Miner-Erkennung"
-    },
-    {
-      "title": "Tüv sieht Schulungsbedarf für mehr Cybersicherheit für Beschäftigte",
-      "teaser": "Häufig fehle es an Unterweisungen und klaren Verhaltensregeln im Fall eines IT-Angriffs für Beschäftigte, teil der Tüv-Verband mit.",
-      "url": "https://www.heise.de/news/Tuev-sieht-Schulungsbedarf-fuer-mehr-Cybersicherheit-im-Homeoffice-6354841.html"
-    },
-    {
-      "title": "Microsoft Office soll VBA-Makros standardmäßig blockieren",
-      "teaser": "Makros sind ein Einfallstor für Malware. VBA-Makros standardmäßig zu deaktivieren, ist längst überfällig.",
-      "url": "https://www.heise.de/news/Microsoft-will-Office-VBA-Makros-standardmaessig-blockieren-6353429.html",
-      "image_title": "Microsoft-Firmenlogo an Grundstückseingang"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
