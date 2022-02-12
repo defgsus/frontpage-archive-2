@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-02-12T15:18:38",
+  "timestamp": "2022-02-12T16:27:15",
   "url": "https://www.bild.de/news/mystery-themen/mystery/home-15682164.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,19 +19,43 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.2.5-cats-release--22.02/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.2.5-cats-release--22.02/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://script.ioam.de/iam.js?m=1",
+      "src": "https://script.ioam.de/iam.js",
       "id": null,
       "text": null
     },
@@ -46,175 +64,7 @@
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.3436f640.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendor.232e2b55.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f79ca389.js",
-      "id": null,
-      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Seit zwei Jahren dicht, aber überall Licht : Das Geheimnis des Geisterhotels vom Katzenstein",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/bad-salzungen-das-geheimnis-des-geisterhotels-vom-katzenstein-78846730.bild.html",
-      "image_url": "https://images.bild.de/61e461be8f8b361a16c76cd2/65f006a468e7c79f08b8398eca8f43af/2/2?w=656",
-      "image_title": "Bad Salzungen: Das Geheimnis des Geisterhotels vom Katzenstein"
-    },
-    {
-      "title": "Irre Theorien über schwarzen Fleck : Das steckt hinter der mysteriösen Insel im Pazifik",
-      "url": "https://www.bild.de/digital/internet/internet/vostok-island-in-google-maps-entdeckt-die-schwarze-insel-im-pazifik-78125888.bild.html",
-      "image_url": "https://images.bild.de/618102a256b693194b8645b3/695026a1c4355d51fe4e508872adf594-miniSquare/1/2?w=320",
-      "image_title": "Vostok Island in Google Maps entdeckt: Die schwarze Insel im Pazifik"
-    },
-    {
-      "title": "Frau konnte sich retten : Boot auf der Neiße gekentert – Mann vermisst!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/frau-konnte-sich-retten-boot-auf-der-neisse-gekentert-mann-vermisst-77043074.bild.html",
-      "image_url": "https://images.bild.de/60e9ad3681bfed0001169250/1bf0584eb9323e7ffaa9ea02d2b9bee3-miniSquare/1/2?w=320",
-      "image_title": "Frau konnte sich retten: Boot auf der Neiße gekentert – Mann vermisst!"
-    },
-    {
-      "title": "CIA-Dokument belegt : Piloten beobachten Ufos schon seit 1953",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/geheimdienst-dokumente-belegen-usa-beobachten-ufos-seit-1950-76651306.bild.html",
-      "image_url": "https://images.bild.de/60bdffcafb73b30001415258/203e65ecff7cb91c02c2c3aa94f5445e/1/2?w=320",
-      "image_title": "CIA-Dokument belegt: Piloten beobachten Ufos schon seit 1953"
-    },
-    {
-      "title": "Weltraumorganisation über jüngste UFO-Meldungen : Das sagt die ESA zu den Spekulationen um Aliens",
-      "url": "https://www.bild.de/ratgeber/wissenschaft/ratgeber/esa-experte-ueber-ufos-bei-uns-die-idee-ist-hoechst-unwahrscheinlich-76585752.bild.html",
-      "image_url": "https://images.bild.de/60b5e1bf909f6f00015b2855/1a4018b353e6e43088d1137ce5780c80/1/2?w=320",
-      "image_title": "Weltraumorganisation über jüngste UFO-Meldungen: Das sagt die ESA zu den Spekulationen um Aliens"
-    },
-    {
-      "title": "Irre Theorie : Professor warnt vor Alien-Attacken mit Astro-Bomben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ufo-und-alien-us-professor-warnt-vor-angriffen-mit-asteroiden-78696600.bild.html",
-      "image_title": "Ufo und Alien: US-Professor warnt vor Angriffen mit Asteroiden"
-    },
-    {
-      "title": "Neues Buch enthüllt : DAS sind Deutschlands UFO-Akten",
-      "teaser": "Autor Andreas Müller zeigt, dass deutsche Ministerien und Geheimdienste UFO-Akten anlegten.",
-      "url": "https://www.bild.de/bild-plus/news/2021/news/neues-buch-enthuellt-das-sind-deutschlands-ufo-akten-78383828.bild.html",
-      "image_title": "Neues Buch enthüllt: DAS sind Deutschlands UFO-Akten"
-    },
-    {
-      "title": "Neue Arbeitsgruppe : Pentagon geht auf Ufo-Suche",
-      "teaser": "Eine vom Pentagon ernannte, neue Arbeitsgruppe soll jetzt Ufo-Sichtungen untersuchen.",
-      "url": "https://www.bild.de/news/mystery-themen/mystery/orten-identifizieren-zuordnen-pentagon-gruendet-ufo-arbeitsgruppe-78346782.bild.html",
-      "image_title": "Neue Arbeitsgruppe gegründet: Pentagon geht auf Ufo-Suche"
-    },
-    {
-      "title": "Ranghöchster Admiral bestätigt : US-Marine jagt Unterwasser-UFO",
-      "teaser": "Sie sind drei Mal so schnell wie normale U-Boote und keiner weiß, woher sie kommen: Unterwasser-UFOs stellen Geheimdienste vor ein Rätsel.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/pentagon-report-enthuellt-us-navy-entdeckte-unterwasser-ufo-76508138.bild.html",
-      "image_title": "Ranghöchster Admiral bestätigt: US-Marine jagt Unterwasser-UFO"
-    },
-    {
-      "title": "Air-Force-Veteranen sicher : UFOs könnten Macht über Atomraketen gewinnen",
-      "teaser": "Bei einer Pressekonferenz in Washington D.C. warnten vier Veteranen vor Außerirdischen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/veteranen-schlagen-alarm-ufos-koennten-atomraketen-kontrollieren-78009804.bild.html",
-      "image_title": "Veteranen schlagen Alarm: UFOs könnten Atomraketen kontrollieren"
-    },
-    {
-      "title": "Objekt gibt Rätsel auf : Mysteriöser Feuerball über Süddeutschland",
-      "teaser": "Donnerstagabend tauchte über Baden-Württemberg, Rheinland-Pfalz und Hessen plötzlich ein Feuerball auf!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/objekt-am-himmel-gibt-raetsel-auf-feuerball-ueber-sueddeutschland-77904172.bild.html",
-      "image_title": "Objekt am Himmel gibt Rätsel auf: Feuerball über Süddeutschland"
-    },
-    {
-      "title": "Geheime Tonaufnahmen : Begutachtete Albert Einstein UFOs und Aliens?",
-      "teaser": "Princeton - Hat Albert Einstein Aliens getroffen? Um den angeblichen Absturz eines UFOs...",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/assistentin-behauptete-einstein-begutachte-aliens-fuer-us-regierung-77876940.bild.html",
-      "image_title": "Geheime Tonaufnahmen: Albert Einstein begutachte Aliens für US-Regierung"
-    },
-    {
-      "title": "Aliens im Anflug? : Ufo-Alarm über NRW!",
-      "teaser": "Dutzende Menschen sahen eine geisterhafte Leucht-Erscheinung über NRW.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/oberhausen-aliens-im-anflug-ufo-alarm-ueber-nrw-77810510.bild.html",
-      "image_title": "Oberhausen – Aliens im Anflug? Ufo-Alarm über NRW"
-    },
-    {
-      "title": "Post von Wagner : Betrifft: Der Klimarat und das Ende der Welt",
-      "teaser": "Wissenschaftler sagen, dass wir auf einer sinkenden Arche Noah leben. Sie haben recht.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-betrifft-der-klimarat-und-das-ende-der-welt-77336930.bild.html",
-      "image_title": "Post von Wagner: Betrifft: Der Klimarat und das Ende der Welt"
-    },
-    {
-      "title": "Quantenphysiker glaubt : Blinkende Sterne könnten Alien-Botschaften sein",
-      "teaser": "Oft scheinen die Sterne nachts am Himmel zu blinken. Ein Forscher glaubt: Das könnte die Kommunikation von Aliens sein!",
-      "url": "https://www.bild.de/ratgeber/wissenschaft/ratgeber/alien-botschaften-ausserirdische-koennten-sterne-blinken-lassen-77282802.bild.html",
-      "image_title": "Quantenphysiker glaubt: Blinkende Sterne könnten Botschaften von Aliens sein"
-    },
-    {
-      "title": "Alien-Festival in Roswell : BILD in der „Ufo-Hauptstadt der Welt“",
-      "teaser": "Nach dem Report des Pentagon bleibt die Neugierede über Ufos allgegenwärtig. In Roswell stieg nun das größten Ufo-Festival des Landes.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/alien-festival-in-roswell-bild-in-der-ufo-hauptstadt-der-welt-76980036.bild.html",
-      "image_title": "Alien-Festival in Roswell: BILD in der „Ufo-Hauptstadt der Welt“"
-    },
-    {
-      "title": "Mit Spannung erwartet : US-Geheimdienste veröffentlichen Ufo-Bericht",
-      "teaser": "In dem am Freitag vorgelegten Dokument heißt es, die meisten Sichtungen könnten nicht erklärt werden.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/mit-spannung-erwartet-us-geheimdienste-veroeffentlichen-ufo-bericht-76886136.bild.html",
-      "image_title": "Mit Spannung erwartet: US-Geheimdienste veröffentlichen Ufo-Bericht"
-    },
-    {
-      "title": "Der Tag der Wahrheit : Welches UFO-Geheimnis steckt im Pentagon-Report?",
-      "teaser": "Mit Spannung erwartet die ganze Welt den UFO-Geheimdienst-Report, der am Freitag (25. Juni) veröffentlicht werden soll.",
-      "url": "https://www.bild.de/news/2021/news/pentagon-experte-ufos-koennten-us-atomraketen-ausgeschaltet-haben-76838860.bild.html",
-      "image_title": "Der Tag der Wahrheit ++ Geheimdienst-Bericht mit Spannung erwartet: Welches UFO-Geheimnis steckt im Pentagon-Report?"
-    },
-    {
-      "title": "Abgeordnete durften reinschauen : Erster Blick in den Ufo-Report des Pentagon",
-      "teaser": "Am 25. Juni veröffentlicht das Pentagon seinen Ufo-Report. Einige Abgeordnete bekamen jetzt einen Einblick - alles top secret.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/top-secret-was-steht-im-ufo-bericht-des-pentagon-76816486.bild.html",
-      "image_title": "Abgeordnete durften reinschauen: Erster Blick in den Ufo-Report des Pentagon"
-    },
-    {
-      "title": "Sind wir doch nicht allein? : Diese 3 Ereignisse lassen Menschen an Ufos glauben",
-      "teaser": "Immer neue Enthüllungen über Ufos werden bekannt. Lesen Sie alles über drei Fälle, die zeigen: Wir sind möglicherweise nicht allein.",
-      "url": "https://www.bild.de/news/2021/news/ufos-diese-drei-ereignisse-lassen-menschen-an-sie-glauben-76523946.bild.html",
-      "image_title": "Wir sind möglicherweise nicht allein: Diese drei Ereignisse lassen Menschen an Ufos glauben"
-    },
-    {
-      "title": "Post von Wagner : Liebe Ufos,",
-      "teaser": "ich glaube nicht an euch, weil … rund um unsere Erde toben 2000 Gewitter, jede Sekunde schlagen 100 Blitze ein.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-ufos-76467020.bild.html",
-      "image_title": "Post von Wagner: Liebe Ufos,"
-    },
-    {
-      "title": "Obama bestätigt UFO-Sichtung : „Kräfte, die kein Pilot überleben würde“",
-      "teaser": "Barack Obama hat UFO-Sichtungen des US-Militärs als echt bestätigt. Das Militär rätselt über die Flug-Manöver ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/us-navy-raetselt-ueber-ufos-kraefte-die-kein-pilot-ueberleben-wuerde-76451584.bild.html",
-      "image_title": "Ex-US-Präsident Obama bestätigt UFO-Sichtung: US-Commander: „Gravitationskräfte, die kein Pilot überleben würde“"
-    },
-    {
-      "title": "Obama bestätigt UFO-Sichtungen : „Wir können nicht erklären, wie sie sich bewegen“",
-      "teaser": "Ex-US-Präsident Barack Obama hat UFO-Sichtungen des US-Militärs als „echt“ bestätigt – man könne nicht sagen, was die Flugobjekte sind.",
-      "url": "https://www.bild.de/news/ausland/politik-ausland/obama-bestaetigt-ufo-sichtungen-wir-koennen-nicht-erklaeren-wie-sie-sich-bewegen-76441062.bild.html",
-      "image_title": "Ex-US-Präsident Obama bestätigt UFO-Sichtung: „Wir können nicht erklären, wie sie sich bewegen“"
-    },
-    {
-      "title": "„Tatort“-Star : Was im Zeugnis von Axel Prahl stand",
-      "teaser": "Vor 37 Jahren fing er am Theater in Kiel ganz klein an. Jetzt ist Schauspieler Axel Prahl der Größte unter den „Tatort“-Kommissaren.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/tatort-star-axel-prahl-diskussionen-trug-ich-auf-dem-schulhof-aus-76254510.bild.html",
-      "image_title": "„Tatort“-Star prügelte sich häufig auf dem Schulhof: Was im Zeugnis von Axel Prahl stand"
-    },
-    {
-      "title": "Mysterien der Menschheit : Kennen Sie Tunguska, Voynich oder das Cheops-Loch?",
-      "teaser": "Geheimnisvoll, unerklärlich: Rätsel wie das Tunguska-Ereingnis, das Voynich-Manuskript oder ein Pyramiden-Hohlraum faszinieren.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/tunguska-ereignis-voynich-manuskript-pyramiden-hohlraum-raetsel-der-menschheit-75433976.bild.html",
-      "image_title": "Rätsel und Mysterien der Menschheit : Kennen Sie das Tunguska-Ereignis oder das Voynich-Manuskript?"
-    }
-  ]
+  "articles": []
 }
