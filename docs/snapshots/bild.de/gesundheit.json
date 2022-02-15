@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-02-15T21:16:29",
+  "timestamp": "2022-02-15T22:20:00",
   "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/home-15734752.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,19 +19,43 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.2.5-cats-release--22.02/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.2.5-cats-release--22.02/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://script.ioam.de/iam.js?m=1",
+      "src": "https://script.ioam.de/iam.js",
       "id": null,
       "text": null
     },
@@ -46,182 +64,7 @@
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f7e4728d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendor.a0feaf9a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f79ca389.js",
-      "id": null,
-      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "100 Kilo abgespeckt, Gewicht gehalten : „Das sind meine besten Tipps“",
-      "url": "https://www.bild.de/bild-plus/ratgeber/diaet/diaet/100-kilo-abgenommen-so-haelt-saskia-28-ihr-gewicht-mit-diesen-tricks-bleibe-ich-79145252.bild.html",
-      "image_url": "https://images.bild.de/620a20c20a5b2c5e25b9c011/610f9be95c0d116734a3b588e33b2338/1/1?w=656",
-      "image_title": "100 Kilo abgenommen: „Mit diesen Tricks bleibe ich schlank“"
-    },
-    {
-      "title": "Virologe spricht Klartext : Die drei größten Probleme in meiner Klinik",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/hospitalisierungsrate-zeigt-nur-die-halbe-wahrheit-virologe-die-drei-groessten-p-79116842.bild.html",
-      "image_url": "https://images.bild.de/62063aa524f2ac6754cc4481/e8285c9f87ddbedba0dc28551a62da6c-miniSquare/2/2?w=320",
-      "image_title": "Hospitalisierungsrate: Virologe: Die drei größten Probleme in meiner Klinik"
-    },
-    {
-      "title": "Totimpfstoff kommt am 21.2 : So gut wirkt Novavax bei Jugendlichen",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/corona-totimpfstoff-novavax-wirkt-gut-bei-jugendlichen-79133824.bild.html",
-      "image_url": "https://images.bild.de/6208c7920a5b2c5e25b9be31/53f78abf7e7fb6e14556995eb3c3211f/1/2?w=320",
-      "image_title": "Corona-Impfung: So gut wirkt der Totimpfstoff Novavax bei Jugendlichen"
-    },
-    {
-      "title": "Statistiker über Omikron-Welle : Deutschland kurz vorm Höhepunkt",
-      "url": "https://www.bild.de/ratgeber/gesundheit/verbraucherportal/corona-wochenbericht-bricht-die-omikron-welle-wirklich-naechste-woche-79114798.bild.html",
-      "image_url": "https://images.bild.de/620615bd0a5b2c5e25b9bb83/7d2a25ef0e281c6ccda13860fe208ddb/1/3?w=320",
-      "image_title": "Corona: Deutschland kurz vor dem Höhepunkt der Omikron-Welle"
-    },
-    {
-      "title": "Diät im Schlaf : Schlummernd purzeln die Pfunde",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/diaet-im-schlaf-schlummernd-purzeln-die-pfunde-79080186.bild.html",
-      "image_title": "Abnehmen im Schlaf: Schlummernd purzeln die Pfunde"
-    },
-    {
-      "title": "Volkskrankheit Osteoporose : Übungen und Rezepte für starke Knochen",
-      "teaser": "Dr. Helge Riepenhof und Koch Holger Stromberg verraten Tipps und Tricks gegen Osteoporose.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/rezepte-und-uebungen-so-sagen-sie-der-osteoporose-den-kampf-an-79004286.bild.html",
-      "image_title": "Volkskrankheit Osteoporose: Übungen und Rezepte für starke Knochen"
-    },
-    {
-      "title": "Hoffnung für Tausende : Medikament senkt Brustkrebs-Risiko um 37 Prozent",
-      "teaser": "Eine von acht Frauen erkrankt im Laufe ihres Lebens an Brust­krebs.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/brustkrebs-medikament-pembrolizumab-senkt-risiko-um-37-prozent-79116636.bild.html",
-      "image_title": "Brustkrebs: Medikament Pembrolizumab senkt Risiko um 37 Prozent"
-    },
-    {
-      "title": "Revolutionäre Therapie : „Die ersten Schritte waren unglaublich“",
-      "teaser": "Schweizer Forscher haben ein Implantat entwickelt, mit dem Querschnittsgelähmte laufen können.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/revolutionaere-therapie-die-ersten-schritte-waren-unglaublich-79069390.bild.html",
-      "image_title": "Neue Therapie: Mit Implantat können Querschnittsgelähmte wieder laufen"
-    },
-    {
-      "title": "Im Alter von 89 Jahren : HIV-Entdecker Luc Montagnier gestorben",
-      "teaser": "Luc Montagnier (89) ist tot. Der französische Virologe gilt als Mitentdecker des HI-Virus.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hiv-entdecker-und-nobelpreistraeger-luc-montagnier-89-gestorben-79110704.bild.html",
-      "image_title": "HIV-Entdecker und Nobelpreisträger Luc Montagnier (89) gestorben"
-    },
-    {
-      "title": "Nach Corona-Infektion : Wenn der Geruchssinn nicht zurückkommt",
-      "teaser": "Ein Experte erklärt die Covid-Langzeitfolge – und was sie für Betroffene bedeutet.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/nach-corona-infektion-wenn-der-geruchssinn-nicht-zurueckkommt-79072846.bild.html",
-      "image_title": "Nach Corona-Infektion: Wenn der Geruchssinn nicht zurückkommt"
-    },
-    {
-      "title": "Studie warnt bei Bluthochdruck : Paracetamol erhöht Schlaganfall-Risiko",
-      "teaser": "Forscher der Universität Edinburgh warnen vor regelmäßiger Einnahme von Paracetamol.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/studie-paracetamol-kann-bei-bluthochdruck-das-schlaganfall-risiko-um-20-prozent-79079014.bild.html",
-      "image_title": "Studie: Paracetamol kann bei Bluthochdruck das Schlaganfall-Risiko um 20 Prozent erhöhen"
-    },
-    {
-      "title": "Patient (57) wach und ansprechbar : Das Schweineherz schlägt jetzt schon seit einem Monat!",
-      "teaser": "Die Transplantation an sich war schon eine Sensation – und diese Nachricht grenzt an ei...",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/nach-schweineherz-transplantation-david-bennett-57-hat-schon-einen-monat-ueberle-79067144.bild.html",
-      "image_title": "Nach Schweineherz-Transplantation: David Bennett (57) hat schon einen Monat überlebt"
-    },
-    {
-      "title": "Berlinerin entwickelte App : Ich hatte Brustkrebs – nun will ich anderen Frauen helfen",
-      "teaser": "Stephanie Neumann (47) hat nach ihrer Genesung eine App entwickelt. Ein Programm für Körper, Geist und Seele.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlinerin-entwickelte-app-ich-hatte-brustkrebs-nun-will-ich-anderen-frauen-helf-79051008.bild.html",
-      "image_title": "Berlinerin entwickelte App: Ich hatte Brustkrebs – nun will ich anderen Frauen helfen"
-    },
-    {
-      "title": "Forscher fordern Umdenken : Warum Blutdruck-Medikamente nicht immer gut sind",
-      "teaser": "Bluthochdruck ist ein Risikofaktor fürs Herz. Er kann aber auch das Sterberisiko senken.",
-      "url": "https://www.bild.de/ratgeber/wissenschaft/ratgeber/neue-studie-bluthochdruck-kann-sterberisiko-senken-79040932.bild.html",
-      "image_title": "Forscher fordern Umdenken: Warum Blutdruck-Medikamente nicht immer gut sind"
-    },
-    {
-      "title": "BioNTech-Gründer Sahin : Unser Corona-Held kann bald gegen Krebs impfen",
-      "teaser": "Uğur Şahin erklärt, wie mRNA-Technologie gegen Krebs helfen kann und was ihn antreibt.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/biontech-gruender-sahin-im-interview-wie-er-krebs-patienten-helfen-will-und-was-79026182.bild.html",
-      "image_title": "Biontech-Gründer Sahin im Interview: Wie er Krebs-Patienten helfen will und was ihn antreibt"
-    },
-    {
-      "title": "RKI-Wochenbericht : 10 Prozent ALLER Corona-Fälle in der letzten Woche",
-      "teaser": "Allein in der letzten Woche wurden mehr als 900 000 Neu-Infektionen registriert.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/rki-wochenbericht-10-prozent-aller-corona-faelle-in-der-letzten-woche-78968040.bild.html",
-      "image_title": "RKI-Wochenbericht: 10 Prozent ALLER Corona-Fälle in der letzten Woche!"
-    },
-    {
-      "title": "Corona-Studie mit freiwillig Infizierten : Sind Rachentests viel besser als Nasentests?",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/coronastudie-mit-freiwillig-infizierten-sind-rachentests-viel-besser-79030816.bild.html",
-      "image_title": "Studie: Ist der Rachentest viel besser als Nasentest bei Corona-Verdacht?"
-    },
-    {
-      "title": "STIKO gibt Novavax ab 18 Jahre frei : Was der Totimpfstoff wirklich kann",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/novavax-kommt-was-der-neue-impfstoff-wirklich-kann-78986264.bild.html",
-      "image_title": "Novavax von STIKO freigegeben: Was der neue Corona-Impfstoff wirklich kann"
-    },
-    {
-      "title": "10 Milliarden Impfungen : In diesen Ländern sind nur 6 von 100 geimpft",
-      "teaser": "Zehn Milliarden Impfungen – weltweit! Doch es herrscht Impf-Ungleichheit.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/arme-laender-fast-ungeschuetzt-weltweit-10-milliarden-impfungen-gegen-corona-79021258.bild.html",
-      "image_title": "10 Milliarden Corona-Impfungen weltweit: In diesen Ländern sind nur 6 von 100 geimpft"
-    },
-    {
-      "title": "Studie beweist : Wer müde trainiert, riskiert einen Herzinfarkt",
-      "teaser": "Müdigkeit und Sport gehen aufs Herz. Eine ungute Kombi, wie Schlafforscher jetzt zeigten.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/ratgeber/herzinfarkt-wer-muede-trainiert-erhoeht-das-risiko-78968698.bild.html",
-      "image_title": "Herzinfarkt: Wer müde trainiert, erhöht das Risiko"
-    },
-    {
-      "title": "Kinderarzt erklärt : Darum ist die Baby-Impfung nutzlos",
-      "teaser": "Kommt die Impfung für die Allerkleinsten? Pfizer hat in den USA die Zulassung beantragt.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/baby-impfung-gegen-corona-nutzlos-oder-wichtig-kinderarzt-klaert-auf-79015800.bild.html",
-      "image_title": "Baby-Impfung gegen Corona – nutzlos oder wichtig? Kinderarzt klärt auf"
-    },
-    {
-      "title": "Wichtig für Frauen : Warum Sie nach dem Sex aufs Klo gehen sollten",
-      "teaser": "Dieser einfache Tipp beugt eine unangenehme Krankheit vor.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/warum-sie-nach-dem-sex-aufs-klo-gehen-sollten-vor-allem-als-frau-79005452.bild.html",
-      "image_title": "Warum Sie nach dem Sex aufs Klo gehen sollten - vor allem als Frau"
-    },
-    {
-      "title": "Von Grippe bis Keuchhusten : Diese Impfungen sollten Schwangere haben",
-      "teaser": "Experten erklären, welche Pikse Schwangere bekommen sollten.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/ratgeber/sechs-wichtige-impfungen-fuer-schwangere-schutz-fuer-mutter-und-kind-78999216.bild.html",
-      "image_title": "Sechs wichtige Impfungen für Schwangere: Schutz für Mutter und Kind"
-    },
-    {
-      "title": "Inzidenz wertloser : Weg mit der Panikzahl!",
-      "teaser": "Zwei Jahre war die Sieben-Tage-Inzidenz verantwortlich für den deutschen Pandemie-Puls.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/corona-inzidenz-weg-mit-der-panikzahl-79010604.bild.html",
-      "image_title": "Corona-Inzidenz: Weg mit der Panikzahl!"
-    },
-    {
-      "title": "Der Busen-Horror : Wenn große Brüste zum Albtraum werden!",
-      "url": "https://www.bild.de/video/clip/ratgeber/panikattacken-und-sehstoerungen-wenn-grosse-brueste-zum-albtraum-werden-76062312,auto=true.bild.html",
-      "image_title": "Panikattacken und Sehstörungen: Wenn große Brüste zum Albtraum werden!"
-    },
-    {
-      "title": "Schnelltestkonzept? Fehlanzeige! : Die Tests sind da, aber nichts ist organisiert",
-      "url": "https://www.bild.de/video/clip/leute/schnelltestkonzept-fehlanzeige-die-tests-sind-da-aber-nichts-ist-organisiert-75679044,auto=true.bild.html",
-      "image_title": "Schnelltestkonzept? Fehlanzeige!: Die Tests sind da, aber nichts ist organisiert"
-    },
-    {
-      "title": "Humanoide Pflege-Maschine : Schwester Grace, der Roboter",
-      "url": "https://www.bild.de/video/clip/news-inland/humanoide-pflege-maschine-schwester-grace-der-roboter-77588426,auto=true.bild.html",
-      "image_title": "Humanoide Pflege-Maschine: Schwester Grace, der Roboter"
-    }
-  ]
+  "articles": []
 }
