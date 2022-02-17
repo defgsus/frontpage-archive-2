@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-17T12:30:50",
+  "timestamp": "2022-02-17T13:21:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Android-App Termux",
+      "url": "https://www.heise.de/news/Terminal-Emulator-App-fuer-Android-Gefaehrliche-Luecken-in-Termux-geschlossen-6489756.html"
+    },
+    {
       "title": "Thunderbird",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Praeparierte-Mails-koennen-Thunderbird-aus-dem-Tritt-bringen-6484606.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/VMware-Sicherheitsupdates-Angreifer-koennten-Schadcode-in-Host-Systeme-schieben-6478188.html"
     },
     {
-      "title": "Moxa MXview",
-      "url": "https://www.heise.de/news/Internet-of-Things-Forscher-demonstrieren-Sicherheitsluecken-in-MXview-6473921.html"
+      "title": "Terminal-Emulator-App für Android: Gefährliche Lücken in Termux geschlossen",
+      "teaser": "Angreifer könnten Android-Geräte mit der Termux-App attackieren und unter Umständen Root-Befehle ausführen. Die Version in Google Play ist noch verwundbar.",
+      "url": "https://www.heise.de/news/Terminal-Emulator-App-fuer-Android-Gefaehrliche-Luecken-in-Termux-geschlossen-6489756.html"
     },
     {
       "title": "DeFi-Projekt verspricht 10 Millionen US-Dollar für Smart-Contract-Bugs",
@@ -151,12 +156,6 @@
       "title": "Sicherheitsupdate: Wordpress-Plug-in WP Statistics könnte Passwort-Hashes leaken",
       "teaser": "Eine kritische Sicherheitslücke in WP Statistics gefährdet potenziell 600.000 Wordpress-Websites.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Wordpress-Plug-in-WP-Statistics-koennte-Passwort-Hashes-leaken-6445092.html"
-    },
-    {
-      "title": "Notfall-Patch für iPhones, iPads und Macs: iOS 15.3.1 und macOS 12.2.1 verfügbar",
-      "teaser": "Apple schließt eine Lücke, die offenbar aktiv für Angriffe ausgenutzt wird. Außerdem beseitigt der Hersteller Bugs, darunter Bluetooth-Probleme bei Intel-Macs.",
-      "url": "https://www.heise.de/news/Notfall-Patch-fuer-iPhones-iPads-und-Macs-iOS-15-3-1-und-macOS-12-2-1-verfuegbar-6440372.html",
-      "image_title": "Eine Hand halt ein iPhone über eine Laptoptastatur"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
