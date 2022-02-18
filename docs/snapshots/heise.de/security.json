@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-18T15:20:28",
+  "timestamp": "2022-02-18T16:28:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Snap",
+      "url": "https://www.heise.de/news/root-Rechte-durch-Schwachstelle-in-Softwareverteilungssystem-Snap-6495740.html"
+    },
+    {
       "title": "Apache Cassandra",
       "url": "https://www.heise.de/news/Codeschmuggel-durch-kritische-Luecke-in-NoSQL-Datenbank-Apache-Cassandra-6495127.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-E-Mail-Appliances-von-Cisco-per-Mail-lahmlegen-6494964.html"
     },
     {
-      "title": "Android-App Termux",
-      "url": "https://www.heise.de/news/Terminal-Emulator-App-fuer-Android-Gefaehrliche-Luecken-in-Termux-geschlossen-6489756.html"
+      "title": "Root-Rechte durch Schwachstelle in Softwareverteilungssystem Snap",
+      "teaser": "Sicherheitslücken in der Software-Bereitstellung Snap ermöglichen Angreifern unter anderem, ihre Rechte im System auszuweiten. Updates beheben die Fehler.",
+      "url": "https://www.heise.de/news/root-Rechte-durch-Schwachstelle-in-Softwareverteilungssystem-Snap-6495740.html",
+      "image_title": "Aufmacher root-Lücke in Snap geschlossen"
     },
     {
       "title": "Datenleck im Shopsystem von Tuxedo Computers",
@@ -148,12 +154,6 @@
       "teaser": "Der Chaos Computer Club hat nach Datenlecks gesucht und zahlreiche gefunden. Staatliche Einrichtungen und Unternehmen waren zu sorglos mit Nutzerdaten.",
       "url": "https://www.heise.de/news/CCC-Mehr-als-50-Datenlecks-mit-ueber-6-Millionen-Datensaetzen-gefunden-6457880.html",
       "image_title": "Aufmacher CCC findet 50+ Datenlecks"
-    },
-    {
-      "title": "Positiver Trend: Hersteller schließen Sicherheitslücken schneller",
-      "teaser": "Googles Project-Zero hat ausgewertet, wie sich die Hersteller beim Schließen von Sicherheitslücken schlagen. Sie sind deutlich schneller geworden.",
-      "url": "https://www.heise.de/news/Positiver-Trend-Hersteller-schliessen-Sicherheitsluecken-schneller-6457567.html",
-      "image_title": "Aufmacher: Hersteller patchen schneller"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
