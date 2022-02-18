@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-18T08:22:38",
+  "timestamp": "2022-02-18T09:18:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,20 +32,36 @@
   ],
   "articles": [
     {
+      "title": "Apache Cassandra",
+      "url": "https://www.heise.de/news/Codeschmuggel-durch-kritische-Luecke-in-NoSQL-Datenbank-Apache-Cassandra-6495127.html"
+    },
+    {
+      "title": "Adobe Commerce und Magento",
+      "url": "https://www.heise.de/news/Onlineshops-Erneut-kritische-Luecke-in-Adobe-Commerce-und-Magento-entdeckt-6495424.html"
+    },
+    {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Angreifer-koennten-E-Mail-Appliances-von-Cisco-per-Mail-lahmlegen-6494964.html"
+    },
+    {
       "title": "Android-App Termux",
       "url": "https://www.heise.de/news/Terminal-Emulator-App-fuer-Android-Gefaehrliche-Luecken-in-Termux-geschlossen-6489756.html"
     },
     {
-      "title": "Thunderbird",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Praeparierte-Mails-koennen-Thunderbird-aus-dem-Tritt-bringen-6484606.html"
+      "title": "Codeschmuggel durch kritische Lücke in der NoSQL-Datenbank Apache Cassandra",
+      "teaser": "Durch eine kritische Sicherheitslücke in der verteilten NoSQL-Datenbank Apache Cassandra hätten Angreifer Schadcode einschleusen und ausführen können.",
+      "url": "https://www.heise.de/news/Codeschmuggel-durch-kritische-Luecke-in-NoSQL-Datenbank-Apache-Cassandra-6495127.html",
+      "image_title": "Aufmacher RCE in Apache Cassandra"
     },
     {
-      "title": "Atlassian Jira",
-      "url": "https://www.heise.de/news/Atlassian-Confluence-und-Jira-fuer-mehrere-Attacken-anfaellig-6478758.html"
+      "title": "Onlineshops: Erneut kritische Lücke in Adobe Commerce und Magento entdeckt",
+      "teaser": "Aufgrund einer weiteren Sicherheitslücke hat Adobe einen Notfallpatch überarbeitet. Es gibt bereits Attacken auf Onlineshops.",
+      "url": "https://www.heise.de/news/Onlineshops-Erneut-kritische-Luecke-in-Adobe-Commerce-und-Magento-entdeckt-6495424.html"
     },
     {
-      "title": "VMware",
-      "url": "https://www.heise.de/news/VMware-Sicherheitsupdates-Angreifer-koennten-Schadcode-in-Host-Systeme-schieben-6478188.html"
+      "title": "Angreifer könnten E-Mail Appliances von Cisco per Mail lahmlegen",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für mehrere Cisco-Produkte. Keine der Lücken ist als kritisch eingestuft.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-E-Mail-Appliances-von-Cisco-per-Mail-lahmlegen-6494964.html"
     },
     {
       "title": "iX-Workshop: Azure AD als zentralen Authentifizierungsdienst einrichten",
@@ -139,24 +155,6 @@
       "title": "\"Tote erben länger\" – 2 Millionen Prämie für Bug in Blockchain-Projekt",
       "teaser": "Ein Hacker strich ein Bug-Bounty von 2 Millionen US-Dollar ein, weil er einem Blockchain-Projekt einen Fehler im Design ihrer Basis-Funktionen nachgewiesen hat.",
       "url": "https://www.heise.de/news/Tote-erben-laenger-2-Millionen-Praemie-fuer-Bug-in-Blockchain-Projekt-6447076.html"
-    },
-    {
-      "title": "68 Millionen US-Dollar im Jahr 2021 durch SIM-Swapping ergaunert",
-      "teaser": "Das FBI warnt vor einer starken Zunahme sogenannten SIM-Swappings, durch das Angreifer im Jahr 2021 einen Multi-Millionen-Schaden angerichtet haben.",
-      "url": "https://www.heise.de/news/68-Millionen-US-Dollar-im-Jahr-2021-durch-SIM-Swapping-ergaunert-6446495.html",
-      "image_title": "Aufmacher FBI: SIM-Swapping richtet 68 Mio US-$ Schaden an"
-    },
-    {
-      "title": "Luftnummer: Warnung vor Geisterberührungen auf Touchscreens",
-      "teaser": "Die TU Darmstadt warnt, dass gezielte Angriffe auf Touchscreens möglich seien. Praxistauglich ist der beschriebene \"GhostTouch\"-Angriff jedoch nicht.",
-      "url": "https://www.heise.de/news/Luftnummer-Warnung-vor-Geisterberuehrungen-auf-Touchscreens-6445488.html",
-      "image_title": "Aufmacher Touchscreen angreifbar"
-    },
-    {
-      "title": "Schwachstelle im Virenschutz Microsoft-Defender stillschweigend abgedichtet",
-      "teaser": "Durch zu laxe Rechtevergabe hätten Angreifer auf die Microsoft-Defender-Ausnahmen zugreifen können. Die Lücke hat das Unternehmen ohne Ankündigung behoben.",
-      "url": "https://www.heise.de/news/Schwachstelle-im-Virenschutz-Microsoft-Defender-stillschweigend-abgedichtet-6444399.html",
-      "image_title": "Aufmacher Microsoft Defender schließt stillschweigend Lücke"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
