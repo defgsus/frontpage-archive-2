@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-02-21T13:22:08",
+  "timestamp": "2022-02-21T14:19:04",
   "url": "https://www.bild.de/digital/startseite/digital/digital-home-15479358.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,19 +19,43 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.3.0-cats-release--22.03/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.3.0-cats-release--22.03/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,58725794.1-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://script.ioam.de/iam.js?m=1",
+      "src": "https://script.ioam.de/iam.js",
       "id": null,
       "text": null
     },
@@ -46,308 +64,7 @@
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.fc5849e4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendor.8fa6f0b0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f79ca389.js",
-      "id": null,
-      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Jede Anfrage kostet Energie : Killen Suchmaschinen das Klima?",
-      "url": "https://www.bild.de/digital/internet/internet/jede-anfrage-kostet-energie-killen-suchmaschinen-das-klima-79194710.bild.html",
-      "image_url": "https://images.bild.de/620f76b731487a31c5e3cf05/0b16efb489932e1be1facefa926211ea/2/3?w=656",
-      "image_title": "Jede Anfrage kostet Energie: Killen Suchmaschinen das Klima?"
-    },
-    {
-      "title": "Gefahr von Cyber-Attacken : So schützt sich der US-Präsident vor Russen-Hackern",
-      "url": "https://www.bild.de/digital/internet/internet/gefahr-von-cyber-attacken-so-schuetzt-sich-der-us-praesident-vor-russen-hackern-79201366.bild.html",
-      "image_url": "https://images.bild.de/620fc0cb31487a31c5e3cfd4/066c219b7df237ee290f71f7f266cf2d-miniSquare/2/3?w=320",
-      "image_title": "Gefahr von Cyber-Attacken: So schützt sich der US-Präsident vor Russen-Hackern"
-    },
-    {
-      "title": "Neue AirPods-Funktion : Apple-Kopfhörer könnten Besitzer am Ohr erkennen",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/airpods-von-apple-kopfhoerer-koennten-besitzer-bald-am-ohr-erkennen-79185428.bild.html",
-      "image_url": "https://images.bild.de/620e45a131487a31c5e3cd9b/6ecb662b416681776b1ad7213f19a97c-miniSquare/1/2?w=320",
-      "image_title": "AirPods von Apple: Kopfhörer könnten Besitzer bald am Ohr erkennen"
-    },
-    {
-      "title": "Krypto-Wahnsinn : Geld scheffeln ohne Grafikkarte - so klappt’s",
-      "url": "https://www.bild.de/bild-plus/digital/computer/computer/krypto-waehrung-ohne-grafikkarte-geld-scheffeln-so-geht-es-79094340.bild.html"
-    },
-    {
-      "title": "Wie früher : Tinder bringt das Blind Date zurück",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/neue-funktion-tinder-bringt-das-blind-date-zurueck-79144882.bild.html"
-    },
-    {
-      "title": "Wer wirklich reicht wird : So trügerisch ist der Goldrausch bei Metaverse",
-      "url": "https://www.bild.de/bild-plus/digital/internet/internet/goldrausch-im-zukuenftigen-internet-wer-im-metaverse-wirklich-reich-wird-79117312.bild.html"
-    },
-    {
-      "title": "„Krass Klassenfahrt“ : Jamie schickte Freundin Foto seines nackten ...",
-      "url": "https://www.bild.de/video/clip/leute/krass-klassenfahrt-jamie-schickte-freundin-foto-seines-nackten-78226214,auto=true.bild.html",
-      "image_title": "„Krass Klassenfahrt“: Jamie schickte Freundin Foto seines nackten ..."
-    },
-    {
-      "title": "Facebook präsentiert Metaverse : „Zuckerberg will nur von seinen Problemen ablenken“",
-      "url": "https://www.bild.de/video/clip/bild-tv/facebook-zuckerberg-will-mit-meta-nur-von-seinen-problemen-ablenken-78097208,auto=true.bild.html",
-      "image_title": "Facebook: „Zuckerberg will mit Meta nur von seinen Problemen ablenken“"
-    },
-    {
-      "title": "Mega-Panne im Netz : Facebook, Instagram und WhatsApp offline",
-      "url": "https://www.bild.de/video/clip/digital/mega-panne-im-netz-facebook-instagram-und-whatsapp-offline-77869458,auto=true.bild.html",
-      "image_title": "Mega-Panne im Netz: Facebook, Instagram und WhatsApp offline"
-    },
-    {
-      "title": "Amazon-Haushaltsroboter : Statt Hund oder Katze: Jetzt kommt Astro!",
-      "url": "https://www.bild.de/video/clip/digital/amazon-haushaltsroboter-statt-hund-oder-katze-jetzt-kommt-astro-77818736,auto=true.bild.html",
-      "image_title": "Amazon-Haushaltsroboter : Statt Hund oder Katze: Jetzt kommt Astro!"
-    },
-    {
-      "title": "Besuch im Knotenpunkt : Durch diese Kabel fließen Ihre WhatsApp-Chats",
-      "url": "https://www.bild.de/bild-plus/video/clip/frankfurt-regional/durch-diese-kabel-fliessen-ihre-whatsapp-chats-77705960,auto=true.bild.html",
-      "image_title": "Durch diese Kabel fließen Ihre WhatsApp-Chats"
-    },
-    {
-      "title": "Funktioniert das? : Handy-Spiele zocken und damit Geld verdienen",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/funktioniert-das-handy-spiele-zocken-und-damit-geld-verdienen-78852154.bild.html",
-      "image_title": "Funktioniert das?: Handy-Spiele zocken und damit Geld verdienen"
-    },
-    {
-      "title": "Ständig neue Modelle : Wann Sie wirklich ein neues Handy kaufen sollten",
-      "teaser": "Verbraucher warten durchschnittlich 40 Monate, bis sie das Smartphone wechseln.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/jedes-jahr-neue-handy-modelle-wann-sie-wirklich-ein-neues-handy-kaufen-sollten-79096010.bild.html",
-      "image_title": "Neues Smartphone kaufen? Wann Sie wirklich ein neues Handy brauchen"
-    },
-    {
-      "title": "Galaxy S22 ausprobiert : Samsungs neue S-Serie: S-uper, S-olide oder S-ch…?",
-      "teaser": "Drei Modelle hat Samsung vom neuen Galaxy S22 vorgestellt. BILD hat sie ausprobiert.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/samsung-galaxy-s22-die-neue-s-serie-im-test-s22-s22-s22-ultra-79094306.bild.html",
-      "image_title": "Samsung Galaxy S22: Die neue S-Serie im Test (S22, S22+, S22 Ultra)"
-    },
-    {
-      "title": "Auf dem Smartphone : So sehen Sie, welche Briefe die Post bringen wird",
-      "teaser": "Handy-Besitzer können morgens in einer App sehen, welche Briefe heute zugestellt werden.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/post-so-sehen-sie-auf-dem-handy-welche-briefe-heute-kommen-werden-78956414.bild.html",
-      "image_title": "Post: So sehen Sie auf dem Handy, welche Briefe im Briefkasten liegen"
-    },
-    {
-      "title": "Corona-Warn-App : Was bedeutet eine Begegnung mit „erhöhtem Risiko“?",
-      "teaser": "BILD beantwortet die aktuell wichtigsten Fragen zur CWA.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/corona-app-risiko-rot-zertifikat-2g-status-was-sie-jetzt-wissen-muessen-78928840.bild.html",
-      "image_title": "Corona-Warn-App: Risiko rot, Zertifikat, 2G-Status – was Sie wissen müssen"
-    },
-    {
-      "title": "Tipps ab Null Euro : So sorgen Sie für perfekten Heimkino-Klang",
-      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/tipps-ab-null-euro-so-sorgen-sie-fuer-perfekten-heimkino-klang-79040722.bild.html",
-      "image_title": "Tipps ab Null Euro: So sorgen Sie für perfekten Heimkino-Klang"
-    },
-    {
-      "title": "Stiftung Warentest : Diese Powerbanks liefern unterwegs am meisten Saft",
-      "teaser": "Powerbanks tanken Handy-Akkus wieder auf. Die Stiftung Warentest prüfte 19 Modelle.",
-      "url": "https://www.bild.de/digital/multimedia/multimedia/stiftung-warentest-diese-powerbanks-liefern-unterwegs-am-meisten-saft-78938694.bild.html",
-      "image_title": "Powerbank Test „Stiftung Warentest“: Diese Zusatzakkus liefern am meisten Saft"
-    },
-    {
-      "title": "Tiertests erfolgreich : Musk will Hirnimplantat jetzt am Menschen testen",
-      "teaser": "Nach Tier-Tests bereitet Neuralink jetzt die Erprobung von Hirn-Chips am Menschen vor.",
-      "url": "https://www.bild.de/digital/multimedia/multimedia/elon-musk-neuralink-will-hirnimplantat-jetzt-am-menschen-testen-78922400.bild.html",
-      "image_title": "Elon Musk: Neuralink will Hirnimplantat jetzt am Menschen testen"
-    },
-    {
-      "title": "Apple-Insider-Überraschung : Vier neue iPhone-Modelle!",
-      "teaser": "Ein gut informierter Insider erwartet im Herbst so viele Neuheiten von Apple wie nie.",
-      "url": "https://www.bild.de/digital/multimedia/multimedia/apple-insider-erwartet-so-viele-neuheiten-im-herbst-wie-nie-78921918.bild.html",
-      "image_title": "Apple: Insider erwartet so viele Neuheiten im Herbst wie nie"
-    },
-    {
-      "title": "Roboter in der Pflege : Mehr Zeit für den Menschen",
-      "teaser": "Roboter sollen in Zukunft für mehr Menschlichkeit in der Pflege sorgen.",
-      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/roboter-in-der-pflege-mehr-zeit-fuer-den-menschen-78755734.bild.html",
-      "image_title": "Roboter in der Pflege: Mehr Zeit für den Menschen"
-    },
-    {
-      "title": "Technik-Messe CES : Roboter mit menschlichem Gesichtsausdruck",
-      "teaser": "Auf der Technikmesse CES 2022 zeigen Hersteller, wie Maschinen mit uns leben könnten.",
-      "url": "https://www.bild.de/digital/multimedia/multimedia/technik-messe-ces-roboter-mit-menschlichem-gesichtsausdruck-78741836.bild.html",
-      "image_title": "Technik-Messe CES: Roboter mit menschlichem Gesichtsausdruck"
-    },
-    {
-      "title": "Acht Modelle ab 150 Euro im Test : Die besten Saug- und Wischroboter",
-      "url": "https://www.bild.de/bild-plus/digital/2021/digital/acht-modelle-im-test-die-besten-saug-und-wischroboter-fuer-zu-hause-78308858.bild.html",
-      "image_title": "Die besten Saug- und Wischroboter für zu Hause: Acht Modelle im Test"
-    },
-    {
-      "title": "Geld im Internet verdienen : 100 000 Euro Jahresgehalt - so einfach geht's",
-      "teaser": "Eine Expertin erklärt, wie Sie bis zu 100 000 Euro Jahresgehalt erreichen können, indem Sie Ihre wertvollen Erfahrungen nutzen.",
-      "url": "https://www.bild.de/bild-plus/digital/internet/internet/internet-geschaeft-in-drei-schritten-zu-100000-euro-jahresgehalt-74200326.bild.html",
-      "image_title": "Geld: So kommen Sie in drei Schritten zu 100.000 Euro Gehalt im Jahr"
-    },
-    {
-      "title": "Preise, Werbung & Mehr : Immer nur Ärger mit diesem Streaming",
-      "teaser": "Die Preise steigen, trotzdem wird Werbung gezeigt und ständig gibt es neue Anbieter.",
-      "url": "https://www.bild.de/bild-plus/digital/internet/internet/preiserhoehung-werbung-mehr-immer-nur-aerger-mit-diesem-streaming-78975366.bild.html",
-      "image_title": "Preiserhöhung, Werbung & mehr: Immer nur Ärger mit diesem Streaming"
-    },
-    {
-      "title": "Sechs Anzeichen : So sehen Sie, wer Sie bei WhatsApp blockiert hat",
-      "teaser": "WhatsApp zeigt nicht direkt, wenn man von einer Person blockiert wurde. Es gibt aber eine Reihe von Anzeichen dafür.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/sechs-anzeichen-so-sehen-sie-wer-sie-bei-whatsapp-blockiert-hat-77207824.bild.html",
-      "image_title": "Sechs Anzeichen: So sehen Sie, wer Sie bei WhatsApp blockiert hat"
-    },
-    {
-      "title": "Liste mit 168 Geräten : So viel ist Ihr altes Smartphone noch wert!",
-      "teaser": "Gerade alte iPhones und Samsung-Smartphones können noch wertvoll sein.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/altes-handy-verkaufen-restwert-liste-mit-168-geraeten-iphone-samsung-google-78863258.bild.html",
-      "image_title": "Altes Handy verkaufen: So viel ist Ihr Smartphone noch wert! (iPhone, Samsung, Google ...)"
-    },
-    {
-      "title": "Blitzer-Warner fürs Handy : Lappen weg wegen einer App?",
-      "teaser": "Wer mit Warn-App fährt, riskiert ein hohes Bußgeld. Aber das Gesetz hat eine Schwachstelle.",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/achtung-autofahrer-blitzer-apps-sind-jetzt-ausdruecklich-verboten-68887886.bild.html",
-      "image_title": "Blitzer-Apps im Auto sind verboten – doch es gibt eine Schwachstelle"
-    },
-    {
-      "title": "Internet-Gerüchte um Aktien-Deal : Was hat der Moderna-Chef zu verbergen?",
-      "url": "https://www.bild.de/digital/internet/internet/geruechte-um-aktien-deal-was-hat-der-moderna-chef-zu-verbergen-79137220.bild.html",
-      "image_title": "Gerüchte um Aktien-Deal: Was hat der Moderna-Chef zu verbergen?"
-    },
-    {
-      "title": "Von Hackern geknackt : Digitales Zeugnis durchgefallen – Plattform offline",
-      "teaser": "Hacker demonstrieren, wie einfach Zeugnisse manipuliert und Daten entwendet werden können.",
-      "url": "https://www.bild.de/digital/internet/internet/von-hackern-geknackt-digitales-zeugnis-durchgefallen-plattform-offline-79105812.bild.html",
-      "image_title": "Von Hackern geknackt: Digitales Zeugnis durchgefallen, Plattform offline"
-    },
-    {
-      "title": "Streit mit der EU : Schaltet Zuckerberg uns Facebook und Instagram ab?",
-      "teaser": "In einem Bericht an die Börsenaufsicht droht Meta, seine Netzwerke in Europa abzuschalten.",
-      "url": "https://www.bild.de/digital/internet/internet/streit-mit-eu-schaltet-zuckerberg-facebook-und-instagram-in-europa-ab-79067704.bild.html",
-      "image_title": "Streit mit EU: Schaltet Zuckerberg Facebook und Instagram in Europa ab?"
-    },
-    {
-      "title": "US-Amazon wird teurer : Steigt der Prime-Preis auch bei uns?",
-      "teaser": "Geht es den deutschen Kunden von Amazon Prime bald weiter ans Geld?",
-      "url": "https://www.bild.de/digital/internet/internet/amazon-prime-preis-erhoehung-in-den-usa-und-bald-auch-in-deutschland-79042936.bild.html",
-      "image_title": "Amazon Prime: Preis-Erhöhung in den USA – und bald auch in Deutschland?"
-    },
-    {
-      "title": "Internet und Telefon betroffen : Störung im Festnetz von Vodafone",
-      "teaser": "Am Montagnachmittag hatte Vodafone mit Störungen im Festnetz zu kämpfen.",
-      "url": "https://www.bild.de/digital/internet/internet/stoerung-bei-vodafone-internet-und-telefon-deutschlandweit-betroffen-78996464.bild.html",
-      "image_title": "Störung bei Vodafone: Internet und Telefon deutschlandweit betroffen"
-    },
-    {
-      "title": "Über 10 Prozent Rendite : Dieses Krypto-Geld wird von alleine mehr",
-      "url": "https://www.bild.de/bild-plus/digital/computer/computer/ueber-10-prozent-rendite-dieses-krypto-geld-wird-von-alleine-mehr-77004202.bild.html",
-      "image_title": "Dieses Krypto-Geld wird von alleine mehr - über 10 Prozent Rendite"
-    },
-    {
-      "title": "Endlich einfacher : So schürfen Sie Krypto-Währung OHNE Super-PC",
-      "teaser": "Mit einem spannenden Konzept geht das „Schürfen“ von Krypto-Wärhung jetzt auch ohne super schnellen Computer.",
-      "url": "https://www.bild.de/bild-plus/digital/computer/computer/endlich-einfacher-so-schuerfen-sie-krypto-waehrung-ohne-super-pc-76906160.bild.html",
-      "image_title": "Endlich einfacher: So schürfen Sie Krypto-Währung OHNE Super-PC"
-    },
-    {
-      "title": "Dauertest zeigt : Der beste Virenschutz für Windows ist gratis!",
-      "teaser": "Ein unabhängiges Institut hat 21 Programme getestet. Das Ergebnis ist überraschend.",
-      "url": "https://www.bild.de/bild-plus/digital/computer/computer/windows-10-geld-fuer-virenschutz-koennen-sie-sich-sparen-65187458.bild.html",
-      "image_title": "Der beste Virenschutz für Windows ist gratis"
-    },
-    {
-      "title": "Angebote aus dem Netz : Sind Billig-Lizenzen für Windows und Office legal?",
-      "teaser": "Angebote im Internet und bei Discountern wirken viel zu günstig, um seriös zu sein.",
-      "url": "https://www.bild.de/bild-plus/digital/computer/computer/sind-billig-lizenzen-fuer-windows-und-office-legal-62858670.bild.html",
-      "image_title": "Microsoft: Sind Billig-Lizenzen für Office und Windows legal?"
-    },
-    {
-      "title": "Tech-Freaks-Podcast : Steve Jobs Computer für 500 000 Dollar versteigert",
-      "teaser": "Im Podcast „Tech-Freaks“ sprechen Sven und Martin über die digitalen Themen der Woche.",
-      "url": "https://www.bild.de/digital/computer/computer/tech-freaks-zu-apple-1-sony-ps5-facebook-icloud-instagram-uvm-78215626.bild.html",
-      "image_title": "Tech-Freaks zu Apple-1, Sony PS5, Facebook, iCloud, Instagram uvm."
-    },
-    {
-      "title": "Die perfekte Illusion : Mit einem Klick ins Weltall!",
-      "teaser": "München – Deutschlands erstes virtuelles Produktionsstudio kann jeden Ort der Welt „herbeamen“.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/die-perfekte-illusion-mit-einem-klick-ins-weltall-77959180.bild.html",
-      "image_title": "Die perfekte Illusion: Mit einem Klick ins Weltall!"
-    },
-    {
-      "title": "Lahmes Internet? : Verbraucherschutz rät: Zahlen Sie weniger!",
-      "url": "https://www.bild.de/bild-plus/digital/internet/internet/lahmes-internet-verbraucherschutz-raet-zahlen-sie-weniger-78249650.bild.html",
-      "image_title": "Internet langsam? Verbraucherschutz rät: Zahlen Sie weniger!"
-    },
-    {
-      "title": "eBooks : Was Sie über Kindle und Tolino wissen müssen",
-      "teaser": "Tausende Bücher in einem kleinen Gerät - ein Traum. Doch welches System ist das Richtige?",
-      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/ebooks-was-sie-ueber-kindle-und-tolino-wissen-muessen-78291806.bild.html",
-      "image_title": "eBooks: Was Sie über Kindle und Tolino wissen müssen"
-    },
-    {
-      "title": "Bild-Diagonale, Auflösung, Abstand : So finden Sie den perfekten Fernseher",
-      "teaser": "Gibt es zu viel Bild? Klar! Der BILD-Ratgeber erklärt, wie Sie Ihren perfekten TV finden.",
-      "url": "https://www.bild.de/digital/multimedia/multimedia/bilddiagonale-aufloesung-abstand-so-gross-sollte-ihr-fernseher-sein-77664850.bild.html",
-      "image_title": "Bilddiagonale, Auflösung, Abstand: So groß sollte Ihr Fernseher sein"
-    },
-    {
-      "title": "Auf wenige Meter genau : Wie jeder Fleck der Erde eine Adresse erhält",
-      "teaser": "Verschiedene Kodiersysteme geben jedem Flecken der Erde eine einzigartige Adresse.",
-      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/kodiersysteme-wie-jeder-fleck-der-erde-eine-adresse-erhaelt-77431504.bild.html",
-      "image_title": "Auf wenige Meter genau: Wie jeder Fleck der Erde eine Adresse erhält"
-    },
-    {
-      "title": "Version 11 vorgestellt : 5 Dinge, auf die sich Windows-Nutzer freuen können",
-      "teaser": "Im Spätherbst kommt Windows 11 auf PCs und Notebooks. BILD stellt fünf Dinge vor, die das Betriebssystem besonders spannend machen.",
-      "url": "https://www.bild.de/digital/computer/computer/windows-11-fuenf-dinge-auf-die-sich-windows-nutzer-freuen-koennen-76877550.bild.html",
-      "image_title": "Version 11 vorgestellt: Fünf Dinge, auf die sich Windows-Nutzer freuen können"
-    },
-    {
-      "title": "BILD-Spiele der Woche : Für diesen Koop-Shooter braucht man starke Nerven",
-      "url": "https://www.bild.de/spiele/spiele-test/spiele-test/spiele-der-woche-fuer-deep-rock-galactic-braucht-man-starke-nerven-70581380.bild.html",
-      "image_title": "BILD-Spiele der Woche: Für diesen Koop-Shooter braucht man starke Nerven"
-    },
-    {
-      "title": "Baller-Gemetzel im Test : Brutal, brutaler, „Doom Eternal“",
-      "teaser": "Für dieses Spiel brauchen Gamer einen starken Magen: „Doom Eternal“ wartet wieder mit jeder Menge Blut auf. BILD hat es getestet.",
-      "url": "https://www.bild.de/spiele/spiele-news/spiele-news/gewalt-shooter-im-test-brutal-brutaler-doom-eternal-69491652.bild.html",
-      "image_title": "Gewalt-Shooter im Test: Brutal, brutaler, „Doom Eternal“"
-    },
-    {
-      "title": "Springen, Ballern und Taktik : Die BILD-Spiele der Woche",
-      "teaser": "Ein Spiel wie ein trauriger Traum, ein knallharter Taktik-Shooter und ein Rollenspiel, das an das Kartenspiel „Magic“ erinnert.",
-      "url": "https://www.bild.de/spiele/spiele-test/spiele-test/springen-ballern-und-taktik-die-bild-spiele-der-woche-69637982.bild.html",
-      "image_title": "Springen, Ballern und Taktik: Die BILD-Spiele der Woche"
-    },
-    {
-      "title": "Prügeln, Taktik und ein Film : Die BILD-Spiele der Woche",
-      "teaser": "Dieses Mal mit einem 3D-Prügler im Geiste von „Overwatch“, einem Strategiespiel mit Zeitmanipulation und einem interaktiven Film.",
-      "url": "https://www.bild.de/spiele/spiele-test/spiele-test/pruegeln-taktik-und-ein-interaktiver-film-die-bild-spiele-der-woche-69797408.bild.html",
-      "image_title": "Prügeln, Taktik und ein interaktiver Film: Die BILD-Spiele der Woche"
-    },
-    {
-      "title": "BILD-Spiele der Woche : Hier ballern Sie die Seuche einfach weg",
-      "teaser": "Dieses Mal: das Remake eines Horror-Klassikers, Konkurrenz für „Counter Strike“ und ein Handy-Spiel mit „Diablo“-Qualitäten.",
-      "url": "https://www.bild.de/spiele/spiele-test/spiele-test/spiele-der-woche-hier-ballern-sie-die-seuche-einfach-weg-70079604.bild.html",
-      "image_title": "BILD-Spiele der Woche: Hier ballern Sie die Seuche einfach weg"
-    },
-    {
-      "title": "„Warzone“ : ALLES zum neuen Kostenlos-„Call Of Duty“",
-      "teaser": "„Call Of Duty“ gibt es jetzt gratis! BILD kennt exklusiv die Details zum neuesten Ableger der Serie.",
-      "url": "https://www.bild.de/spiele/spiele-news/spiele-news/warzone-alles-zum-neuen-kostenlos-call-of-duty-69287654.bild.html",
-      "image_title": "„Warzone“: ALLES zum neuen Kostenlos-„Call Of Duty“"
-    }
-  ]
+  "articles": []
 }
