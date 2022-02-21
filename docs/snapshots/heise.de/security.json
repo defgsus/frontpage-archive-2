@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-21T10:22:23",
+  "timestamp": "2022-02-21T11:16:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress-Plug-in UpdraftPlus",
+      "url": "https://www.heise.de/news/WordPress-Plug-in-UpdraftPlus-koennte-Website-Backups-leaken-6510427.html"
+    },
+    {
       "title": "Snap",
       "url": "https://www.heise.de/news/root-Rechte-durch-Schwachstelle-in-Softwareverteilungssystem-Snap-6495740.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Onlineshops-Erneut-kritische-Luecke-in-Adobe-Commerce-und-Magento-entdeckt-6495424.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Angreifer-koennten-E-Mail-Appliances-von-Cisco-per-Mail-lahmlegen-6494964.html"
+      "title": "WordPress-Plug-in UpdraftPlus",
+      "teaser": "Aufgrund einer nicht ausreichenden Prüfung könnten Backups von WordPress-Seiten in die Hände von Angreifern gelangen. Sicherheitsupdates schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/WordPress-Plug-in-UpdraftPlus-koennte-Website-Backups-leaken-6510427.html"
+    },
+    {
+      "title": "Ungewöhnlicher Krypto-Raubzug erbeutet Millionen",
+      "teaser": "Ein vergleichsweise kleiner Coup für DeFi-Verhältnisse zeigt grundsätzliche Schwächen des Internets auf: Unsicheres Routing gefährdet alle Internet-Dienste.",
+      "url": "https://www.heise.de/news/Ungewoehnlicher-Krypto-Raubzug-erbeutet-Millionen-6496145.html"
     },
     {
       "title": "iX-Workshop: In drei Tagen zum IT-Grundschutz-Praktiker mit Zertifikat",
@@ -54,10 +64,10 @@
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
     },
     {
-      "title": "Spear-Phishing nach Exchange-Einbruch",
-      "teaser": "Nachdem die Exchange-Sicherheitslücken abgedichtet wurden, gingen Angriffe weiter. Mittels Spear-Phishing sollten die Opfer zu Überweisungen gedrängt werden.",
-      "url": "https://www.heise.de/news/Versuchter-Finanzbetrug-nach-Exchange-Einbruch-6509718.html",
-      "image_title": "Aufmacher Exchange-Lücke geschlossen, mündet in Spear-Phishing"
+      "title": "Macs mit T2-Sicherheitschip: Tool soll Passwort-Knacken ermöglichen",
+      "teaser": "Erstmals wird ein Forensik-Tool für Angriffe auf Macs mit T2-Chip vertrieben. Es nutzt wohl eine unpatchbare Schwachstelle des Apple-Chips.",
+      "url": "https://www.heise.de/news/Macs-mit-T2-Sicherheitschip-Tool-soll-Passwort-Knacken-ermoeglichen-6497844.html",
+      "image_title": "T2-Chip Mac"
     },
     {
       "title": "Root-Rechte durch Schwachstelle in Softwareverteilungssystem Snap",
@@ -143,18 +153,6 @@
       "title": "Kali Linux 2022.1 erstrahlt in frischem Glanz und bringt neue Tools mit",
       "teaser": "Die erste Version für 2022 der auf Sicherheitstests ausgelegten Linux-Distribution Kali Linux ist erschienen.",
       "url": "https://www.heise.de/news/Kali-Linux-2022-1-erstrahlt-in-frischem-Glanz-und-bringt-neue-Tools-mit-6475049.html"
-    },
-    {
-      "title": "Firewall OPNsense 22.1 stellt Basis auf FreeBSD um",
-      "teaser": "In OPNsense 22.1 haben die Entwickler das Fundament auf FreeBSD-Basis umgezogen. Das bedingt weitere Anpassungen. Etwas Vorsicht beim Update ist geboten.",
-      "url": "https://www.heise.de/news/Firewall-OPNsense-22-1-stellt-Basis-auf-FreeBSD-um-6474432.html",
-      "image_title": "Aufmacher OPNsense 22.1 veröffentlicht"
-    },
-    {
-      "title": "Internet of Things: Forscher demonstrieren Sicherheitslücken in MXview",
-      "teaser": "Schwachstellen in der IoT-Verwaltungssoftware MXview lassen sich offenbar leicht ausnutzen, zeigen Forscher mit einem PoC. Aktualisierungen sind verfügbar.",
-      "url": "https://www.heise.de/news/Internet-of-Things-Forscher-demonstrieren-Sicherheitsluecken-in-MXview-6473921.html",
-      "image_title": "Aufmacher Moxa MXview PoC zeigt Sicherheitslücken"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
