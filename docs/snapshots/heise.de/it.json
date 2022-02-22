@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-22T11:16:56",
+  "timestamp": "2022-02-22T12:33:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Ungewöhnlicher Krypto-Raubzug erbeutet Millionen",
+      "teaser": "Ein vergleichsweise kleiner Coup für DeFi-Verhältnisse zeigt grundsätzliche Schwächen des Internets auf: Unsicheres Routing gefährdet alle Internet-Dienste.",
+      "url": "https://www.heise.de/news/Ungewoehnlicher-Krypto-Raubzug-erbeutet-Millionen-6496145.html"
+    },
+    {
       "title": "Fujitsu: Ein offener und anpassungsfähiger Mainframe-Dino stirbt nicht aus",
       "teaser": "Einfach ablösen – so der schnelle Ruf beim Mainframe. Warum das oft gar nicht nötig ist, erklärt im Interview Fujitsu, nach IBM der zweitwichtigste Hersteller.",
       "url": "https://www.heise.de/news/Fujitsu-Ein-offener-und-anpassungsfaehiger-Mainframe-Dino-stirbt-nicht-aus-6495833.html"
@@ -34,11 +39,6 @@
       "title": "IT-Schwachstellen: ETSI rät zu Anreizen für Hacker statt in Panik zu geraten",
       "teaser": "Das EU-Normungsinstitut ETSI rät Firmen, ein Triage-Verfahren für gemeldete IT-Sicherheitslücken einzuführen und Finder etwa mit Werbegeschenken zu belohnen.",
       "url": "https://www.heise.de/news/IT-Sicherheit-ETSI-gibt-Tipps-zum-Umgang-mit-offengelegten-Schwachstellen-6505437.html"
-    },
-    {
-      "title": "Open-Source-Tool Unredacter macht verpixelten Text wieder lesbar",
-      "teaser": "Verpixelung ist keine sichere Methode, um Textpassagen unkenntlich zu machen, wie Sicherheitsforscher gezeigt haben.",
-      "url": "https://www.heise.de/news/Open-Source-Tool-Unredacter-macht-verpixelten-Text-wieder-lesbar-6497031.html"
     },
     {
       "title": "Phython für Datenanalysen: Effiziente Aufbereitung von Rohdaten mit pandas",
@@ -50,6 +50,38 @@
       "teaser": "Mithilfe unseres kompakten JavaScripts können Sie endlich wieder personalisierte Briefe mit Apples iWork-Apps verfassen.",
       "url": "https://www.heise.de/ratgeber/So-geht-s-Serienbriefe-mit-Apple-Pages-Numbers-und-JavaScript-erstellen-6512613.html",
       "image_title": "Serienbriefe in Pages erstellen"
+    },
+    {
+      "title": "NASA-Update landet: Open-Source Missionskontrollsystem Open MCT 2.0.0 ist da",
+      "teaser": "Die neue Version des Frameworks Open Mission Control Technologies (Open MCT) erleichtert den Umstieg von Legacy-Versionen und behebt zahlreiche Bugs.",
+      "url": "https://www.heise.de/news/NASA-Update-landet-Open-Source-Missionskontrollsystem-Open-MCT-2-0-0-ist-da-6516525.html"
+    },
+    {
+      "title": "iX-Workshop: Reproduzierbare Machine-Learning-Workflows mit git, dvc, mlflow",
+      "teaser": "An vier Vormittagen lernen Sie, wie Sie ML-Modelle mit Open-Source-Tools reproduzierbar in den Produktivbetrieb überführen. Frühbucherrabatt bis 7.3.",
+      "url": "https://www.heise.de/news/iX-Workshop-MLOps-Machine-Learning-Modelle-effektiv-deployen-6474906.html"
+    },
+    {
+      "title": "Konferenz zur Programmiersprache Clojure sucht bis 4. März nach Vorträgen",
+      "teaser": "Die Entwicklerkonferenz :clojureD findet dieses Jahr wieder vor Ort statt und zwar am 11. Juni 2022 in Berlin.",
+      "url": "https://www.heise.de/news/Konferenz-zur-Programmiersprache-Clojure-sucht-bis-4-Maerz-nach-Vortraegen-6516755.html"
+    },
+    {
+      "title": "Roboterhund kommt nach Essener Großbrand zum Einsatz",
+      "teaser": "Nach einem Großbrand in der Essener Innenstadt setzt die Polizei einen vierbeinigen Roboter mit Kamera bei der Erkundung der Brandruine ein.",
+      "url": "https://www.heise.de/news/Roboterhund-kommt-nach-Essener-Grossbrand-zum-Einsatz-6516426.html",
+      "image_title": "Roboter-Polizeihund"
+    },
+    {
+      "title": "US-Bundesbehörde CISA listet unzählige freie Security-Helferlein auf",
+      "teaser": "Admins aufgepasst: IT-Security ist komplex, doch es gibt jede Menge nützliche und vor allem kostenlose Services und Tools, die helfen können. Eine Auflistung.",
+      "url": "https://www.heise.de/news/US-Bundesbehoerde-CISA-listet-unzaehlige-freie-Security-Helferlein-auf-6515891.html"
+    },
+    {
+      "title": "Betriebssystem-Oldtimer: FreeDOS 1.3 mit neuen Programmen und Features",
+      "teaser": "Nach fünf Jahren Wartezeit ist es so weit, FreeDOS ist bei Version 1.3 angekommen. Auch neue Programme und Features haben darin Einzug gehalten.",
+      "url": "https://www.heise.de/news/Betriebssystem-Oldtimer-FreeDOS-1-3-mit-neuen-Programmen-und-Features-6515775.html",
+      "image_title": "Aufmacher FreeDOS 1.3"
     },
     {
       "title": "Business Automatisierung: Kogito 1.17 erhält neue Datenbankfunktionen",
@@ -98,37 +130,6 @@
       "teaser": "Angreifer könnten beliebige Befehle auf Synology-NAS-Geräten ausführen. Der Hersteller arbeitet an Updates zum Beheben der Fehler. Erste stehen bereit.",
       "url": "https://www.heise.de/news/NAS-Sicherheitsluecke-in-Synology-DSM-erlaubt-Ausfuehren-beliebiger-Befehle-6515542.html",
       "image_title": "Aufmacher Lücke in Synology DSM"
-    },
-    {
-      "title": "Erstes Internetkabel repariert: Tonga nach Vulkanausbruch wieder online",
-      "teaser": "Das Unterseekabel zwischen Fidschi und Tonga ist repariert, die Menschen in dem Inselstaat können wieder ins Internet. Inländische Kabel sollen jetzt folgen.",
-      "url": "https://www.heise.de/news/Erstes-Internetkabel-repariert-Tonga-nach-Vulkanausbruch-wieder-online-6515354.html"
-    },
-    {
-      "title": "Auf Knopfdruck: PDFs in Anwendungen erstellen mit HTML und CSS-Modul",
-      "teaser": "In E-Government- und Geschäftsanwendungen, aber auch im Schriftverkehr gilt es, Daten automatisiert als PDF verfügbar zu machen. Wie gelingt das am besten?",
-      "url": "https://www.heise.de/hintergrund/Auf-Knopfdruck-PDFs-in-Anwendungen-erstellen-mit-HTML-und-CSS-Modul-6457863.html",
-      "image_title": "Aus einem Laptop wird ein Buch und Ideen sprudeln daraus hervor"
-    },
-    {
-      "title": "Sicherheitsforscher: AirTag-Klon kann Apples Anti-Stalking-Funktionen umgehen",
-      "teaser": "Eine modifizierte Firmware soll es möglich machen, Personen lautlos und ohne Warnhinweise über Apples riesiges \"Wo ist?\"-Netzwerk zu tracken.",
-      "url": "https://www.heise.de/news/Sicherheitsforscher-AirTag-Klon-kann-Apples-Anti-Stalking-Funktionen-umgehen-6513058.html"
-    },
-    {
-      "title": "Intels Bitcoin-Mining-System: Schlechter als die der Konkurrenz",
-      "teaser": "In der Ankündigung versprach Intel eine besonders hohe Effizienz, die Realität erscheint beim Bonanza-Mine-System aber ernüchternd.",
-      "url": "https://www.heise.de/news/Intels-Bitcoin-Mining-System-Schlechter-als-von-der-Konkurrenz-6511633.html"
-    },
-    {
-      "title": "JavaScript-Konferenz in Präsenz: Das Programm der enterJS 2022 steht fest",
-      "teaser": "Vom 22. auf den 23. Juni findet die enterJS im Darmstadtium in Darmstadt statt. Interessierte können ab sofort Tickets zum Frühbucherpreis erwerben.",
-      "url": "https://www.heise.de/news/JavaScript-Konferenz-in-Praesenz-Das-Programm-der-enterJS-2022-steht-fest-6496840.html"
-    },
-    {
-      "title": "Tipp: iMessage-Tapbacks an Mac und iPad per Tastatur eingeben",
-      "teaser": "Die Schnellantworten für iMessages sind ebenso populär wie praktisch. An Mac und iPad lassen sich die Tapbacks per Tastenkürzel bequemer verwenden.",
-      "url": "https://www.heise.de/ratgeber/Tipp-iMessage-Tapbacks-an-Mac-und-iPad-per-Tastatur-eingeben-6511429.html"
     },
     {
       "title": "Backup & Recovery",
