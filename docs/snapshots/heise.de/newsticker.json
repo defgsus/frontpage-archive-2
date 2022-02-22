@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-22T17:19:47",
+  "timestamp": "2022-02-22T18:23:51",
   "url": "https://www.heise.de/newsticker/",
   "response": {
     "status": 200
@@ -25,6 +25,38 @@
     }
   ],
   "articles": [
+    {
+      "title": "C# 10: Record-Struktur-Typen und Namensraumimporte in der Praxis",
+      "url": "https://www.heise.de/ratgeber/C-10-Record-Struktur-Typen-und-Namensraumimporte-in-der-Praxis-6478565.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser"
+    },
+    {
+      "title": "In macOS integrierte Cloud-Dienste: Probleme bei Backups möglich",
+      "url": "https://www.heise.de/news/In-macOS-integrierte-Cloud-Dienste-Probleme-bei-Backups-moeglich-6518089.html"
+    },
+    {
+      "title": "Neue Apple-Gerüchte zu iPhone 14, VR-Headset und 20\"-Foldable",
+      "url": "https://www.heise.de/news/Neue-Apple-Geruechte-zu-iPhone-14-VR-Headset-und-20-Foldable-6518398.html"
+    },
+    {
+      "title": "Intel holt sich Chef-GPU-Architekten von AMD zurück",
+      "url": "https://www.heise.de/news/Intel-holt-sich-Chef-GPU-Architekten-von-AMD-zurueck-6518003.html"
+    },
+    {
+      "title": "Abgasbetrug: Gericht will Gutachten für italienische Musterklage einholen",
+      "url": "https://www.heise.de/news/Abgasbetrug-Gericht-will-Gutachten-fuer-italienische-Musterklage-einholen-6518063.html"
+    },
+    {
+      "title": "Software AG: Übernahmen sollen Wachstum sichern",
+      "url": "https://www.heise.de/news/Software-AG-will-mit-Uebernahmen-wachsen-und-mittelfristige-Ziele-erreichen-6517402.html"
+    },
+    {
+      "title": "Kurz informiert: Reparatur, Pendlerpauschale, KI-Kunst, Tonga",
+      "url": "https://www.heise.de/news/Kurz-informiert-Reparatur-Pendlerpauschale-KI-Kunst-Tonga-6516351.html"
+    },
+    {
+      "title": "Meta: Irische Datenschutzbehörde könnte Mexit ins Rollen bringen",
+      "url": "https://www.heise.de/news/Meta-Irische-Datenschutzbehoerde-koennte-Mexit-ins-Rollen-bringen-6517305.html"
+    },
     {
       "title": "Telekom: Bundesweite Störung legt Mobilfunk lahm",
       "url": "https://www.heise.de/news/Telekom-Bundesweite-Stoerung-legt-Mobilfunk-lahm-6518123.html"
@@ -1316,15 +1348,15 @@
       "url": "https://spiele.heise.de/#!Solitaer"
     },
     {
-      "title": "Jetzt anmelden!",
-      "url": "https://www.heise.de/newsletter/anmeldung.html?id=heise-shop",
-      "image_title": "hsNL"
+      "title": "Make Elektronik Special",
+      "url": "https://shop.heise.de/make-elektronik-special-2021/Print?wt_mc=intern.shop.shop.ma_elektronik.widg.textlink.textlink",
+      "image_title": "Make Elektronik Special"
     },
     {
       "title": "Unser Angebot für Ihre Weiterbildung",
-      "teaser": "Werden Sie mit unseren Workshops, Webinaren und Konferenzen zum Master Ihrer Entwicklungsprozesse - in gewohnter Heise-Qualität: unabhängig, praxisnah, kompetent.",
-      "url": "https://events.heise.de/devops/?wt_mc=intern.events.ho.cluster_devops.ho_teaser.banner.banner",
-      "image_title": "it_devops"
+      "teaser": "Ob Newcomer oder Profi: Meistern Sie Ihren Cloud-Betrieb mit unserem Angebot aus Workshops, Webinaren und Konferenzen – unabhängig, praxisnah, kompetent.",
+      "url": "https://events.heise.de/cloud?wt_mc=intern.events.ho.cluster_cloud.ho_teaser.banner.banner",
+      "image_title": "it_cloud"
     },
     {
       "title": "Die günstigsten Tarife finden",
@@ -1332,9 +1364,15 @@
       "url": "https://tarifrechner.heise.de/dsl"
     },
     {
-      "title": "ADAC Mobilität inzwischen bezahlbarer, energieintensiver und unzuverlässiger",
-      "teaser": "Der Verkehr in Deutschland hat in Richtung Nachhaltigkeit keine Fortschritte gemacht, hat der ADAC zusammen mit dem Prognos-Institut ermittelt.",
-      "url": "https://www.heise.de/news/ADAC-Mobilitaet-ist-bezahlbarer-energieintensiver-und-unzuverlaessiger-geworden-6516063.html"
+      "title": "Provider Deutsche Telekom: Bundesweite Störung legt Mobilfunk lahm",
+      "teaser": "Das Mobilfunknetz der Deutschen Telekom ist gestört. Nutzer können nicht oder nur eingeschränkt telefonieren. Ursächlich soll ein \"Software-Fehler\" sein.",
+      "url": "https://www.heise.de/news/Telekom-Bundesweite-Stoerung-legt-Mobilfunk-lahm-6518123.html"
+    },
+    {
+      "title": "NAS: Lücke in Synology DSM erlaubt Ausführen beliebiger Befehle",
+      "teaser": "Angreifer könnten beliebige Befehle auf Synology-NAS-Geräten ausführen. Der Hersteller arbeitet an Updates zum Beheben der Fehler. Erste stehen bereit.",
+      "url": "https://www.heise.de/news/NAS-Sicherheitsluecke-in-Synology-DSM-erlaubt-Ausfuehren-beliebiger-Befehle-6515542.html",
+      "image_title": "Aufmacher Lücke in Synology DSM"
     },
     {
       "title": "WASP-121 b Exoplanet mit Regen aus Edelsteinen und exotischem Wasserkreislauf",
@@ -1342,14 +1380,9 @@
       "url": "https://www.heise.de/news/WASP-121-b-Exoplanet-mit-Regen-aus-Edelsteinen-und-exotischem-Wasserkreislauf-6516169.html"
     },
     {
-      "title": "Wie gut wirkt der neue Impfstoff von Novavax in der Omikron-Welle?",
-      "teaser": "Auf den \"Protein-Klassiker\" unter den COVID-19-Impfstoffen haben viele gewartet. Nun soll er in der nächsten Woche erstmals verimpft werden. Was kann er?",
-      "url": "https://www.heise.de/hintergrund/Was-kann-der-neue-Impfstoff-von-Novavax-in-der-Omikron-Welle-6326187.html"
-    },
-    {
-      "title": "Bis 2080 Prüfbericht zum BKA-Staatstrojaner bleibt größtenteils geheim",
-      "teaser": "Der Bundesdatenschutzbeauftragte hat Ergebnisse einer technischen Prüfung des vom BKA programmierten Staatstrojaners herausgegeben – aber nur stark geschwärzt.",
-      "url": "https://www.heise.de/news/Pruefbericht-zum-BKA-Staatstrojaner-bleibt-groesstenteils-geheim-bis-2080-6512916.html"
+      "title": "Meta Irische Datenschutzbehörde könnte Mexit ins Rollen bringen",
+      "teaser": "Die oberste irische Datenschützerin hat die Aussetzung der transatlantischen Datenübermittlung beantragt – mit möglichen Folgen für Metas Dienste in Europa.",
+      "url": "https://www.heise.de/news/Meta-Irische-Datenschutzbehoerde-koennte-Mexit-ins-Rollen-bringen-6517305.html"
     }
   ]
 }
