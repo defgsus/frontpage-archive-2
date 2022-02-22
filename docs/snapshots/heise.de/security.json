@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-22T07:18:22",
+  "timestamp": "2022-02-22T08:23:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Synology DSM",
+      "url": "https://www.heise.de/news/NAS-Sicherheitsluecke-in-Synology-DSM-erlaubt-Ausfuehren-beliebiger-Befehle-6515542.html"
+    },
+    {
       "title": "WordPress-Plug-in UpdraftPlus",
       "url": "https://www.heise.de/news/WordPress-Plug-in-UpdraftPlus-koennte-Website-Backups-leaken-6510427.html"
     },
@@ -44,24 +48,26 @@
       "url": "https://www.heise.de/news/Codeschmuggel-durch-kritische-Luecke-in-NoSQL-Datenbank-Apache-Cassandra-6495127.html"
     },
     {
-      "title": "Adobe Commerce und Magento",
-      "url": "https://www.heise.de/news/Onlineshops-Erneut-kritische-Luecke-in-Adobe-Commerce-und-Magento-entdeckt-6495424.html"
-    },
-    {
-      "title": "ModifiedElephant: Digitale Überwachung und gefälschte Beweise aus einer Hand",
-      "teaser": "Überwachungssoftware auf Handys und PCs ist der feuchte Traum vieler Ermittler. Über 10 Jahre Trojanerpraxis in Indien zeigen die Gefahren der Spionagetechnik.",
-      "url": "https://www.heise.de/news/ModifiedElephant-Digitale-Ueberwachung-und-gefaelschte-Beweise-aus-einer-Hand-6510349.html"
-    },
-    {
       "title": "WordPress-Plug-in: UpdraftPlus könnte Website-Backups leaken",
       "teaser": "Aufgrund einer nicht ausreichenden Prüfung könnten Backups von WordPress-Seiten in die Hände von Angreifern gelangen. Sicherheitsupdates schaffen Abhilfe.",
       "url": "https://www.heise.de/news/WordPress-Plug-in-UpdraftPlus-koennte-Website-Backups-leaken-6510427.html"
+    },
+    {
+      "title": "Ungewöhnlicher Krypto-Raubzug erbeutet Millionen",
+      "teaser": "Ein vergleichsweise kleiner Coup für DeFi-Verhältnisse zeigt grundsätzliche Schwächen des Internets auf: Unsicheres Routing gefährdet alle Internet-Dienste.",
+      "url": "https://www.heise.de/news/Ungewoehnlicher-Krypto-Raubzug-erbeutet-Millionen-6496145.html"
     },
     {
       "title": "iX-Workshop: In drei Tagen zum IT-Grundschutz-Praktiker mit Zertifikat",
       "teaser": "Sie erhalten einen umfassenden Überblick über Inhalte und Umsetzung der IT-Grundschutz-Methodik des BSI, inkl. Prüfung zum Grundschutz-Praktiker. Rabatt bis 8.3",
       "url": "https://www.heise.de/news/iX-Workshop-In-drei-Tagen-zum-IT-Grundschutz-Praktiker-mit-Zertifikat-6489413.html",
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
+    },
+    {
+      "title": "Spear-Phishing nach Exchange-Einbruch",
+      "teaser": "Nachdem die Exchange-Sicherheitslücken abgedichtet wurden, gingen Angriffe weiter. Mittels Spear-Phishing sollten die Opfer zu Überweisungen gedrängt werden.",
+      "url": "https://www.heise.de/news/Versuchter-Finanzbetrug-nach-Exchange-Einbruch-6509718.html",
+      "image_title": "Aufmacher Exchange-Lücke geschlossen, mündet in Spear-Phishing"
     },
     {
       "title": "IT-Schwachstellen: ETSI rät zu Anreizen für Hacker statt in Panik zu geraten",
@@ -147,12 +153,6 @@
       "title": "Firmenkonten nicht gelöscht: Ehemalige Mitarbeiter sind oft ein Security-Risiko",
       "teaser": "Soziale Medien, E-Mails und Dokumente – in fast allen Unternehmen können frühere Angestellte weiterhin auf interne Informationen zugreifen.",
       "url": "https://www.heise.de/news/Firmenkonten-nicht-geloescht-Ehemalige-Mitarbeiter-sind-oft-ein-Security-Risiko-6475460.html"
-    },
-    {
-      "title": "Unsichere Babymonitore von Nooie: Fremde könnten Vollzugriff erlangen",
-      "teaser": "Bei der Analyse von zwei Babyphones von Nooie hat Bitdefender Sicherheitslücken entdeckt, durch die Angreifer etwa den Videostream anzapfen könnten.",
-      "url": "https://www.heise.de/news/Unsichere-Babymonitore-Fremde-koennten-Vollzugriff-erlangen-6475088.html",
-      "image_title": "Aufmacher Sicherheitslücken in Babyphones"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
