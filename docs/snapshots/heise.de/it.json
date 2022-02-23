@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-23T10:22:20",
+  "timestamp": "2022-02-23T11:15:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "D21-Digital-Index: 91 Prozent sind online, 31 Prozent wollen mehr offline sein",
+      "teaser": "Der Digitalisierungsgrad der Gesellschaft in Deutschland steigt weiter an. Viele beklagen aber einen Dauerdruck, mit der Online-Technik Schritt zu halten.",
+      "url": "https://www.heise.de/news/D21-Digital-Index-91-Prozent-sind-online-31-Prozent-wollen-mehr-offline-sein-6520846.html"
+    },
+    {
       "title": "Ungewöhnlicher Krypto-Raubzug erbeutet Millionen",
       "teaser": "Ein vergleichsweise kleiner Coup für DeFi-Verhältnisse zeigt grundsätzliche Schwächen des Internets auf: Unsicheres Routing gefährdet alle Internet-Dienste.",
       "url": "https://www.heise.de/news/Ungewoehnlicher-Krypto-Raubzug-erbeutet-Millionen-6496145.html"
@@ -36,11 +41,6 @@
       "url": "https://www.heise.de/news/Fujitsu-Ein-offener-und-anpassungsfaehiger-Mainframe-Dino-stirbt-nicht-aus-6495833.html"
     },
     {
-      "title": "IT-Schwachstellen: ETSI rät zu Anreizen für Hacker statt in Panik zu geraten",
-      "teaser": "Das EU-Normungsinstitut ETSI rät Firmen, ein Triage-Verfahren für gemeldete IT-Sicherheitslücken einzuführen und Finder etwa mit Werbegeschenken zu belohnen.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-ETSI-gibt-Tipps-zum-Umgang-mit-offengelegten-Schwachstellen-6505437.html"
-    },
-    {
       "title": "Kurztests: Impfzertifikate-Tester, USB-C-Adapter und Ethernet-over-Coax-Adapter​",
       "teaser": "Ein Impfzertifikate-Tester auf Basis eines Rasperry Pis, DisplayPort-auf-USB-C-Adapter von Delock und ein Ethernet-over-Coax-Adapter​ von goCoax.",
       "url": "https://www.heise.de/tests/Kurztests-Impfzertifikate-Tester-USB-C-Adapter-und-Ethernet-over-Coax-Adapter-6495793.html"
@@ -49,6 +49,21 @@
       "title": "Softwareentwicklung: Structured und Unstructured Concurrency in Swift",
       "teaser": "Swifts Nebenläufigkeit erlaubt komplexe Konfigurationen mit Tasks und Child Tasks. Damit einhergehende typische Gefahren umgeht die Sprache gekonnt.",
       "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Structured-und-Unstructured-Concurrency-in-Swift-6485049.html"
+    },
+    {
+      "title": "Analyse beliebtester Passwort-Buchstaben für schnellere Brute-Force-Angriffe",
+      "teaser": "Wenn bestimmte Zeichen in Kennwörtern häufig vorkommen, kann das Attacken deutlich beschleunigen. Eine Analyse zeigt: A sowie X, Y und Z sind besonders beliebt.",
+      "url": "https://www.heise.de/news/Analyse-beliebtester-Passwort-Buchstaben-fuer-schnellere-Brute-Force-Angriffe-6521698.html"
+    },
+    {
+      "title": "Versionsverwaltung: GitLab 14.8 bietet hardwaregestützte SSH-Authentifizierung",
+      "teaser": "Die Versionsverwaltungsplattform bringt 25 Neuerungen, darunter zwei neue SSH-Schlüssel für alle User. Ultimate-Nutzer erhalten weitere Sicherheitsfunktionen.",
+      "url": "https://www.heise.de/news/Versionsverwaltung-GitLab-14-8-bietet-hardwaregestuetzte-SSH-Authentifizierung-6521593.html"
+    },
+    {
+      "title": "Digital Services Act: Youtube sieht mögliche Behinderung",
+      "teaser": "Der Digital Services Act könnte ein Handeln gegen Fehlinformationen und Hassrede behindern, so die Einschätzung von Youtubes Chief Product Officer Neal Mohan.",
+      "url": "https://www.heise.de/news/Digital-Services-Act-Youtube-sieht-moegliche-Behinderung-6521846.html"
     },
     {
       "title": "Angeblich bis zu sieben neue Macs für 2022 in der Pipeline",
@@ -83,11 +98,6 @@
       "url": "https://www.heise.de/news/Pegasus-Spyware-in-Israel-Vorwuerfe-entkraeftet-Fake-News-Vorwurf-an-Magazin-6520818.html"
     },
     {
-      "title": "D21-Digital-Index: 91 Prozent sind online, 31 Prozent wollen mehr offline sein",
-      "teaser": "Der Digitalisierungsgrad der Gesellschaft in Deutschland steigt weiter an. Viele beklagen aber einen Dauerdruck, mit der Online-Technik Schritt zu halten.",
-      "url": "https://www.heise.de/news/D21-Digital-Index-91-Prozent-sind-online-31-Prozent-wollen-mehr-offline-sein-6520846.html"
-    },
-    {
       "title": "Nachhaltige Smartphones im Test: Umweltfreundlich und Fair Trade",
       "teaser": "Wer ein Öko-Handy mit Wechselakku und Update-Versprechen sucht, wird bei Herstellern wie Fairphone, Shift, Gigaset und Rephone fündig. Ein Überblick:",
       "url": "https://www.heise.de/tests/Nachhaltige-Smartphones-im-Test-Umweltfreundlich-und-Fair-Trade-6444932.html",
@@ -120,16 +130,6 @@
       "teaser": "Apple hat Berichten zufolge das finale Design des iPhone 14 und eines VR-Headsets festgelegt. Der Konzern zeige Interesse an einem faltbaren 20\"-Display.",
       "url": "https://www.heise.de/news/Neue-Apple-Geruechte-zu-iPhone-14-VR-Headset-und-20-Foldable-6518398.html",
       "image_title": "Apple-Logo"
-    },
-    {
-      "title": "Intel holt sich Chef-GPU-Architekten von AMD zurück",
-      "teaser": "Rohit Verma wechselt nach 8 Jahren von AMD zurück zu Intel, wo er als Lead Product Architect maßgeblich an der Entwicklung neuer Grafikkarten beteiligt ist.",
-      "url": "https://www.heise.de/news/Intel-holt-sich-Chef-GPU-Architekten-von-AMD-zurueck-6518003.html"
-    },
-    {
-      "title": "Meta: Irische Datenschutzbehörde könnte Mexit ins Rollen bringen",
-      "teaser": "Die oberste irische Datenschützerin hat die Aussetzung der transatlantischen Datenübermittlung beantragt – mit möglichen Folgen für Metas Dienste in Europa.",
-      "url": "https://www.heise.de/news/Meta-Irische-Datenschutzbehoerde-koennte-Mexit-ins-Rollen-bringen-6517305.html"
     },
     {
       "title": "Backup & Recovery",
