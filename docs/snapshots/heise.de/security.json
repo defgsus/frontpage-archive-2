@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-24T08:23:25",
+  "timestamp": "2022-02-24T09:19:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "WatchGuard Firewalls",
+      "url": "https://www.heise.de/news/Russische-Cybergang-Cyclops-Blink-Botnet-befaellt-WatchGuard-Firewalls-6523973.html"
+    },
+    {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-schliesst-Root-Luecke-in-Netzwerk-OS-gibt-wichtige-Hinweise-fuer-Firewalls-6524029.html"
+    },
+    {
       "title": "Webmin",
       "url": "https://www.heise.de/news/Rechnerverwaltung-Webmin-Nutzer-koennten-Schadcode-einschleusen-6521301.html"
     },
@@ -40,17 +48,15 @@
       "url": "https://www.heise.de/news/NAS-Sicherheitsluecke-in-Synology-DSM-erlaubt-Ausfuehren-beliebiger-Befehle-6515542.html"
     },
     {
-      "title": "WordPress-Plug-in UpdraftPlus",
-      "url": "https://www.heise.de/news/WordPress-Plug-in-UpdraftPlus-koennte-Website-Backups-leaken-6510427.html"
+      "title": "Russische Cybergang: Cyclops-Blink-Botnet befällt WatchGuard-Firewalls",
+      "teaser": "Die russisch-staatliche Cybergang Sandworm hat mit dem Cyclops-Blink-Botnet WatchGuard-Firewalls infiltriert. WatchGuard liefert Anleitungen zur Entfernung.",
+      "url": "https://www.heise.de/news/Russische-Cybergang-Cyclops-Blink-Botnet-befaellt-WatchGuard-Firewalls-6523973.html",
+      "image_title": "Aufmacher WatchGuard-Firewalls mit Cyclops-Blink-Botnet infiziert"
     },
     {
-      "title": "Snap",
-      "url": "https://www.heise.de/news/root-Rechte-durch-Schwachstelle-in-Softwareverteilungssystem-Snap-6495740.html"
-    },
-    {
-      "title": "Open Source Security: GitHub teilt Datenbank zu Sicherheitslücken mit Community",
-      "teaser": "Der Code-Hoster schiebt die Inhalte der GitHub Advisory Database in ein öffentliches Repository und bittet die Community um Beiträge zu Schwachstellen in OSS.",
-      "url": "https://www.heise.de/news/Open-Source-Security-GitHub-teilt-Datenbank-zu-Sicherheitsluecken-mit-Community-6521801.html"
+      "title": "Cisco schließt Root-Lücke in Netzwerk-OS, gibt wichtige Hinweise für Firewalls",
+      "teaser": "Wer eine Firewall von Cisco nutzt, sollte diese aus Sicherheitsgründen bis Anfang März aktualisieren. Außerdem gibt es Patches für NX-OS.",
+      "url": "https://www.heise.de/news/Cisco-schliesst-Root-Luecke-in-Netzwerk-OS-gibt-wichtige-Hinweise-fuer-Firewalls-6524029.html"
     },
     {
       "title": "Agiles Anforderungsmanagement in der Praxis: Das Webinar von Heise",
@@ -58,9 +64,14 @@
       "url": "https://www.heise.de/news/Agiles-Anforderungsmanagement-in-der-Praxis-Das-Webinar-von-Heise-6522089.html"
     },
     {
-      "title": "Analyse beliebtester Passwort-Buchstaben für schnellere Brute-Force-Angriffe",
-      "teaser": "Wenn bestimmte Zeichen in Kennwörtern häufig vorkommen, kann das Attacken deutlich beschleunigen. Eine Analyse zeigt: A sowie X, Y und Z sind besonders beliebt.",
-      "url": "https://www.heise.de/news/Analyse-beliebtester-Passwort-Buchstaben-fuer-schnellere-Brute-Force-Angriffe-6521698.html"
+      "title": "Wie Fake-Support-Mitarbeiter gegenwärtig bei Comdirect-Kunden abkassieren",
+      "teaser": "Derzeit rufen Betrüger gehäuft Kunden der Bank Comdirect an, setzen Opfer unter Druck und fragen unter anderem TANs ab.",
+      "url": "https://www.heise.de/news/Telefonbetrueger-habe-es-aufs-Geld-von-Comdirect-Kunden-abgesehen-6521527.html"
+    },
+    {
+      "title": "Schnelle Identitätsprüfung und sicherer Zugriff",
+      "teaser": "Eine Login-Box muss das richtige Gleichgewicht zwischen Benutzerfreundlichkeit, Datenschutz und Sicherheit haben. Wie sieht also modernes Zugriffsmanagement aus? Wir zeigen Ihnen, wie Sie das Vertrauen Ihrer Kunden gewinnen.",
+      "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/sicheres-und-kundenorientiertes-identitaets-und-zugriffsmanagement-4226/?source=nat-teas"
     },
     {
       "title": "Rechnerverwaltung: Webmin-Nutzer könnten Schadcode einschleusen",
@@ -69,9 +80,9 @@
       "image_title": "Aufmacher webmin-Lücken"
     },
     {
-      "title": "Schnelle Identitätsprüfung und sicherer Zugriff",
-      "teaser": "Eine Login-Box muss das richtige Gleichgewicht zwischen Benutzerfreundlichkeit, Datenschutz und Sicherheit haben. Wie sieht also modernes Zugriffsmanagement aus? Wir zeigen Ihnen, wie Sie das Vertrauen Ihrer Kunden gewinnen.",
-      "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/sicheres-und-kundenorientiertes-identitaets-und-zugriffsmanagement-4226/?source=nat-teas"
+      "title": "Security-Konferenz secIT 2022: Active Directory und Windows 11 sicherer machen",
+      "teaser": "Die von c't, heise Security und iX ausgewählten Referenten geben auf der secIT 2022 lebensrettende Handlungsanweisungen, wenn Hacker die eigene IT entern.",
+      "url": "https://www.heise.de/news/Security-Konferenz-secIT-2022-Active-Directory-und-Windows-11-sicherer-machen-6316481.html"
     },
     {
       "title": "Der Hack, der Ethereum spaltete: DAO-Angreifer angeblich enttarnt",
@@ -148,17 +159,6 @@
       "teaser": "Lernen Sie mit vielen Beispielen aus der Praxis wie Sie Windows 10 Pro und Enterprise in Ihrem Unternehmen sicher betreiben. Bis zum 7. März mit 10% Rabatt.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-10-im-Unternehmen-absichern-6474549.html",
       "image_title": "Online-Workshop: Windows 10 im Unternehmen absichern"
-    },
-    {
-      "title": "Codeschmuggel durch kritische Lücke in der NoSQL-Datenbank Apache Cassandra",
-      "teaser": "Durch eine kritische Sicherheitslücke in der verteilten NoSQL-Datenbank Apache Cassandra hätten Angreifer Schadcode einschleusen und ausführen können.",
-      "url": "https://www.heise.de/news/Codeschmuggel-durch-kritische-Luecke-in-NoSQL-Datenbank-Apache-Cassandra-6495127.html",
-      "image_title": "Aufmacher RCE in Apache Cassandra"
-    },
-    {
-      "title": "Onlineshops: Erneut kritische Lücke in Adobe Commerce und Magento entdeckt",
-      "teaser": "Aufgrund einer weiteren Sicherheitslücke hat Adobe einen Notfallpatch überarbeitet. Es gibt bereits Attacken auf Onlineshops.",
-      "url": "https://www.heise.de/news/Onlineshops-Erneut-kritische-Luecke-in-Adobe-Commerce-und-Magento-entdeckt-6495424.html"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
