@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-25T09:19:09",
+  "timestamp": "2022-02-25T10:22:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM AIX",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Java-und-Kernel-Luecken-in-IBM-AIX-bedrohen-Server-6526120.html"
+    },
+    {
       "title": "Trend Micro ServerProtect, Worry-Free Business Security",
       "url": "https://www.heise.de/news/Schlupfloch-in-Trend-Micro-ServerProtect-laesst-Angreifer-auf-Server-6524466.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Russische-Cybergang-Cyclops-Blink-Botnet-befaellt-WatchGuard-Firewalls-6523973.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-schliesst-Root-Luecke-in-Netzwerk-OS-gibt-wichtige-Hinweise-fuer-Firewalls-6524029.html"
+      "title": "Sicherheitsupdates: Java- und Kernel-Lücken in IBM AIX bedrohen Server",
+      "teaser": "Angreifer könnten Server mit IBM AIX attackieren und im schlimmsten Fall die volle Kontrolle über Systeme erlangen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Java-und-Kernel-Luecken-in-IBM-AIX-bedrohen-Server-6526120.html"
     },
     {
       "title": "Auslegungssache 57: Zwischen IT-Sicherheit und Datenschutz",
@@ -64,14 +69,14 @@
       "image_title": "Aufmacher Aruba Switches Updates fixen Sicherheitslücken"
     },
     {
-      "title": "Ransomware-Erpressung mehr als verdoppelt: 2021 über 600 Millionen Angriffe",
-      "teaser": "Hacker verdreifachten die Zahl der Ransomware-Angriffe in den letzten drei Jahren, wie ein aktueller Report zeigt. Hauptziel der meisten Attacken sind die USA.",
-      "url": "https://www.heise.de/news/Ransomware-Erpressung-mehr-als-verdoppelt-2021-ueber-600-Millionen-Angriffe-6524397.html"
-    },
-    {
       "title": "Schnelle Identitätsprüfung und sicherer Zugriff",
       "teaser": "Eine Login-Box muss das richtige Gleichgewicht zwischen Benutzerfreundlichkeit, Datenschutz und Sicherheit haben. Wie sieht also modernes Zugriffsmanagement aus? Wir zeigen Ihnen, wie Sie das Vertrauen Ihrer Kunden gewinnen.",
       "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/sicheres-und-kundenorientiertes-identitaets-und-zugriffsmanagement-4226/?source=nat-teas"
+    },
+    {
+      "title": "Ransomware-Erpressung mehr als verdoppelt: 2021 über 600 Millionen Angriffe",
+      "teaser": "Hacker verdreifachten die Zahl der Ransomware-Angriffe in den letzten drei Jahren, wie ein aktueller Report zeigt. Hauptziel der meisten Attacken sind die USA.",
+      "url": "https://www.heise.de/news/Ransomware-Erpressung-mehr-als-verdoppelt-2021-ueber-600-Millionen-Angriffe-6524397.html"
     },
     {
       "title": "Cisco schließt Root-Lücke in Netzwerk-OS, gibt wichtige Hinweise für Firewalls",
@@ -151,11 +156,6 @@
       "teaser": "Nachdem die Exchange-Sicherheitslücken abgedichtet wurden, gingen Angriffe weiter. Mittels Spear-Phishing sollten die Opfer zu Überweisungen gedrängt werden.",
       "url": "https://www.heise.de/news/Versuchter-Finanzbetrug-nach-Exchange-Einbruch-6509718.html",
       "image_title": "Aufmacher Exchange-Lücke geschlossen, mündet in Spear-Phishing"
-    },
-    {
-      "title": "IT-Schwachstellen: ETSI rät zu Anreizen für Hacker statt in Panik zu geraten",
-      "teaser": "Das EU-Normungsinstitut ETSI rät Firmen, ein Triage-Verfahren für gemeldete IT-Sicherheitslücken einzuführen und Finder etwa mit Werbegeschenken zu belohnen.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-ETSI-gibt-Tipps-zum-Umgang-mit-offengelegten-Schwachstellen-6505437.html"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
