@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-02-26T03:20:45",
+  "timestamp": "2022-02-26T04:25:37",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,37 +25,13 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.3.6-cats-release--22.03/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.3.6-cats-release--22.03/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
@@ -58,7 +40,184 @@
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.ef517756.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendor.af40c69e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.69ec72a4.js",
+      "id": null,
+      "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Alle Nachrichten zu Covid-19 : Corona-News im Live-Ticker",
+      "url": "https://www.bild.de/news/inland/news-inland/corona-news-im-live-ticker-alle-nachrichten-zu-covid-19-77205864.bild.html",
+      "image_url": "https://images.bild.de/5fe08024eaf523000156c3fa/1067c7efe9d4661c36ba5126be65657f/2/2?w=656",
+      "image_title": "Corona aktuell, News im Ticker: Nachrichten, Zahlen, Fakten zu Covid-19"
+    },
+    {
+      "title": "Komplizierte Anschrift : Niemand findet meine Adresse 24A minus 3 ...",
+      "url": "https://www.bild.de/sparfochs/2022/sparfochs/die-komplizierteste-hausnummer-niemand-findet-meine-adresse-24a-minus-3-79266458.bild.html",
+      "image_url": "https://images.bild.de/6217b1b11993033596b1f88c/5405d694e39a90e9bfbde35adbc0a558-miniSquare/1414,2d97971?w=320",
+      "image_title": "Die komplizierteste Hausnummer: Niemand findet meine Adresse 24A minus 3 ..."
+    },
+    {
+      "title": "Tragischer Unfall : Feuerwehrmann im Einsatz totgerast",
+      "url": "https://www.bild.de/news/inland/news-inland/tragischer-unfall-auf-bundesstrasse-feuerwehrmann-28-im-einsatz-totgerast-79280300.bild.html",
+      "image_url": "https://images.bild.de/62193fee148ec34beab542b5/1189a29014a8e040946557852c243dc9/Kennung_Symbolfoto,a48ddf30?w=320",
+      "image_title": "Tragischer Unfall auf Bundesstraße: Feuerwehrmann (28) im Einsatz totgerast"
+    },
+    {
+      "title": "2 Jahre, 6 Monate! : Münchner Koks-Polizist muss in den Knast",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ausgeschnupft-muenchner-koks-polizist-muss-in-den-knast-79279968.bild.html",
+      "image_url": "https://images.bild.de/621935ad24f2ac6754cc6309/cd9d6bf3c04f7712a85873a9b3d38090/1/2?w=320",
+      "image_title": "2 Jahre, 6 Monate! Münchner Koks-Polizist muss in den Knast"
+    },
+    {
+      "title": "Missbrauchs-Priester muss ins Gefängnis : Jetzt sprechen seine Opfer",
+      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/prozess-in-koeln-urteil-gegen-priester-missbrauchsopfer-sprechen-79275480.bild.html",
+      "image_title": "Prozess in Köln: Urteil gegen Priester – Nun reden seine Missbrauchsopfer"
+    },
+    {
+      "title": "Sperrstunde weg, ABER : Wir dürfen nur im Sitzen strippen",
+      "teaser": "Die Corona-Sperrstunde auf dem Kiez ist vorbei, das Tanzverbot für Gäste aber gilt noch.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/sperrstunde-weg-aber-tanzverbot-wir-duerfen-nur-im-sitzen-strippen-79272968.bild.html",
+      "image_title": "Sperrstunde weg – aber Tanzverbot: Wir dürfen nur im Sitzen strippen"
+    },
+    {
+      "title": "Die Zahlen am Freitag : 44 Millionen Euro sind im Eurojackpot!",
+      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 25.02.2022.",
+      "url": "https://www.bild.de/news/inland/news-inland/44-mio-im-eurojackpot-die-lottozahlen-vom-25-02-79246656.bild.html",
+      "image_title": "44 Mio € im Eurojackpot: Die Lottozahlen vom 25.02."
+    },
+    {
+      "title": "Die Zahlen am Freitag : 44 Millionen Euro sind im Eurojackpot!",
+      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 25.02.2022.",
+      "url": "https://www.bild.de/news/inland/news-inland/44-mio-im-eurojackpot-die-lottozahlen-vom-25-02-79279964.bild.html",
+      "image_title": "44 Mio € im Eurojackpot: Die Lottozahlen vom 25.02."
+    },
+    {
+      "title": "14 MAL ZUGESTOCHEN : Tötete ER seine Frau wegen eines Brötchens?",
+      "teaser": "Über 30 Jahre waren Klaus-Peter S. und seine Frau verheiratet. Dann kam es zur Tragödie.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/prozess-leipzig-frau-nach-kritik-an-fruehstuecks-broetchen-erstochen-79277460.bild.html",
+      "image_title": "Prozess Leipzig: Frau nach Kritik an Frühstücks-Brötchen erstochen"
+    },
+    {
+      "title": "Unfall mit drei Toten : Angeklagter: „Werde im Leben nie mehr Auto fahren“",
+      "teaser": "Nach einem schweren Autounfall mit drei Toten hat der Prozess gegen den Fahrer begonnen.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/horror-unfall-mit-drei-toten-in-berlin-angeklagter-aeussert-bedauern-79275808.bild.html",
+      "image_title": "Horror-Unfall mit drei Toten in Berlin - Angeklagter äußert Bedauern"
+    },
+    {
+      "title": "Trotz Bodyguards : Merkel beim Einkaufen beklaut!",
+      "teaser": "Angela Merkel (67) geht gerne selbst in den Supermarkt. Nun wurde sie dort beklaut!",
+      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/ex-kanzlerin-merkel-beim-einkaufen-in-berlin-beklaut-79273476.bild.html",
+      "image_title": "Ex-Kanzlerin Merkel beim Einkaufen in Berlin beklaut"
+    },
+    {
+      "title": "Schon wieder in Leipzig : Umweltaktivisten machen SUV-Reifen platt",
+      "teaser": "Diese Aktion sorgte am Freitagmorgen bei etlichen Autofahrern in Leipzig für mächtig Ärger.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/mehrere-autos-in-leipzig-betroffen-mutmassliche-umweltaktivisten-machen-suv-reif-79272946.bild.html",
+      "image_title": "Etwa 20 Autos in Leipzig betroffen: Mutmaßliche Umweltaktivisten machen SUV-Reifen platt"
+    },
+    {
+      "title": "Bücherfest statt Buchmesse : Mit Miss Sophie aus der Lese-Krise!",
+      "teaser": "Nach Absage der Buchmesse ist „Miss Sachsen 2021“ mit ihrem Bestseller „Erlöse mich von dem Bösen“ in drei Wochen beim „Leipzig liest“-Ersatz „weiter:lesen“ (19./20. März) dabei.",
+      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-nach-buchmesse-absage-jetzt-buecherfest-79271466.bild.html",
+      "image_title": "Leipzig: Nach Buchmesse-Absage jetzt Bücherfest"
+    },
+    {
+      "title": "Tierischer Besuch bei Einsatz : Bock auf Polizei",
+      "teaser": "Wer hat schon Bock auf Besuch der Polizei? Dieser Typ in Thüringenanscheinend sehr großen!",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-bock-auf-polizei-tierischer-besuch-bei-einsatz-79274256.bild.html",
+      "image_title": "Thüringen: Bock auf Polizei - Tierischer Besuch bei Einsatz"
+    },
+    {
+      "title": "Ukrainerin in Dresden : Helft uns, sonst fallen vielleicht auch hier Bomben",
+      "teaser": "Donnerstagabend kamen in Dresden hunderte Menschen zu einer Mahnwache vor der Frauenkirche zusammen.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/ukraine-konflikt-helft-uns-sonst-fallen-vielleicht-auch-hier-bomben-79268622.bild.html",
+      "image_title": "Ukraine-Konflikt: Helft uns, sonst fallen vielleicht auch hier Bomben"
+    },
+    {
+      "title": "Mit Küchenmesser : Mann (65) ersticht Frau wegen Kritik an Frühstück",
+      "teaser": "Ein Mann (65) hat in Störmthal seine Ehefrau erstochen, weil sie sich zuvor über ein nicht schmackhaftes Frühstück beschwert hatte.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/prozess-in-leipzig-mann-65-ersticht-frau-wegen-kritik-an-fruehstueck-79270594.bild.html",
+      "image_title": "Prozess in Leipzig: Mann (65) ersticht Frau wegen Kritik an Frühstück"
+    },
+    {
+      "title": "Drama in Berlin : 24-Jährige stirbt wegen Gasen aus defekter Therme",
+      "teaser": "Der Tod strömte durch die Heizungsrohre! Eine defekte Heizung wurde zur tödlichen Falle.",
+      "url": "https://www.bild.de/regional/berlin/news-inland/drama-in-berlin-defekte-heizung-1-toter-mehrere-vergiftete-79269130.bild.html",
+      "image_title": "Drama in Berlin : Defekte Therme! 24-Jährige stirbt wegen Gasaustritt"
+    },
+    {
+      "title": "Großfamilie Seuthe : Die glückliche 10er-Bande",
+      "teaser": "Anna-Maria und Frank Seuthe haben acht Kinder. Doch von Stress keine Spur!",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/wie-die-seuthes-ihre-grossfamilie-wuppen-die-glueckliche-10er-bande-79263846.bild.html",
+      "image_title": "So meistert eine Großfamilie den Alltag: Die glückliche 10er-Bande"
+    },
+    {
+      "title": "Jede 3. Frau betroffen : Fehlgeburten sind immer noch ein Tabu-Thema",
+      "teaser": "Neues Buch: 25 Frauen erzählen über ihre „Schwangerschaften ohne Happy End“.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/jede-3-frau-betroffen-fehlgeburten-immer-noch-tabu-thema-79269036.bild.html",
+      "image_title": "Jede 3. Frau betroffen: Fehlgeburten immer noch Tabu-Thema"
+    },
+    {
+      "title": "Porsche : Börsengang könnte bis Jahresende stehen",
+      "teaser": "Der Börsengang von Porsche könnte bis zum Ende dieses Jahres stehen.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/porsche-boersengang-koennte-bis-jahresende-stehen-79270914.bild.html",
+      "image_title": "Porsche : Börsengang könnte bis Jahresende stehen"
+    },
+    {
+      "title": "Kultusministerin : Klassenfahrten sollten bald wieder möglich sein",
+      "teaser": "BaWü-Kultusministerin Schopper hofft, dass Klassenfahrten bald wieder möglich sind.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/baden-wuerttemberg-klassenfahrten-sollten-bald-wieder-moeglich-sein-79270838.bild.html",
+      "image_title": "Baden-Württemberg: Klassenfahrten sollten bald wieder möglich sein"
+    },
+    {
+      "title": "Gericht muss umziehen : Saal für Prozess um tödliche Pool-Party zu klein",
+      "teaser": "Ab Montag müssen sich der Party-Gastgeber und ein Besucher wegen fahrlässiger Tötung vor dem Amtsgericht Grimma verantworten.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/gericht-muss-in-rathaus-umziehen-saal-fuer-prozess-um-toedliche-pool-party-zu-kl-79270256.bild.html",
+      "image_title": "Gericht muss in Rathaus umziehen: Saal für Prozess um tödliche Pool-Party zu klein"
+    },
+    {
+      "title": "Herzlos-Transport : Gerettet! Polizei befreit eingezwängte Tierbabys",
+      "teaser": "In NRW hat die Polizei mehrere eingezwängte Hunde und Katzen aus einem Auto gerettet.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/tiertransport-in-lindlar-polizei-befreit-eingezwaengte-hunde-und-katzen-79264544.bild.html",
+      "image_title": "Tiertransport in Lindlar: Polizei befreit eingezwängte Hunde und Katzen"
+    },
+    {
+      "title": "Erwischt! : Einbrecher schlief im Keller ein",
+      "teaser": "Seit Jahren macht Erik S. (25) sein Geld als Dieb und Hehler. Aber irgendwann war er wohl zu erschöpft, schlief einfach ein.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/diebstahl-einbrecher-schlief-im-keller-ein-79267526.bild.html",
+      "image_title": "Diebstahl: Einbrecher schlief im Keller ein"
+    },
+    {
+      "title": "Am Brandenburger Tor : Berlin singt für den Frieden",
+      "url": "https://www.bild.de/video/clip/video/am-brandenburger-tor-berlin-singt-fuer-den-frieden-79280552,auto=true.bild.html",
+      "image_title": "Am Brandenburger Tor: Berlin singt für den Frieden"
+    },
+    {
+      "title": "Gewitter, Sonne, Schnee : Wetter-Wirrwarr in Deutschland",
+      "url": "https://www.bild.de/video/clip/video/gewitter-alarm-am-nachmittag-knallts-bei-uns-79271624,auto=true.bild.html",
+      "image_title": "Gewitter, Sonne, Schnee: Wetter-Wirrwarr in Deutschland"
+    },
+    {
+      "title": "2,6 Tonnen Kokain entdeckt : Drittgrößter Drogenfund in Deutschland",
+      "url": "https://www.bild.de/video/clip/video/2-6-tonnen-kokain-entdeckt-drittgroesster-drogenfund-in-deutschland-79266280,auto=true.bild.html",
+      "image_title": "2,6 Tonnen Kokain entdeckt: Drittgrößter Drogenfund in Deutschland"
+    }
+  ]
 }
