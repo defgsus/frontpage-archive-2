@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-28T20:21:20",
+  "timestamp": "2022-02-28T21:17:38",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Coronavirus: Die bundesweite Inzidenz sinkt weiter",
+      "teaser": "Die Gesundheitsämter in Deutschland haben nach Recherchen von ZEIT ONLINE eine Sieben-Tage-Inzidenz von 1.341 gemeldet. Gestern lag der Wert noch bei 1.356.",
+      "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter",
+      "image_url": "https://img.zeit.de/gesundheit/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-zahlen-index/cinema__980x420"
+    },
+    {
       "title": "Cas Mudde: \"Ich lehre buchstäblich in einem feindlichen Umfeld\"",
       "teaser": "Cas Mudde unterrichtet als Experte für politischen Extremismus in den USA. Dabei sind einige seiner Studierenden selbst rechtsradikal – ohne es zu wissen.",
       "url": "https://www.zeit.de/2022/09/cas-mudde-rechtsradikalismus-usa-politischer-extremismus",
-      "image_url": "https://img.zeit.de/2022/09/ich-lehre-buchstaeblich-in-einem-feindlichen-umfeld-bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/2022/09/ich-lehre-buchstaeblich-in-einem-feindlichen-umfeld-bild-1/wide__822x462",
+      "image_title": "Cas Mudde: \"Ich lehre buchstäblich in einem feindlichen Umfeld\""
     },
     {
       "title": "Deutscher Wetterdienst: Deutschland erlebt elften zu warmen Winter in Folge",
@@ -85,14 +92,14 @@
       "title": "IPCC-Bericht: Nicht jeder Klimaschutz ist auch Artenschutz",
       "teaser": "Im neuen Bericht des Weltklimarats wird Biodiversität eine Hauptrolle spielen. Daneben geht es um Klimawandelfolgen, nötige Anpassung und deren Grenzen. Eine Prognose",
       "url": "https://www.zeit.de/2022/09/ipcc-bericht-weltklimarat-2022-biodiversitaet",
-      "image_url": "https://img.zeit.de/2022/09/oeko-mit-system-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2022/09/oeko-mit-system-bild-1/cinema__980x420",
       "image_title": "IPCC-Bericht: Nicht jeder Klimaschutz ist auch Artenschutz"
     },
     {
       "title": "Corona im Kreis Heinsberg: Auftritt eines Virus",
       "teaser": "Vor zwei Jahren wurde der Kreis Heinsberg zum Corona-Hotspot, kurz darauf kam der Virologe Hendrik Streeck mit einem Team. Rekonstruktion eines unglücklichen Einsatzes",
       "url": "https://www.zeit.de/2022/09/corona-kreis-heinsberg-virusausbruch-wissenschaft",
-      "image_url": "https://img.zeit.de/2022/09/corona-kreis-heinsberg/cinema__980x420",
+      "image_url": "https://img.zeit.de/2022/09/corona-kreis-heinsberg/wide__822x462",
       "image_title": "Corona im Kreis Heinsberg: Auftritt eines Virus"
     },
     {
@@ -101,13 +108,6 @@
       "url": "https://www.zeit.de/wissen/2022-02/coronavirus-wuhan-ursprung-studie-huanan-markt",
       "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-wuhan-ursprung-studie-huanan-markt-pandemie/wide__822x462",
       "image_title": "Ursprung des Coronavirus: Alle Spuren führen zum Markt in Wuhan"
-    },
-    {
-      "title": "Coronavirus: RKI meldet weniger Neuinfektionen als vor einer Woche",
-      "teaser": "Dem Robert Koch-Institut zufolge sind 107.913 Neuinfektionen verzeichnet worden. Die Zahl der Todesfälle liegt bei 57. Die Inzidenz ist auf 1.240,3 gesunken.",
-      "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-corona-tote",
-      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-corona/wide__822x462",
-      "image_title": "Coronavirus: RKI meldet weniger Neuinfektionen als vor einer Woche"
     },
     {
       "title": "Corona-Zahlen in Deutschland: Coronavirus in Deutschland – alle aktuellen Zahlen auf einer Karte",
@@ -124,6 +124,13 @@
       "image_title": "Freiheit der Wissenschaft: \"Wenn wir nichts ändern, hat unsere Demokratie ein Problem\""
     },
     {
+      "title": "Coronavirus: RKI meldet weniger Neuinfektionen als vor einer Woche",
+      "teaser": "Dem Robert Koch-Institut zufolge sind 107.913 Neuinfektionen verzeichnet worden. Die Zahl der Todesfälle liegt bei 57. Die Inzidenz ist auf 1.240,3 gesunken.",
+      "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-corona-tote",
+      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-corona/wide__822x462",
+      "image_title": "Coronavirus: RKI meldet weniger Neuinfektionen als vor einer Woche"
+    },
+    {
       "title": "Raumfahrt: Russland stoppt Arbeit am Weltraumbahnhof Französisch-Guayana",
       "teaser": "Als Antwort auf die EU-Sanktionen zieht Russland sein Personal aus Kourou ab. An der ISS will das Land jedoch weiter mit dem Westen zusammenarbeiten.",
       "url": "https://www.zeit.de/politik/ausland/2022-02/raumfahrt-russland-weltraumbahnhof-franzoesisch-guayana",
@@ -134,14 +141,14 @@
       "title": "Neurologie: Unterscheiden sich die Gehirne von Männern und Frauen?",
       "teaser": "Algorithmen sind in der Lage, männliche und weibliche Gehirne zu unterscheiden. Aber können sie auch typisch männliches und weibliches Verhalten erklären?",
       "url": "https://www.zeit.de/2022/09/neurologie-gehirn-frauen-maenner-unterschiede",
-      "image_url": "https://img.zeit.de/2022/09/neurologie-gehirn-frauen/wide__822x462",
+      "image_url": "https://img.zeit.de/2022/09/neurologie-gehirn-frauen/cinema__980x420",
       "image_title": "Neurologie: Unterscheiden sich die Gehirne von Männern und Frauen?"
     },
     {
       "title": "Coronavirus: Sieben-Tage-Inzidenz geht leicht zurück auf 1.253,3",
       "teaser": "Das RKI hat 175.833 Neuinfektionen registriert. Vor einer Woche waren es 189.105. Mehr als 200 weitere Menschen sind laut den Daten an oder mit Covid-19 gestorben.",
       "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-hannover",
-      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-bild-2/wide__822x462",
       "image_title": "Coronavirus: Sieben-Tage-Inzidenz geht leicht zurück auf 1.253,3"
     },
     {
@@ -157,13 +164,6 @@
       "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-bayern",
       "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-berlin/wide__822x462",
       "image_title": "Coronavirus: Sieben-Tage-Inzidenz sinkt weiter"
-    },
-    {
-      "title": "Friedrich I. und der \"Soldatenkönig\" : Die teuerste Party Preußens",
-      "teaser": "1701 krönt sich Friedrich I. zum König von Brandenburg-Preußen. Seinem Sohn ist der ganze Pomp zuwider. Er kürzt den Hofstaat zusammen und steckt das Geld in die Armee.",
-      "url": "https://www.zeit.de/zeit-geschichte/2022/01/koenig-friedrich-i-preussen-brandenburg",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/koenig-friedrich-i-preussen-1/wide__822x462",
-      "image_title": "Friedrich I. und der \"Soldatenkönig\" : Die teuerste Party Preußens"
     },
     {
       "title": "Vor dem Urknall : Wie fing alles an?",
@@ -277,10 +277,17 @@
       "image_title": "SpaceX: Der Sonnensturm, der 40 Satelliten vom Himmel holte"
     },
     {
+      "title": "Friedrich I. und der \"Soldatenkönig\" : Die teuerste Party Preußens",
+      "teaser": "1701 krönt sich Friedrich I. zum König von Brandenburg-Preußen. Seinem Sohn ist der ganze Pomp zuwider. Er kürzt den Hofstaat zusammen und steckt das Geld in die Armee.",
+      "url": "https://www.zeit.de/zeit-geschichte/2022/01/koenig-friedrich-i-preussen-brandenburg",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/koenig-friedrich-i-preussen-1/cinema__980x420",
+      "image_title": "Friedrich I. und der \"Soldatenkönig\" : Die teuerste Party Preußens"
+    },
+    {
       "title": "Flugzeugentführung 1972: \"Sie haben Mörder freigelassen\"",
       "teaser": "Vor 50 Jahren entführten palästinensische Terroristen zwei Lufthansa-Maschinen. Die Regierung Brandt war unvorbereitet und gab den Forderungen der Hijacker sofort nach.",
       "url": "https://www.zeit.de/2022/09/flugzeugentfuehrung-1972-palaestinensische-terroristen-lufthansa-649",
-      "image_url": "https://img.zeit.de/2022/09/sie-haben-moerder-freigelassen-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2022/09/sie-haben-moerder-freigelassen-bild-1/wide__822x462",
       "image_title": "Flugzeugentführung 1972: \"Sie haben Mörder freigelassen\""
     },
     {
@@ -289,13 +296,6 @@
       "url": "https://www.zeit.de/wissen/umwelt/2022-02/waldbraende-klimakatastrophen-un-zunahme",
       "image_url": "https://img.zeit.de/wissen/umwelt/2022-02/waldbraende-klimakatastrophen-un-zunahme-bild/wide__822x462",
       "image_title": "Klimakatastrophen: UN-Experten warnen vor Zunahme extremer Waldbrände"
-    },
-    {
-      "title": "Kohleindustrie: Woher kommt die ganze Kohle?",
-      "teaser": "Um die Erderwärmung zu stoppen, muss Kohle unter der Erde bleiben. Nur haben die Industrie und ihre Geldgeber andere Pläne: Sie bauen kräftig aus. Ein Überblick in Daten",
-      "url": "https://www.zeit.de/2022/08/kohleindustrie-weltweit-fossile-energietraeger-klimakrise",
-      "image_url": "https://img.zeit.de/2022/08/kohleindustrie-weltweit-fossile-energietraeger-klimakrise-teaser/wide__822x462",
-      "image_title": "Kohleindustrie: Woher kommt die ganze Kohle?"
     },
     {
       "title": "Matthias Maurer: Der Spätberufene",
@@ -338,32 +338,32 @@
       "image_title": "Klimawandel und Technik: Wie retten wir den Planeten?"
     },
     {
+      "title": "Kohleindustrie: Woher kommt die ganze Kohle?",
+      "teaser": "Um die Erderwärmung zu stoppen, muss Kohle unter der Erde bleiben. Nur haben die Industrie und ihre Geldgeber andere Pläne: Sie bauen kräftig aus. Ein Überblick in Daten",
+      "url": "https://www.zeit.de/2022/08/kohleindustrie-weltweit-fossile-energietraeger-klimakrise",
+      "image_url": "https://img.zeit.de/2022/08/kohleindustrie-weltweit-fossile-energietraeger-klimakrise-teaser/cinema__980x420",
+      "image_title": "Kohleindustrie: Woher kommt die ganze Kohle?"
+    },
+    {
       "title": "OECD-Bericht: Nur neun Prozent des weltweit verwendeten Plastiks wird recycelt",
       "teaser": "Zwischen 2000 und 2019 hat sich die weltweite Plastikproduktion fast verdoppelt. Das gilt auch für Plastikmüll, der oft illegal und umweltschädlich entsorgt wird.",
       "url": "https://www.zeit.de/wissen/umwelt/2022-02/oecd-bericht-plastik-muell-recycling",
-      "image_url": "https://img.zeit.de/wissen/2022-02/plastikproduktion-weltweit-plastikmuell/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2022-02/plastikproduktion-weltweit-plastikmuell/wide__822x462",
       "image_title": "OECD-Bericht: Nur neun Prozent des weltweit verwendeten Plastiks wird recycelt"
     },
     {
       "title": "Berlin: Wie Berlin vom ärmlichen Nest zur Metropole aufstieg",
       "teaser": "Vier Herrscher und vier bahnbrechende Architekten verwandeln zwischen 1700 und 1840 die damalige Hauptstadt Preußens. Dieser Glanz prägt das Gesicht der Stadt bis heute.",
       "url": "https://www.zeit.de/zeit-geschichte/2022/01/berlin-preussen-metropole-architektur-hauptstadt",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/berlin-preussen-metropole-architektur-1/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/berlin-preussen-metropole-architektur-1/cinema__980x420",
       "image_title": "Berlin: Wie Berlin vom ärmlichen Nest zur Metropole aufstieg"
     },
     {
       "title": "Coronavirus: RKI registriert deutlich weniger Neuinfektionen",
-      "teaser": "Die Gesundheitsämter haben 125.902 neue Corona-Fälle gemeldet. Bayern verzeichnete die meisten Fälle. 306 Menschen starben an Covid-19. 132 Kommentare",
+      "teaser": "Die Gesundheitsämter haben 125.902 neue Corona-Fälle gemeldet. Bayern verzeichnete die meisten Fälle. 306 Menschen starben an Covid-19.",
       "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-rueckgang-acht-prozent",
-      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-zahlen/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-zahlen/wide__822x462",
       "image_title": "Coronavirus: RKI registriert deutlich weniger Neuinfektionen"
-    },
-    {
-      "title": "Hannah Emde: \"Das Gibbon-Baby fiel mir direkt in die Arme\"",
-      "teaser": "Die Tierärztin Hannah Emde liebt die Wildnis, rettet Affen auf Borneo und ist mit Nashorn-Rangern unterwegs. Die Doku \"Hannah goes wild\" zeigt, wie Artensterben aussieht.",
-      "url": "https://www.zeit.de/green/2022-02/hannah-emde-hannah-goes-wild-namibia-artenschutz",
-      "image_url": "https://img.zeit.de/green/2022-02/hannah-emde-hannah-goes-wild-namibia-artenschutz-bild/wide__822x462",
-      "image_title": "Hannah Emde: \"Das Gibbon-Baby fiel mir direkt in die Arme\""
     },
     {
       "title": "Negative Nachrichten • Das Beste aus Z+: Wie man angesichts der Nachrichtenlage nicht die Hoffnung verliert",
@@ -380,10 +380,17 @@
       "image_title": "Jürgen Trittin und Tadzio Müller: \"Robert Habeck führt uns in die fossile Abhängigkeit\""
     },
     {
+      "title": "Hannah Emde: \"Das Gibbon-Baby fiel mir direkt in die Arme\"",
+      "teaser": "Die Tierärztin Hannah Emde liebt die Wildnis, rettet Affen auf Borneo und ist mit Nashorn-Rangern unterwegs. Die Doku \"Hannah goes wild\" zeigt, wie Artensterben aussieht.",
+      "url": "https://www.zeit.de/green/2022-02/hannah-emde-hannah-goes-wild-namibia-artenschutz",
+      "image_url": "https://img.zeit.de/green/2022-02/hannah-emde-hannah-goes-wild-namibia-artenschutz-bild/cinema__980x420",
+      "image_title": "Hannah Emde: \"Das Gibbon-Baby fiel mir direkt in die Arme\""
+    },
+    {
       "title": "Herbert Engelsing: Das Doppelleben meines Vaters",
       "teaser": "Herbert Engelsing war Teil des Widerstands gegen Hitler, gleichzeitig produzierte er Propagandafilme. Heute fragt sich sein Sohn: Wie hielt er diesen Zwiespalt aus?",
       "url": "https://www.zeit.de/2022/08/herbert-engelsing-nationalsozialismus-reichsdeutsche-filme-tochter",
-      "image_url": "https://img.zeit.de/2022/08/das-doppelleben-meines-vaters-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2022/08/das-doppelleben-meines-vaters-bild-1/wide__822x462",
       "image_title": "Herbert Engelsing: Das Doppelleben meines Vaters"
     },
     {
@@ -394,13 +401,6 @@
       "image_title": "Dialekte: \"Mundart ist nicht mehr gleich Geschichte und Tradition\""
     },
     {
-      "title": "Coronavirus: Sieben-Tage-Inzidenz sinkt im Wochenvergleich weiter",
-      "teaser": "Das RKI meldet 73.867 Neuansteckungen und 22 Todesfälle im Zusammenhang mit dem Virus. Die Inzidenz ist gegenüber dem Vortag leicht auf 1.346,8 gestiegen.",
-      "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-update",
-      "image_url": "https://img.zeit.de/gesundheit/2022-02/coronavirus-deutschland-rki-zahlen-4/wide__822x462",
-      "image_title": "Coronavirus: Sieben-Tage-Inzidenz sinkt im Wochenvergleich weiter"
-    },
-    {
       "title": "Sprachtest: Wie gut ist Ihr Französisch?",
       "teaser": "Sprache bildet die Grundlage für Kommunikation. Wie gut die eigenen Sprachkenntnisse sind, können Sie schnell mit unserem digitalen Sprachtest herausfinden.",
       "url": "https://sprachtest.zeit.de/franzoesisch?wt_zmc=fix.int.zonaudev.alias.alias.zeitde.alias.spotlight-sprachtest-link-franzoesisch.x&utm_medium=fix&utm_source=alias_zonaudev_int&utm_campaign=alias&utm_content=zeitde_alias_spotlight-sprachtest-link-franzoesisch_x",
@@ -408,11 +408,11 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
     },
     {
-      "title": "Handschrift: Verderben Kugelschreiber die Handschrift?",
-      "teaser": "Nur mit dem Füller lernt man schön schreiben – ein Mythos, der zumindest früher durch die Schulen geisterte und den Kuli in der Federmappe verpönte. Zu Recht?",
-      "url": "https://www.zeit.de/2022/08/handschrift-kugelschreiber-leserlich-schreiben-fueller",
-      "image_url": "https://img.zeit.de/2022/08/handschrift-kugelschreiber-leserlich-schreiben-fueller-teaser/wide__822x462",
-      "image_title": "Handschrift: Verderben Kugelschreiber die Handschrift?"
+      "title": "Coronavirus: Sieben-Tage-Inzidenz sinkt im Wochenvergleich weiter",
+      "teaser": "Das RKI meldet 73.867 Neuansteckungen und 22 Todesfälle im Zusammenhang mit dem Virus. Die Inzidenz ist gegenüber dem Vortag leicht auf 1.346,8 gestiegen.",
+      "url": "https://www.zeit.de/wissen/2022-02/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-update",
+      "image_url": "https://img.zeit.de/gesundheit/2022-02/coronavirus-deutschland-rki-zahlen-4/wide__822x462",
+      "image_title": "Coronavirus: Sieben-Tage-Inzidenz sinkt im Wochenvergleich weiter"
     },
     {
       "title": "Verhütung: \"Die Pille wird viel zu oft als alternativlos diskutiert\"",
