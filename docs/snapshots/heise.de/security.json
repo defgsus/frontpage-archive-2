@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-28T10:22:19",
+  "timestamp": "2022-02-28T11:17:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PHP",
+      "url": "https://www.heise.de/news/Programmiersprache-Sicherheitsluecke-ermoeglicht-Codeschmuggel-in-PHP-6527558.html"
+    },
+    {
       "title": "Mozilla VPN",
       "url": "https://www.heise.de/news/Mozillas-VPN-Client-koennte-Schadcode-nachladen-6527681.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Java-und-Kernel-Luecken-in-IBM-AIX-bedrohen-Server-6526120.html"
     },
     {
-      "title": "Trend Micro ServerProtect, Worry-Free Business Security",
-      "url": "https://www.heise.de/news/Schlupfloch-in-Trend-Micro-ServerProtect-laesst-Angreifer-auf-Server-6524466.html"
+      "title": "Programmiersprache: Sicherheitslücke ermöglicht Codeschmuggel in PHP",
+      "teaser": "Mit neuen PHP-Versionen schließen die Entwickler Sicherheitslücken, die Angreifern unter Umständen das Einschleusen von Schadcode ermöglichen könnten.",
+      "url": "https://www.heise.de/news/Programmiersprache-Sicherheitsluecke-ermoeglicht-Codeschmuggel-in-PHP-6527558.html",
+      "image_title": "Aufmacher PHP-Updates schließen Sicherheitslücken"
     },
     {
       "title": "Ukraine-Krieg: \"IT-Armee\" aus Freiwilligen weckt Befürchtungen vor Eskalation",
@@ -64,14 +70,14 @@
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
-      "title": "iX-Workshops: DNS und TLS absichern mit DNSSEC und DANE",
-      "teaser": "Lernen Sie, wie Sie TLS und DNS mit den Sicherheits-Erweiterungen DNSSEC und DANE verifizierbar und vertrauenswürdig implementieren. Noch einige Plätze frei.",
-      "url": "https://www.heise.de/news/iX-Workshops-DNS-und-TLS-absichern-mit-DNSSEC-und-DANE-6522275.html"
-    },
-    {
       "title": "Schnelle Identitätsprüfung und sicherer Zugriff",
       "teaser": "Eine Login-Box muss das richtige Gleichgewicht zwischen Benutzerfreundlichkeit, Datenschutz und Sicherheit haben. Wie sieht also modernes Zugriffsmanagement aus? Wir zeigen Ihnen, wie Sie das Vertrauen Ihrer Kunden gewinnen.",
       "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/sicheres-und-kundenorientiertes-identitaets-und-zugriffsmanagement-4226/?source=nat-teas"
+    },
+    {
+      "title": "iX-Workshops: DNS und TLS absichern mit DNSSEC und DANE",
+      "teaser": "Lernen Sie, wie Sie TLS und DNS mit den Sicherheits-Erweiterungen DNSSEC und DANE verifizierbar und vertrauenswürdig implementieren. Noch einige Plätze frei.",
+      "url": "https://www.heise.de/news/iX-Workshops-DNS-und-TLS-absichern-mit-DNSSEC-und-DANE-6522275.html"
     },
     {
       "title": "Sicher und selbständig durchs Netz: Medienkompetenz kindgerecht vermitteln",
@@ -152,11 +158,6 @@
       "teaser": "Sicherheitslücken in der System-Fernverwaltungssoftware Webmin ermöglichen eingeschränkten Nutzern, ihre Rechte auszuweiten und beliebigen Code auszuführen.",
       "url": "https://www.heise.de/news/Rechnerverwaltung-Webmin-Nutzer-koennten-Schadcode-einschleusen-6521301.html",
       "image_title": "Aufmacher webmin-Lücken"
-    },
-    {
-      "title": "Security-Konferenz secIT 2022: Active Directory und Windows 11 sicherer machen",
-      "teaser": "Die von c't, heise Security und iX ausgewählten Referenten geben auf der secIT 2022 lebensrettende Handlungsanweisungen, wenn Hacker die eigene IT entern.",
-      "url": "https://www.heise.de/news/Security-Konferenz-secIT-2022-Active-Directory-und-Windows-11-sicherer-machen-6316481.html"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
