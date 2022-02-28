@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-02-28T09:19:52",
+  "timestamp": "2022-02-28T10:22:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,7 +32,7 @@
   ],
   "articles": [
     {
-      "title": "Thunderbird",
+      "title": "Mozilla VPN",
       "url": "https://www.heise.de/news/Mozillas-VPN-Client-koennte-Schadcode-nachladen-6527681.html"
     },
     {
@@ -48,20 +48,14 @@
       "url": "https://www.heise.de/news/Schlupfloch-in-Trend-Micro-ServerProtect-laesst-Angreifer-auf-Server-6524466.html"
     },
     {
-      "title": "Mozillas VPN-Client könnte Schadcode nachladen",
-      "teaser": "Es gibt ein wichtiges Sicherheitsupdate für Mozilla VPN. Nach erfolgreichen Attacken könnten Angreifer Systeme übernehmen.",
-      "url": "https://www.heise.de/news/Mozillas-VPN-Client-koennte-Schadcode-nachladen-6527681.html"
+      "title": "Ukraine-Krieg: \"IT-Armee\" aus Freiwilligen weckt Befürchtungen vor Eskalation",
+      "teaser": "Seit Tagen wehrt die Ukraine einen russischen Angriffskrieg ab. Helfen soll auch eine \"IT-Armee\" aus Freiwilligen. Hunderttausende bekunden Interesse.",
+      "url": "https://www.heise.de/news/Ukraine-Krieg-IT-Armee-aus-Freiwilligen-weckt-Befuerchtungen-vor-Eskalation-6527721.html"
     },
     {
       "title": "Meta registriert mehr Fake-News-Verbreiter durch Ukraine-Krieg",
       "teaser": "Über Fake-Konten, aber auch etablierte und dann gehackte Social-Media-Konten versuchen bereits bekannte Kräfte Desinformationen über den Krieg zu verbreiten.",
       "url": "https://www.heise.de/news/Meta-registriert-mehr-Fake-News-Verbreiter-durch-Ukraine-Konflikt-6527497.html"
-    },
-    {
-      "title": "Nvidia: Cyber-Attacke unbekannter Tragweite, aber Hersteller schlägt zurück",
-      "teaser": "Eine Hacker-Gruppe hat angeblich vertrauliche Daten Nvidias erlangt und droht mit Veröffentlichung. Verbindungen zum Ukraine-Krieg gibt es nicht.",
-      "url": "https://www.heise.de/news/Nvidia-Cyber-Attacke-mit-unbekannten-Folgen-aber-Hersteller-schlaegt-zurueck-6527471.html",
-      "image_title": "Verhüllte Gestalt sitzt im dunklen Raum an System mit mehreren Monitoren"
     },
     {
       "title": "Cyberkrieg: Schlagabtausch zwischen Anonymous und Conti – FCC organisiert Abwehr",
@@ -70,19 +64,25 @@
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
-      "title": "Schnelle Identitätsprüfung und sicherer Zugriff",
-      "teaser": "Eine Login-Box muss das richtige Gleichgewicht zwischen Benutzerfreundlichkeit, Datenschutz und Sicherheit haben. Wie sieht also modernes Zugriffsmanagement aus? Wir zeigen Ihnen, wie Sie das Vertrauen Ihrer Kunden gewinnen.",
-      "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/sicheres-und-kundenorientiertes-identitaets-und-zugriffsmanagement-4226/?source=nat-teas"
-    },
-    {
       "title": "iX-Workshops: DNS und TLS absichern mit DNSSEC und DANE",
       "teaser": "Lernen Sie, wie Sie TLS und DNS mit den Sicherheits-Erweiterungen DNSSEC und DANE verifizierbar und vertrauenswürdig implementieren. Noch einige Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshops-DNS-und-TLS-absichern-mit-DNSSEC-und-DANE-6522275.html"
     },
     {
+      "title": "Schnelle Identitätsprüfung und sicherer Zugriff",
+      "teaser": "Eine Login-Box muss das richtige Gleichgewicht zwischen Benutzerfreundlichkeit, Datenschutz und Sicherheit haben. Wie sieht also modernes Zugriffsmanagement aus? Wir zeigen Ihnen, wie Sie das Vertrauen Ihrer Kunden gewinnen.",
+      "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/sicheres-und-kundenorientiertes-identitaets-und-zugriffsmanagement-4226/?source=nat-teas"
+    },
+    {
       "title": "Sicher und selbständig durchs Netz: Medienkompetenz kindgerecht vermitteln",
       "teaser": "Gratis-Kinderbücher und spezielle Websites sollen Kindern Themen wie Datenschutz und Sicherheit im Internet nahebringen. Wir haben quergelesen & -gesurft.",
       "url": "https://www.heise.de/ratgeber/Sicher-und-selbstaendig-durchs-Netz-Medienkompetenz-kindgerecht-vermitteln-6489516.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
+    },
+    {
+      "title": "Ransomware Deadbolt befällt Asustor-NAS",
+      "teaser": "Die Deadbolt-Ransomware befällt nach Qnap-NAS jetzt Asustor-NAS-Geräte. Ein Firmware-Update des Herstellers schließt die missbrauchte Sicherheitslücke.",
+      "url": "https://www.heise.de/news/Ransomware-Deadbolt-befaellt-Asustor-NAS-6526167.html",
+      "image_title": "Aufmacher Deadbolt-Ransomware springt von Qnap auf Asustor"
     },
     {
       "title": "Sicherheitsupdates: Java- und Kernel-Lücken in IBM AIX bedrohen Server",
@@ -109,6 +109,12 @@
       "title": "Ransomware-Erpressung mehr als verdoppelt: 2021 über 600 Millionen Angriffe",
       "teaser": "Hacker verdreifachten die Zahl der Ransomware-Angriffe in den letzten drei Jahren, wie ein aktueller Report zeigt. Hauptziel der meisten Attacken sind die USA.",
       "url": "https://www.heise.de/news/Ransomware-Erpressung-mehr-als-verdoppelt-2021-ueber-600-Millionen-Angriffe-6524397.html"
+    },
+    {
+      "title": "Cyberattacken auf Ziele in der Ukraine",
+      "teaser": "Sicherheitsforscher von Eset warnen vor einer datenlöschenden Malware auf hunderten Rechnern. Währenddessen laufen DDoS-Angriffe auf ukrainische Webseiten.",
+      "url": "https://www.heise.de/news/Cyberattacken-auf-Ukraine-6524405.html",
+      "image_title": "Aufmacher HermeticWiper und DDoS Ukraine"
     },
     {
       "title": "Russische Cybergang: Cyclops-Blink-Botnet befällt WatchGuard-Firewalls",
@@ -151,11 +157,6 @@
       "title": "Security-Konferenz secIT 2022: Active Directory und Windows 11 sicherer machen",
       "teaser": "Die von c't, heise Security und iX ausgewählten Referenten geben auf der secIT 2022 lebensrettende Handlungsanweisungen, wenn Hacker die eigene IT entern.",
       "url": "https://www.heise.de/news/Security-Konferenz-secIT-2022-Active-Directory-und-Windows-11-sicherer-machen-6316481.html"
-    },
-    {
-      "title": "Der Hack, der Ethereum spaltete: DAO-Angreifer angeblich enttarnt",
-      "teaser": "2016 erschütterte ein Hack gegen die Krypto-Organisation DAO die Grundfesten von Ethereum. Nun meint eine US-Journalistin, den Täter gefunden zu haben.",
-      "url": "https://www.heise.de/news/Der-Hack-der-Ethereum-spaltete-DAO-Angreifer-angeblich-enttarnt-6517632.html"
     },
     {
       "title": "Log4Shell: Eine Bestandsaufnahme",
