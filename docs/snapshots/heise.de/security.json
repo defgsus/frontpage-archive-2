@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-01T09:19:17",
+  "timestamp": "2022-03-01T10:22:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Okta Advanced Server Client",
+      "url": "https://www.heise.de/news/Cloud-Schutzloesung-von-Okta-koennte-Schadcode-auf-Server-lassen-6529223.html"
+    },
+    {
       "title": "PHP",
       "url": "https://www.heise.de/news/Programmiersprache-Sicherheitsluecke-ermoeglicht-Codeschmuggel-in-PHP-6527558.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Ransomware-Deadbolt-befaellt-Asustor-NAS-6526167.html"
     },
     {
-      "title": "IBM AIX",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Java-und-Kernel-Luecken-in-IBM-AIX-bedrohen-Server-6526120.html"
+      "title": "Satelliten-Störung: Tausende Windräder nicht steuerbar",
+      "teaser": "In Zentraleuropa sind tausende Windkraftanlagen nicht ansteuerbar. Das Satelliten-Netzwerk KA-SAT ist ausgefallen.",
+      "url": "https://www.heise.de/news/Satelliten-Stoerung-Tausende-Windraeder-nicht-steuerbar-6529189.html"
+    },
+    {
+      "title": "Cloud-Schutzlösung von Okta könnte Schadcode auf Server lassen",
+      "teaser": "Ein wichtiges Sicherheitsupdate schließt ein Schadcode-Schlupfloch in Okta Advanced Server Client.",
+      "url": "https://www.heise.de/news/Cloud-Schutzloesung-von-Okta-koennte-Schadcode-auf-Server-lassen-6529223.html"
     },
     {
       "title": "Ukraine-Krieg: Microsoft und TikTok erschweren Zugang zu RT und Sputnik",
@@ -144,17 +154,6 @@
       "teaser": "Sicherheitsforscher von Eset warnen vor einer datenlöschenden Malware auf hunderten Rechnern. Währenddessen laufen DDoS-Angriffe auf ukrainische Webseiten.",
       "url": "https://www.heise.de/news/Cyberattacken-auf-Ukraine-6524405.html",
       "image_title": "Aufmacher HermeticWiper und DDoS Ukraine"
-    },
-    {
-      "title": "Russische Cybergang: Cyclops-Blink-Botnet befällt WatchGuard-Firewalls",
-      "teaser": "Die russisch-staatliche Cybergang Sandworm hat mit dem Cyclops-Blink-Botnet WatchGuard-Firewalls infiltriert. WatchGuard liefert Anleitungen zur Entfernung.",
-      "url": "https://www.heise.de/news/Russische-Cybergang-Cyclops-Blink-Botnet-befaellt-WatchGuard-Firewalls-6523973.html",
-      "image_title": "Aufmacher WatchGuard-Firewalls mit Cyclops-Blink-Botnet infiziert"
-    },
-    {
-      "title": "Cisco schließt Root-Lücke in Netzwerk-OS, gibt wichtige Hinweise für Firewalls",
-      "teaser": "Wer eine Firewall von Cisco nutzt, sollte diese aus Sicherheitsgründen bis Anfang März aktualisieren. Außerdem gibt es Patches für NX-OS.",
-      "url": "https://www.heise.de/news/Cisco-schliesst-Root-Luecke-in-Netzwerk-OS-gibt-wichtige-Hinweise-fuer-Firewalls-6524029.html"
     },
     {
       "title": "Cyberwar – droht wirklich die IT-Apokalypse?",
