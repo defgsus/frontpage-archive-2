@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-02T14:18:59",
+  "timestamp": "2022-03-02T15:21:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-99-dichtet-diverse-Schwachstellen-ab-6533293.html"
+    },
+    {
       "title": "pfSense",
       "url": "https://www.heise.de/news/Firewall-Distribution-pfSense-CE-2-6-0-und-Plus-22-01-veroeffentlicht-6531783.html"
     },
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/IBM-warnt-vor-zahlreichen-Sicherheitsluecken-6531076.html"
     },
     {
-      "title": "Okta Advanced Server Client",
-      "url": "https://www.heise.de/news/Cloud-Schutzloesung-von-Okta-koennte-Schadcode-auf-Server-lassen-6529223.html"
+      "title": "Webbrowser Chrome 99 dichtet diverse Schwachstellen ab",
+      "teaser": "Google hat Chrome 99 veröffentlicht und darin vorrangig mehrere Sicherheitslücken abdichtet. Deren Risiko stuft der Hersteller teils als hoch ein.",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-99-dichtet-diverse-Schwachstellen-ab-6533293.html",
+      "image_title": "Aufmacher Chrome 99 Update gegen Sicherheitslücken"
     },
     {
-      "title": "Firewall-Distribution: pfSense CE 2.6.0 und Plus 22.01 veröffentlicht",
+      "title": "Firewall-Distribution pfSense: Neue Versionen mit Sicherheitsupdates",
       "teaser": "Die FreeBSD-basierte Firewall-Distribution pfSense ist in neuen Versionen erschienen. Sie enthält neben allgemeinen Aktualisierungen auch Sicherheitsupdates.",
       "url": "https://www.heise.de/news/Firewall-Distribution-pfSense-CE-2-6-0-und-Plus-22-01-veroeffentlicht-6531783.html",
       "image_title": "Aufmacher pfSense CE 2.6.0 und pfSense Plus 22.01 mit Sicherheitsupdates"
@@ -151,11 +157,6 @@
       "title": "iX-Workshops: DNS und TLS absichern mit DNSSEC und DANE",
       "teaser": "Lernen Sie, wie Sie TLS und DNS mit den Sicherheits-Erweiterungen DNSSEC und DANE verifizierbar und vertrauenswürdig implementieren. Noch einige Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshops-DNS-und-TLS-absichern-mit-DNSSEC-und-DANE-6522275.html"
-    },
-    {
-      "title": "Sicher und selbständig durchs Netz: Medienkompetenz kindgerecht vermitteln",
-      "teaser": "Gratis-Kinderbücher und spezielle Websites sollen Kindern Themen wie Datenschutz und Sicherheit im Internet nahebringen. Wir haben quergelesen & -gesurft.",
-      "url": "https://www.heise.de/ratgeber/Sicher-und-selbstaendig-durchs-Netz-Medienkompetenz-kindgerecht-vermitteln-6489516.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
     },
     {
       "title": "Cyberwar – droht wirklich die IT-Apokalypse?",
