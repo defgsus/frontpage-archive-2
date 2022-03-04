@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-04T10:21:58",
+  "timestamp": "2022-03-04T11:16:06",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -122,11 +122,17 @@
   ],
   "articles": [
     {
+      "title": "Zimmer frei",
+      "teaser": "Eine halbe Million Flüchtlinge in einer Woche, nicht nur die Polen scheinen damit gerade kein Problem zu haben, auch in Brüssel bewegt sich einiges. Und die Menschen in Europa? Überschlagen sich vor Solidarität. Eine Geschichte, zu schön, um wahr zu sein.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-fluechtlinge-putin-europa-1.5540999",
+      "author": "Viktoria Großmann, Cathrin Kahlweit und Josef Kelnberger, Brüssel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5541003/1000x420"
+    },
+    {
       "title": "Welche Gefahr geht von ukrainischen Kernkraftwerken aus?",
       "teaser": "Bei Gefechten rund um Europas größtes Atomkraftwerk bricht ein Feuer aus. Die Situation vor Ort scheint unter Kontrolle, Experten sind dennoch alarmiert. Denn Risiken bestehen nicht nur durch einen direkten Beschuss der Anlagen.",
       "url": "https://www.sueddeutsche.de/wissen/ukraine-krieg-tschernobyl-kernkraftwerk-1.5540806",
-      "author": "Christoph von Eichhorn",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540835/1000x420"
+      "author": "Christoph von Eichhorn"
     },
     {
       "title": "Russen nehmen Europas größtes AKW ein",
@@ -165,11 +171,12 @@
       "image_title": "Members of the Territorial Defence Forces guard a check point in central Kyiv"
     },
     {
-      "title": "Kann die Ukraine überhaupt EU-Mitglied werden?",
-      "teaser": "Angesichts des Krieges will die Ukraine schnellstmöglich in die EU. Trotz aller Sympathie für das Land: Ist es auch nur annähernd bereit für einen Beitritt? Und wie lange würde das überhaupt dauern? Die wichtigsten Fragen und Antworten.",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-eu-russland-1.5540829",
-      "author": "Matthias Kolb, Brüssel, und Paul-Anton Krüger, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540830/208x156"
+      "title": "Weg von Olympia, rein in den Krieg",
+      "teaser": "Der ukrainische Biathlet Dmytro Pidrutschnji war Weltmeister, startete auch bei den Spielen in Peking. Kaum zwei Wochen später verteidigt er sein Land und gibt denen ein Gesicht, die jetzt im Krieg kämpfen.",
+      "url": "https://www.sueddeutsche.de/sport/biathlon-pidrutschnji-ukraine-1.5540862",
+      "author": "Saskia Aleythe, Hamburg",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540864/208x156",
+      "image_title": "Ukraine-Krieg: Biathlet Dmytro Pidrutschnji bei Instagram"
     },
     {
       "title": "Wohin strebt China?",
@@ -177,14 +184,6 @@
       "url": "https://www.sueddeutsche.de/politik/russland-china-ukraine-krieg-xi-putin-1.5540680",
       "author": "Kai Strittmatter, Vilnius",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5540681/600x337"
-    },
-    {
-      "title": "Weg von Olympia, rein in den Krieg",
-      "teaser": "Der ukrainische Biathlet Dmytro Pidrutschnji war Weltmeister, startete auch bei den Spielen in Peking. Kaum zwei Wochen später verteidigt er sein Land und gibt denen ein Gesicht, die jetzt im Krieg kämpfen.",
-      "url": "https://www.sueddeutsche.de/sport/biathlon-pidrutschnji-ukraine-1.5540862",
-      "author": "Saskia Aleythe, Hamburg",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540864/208x156",
-      "image_title": "Ukraine-Krieg: Biathlet Dmytro Pidrutschnji bei Instagram"
     },
     {
       "title": "Macron ist so stark wie lange nicht",
@@ -196,7 +195,7 @@
     {
       "title": "Warum die neue Omikron-Variante noch ansteckender ist",
       "teaser": "Es gibt in Deutschland schon wieder eine neue Variante des Coronavirus: BA.2. Mit dieser könnten die Fallzahlen möglicherweise wieder steigen.",
-      "url": "https://www.sueddeutsche.de/wissen/corona-warum-die-neue-omikron-variante-noch-ansteckender-ist-1.5540521",
+      "url": "https://www.sueddeutsche.de/gesundheit/corona-warum-die-neue-omikron-variante-noch-ansteckender-ist-1.5540521",
       "author": "Videokolumne mit Christina Berndt",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5540720/208x156",
       "image_title": "Vorschaubild"
@@ -205,7 +204,8 @@
       "title": "Das System Koch muss weg",
       "teaser": "Die Staatsanwaltschaft besucht den Deutschen Fußball-Bund - schon wieder. Den Teilnehmern am kommenden Bundestag muss spätestens jetzt klar sein: Ein Neuanfang beim DFB kann nur ohne das alte Netzwerk der Macht gelingen.",
       "url": "https://www.sueddeutsche.de/sport/dfb-koch-razzia-kommentar-1.5540873",
-      "author": "Thomas Kistner"
+      "author": "Kommentar von Thomas Kistner",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5541138/600x337"
     },
     {
       "title": "ETFs und Steuern: Worauf Anleger achten müssen",
@@ -307,19 +307,17 @@
       "author": "Lea Kramer"
     },
     {
-      "title": "Starachitekt Libeskind will Gedenkstätte in Kaufering entwerfen",
-      "teaser": "Das ehemalige Dachauer KZ-Außenlager Kaufering VII im oberbayerischen Landsberg am Lech ist ein bedeutsamer Ort der Shoah. Ein Vertrag mit dem New Yorker Architekten ist noch nicht unterzeichnet - in der Politik scheint es Widerstände zu geben.",
-      "url": "https://www.sueddeutsche.de/muenchen/dachau/kaufering-gedenkstaette-daniel-libeskind-dachau-1.5539907",
-      "author": "Helmut Zeller, Dachau/Kaufering",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5539908/208x156"
+      "title": "Der neue kulinarische Sternenhimmel über den Seen",
+      "teaser": "Das Voralpenland entwickelt sich zunehmend zu einer beliebten Region für Gourmets. Die Restaurants dort müssen sich längst nicht mehr verstecken.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-michelin-sternekueche-gastronomie-1.5540365",
+      "author": "Franz Kotteder, München",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.4346699/208x156"
     },
     {
-      "title": "So lockert Bayern die Corona-Regeln ab heute",
-      "teaser": "In Hotels und Gastronomie wird 2 G zu 3 G, Clubs und Diskos dürfen wieder öffnen, im Sportunterricht entfällt die Maskenpflicht: Ein Überblick über alle Maßnahmen und Lockerungen.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-corona-regeln-aktuell-lockerungen-1.4878824",
-      "author": "Max Ferstl und Kassian Stroh",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5520888/208x156",
-      "image_title": "Jahreschronik 2021"
+      "title": "Petition als letzte Chance",
+      "teaser": "Egon Greipl, der frühere Chef des Landesamts für Denkmalpflege, kämpft gegen ein Urteil. Er soll an den Freistaat Schadenersatz in Höhe von 730 000 Euro zahlen.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-denkmalpflege-greipl-schadenersatz-1.5540663",
+      "author": "Andreas Glas, München"
     },
     {
       "title": "VGH kippt umstrittene Regelung zum Genesenenstatus",
@@ -344,6 +342,12 @@
       "image_title": "Atomkraftwerk"
     },
     {
+      "title": "Zicken auf dem Laufsteg",
+      "teaser": "Im Münchner Tierpark Hellabrunn macht ein Töchterchen seiner Mutter ein vergiftetes Kompliment. Drei Anekdoten aus aller Welt.",
+      "url": "https://www.sueddeutsche.de/panorama/mitten-in-kolumne-kurioses-muenchen-tierpark-hellabrunn-yokohama-schliersee-1.5540791",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540792/208x156"
+    },
+    {
       "title": "Exit aus dem Exil?",
       "teaser": "Die spanische Justiz stellt alle Ermittlungen gegen den früheren König Juan Carlos ein. Nun könnte er nach Spanien zurückkehren - ein Paria aber dürfte er bleiben.",
       "url": "https://www.sueddeutsche.de/panorama/exil-juan-carlos-spanien-koenigshaus-ermittlungen-1.5540783",
@@ -355,13 +359,6 @@
       "teaser": "Robbie Williams verkauft Banksy-Kunst, Thomas Gottschalk hat offenbar keine Katererfahrung, und Kim Kardashian ist jetzt offiziell Single.",
       "url": "https://www.sueddeutsche.de/panorama/robbie-williams-banksy-thomas-gottschalk-alkohol-kim-kardashian-1.5540764",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5135258/208x156"
-    },
-    {
-      "title": "Alle Paare sparen in Rom",
-      "teaser": "Heiraten brachte schon immer finanzielle Vorteile. Wer es jetzt in der italienischen Hauptstadt tut, erhält auch noch einen Bonus. Wie romantisch.",
-      "url": "https://www.sueddeutsche.de/panorama/heiraten-rom-hochzeit-bonus-1.5540721",
-      "author": "Violetta Simon",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540777/208x156"
     },
     {
       "title": "Diese EU-Regel könnte die Energiewende in Deutschland ausbremsen",
@@ -421,6 +418,13 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5539494/208x156"
     },
     {
+      "title": "Geister von Abu Ghraib",
+      "teaser": "Ein Spieler, verfolgt vom Wahnsinn seiner Vergangenheit: Oscar Isaac als \"The Card Counter\" reiht sich ein in Paul Schraders Galerie der Gequälten, die mit dem \"Taxi Driver\" begann.",
+      "url": "https://www.sueddeutsche.de/kultur/the-card-counter-paul-schrader-rezension-1.5540294",
+      "author": "Tobias Kniebe",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5400718/208x156"
+    },
+    {
       "title": "Das hilft",
       "teaser": "Irre Woche, mit neuer Musik von Stromae, RZA, Diplo, The Weather Station, \"Band of Horses\" und Anouchka Gwen. Alles: Balsam für die Ängste.",
       "url": "https://www.sueddeutsche.de/kultur/alben-der-woche-stromae-diplo-rza-1.5540882",
@@ -428,22 +432,16 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5539153/208x156"
     },
     {
-      "title": "Von Freundlichkeit und Freunden",
-      "teaser": "Optimistische Chefs am Hamburger Bahnhof, ein weniger verschnupfter Förderverein und Soli-Wochenende für Ukraine-Flüchtlinge: An Berlins Nationalgalerie beginnt gerade die Zukunft.",
-      "url": "https://www.sueddeutsche.de/kultur/berlin-hamburger-bahnhof-neue-bationalgalerie-sam-bardaouil-till-fellrath-klaus-biesenbach-ukraine-krieg-1.5540821",
-      "author": "Peter Richter",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540822/208x156"
+      "title": "\"Das muss und werde ich mir nicht gefallen lassen\"",
+      "teaser": "Christan Drosten wehrt sich juristisch gegen einen Hamburger Professor und das Magazin \"Cicero\". Es geht um den Vorwurf, er habe die Öffentlichkeit getäuscht, was die Herkunft des Coronavirus angeht. Protokoll eines Gerüchts.",
+      "url": "https://www.sueddeutsche.de/medien/drosten-unterlassungserklaerung-cicero-1.5540659",
+      "author": "Georg Mascolo",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5540662/208x156"
     },
     {
-      "title": "RT DE reicht Eilantrag vor Gericht ein",
-      "teaser": "Damit wehrt sich der deutsche Ableger von RT gegen eine Abschaltung mangels Sendelizenz.",
-      "url": "https://www.sueddeutsche.de/medien/rt-deutschland-eilantrag-sendeverbot-1.5541121",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5541122/208x156"
-    },
-    {
-      "title": "Russland zieht gegen Sperren vor den Cas",
-      "teaser": "Das Land will den Ausschluss von der Fußball-Weltmeisterschaft und von den Paralympics vor dem Internationalen Sportgerichtshof Cas anfechten. Die Entscheidung sei eine Verletzung von Athletenrechten.",
-      "url": "https://www.sueddeutsche.de/sport/paralympics-und-fussball-russland-zieht-gegen-sperren-vor-den-cas-1.5541060",
+      "title": "Russisches Team verlässt Peking",
+      "teaser": "Zwar liegt noch eine Klage gegen den Ausschluss des Landes von den Paralympics beim Internationalen Sportgerichtshof Cas. Doch Russland sieht keine Aussicht auf Erfolg.",
+      "url": "https://www.sueddeutsche.de/sport/paralympics-russisches-team-verlaesst-peking-1.5541060",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5541061/208x156"
     },
     {
