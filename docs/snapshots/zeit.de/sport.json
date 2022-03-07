@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-07T08:25:06",
+  "timestamp": "2022-03-07T09:20:14",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Paralympics: Anna-Lena Forster gewinnt erstes deutsches Paralympics-Gold im Monoski",
+      "teaser": "Trotz sechs Sekunden Rückstand gewann die 26-Jährige ihre dritte Goldmedaille. Beim Slalom am Sonntag gilt sie ebenfalls als Favoritin.",
+      "url": "https://www.zeit.de/sport/2022-03/paralympics-anna-lena-forster-gold",
+      "image_url": "https://img.zeit.de/sport/2022-03/paralympics-anna-lena-forster-gold-bild/cinema__980x420"
+    },
+    {
       "title": "Bundesliga-Rückschau: Einer der schlimmsten Tage in der Fußballgeschichte",
       "teaser": "Nicht die Solidaritätsbilder bleiben von diesem Fußballwochenende, sondern die aus Mexiko: mindestens 17 Tote, weil Menschen in einem Stadion andere totprügeln.",
       "url": "https://www.zeit.de/sport/2022-03/bundesliga-rueckschau-mexiko-massenschlaegerei-queretaro",
-      "image_url": "https://img.zeit.de/sport/2022-03/mexiko-queretaro-bundesliga-rueckschau-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-03/mexiko-queretaro-bundesliga-rueckschau-bild/wide__822x462",
+      "image_title": "Bundesliga-Rückschau: Einer der schlimmsten Tage in der Fußballgeschichte"
     },
     {
       "title": "Dimitrios Grammozis: Schalke trennt sich von Trainer Grammozis",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/sport/2022-03/fc-schalke-04-dimitrios-grammozis-fussball-trainer",
       "image_url": "https://img.zeit.de/sport/2022-03/fc-schalke-04-dimitrios-grammozis-fussball-trainer-bild/wide__822x462",
       "image_title": "Dimitrios Grammozis: Schalke trennt sich von Trainer Grammozis"
-    },
-    {
-      "title": "Uralkali: Formel-1-Team Haas trennt sich von Fahrer und russischem Hauptsponsor",
-      "teaser": "Nikita Masepins Vater ist Miteigentümer des russischen Staatsunternehmens und Haas-Sponsors Uralkali. Pietro Fittipaldi könnte Masepins Platz im Rennstall einnehmen.",
-      "url": "https://www.zeit.de/sport/2022-03/formel1-haas-nikita-masepin-uralkali",
-      "image_url": "https://img.zeit.de/sport/2022-03/formel1-haas-nikita-masepin-uralkali-bild/wide__822x462",
-      "image_title": "Uralkali: Formel-1-Team Haas trennt sich von Fahrer und russischem Hauptsponsor"
     },
     {
       "title": "Schalke 04: Die Gazprom-Lücke",
@@ -96,6 +96,13 @@
       "image_title": "Felix Zwayer: \"Mit dem kann man arbeiten\""
     },
     {
+      "title": "Uralkali: Formel-1-Team Haas trennt sich von Fahrer und russischem Hauptsponsor",
+      "teaser": "Nikita Masepins Vater ist Miteigentümer des russischen Staatsunternehmens und Haas-Sponsors Uralkali. Pietro Fittipaldi könnte Masepins Platz im Rennstall einnehmen.",
+      "url": "https://www.zeit.de/sport/2022-03/formel1-haas-nikita-masepin-uralkali",
+      "image_url": "https://img.zeit.de/sport/2022-03/formel1-haas-nikita-masepin-uralkali-bild/wide__822x462",
+      "image_title": "Uralkali: Formel-1-Team Haas trennt sich von Fahrer und russischem Hauptsponsor"
+    },
+    {
       "title": "Schachtar Donezk: Ein Verein auf der Flucht",
       "teaser": "Ein getöteter Jugendtrainer und Profis, die in Bunkern schlafen: Der schon lange heimatlose Club Schachtar Donezk ist ein Symbol des russischen Krieges gegen die Ukraine.",
       "url": "https://www.zeit.de/sport/2022-03/schachtar-donezk-ukraine-russland-krieg-fussballverein",
@@ -110,13 +117,6 @@
       "image_title": "Paralympics: Linn Kazmaier und Leonie Walter holen Silber und Bronze im Biathlon"
     },
     {
-      "title": "Paralympics 2022 in Peking: Paralympics im Schatten des Weltgeschehens",
-      "teaser": "Viele Stars und ein junges deutsches Team: alles zu den Paralympischen Winterspielen in China, die während des Krieges gegen die Ukraine und einer Pandemie stattfinden.",
-      "url": "https://www.zeit.de/sport/2022-03/paralympics-2022-peking-russland-ukraine-krieg",
-      "image_url": "https://img.zeit.de/sport/2022-03/paralympics-2022-peking-russland-ukraine-krieg-bild/wide__822x462",
-      "image_title": "Paralympics 2022 in Peking: Paralympics im Schatten des Weltgeschehens"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -124,11 +124,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Rassismus: Rassistische Entschädigungsregeln im US-Football werden geändert",
-      "teaser": "Bislang wurde Schwarzen Footballspielern eine niedrigere Intelligenz zugeschrieben. Das erschwerte eine Demenzdiagnose und eine entsprechende Kompensation.",
-      "url": "https://www.zeit.de/sport/2022-03/nfl-football-rassismus-entschaedigung",
-      "image_url": "https://img.zeit.de/sport/2022-03/najeh-davenport-nfl-football/wide__822x462",
-      "image_title": "Rassismus: Rassistische Entschädigungsregeln im US-Football werden geändert"
+      "title": "Paralympics 2022 in Peking: Paralympics im Schatten des Weltgeschehens",
+      "teaser": "Viele Stars und ein junges deutsches Team: alles zu den Paralympischen Winterspielen in China, die während des Krieges gegen die Ukraine und einer Pandemie stattfinden.",
+      "url": "https://www.zeit.de/sport/2022-03/paralympics-2022-peking-russland-ukraine-krieg",
+      "image_url": "https://img.zeit.de/sport/2022-03/paralympics-2022-peking-russland-ukraine-krieg-bild/wide__822x462",
+      "image_title": "Paralympics 2022 in Peking: Paralympics im Schatten des Weltgeschehens"
     },
     {
       "title": "Krieg gegen die Ukraine: Appeasement ist vorbei",
@@ -145,6 +145,13 @@
       "image_title": "Sponsoring aus Russland: Das Gazprom-Netz"
     },
     {
+      "title": "Rassismus: Rassistische Entschädigungsregeln im US-Football werden geändert",
+      "teaser": "Bislang wurde Schwarzen Footballspielern eine niedrigere Intelligenz zugeschrieben. Das erschwerte eine Demenzdiagnose und eine entsprechende Kompensation.",
+      "url": "https://www.zeit.de/sport/2022-03/nfl-football-rassismus-entschaedigung",
+      "image_url": "https://img.zeit.de/sport/2022-03/najeh-davenport-nfl-football/wide__822x462",
+      "image_title": "Rassismus: Rassistische Entschädigungsregeln im US-Football werden geändert"
+    },
+    {
       "title": "Bundesliga, 25. Spieltag: Hoffenheim setzt sich gegen Köln durch",
       "teaser": "Die Hoffenheimer erreichen zum Abschluss des 25. Spieltages den vierten Platz. Ein Eigentor kostet die Münchner zwei Punkte, Hertha verliert weiter. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2022-03/bundesliga-arminia-bielefeld-fc-augsburg",
@@ -159,17 +166,10 @@
       "image_title": "Bundesligavorschau: \"Spendet doch selbst!\""
     },
     {
-      "title": "Paralympics: Wie es ist, blind einen Berg hinunterzufahren",
-      "teaser": "Noemi Ristau hat zwei Prozent Sehkraft und ist Skifahrerin. Paula Brenzel hilft ihr, unfallfrei den Berg runterzukommen. Bei den Paralympics wollen beide eine Medaille.",
-      "url": "https://www.zeit.de/sport/2022-03/paralympics-sehbehinderte-skifahrerin-paula-brenzel",
-      "image_url": "https://img.zeit.de/sport/2022-03/paralympics-sehbehinderte-skifahrerin-noemie-ristau-teaser/wide__822x462",
-      "image_title": "Paralympics: Wie es ist, blind einen Berg hinunterzufahren"
-    },
-    {
-      "title": "Fifa-Sanktionen: Russland wird vom internationalen Fußball isoliert",
-      "url": "https://www.zeit.de/sport/2022-02/fifa-russland-sanktionen-fussball-wm",
-      "image_url": "https://img.zeit.de/sport/2022-02/fifa-russland-sanktionen-fussball-wm-bild/wide__822x462",
-      "image_title": "Fifa-Sanktionen: Russland wird vom internationalen Fußball isoliert"
+      "title": "Bundesliga-Rückschau: Einer der schlimmsten Tage in der Fußballgeschichte",
+      "url": "https://www.zeit.de/sport/2022-03/bundesliga-rueckschau-mexiko-massenschlaegerei-queretaro",
+      "image_url": "https://img.zeit.de/sport/2022-03/mexiko-queretaro-bundesliga-rueckschau-bild/wide__822x462",
+      "image_title": "Bundesliga-Rückschau: Einer der schlimmsten Tage in der Fußballgeschichte"
     },
     {
       "title": "Kelly Slater: Der Mann, dem Gott die Wellen schenkt",
@@ -184,8 +184,8 @@
       "image_title": "Uralkali: Formel-1-Team Haas trennt sich von Fahrer und russischem Hauptsponsor"
     },
     {
-      "title": "Roman Abramowitsch: Mit ihm fing alles an",
-      "url": "https://www.zeit.de/sport/2022-03/roman-abramowitsch-fc-chelsea-sanktionen-russland"
+      "title": "Fifa-Sanktionen: Russland wird vom internationalen Fußball isoliert",
+      "url": "https://www.zeit.de/sport/2022-02/fifa-russland-sanktionen-fussball-wm"
     },
     {
       "title": "Kamila Walijewa: Bleich wie das Eis",
@@ -196,8 +196,8 @@
       "url": "https://www.zeit.de/sport/2022-03/paralympics-russland-sportler-ausschluss"
     },
     {
-      "title": "Bundesligavorschau: \"Spendet doch selbst!\"",
-      "url": "https://www.zeit.de/sport/2022-03/bundesliga-vorschau-ukraine-spenden-rb-leipzig"
+      "title": "Roman Abramowitsch: Mit ihm fing alles an",
+      "url": "https://www.zeit.de/sport/2022-03/roman-abramowitsch-fc-chelsea-sanktionen-russland"
     },
     {
       "title": "Felix Zwayer: \"Mit dem kann man arbeiten\"",
