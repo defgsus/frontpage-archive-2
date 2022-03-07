@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-07T14:18:18",
+  "timestamp": "2022-03-07T15:20:56",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Bundeskanzler Scholz"
+    },
     {
       "title": "Wirtschaft",
       "url": "https://www.welt.de/wirtschaft/",
@@ -44,11 +49,6 @@
       "topic": "Pandemie"
     },
     {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "topic": "Auslosung DFB-Pokal"
-    },
-    {
       "title": "Medien",
       "url": "https://www.welt.de/kultur/medien/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -76,6 +76,12 @@
       "title": "Jetzt im Fernsehen",
       "url": "https://www.welt.de/mediathek/video152403616/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Sollte der Kampf um Odessa beginnen, werde es noch deutlich mehr Menschen“",
+      "url": "https://www.welt.de/politik/ausland/video237373301/Krieg-in-der-Ukraine-Wird-Moldau-das-naechste-Ziel-von-Wladimir-Putin.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Flüchtlinge in Moldau"
     },
     {
       "title": "„Die Frage ist, ob Putin gesagt bekommt, wie schlecht der Krieg läuft“",
@@ -106,19 +112,6 @@
       "url": "https://www.welt.de/politik/ausland/video237353977/Krieg-in-der-Ukraine-Warum-der-Angriff-der-Russen-stockt.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Krieg in der Ukraine"
-    },
-    {
-      "title": "„Putin hat noch viele Karten in seiner Hand, die er ausspielen kann“",
-      "url": "https://www.welt.de/politik/ausland/video237352125/Ukraine-Krieg-Das-steckt-hinter-Putins-Atom-Drohungen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Krieg in der Ukraine"
-    },
-    {
-      "title": "„Es darf überhaupt kein Gas mehr über Nord Stream 1 laufen“",
-      "url": "https://www.welt.de/politik/ausland/video237352183/Ukraine-Krieg-CDU-Politiker-Kiesewetter-fordert-sofortigen-Verzicht-auf-russisches-Gas.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Roderich Kiesewetter, MdB, CDU, Vorsitzender des Parlamentarischen Kontrollgremiums, posiert fuer ein Foto. Berlin, 15.02.2022",
-      "topic": "Roderich Kiesewetter"
     }
   ]
 }
