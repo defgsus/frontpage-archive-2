@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-08T14:17:32",
+  "timestamp": "2022-03-08T15:20:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Axeda/PTC",
+      "url": "https://www.heise.de/news/Codeausfuehrung-durch-Fernverwaltungsmodul-fuer-medizinische-Geraete-6542436.html"
+    },
+    {
       "title": "Linux Dirty Pipe",
       "url": "https://www.heise.de/news/Linux-Dirty-Pipe-beschert-Root-Rechte-6541556.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Nvidias-geleakte-Code-Signing-Zertifikate-missbraucht-6537255.html"
     },
     {
-      "title": "Cisco Expressway Series & Co.",
-      "url": "https://www.heise.de/news/Kritische-Root-Luecken-gefaehrden-Ciscos-Fernzugriff-Software-Expressway-Series-6537019.html"
+      "title": "Fernverwaltung mit Sicherheitslücke gefährdet medizinische Geräte",
+      "teaser": "Viele medizinische IoT-Geräte enthalten Fernverwaltungssoftware von Axeda/PTC. Sicherheitslücken ermöglichen Angreifern das Einschleusen von Schadcode.",
+      "url": "https://www.heise.de/news/Codeausfuehrung-durch-Fernverwaltungsmodul-fuer-medizinische-Geraete-6542436.html",
+      "image_title": "Aufmacher Access:7-Lücke ermöglicht RCE in medizinischen IoT-Geräten"
     },
     {
       "title": "Sichere Softwareentwicklung: Thementag der heise devSec zu Supply Chain Security",
@@ -151,12 +157,6 @@
       "teaser": "IBM hat für diverse Produkte Updates veröffentlicht, die teils kritische Sicherheitslücken schließen. Administratoren sollten sie zeitnah installieren.",
       "url": "https://www.heise.de/news/IBM-warnt-vor-zahlreichen-Sicherheitsluecken-6531076.html",
       "image_title": "Aufmacher 39 IBM Security Advisories"
-    },
-    {
-      "title": "Cybergang Conti: Interne Daten geleakt - 2,8 Milliarden US-Dollar erbeutet",
-      "teaser": "Nachdem die Cybergang Conti sich im Ukraine-Konflikt auf russische Seite stellte, veröffentlichte ein Mitglied interne Chats und Daten der vergangenen Jahre.",
-      "url": "https://www.heise.de/news/Cybergang-Conti-Interne-Daten-geleakt-2-8-Milliarden-US-Dollar-erbeutet-6529035.html",
-      "image_title": "Aufmacher Conti-Gang Leaks, 2.8MRd USD in Bitcoins"
     },
     {
       "title": "Cyberwar – droht wirklich die IT-Apokalypse?",
