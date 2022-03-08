@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-08T15:20:54",
+  "timestamp": "2022-03-08T16:30:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday: Firefox",
+      "url": "https://www.heise.de/news/Patchday-Weitere-Sicherheitsupdates-fuer-Firefox-6542812.html"
+    },
+    {
       "title": "Axeda/PTC",
       "url": "https://www.heise.de/news/Codeausfuehrung-durch-Fernverwaltungsmodul-fuer-medizinische-Geraete-6542436.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "Firefox & Thunderbird",
       "url": "https://www.heise.de/news/Notfallupdate-Sicherheitsluecken-in-Firefox-und-Thunderbird-werden-angegriffen-6540649.html"
-    },
-    {
-      "title": "Gestohlene NVidia-Zertifikate",
-      "url": "https://www.heise.de/news/Nvidias-geleakte-Code-Signing-Zertifikate-missbraucht-6537255.html"
     },
     {
       "title": "Fernverwaltung mit Sicherheitslücke gefährdet medizinische Geräte",
@@ -63,6 +63,12 @@
       "teaser": "Einbrecher haben bei Samsung Quellcode entwendet. Zudem patzte der Hersteller bei Kryptografie in der Trusted Execution Environment von Flaggschiff-Smartphones.",
       "url": "https://www.heise.de/news/Sicherheitsprobleme-bei-Samsung-Quellcode-geklaut-unsichere-Kryptografie-6540849.html",
       "image_title": "Aufmacher Sicherheitsprobleme bei Samsung"
+    },
+    {
+      "title": "Notfallupdate: Sicherheitslücken in Firefox und Thunderbird werden angegriffen",
+      "teaser": "Die Mozilla-Stiftung hat außer der Reihe Sicherheitsupdates für Firefox, Klar und Thunderbird herausgegeben, die bereits aktiv angegriffene Lücken schließen.",
+      "url": "https://www.heise.de/news/Notfallupdate-Sicherheitsluecken-in-Firefox-und-Thunderbird-werden-angegriffen-6540649.html",
+      "image_title": "Aufmacher Firefox&Thunderbird Notfallupdate"
     },
     {
       "title": "Kommentar zum Ukraine-Krieg: Make Windelpakete, not Cyberwar",
@@ -151,12 +157,6 @@
       "title": "Sicherheitsupdates von Fortinet: Angreifer könnten Admin-Zugänge erraten",
       "teaser": "Unter anderen FortiMail und FortiWLC sind verwundbar. Eine Lücke gilt als kritisch.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-Angreifer-koennten-Admin-Zugaenge-erraten-6531249.html"
-    },
-    {
-      "title": "IBM warnt vor zahlreichen Sicherheitslücken",
-      "teaser": "IBM hat für diverse Produkte Updates veröffentlicht, die teils kritische Sicherheitslücken schließen. Administratoren sollten sie zeitnah installieren.",
-      "url": "https://www.heise.de/news/IBM-warnt-vor-zahlreichen-Sicherheitsluecken-6531076.html",
-      "image_title": "Aufmacher 39 IBM Security Advisories"
     },
     {
       "title": "Cyberwar – droht wirklich die IT-Apokalypse?",
