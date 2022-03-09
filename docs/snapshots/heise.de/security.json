@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-09T14:19:25",
+  "timestamp": "2022-03-09T15:20:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,20 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4d1d31c370a7d7efad76",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.de996f2607e006064ec6",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Siemens Ruggedcom ROS",
+      "url": "https://www.heise.de/news/Siemens-Ruggedcom-Angreifer-koennten-sich-in-KRITIS-einklinken-6544464.html"
+    },
+    {
+      "title": "Pulse Connect Secure",
+      "url": "https://www.heise.de/news/Alte-Luecke-in-Pulse-Connect-Secure-VPN-wird-angegriffen-6544328.html"
+    },
     {
       "title": "Patchday: Android",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schwachstellen-in-Android-ausgebessert-6543727.html"
@@ -40,17 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-in-Illustrator-und-Photoshop-geschlossen-6543669.html"
     },
     {
-      "title": "Patchday: Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-Windows-via-RDP-attackieren-6543587.html"
+      "title": "Siemens Ruggedcom: Angreifer könnten sich in KRITIS einklinken",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für Netzwerkgeräte von Siemens, die für raue Umgebungen gebaut sind.",
+      "url": "https://www.heise.de/news/Siemens-Ruggedcom-Angreifer-koennten-sich-in-KRITIS-einklinken-6544464.html"
     },
     {
-      "title": "Patchday: SAP",
-      "url": "https://www.heise.de/news/Patchday-SAP-behandelt-16-Schwachstellen-6543439.html"
-    },
-    {
-      "title": "secIT 2022: IT-Attacken abwehren, einschätzen, richtig reagieren",
-      "teaser": "Die Security-Konferenz secIT verspricht hochwertige und hilfreiche Fakten. Der Großteil der Themen und Referenten wurde redaktionell ausgewählt.",
-      "url": "https://www.heise.de/news/secIT-2022-IT-Attacken-abwehren-einschaetzen-richtig-reagieren-6543895.html"
+      "title": "Alte Lücke in Pulse Connect Secure-VPN wird angegriffen",
+      "teaser": "Schon Mitte 2020 hat Pulse Secure in seiner VPN-Lösung Aktualisierungen veröffentlicht, die Sicherheitslücken schließen. Die Lücken werden jetzt angegriffen.",
+      "url": "https://www.heise.de/news/Alte-Luecke-in-Pulse-Connect-Secure-VPN-wird-angegriffen-6544328.html",
+      "image_title": "Aufmacher Pulse Connect Secure VPN wird angegriffen"
     },
     {
       "title": "CPU-Sicherheitslücke Spectre V2: Neuer Dreh betrifft AMDs Ryzen und Epyc",
@@ -59,15 +65,20 @@
       "image_title": "AMD Ryzen übertakten"
     },
     {
-      "title": "Stell dir vor, nebenan ist Krieg. Und das BSI? Beratschlagt!",
-      "teaser": "Trotz Ukraine-Krieg bleibt das BSI stumm zum Einsatz russischer Software. Für Jürgen Schmidt, Senior Fellow Security bei Heise, ein grundsätzliches Problem.",
-      "url": "https://www.heise.de/meinung/Stell-dir-vor-nebenan-ist-Krieg-Und-das-BSI-Beratschlagt-6543775.html"
-    },
-    {
       "title": "Kritische Schwachstellen in Android ausgebessert",
       "teaser": "Updates für das Android-Betriebssystem schließen unter anderem eine Sicherheitslücke, die Angreifern erlaubt, eigenen Code ohne Nutzerinteraktion auszuführen.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schwachstellen-in-Android-ausgebessert-6543727.html",
       "image_title": "Aufmacher Android Patchday"
+    },
+    {
+      "title": "Patchday Adobe: Kritische Lücken in Illustrator und Photoshop geschlossen",
+      "teaser": "Angreifer könnten Computer mit Adobe Anwendungen attackieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-in-Illustrator-und-Photoshop-geschlossen-6543669.html"
+    },
+    {
+      "title": "Patchday: Angreifer könnten Windows via RDP attackieren",
+      "teaser": "Wichtige Sicherheitsupdates schließen zum Teil kritische Lücken in Exchange, Windows & Co. Einige Schwachstellen sind bereits öffentlich bekannt.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-Windows-via-RDP-attackieren-6543587.html"
     },
     {
       "title": "Patchday: SAP behebt 16 Schwachstellen",
@@ -147,17 +158,6 @@
       "teaser": "Nachdem anfangs die Malware HermeticWiper in der Ukraine aktiv wurde, melden Forscher von Antivirenunternehmen Funde weiterer Schädlinge, darunter auch Würmern.",
       "url": "https://www.heise.de/news/Weitere-Malware-und-Wuermer-bei-Cyberattacken-in-der-Ukraine-entdeckt-6536083.html",
       "image_title": "Aufmacher Weitere Malware und Würmer in der Ukraine gefunden"
-    },
-    {
-      "title": "Schneider Electric: Fest codierte Anmeldedaten gefährden Industriesteuersysteme",
-      "teaser": "Angreifer könnten kritische Infrastrukturen mit Spannungsschutzrelais von Schneider Electric attackieren. Sicherheitsupdates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Schneider-Electric-Fest-codierte-Anmeldedaten-gefaehrden-Industriesteuersysteme-6536020.html"
-    },
-    {
-      "title": "Phishing und Malware: Microsoft Teams rückt in den Fokus von Angreifern",
-      "teaser": "Sicherheitsforscher sehen seit Januar dieses Jahres vermehrte Angriffe auf Microsoft Teams. Etwa nach Phishing-Attacken versenden Angreifer im Chat Schadcode.",
-      "url": "https://www.heise.de/news/Phishing-und-Malware-Microsoft-Teams-rueckt-in-den-Fokus-von-Angreifern-6535246.html",
-      "image_title": "Aufmacher Angriffe auf Microsoft Teams"
     },
     {
       "title": "Stell dir vor, nebenan ist Krieg. Und das BSI? Beratschlagt!",
