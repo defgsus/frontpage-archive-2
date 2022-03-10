@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-10T22:20:41",
+  "timestamp": "2022-03-10T23:20:41",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Europa League: Bayer 04 sieht trotz Niederlage gegen Bergamo Chance auf Viertelfinale",
+      "teaser": "Die Leverkusener gingen stark in die erste Hälfte. Bergamo drehte jedoch das Spiel mit zwei Toren in zwei Minuten. Am Ende mussten sich Bayer 04 mit 3:2 geschlagen geben.",
+      "url": "https://www.zeit.de/sport/2022-03/europa-league-achtelfinale-europapokal-bayer-04-leverkusen-atlanta-bergamo",
+      "image_url": "https://img.zeit.de/sport/2022-03/europa-league-achtelfinale-europapokal/cinema__980x420"
+    },
+    {
       "title": "DFB: Vielleicht doch ein echter Neuanfang",
       "teaser": "Die Stimmung rund um den DFB ist verheerend. Nun stellen sich erstmals zwei Kandidaten zur Präsidentenwahl. Einer von ihnen jedoch könnte Dinge tatsächlich besser machen.",
       "url": "https://www.zeit.de/sport/2022-03/dfb-praesident-wahl-fussball",
-      "image_url": "https://img.zeit.de/sport/2022-03/bernd-neuendorf-dfb/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-03/bernd-neuendorf-dfb/wide__822x462",
+      "image_title": "DFB: Vielleicht doch ein echter Neuanfang"
     },
     {
       "title": "Paris Saint-Germain: 11 Diven sollt ihr sein",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/sport/2022-03/paris-saint-germain-katar-champions-league",
       "image_url": "https://img.zeit.de/sport/2022-03/psg-aus/wide__822x462",
       "image_title": "Paris Saint-Germain: 11 Diven sollt ihr sein"
-    },
-    {
-      "title": "Europa League : Eintracht Frankfurt nach Sieg in Sevilla auf Viertelfinalkurs",
-      "teaser": "Das Team von Trainer Oliver Glasner ist in der Europa League weiter ungeschlagen. Der Sieg in Sevilla hätte aber noch höher ausfallen können.",
-      "url": "https://www.zeit.de/sport/2022-03/fussball-europa-league-betis-sevilla-eintracht-frankfurt",
-      "image_url": "https://img.zeit.de/sport/2022-03/fussball-europa-league-achtelfinale-hinspiele-betis-sevilla-eintracht-frankfurt/wide__822x462",
-      "image_title": "Europa League : Eintracht Frankfurt nach Sieg in Sevilla auf Viertelfinalkurs"
     },
     {
       "title": "Schalke 04: Die Gazprom-Lücke",
@@ -96,6 +96,13 @@
       "image_title": "Felix Zwayer: \"Mit dem kann man arbeiten\""
     },
     {
+      "title": "Europa League : Eintracht Frankfurt nach Sieg in Sevilla auf Viertelfinalkurs",
+      "teaser": "Das Team von Trainer Oliver Glasner ist in der Europa League weiter ungeschlagen. Der Sieg in Sevilla hätte aber noch höher ausfallen können.",
+      "url": "https://www.zeit.de/sport/2022-03/fussball-europa-league-betis-sevilla-eintracht-frankfurt",
+      "image_url": "https://img.zeit.de/sport/2022-03/fussball-europa-league-achtelfinale-hinspiele-betis-sevilla-eintracht-frankfurt/wide__822x462",
+      "image_title": "Europa League : Eintracht Frankfurt nach Sieg in Sevilla auf Viertelfinalkurs"
+    },
+    {
       "title": "Champions League: Die Bayern, wie man sie kennt",
       "teaser": "Die Bayern suchen auch international ebenbürtige Gegner. Doch beim 7:1-Sieg im Achtelfinalrückspiel gegen Salzburg offenbaren sie auch eine typische Schwäche.",
       "url": "https://www.zeit.de/sport/2022-03/fc-bayern-fc-salzburg-champions-league",
@@ -110,13 +117,6 @@
       "image_title": "Champions League: FC Bayern München erreicht Viertelfinale"
     },
     {
-      "title": "Thomas Konietzko: \"Der Sport muss Haltung zeigen\"",
-      "teaser": "Ist es richtig, jetzt russische Sportler auszuschließen? Ja, sagt Thomas Konietzko, der Präsident des Kanuweltverbandes – auch wenn es rechtlich schwierig sei.",
-      "url": "https://www.zeit.de/sport/2022-03/thomas-konietzko-russland-belarus-sportler-ausschluss-interview",
-      "image_url": "https://img.zeit.de/sport/2022-03/thomas-konietzko-russland-belarus-sportler-ausschluss/wide__822x462",
-      "image_title": "Thomas Konietzko: \"Der Sport muss Haltung zeigen\""
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -124,11 +124,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Bakery Jatta: Hamburger Gericht lehnt Verfahren gegen HSV-Profi Jatta ab",
-      "teaser": "Dem Fußballspieler Bakery Jatta wurde vorgeworfen, für sein Asylverfahren seine Identität gefälscht zu haben. Doch das Verfahren gegen ihn wurde nun abgelehnt.",
-      "url": "https://www.zeit.de/sport/2022-03/bakery-jatta-hsv-amtsgericht-hamburg-verfahren",
-      "image_url": "https://img.zeit.de/sport/2022-03/bakery-jatta-hsv-amtsgericht-hamburg-verfahren-bild/wide__822x462",
-      "image_title": "Bakery Jatta: Hamburger Gericht lehnt Verfahren gegen HSV-Profi Jatta ab"
+      "title": "Thomas Konietzko: \"Der Sport muss Haltung zeigen\"",
+      "teaser": "Ist es richtig, jetzt russische Sportler auszuschließen? Ja, sagt Thomas Konietzko, der Präsident des Kanuweltverbandes – auch wenn es rechtlich schwierig sei.",
+      "url": "https://www.zeit.de/sport/2022-03/thomas-konietzko-russland-belarus-sportler-ausschluss-interview",
+      "image_url": "https://img.zeit.de/sport/2022-03/thomas-konietzko-russland-belarus-sportler-ausschluss/wide__822x462",
+      "image_title": "Thomas Konietzko: \"Der Sport muss Haltung zeigen\""
     },
     {
       "title": "Krieg gegen die Ukraine: Appeasement ist vorbei",
@@ -145,6 +145,13 @@
       "image_title": "Sponsoring aus Russland: Das Gazprom-Netz"
     },
     {
+      "title": "Bakery Jatta: Hamburger Gericht lehnt Verfahren gegen HSV-Profi Jatta ab",
+      "teaser": "Dem Fußballspieler Bakery Jatta wurde vorgeworfen, für sein Asylverfahren seine Identität gefälscht zu haben. Doch das Verfahren gegen ihn wurde nun abgelehnt.",
+      "url": "https://www.zeit.de/sport/2022-03/bakery-jatta-hsv-amtsgericht-hamburg-verfahren",
+      "image_url": "https://img.zeit.de/sport/2022-03/bakery-jatta-hsv-amtsgericht-hamburg-verfahren-bild/wide__822x462",
+      "image_title": "Bakery Jatta: Hamburger Gericht lehnt Verfahren gegen HSV-Profi Jatta ab"
+    },
+    {
       "title": "Mexiko: Barbaren im Stadion",
       "teaser": "In der mexikanischen Stadt Querétaro endete ein Fußballspiel im Gewaltrausch. Es soll Tote gegeben haben. Warum gehen Menschen in einem Stadion aufeinander los?",
       "url": "https://www.zeit.de/sport/2022-03/mexiko-fussball-queretaro-stadion-gewalt",
@@ -157,13 +164,6 @@
       "url": "https://www.zeit.de/sport/2022-03/dfb-wahl-ex-praesidenten-rainer-koch-neuanfang",
       "image_url": "https://img.zeit.de/sport/2022-03/dfb-wahl-ex-praesidenten-rainer-koch/wide__822x462",
       "image_title": "DFB: Streit vor der Wahl zum DFB-Präsidenten"
-    },
-    {
-      "title": "Paralympics: Anna-Lena Forster gewinnt erstes deutsches Paralympics-Gold im Monoski",
-      "teaser": "Trotz sechs Sekunden Rückstand gewann die 26-Jährige ihre dritte Goldmedaille. Beim Slalom am Sonntag gilt sie ebenfalls als Favoritin.",
-      "url": "https://www.zeit.de/sport/2022-03/paralympics-anna-lena-forster-gold",
-      "image_url": "https://img.zeit.de/sport/2022-03/paralympics-anna-lena-forster-gold-bild/wide__822x462",
-      "image_title": "Paralympics: Anna-Lena Forster gewinnt erstes deutsches Paralympics-Gold im Monoski"
     },
     {
       "title": "Bundesliga-Rückschau: Einer der schlimmsten Tage in der Fußballgeschichte",
