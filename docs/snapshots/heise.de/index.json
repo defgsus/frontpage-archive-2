@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-11T16:29:54",
+  "timestamp": "2022-03-11T17:20:06",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,9 +32,19 @@
   ],
   "articles": [
     {
+      "title": "Netzwerk Telekom: Fritzboxen benötigen FritzOS-Update zum Telefonieren",
+      "teaser": "Wer einen Fritzbox-Router an einem Telekom-Internetanschluss betreibt, braucht ab Mitte März zwingend eine aktuelle Firmware-Version zum Telefonieren.",
+      "url": "https://www.heise.de/news/Telekom-Fritzboxen-benoetigen-FritzOS-Update-zum-Telefonieren-6547080.html"
+    },
+    {
       "title": "Web-Verschlüsselung Russland stellt nun eigene TLS-Zertifikate aus",
       "teaser": "Damit Websites trotz der teils drastischen Sanktionen in Russland erreichbar bleiben, bietet eine staatliche Institution ab sofort TLS-Zertifikate an.",
       "url": "https://www.heise.de/news/Web-Verschluessleung-Russland-stellt-nun-eigene-TLS-Zertifikate-aus-6546463.html"
+    },
+    {
+      "title": "Corona-Pandemie Long Covid: Das dicke Ende kommt noch",
+      "teaser": "Die Aussicht auf Lockerungen verstellt den Blick, doch die Bundespressekonferenz vom 11. März 2022 betont die Gefahr und die Auswirkungen von Long Covid.",
+      "url": "https://www.heise.de/hintergrund/Long-Covid-Das-dicke-Ende-kommt-noch-6006735.html"
     },
     {
       "title": "Android Fliegeralarm in der Ukraine auf Betriebssystemebene",
@@ -42,19 +52,9 @@
       "url": "https://www.heise.de/news/Android-Google-sendet-Warnungen-vor-Luftangriffen-in-der-Ukraine-6546295.html"
     },
     {
-      "title": "Bitte nicht durchdrehen Mittel gegen das Doomscrolling in Zeiten schlechter Nachrichten",
+      "title": "Bitte nicht durchdrehen Mittel gegen Doomscrolling in Zeiten schlechter Nachrichten",
       "teaser": "Cat Content, Rausgehen und App-Timer: Die TR-Redaktion hat zusammengetragen, wie sie sich eine regelmäßige Pause vom Doomscrolling verschafft.",
       "url": "https://www.heise.de/meinung/Bitte-nicht-durchdrehen-Mittel-gegen-das-Doomscrolling-6545326.html"
-    },
-    {
-      "title": "M1 Ultra Apples Top-Prozessor im ersten Benchmark",
-      "teaser": "Ein erstes Performance-Ergebnis des 20-Kerners M1 Ultra lässt sich in der Geekbench-Datenbank finden. Er nähert sich dem Ergebnis von AMDs Ryzen Threadripper an.",
-      "url": "https://www.heise.de/news/M1-Ultra-Apples-Prozessor-Topmodell-im-ersten-Benchmark-6545730.html"
-    },
-    {
-      "title": "Porno-Portal xHamster Telefónica plant Rechtsmittel gegen Sperrverfügung",
-      "teaser": "Die meisten von den Medienanstalten angeschriebenen Provider haben die geforderte Sperre für xHamster umgesetzt. Telefonica will es nicht dabei belassen.",
-      "url": "https://www.heise.de/news/Porno-Portal-xHamster-Telefonica-plant-Rechtsmittel-gegen-Sperrverfuegung-6545718.html"
     },
     {
       "title": "Metamaterialien Neue Stoffe stellen die Physik auf den Kopf",
@@ -79,19 +79,24 @@
       "image_title": ","
     },
     {
-      "title": "Astronomie Drei protoplanetare Scheiben in Doppelsternsystem analysiert",
-      "teaser": "Die Entstehung von Exoplaneten in Mehrfachsternsystemen ist noch nicht sehr gut erforscht. Die Vermessung eines jungen Doppelsternsystems könnte jetzt helfen.",
-      "url": "https://www.heise.de/news/Astronomie-Drei-protoplanetare-Scheiben-in-Dopppelsternsystem-analysiert-6546475.html"
+      "title": "Open Source 20 Jahre Arch Linux: Profi-System mit Bastlerruf",
+      "teaser": "Vor 20 Jahren erschien die erste Arch-Version. Die Distribution gilt heute als robustes System für Profis, doch sehen sich die Anwender auch Spott ausgesetzt.",
+      "url": "https://www.heise.de/news/20-Jahre-Arch-Linux-Profi-System-mit-Bastlerruf-6546931.html",
+      "image_title": "Torte mit brennenden HAPPY-Kerzen"
     },
     {
-      "title": "Ukraine-Krieg Facebook und Instagram tolerieren Gewaltaufrufe gegen russisches Militär",
-      "teaser": "Eigentlich ist es in den Angeboten von Meta untersagt, bestimmte Personengruppen zu bedrohen. Diese Regeln lockert der Konzern nun teilweise.",
-      "url": "https://www.heise.de/news/Facebook-und-Instagram-tolerieren-Gewaltaufrufe-gegen-russisches-Militaer-6546206.html",
-      "image_title": "Flag,Of,Russia,And,Ukraine,Painted,On,A,Concrete,Wall"
+      "title": "M1 Ultra Apples Top-Prozessor im ersten Benchmark",
+      "teaser": "Ein erstes Performance-Ergebnis des 20-Kerners M1 Ultra lässt sich in der Geekbench-Datenbank finden. Er nähert sich dem Ergebnis von AMDs Ryzen Threadripper an.",
+      "url": "https://www.heise.de/news/M1-Ultra-Apples-Prozessor-Topmodell-im-ersten-Benchmark-6545730.html"
     },
     {
-      "title": "Make MicroPython Special",
-      "url": "https://shop.heise.de/bundle-make-micropython-special-2021?wt_mc=intern.shop.shop.ma_micropython.ho_widget.display.display"
+      "title": "Über 30% Rabatt - Nur für kurze Zeit",
+      "url": "https://shop.heise.de/mc-31495-mc000008?LPID=31495_MC000008_20057_3_57&wt_mc=intern.abo.mac-and-i.mc_0122.ho.oa.oa"
+    },
+    {
+      "title": "Kurz informiert: TSL-Zertifikate, 6G, Europol, Pinterest",
+      "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
+      "url": "https://www.heise.de/news/Kurz-informiert-TSL-Zertifikate-6G-Europol-Pinterest-6546320.html"
     },
     {
       "title": "c't 3003: Windows 11 auf Android-Smartphones zum Laufen bringen",
@@ -132,11 +137,6 @@
       "image_title": "Cross-Plattform: Uno Platform 4.1 stellt sich auf Android 12 ein"
     },
     {
-      "title": "Russische Justiz will Facebook-Konzern Meta verbieten",
-      "teaser": "Russland will Meta als extremistische Organisation verbieten lassen – dem vorangegangen war das Zulassen von Äußerungen wie \"Tod den russischen Eindringlingen\".",
-      "url": "https://www.heise.de/news/Russische-Justiz-will-Facebook-Konzern-Meta-verbieten-6547015.html"
-    },
-    {
       "title": "Hacken am Beispiel lernen: Programme geschickt austricksen",
       "url": "https://www.heise.de/ratgeber/Hacken-am-Beispiel-lernen-Programme-geschickt-austricksen-6531011.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
     },
@@ -152,6 +152,11 @@
       "title": "heise+ feiert 3. Geburtstag",
       "teaser": "heise+ wird 3 Jahre! Wir freuen uns sehr darüber und möchten Ihnen ein exklusives Geburtstags-Angebot unterbreiten. Das Angebot gilt nur für kurze Zeit! Lesen Sie die nächsten drei Monate heise+ für nur 6 € mtl. und sparen Sie über 50% gegenüber dem regulären Preis von 12,95 €!",
       "url": "https://shop.heise.de/heise+/geburtstag?affiliateId=31655_HP000048_20184_3_0&wt_mc=intern.abo.plus.hp_3geburtstag_2s.ho-advt.ad.v1"
+    },
+    {
+      "title": "Russische Justiz will Facebook-Konzern Meta verbieten",
+      "teaser": "Russland will Meta als extremistische Organisation verbieten lassen – dem vorangegangen war das Zulassen von Äußerungen wie \"Tod den russischen Eindringlingen\".",
+      "url": "https://www.heise.de/news/Russische-Justiz-will-Facebook-Konzern-Meta-verbieten-6547015.html"
     },
     {
       "title": "Edelnotebook im Test: Surface Laptop Studio mit 120-Hertz-Panel und Windows 11",
@@ -207,12 +212,6 @@
       "url": "https://www.heise.de/news/JavaLand-heise-online-streamt-von-der-Java-Entwicklerkonferenz-6546223.html"
     },
     {
-      "title": "Apple-Technik erklärt: Wie ein Prozessor funktioniert",
-      "teaser": "Bei einer CPU handelt es sich um die zentrale Recheninstanz, sei es in Mac, iPhone, Fernseher oder smartem Kühlschrank. Wir erklären, was genau sie leistet.",
-      "url": "https://www.heise.de/hintergrund/Apple-Technik-erklaert-Wie-ein-Prozessor-funktioniert-6545539.html",
-      "image_title": "Chips"
-    },
-    {
       "title": "Digitalisierung: Wie Deutschland den Aufbruch schaffen könnte",
       "teaser": "Die Digitalisierung des Landes ist dringend notwendig – und schleppt sich doch nur so dahin. Dabei gibt es Elan und Ideen. Doch reicht das?",
       "url": "https://www.heise.de/hintergrund/Mehr-Digitalisierung-wagen-6337807.html",
@@ -228,6 +227,12 @@
       "title": "Digitalisierung in der Schule: Warum iPads allein nicht reichen",
       "teaser": "In der Pandemie wurde an Schulen digital aufgerüstet, auch ist viel Geld in verschiedene Schulclouds geflossen. Doch Experten mahnen: Die Strategie fehlt.",
       "url": "https://www.heise.de/hintergrund/iPads-allein-reichen-nicht-6337815.html"
+    },
+    {
+      "title": "Apple-Technik erklärt: Wie ein Prozessor funktioniert",
+      "teaser": "Bei einer CPU handelt es sich um die zentrale Recheninstanz, sei es in Mac, iPhone, Fernseher oder smartem Kühlschrank. Wir erklären, was genau sie leistet.",
+      "url": "https://www.heise.de/hintergrund/Apple-Technik-erklaert-Wie-ein-Prozessor-funktioniert-6545539.html",
+      "image_title": "Chips"
     },
     {
       "title": "iPhone SE 3 und iPad Air 5 bestellbereit",
@@ -268,11 +273,6 @@
       "teaser": "Samsung beerdigt seine beliebten Note-Smartphones. Als Trostpflaster gibt es das Galaxy S22 Ultra mit Stift, dazu feinste Technik und längere Updateversorgung.",
       "url": "https://www.heise.de/tests/Samsung-Galaxy-S22-und-S22-Ultra-High-End-Androiden-im-Test-6542074.html",
       "image_title": ","
-    },
-    {
-      "title": "Oculus Quest 2 speist Bewegungsdaten in Apple Health",
-      "teaser": "Meta erlaubt es sportlichen VR-Nutzern künftig, ihre Fitness-Werte an das iPhone zu übertragen, bittet allerdings noch um etwas Geduld.",
-      "url": "https://www.heise.de/news/Oculus-Quest-2-speist-Bewegungsdaten-in-Apple-Health-6545428.html"
     },
     {
       "title": "Achtung, Handy hört mit: Smartphone-Apps als Wanze",
@@ -579,6 +579,10 @@
       "image_title": "Missing Link: KI - die Künstlichen Idioten des digitalen Kapitalismus"
     },
     {
+      "title": "Kurz informiert: TSL-Zertifikate, 6G, Europol, Pinterest",
+      "url": "https://www.heise.de/news/Kurz-informiert-TSL-Zertifikate-6G-Europol-Pinterest-6546320.html"
+    },
+    {
       "title": "Kurz informiert: Desinformation, Ukraine-Krieg, Russland-Sanktionen, Gamescom",
       "url": "https://www.heise.de/news/Kurz-informiert-Desinformation-Ukraine-Krieg-Russland-Sanktionen-Gamescom-6545394.html"
     },
@@ -589,10 +593,6 @@
     {
       "title": "Kurz informiert: Palantir, Ukraine-Krieg, Hackerparagraf, Astronomie",
       "url": "https://www.heise.de/news/Kurz-informiert-Palantir-Ukraine-Krieg-Hackerparagraf-Astronomie-6542082.html"
-    },
-    {
-      "title": "Kurz informiert: Klimaschutz, UA Talents, Netflix, Mond-Mission",
-      "url": "https://www.heise.de/news/Kurz-informiert-Klimaschutz-UA-Talents-Netflix-Mond-Mission-6540965.html"
     },
     {
       "title": "Podcast Die Hupe: Das Fahrrad in den Niederlanden",
