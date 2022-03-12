@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-12T16:27:24",
+  "timestamp": "2022-03-12T17:18:08",
   "url": "https://www.welt.de",
   "response": {
     "status": 200
@@ -14,6 +14,21 @@
   ],
   "articles": [
     {
+      "title": "Ausland",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile237500619/5442508207-ci102l-w1024/Aussenministerin-Annalena-Baerbock-besucht-Moldau.jpg",
+      "image_title": "Außenministerin Annalena Baerbock besucht Moldau",
+      "topic": "Außenministerin Baerbock"
+    },
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile237500841/0602501637-ci102l-w1024/Bundesverkehrsminister-Volker-Wissing-in-7.jpg",
+      "image_title": "In der Bahnhofshalle von Przemyśl Główny: Verkehrsminister Volker Wissing",
+      "topic": "Verkehrsminister Wissing",
+      "author": "Philipp Vetter"
+    },
+    {
       "title": "Jetzt droht die Düngemittel-Knappheit – mit fatalen Folgen",
       "url": "https://www.welt.de/wirtschaft/plus237475593/Nahrungsmittelversorgung-Der-Welt-droht-ein-Duengemittel-Problem.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile237499773/1232507537-ci102l-w1024/Harvesting-alfalfa-crop-aerial-view-2.jpg",
@@ -25,6 +40,14 @@
       "title": "WELT-Sondersendung – Biden warnt vor Weltkrieg – Moskau droht mit Angriff auf Waffenlieferungen",
       "url": "https://www.welt.de/politik/ausland/video237485355/WELT-Livestream-Krieg-in-der-Ukraine-Nachrichten-Analysen-Interviews.html",
       "topic": "Krieg in der Ukraine"
+    },
+    {
+      "title": "Sonderzüge bringen ukrainische Flüchtlinge aus Polen nach Deutschland",
+      "url": "https://www.welt.de/politik/ausland/article237490255/Ukraine-News-im-Liveticker-Sonderzuege-bringen-ukrainische-Fluechtlinge-aus-Polen-nach-Deutschland.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile237501499/1962505737-ci102l-w1024/Ukraine-Konflikt-Deutschland.jpg",
+      "image_title": "Ukraine-Konflikt - Deutschland",
+      "topic": "Ukraine-Krieg",
+      "author": "Lara Jäkel"
     },
     {
       "title": "Hier zieht die Nato die rote Linie für Putin",
@@ -42,35 +65,12 @@
       "topic": "Krieg in der Ukraine"
     },
     {
-      "title": "Fällt Odessa, hat Putin die Ukraine in der Hand",
-      "url": "https://www.welt.de/politik/ausland/plus237484087/Krieg-Faellt-Odessa-hat-Putin-die-Ukraine-in-der-Hand.html",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile237485077/3512502057-ci102l-w1024/Opera-and-port-in-Odessa-6.jpg",
-      "image_title": "Die Altstadt von Odessa bereitet sich auf den Angriff vor",
-      "topic": "Russische Invasion",
-      "author": "Alfred Hackensberger"
-    },
-    {
-      "title": "Deutschland nimmt 2500 Ukraine-Flüchtlinge aus Moldau auf – Sonderzüge aus Polen und Tschechien",
-      "url": "https://www.welt.de/politik/ausland/article237490255/Ukraine-News-im-Liveticker-Deutschland-nimmt-2500-Ukraine-Fluechtlinge-aus-Moldau-auf.html",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile237498589/9342501817-ci102l-w1024/Aussenministerin-Annalena-Baerbock-besucht-Moldau.jpg",
-      "image_title": "Außenministerin Annalena Baerbock besucht Moldau",
-      "topic": "Ukraine-Krieg",
-      "author": "Lara Jäkel"
-    },
-    {
       "title": "„Dieser Krieg ist nur durch einen Kompromiss zu beenden“",
       "url": "https://www.welt.de/regionales/hamburg/plus237465781/Stefan-Aust-zur-Lage-Dieser-Krieg-ist-nur-durch-einen-Kompromiss-zu-beenden.html",
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile237467399/5172502737-ci102l-w1024/WELT-Autorenfoto-fuer-Kolumnen-Kombo.jpg",
       "image_title": "WELT AM SONNTAG-Herausgeber Stefan Aust",
       "topic": "Stefan Aust zur Lage",
       "author": "Jörn Lauterbach"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile237287251/7812503387-ci102l-w1024/Ukraine-Konflikt-Habeck-zu-Russlandsanktionen.jpg",
-      "image_title": "Habeck zu Russlandsanktionen",
-      "topic": "Robert Habeck"
     },
     {
       "title": "„Wer das nicht versteht, der hat seinen Kopf nicht auf dem Hals“",
@@ -88,18 +88,11 @@
       "author": "4 Min"
     },
     {
-      "title": "Der Blick hinter Putins Propaganda",
+      "title": "Viele unabhängige Journalisten haben Russland verlassen. Er ist noch da",
       "url": "https://www.welt.de/politik/ausland/plus237494111/Blackbox-Russland-Der-Blick-hinter-Putins-Propaganda.html",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile237494107/8862502377-ci102l-w1024/Moskau-und-Russlandkorrespondet-CHRISTO.jpg",
       "image_title": "Seit 1994 in Russland: Christoph Wanner von WELT-Fernsehen",
       "topic": "Blackbox Russland"
-    },
-    {
-      "title": "Ausland",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile237491631/7772505817-ci102l-w1024/TOPSHOT-UKRAINE-RUSSIA-CONFLICT.jpg",
-      "image_title": "TOPSHOT - An Ukrainian serviceman l",
-      "topic": "Ukraine-Krieg"
     },
     {
       "title": "„Wenn Russland uns okkupieren möchte, muss es uns erst umbringen“",
@@ -108,6 +101,13 @@
       "image_title": "„Die Saat heftigen Hasses“: Die ukrainische Dokumentarfilmerin Olha Zhurba",
       "topic": "Filmemacherin in Kiew",
       "author": "Hanns-Georg Rodek"
+    },
+    {
+      "title": "Ausland",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile237491631/7772505817-ci102l-w1024/TOPSHOT-UKRAINE-RUSSIA-CONFLICT.jpg",
+      "image_title": "TOPSHOT - An Ukrainian serviceman l",
+      "topic": "Ukraine-Krieg"
     },
     {
       "title": "Fahrgemeinschaften und Tempolimit? Putin wird zittern – vor Lachen",
@@ -141,6 +141,27 @@
       "author": "Tobias Unruh"
     },
     {
+      "title": "Kalajdzic führt Stuttgart zum nächsten späten Comeback – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video237425107/1-FC-Union-Berlin-VfB-Stuttgart-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile237500855/8152500867-ci102l-w1024/1-FC-Union-Berlin-VfB-Stuttgart.jpg",
+      "image_title": "1. FC Union Berlin - VfB Stuttgart",
+      "topic": "Remis bei Union"
+    },
+    {
+      "title": "2:0 verspielt, dann schießt Freiburg das zweite Traumtor – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video237426229/SC-Freiburg-VfL-Wolfsburg-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile237499769/2472504227-ci102l-w1024/Sport-Club-Freiburg-v-VfL-Wolfsburg-Bundesliga.jpg",
+      "image_title": "Sport-Club Freiburg v VfL Wolfsburg - Bundesliga",
+      "topic": "Später Jubel gegen Wolfsburg"
+    },
+    {
+      "title": "Paderborns Last-Minute-Tor verhindert Düsseldorfs Überraschungssieg – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video237423003/SC-Paderborn-07-Fortuna-Duesseldorf-Highlights-Die-Zusammenfassung-im-Video-2-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile237498183/2152502007-ci102l-w1024/SC-Paderborn-07-Fortuna-Duesseldorf.jpg",
+      "image_title": "SC Paderborn 07 - Fortuna Düsseldorf",
+      "topic": "Dramatische Nachspielzeit"
+    },
+    {
       "title": "St. Pauli verzweifelt in Dresden viermal am Aluminium – Die Highlights im Video",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video237423007/Dynamo-Dresden-FC-St-Pauli-Highlights-Die-Zusammenfassung-im-Video-2-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile237497241/5112503127-ci102l-w1024/SG-Dynamo-Dresden-FC-St-Pauli.jpg",
@@ -160,27 +181,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile237489293/7352508427-ci102l-w1024/Darmstadt-98-SV-Sandhausen.jpg",
       "image_title": "Darmstadt 98 - SV Sandhausen",
       "topic": "Kutucu zum Ausgleich"
-    },
-    {
-      "title": "Müllers Eigentor-Premiere kostet FC Bayern den Sieg – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/video237298721/FC-Bayern-Muenchen-Bayer-04-Leverkusen-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile237340645/4562503747-ci102l-w1024/Bayern-Muenchen-Bayer-Leverkusen.jpg",
-      "image_title": "Bayern München - Bayer Leverkusen",
-      "topic": "Spitzenspiel gegen Leverkusen"
-    },
-    {
-      "title": "Kalajdzic krönt Stuttgarts furiose Aufholjagd gegen Gladbach – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/video237298935/VfB-Stuttgart-Borussia-Moenchengladbach-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile237342109/1432504487-ci102l-w1024/VfB-Stuttgart-Borussia-Moenchengladbach.jpg",
-      "image_title": "VfB Stuttgart - Borussia Mönchengladbach",
-      "topic": "Sieg nach 0:2-Rückstand"
-    },
-    {
-      "title": "Frankfurt verpasst desolater Hertha die nächste Abreibung – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/video237298857/Hertha-BSC-Eintracht-Frankfurt-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile237340613/1682508527-ci102l-w1024/Hertha-BSC-Eintracht-Frankfurt.jpg",
-      "image_title": "Hertha BSC - Eintracht Frankfurt",
-      "topic": "Eintracht siegt mühelos"
     },
     {
       "title": "Die Videos und Berichte zur 1. und 2. Liga",
@@ -241,19 +241,19 @@
       "topic": "Wegen Terrorismusvorwürfen"
     },
     {
-      "title": "Panorama",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "„Ein Schauspieler kann nicht entscheiden, dass eine Waffe sicher ist“ -–so lässt sich Alec Baldwin nun verteidigen",
-      "topic": "Anwaltsbrief in US-Medien"
-    },
-    {
       "title": "Geschichte",
       "url": "https://www.welt.de/geschichte/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "(FILES) Undated file picture of the 'Kursk' submarine in her mooring in the base of Vidyayevo. Norway«s Institute for Radiation Protection on Monday 09 July urged Russia to postpone plans to raise the sunken Kursk nuclear submarine from the bottom of the Barents Sea pending a study of the risks of radioactive leak, Norwegian news agency NTB reported. Divers were on Monday 09 July to begin a thorough inspection of the wreckage to determine how best to proceed with the 80-million-dollar salvage operation. dpa +++ dpa-Bildfunk +++",
       "topic": "U-Boot-Katastrophe 2000",
       "author": "Sven Felix Kellerhoff"
+    },
+    {
+      "title": "Bundesliga",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Hoffenheim's German head coach Sebastian Hoeness reacts during the German first division Bundesliga football match between TSG 1899 Hoffenheim and FC Bayern Munich in Sinsheim, southwestern Germany on March 12, 2022. (Photo by Daniel ROLAND / AFP) / DFL REGULATIONS PROHIBIT ANY USE OF PHOTOGRAPHS AS IMAGE SEQUENCES AND/OR QUASI-VIDEO",
+      "topic": "Remis im Heimspiel"
     },
     {
       "title": "Niemand ist auf der Welt, um uns glücklich zu machen",
@@ -321,6 +321,13 @@
       "topic": "Krieg in der Ukraine"
     },
     {
+      "title": "EU beschließt erhebliche Erhöhung der Verteidigungsausgaben",
+      "url": "https://www.welt.de/videos/video237499045/Ukraine-Krieg-EU-beschliesst-erhebliche-Erhoehung-der-Verteidigungsausgaben.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "FILE PHOTO: Informal summit of EU leaders in Versailles",
+      "topic": "Ukraine-Krieg"
+    },
+    {
       "title": "„In Russland sind definitiv mehr Neonazis und Rechtsextreme als in der Ukraine“",
       "url": "https://www.welt.de/politik/video237492337/Ukraine-Krieg-Alexander-Ritzmann-zu-rechtsextremen-Freiwilligen-in-der-Armee.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -341,20 +348,14 @@
       "topic": "Jacques Schuster"
     },
     {
-      "title": "„Das finde ich ziemlich armselig“",
-      "url": "https://www.welt.de/politik/ausland/video237489469/Krieg-in-der-Ukraine-Christoph-Schiltz-ist-enttaeuscht-vom-EU-Gipfel.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "EU-Gipfel in Versailles"
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Robert Habeck"
     },
     {
       "title": "Wirtschaft",
       "url": "https://www.welt.de/wirtschaft/",
       "topic": "Folge des Kriegs"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Müntefering und Weil"
     },
     {
       "title": "Wirtschaft",
@@ -661,6 +662,14 @@
       "author": "Christoph B. Schiltz"
     },
     {
+      "title": "Fällt Odessa, hat Putin die Ukraine in der Hand",
+      "url": "https://www.welt.de/politik/ausland/plus237484087/Krieg-Faellt-Odessa-hat-Putin-die-Ukraine-in-der-Hand.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Die Altstadt von Odessa bereitet sich auf den Angriff vor",
+      "topic": "Russische Invasion",
+      "author": "Alfred Hackensberger"
+    },
+    {
       "title": "Die Zeit arbeitet gegen Putin - Gibt es noch einen Ausweg?",
       "url": "https://www.welt.de/politik/ausland/plus237480025/Ukraine-Krieg-Die-Zeit-arbeitet-gegen-Putin-Gibt-es-noch-einen-Ausweg.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -682,14 +691,6 @@
       "image_title": "Die Staats- und Regierungschefs der Europäischen Union beim EU-Gipfel in Versailles",
       "topic": "Gipfel in Versailles",
       "author": "Martina Meister"
-    },
-    {
-      "title": "„40 Millionen Ukrainer stehen auf Putins Todesliste“",
-      "url": "https://www.welt.de/politik/ausland/plus237477419/Wolodymyr-Grojsman-40-Millionen-Ukrainer-stehen-auf-Putins-Todesliste.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Wolodymyr Grojsman, bis 2019 Premierminister und bis heute einer der bekanntesten Politiker in der Ukraine",
-      "topic": "Ex-Premierminister",
-      "author": "Philipp Fritz"
     },
     {
       "title": "„Hansi Flick kennt meine Qualitäten“",
