@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-14T08:24:21",
+  "timestamp": "2022-03-14T09:19:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.75b03994ba8d68d30be2",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.7f2cea951798dda5695f",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "McAfee Total Protection",
+      "url": "https://www.heise.de/news/McAfee-Total-Protection-Angreifer-koennten-Daten-loeschen-6548499.html"
+    },
     {
       "title": "Thunderbird & Tor-Browser",
       "url": "https://www.heise.de/news/Thunderbird-und-Tor-Browser-dichten-Sicherheitslecks-ab-6544895.html"
@@ -44,14 +48,19 @@
       "url": "https://www.heise.de/news/Alte-Luecke-in-Pulse-Connect-Secure-VPN-wird-angegriffen-6544328.html"
     },
     {
-      "title": "Patchday: Android",
-      "url": "https://www.heise.de/news/Patchday-Kritische-Schwachstellen-in-Android-ausgebessert-6543727.html"
+      "title": "McAfee Total Protection: Angreifer könnten Daten löschen",
+      "teaser": "Ein wichtiges Sicherheitsupdate schließt eine Schwachstelle in der Anti-Viren-Software von McAfee.",
+      "url": "https://www.heise.de/news/McAfee-Total-Protection-Angreifer-koennten-Daten-loeschen-6548499.html"
     },
     {
-      "title": "Experte: Deutschland schlechter gegen Cyberkrieg gerüstet als Ukraine",
-      "teaser": "Russlands Angriff auf die Ukraine schloss Cyberattacken ein – größere Schäden gibt es bislang nicht. Deutsche Unternehmen seien dagegen schlecht vorbereitet.",
-      "url": "https://www.heise.de/news/Experte-Deutschland-schlechter-gegen-Cyberkrieg-geruestet-als-Ukraine-6547383.html",
-      "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
+      "title": "Web-Verschlüsselung: Russland stellt nun eigene TLS-Zertifikate aus",
+      "teaser": "Damit Websites trotz Sanktionen in Russland erreichbar bleiben, bietet eine staatliche Institution ab sofort TLS-Zertifikate an.",
+      "url": "https://www.heise.de/news/Web-Verschluessleung-Russland-stellt-nun-eigene-TLS-Zertifikate-aus-6546463.html"
+    },
+    {
+      "title": "CPU-Sicherheitslücke: Spectre V2 ist auch bei Intel und ARM zurück",
+      "teaser": "Bisherige Schutzmechanismen von Intel-Prozessoren und ARM-Kernen gegen Seitenkanalangriffe vom Typ Spectre V2 reichen nicht aus.",
+      "url": "https://www.heise.de/news/Spectre-V2-ist-auch-bei-ARM-und-Intel-zurueck-Angriff-auf-Branch-History-Buffer-6545263.html"
     },
     {
       "title": "Thunderbird und Tor-Browser dichten Sicherheitslecks ab",
@@ -146,18 +155,6 @@
       "teaser": "Einbrecher haben bei Samsung Quellcode entwendet. Zudem patzte der Hersteller bei Kryptografie in der Trusted Execution Environment von Flaggschiff-Smartphones.",
       "url": "https://www.heise.de/news/Sicherheitsprobleme-bei-Samsung-Quellcode-geklaut-unsichere-Kryptografie-6540849.html",
       "image_title": "Aufmacher Sicherheitsprobleme bei Samsung"
-    },
-    {
-      "title": "Notfallupdate: Sicherheitslücken in Firefox und Thunderbird werden angegriffen",
-      "teaser": "Die Mozilla-Stiftung hat außer der Reihe Sicherheitsupdates für Firefox, Klar und Thunderbird herausgegeben, die bereits aktiv angegriffene Lücken schließen.",
-      "url": "https://www.heise.de/news/Notfallupdate-Sicherheitsluecken-in-Firefox-und-Thunderbird-werden-angegriffen-6540649.html",
-      "image_title": "Aufmacher Firefox&Thunderbird Notfallupdate"
-    },
-    {
-      "title": "Kommentar zum Ukraine-Krieg: Make Windelpakete, not Cyberwar",
-      "teaser": "Die Ukraine in Anonymous-Manier mit Hacker-Know-how verteidigen? Ganz schlechte Idee, findet der Sicherheitsforscher David Fuhr.",
-      "url": "https://www.heise.de/meinung/Kommentar-Make-Windelpakete-not-Cyberwar-6537361.html",
-      "image_title": "Flag,Of,Russia,And,Ukraine,Painted,On,A,Concrete,Wall"
     },
     {
       "title": "Stell dir vor, nebenan ist Krieg. Und das BSI? Beratschlagt!",
