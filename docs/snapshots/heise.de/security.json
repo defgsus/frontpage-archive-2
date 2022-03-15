@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-15T11:17:30",
+  "timestamp": "2022-03-15T12:34:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Spectrum Protect",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-IBM-Spectrum-Protect-Fremdzugriff-auf-Datenbanken-moeglich-6548621.html"
+    },
+    {
       "title": "Veeam Backup & Replication",
       "url": "https://www.heise.de/news/Luecken-in-Veeam-Backup-Replication-koennten-zur-Systemuebernahme-fuehren-6548526.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Thunderbird-und-Tor-Browser-dichten-Sicherheitslecks-ab-6544895.html"
     },
     {
-      "title": "Siemens Ruggedcom ROS",
-      "url": "https://www.heise.de/news/Siemens-Ruggedcom-Angreifer-koennten-sich-in-KRITIS-einklinken-6544464.html"
+      "title": "Sicherheitsupdate für IBM Spectrum Protect: Fremdzugriff auf Datenbanken möglich",
+      "teaser": "Es gibt Sicherheitsupdates für IBMs Backup-Lösung Spectrum Protect. Angreifer könnten unter anderem auf eigentlich verschlüsselte Informationen zugreifen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-IBM-Spectrum-Protect-Fremdzugriff-auf-Datenbanken-moeglich-6548621.html"
     },
     {
       "title": "DDoS-Attacke: Israelische Regierungswebseiten vorübergehend nicht erreichbar",
@@ -147,11 +152,6 @@
       "title": "Patchday Adobe: Kritische Lücken in Illustrator und Photoshop geschlossen",
       "teaser": "Angreifer könnten Computer mit Adobe Anwendungen attackieren. Sicherheitsupdates sind verfügbar.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-in-Illustrator-und-Photoshop-geschlossen-6543669.html"
-    },
-    {
-      "title": "Patchday: Angreifer könnten Windows via RDP attackieren",
-      "teaser": "Wichtige Sicherheitsupdates schließen zum Teil kritische Lücken in Exchange, Windows & Co. Einige Schwachstellen sind bereits öffentlich bekannt.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-Windows-via-RDP-attackieren-6543587.html"
     },
     {
       "title": "Stell dir vor, nebenan ist Krieg. Und das BSI? Beratschlagt!",
