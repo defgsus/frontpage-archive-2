@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-16T08:23:46",
+  "timestamp": "2022-03-16T09:19:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,20 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1075764be07b6904934d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2d4267f7674cdfa2e29c",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "OpenSSL",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Praeparierte-TLS-Zertifikate-koennen-OpenSSL-Systeme-gefaehrden-6550820.html"
+    },
+    {
+      "title": "Dell BIOS-Updates",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Schlupfloecher-in-Dell-BIOS-6550647.html"
+    },
     {
       "title": "IBM Spectrum Protect",
       "url": "https://www.heise.de/news/Sicherheitsupdates-IBM-Spectrum-Protect-Fremdzugriff-auf-Datenbanken-moeglich-6548621.html"
@@ -40,16 +48,18 @@
       "url": "https://www.heise.de/news/Luecken-in-Veeam-Backup-Replication-koennten-zur-Systemuebernahme-fuehren-6548526.html"
     },
     {
-      "title": "McAfee Total Protection",
-      "url": "https://www.heise.de/news/McAfee-Total-Protection-Angreifer-koennten-Daten-loeschen-6548499.html"
+      "title": "Sicherheitslücke: Präparierte TLS-Zertifikate können OpenSSL-Systeme gefährden",
+      "teaser": "Angreifer könnten Clients und Server mit präparierten TLS-Zertifikaten auf Basis von elliptischen Kurven lahmlegen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Praeparierte-TLS-Zertifikate-koennen-OpenSSL-Systeme-gefaehrden-6550820.html"
     },
     {
-      "title": "Thunderbird & Tor-Browser",
-      "url": "https://www.heise.de/news/Thunderbird-und-Tor-Browser-dichten-Sicherheitslecks-ab-6544895.html"
+      "title": "Sicherheitsupdates: Schadcode-Schlupflöcher in Dell-BIOS",
+      "teaser": "Angreifer könnten Dell-Computer attackieren und im schlimmsten Fall die volle Kontrolle über Geräte erlangen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Schlupfloecher-in-Dell-BIOS-6550647.html"
     },
     {
       "title": "iOS, macOS & mehr: Apple stopft viele Sicherheitslücken",
-      "teaser": "Apple beseitigt Schwachstellen in seinen Betriebssystemen sowie Xcode, GarageBand, Logic und iTunes. Für ältere macOS-Versionen fehlt ein wichtiges Update noch.",
+      "teaser": "Apple beseitigt teils schwere Schwachstellen auf iPhones, iPads und Macs – sowie in Xcode, GarageBand, Logic Pro und iTunes für Windows.",
       "url": "https://www.heise.de/news/iOS-macOS-mehr-Apple-stopft-viele-Sicherheitsluecken-6550427.html",
       "image_title": "MacBook und iPhone mit Apple-Logo"
     },
@@ -143,19 +153,8 @@
       "url": "https://www.heise.de/news/secIT-2022-IT-Attacken-abwehren-einschaetzen-richtig-reagieren-6543895.html"
     },
     {
-      "title": "CPU-Sicherheitslücke Spectre V2: Neuer Dreh betrifft AMDs Ryzen und Epyc",
-      "teaser": "Viele AMD-Prozessoren mit Zen-Architektur zeigen ein ungewolltes Verhalten bei verzweigten Instruktionen, was zu auslesbaren Bytes führt.",
-      "url": "https://www.heise.de/news/CPU-Sicherheitsluecke-Spectre-V2-Neuer-Dreh-betrifft-AMDs-Ryzen-und-Epyc-6544029.html",
-      "image_title": "AMD Ryzen übertakten"
-    },
-    {
-      "title": "Stell dir vor, nebenan ist Krieg. Und das BSI? Beratschlagt!",
-      "teaser": "Trotz Ukraine-Krieg bleibt das BSI stumm zum Einsatz russischer Software. Für Jürgen Schmidt, Senior Fellow Security bei Heise, ein grundsätzliches Problem.",
-      "url": "https://www.heise.de/meinung/Stell-dir-vor-nebenan-ist-Krieg-Und-das-BSI-Beratschlagt-6543775.html"
-    },
-    {
       "title": "secIT by Heise 2022",
-      "teaser": "Wie schützen Sie sich vor Hackerangriffen? Und was muss man eigentlich tun, wenn sich bereits Malware im Netzwerk befindet und sich von System zu System weiter hangelt? Diese und viele weitere Fragen klären die von c't, heise Security und iX ausgewählten Referenten auf der secIT by Heise 2022 am 30. und 31. März in Hannover..",
+      "teaser": "Wie schützen Sie sich vor Hackerangriffen? Und was muss man eigentlich tun, wenn sich bereits Malware im Netzwerk befindet und sich von System zu System weiter hangelt? Diese und viele weitere Fragen klären die von c't, heise Security und iX ausgewählten Referenten auf der secIT by Heise 2022 am 30. und 31. März in Hannover.",
       "url": "https://sec-it.heise.de/?wt_mc=intern.events.ho.konf_secit0322.hs_teaser.link.link"
     },
     {
