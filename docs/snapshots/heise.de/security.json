@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-16T11:16:48",
+  "timestamp": "2022-03-16T12:33:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2d4267f7674cdfa2e29c",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9c34094a0348c43b6263",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "pfSense-Firewall",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Schadcode-durch-pfSense-Firewall-schieben-6577971.html"
+    },
     {
       "title": "OpenSSL",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Praeparierte-TLS-Zertifikate-koennen-OpenSSL-Systeme-gefaehrden-6550820.html"
@@ -44,13 +48,19 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-IBM-Spectrum-Protect-Fremdzugriff-auf-Datenbanken-moeglich-6548621.html"
     },
     {
-      "title": "Veeam Backup & Replication",
-      "url": "https://www.heise.de/news/Luecken-in-Veeam-Backup-Replication-koennten-zur-Systemuebernahme-fuehren-6548526.html"
+      "title": "Sicherheitsupdates: Angreifer könnten Schadcode durch pfSense-Firewall schieben",
+      "teaser": "Mehrere Schwachstellen gefährden Systeme mit der Firewall-Distribution pfSense.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Schadcode-durch-pfSense-Firewall-schieben-6577971.html"
     },
     {
-      "title": "Russlands Krieg: Was droht uns im Cyberspace?",
-      "teaser": "Krieg rück näher und die Verwundbarkeit unserer IT-Infrastruktur ist offensichtlich. Drohen jetzt reale Katastrophen durch Cyber-Attacken?",
-      "url": "https://www.heise.de/hintergrund/Russlands-Krieg-Was-droht-uns-im-Cyberspace-6550355.html"
+      "title": "Kaspersky zur Warnung des BSI: \"Beruht nicht auf technischer Bewertung\"",
+      "teaser": "Der russische Hersteller von Sicherheits- und Antivirensoftware sieht in der Warnung des BSI vor seiner Software eine politische Entscheidung.",
+      "url": "https://www.heise.de/news/Kaspersky-zur-Warnung-des-BSI-Beruht-nicht-auf-technischer-Bewertung-6578687.html"
+    },
+    {
+      "title": "Sicherheitslücke: Präparierte TLS-Zertifikate können OpenSSL-Systeme gefährden",
+      "teaser": "Angreifer könnten Clients und Server mit präparierten TLS-Zertifikaten auf Basis von elliptischen Kurven lahmlegen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Praeparierte-TLS-Zertifikate-koennen-OpenSSL-Systeme-gefaehrden-6550820.html"
     },
     {
       "title": "Sicherheitsupdates: Schadcode-Schlupflöcher in Dell-BIOS",
@@ -142,24 +152,13 @@
       "url": "https://www.heise.de/news/Angriff-auf-Satellitennetzwerk-KA-Sat-Experten-suchen-nach-dem-Ursprung-6544706.html"
     },
     {
-      "title": "Siemens Ruggedcom: Angreifer könnten sich in KRITIS einklinken",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für Netzwerkgeräte von Siemens, die für raue Umgebungen gebaut sind.",
-      "url": "https://www.heise.de/news/Siemens-Ruggedcom-Angreifer-koennten-sich-in-KRITIS-einklinken-6544464.html"
-    },
-    {
-      "title": "Alte Lücke in Pulse Connect Secure-VPN wird angegriffen",
-      "teaser": "Schon Mitte 2020 hat Pulse Secure in seiner VPN-Lösung Aktualisierungen veröffentlicht, die Sicherheitslücken schließen. Die Lücken werden jetzt angegriffen.",
-      "url": "https://www.heise.de/news/Alte-Luecke-in-Pulse-Connect-Secure-VPN-wird-angegriffen-6544328.html",
-      "image_title": "Aufmacher Pulse Connect Secure VPN wird angegriffen"
-    },
-    {
       "title": "secIT by Heise 2022",
       "teaser": "Wie schützen Sie sich vor Hackerangriffen? Und was muss man eigentlich tun, wenn sich bereits Malware im Netzwerk befindet und sich von System zu System weiter hangelt? Diese und viele weitere Fragen klären die von c't, heise Security und iX ausgewählten Referenten auf der secIT by Heise 2022 am 30. und 31. März in Hannover.",
       "url": "https://sec-it.heise.de/?wt_mc=intern.events.ho.konf_secit0322.hs_teaser.link.link"
     },
     {
       "title": "Russlands Krieg: Was droht uns im Cyberspace?",
-      "teaser": "Krieg rück näher und die Verwundbarkeit unserer IT-Infrastruktur ist offensichtlich. Drohen jetzt reale Katastrophen durch Cyber-Attacken?",
+      "teaser": "Krieg rückt näher und die Verwundbarkeit unserer IT-Infrastruktur ist offensichtlich. Drohen jetzt reale Katastrophen durch Cyber-Attacken?",
       "url": "https://www.heise.de/hintergrund/Russlands-Krieg-Was-droht-uns-im-Cyberspace-6550355.html"
     },
     {
