@@ -1,217 +1,213 @@
 {
-  "timestamp": "2022-03-16T18:24:35",
+  "timestamp": "2022-03-16T19:15:44",
   "url": "https://www.gmx.net/magazine/",
   "response": {
-    "status": 503
+    "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://dl.gmx.net/tcf/live/v1/js/tcf-api.js",
+      "type": "module",
+      "src": "https://s.uicdn.com/uimag/5.812.0/assets/_sn_/lod/multisearch.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://img.ui-portal.de/pos-cdn/tracklib/4.5.0/tracklib.poly.min.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/js/piNctTracking.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/chunk-vendors.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/chunk-common.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/homepage.bundle.js",
+      "type": "module",
+      "src": "https://s.uicdn.com/uimag/5.812.0/assets/_sn_/lod/entry.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Die Macht der Ölmultis: Wer von den absurd hohen Preisen profitiert",
+      "url": "https://www.gmx.net/magazine/wirtschaft/oelmultis-profitieren-ukraine-krieg-funktioniert-tank-abzocke-36694378",
+      "image_url": "https://i0.gmx.net/image/260/36695260,pd=1,f=responsive169-w950/tankstelle-bft-bad-honnef-nordrhein-westfalen-2022.jpg"
+    },
+    {
       "title": "Selenskyj wendet sich mit emotionaler Rede an den US-Kongress",
       "url": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/putins-ukraine-krieg-news-ticker-selenskyj-us-kongress-russland-himmel-quelle-todes-36627614",
-      "image_url": "https://i0.gmx.net/image/782/36673782,pd=1,h=300,w=530.jpg"
+      "image_url": "https://i0.gmx.net/image/782/36673782,pd=1,f=responsive169-w450.jpg"
     },
     {
-      "title": "Dritte Kriegswoche in der Ukraine: Das AusmaÃ der KÃ¤mpfe in Bildern",
+      "title": "Dritte Kriegswoche in der Ukraine: Das Ausmaß der Kämpfe in Bildern",
       "url": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/kriegswoche-ukraine-ereignisse-bildern-36635546",
-      "image_url": "https://i0.gmx.net/image/082/36694082,pd=4,h=300,w=530.jpg"
+      "image_url": "https://i0.gmx.net/image/082/36694082,pd=4,f=responsive169-w450.jpg"
     },
     {
-      "title": "Starkes Erdbeben erschÃ¼ttert Fukushima - Zwei Millionen Haushalte ohne Strom",
-      "url": "https://www.gmx.net/magazine/panorama/starkes-erdbeben-erschuettert-fukushima-tsunami-warnung-36695740",
-      "image_url": "https://i0.gmx.net/image/774/36695774,pd=1,h=300,w=530/japan-fukushima-atomkraft-atomkraftwerk-reaktor-er.jpg",
-      "image_title": "Japan, Fukushima, Atomkraft, Atomkraftwerk, Reaktor, Erdbeben, 2022, 2011"
+      "title": "Ampel einigt sich auf Verdopplung des Heizkostenzuschusses",
+      "url": "https://www.gmx.net/magazine/politik/heizkostenzuschuss-ampel-einigt-verdopplung-zuschlags-36694494",
+      "image_url": "https://i0.gmx.net/image/584/36694584,pd=2,f=responsive169-w450/heizung-thermostat-kosten-2022.jpg"
     },
     {
-      "title": "VitaminprÃ¤parate zu nehmen \"kann ja nicht schaden\"? Diese Annahme ist falsch",
+      "title": "Steuersenkung, Klimageld, Tankrabatt: Was hilft gegen hohe Energiepreise?",
+      "url": "https://www.gmx.net/magazine/politik/steuersenkung-klimageld-tankrabatt-was-hilft-gegen-hohe-energiepreise-36629136",
+      "image_url": "https://i0.gmx.net/image/284/36695284,pd=6,f=responsive169-w450.jpg"
+    },
+    {
+      "title": "Lafontaine macht Schluss und erntet für letzte Rede ungewöhnlich langen Applaus",
+      "url": "https://www.gmx.net/magazine/politik/lafontaine-verabschiedet-rede-krieg-36694904",
+      "image_url": "https://i0.gmx.net/image/916/36694916,pd=2,f=responsive169-w450.jpg"
+    },
+    {
+      "title": "Lambrecht will Bundeswehr zur \"hochmodernen Armee\" aufrüsten",
+      "url": "https://www.gmx.net/magazine/politik/lambrecht-bundeswehr-hochmoderner-armee-ausbauen-36694426",
+      "image_url": "https://i0.gmx.net/image/432/36694432,pd=1,f=responsive169-w450.jpg"
+    },
+    {
+      "title": "Debatte um Corona-Schutzregeln: Scharfe Kritik an Plänen der Ampel-Koalition",
+      "url": "https://www.gmx.net/magazine/politik/bundestag-debattiert-corona-schutz-36693626",
+      "image_url": "https://i0.gmx.net/image/562/36693562,pd=1,f=responsive169-w450/sitzung-bundestag.jpg"
+    },
+    {
+      "title": "Weiterer Corona-Fall: Kathrin Menzinger fällt bei \"Let's Dance\" aus",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/lets-dance/springt-kathrin-menzinger-faellt-lets-dance-36695796",
+      "image_url": "https://i0.gmx.net/image/856/36695856,pd=1,f=responsive169-w450.jpg"
+    },
+    {
+      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762",
+      "image_url": "https://i0.gmx.net/image/764/36695764,pd=2,f=responsive169-w450/heidi-fans-geschockt-tv-auftritt-heidi-klum.jpg"
+    },
+    {
+      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich über riesige Preissteigerung",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290",
+      "image_url": "https://i0.gmx.net/image/292/36695292,pd=3,f=responsive169-w450/bares-rares-horst-lichter-zdf-troedel-tv-show-anti.jpg"
+    },
+    {
+      "title": "Moderatorin Panagiota Petridou ist heimlich Mutter geworden",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/februar-moderatorin-panagiota-petridou-heimlich-mutter-36695600",
+      "image_url": "https://i0.gmx.net/image/698/36695698,pd=1,f=responsive169-w450.jpg"
+    },
+    {
+      "title": "Diese Fehler vermeiden: So spart man mit der Spülmaschine Zeit und Geld",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/spuelmaschine-effizientesten-36694630",
+      "image_url": "https://i0.gmx.net/image/956/36694956,pd=1,f=responsive169-w450.jpg"
+    },
+    {
+      "title": "Vitaminpräparate zu nehmen \"kann ja nicht schaden\"? Diese Annahme ist falsch",
       "url": "https://www.gmx.net/magazine/gesundheit/vitaminpraeparate-teurer-urin-schaedlich-36693876",
-      "image_url": "https://i0.gmx.net/image/926/36694926,pd=1,h=300,w=530/nahrungsergaenzungsmittel-vitamin-d.jpg",
-      "image_title": "NahrungsergÃ¤nzungsmittel Vitamin D"
+      "image_url": "https://i0.gmx.net/image/926/36694926,pd=1,f=responsive169-w450/nahrungsergaenzungsmittel-vitamin-d.jpg"
     },
     {
-      "title": "Dating-Expertin spricht Ã¼ber die grÃ¶Ãte Illusion, die es in Beziehungen gibt",
-      "url": "https://www.gmx.net/magazine/liebe-partnerschaft/liebe-zeiten-tinder-beigeschmack-konsums-36694492",
-      "image_url": "https://i0.gmx.net/image/434/36695434,pd=1,h=300,w=530.jpg"
+      "title": "iOS-Update macht Face ID mit Maske möglich",
+      "url": "https://www.gmx.net/magazine/digital/apple/apple-ios-update-face-id-maske-moeglich-36694054",
+      "image_url": "https://i0.gmx.net/image/056/36694056,pd=2,f=responsive169-w450/iphone.jpg"
     },
     {
-      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762"
+      "title": "Regional und saisonal kochen: Rezeptideen für den März",
+      "url": "https://www.gmx.net/magazine/ratgeber/essen-trinken/regional-saisonal-kochen-rezeptideen-maerz-34473788",
+      "image_url": "https://i0.gmx.net/image/814/34473814,pd=4,f=responsive169-w450/essen-kochen-lebensmittel-regional-saisonal-gesund.jpg"
     },
     {
-      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
+      "title": "Dieses tägliche Ritual aus Schweden würde uns alle glücklicher machen",
+      "url": "https://www.gmx.net/magazine/gesundheit/taegliches-ritual-schweden-gluecklich-fika-36690646",
+      "image_url": "https://i0.gmx.net/image/028/36691028,pd=1,f=responsive169-w450/fika-schweden-pause.jpg"
     },
     {
-      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
-      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
-    },
-    {
-      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
-      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
-    },
-    {
-      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290",
-      "image_url": "https://i0.gmx.net/image/292/36695292,pd=3,h=170,w=300/bares-rares-horst-lichter-zdf-troedel-tv-show-anti.jpg",
-      "image_title": "Bares fÃ¼r Rares, Horst Lichter, ZDF, TrÃ¶del, TV-Show, AntiquitÃ¤ten"
-    },
-    {
-      "title": "Lafontaine macht Schluss und erntet fÃ¼r letzte Rede ungewÃ¶hnlich langen Applaus",
-      "url": "https://www.gmx.net/magazine/politik/lafontaine-verabschiedet-rede-krieg-36694904",
-      "image_url": "https://i0.gmx.net/image/916/36694916,pd=2,h=170,w=300.jpg"
-    },
-    {
-      "title": "Schmerzhafte OP: Deshalb lÃ¤sst sich Ex-GNTM-Kandidatin erneut Beine verlÃ¤ngern",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/germanys-next-topmodel/theresia-fischer-laesst-beine-verlaengern-schmerzhafte-op-ex-gntm-kandidatin-36694328"
-    },
-    {
-      "title": "USA: Senat bringt Ende der Winterzeit auf den Weg",
-      "url": "https://www.gmx.net/magazine/panorama/usa-senat-bringt-winterzeit-36694896"
-    },
-    {
-      "title": "Mit 70 Jahren: Schauspieler Heinz Hoenig wird zum vierten Mal Vater",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/schauspieler-heinz-hoenig-70-jahren-vater-36694138"
-    },
-    {
-      "title": "Saharastaub sorgt fÃ¼r Kino-Feeling: SÃ¼ddeutschland erstrahlt in Sepia",
-      "url": "https://www.gmx.net/magazine/panorama/saharastaub-sueddeutschland-erstrahlt-sepia-36693966"
-    },
-    {
-      "title": "Der DFB verliert einen \"Weichensteller\": EhrenprÃ¤sident Egidius Braun ist tot",
+      "title": "Der DFB verliert einen \"Weichensteller\": Ehrenpräsident Egidius Braun ist tot",
       "url": "https://www.gmx.net/magazine/sport/fussball/schildhalter-weichensteller-egidius-braun-alter-97-jahren-gestorben-36694652",
-      "image_url": "https://i0.gmx.net/image/676/36694676,pd=1,h=170,w=300.jpg"
+      "image_url": "https://i0.gmx.net/image/676/36694676,pd=1,f=responsive169-w450.jpg"
     },
     {
-      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762",
-      "image_url": "https://i0.gmx.net/image/764/36695764,pd=2,h=170,w=300/heidi-fans-geschockt-tv-auftritt-heidi-klum.jpg",
-      "image_title": "Das ist nicht mehr Heidi: Fans geschockt nach TV-Auftritt von Heidi Klum"
+      "title": "Ex-Wolfsburger Grafite: Magath ist super Motivator mit ungemein hartem Training",
+      "url": "https://www.gmx.net/magazine/sport/fussball/grafite-magath-super-motivator-ungemein-hartem-training-36694046",
+      "image_url": "https://i0.gmx.net/image/188/36694188,pd=4,f=responsive169-w450.jpg"
     },
     {
-      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
+      "title": "Hat Sammer sich verplappert? BVB-Berater zur Zukunft Haalands",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/borussia-dortmund/sammer-verplappert-guardiola-haaland-manchester-voneinander-profitieren-36693888",
+      "image_url": "https://i0.gmx.net/image/170/36694170,pd=2,f=responsive169-w450/matthias-sammer-sebastian-hellmann-champions-leagu.jpg"
     },
     {
-      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
-      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
+      "title": "F1-Experte Timo Glock: \"Mick Schumacher steht große Herausforderung bevor\"",
+      "url": "https://www.gmx.net/magazine/sport/formel-1/formel-1-experte-timo-glock-mick-schumacher-grosse-herausforderung-36690986",
+      "image_url": "https://i0.gmx.net/image/044/36691044,pd=1,f=responsive169-w450/timo-glock.jpg"
     },
     {
-      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
-      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
+      "title": "Musik-Streaming-Dienst wird Hauptsponsor von FC Barcelona",
+      "url": "https://www.gmx.net/magazine/sport/fussball/international/fc-barcelona-spotify-vereinbaren-strategische-partnerschaft-36694044",
+      "image_url": "https://i0.gmx.net/image/180/36694180,pd=1,f=responsive169-w450.jpg"
     },
     {
-      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290"
+      "title": "Bemerkenswerter Fund: Unbekannte Gräber bei Wiederaufbau von Notre-Dame entdeckt",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280",
+      "image_url": "https://i0.gmx.net/image/486/36695486,pd=1,f=responsive169-w450/sarkophag.jpg"
     },
     {
-      "title": "Lafontaine macht Schluss und erntet fÃ¼r letzte Rede ungewÃ¶hnlich langen Applaus",
-      "url": "https://www.gmx.net/magazine/politik/lafontaine-verabschiedet-rede-krieg-36694904",
-      "image_url": "https://i0.gmx.net/image/916/36694916,pd=2,h=170,w=300.jpg"
+      "title": "So klein wie eine Traube: Diese Mini-Schildkröte hat eine große Aufgabe",
+      "url": "https://www.gmx.net/magazine/wissen/natur-umwelt/artensterben-kleine-aegyptische-landschildkroete-retten-36694306",
+      "image_url": "https://i0.gmx.net/image/308/36694308,pd=3,f=responsive169-w450/aegyptische-landschildkroete.jpg"
     },
     {
-      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762"
+      "title": "Groß wie ein Luchs: Forscher beschreiben neue Art eines Räubers mit Säbelzähnen",
+      "url": "https://www.gmx.net/magazine/wissen/natur-umwelt/forscher-beschreiben-art-raeubers-saebelzaehnen-36692676",
+      "image_url": "https://i0.gmx.net/image/678/36692678,pd=4,f=responsive169-w450/raeuber-saebelzaehnen.jpg"
     },
     {
-      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
+      "title": "Die Zeitumstellung nervt? Versuchen Sie es mit diesem Trick",
+      "url": "https://www.gmx.net/magazine/wissen/zeitumstellung/zeitumstellung-sommerzeit-2022-trick-faellt-leichter-34487004",
+      "image_url": "https://i0.gmx.net/image/192/34487192,pd=3,f=responsive169-w450.jpg"
     },
     {
-      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
-      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
+      "title": "Auffällige Krater an arktischem Meeresgrund: Taut auch hier der Permafrost?",
+      "url": "https://www.gmx.net/magazine/wissen/klima/taut-permafrost-auffaellige-krater-arktischem-meeresgrund-36687954",
+      "image_url": "https://i0.gmx.net/image/956/36687956,pd=3,f=responsive169-w450/krater.jpg"
     },
     {
-      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
-      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
+      "title": "Russlands Angriff auf die Ukraine (ständig aktualisiert)",
+      "url": "https://www.gmx.net/magazine/infografiken/russlands-angriff-ukraine-staendig-aktualisiert-36683098",
+      "image_url": "https://i0.gmx.net/image/862/36636862,pd=13,f=responsive169-w450.jpg"
     },
     {
-      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290",
-      "image_url": "https://i0.gmx.net/image/292/36695292,pd=3,h=170,w=300/bares-rares-horst-lichter-zdf-troedel-tv-show-anti.jpg",
-      "image_title": "Bares fÃ¼r Rares, Horst Lichter, ZDF, TrÃ¶del, TV-Show, AntiquitÃ¤ten"
+      "title": "Myanmar: Ethnische Minderheiten",
+      "url": "https://www.gmx.net/magazine/infografiken/myanmar-ethnische-minderheiten-36682112",
+      "image_url": "https://i0.gmx.net/image/804/35865804,pd=1,f=responsive169-w450.jpg"
     },
     {
-      "title": "Hilfe & Kontakt",
-      "teaser": "Hilfestellung & Anleitung zu Ihrem GMX E-Mail Konto",
-      "url": "https://hilfe.gmx.net/",
-      "image_url": "https://i0.gmx.net/image/518/34288518,pd=2,h=80,w=80.svg"
+      "title": "Grenze zwischen USA und Mexiko",
+      "url": "https://www.gmx.net/magazine/infografiken/grenze-usa-mexiko-36682114",
+      "image_url": "https://i0.gmx.net/image/810/35865810,pd=1,f=responsive169-w450.jpg"
     },
     {
-      "title": "Kundencenter",
-      "teaser": "Ihre Daten und Sicherheits-Einstellungen verwalten",
-      "url": "https://account.gmx.net/#.pc_page.homepage.index.footer_2.kundencenter",
-      "image_url": "https://i0.gmx.net/image/512/34288512,pd=2,h=80,w=80.svg"
+      "title": "Israels Raketenabwehrsystem \"Iron Dome\"",
+      "url": "https://www.gmx.net/magazine/infografiken/israels-raketenabwehrsystem-iron-dome-36682100",
+      "image_url": "https://i0.gmx.net/image/822/35865822,pd=2,f=responsive169-w450.jpg"
     },
     {
-      "title": "Passwort vergessen",
-      "teaser": "Ihr Passwort zurÃ¼cksetzen und ein neues anlegen",
-      "url": "https://passwort.gmx.net/",
-      "image_url": "https://i0.gmx.net/image/522/34288522,pd=2,h=80,w=80.svg"
+      "title": "Israels Abwehrsystem \"Eiserne Kuppel\"",
+      "url": "https://www.gmx.net/magazine/infografiken/israels-abwehrsystem-eiserne-kuppel-36682090",
+      "image_url": "https://i0.gmx.net/image/824/35865824,pd=1,f=responsive169-w450.jpg"
     },
     {
-      "title": "PrivatsphÃ¤re",
-      "teaser": "Alle Informationen zum Datenschutz bei GMX",
-      "url": "https://www.gmx.net/datenschutz/#.pc_page.homepage.index.footer_4.datenschutz",
-      "image_url": "https://i0.gmx.net/image/524/34288524,pd=2,h=80,w=80.svg"
+      "title": "Krankenhaus in Lwiw durch kriegsverletzte Kinder überlastet",
+      "url": "https://www.gmx.net/magazine/unicef/krankenhaus-lwiw-ueberlastet-kriegsverletzte-kinder-36691688",
+      "image_url": "https://i0.gmx.net/image/254/36691254,pd=2,f=responsive169-w450/ukraine-konflikt.jpg"
     },
     {
-      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762",
-      "image_url": "https://i0.gmx.net/image/764/36695764,pd=2,h=170,w=300/heidi-fans-geschockt-tv-auftritt-heidi-klum.jpg",
-      "image_title": "Das ist nicht mehr Heidi: Fans geschockt nach TV-Auftritt von Heidi Klum"
+      "title": "Wie ist die Lage der Kinder aus der Ukraine?",
+      "url": "https://www.gmx.net/magazine/unicef/ukraine-situation-kinder-36671864",
+      "image_url": "https://i0.gmx.net/image/886/36671886,pd=2,f=responsive169-w450/maedchen-ruine-ukraine.jpg"
     },
     {
-      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
+      "title": "Nach Polio-Fall in Malawi: Impfkampagne für 2,9 Millionen Kinder",
+      "url": "https://www.gmx.net/magazine/unicef/polio-malawi-impfkampagne-29-millionen-kinder-36657690",
+      "image_url": "https://i0.gmx.net/image/578/36659578,pd=2,f=responsive169-w450/covid-impfung-malawi.jpg"
     },
     {
-      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
-      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
+      "title": "Ukraine: Helfen Sie mit Ihrer Spende den Kindern",
+      "url": "https://www.gmx.net/magazine/unicef/ukraine-nothilfe-helfen-spende-kindern-36640010",
+      "image_url": "https://i0.gmx.net/image/924/36641924,pd=5,f=responsive169-w450.jpg"
     },
     {
-      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
-      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
+      "title": "UNICEF: Kinder in der Konfliktregion brauchen \"dringend Frieden\"",
+      "url": "https://www.gmx.net/magazine/unicef/unicef-kinder-konfliktregion-dringend-frieden-36637802",
+      "image_url": "https://i0.gmx.net/image/654/36637654,pd=4,f=responsive169-w450/beschuss-schule-region-luhansk-2018.jpg"
     },
     {
-      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290"
+      "title": "Helfen wir den Kindern in Afghanistan durch den Winter",
+      "url": "https://www.gmx.net/magazine/unicef/afghanistan-helfen-kindern-winter-36628464",
+      "image_url": "https://i0.gmx.net/image/654/36628654,pd=2,f=responsive169-w450/kinder-afghanistan.jpg"
     }
   ]
 }
