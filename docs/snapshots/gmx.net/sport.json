@@ -1,133 +1,217 @@
 {
-  "timestamp": "2022-03-16T15:21:12",
+  "timestamp": "2022-03-16T16:28:33",
   "url": "https://www.gmx.net/magazine/sport/",
   "response": {
-    "status": 200
+    "status": 503
   },
   "scripts": [
     {
-      "type": "module",
-      "src": "https://s.uicdn.com/uimag/5.812.0/assets/_sn_/lod/multisearch.js",
+      "type": null,
+      "src": "https://dl.gmx.net/tcf/live/v1/js/tcf-api.js",
       "id": null,
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://s.uicdn.com/uimag/5.812.0/assets/_sn_/lod/entry.js",
+      "type": null,
+      "src": "https://img.ui-portal.de/pos-cdn/tracklib/4.5.0/tracklib.poly.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/js/piNctTracking.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/chunk-vendors.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/chunk-common.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/legacy/live/1.26/gmx/homepage.bundle.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Der DFB verliert einen \"Weichensteller\": Ehrenpräsident Egidius Braun ist tot",
+      "title": "Selenskyj wendet sich mit emotionaler Rede an den US-Kongress",
+      "url": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/putins-ukraine-krieg-news-ticker-selenskyj-us-kongress-russland-himmel-quelle-todes-36627614",
+      "image_url": "https://i0.gmx.net/image/782/36673782,pd=1,h=300,w=530.jpg"
+    },
+    {
+      "title": "Dritte Kriegswoche in der Ukraine: Das AusmaÃ der KÃ¤mpfe in Bildern",
+      "url": "https://www.gmx.net/magazine/politik/russland-krieg-ukraine/kriegswoche-ukraine-ereignisse-bildern-36635546",
+      "image_url": "https://i0.gmx.net/image/082/36694082,pd=4,h=300,w=530.jpg"
+    },
+    {
+      "title": "Starkes Erdbeben erschÃ¼ttert Fukushima - Zwei Millionen Haushalte ohne Strom",
+      "url": "https://www.gmx.net/magazine/panorama/starkes-erdbeben-erschuettert-fukushima-tsunami-warnung-36695740",
+      "image_url": "https://i0.gmx.net/image/774/36695774,pd=1,h=300,w=530/japan-fukushima-atomkraft-atomkraftwerk-reaktor-er.jpg",
+      "image_title": "Japan, Fukushima, Atomkraft, Atomkraftwerk, Reaktor, Erdbeben, 2022, 2011"
+    },
+    {
+      "title": "VitaminprÃ¤parate zu nehmen \"kann ja nicht schaden\"? Diese Annahme ist falsch",
+      "url": "https://www.gmx.net/magazine/gesundheit/vitaminpraeparate-teurer-urin-schaedlich-36693876",
+      "image_url": "https://i0.gmx.net/image/926/36694926,pd=1,h=300,w=530/nahrungsergaenzungsmittel-vitamin-d.jpg",
+      "image_title": "NahrungsergÃ¤nzungsmittel Vitamin D"
+    },
+    {
+      "title": "Dating-Expertin spricht Ã¼ber die grÃ¶Ãte Illusion, die es in Beziehungen gibt",
+      "url": "https://www.gmx.net/magazine/liebe-partnerschaft/liebe-zeiten-tinder-beigeschmack-konsums-36694492",
+      "image_url": "https://i0.gmx.net/image/434/36695434,pd=1,h=300,w=530.jpg"
+    },
+    {
+      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762"
+    },
+    {
+      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
+    },
+    {
+      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
+      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
+    },
+    {
+      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
+    },
+    {
+      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290",
+      "image_url": "https://i0.gmx.net/image/292/36695292,pd=3,h=170,w=300/bares-rares-horst-lichter-zdf-troedel-tv-show-anti.jpg",
+      "image_title": "Bares fÃ¼r Rares, Horst Lichter, ZDF, TrÃ¶del, TV-Show, AntiquitÃ¤ten"
+    },
+    {
+      "title": "Lafontaine macht Schluss und erntet fÃ¼r letzte Rede ungewÃ¶hnlich langen Applaus",
+      "url": "https://www.gmx.net/magazine/politik/lafontaine-verabschiedet-rede-krieg-36694904",
+      "image_url": "https://i0.gmx.net/image/916/36694916,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Schmerzhafte OP: Deshalb lÃ¤sst sich Ex-GNTM-Kandidatin erneut Beine verlÃ¤ngern",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/germanys-next-topmodel/theresia-fischer-laesst-beine-verlaengern-schmerzhafte-op-ex-gntm-kandidatin-36694328"
+    },
+    {
+      "title": "USA: Senat bringt Ende der Winterzeit auf den Weg",
+      "url": "https://www.gmx.net/magazine/panorama/usa-senat-bringt-winterzeit-36694896"
+    },
+    {
+      "title": "Mit 70 Jahren: Schauspieler Heinz Hoenig wird zum vierten Mal Vater",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/schauspieler-heinz-hoenig-70-jahren-vater-36694138"
+    },
+    {
+      "title": "Saharastaub sorgt fÃ¼r Kino-Feeling: SÃ¼ddeutschland erstrahlt in Sepia",
+      "url": "https://www.gmx.net/magazine/panorama/saharastaub-sueddeutschland-erstrahlt-sepia-36693966"
+    },
+    {
+      "title": "Der DFB verliert einen \"Weichensteller\": EhrenprÃ¤sident Egidius Braun ist tot",
       "url": "https://www.gmx.net/magazine/sport/fussball/schildhalter-weichensteller-egidius-braun-alter-97-jahren-gestorben-36694652",
-      "image_url": "https://i0.gmx.net/image/676/36694676,pd=1,f=responsive169-w950.jpg"
+      "image_url": "https://i0.gmx.net/image/676/36694676,pd=1,h=170,w=300.jpg"
     },
     {
-      "title": "Ex-Wolfsburger Grafite: Magath ist super Motivator mit ungemein hartem Training",
-      "url": "https://www.gmx.net/magazine/sport/fussball/grafite-magath-super-motivator-ungemein-hartem-training-36694046",
-      "image_url": "https://i0.gmx.net/image/188/36694188,pd=4,f=responsive169-w450.jpg"
+      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762",
+      "image_url": "https://i0.gmx.net/image/764/36695764,pd=2,h=170,w=300/heidi-fans-geschockt-tv-auftritt-heidi-klum.jpg",
+      "image_title": "Das ist nicht mehr Heidi: Fans geschockt nach TV-Auftritt von Heidi Klum"
     },
     {
-      "title": "Hat Sammer sich verplappert? BVB-Berater zur Zukunft Haalands",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/borussia-dortmund/sammer-verplappert-guardiola-haaland-manchester-voneinander-profitieren-36693888",
-      "image_url": "https://i0.gmx.net/image/170/36694170,pd=2,f=responsive169-w450/matthias-sammer-sebastian-hellmann-champions-leagu.jpg"
+      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
     },
     {
-      "title": "Bayerns Dilemma um Robert Lewandowski",
-      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136",
-      "image_url": "https://i0.gmx.net/image/408/36695408,pd=1,f=responsive169-w450.jpg"
+      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
+      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
     },
     {
-      "title": "Musik-Streaming-Dienst wird Hauptsponsor von FC Barcelona",
-      "url": "https://www.gmx.net/magazine/sport/fussball/international/fc-barcelona-spotify-vereinbaren-strategische-partnerschaft-36694044",
-      "image_url": "https://i0.gmx.net/image/180/36694180,pd=1,f=responsive169-w450.jpg"
+      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
     },
     {
-      "title": "Fußballer-Väter und Fußballer-Söhne: (zu) große Fußstapfen?",
-      "url": "https://www.gmx.net/magazine/sport/fussball/fussballer-sohn-vater-vatertag-19166458",
-      "image_url": "https://i0.gmx.net/image/548/32039548,pd=4,f=responsive169-w450/maurizio-gaudino.jpg"
+      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290"
     },
     {
-      "title": "Nach bitterer Heimniederlage: Champions-League-Aus für Rangnick und CR7",
-      "url": "https://www.gmx.net/magazine/sport/fussball/champions-league/champions-league-rangnick-cr7-36693378",
-      "image_url": "https://i0.gmx.net/image/380/36693380,pd=1,f=responsive169-w450.jpg"
+      "title": "Lafontaine macht Schluss und erntet fÃ¼r letzte Rede ungewÃ¶hnlich langen Applaus",
+      "url": "https://www.gmx.net/magazine/politik/lafontaine-verabschiedet-rede-krieg-36694904",
+      "image_url": "https://i0.gmx.net/image/916/36694916,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Tiger Woods' Karriere ist so abwechslungsreich wie ein Golf-Kurs",
-      "url": "https://www.gmx.net/magazine/sport/mehr-sport/tiger-woods-karriere-abwechslungsreich-golf-kurs-33659474",
-      "image_url": "https://i0.gmx.net/image/662/36679662,pd=2,f=responsive169-w450/tiger-woods-sam-alexis-woods-golf-hall-of-fame-pga.jpg"
+      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762"
     },
     {
-      "title": "Ukrainischer Schwimmer will härtere Sanktionen für Russland",
-      "url": "https://www.gmx.net/magazine/sport/mehr-sport/ukrainischer-schwimmer-goworow-haertere-sanktionen-russland-36670932",
-      "image_url": "https://i0.gmx.net/image/836/36670836,pd=7,f=responsive169-w450.jpg"
+      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
     },
     {
-      "title": "Ein Flop wird zum Volltreffer: Diese Menschen revolutionierten ihre Sportart",
-      "url": "https://www.gmx.net/magazine/sport/mehr-sport/flop-volltreffer-menschen-revolutionierten-sportart-36648756",
-      "image_url": "https://i0.gmx.net/image/794/36648794,pd=1,f=responsive169-w450/dick-fosbury-hochsprung-leichtathletik-olympia-mex.jpg"
+      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
+      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
     },
     {
-      "title": "Horror-Sturz nach Dunk: FCB-Basketballer Weiler-Babb aus Klinik entlassen",
-      "url": "https://www.gmx.net/magazine/sport/mehr-sport/horror-unfall-dunk-fcb-basketballer-weiler-babb-klinik-entlassen-36661776",
-      "image_url": "https://i0.gmx.net/image/762/36661762,pd=1,f=responsive169-w450.jpg"
+      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
     },
     {
-      "title": "Trauer um Schwimm-Olympiasiegerin: Vierfach-Mutter wird nur 56 Jahre alt",
-      "url": "https://www.gmx.net/magazine/sport/mehr-sport/schwimm-olympiasiegerin-kathleen-feldvoss-tot-vierfach-mutter-56-jahre-alt-36654806",
-      "image_url": "https://i0.gmx.net/image/368/36657368,pd=1,f=responsive169-w450/kathleen-nord-kathleen-feldvoss-schwimmen-ddr-1984.jpg"
+      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290",
+      "image_url": "https://i0.gmx.net/image/292/36695292,pd=3,h=170,w=300/bares-rares-horst-lichter-zdf-troedel-tv-show-anti.jpg",
+      "image_title": "Bares fÃ¼r Rares, Horst Lichter, ZDF, TrÃ¶del, TV-Show, AntiquitÃ¤ten"
     },
     {
-      "title": "F1-Experte Timo Glock: \"Mick Schumacher steht große Herausforderung bevor\"",
-      "url": "https://www.gmx.net/magazine/sport/formel-1/formel-1-experte-timo-glock-mick-schumacher-grosse-herausforderung-36690986",
-      "image_url": "https://i0.gmx.net/image/044/36691044,pd=1,f=responsive169-w450/timo-glock.jpg"
+      "title": "Hilfe & Kontakt",
+      "teaser": "Hilfestellung & Anleitung zu Ihrem GMX E-Mail Konto",
+      "url": "https://hilfe.gmx.net/",
+      "image_url": "https://i0.gmx.net/image/518/34288518,pd=2,h=80,w=80.svg"
     },
     {
-      "title": "\"Die Erwartungen sind größer\": Mick Schumacher vor dem nächsten Schritt",
-      "url": "https://www.gmx.net/magazine/sport/formel-1/mick-schumacher-zweiten-formel-1-jahr-2022-naechste-karriere-stufe-36690900",
-      "image_url": "https://i0.gmx.net/image/954/36690954,pd=1,f=responsive169-w450/mick-schumacher.jpg"
+      "title": "Kundencenter",
+      "teaser": "Ihre Daten und Sicherheits-Einstellungen verwalten",
+      "url": "https://account.gmx.net/#.pc_page.homepage.index.footer_2.kundencenter",
+      "image_url": "https://i0.gmx.net/image/512/34288512,pd=2,h=80,w=80.svg"
     },
     {
-      "title": "Sebastian Vettel und Aston Martin: Die Zeit der Ausreden ist vorbei",
-      "url": "https://www.gmx.net/magazine/sport/formel-1/formel-1-sebastian-vettels-grosse-sehnsucht-erfolg-aston-martin-36689754",
-      "image_url": "https://i0.gmx.net/image/768/36689768,pd=3,f=responsive169-w450/aston-martin-sebastian-vettel-formel-1.jpg"
+      "title": "Passwort vergessen",
+      "teaser": "Ihr Passwort zurÃ¼cksetzen und ein neues anlegen",
+      "url": "https://passwort.gmx.net/",
+      "image_url": "https://i0.gmx.net/image/522/34288522,pd=2,h=80,w=80.svg"
     },
     {
-      "title": "Diese radikalen Änderungen sollen die Formel 1 wieder spannender machen",
-      "url": "https://www.gmx.net/magazine/sport/formel-1/formel-1-aenderungen-saison-2022-rennen-spannender-36687766",
-      "image_url": "https://i0.gmx.net/image/940/36687940,pd=5,f=responsive169-w450.jpg"
+      "title": "PrivatsphÃ¤re",
+      "teaser": "Alle Informationen zum Datenschutz bei GMX",
+      "url": "https://www.gmx.net/datenschutz/#.pc_page.homepage.index.footer_4.datenschutz",
+      "image_url": "https://i0.gmx.net/image/524/34288524,pd=2,h=80,w=80.svg"
     },
     {
-      "title": "Die Regel-Revolution: So sehen die Formel-1-Autos 2022 aus",
-      "url": "https://www.gmx.net/magazine/sport/formel-1/regelaenderungen-2022-formel-1-rennern-gesicht-36689026",
-      "image_url": "https://i0.gmx.net/image/034/36689034,pd=1,f=responsive169-w450/formel-1-autos-renner-boliden-design-regeln-2022-a.jpg"
+      "title": "Das ist nicht mehr Heidi: Fans nach TV-Auftritt des Models befremdet",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/heidi-fans-geschockt-tv-auftritt-heidi-klum-36695762",
+      "image_url": "https://i0.gmx.net/image/764/36695764,pd=2,h=170,w=300/heidi-fans-geschockt-tv-auftritt-heidi-klum.jpg",
+      "image_title": "Das ist nicht mehr Heidi: Fans geschockt nach TV-Auftritt von Heidi Klum"
     },
     {
-      "title": "Zweites Gold in Peking: Forster dominiert Slalom nach Belieben",
-      "url": "https://www.gmx.net/magazine/sport/wintersport/zweites-gold-pekingforster-dominiertslalom-belieben-36684234",
-      "image_url": "https://i0.gmx.net/image/236/36684236,pd=2,f=responsive169-w450/paralympics-2022-peking-ski-alpin-slalom-damen.jpg"
+      "title": "Haben die Bayern sich verzockt? Das Lewandowski-Dilemma",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/fc-bayern/dilemma-fc-bayern-robert-lewandowski-36695136"
     },
     {
-      "title": "Biathlet Lesser überlässt erneut ukrainischem Sportler Instagram-Account",
-      "url": "https://www.gmx.net/magazine/sport/wintersport/russland-ukraine-krieg-biathlet-erik-lesser-stellt-ukrainer-instagram-account-verfuegung-36670830",
-      "image_url": "https://i0.gmx.net/image/130/36671130,pd=3,f=responsive169-w450.jpg"
+      "title": "\"Little Miss Nobody\": Ermordetes MÃ¤dchen nach 62 Jahren identifiziert",
+      "url": "https://www.gmx.net/magazine/panorama/little-miss-nobody-ermordetes-maedchen-62-jahren-identifiziert-36695246"
     },
     {
-      "title": "Putins Angriffskrieg macht Lesser fassungslos: \"Der hat keine Hobbys\"",
-      "url": "https://www.gmx.net/magazine/sport/wintersport/biathlon/erik-lesser-putin-faellt-luegen-erfinden-36670926",
-      "image_url": "https://i0.gmx.net/image/934/36670934,pd=1,f=responsive169-w450/erik-lesser-biathlon-schiessstand-weltcup-verfolgu.jpg"
+      "title": "Bemerkenswerter Fund: Unbekannte GrÃ¤ber bei Wiederaufbau von Notre-Dame entdeckt",
+      "url": "https://www.gmx.net/magazine/wissen/geschichte/notre-dame-archaeologen-unbekannte-graeber-wiederaufbau-36695280"
     },
     {
-      "title": "So sehen Sie die Skiflug-WM 2022 live im TV und Stream",
-      "url": "https://www.gmx.net/magazine/sport/wintersport/skispringen/skiflug-wm-2022-uebertraegt-springen-vikersund-live-tv-stream-36668210",
-      "image_url": "https://i0.gmx.net/image/202/36668202,pd=2,f=responsive169-w450/karl-geiger.jpg"
-    },
-    {
-      "title": "Snowboarden in Vollendung: Olympiasieger Vaultier zeigt Kunst vor großer Kulisse",
-      "url": "https://www.gmx.net/magazine/sport/wintersport/pierre-vaultier-zeigt-snowboardkunst-vollendung-36668884",
-      "image_url": "https://i0.gmx.net/image/900/36668900,pd=1,f=responsive169-w450/pierre-vaultier-frankreich-snowboard-wm-sierra-nev.jpg"
+      "title": "\"Das Zehnfache! Bam!\": Horst Lichter freut sich Ã¼ber riesige Preissteigerung",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-film/bares-fuer-rares/zehnfache-bam-horst-lichter-freut-riesen-preissteigerung-36695290"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-16T15:21:06",
+  "timestamp": "2022-03-16T16:28:27",
   "url": "https://www.spiegel.de/",
   "response": {
     "status": 200
@@ -32,69 +32,97 @@
   ],
   "articles": [
     {
-      "title": "»In Europa ist kein Land in der Lage, in einem Krieg gegen Russland zu bestehen«",
+      "title": "Reaktion auf russische Attacken: Ukraine dockt an Europas Stromnetz an",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/ukraine-mit-europaeischem-stromnetz-verbunden-a-f22e8d44-aed8-4624-b04b-e9d81e4fabc8"
+    },
+    {
+      "title": "Warnung vor russischer Antivirus-Software: Kaspersky wirft Bundesamt »ungerechtfertigten Angriff« vor",
+      "url": "https://www.spiegel.de/netzwelt/netzpolitik/kaspersky-russische-sicherheitssoftware-wirft-bsi-grundfalsche-entscheidung-vor-a-10c3bcdb-aa06-4581-b59e-994338cdc4a4"
+    },
+    {
+      "title": "Lockerung der Maskenpflicht: Das Diktat der FDP",
+      "url": "https://www.spiegel.de/politik/deutschland/corona-politik-der-ampel-das-diktat-der-fdp-a-15250e99-5bfd-4457-8fbe-deb68b25cf10"
+    },
+    {
+      "title": "Film-Highlight »Petite Maman«: Alles über meine Mutter",
+      "url": "https://www.spiegel.de/kultur/kino/petite-maman-von-celine-sciamma-alles-ueber-meine-mutter-a-5064f541-f6ff-4f83-9488-2ad1ec2b7872"
+    },
+    {
+      "title": "Thailändische Urlaubsinsel Phuket: Mann muss nach Mord an Schweizer Touristin lebenslang in Haft",
+      "url": "https://www.spiegel.de/panorama/justiz/thailand-moerder-von-schweizer-touristin-muss-lebenslang-in-haft-a-c7d1eb10-8cea-494e-a52b-d3f0b37cf3a3"
+    },
+    {
+      "title": "»Russland hat sich aus dem Kreis der zivilisierten Staaten verabschiedet«",
+      "teaser": "Der Völkerrechtler Daniel-Erasmus Khan spricht über mutmaßliche Kriegsverbrechen Russlands – und erklärt, warum Putin und seine Offiziere durchaus internationale Ermittlungen fürchten müssen. Ein Interview von Dietmar Hipp",
+      "url": "https://www.spiegel.de/panorama/justiz/ukraine-krieg-voelkerrechtler-daniel-erasmus-kahn-ueber-das-leid-der-zivilisten-a-94ad668d-b1b2-406d-a1a5-c5f0c7bd8b8b",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/f7ff4da2-96fe-4fa4-91b2-dc7903795d8c_w872_r1.778_fpx58.77_fpy50.jpg",
+      "image_title": "»Russland hat sich aus dem Kreis der zivilisierten Staaten verabschiedet« - Mstyslav Chernov / AP"
+    },
+    {
+      "title": "Internationaler Gerichtshof Höchstes Uno-Gericht ordnet Stopp des Kriegs in der Ukraine an",
+      "teaser": "Der Internationale Gerichtshof hat angeordnet, dass Russland sofort die militärische Gewalt in der Ukraine beendet. Das höchste Gericht der Vereinten Nationen gab damit einer Klage der Ukraine gegen Russland statt.",
+      "url": "https://www.spiegel.de/ausland/hoechstes-un-gericht-russland-muss-krieg-in-ukraine-stoppen-a-a1907df8-24a6-48aa-9de0-5cb894216818"
+    },
+    {
+      "title": "Gespräche zwischen Russland und Ukraine Das ist der Stand der Verhandlungen",
+      "teaser": "Drei Wochen nach Kriegsbeginn senden die russische und die ukrainische Verhandlungsdelegation auch positive Signale. Laut einem Medienbericht gibt es nun einen 15-Punkte-Plan für ein Friedensabkommen.",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-das-ist-der-stand-der-verhandlungen-a-928b3867-641c-421e-b7ae-b54d3e071ad3"
+    },
+    {
+      "title": "Krieg in Osteuropa USA warnen Moskau vor Einsatz von Massenvernichtungswaffen",
+      "teaser": "In einem Telefonat hat Joe Bidens Sicherheitsberater Jake Sullivan seinen Moskauer Amtskollegen vor dem Einsatz biologischer oder chemischer Waffen gewarnt. Russland erhebt derweil eigene Forderungen.",
+      "url": "https://www.spiegel.de/ausland/ukrainekrieg-usa-warnen-moskau-vor-einsatz-von-massenvernichtungswaffen-in-ukraine-a-bd9aaefa-94ce-4659-a092-64a98f8ff8ff"
+    },
+    {
+      "title": "»Unverschämtheit« SPD verärgert über ukrainischen Botschafter Melnyk",
+      "teaser": "Der ukrainische Botschafter Andrij Melnyk wirft der Bundesregierung vor, sich vor Russland wegzuducken. In der SPD wächst nach SPIEGEL-Informationen der Unmut über den Diplomaten.",
+      "url": "https://www.spiegel.de/politik/deutschland/andrij-melnyk-unmut-in-der-spd-ueber-ukraines-botschafter-a-9dfcae56-1b3c-470e-9db0-647903756047",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/aa851eb1-21b9-4a99-a7a6-ec795097e29e_w117_r1.33_fpx44.46_fpy50.83.jpg",
+      "image_title": "SPD verärgert über ukrainischen Botschafter Melnyk - IMAGO/Christian Spicker"
+    },
+    {
+      "title": "News zum Krieg in Osteuropa Innenministerin Faeser verteidigt ihr Ukraine-Krisenmanagement",
+      "teaser": "Innenministerin Faeser wehrt sich gegen Kritik am Umgang mit Flüchtlingen aus der Ukraine. Und: Patriarch Kirill, Oberhaupt der russisch-orthodoxen Kirche, telefoniert mit Papst Franziskus. Die News.",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-russische-bodentruppen-machen-dem-pentagon-zufolge-kaum-fortschritt-a-fc7ca4b9-f083-4ff7-b103-80bac96d857e"
+    },
+    {
+      "title": "Warnung vor russischer Antivirus-Software Kaspersky wirft Bundesamt »ungerechtfertigten Angriff« vor",
+      "teaser": "Deutschlands Cyber Sicherheitsbehörde warnt vor Kaspersky-Software. In einem Schreiben des Firmengründers, das dem SPIEGEL vorliegt, kritisiert er die Entscheidung als »politisch«. Von Marcel Rosenbach und Patrick Beuth",
+      "url": "https://www.spiegel.de/netzwelt/netzpolitik/kaspersky-russische-sicherheitssoftware-wirft-bsi-grundfalsche-entscheidung-vor-a-10c3bcdb-aa06-4581-b59e-994338cdc4a4",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/c246a7f0-0001-0004-0000-000001190349_w488_r1.778_fpx39.27_fpy44.86.jpg",
+      "image_title": "Kaspersky wirft Bundesamt »ungerechtfertigten Angriff« vor - Pavel Golovkin/ AP",
+      "author": "Marcel Rosenbach und Patrick Beuth"
+    },
+    {
+      "title": "Militärstratege über Wehrhaftigkeit »In Europa ist kein Land in der Lage, in einem Krieg gegen Russland zu bestehen«",
       "teaser": "Krieg führen – allein der Gedanke daran war in Europa jahrzehntelang verpönt. Der französische Militärstratege Pierre Servent sagt, welche Fehler insbesondere Deutschland machte und wie weit Putin gehen könnte. Ein Interview von Leo Klimm",
       "url": "https://www.spiegel.de/ausland/afghanistan-veteran-pierre-servent-in-europa-ist-kein-land-in-der-lage-einen-krieg-gegen-russland-zu-bestehen-a-83050019-bc27-48bd-8d82-a50a8165e1c6",
       "image_url": "https://cdn.prod.www.spiegel.de/images/f4d2e48d-3687-41c2-a2ed-91dcd3204267_w872_r1.778_fpx47_fpy19.jpg",
       "image_title": "»In Europa ist kein Land in der Lage, in einem Krieg gegen Russland zu bestehen« - Michel Euler / AP"
     },
     {
-      "title": "»Unverschämtheit« SPD verärgert über Ukraine-Botschafter Melnyk",
-      "teaser": "Ukraines Botschafter Andrij Melnyk wirft der Bundesregierung vor, sich vor Russland wegzuducken. In der SPD wächst nach SPIEGEL-Informationen der Unmut über den Diplomaten.",
-      "url": "https://www.spiegel.de/politik/deutschland/andrij-melnyk-unmut-in-der-spd-ueber-ukraines-botschafter-a-9dfcae56-1b3c-470e-9db0-647903756047",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/aa851eb1-21b9-4a99-a7a6-ec795097e29e_w488_r1.778_fpx44.46_fpy50.83.jpg",
-      "image_title": "SPD verärgert über Ukraine-Botschafter Melnyk - IMAGO/Christian Spicker"
-    },
-    {
-      "title": "Selenskyjs Flugverbotszonen-Appell an US-Kongress »Ist das zu viel verlangt?«",
-      "teaser": "Er wurde vom US-Kongress mit Applaus begrüßt – und erinnerte die Abgeordneten in seiner Rede an die Terroranschläge vom 11. September 2001: Der ukrainische Präsident Wolodymyr Selenskyj hat erneut eine Flugverbotszone gefordert.",
-      "url": "https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-fordert-von-den-usa-schliessung-des-luftraums-a-6e7ee399-1d4a-4971-bca9-0cce625c8ef5",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/63e53fa8-c383-4886-8777-c663b006d013_w488_r1.778_fpx50_fpy46_fd58.82.jpg",
-      "image_title": "»Ist das zu viel verlangt?« - Drew Angerer / Getty Images"
+      "title": "Japan Starkes Erdbeben erschüttert Fukushima – Tsunami-Warnung",
+      "teaser": "Ein starkes Erdbeben vor der japanischen Küste hat die Region Fukushima erzittern lassen. Japans meteorologische Behörde gab eine Tsunami-Warnung aus. In etwa zwei Millionen Haushalten soll der Strom ausgefallen sein.",
+      "url": "https://www.spiegel.de/panorama/japan-starkes-erdbeben-erschuettert-fukushima-tsunami-warnung-a-fe4f3d8b-f4a3-496d-b6df-d9137f703aa5",
+      "image_title": "Starkes Erdbeben erschüttert Fukushima – Tsunami-Warnung - Kyodo / dpa"
     },
     {
       "title": "Protest gegen Krieg im Live-TV »Jeder, ohne Ausnahme, weiß, dass sie lügen«",
       "teaser": "Seit ihrem Protest im russischen Staatsfernsehen wird die russische Journalistin Marina Owsjannikowa wie eine Heldin gefeiert. Ein neuer Bericht gibt Einblicke in ihr Leben und in die Parallelwelt staatstreuer Medien in Russland.",
       "url": "https://www.spiegel.de/ausland/protest-gegen-krieg-in-der-ukraine-marina-owsjannikowa-und-ihr-tv-sender-a-412363f4-ecb8-479d-b47c-433e4ffec1c5",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/8b7c7c5c-85b2-4bff-b04b-07e38885fc7c_w488_r1.778_fpx55.46_fpy50.jpg",
       "image_title": "»Jeder, ohne Ausnahme, weiß, dass sie lügen« - Mikhail Japaridze / ITAR-TASS / IMAGO"
     },
     {
-      "title": "News zum Krieg in Osteuropa Lambrecht schließt Angriff auf Nato-Gebiet nicht aus",
-      "url": "https://www.spiegel.de/ausland/russland-ukraine-news-am-mittwoch-russische-bodentruppen-machen-dem-pentagon-zufolge-kaum-fortschritt-a-fc7ca4b9-f083-4ff7-b103-80bac96d857e"
-    },
-    {
-      "title": "Krieg in der Ukraine Russische Verluste und Flucht aus Mariupol – der Überblick",
-      "url": "https://www.spiegel.de/ausland/ukraine-krieg-russlands-verluste-und-flucht-aus-mariupol-der-ueberblick-am-mittwochmittag-a-9efb3166-1007-494a-8f6f-f8a81b603dc5"
-    },
-    {
-      "title": "IWF-Prognose Ukrainekrieg kann Weltwirtschaftsordnung fundamental ändern",
-      "url": "https://www.spiegel.de/wirtschaft/iwf-ukrainekrieg-kann-weltwirtschaftsordnung-fundamental-aendern-a-af821a51-222d-42d2-9038-d29180574e3d"
-    },
-    {
-      "title": "Eilmeldung Japan: Starkes Erdbeben erschüttert Fukushima – Tsunami-Warnung",
-      "teaser": "Ein starkes Erdbeben vor der japanischen Küste hat die Region Fukushima erschüttert. Japans Meteorologische Behörde gab eine Tsunami-Warnung aus. In Teilen von Tokio fiel der Strom aus.",
-      "url": "https://www.spiegel.de/panorama/japan-starkes-erdbeben-erschuettert-fukushima-tsunami-warnung-a-fe4f3d8b-f4a3-496d-b6df-d9137f703aa5",
-      "image_title": "Starkes Erdbeben erschüttert Fukushima – Tsunami-Warnung - Kyodo / dpa"
-    },
-    {
-      "title": "Die mutige Geste der vier Osteuropäer",
+      "title": "Zugreise ins Kriegsgebiet Die mutige Geste der vier Osteuropäer",
       "teaser": "Es ist ein Akt der Solidarität: Mit dem Zug reisten die Regierungschefs Polens, Tschechiens und Sloweniens nach Kiew. Jarosław Kaczyński brachte eine Nato-Friedensmission ins Spiel – doch die hat keine Chance auf Umsetzung. Von Alexander Sarovic und Jan Puhl, Kiew und Hamburg",
       "url": "https://www.spiegel.de/ausland/ukraine-krieg-warum-die-osteuropaeischen-staatsmaenner-nach-kiew-reisten-a-67eca255-9962-47bb-a844-dad8fab4449b",
       "image_title": "Die mutige Geste der vier Osteuropäer - Andrzej Lange / EPA",
       "author": "Alexander Sarovic und Jan Puhl, Kiew und Hamburg"
     },
     {
-      "title": "Ex-CIA-Chef zum Ukrainekrieg »Jede fehlgeleitete Rakete kann diesen Krieg schnell eskalieren lassen«",
-      "teaser": "Der frühere US-Verteidigungsminister und Ex-CIA-Chef Leon Panetta warnt vor einer Ausweitung des Konflikts mit Moskau. Und sagt, warum er trotzdem noch Chancen für eine Einigung mit Putin sieht. Ein Interview von Roland Nelles, Washington",
-      "url": "https://www.spiegel.de/ausland/ex-cia-chef-zum-krieg-in-der-ukraine-jede-fehlgeleitete-rakete-kann-diesen-krieg-schnell-eskalieren-lassen-a-3394268d-4e1a-4149-99f5-bd5cc88bad4a",
-      "image_title": "»Jede fehlgeleitete Rakete kann diesen Krieg schnell eskalieren lassen« - Mindaugas Kulbis / AP"
-    },
-    {
       "title": "Verblendung über Putins Krieg gegen die Ukraine Mit dem linken Auge sieht man schlechter Ein Gastbeitrag von Peter Wensierski",
       "teaser": "Linke Intellektuelle und Politiker bis in die Spitzen der SPD behaupten, Putins Angriffskrieg habe sie überrascht. Dabei waren sie einfach blind.",
-      "url": "https://www.spiegel.de/politik/linke-und-putin-mit-dem-linken-auge-sieht-man-schlechter-a-e3aa3d9e-2f38-4c7c-8eb4-cf3f85e216b1",
-      "image_title": "Mit dem linken Auge sieht man schlechter - Peter Wensierski"
+      "url": "https://www.spiegel.de/politik/linke-und-putin-mit-dem-linken-auge-sieht-man-schlechter-a-e3aa3d9e-2f38-4c7c-8eb4-cf3f85e216b1"
     },
     {
       "title": "Wegen inhaftierten WikiLeaks-Gründers Giftattacke auf britisches Konsulat in NRW",
@@ -103,7 +131,29 @@
       "author": "Jörg Diehl, Roman Lehberger und Fidelius Schmid"
     },
     {
-      "title": "Habeck drängt Kartellwächter zur Prüfung hoher Spritpreise",
+      "title": "Das Diktat der FDP",
+      "teaser": "Fachleute warnen vor einer Aufweichung der Maskenpflicht, Grüne und Sozialdemokraten ebenso. Doch in der Koalition scheuen sich beide Partner vor einem Konflikt – den Coronakurs bestimmt deshalb die FDP. Von Kevin Hagen und Christian Teevs",
+      "url": "https://www.spiegel.de/politik/deutschland/corona-politik-der-ampel-das-diktat-der-fdp-a-15250e99-5bfd-4457-8fbe-deb68b25cf10",
+      "image_title": "Das Diktat der FDP - Bernd von Jutrczenka / picture alliance/dpa",
+      "author": "Kevin Hagen und Christian Teevs"
+    },
+    {
+      "title": "Neue Omikron-Variante Rekombination von BA.1 und BA.2 entdeckt",
+      "teaser": "Die ansteckendere Omikron-Variante BA.2 löst derzeit BA.1 ab. Nun sind zwei Fälle in Israel aufgetreten, bei denen sich beide Subtypen offenbar genetisch vermischt haben. Experten halten das nicht für bedenklich.",
+      "url": "https://www.spiegel.de/wissenschaft/medizin/israel-offenbar-rekombination-aus-omikron-subtypen-ba-1-und-ba-2-entdeckt-a-2fdd582f-4022-48e9-80ce-84b9f98fd2f7"
+    },
+    {
+      "title": "Intensivmediziner zu Coronamaßnahmen »Es wäre falsch, die Maskenpflicht generell abzuschaffen«",
+      "url": "https://www.spiegel.de/wissenschaft/medizin/corona-christian-karagiannidis-warnt-es-waere-falsch-die-maskenpflicht-generell-abzuschaffen-a-342dc834-85cb-4993-8a4c-ea51cfab9be6",
+      "image_title": "»Es wäre falsch, die Maskenpflicht generell abzuschaffen« - Jens Büttner/ DPA"
+    },
+    {
+      "title": "Produktionsstopps wegen Corona In China stehen viele Fabriken still",
+      "teaser": "Geschlossene Fabriken bei Tesla und VW, Schiffsstaus vor Häfen: Die Ausbreitung von Omikron führt zu vielen Produktionsausfällen in China. Auch wenn weitere Schließungen befürchtet werden – eine Firma darf wieder öffnen.",
+      "url": "https://www.spiegel.de/wirtschaft/corona-in-china-stehen-viele-baender-still-a-fda3eb1f-1836-4c1a-a398-e1b888ef28b2"
+    },
+    {
+      "title": "Energiekrise Habeck drängt Kartellwächter zur Prüfung hoher Spritpreise",
       "teaser": "Die Mineralölkonzerne stehen im Verdacht, die Benzin- und Dieselpreise durch Preisabsprachen in die Höhe zu treiben. Nach SPIEGEL-Informationen hat Wirtschaftsminister Habeck das Kartellamt um genaue Prüfung gebeten. Von Stefan Schultz",
       "url": "https://www.spiegel.de/wirtschaft/teures-benzin-habeck-draengt-kartellwaechter-zur-pruefung-a-f8919a18-e6a0-4068-b30f-5dc8dc89ef3b",
       "image_title": "Habeck drängt Kartellwächter zur Prüfung hoher Spritpreise - Chris Emil Janßen / IMAGO",
@@ -127,62 +177,29 @@
       "image_title": "Lafontaine verabschiedet sich mit Rede gegen den Krieg aus der Politik - BeckerBredel / imago images/BeckerBredel"
     },
     {
-      "title": "Neue Omikron-Variante Rekombination von BA.1 und BA.2 entdeckt",
-      "teaser": "Die ansteckendere Omikron-Variante BA.2 löst derzeit BA.1 ab. Nun sind zwei Fälle in Israel aufgetreten, bei denen sich beide Subtypen offenbar genetisch vermischt haben. Experten halten das nicht für bedenklich.",
-      "url": "https://www.spiegel.de/wissenschaft/medizin/israel-offenbar-rekombination-aus-omikron-subtypen-ba-1-und-ba-2-entdeckt-a-2fdd582f-4022-48e9-80ce-84b9f98fd2f7",
-      "image_title": "Rekombination von BA.1 und BA.2 entdeckt - Gil Cohen Magen / Xinhua / IMAGO"
-    },
-    {
-      "title": "Intensivmediziner zu Coronamaßnahmen »Es wäre falsch, die Maskenpflicht generell abzuschaffen«",
-      "teaser": "Pflegende und Bevölkerung brauchen dringend eine Verschnaufpause von den Coronamaßnahmen – aber noch nicht jetzt, warnt der Intensivmediziner Christian Karagiannidis. Ein Interview von Hilmar Schmundt",
-      "url": "https://www.spiegel.de/wissenschaft/medizin/corona-christian-karagiannidis-warnt-es-waere-falsch-die-maskenpflicht-generell-abzuschaffen-a-342dc834-85cb-4993-8a4c-ea51cfab9be6",
-      "image_title": "»Es wäre falsch, die Maskenpflicht generell abzuschaffen« - Jens Büttner/ DPA"
-    },
-    {
-      "title": "Covid-19 Warum in Deutschland so viele Menschen nach einer Ecmo-Behandlung sterben",
-      "teaser": "Schwere Covid-19-Fälle werden auf der Intensivstation künstlich beatmet. Rund drei Viertel der über 60-Jährigen überleben die Behandlung nicht – deutlich mehr als im internationalen Vergleich. Von Katherine Rydlink",
-      "url": "https://www.spiegel.de/wissenschaft/medizin/coronavirus-hohe-sterberaten-nach-ecmo-behandlung-auf-den-intensivstationen-a-f0c4bac5-f9dc-45a6-804f-1f194b0b85de",
-      "author": "Katherine Rydlink"
-    },
-    {
-      "title": "Coronaimpfstoffe Bundesregierung sichert sich Produktionskapazitäten",
-      "teaser": "Eine Knappheit wie zu Beginn der Corona-Impfkampagne soll sich in Deutschland nicht wiederholen. Darum hat die Regierung Verträge mit Herstellern über Produktionskapazitäten geschlossen.",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/corona-impfstoffe-bundesregierung-sichert-sich-produktionskapazitaeten-a-1ed87db1-50fd-4524-a207-505f4e35ab11"
-    },
-    {
       "title": "Hochstaplerin vor der Abschiebung Die Karriere der Anna Sorokin Von Philipp Oehmke und Yasemin Yüksel",
       "url": "https://www.spiegel.de/panorama/hochstaplerin-anna-sorokin-vor-abschiebung-nach-deutschland-podcast-a-82c1a6a3-1f65-416c-afdc-e34a4b69de7f",
       "image_title": "Die Karriere der Anna Sorokin"
     },
     {
-      "title": "Russische Touristen bleiben aus Was der Krieg für das Reiseziel Türkei bedeutet",
-      "teaser": "Der Türkei dürften nun russische Gäste fehlen. Wird der Urlaub in dem beliebten Reiseland für Deutsche deshalb günstiger? Vor allem ein Faktor spricht gegen satte Rabatte. Allzu lange warten sollte man mit der Buchung aber nicht. Von Philipp Laage",
-      "url": "https://www.spiegel.de/reise/europa/russische-touristen-bleiben-aus-wird-urlaub-in-der-tuerkei-guenstiger-a-2918e67b-9439-45b3-a670-d18208fb6d96",
-      "image_title": "Was der Krieg für das Reiseziel Türkei bedeutet - SOPA Images / LightRocket / Getty Images",
-      "author": "Philipp Laage"
+      "title": "Nachruf auf den früheren DFB-Präsidenten Pater Braun",
+      "teaser": "Egidius Baun war ein DFB-Präsident, der mit dem Kommerzfußball wenig am Hut hatte. Lieber widmete er sich sozialen Fragen. Als er 2001 ging, hatten der Fußball und er sich entfremdet. Von Peter Ahrens",
+      "url": "https://www.spiegel.de/sport/fussball/egidius-baun-ist-tot-pater-braun-nachruf-auf-den-frueheren-dfb-praesidenten-a-f9f1c72d-274f-47c2-a0e5-6a53c84f30e2",
+      "image_title": "Pater Braun - Gunnar Berning/ Getty Images",
+      "author": "Peter Ahrens"
     },
     {
-      "title": "Schöner schreiben Vom Glück, im Auto zu sitzen und nichts zu tun Die Deutschkolumne von Hauke Goos",
-      "teaser": "Unser Kolumnist zeigt an Beispielen aus der Literatur, wie kraftvoll die deutsche Sprache sein kann. Folge 72: Moritz von Uslar erkundet die Provinz.",
-      "url": "https://www.spiegel.de/kultur/moritz-von-uslar-und-das-glueck-der-provinz-schoener-schreiben-die-deutschkolumne-a-b6bb4d8f-be3a-402f-aea4-fa637dabae87"
+      "title": "Film-Highlight »Petite Maman« Alles über meine Mutter",
+      "teaser": "Ein kleiner Film reißt das Herz weit auf: In Céline Sciammas »Petite Maman« dürfen eine Tochter und eine Mutter ein wunderbares Geheimnis teilen. Von Hannah Pilarczyk",
+      "url": "https://www.spiegel.de/kultur/kino/petite-maman-von-celine-sciamma-alles-ueber-meine-mutter-a-5064f541-f6ff-4f83-9488-2ad1ec2b7872",
+      "image_title": "Alles über meine Mutter - Alamode",
+      "author": "Hannah Pilarczyk"
     },
     {
-      "title": "Gute Nacht Ist nackt schlafen ungesund?",
-      "teaser": "Wer Sorgen hat oder einen schnarchenden Partner, kann wenig tun. Aber viele Faktoren, die einen erholsamen Schlaf fördern, lassen sich relativ leicht beeinflussen. Was Experten empfehlen. Von Jule Lutteroth",
-      "url": "https://www.spiegel.de/gesundheit/schlafen-was-experten-fuer-einen-erholsamen-schlaf-empfehlen-a-c7420025-fde1-429d-b6a0-44711a5fc220",
-      "image_title": "Ist nackt schlafen ungesund? - Duet Postscriptum / Stocksy United",
-      "author": "Jule Lutteroth"
-    },
-    {
-      "title": "Vögel, Fische und Flughunde Mehr als 130 Tiere sterben bei Brand im Kölner Zoo",
-      "teaser": "Bei einem Brand im Kölner Zoo sind am Dienstag Dutzende Tiere gestorben. Unter ihnen waren auch sehr seltene Arten aus dem Erhaltungszuchtprogramm.",
-      "url": "https://www.spiegel.de/panorama/koeln-mehr-als-130-tiere-sterben-nach-brand-in-zoo-a-e077a7fe-77f3-4b2d-baa6-55dee3c6b60a"
-    },
-    {
-      "title": "Kochen ohne Kohle Poutine – kanadische Pommes mit Bratensoße – für nur zwei Euro",
-      "teaser": "Heute kommt das kanadische Nationalgericht aus Quebec auf den Teller. Günstig und lecker! Eine Kolumne von Sebastian Maas",
-      "url": "https://www.spiegel.de/start/guenstiges-rezept-fuer-poutine-kanadische-pommes-mit-bratensosse-und-kaese-a-a4625584-05a7-463d-9e02-1ef96d02bd03",
-      "image_title": "Poutine – kanadische Pommes mit Bratensoße – für nur zwei Euro - Sebastian Maas / DER SPIEGEL"
+      "title": "800 Tiere beschlagnahmt, 100 Kadaver gefunden Privatzoobetreiber darf keine Tiere mehr halten",
+      "teaser": "Gemeinsam mit seinem Sohn wollte ein Mann im Landkreis Passau einen Privatzoo betreiben. Doch sie ließen zahlreiche Tiere verwahrlosen, viele starben – und sie klagten gegen Haltungsverbote. Ein Gericht wies diese nun ab.",
+      "url": "https://www.spiegel.de/panorama/justiz/landkreis-passau-800-tiere-beschlagnahmt-100-kadaver-gefunden-privatzoobetreiber-darf-keine-tiere-mehr-halten-a-28bb5b95-f642-4ccc-8125-85e1943bc185",
+      "image_title": "Privatzoobetreiber darf keine Tiere mehr halten - LRA Passau"
     },
     {
       "title": "Das Rätsel um Putins Luftkrieg",
@@ -290,65 +307,65 @@
       "url": "https://www.spiegel.de/politik/deutschland/ukraine-krieg-ukrainischer-botschafter-erklaert-schroeders-vermittlungsversuch-fuer-gescheitert-a-285b1f9d-21e1-4918-b6be-febf6deff55f"
     },
     {
+      "title": "Selenskyjs Flugverbotszonen-Appell an US-Kongress: »Ist das zu viel verlangt?«",
+      "url": "https://www.spiegel.de/ausland/ukraine-russland-krieg-wolodymyr-selenskyj-fordert-von-den-usa-schliessung-des-luftraums-a-6e7ee399-1d4a-4971-bca9-0cce625c8ef5",
+      "image_title": "Selenskyjs Flugverbotszonen-Appell an US-Kongress: »Ist das zu viel verlangt?« - Drew Angerer / Getty Images"
+    },
+    {
+      "title": "Krieg in der Ukraine: Russische Verluste und Flucht aus Mariupol – der Überblick",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-russlands-verluste-und-flucht-aus-mariupol-der-ueberblick-am-mittwochmittag-a-9efb3166-1007-494a-8f6f-f8a81b603dc5"
+    },
+    {
       "title": "Nach langer Haft und Hausarrest: Britisch-iranische Staatsbürgerin Zaghari-Ratcliffe darf Iran verlassen",
-      "url": "https://www.spiegel.de/ausland/britin-nazanin-zaghari-ratcliffe-darf-iran-nach-langer-haft-verlassen-a-ae3987b0-25f6-4604-a018-be22480a18c3",
-      "image_title": "Nach langer Haft und Hausarrest: Britisch-iranische Staatsbürgerin Zaghari-Ratcliffe darf Iran verlassen - Uncredited/ AP"
+      "url": "https://www.spiegel.de/ausland/britin-nazanin-zaghari-ratcliffe-darf-iran-nach-langer-haft-verlassen-a-ae3987b0-25f6-4604-a018-be22480a18c3"
     },
     {
-      "title": "Internationaler Strafgerichtshof: Chefankläger befragt Ukraine-Flüchtlinge",
-      "url": "https://www.spiegel.de/ausland/icc-chefanklaeger-spricht-mit-ukraine-fluechtlingen-a-f145c345-51f7-47bd-a651-3ff62e06506a"
+      "title": "Thailändische Urlaubsinsel Phuket: Mann muss nach Mord an Schweizer Touristin lebenslang in Haft",
+      "url": "https://www.spiegel.de/panorama/justiz/thailand-moerder-von-schweizer-touristin-muss-lebenslang-in-haft-a-c7d1eb10-8cea-494e-a52b-d3f0b37cf3a3",
+      "image_title": "Thailändische Urlaubsinsel Phuket: Mann muss nach Mord an Schweizer Touristin lebenslang in Haft - LILLIAN SUWANRUMPHA / AFP"
     },
     {
-      "title": "Coronapandemie in Ostasien: Südkorea meldet Rekord an Neuinfektionen",
-      "url": "https://www.spiegel.de/ausland/coronavirus-suedkorea-meldet-rekord-an-neuinfektionen-a-3079a4d6-e3f9-4f23-8d0f-97e9c24ba7ae"
+      "title": "Vögel, Fische und Flughunde: Mehr als 130 Tiere sterben bei Brand im Kölner Zoo",
+      "url": "https://www.spiegel.de/panorama/koeln-mehr-als-130-tiere-sterben-nach-brand-in-zoo-a-e077a7fe-77f3-4b2d-baa6-55dee3c6b60a"
     },
     {
       "title": "Lüneburg: Polizei schießt bewaffneten 87-Jährigen an",
-      "url": "https://www.spiegel.de/panorama/justiz/lueneburg-polizei-macht-87-jaehrigen-durch-schuesse-angriffsunfaehig-a-66e650ed-4c20-4211-8e06-64c7d76266ba",
-      "image_title": "Lüneburg: Polizei schießt bewaffneten 87-Jährigen an - Karl-Josef Hildenbrand/ DPA"
+      "url": "https://www.spiegel.de/panorama/justiz/lueneburg-polizei-macht-87-jaehrigen-durch-schuesse-angriffsunfaehig-a-66e650ed-4c20-4211-8e06-64c7d76266ba"
     },
     {
-      "title": "Hannover: Junge Frauen sollen auf 16-Jährige eingestochen haben",
-      "url": "https://www.spiegel.de/panorama/justiz/hannover-junge-frauen-sollen-auf-16-jaehrige-eingestochen-haben-a-f5c364fc-4081-4c78-a582-fb84eda19a0b"
-    },
-    {
-      "title": "Gegen Russen oder Ukrainer: Polizei in Deutschland registriert mutmaßlich politisch motivierte Straftaten",
-      "url": "https://www.spiegel.de/panorama/justiz/ukraine-krieg-polizei-in-deutschland-verzeichnet-hunderte-politisch-motivierte-straftaten-a-3fcc144d-e066-4740-85c4-60fa83e80fe0"
+      "title": "Reaktionen auf den Tod von Egidius Braun: »Der Grandseigneur des deutschen Fußballs«",
+      "url": "https://www.spiegel.de/sport/fussball/egidius-braun-der-ex-dfb-praesident-ist-tot-der-grandseigneur-des-deutschen-fussballs-a-3cd47605-2bbf-42e7-9c07-1df5f46117aa",
+      "image_title": "Reaktionen auf den Tod von Egidius Braun: »Der Grandseigneur des deutschen Fußballs« - Marius Becker / dpa"
     },
     {
       "title": "Tennis: Grand-Slam-Turniere beenden das Tiebreak-Chaos",
-      "url": "https://www.spiegel.de/sport/tennis/grand-slam-turniere-beenden-das-tiebreak-chaos-a-c09ebbf1-18fa-435c-9abb-8eb066f1116a",
-      "image_title": "Tennis: Grand-Slam-Turniere beenden das Tiebreak-Chaos - Laurence Griffiths / Getty Images"
+      "url": "https://www.spiegel.de/sport/tennis/grand-slam-turniere-beenden-das-tiebreak-chaos-a-c09ebbf1-18fa-435c-9abb-8eb066f1116a"
     },
     {
       "title": "Langjähriger DFB-Präsident: Egidius Braun ist tot",
       "url": "https://www.spiegel.de/sport/dfb-egidius-braun-ist-tot-a-73ba57c8-af52-447e-a9b5-7718deecd5a3"
     },
     {
-      "title": "United scheitert in der Champions League an Atlético: Zäher Abend, CR7 Von Cedric Voigt",
-      "url": "https://www.spiegel.de/sport/fussball/champions-league-wie-cristiano-ronaldo-fuer-manchester-united-ohne-torschuss-gegen-atletico-madrid-blieb-a-32434d3e-7bcc-435f-93ec-738a7c1c7f90"
+      "title": "Reaktion auf russische Attacken: Ukraine dockt an Europas Stromnetz an",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/ukraine-mit-europaeischem-stromnetz-verbunden-a-f22e8d44-aed8-4624-b04b-e9d81e4fabc8",
+      "image_title": "Reaktion auf russische Attacken: Ukraine dockt an Europas Stromnetz an - Serhii Hudak / imago images/Ukrinform"
     },
     {
-      "title": "Steuersenkungen und Zuschüsse: Kabinett beschließt Entlastungen für Verbraucher",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/hohe-energiepreise-kabinett-beschliesst-entlastungen-fuer-verbraucher-a-3eb72b70-d207-49a2-b244-98900327cac3",
-      "image_title": "Steuersenkungen und Zuschüsse: Kabinett beschließt Entlastungen für Verbraucher - Inna Talan / PantherMedia / IMAGO"
+      "title": "Coronaimpfstoffe: Bundesregierung sichert sich Produktionskapazitäten",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/corona-impfstoffe-bundesregierung-sichert-sich-produktionskapazitaeten-a-1ed87db1-50fd-4524-a207-505f4e35ab11"
     },
     {
-      "title": "Energiekosten: Koalition einigt sich auf Verdopplung des Heizkostenzuschusses",
-      "url": "https://www.spiegel.de/wirtschaft/heizkostenzuschuss-koalition-einigt-sich-auf-verdopplung-a-becfe18f-3920-450f-bf82-6451c9628223"
-    },
-    {
-      "title": "Kriegsfolgen: Russland und Ukraine liefern kaum noch Getreide",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/ukrainekrieg-kaum-mehr-getreideexporte-aus-russland-und-ukraine-a-8206fc83-3d30-4147-9932-6030da293aa3"
-    },
-    {
-      "title": "Kryptoexperte Michael Gronager: „Russland war ein sicherer Ort für Cyberverbrecher“ Das Interview führte Mark Böschen",
-      "url": "https://www.manager-magazin.de/finanzen/kryptoexperte-michael-gronager-russland-war-ein-sicherer-ort-fuer-cyberverbrecher-a-95aefd17-ea1c-4bb1-a1dc-bd8b6bf78f3a",
-      "image_title": "Kryptoexperte Michael Gronager: „Russland war ein sicherer Ort für Cyberverbrecher“ - Luke MacGregor / Bloomberg"
+      "title": "IWF-Prognose: Ukrainekrieg kann Weltwirtschaftsordnung fundamental ändern",
+      "url": "https://www.spiegel.de/wirtschaft/iwf-ukrainekrieg-kann-weltwirtschaftsordnung-fundamental-aendern-a-af821a51-222d-42d2-9038-d29180574e3d"
     },
     {
       "title": "Börse: Dax gewinnt vor Fed-Entscheid mehr als 4 Prozent",
-      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-mit-kursrally-vor-us-zinsentscheid-kursgewinne-an-der-boerse-in-china-a-9b078b0b-f965-497c-945a-4ec8e2b1b872"
+      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-mit-kursrally-vor-us-zinsentscheid-kursgewinne-an-der-boerse-in-china-a-9b078b0b-f965-497c-945a-4ec8e2b1b872",
+      "image_title": "Börse: Dax gewinnt vor Fed-Entscheid mehr als 4 Prozent - MAXIMILIAN VON LACHNER / EPA"
+    },
+    {
+      "title": "Kryptoexperte Michael Gronager: „Russland war ein sicherer Ort für Cyberverbrecher“ Das Interview führte Mark Böschen",
+      "url": "https://www.manager-magazin.de/finanzen/kryptoexperte-michael-gronager-russland-war-ein-sicherer-ort-fuer-cyberverbrecher-a-95aefd17-ea1c-4bb1-a1dc-bd8b6bf78f3a"
     },
     {
       "title": "Climate Fintech: Der Klimarechner von Doconomy Von Katharina Slodczyk",
@@ -386,12 +403,12 @@
       "image_title": "Jahresbericht des Presserats: Fast die Hälfte aller Rügen betrifft »Bild« und ihre Ableger - Michael Gstettenbauer / IMAGO"
     },
     {
-      "title": "Rechtsstreit Virologe gegen Magazin: Gericht verbietet »Cicero« einzelne Aussagen über Drosten",
-      "url": "https://www.spiegel.de/kultur/christian-drosten-gegen-cicero-gericht-verbietet-einzelne-aussagen-a-067dc731-a20f-44aa-ac45-2289a0f2ef5c"
+      "title": "Schöner schreiben: Vom Glück, im Auto zu sitzen und nichts zu tun Die Deutschkolumne von Hauke Goos 3 Min Zur Merkliste hinzufügen",
+      "url": "https://www.spiegel.de/kultur/moritz-von-uslar-und-das-glueck-der-provinz-schoener-schreiben-die-deutschkolumne-a-b6bb4d8f-be3a-402f-aea4-fa637dabae87"
     },
     {
-      "title": "US-Studie: Männer spielten 2021 in Hollywood doppelt so oft Hauptrollen wie Frauen",
-      "url": "https://www.spiegel.de/kultur/kino/studie-2021-doppelt-so-viele-maenner-wie-frauen-spielen-in-us-filmen-mit-a-0e9ff061-b777-460e-9fe7-20116292d446"
+      "title": "Rechtsstreit Virologe gegen Magazin: Gericht verbietet »Cicero« einzelne Aussagen über Drosten",
+      "url": "https://www.spiegel.de/kultur/christian-drosten-gegen-cicero-gericht-verbietet-einzelne-aussagen-a-067dc731-a20f-44aa-ac45-2289a0f2ef5c"
     },
     {
       "title": "»Frag die Arbeitsrechtler«: Steht mir eine Schulung zu, wenn ein neues Programm eingeführt wird? Von Lilli Stegner",
@@ -407,17 +424,17 @@
       "url": "https://www.spiegel.de/karriere/job-kinder-corona-keine-energie-aber-job-frust-wie-komme-ich-da-raus-a-816f4ebb-a1fe-4b5c-9179-fdbd4a42a9b6"
     },
     {
+      "title": "Kochen ohne Kohle: Poutine – kanadische Pommes mit Bratensoße – für nur zwei Euro Eine Kolumne von Sebastian Maas",
+      "url": "https://www.spiegel.de/start/guenstiges-rezept-fuer-poutine-kanadische-pommes-mit-bratensosse-und-kaese-a-a4625584-05a7-463d-9e02-1ef96d02bd03",
+      "image_title": "Kochen ohne Kohle: Poutine – kanadische Pommes mit Bratensoße – für nur zwei Euro - Sebastian Maas / DER SPIEGEL"
+    },
+    {
       "title": "Explodierende Energiepreise: Wie man jetzt Nebenkosten spart – und wer Hilfe vom Staat bekommt Von Anne Baum und Sebastian Maas",
-      "url": "https://www.spiegel.de/start/strom-und-heizkosten-wie-man-jetzt-nebenkosten-spart-und-wer-hilfe-vom-staat-bekommt-a-aaf93c71-0192-4b7e-a1e2-31e70ae46451",
-      "image_title": "Explodierende Energiepreise: Wie man jetzt Nebenkosten spart – und wer Hilfe vom Staat bekommt - We Are / Digital Vision / Getty Images"
+      "url": "https://www.spiegel.de/start/strom-und-heizkosten-wie-man-jetzt-nebenkosten-spart-und-wer-hilfe-vom-staat-bekommt-a-aaf93c71-0192-4b7e-a1e2-31e70ae46451"
     },
     {
       "title": "Mehr als nur Erasmus: Welche Stipendien es fürs Auslandsstudium gibt – und wie man sie bekommt Von Caroline Becker",
       "url": "https://www.spiegel.de/start/stipendium-fuers-auslandssemester-welche-foerdermoeglichkeiten-es-gibt-a-d18f4baf-0b57-49fe-88bb-19611cbb1e52"
-    },
-    {
-      "title": "Long Covid im Studium: »Nach einem Crash hilft nur liegen und warten« Aufgezeichnet von Ruth Eisenreich",
-      "url": "https://www.spiegel.de/start/long-covid-junge-menschen-ueber-die-auswirkungen-der-krankheit-auf-studium-und-leben-a-f06e7a84-dd12-4426-8848-dbbc7dfff1da"
     },
     {
       "title": "Putin und die Oligarchen: Frankensteins Monster des KGB Von Martin Pfaffenzeller",
