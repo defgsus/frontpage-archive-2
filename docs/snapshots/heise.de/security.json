@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-17T08:24:04",
+  "timestamp": "2022-03-17T09:19:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.36867d86d582d43b43a3",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.6a574e58f097158cdf7e",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Chrome",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schwachstelle-bedroht-Google-Chrome-6585231.html"
+    },
     {
       "title": "pfSense-Firewall",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Schadcode-durch-pfSense-Firewall-schieben-6577971.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Schlupfloecher-in-Dell-BIOS-6550647.html"
     },
     {
-      "title": "IBM Spectrum Protect",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-IBM-Spectrum-Protect-Fremdzugriff-auf-Datenbanken-moeglich-6548621.html"
+      "title": "Sicherheitsupdate: Kritische Schwachstelle bedroht Google Chrome",
+      "teaser": "Angreifer könnten Computer attackieren, auf denen der Webbrowser Chrome installiert ist.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schwachstelle-bedroht-Google-Chrome-6585231.html"
     },
     {
       "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
@@ -147,11 +152,6 @@
       "url": "https://www.heise.de/news/Web-Verschluessleung-Russland-stellt-nun-eigene-TLS-Zertifikate-aus-6546463.html"
     },
     {
-      "title": "CPU-Sicherheitslücke: Spectre V2 ist auch bei Intel und ARM zurück",
-      "teaser": "Bisherige Schutzmechanismen von Intel-Prozessoren und ARM-Kernen gegen Seitenkanalangriffe vom Typ Spectre V2 reichen nicht aus.",
-      "url": "https://www.heise.de/news/Spectre-V2-ist-auch-bei-ARM-und-Intel-zurueck-Angriff-auf-Branch-History-Buffer-6545263.html"
-    },
-    {
       "title": "secIT by Heise 2022",
       "teaser": "Wie schützen Sie sich vor Hackerangriffen? Und was muss man eigentlich tun, wenn sich bereits Malware im Netzwerk befindet und sich von System zu System weiter hangelt? Diese und viele weitere Fragen klären die von c't, heise Security und iX ausgewählten Referenten auf der secIT by Heise 2022 am 30. und 31. März in Hannover.",
       "url": "https://sec-it.heise.de/?wt_mc=intern.events.ho.konf_secit0322.hs_teaser.link.link"
@@ -173,6 +173,11 @@
       "image_title": "Virus,Background,Against,The,Evening,Electricity,Pylon,Silhouette"
     },
     {
+      "title": "Re: THOR Lite fehlt eine Datei → Update scheitert",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-THOR-Lite-fehlt-eine-Datei-Update-scheitert/posting-40695974/show/"
+    },
+    {
       "title": "Re: Bitte was?",
       "teaser": "Forum: Provokante Analyse: \"PGP ist schlecht und sollte verschwinden\"",
       "url": "https://www.heise.de/forum/heise-Security/Kommentare/Provokante-Analyse-PGP-ist-schlecht-und-sollte-verschwinden/Re-Bitte-was/posting-40685701/show/"
@@ -181,11 +186,6 @@
       "title": "Re: Desinfec't im Netzwerk (PXE-Boot) nicht verwendbar",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-im-Netzwerk-PXE-Boot-nicht-verwendbar/posting-40672062/show/"
-    },
-    {
-      "title": "Re: Desinfec't 2021: Kein update möglich?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-2021-Kein-update-moeglich/posting-40670421/show/"
     }
   ]
 }
