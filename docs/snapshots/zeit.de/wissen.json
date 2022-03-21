@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-21T02:52:29",
+  "timestamp": "2022-03-21T03:27:49",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -34,7 +34,463 @@
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.ac931398b3d53e7c5f76.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.240dae4fd39d71fc9f86.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/images.25db43c193e0d2dee939.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/promise.d3aeb3fa22c2d515fcca.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/site.b8561b4852fbac10bf79.js",
+      "id": null,
+      "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Coronavirus: Gesundheitsämter melden dritthöchste bisher registrierte Inzidenz",
+      "teaser": "Nach Recherchen von ZEIT ONLINE haben die Landkreise innerhalb eines Tages 112.398 Neuinfektionen und 31 Tote gemeldet. Die Inzidenz sinkt, bleibt aber auf hohem Niveau.",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-dritthoechste-inzidenz",
+      "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-bild-2/cinema__980x420"
+    },
+    {
+      "title": "Lebensfreude: Haltet die Welt an – ich will aussteigen",
+      "teaser": "Manchmal dreht sich die Welt zu schnell. Es ist schwer, mit dem Drang nach dem Höher und Schneller mitzuhalten. Viele reagieren darauf, indem sie auf die Bremse treten.",
+      "url": "https://www.zeit.de/zeit-wissen/2022/02/lebensfreude-tipps-innehalten-stress-verantwortung",
+      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/haltet-die-welt-an-ich-will-aussteigen-bild-5/wide__822x462",
+      "image_title": "Lebensfreude: Haltet die Welt an – ich will aussteigen"
+    },
+    {
+      "title": "Spanien: War die spanische Inquisition wirklich besonders grausam?",
+      "teaser": "Ungläubige wurden verfolgt, Geständnisse durch Folter erpresst: Die Spanische Inquisition gilt als gnadenlos. Doch in den Archiven zeigt sich ein anderes Bild.",
+      "url": "https://www.zeit.de/2022/12/spanische-inquisition-unglaeubige-verfolgung-spanien",
+      "image_url": "https://img.zeit.de/wissen/2022-03/spanische-inquisition-unglaeubige-verfolgung-spanien-bild/wide__822x462",
+      "image_title": "Spanien: War die spanische Inquisition wirklich besonders grausam?"
+    },
+    {
+      "title": "Corona-Zahlen in Deutschland: Die Öffnungen treffen auf neue Höchstwerte",
+      "teaser": "Nie zuvor in der Pandemie haben sich so viele Menschen angesteckt wie aktuell und trotzdem sollen Beschränkungen fallen. Was ist zu erwarten? Das Wichtigste zur Lage",
+      "url": "https://www.zeit.de/wissen/aktuelle-corona-zahlen-karte-deutschland-landkreise",
+      "image_url": "https://img.zeit.de/wissen/2022-03/aktuelle-corona-zahlen-karte-deutschland-landkreise-bild/cinema__980x420"
+    },
+    {
+      "title": "Angriff auf die Ukraine: Kampf um die Atomkraftwerke",
+      "teaser": "Zwei Atommeiler hat Russland schon erobert, bald könnten weitere folgen. Wie gut sind sie vor Angriffen geschützt? Und wie groß ist die Gefahr einer Reaktorkatastrophe?",
+      "url": "https://www.zeit.de/wissen/2022-03/russland-ukraine-krieg-atomkraftwerk-sicherheit-super-gau",
+      "image_url": "https://img.zeit.de/wissen/2022-03/russland-ukraine-krieg-atomkraftwerk-sicherheit-super/wide__822x462",
+      "image_title": "Angriff auf die Ukraine: Kampf um die Atomkraftwerke"
+    },
+    {
+      "title": "Wissenspodcast: Hingehört! Was uns die Vögel erzählen",
+      "teaser": "Es zwitschert wieder von den Bäumen und Hausdächern. Aber: Wer singt da eigentlich? Haben sich Amsel und Rotkehlchen was zu sagen? Und was können wir von Vögeln lernen?",
+      "url": "https://www.zeit.de/wissen/2022-03/voegel-kommunikation-verhalten-wissen-podcast",
+      "image_url": "https://img.zeit.de/wissen/2022-03/voegel-kommunikation-verhalten-wissen-podcast-bild/wide__822x462",
+      "image_title": "Wissenspodcast: Hingehört! Was uns die Vögel erzählen"
+    },
+    {
+      "title": "Coronavirus: RKI meldet weniger Corona-Infektionen",
+      "teaser": "Die Gesundheitsämter haben nach Angaben des Robert Koch-Instituts 131.792 neue Covid-Fälle registriert – ein Rückgang im Wochenvergleich. Auch die Inzidenz ist gesunken.",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-inzidenz-hoechstwert",
+      "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-inzidenz-hoechstwert-bild/wide__822x462",
+      "image_title": "Coronavirus: RKI meldet weniger Corona-Infektionen"
+    },
+    {
+      "title": "Umweltbundesamt: Für den Klimaschutz ist die Pandemie vorbei",
+      "teaser": "Kurz sah es so aus, als sei die Regierung auf Kurs bei den CO₂-Emissionen. Neue Zahlen widersprechen: Beim Wohnen und im Verkehr verfehlt Deutschland seine Klimaziele.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-03/umweltbundesamt-verfehlt-klimaziele-corona-emissionen-klimaschutzgesetz",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/teaserbild-emissionen-ziele/square__460x460",
+      "image_title": "Umweltbundesamt: Für den Klimaschutz ist die Pandemie vorbei"
+    },
+    {
+      "title": "Dirk Messner: \"Die gegenwärtige Krise kann ungeahnte Kräfte freisetzen\"",
+      "teaser": "Klimaziele? Verfehlt. Die Abkehr von russischem Gas könnte das ändern, sagt Bundesumweltamtpräsident Dirk Messner. Und Energiesparen. Ein Klimageld könne Kosten abfedern.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-03/dirk-messner-klimaziele-russisches-gas-energiesparen-interview",
+      "image_url": "https://img.zeit.de/wissen/2022-03/dirk-messner-klimaziele-russisches-gas-energiesparen-interview-bild/square__460x460",
+      "image_title": "Dirk Messner: \"Die gegenwärtige Krise kann ungeahnte Kräfte freisetzen\""
+    },
+    {
+      "title": "Wetter: Experten messen Rekordtemperaturen in der Antarktis",
+      "teaser": "Um diese Jahreszeit sinken die Temperaturen am Südpol normalerweise unter null. Dieses Jahr aber liegen die Werte mehr als 30 Grad Celsius höher als üblich.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-03/antarktis-hohe-temperaturen-rekord",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/antarktis-hohe-temperaturen-bild/wide__822x462",
+      "image_title": "Wetter: Experten messen Rekordtemperaturen in der Antarktis"
+    },
+    {
+      "title": "Nationalsozialismus: Adler unterm Hakenkreuz",
+      "teaser": "Die Nationalsozialisten vereinnahmten in ihrem Aufstieg die preußische Tradition für sich. Die alten Eliten witterten ihre Chance und boten sich den neuen Machthabern an.",
+      "url": "https://www.zeit.de/zeit-geschichte/2022/01/nationalsozialismus-preussische-tradition-alte-eliten",
+      "image_url": "https://img.zeit.de/wissen/geschichte/2022-03/nationalsozialismus-preussische-tradition-papen/wide__822x462",
+      "image_title": "Nationalsozialismus: Adler unterm Hakenkreuz"
+    },
+    {
+      "title": "Wetter: Deutschland startet mit viel Sonne in den Frühling",
+      "teaser": "Zwei Hochdruckgebiete bringen Deutschland pünktlich zum kalendarischen Frühlingsanfang viel Sonnenschein und Temperaturen um die 20 Grad. Nachts bleibt es kalt.",
+      "url": "https://www.zeit.de/wissen/2022-03/fruehlingsbeginn-weterhoch-peter-oliver",
+      "image_url": "https://img.zeit.de/wissen/2022-03/fruehlingsbeginn-wetterhoch/cinema__980x420",
+      "image_title": "Wetter: Deutschland startet mit viel Sonne in den Frühling"
+    },
+    {
+      "title": "Ukraine im Zweiten Weltkrieg: \"Der erschütterndste Eindruck von Elend\"",
+      "teaser": "Putins Krieg gegen die Ukraine tobt an den Orten von Hitlers Vernichtungsfeldzug gegen die Sowjetunion. Der Offizier Fritz Hartnagel schrieb dazu Briefe an Sophie Scholl.",
+      "url": "https://www.zeit.de/2022/12/ukraine-zweiter-weltkrieg-sophie-scholl-fritz-hartnagel",
+      "image_url": "https://img.zeit.de/2022/12/der-erschuetterndste-eindruck-von-elend-bild-1/wide__822x462",
+      "image_title": "Ukraine im Zweiten Weltkrieg: \"Der erschütterndste Eindruck von Elend\""
+    },
+    {
+      "title": "Hitze: Können uns Pflanzen beschützen?",
+      "teaser": "Die Idee, Pflanzen an Fassaden wachsen zu lassen, ist aktueller denn je. Denn grüne Wände und Dächer wirken vielfach positiv auf Stadtklima und Gesundheit.",
+      "url": "https://www.zeit.de/zeit-wissen/2022/02/hitze-pflanzen-schutz-klimawandel-staedte",
+      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/3-koennen-uns-pflanzen-beschuetzen-bild-1/wide__822x462",
+      "image_title": "Hitze: Können uns Pflanzen beschützen?"
+    },
+    {
+      "title": "Coronavirus: Sieben-Tage-Inzidenz steigt auf 1.735",
+      "teaser": "Die Gesundheitsämter haben dem RKI 260.239 Neuinfektionen binnen eines Tages gemeldet, gut 23.000 mehr als eine Woche zuvor. Außerdem wurden 221 Todesfälle registriert.",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-hoechstwert",
+      "image_url": "https://img.zeit.de/wissen/2022-03/rki-uebertragung-omikron-bild/wide__822x462",
+      "image_title": "Coronavirus: Sieben-Tage-Inzidenz steigt auf 1.735"
+    },
+    {
+      "title": "Freiheit der Wissenschaft: \"Wenn wir nichts ändern, hat unsere Demokratie ein Problem\"",
+      "teaser": "Es ist genug! Weil sie ihr Wissen teilen – ob in Pandemie oder Klimakrise – werden Forschende zur Zielscheibe. 31 prominente Stimmen gegen Hass und für die Wissenschaft",
+      "url": "https://www.zeit.de/wissen/2021-12/freiheit-wissenschaft-bedroht-corona-klima-medien",
+      "image_url": "https://img.zeit.de/wissen/2021-12/freiheit-wissenschaft-bedroht-corona-klima-medien-teaser/square__460x460",
+      "image_title": "Freiheit der Wissenschaft: \"Wenn wir nichts ändern, hat unsere Demokratie ein Problem\""
+    },
+    {
+      "title": "Ursprung des Coronavirus: Alle Spuren führen zum Markt in Wuhan",
+      "teaser": "Wo steckte sich die erste Person mit Corona an? Neue Studien können erklären, dass das Virus wohl auf dem Huanan-Markt vom Tier auf den Menschen sprang – gleich zweimal.",
+      "url": "https://www.zeit.de/wissen/2022-02/coronavirus-wuhan-ursprung-studie-huanan-markt",
+      "image_url": "https://img.zeit.de/wissen/2022-02/coronavirus-wuhan-ursprung-studie-huanan-markt-pandemie/square__460x460",
+      "image_title": "Ursprung des Coronavirus: Alle Spuren führen zum Markt in Wuhan"
+    },
+    {
+      "title": "Coronavirus: RKI meldet fast 300.000 Neuinfektionen",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-hoechstwert-vierter-tag"
+    },
+    {
+      "title": "Coronavirus: Bundesweite Inzidenz steigt erstmals über 1.600",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-anstieg-inzidenz-ueber-1600"
+    },
+    {
+      "title": "Wetter: Experten messen Rekordtemperaturen in der Antarktis",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-03/antarktis-hohe-temperaturen-rekord"
+    },
+    {
+      "title": "Ukraine: Die falschen Ausführungen des Hobby-Historikers",
+      "url": "https://www.zeit.de/2022/11/ukraine-geschichte-unabhaengigkeit-staatliche-selbstbestimmung"
+    },
+    {
+      "title": "Kriegserinnerungen : Plötzlich sind die Bilder wieder da",
+      "url": "https://www.zeit.de/2022/11/kriegserinnerungen-russland-ukraine-krieg-weltkrieg-trauma"
+    },
+    {
+      "title": "Corona-Pandemie • Das Wichtigste aus Z+: Warum die Corona-Zahlen wieder steigen",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-pandemie-inzidenz-anstieg-massnahmen"
+    },
+    {
+      "title": "Coronavirus: Bundesweite Inzidenz steigt erstmals über 1.600",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-anstieg-inzidenz-ueber-1600"
+    },
+    {
+      "title": "Coronavirus: RKI meldet höchste Sieben-Tage-Inzidenz seit Pandemiebeginn",
+      "url": "https://www.zeit.de/gesundheit/2022-03/coronavirus-gesundheitsaemter-inziden-hoechstwert"
+    },
+    {
+      "title": "Corona-Pandemie • Das Wichtigste aus Z+: Warum die Corona-Zahlen wieder steigen",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-pandemie-inzidenz-anstieg-massnahmen"
+    },
+    {
+      "title": "Corona-Pandemie • Das Wichtigste aus Z+: Warum die Corona-Zahlen wieder steigen",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-pandemie-inzidenz-anstieg-massnahmen",
+      "image_url": "https://img.zeit.de/wissen/2022-03/corona-pandemie-inzidenz-anstieg-massnahmen-bild/wide__822x462",
+      "image_title": "Corona-Pandemie • Das Wichtigste aus Z+: Warum die Corona-Zahlen wieder steigen"
+    },
+    {
+      "title": "Ukraine: Die falschen Ausführungen des Hobby-Historikers",
+      "url": "https://www.zeit.de/2022/11/ukraine-geschichte-unabhaengigkeit-staatliche-selbstbestimmung",
+      "image_url": "https://img.zeit.de/2022/11/der-lange-weg-zur-unabhaengigkeit-bild-2/wide__822x462",
+      "image_title": "Ukraine: Die falschen Ausführungen des Hobby-Historikers"
+    },
+    {
+      "title": "Coronavirus: Bundesweite Inzidenz steigt erstmals über 1.600",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-anstieg-inzidenz-ueber-1600",
+      "image_url": "https://img.zeit.de/gesundheit/2022-03/coronavirus-deutschland-rki/wide__822x462",
+      "image_title": "Coronavirus: Bundesweite Inzidenz steigt erstmals über 1.600"
+    },
+    {
+      "title": "Coronavirus: RKI meldet fast 300.000 Neuinfektionen",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-hoechstwert-vierter-tag"
+    },
+    {
+      "title": "Kriegserinnerungen : Plötzlich sind die Bilder wieder da",
+      "url": "https://www.zeit.de/2022/11/kriegserinnerungen-russland-ukraine-krieg-weltkrieg-trauma"
+    },
+    {
+      "title": "Coronavirus: RKI meldet höchste Sieben-Tage-Inzidenz seit Pandemiebeginn",
+      "url": "https://www.zeit.de/gesundheit/2022-03/coronavirus-gesundheitsaemter-inziden-hoechstwert"
+    },
+    {
+      "title": "Corona-Pandemie: Karl Lauterbach und Lothar Wieler zur Corona-Lage",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-pandemie-regeln-karl-lauterbach-livestream"
+    },
+    {
+      "title": "Corona-Pandemie • Das Wichtigste aus Z+: Warum die Corona-Zahlen wieder steigen",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-pandemie-inzidenz-anstieg-massnahmen"
+    },
+    {
+      "title": "Corona-Pandemie • Das Wichtigste aus Z+: Warum die Corona-Zahlen wieder steigen",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-pandemie-inzidenz-anstieg-massnahmen"
+    },
+    {
+      "title": "Grönländischer Eisschild: Das dunkle Eis",
+      "teaser": "Grönland schmilzt und steuert auf einen Kipppunkt zu. Auch, weil das Eis längst nicht mehr weiß ist. Was ist die Ursache? Eine Expedition in die dunkle Zone der Arktis",
+      "url": "https://www.zeit.de/wissen/umwelt/2021-12/groenland-eisschild-schmelzen-erderwaermung-meeresspiegel",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2021-12/groenland-eisschild-schmelzen-erderwaermung-meeresspiegel-bild-8/wide__822x462",
+      "image_title": "Grönländischer Eisschild: Das dunkle Eis"
+    },
+    {
+      "title": "Tourismus in Grönland: Das Mahnmal",
+      "teaser": "Im Winter locken in Grönland Polarlichter und Hundeschlittentouren, im Sommer ein Eisfjord. Die Touristen und der Klimawandel, kann das gut gehen?",
+      "url": "https://www.zeit.de/wissen/umwelt/2021-12/groenland-tourismus-klimawandel-eis-gletscher",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2021-12/groenland-tourismus-klimawandel-eis-gletscher-bild-3/wide__822x462",
+      "image_title": "Tourismus in Grönland: Das Mahnmal"
+    },
+    {
+      "title": "Geschichtspodcast : Die Totenreise Friedrichs des Großen",
+      "teaser": "Still und leise will der Alte Fritz begraben werden. Doch seine Gebeine geraten 200 Jahre auf Irrfahrt durch Deutschland. Wird der Preußenkönig die letzte Ruhe finden?",
+      "url": "https://www.zeit.de/wissen/2022-03/preussen-friedrich-der-grosse-geschichte-podcast",
+      "image_url": "https://img.zeit.de/wissen/geschichte/2022-03/preussen-friedrich-der-grosse-2/square-padded",
+      "image_title": "Geschichtspodcast : Die Totenreise Friedrichs des Großen"
+    },
+    {
+      "title": "Psychologie: Kann auch ein Erwachsener Urvertrauen lernen?",
+      "teaser": "Es macht das Leben leichter und wird schon als Kind ausgebildet: Urvertrauen ist eine riskante Vorleistung, die Mut erfordert und bald belohnt, bald enttäuscht wird.",
+      "url": "https://www.zeit.de/zeit-wissen/2021/05/vertrauen-psychologie-erwachsenenalter-kindheit-seele-gesundheit",
+      "image_url": "https://img.zeit.de/wissen/2022-03/vertrauen-psychologie-erwachsenenalter-kindheit-seele-gesundheit-bild/wide__822x462",
+      "image_title": "Psychologie: Kann auch ein Erwachsener Urvertrauen lernen?"
+    },
+    {
+      "title": "Ukraine: Was ist jetzt mit Tschernobyl?",
+      "teaser": "Als russische Truppen das havarierte Atomkraftwerk angriffen, schlugen Strahlenmessgeräte aus. Wie ernst ist die Lage? Ein neuer Super-GAU steht zumindest nicht bevor.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-02/ukraine-tschernobyl-atomkraftwerk-strahlung-gefahr",
+      "image_url": "https://img.zeit.de/wissen/2022-02/ukraine-tschernobyl-atomkraftwerk-strahlung-gefahr-bild/wide__822x462",
+      "image_title": "Ukraine: Was ist jetzt mit Tschernobyl?"
+    },
+    {
+      "title": "Georg Wilhelm Friedrich Hegel: Ein Champagner zum Jahrestag der Revolution",
+      "teaser": "Als der Philosoph Hegel 1820 seine \"Philosophie des Rechts\" veröffentlicht, macht ihn das für viele zum preußischen Staatsphilosophen – ein gründliches Missverständnis.",
+      "url": "https://www.zeit.de/zeit-geschichte/2022/01/georg-wilhelm-friedrich-hegel-preussen",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/georg-wilhelm-friedrich-hegel/cinema__980x420",
+      "image_title": "Georg Wilhelm Friedrich Hegel: Ein Champagner zum Jahrestag der Revolution"
+    },
+    {
+      "title": "Tierwohl: Glückliche Schweine grunzen anders",
+      "teaser": "Ob ein Schwein glücklich ist, verrät sein Grunzen. Forscherinnen haben mit diesem Wissen einen Algorithmus entwickelt, der die Haltung von Nutztieren verbessern könnte.",
+      "url": "https://www.zeit.de/2022/12/schweine-grunzen-laute-gluecklich-stall-massentierhaltung",
+      "image_url": "https://img.zeit.de/wissen/2022-03/schweine-grunzen-laute-gluecklich-stall-massentierhaltung-bild/wide__822x462",
+      "image_title": "Tierwohl: Glückliche Schweine grunzen anders"
+    },
+    {
+      "title": "Wissenschaft und der Ukraine-Krieg: \"Es ist absurd und inakzeptabel, uns so einzuschränken\"",
+      "teaser": "Eisener Vorhang im Labor: Die deutsche Wissenschaft bricht derzeit alle offiziellen Verbindungen nach Russland ab. Was bedeutet das für Forscherinnen und Forscher?",
+      "url": "https://www.zeit.de/2022/12/wissenschaft-ukraine-krieg-deutschland-russland-forschung",
+      "image_url": "https://img.zeit.de/2022/12/es-ist-absurd-und-inakzeptabel-uns-so-einzuschraenken-bild-1/wide__822x462",
+      "image_title": "Wissenschaft und der Ukraine-Krieg: \"Es ist absurd und inakzeptabel, uns so einzuschränken\""
+    },
+    {
+      "title": "Matthias Maurer: Der Spätberufene",
+      "teaser": "Wenn Matthias Maurer am Sonntag ins All fliegt, ist er Astronaut, Influencer und Touristenführer zugleich. Dabei galt er schon als aussortiert. Wie hat er das geschafft?",
+      "url": "https://www.zeit.de/wissen/2021-10/matthias-maurer-astronaut-iss-raumfahrt-nasa-spacex",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2021-10/matthias-maurer-astronaut-iss-raumfahrt-nasa-spacex-2/wide__822x462",
+      "image_title": "Matthias Maurer: Der Spätberufene"
+    },
+    {
+      "title": "Astronomie: Jeder Tag ein Weltuntergang",
+      "teaser": "Brennstoff alle, Kollaps, Explosion: Auf den ersten Blick wirken Supernovae fast schon öde. Doch längst ist klar: Der Tod von Sternen ist manchmal sehr exotisch.",
+      "url": "https://www.zeit.de/wissen/2021-09/astronomie-supernova-neuer-typ-entdeckt-weltraum-explosion",
+      "image_url": "https://img.zeit.de/wissen/2021-09/astronomie-supernova-neuer-typ-entdeckt-weltraum-explosion-bild-animation/wide__822x462",
+      "image_title": "Astronomie: Jeder Tag ein Weltuntergang"
+    },
+    {
+      "title": "Anna Frebel: \"Wir leben in einer außergewöhnlichen Phase\"",
+      "teaser": "Die Astronomin Anna Frebel erforscht die Geschichte des Weltalls. Ein Gespräch über den entscheidenden Zufall, der Leben möglich machte – und wann alles enden könnte",
+      "url": "https://www.zeit.de/zeit-magazin/2021/19/anna-frebel-astronomie-weltraumforschung-sterne-universum-physik"
+    },
+    {
+      "title": "Wissenspodcast: Muss es wehtun?",
+      "teaser": "Wenn ein Mensch geboren wird, hat ein anderer große Schmerzen. Aber muss das sein? Eine Hebammenwissenschaftlerin erklärt, warum Schmerzen bei der Geburt wichtig sind.",
+      "url": "https://www.zeit.de/wissen/2022-02/geburt-schmerzen-hebammen-wissen-podcast",
+      "image_url": "https://img.zeit.de/wissen/2017-12/woher-weisst-du-das-teaserbild/square-padded__b6e2e1",
+      "image_title": "Wissenspodcast: Muss es wehtun?"
+    },
+    {
+      "title": "Klimakrise: Wie Feuer unsere Wälder schützen kann",
+      "teaser": "Nicht jeder Waldbrand ist eine Katastrophe. Doch gegen immer heißere Feuer sind Löschflugzeuge keine Lösung, erklärt Feuerökologe Johann Goldammer.",
+      "url": "https://www.zeit.de/video/2021-10/6276472005001/klimakrise-wie-feuer-unsere-waelder-schuetzen-kann",
+      "image_url": "https://img.zeit.de/video/2021-10/6276472005001-still/square__460x460",
+      "image_title": "Klimakrise: Wie Feuer unsere Wälder schützen kann"
+    },
+    {
+      "title": "Klimawandel und Technik: Wie retten wir den Planeten?",
+      "teaser": "Sie ist Tiefseeforscherin, er Raumfahrtunternehmer: Antje Boetius und Marco Fuchs diskutieren über gedüngte Ozeane, Sonnenschirme im All und einen Umzug zum Mars.",
+      "url": "https://www.zeit.de/wissen/umwelt/2021-08/klimawandel-technik-raumfahrt-antje-boetius-meeresbiologin-marco-fuchs",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2021-08/klimawandel-technik-raumfahrt-antje-boetius-meeresbiologin-marco-fuchs-teaser-1/square__460x460",
+      "image_title": "Klimawandel und Technik: Wie retten wir den Planeten?"
+    },
+    {
+      "title": "Basilosaurus: Schädel von Urzeitwal in peruanischer Wüste entdeckt",
+      "teaser": "Der Basilosaurus war Forschern zufolge das größte Raubtier seiner Zeit. Vor 36 Millionen Jahren bewohnte er ein Meer, an dessen Stelle heute eine Wüste ist.",
+      "url": "https://www.zeit.de/wissen/2022-03/basilosaurus-urzeit-wal-fossil-peru",
+      "image_url": "https://img.zeit.de/wissen/2022-03/basilosaurus-urzeit-wal-peru/cinema__980x420",
+      "image_title": "Basilosaurus: Schädel von Urzeitwal in peruanischer Wüste entdeckt"
+    },
+    {
+      "title": "Klimawandel: Marineparkbehörde meldet neue Korallenbleiche am Great Barrier Reef",
+      "teaser": "Wegen überdurchschnittlich warmer Wassertemperaturen verblassen Steinkorallen im australischen Great Barrier Reef erneut. An manchen Stellen sind sie bereits abgestorben.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-03/klimawandel-great-barrier-reef-korallenbleiche",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/klimawandel-great-barrier-reef/wide__822x462",
+      "image_title": "Klimawandel: Marineparkbehörde meldet neue Korallenbleiche am Great Barrier Reef"
+    },
+    {
+      "title": "Coronavirus: Sieben-Tage-Inzidenz überschreitet Schwelle von 1.700",
+      "teaser": "Das RKI hat 226 Todesfälle und 297.845 Neuinfektionen innerhalb eines Tages verzeichnet. Die Inzidenz liegt bei 1.706.",
+      "url": "https://www.zeit.de/wissen/2022-03/rki-uebertragung-omikron-ba2",
+      "image_url": "https://img.zeit.de/wissen/2022-03/uebertragung-omikron-ba2-bild/cinema__980x420",
+      "image_title": "Coronavirus: Sieben-Tage-Inzidenz überschreitet Schwelle von 1.700"
+    },
+    {
+      "title": "Umweltverschmutzung: EU-Länder einigen sich auf neue Grenzwerte für bestimmte Chemikalien",
+      "teaser": "Die Europäische Union will die Freisetzung bestimmter Schadstoffe aus Abfall auf ein Minimum reduzieren. Zudem soll die Batterieproduktion nachhaltiger werden.",
+      "url": "https://www.zeit.de/politik/ausland/2022-03/umweltverschmutzung-eu-kommission-grenzwerte-chemikalien",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-03/umweltverschmutzung-eu-kommission-grenzwerte-chemikalien-bild/wide__822x462",
+      "image_title": "Umweltverschmutzung: EU-Länder einigen sich auf neue Grenzwerte für bestimmte Chemikalien"
+    },
+    {
+      "title": "Letzte Generation: \"Friedliche Demos werden auf Dauer nicht reichen\"",
+      "teaser": "Die Straßenblockaden treffen die Falschen, sagt Protestforscher Dieter Rucht. Um Erfolg zu haben, müsse die Klimabewegung neue Formen des zivilen Ungehorsams finden.",
+      "url": "https://www.zeit.de/green/2022-02/letzte-generation-klimaaktivismus-dieter-rucht",
+      "image_url": "https://img.zeit.de/green/2022-02/klimabewegung/wide__822x462",
+      "image_title": "Letzte Generation: \"Friedliche Demos werden auf Dauer nicht reichen\""
+    },
+    {
+      "title": "BMW i Vision Circular: Ein Auto, das vollständig recyclebar ist",
+      "teaser": "Sitze zerfallen auf Knopfdruck, Klebstoffe gibt es nicht mehr – und Mais und Reis ersetzen Leder. BMW arbeitet am ersten wiederverwertbaren Auto. Wird es auch fahren?",
+      "url": "https://www.zeit.de/2022/12/bmw-i-vision-circular-recycling-nachhaltigkeit-energiewende",
+      "image_url": "https://img.zeit.de/2022/12/der-lack-ist-ab-bild-1/wide__822x462",
+      "image_title": "BMW i Vision Circular: Ein Auto, das vollständig recyclebar ist"
+    },
+    {
+      "title": "Einzelkinder: Keine kleinen Kaiser",
+      "teaser": "Einzelkinder seien besonders egoistisch, heißt es oft. Steckt in dem Vorurteil auch ein wahrer Kern? Wissenschaftlerinnen weltweit haben das in Studien widerlegt.",
+      "url": "https://www.zeit.de/2022/12/einzelkinder-verwoehnt-mythos-psychologie-china",
+      "image_url": "https://img.zeit.de/wissen/2022-03/einzelkinder-verwoehnt-mythos-psychologie/cinema__980x420",
+      "image_title": "Einzelkinder: Keine kleinen Kaiser"
+    },
+    {
+      "title": "Corona-Lockerungen: Was zu frühe Lockerungen bedeuten",
+      "teaser": "Die Infektionszahlen sind so hoch wie nie, trotzdem sollen am 20. März zahlreiche Maßnahmen fallen. Was werden die Folgen sein?",
+      "url": "https://www.zeit.de/wissen/2022-03/corona-lockerungen-massnahmen-inzidenz-infektionsschutz",
+      "image_url": "https://img.zeit.de/wissen/2022-03/corona-lockerungen-massnahmen-inzidenz-infektionsschutz-bild/wide__822x462",
+      "image_title": "Corona-Lockerungen: Was zu frühe Lockerungen bedeuten"
+    },
+    {
+      "title": "Iwan Iljin: Der faschistische Denker, der Putins Weltbild inspiriert",
+      "teaser": "In der Schweiz verherrlichte Iwan Iljin Russland, die Kirche und den Faschismus. Seine Idee von Macht in der Hand eines starken Führers fasziniert heute Wladimir Putin.",
+      "url": "https://www.zeit.de/2022/12/iwan-iljin-philosoph-schweiz-russland-wladimir-putin",
+      "image_url": "https://img.zeit.de/wissen/geschichte/2022-03/iwan-iljin-philosoph-schweiz-russland-wladimir-putin-bild/wide__822x462",
+      "image_title": "Iwan Iljin: Der faschistische Denker, der Putins Weltbild inspiriert"
+    },
+    {
+      "title": "Sprachtest: Wie gut ist Ihr Französisch?",
+      "teaser": "Sprache bildet die Grundlage für Kommunikation. Wie gut die eigenen Sprachkenntnisse sind, können Sie schnell mit unserem digitalen Sprachtest herausfinden.",
+      "url": "https://sprachtest.zeit.de/franzoesisch?wt_zmc=fix.int.zonaudev.alias.alias.zeitde.alias.spotlight-sprachtest-link-franzoesisch.x&utm_medium=fix&utm_source=alias_zonaudev_int&utm_campaign=alias&utm_content=zeitde_alias_spotlight-sprachtest-link-franzoesisch_x",
+      "image_url": "https://img.zeit.de/administratives/2020-03/spotlight-bilder-franzoesisch-2/wide__822x462",
+      "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
+    },
+    {
+      "title": "Nasa: Weltraumteleskop James Webb macht erstes Testbild",
+      "teaser": "Der Hubble-Nachfolger hat seine 18 Spiegelsegmente erfolgreich getestet. Die Nasa veröffentlichte ein Bild, das einen Stern zeigt – und ein bisher unsichtbares Universum.",
+      "url": "https://www.zeit.de/wissen/2022-03/nasa-weltraumteleskop-testbild-galaxien",
+      "image_url": "https://img.zeit.de/wissen/2022-03/nasa-weltraumteleskop-testbild-galaxien-bild/wide__822x462",
+      "image_title": "Nasa: Weltraumteleskop James Webb macht erstes Testbild"
+    },
+    {
+      "title": "Kriegserinnerungen: \"Nach über 70 Jahren fangen im Kopf wieder die Bomben an zu fallen\"",
+      "teaser": "Bei vielen älteren Menschen wecken die Bilder aus der Ukraine Erinnerungen an den Zweiten Weltkrieg. Was man dagegen tun könne, erklärt der Psychosomatiker Gereon Heuft.",
+      "url": "https://www.zeit.de/gesundheit/2022-03/kriegserinnerungen-ukraine-zweiter-weltkrieg-trauma-psychologie",
+      "image_url": "https://img.zeit.de/wissen/2022-03/kriegserinnerungen-ukraine-zweiter-weltkrieg-auge/cinema__980x420",
+      "image_title": "Kriegserinnerungen: \"Nach über 70 Jahren fangen im Kopf wieder die Bomben an zu fallen\""
+    },
+    {
+      "title": "Ukraine-Krieg und Psyche: \"Es fehlt die Kraft, um im Alltag Hoffnung zu schöpfen\"",
+      "teaser": "Erst Corona, jetzt Krieg: Der Psychiater Mazda Adli erklärt, warum andauernde Sorgen die Psyche erschöpfen und menschengemachte Bedrohungen den größten Stress auslösen.",
+      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2022-03/ukraine-krieg-psyche-sorgen-stress-psychologie",
+      "image_url": "https://img.zeit.de/gesundheit/2022-03/emotionen-ressourcen-coronavirus-krieg-psyche-erschoepfung-stress/wide__822x462",
+      "image_title": "Ukraine-Krieg und Psyche: \"Es fehlt die Kraft, um im Alltag Hoffnung zu schöpfen\""
+    },
+    {
+      "title": "Klimawandel: Es ist schlimmer als bisher befürchtet",
+      "teaser": "Unser Planet heizt sich auf. Gletscher, Schnee und Dauerfrostböden tauen. Unser Video zeigt, wo man dem Klimawandel zuschauen kann.",
+      "url": "https://www.zeit.de/video/2019-07/6060945328001/klimawandel-es-ist-schlimmer-als-bisher-befuerchtet",
+      "image_url": "https://img.zeit.de/video/2019-07/6060945328001-still/cinema__980x420",
+      "image_title": "Klimawandel: Es ist schlimmer als bisher befürchtet"
+    },
+    {
+      "title": "Omikron-Welle: Hört das denn nie auf?",
+      "teaser": "Die fünfte Welle ist unausweichlich. Gegen Omikron braucht es mehr als Boostern, Impfen und 2G. Warum wir aber nicht bei null anfangen und wie die Pandemie enden wird",
+      "url": "https://www.zeit.de/video/2021-12/6288284879001/omikron-welle-hoert-das-denn-nie-auf",
+      "image_url": "https://img.zeit.de/gesundheit/2021-12/hoert-das-denn-nie-auf/wide__822x462",
+      "image_title": "Omikron-Welle: Hört das denn nie auf?"
+    },
+    {
+      "title": "Vierte Welle: Was Sie über diesen Corona-Winter wissen sollten",
+      "teaser": "Die vierte Welle zeigt: Impfen war nie wichtiger, doch das Virus ist schneller. Schon ohne neue Varianten sind Kontaktbeschränkungen unvermeidbar. Wird Corona je harmlos?",
+      "url": "https://www.zeit.de/video/2021-11/6283747076001/vierte-welle-was-sie-ueber-diesen-corona-winter-wissen-sollten",
+      "image_url": "https://img.zeit.de/video/2021-11/6283747076001-still/wide__822x462",
+      "image_title": "Vierte Welle: Was Sie über diesen Corona-Winter wissen sollten"
+    },
+    {
+      "title": "Hochwasser in Deutschland: Kann man am Wasser noch sicher leben?",
+      "teaser": "Der Mensch kämpft auch in Deutschland längst gegen die Folgen des Klimawandels. Wie sehr, darüber entscheidet die Wohnlage. Wer zum Beispiel am Fluss lebt, muss umdenken.",
+      "url": "https://www.zeit.de/wissen/umwelt/2021-08/hochwasser-deutschland-fluss-flut-klimawandel-wohnen",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2021-07/hochwasser-deutschland-fluss-flut-klimawandel-wohnen-bild/cinema__980x420",
+      "image_title": "Hochwasser in Deutschland: Kann man am Wasser noch sicher leben?"
+    },
+    {
+      "title": "Sturmflut und Klimawandel: Der Albtraum vom Haus am Meer",
+      "teaser": "Die folgenschweren Hochwasser in Westdeutschland haben gezeigt: Deutschland muss katastrophensicherer werden. An der Küste wird der Klimawandel zur besonderen Bedrohung.",
+      "url": "https://www.zeit.de/wissen/umwelt/2021-08/sturmflut-klimawandel-meer-meeresspiegel-hochwasser-wohnen",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2021-07/sturmflut-klimawandel-meer-meeresspiegel-hochwasser-wohnen-bild/wide__822x462",
+      "image_title": "Sturmflut und Klimawandel: Der Albtraum vom Haus am Meer"
+    },
+    {
+      "title": "Schiffswrack \"Endurance\": Ein Jahrhundert unter dem Eis",
+      "teaser": "Vor über 100 Jahren sank die \"Endurance\", das Schiff des Abenteurers Ernest Shackleton. Jetzt wurde sie gefunden, an einem der letzten unberührten Orte der Erde.",
+      "url": "https://www.zeit.de/wissen/geschichte/2022-03/endurance-schiffswrack-forschungsschiff-ernest-shackleton-meereis",
+      "image_url": "https://img.zeit.de/wissen/2022-03/endurance-schiffswrack-forschungsschiff-bild-sea-life/cinema__980x420",
+      "image_title": "Schiffswrack \"Endurance\": Ein Jahrhundert unter dem Eis"
+    },
+    {
+      "title": "Werner Heisenberg: Da und gleichzeitig nicht da",
+      "teaser": "Werner Heisenberg revolutionierte die Physik mit seiner Unschärferelation. Einer seiner größten Widersacher: Albert Einstein",
+      "url": "https://www.zeit.de/2022/10/werner-heisenberg-unschaerferelation-physik-geschichte",
+      "image_url": "https://img.zeit.de/2022/10/da-und-gleichzeitig-nicht-da-bild-1/wide__822x462",
+      "image_title": "Werner Heisenberg: Da und gleichzeitig nicht da"
+    }
+  ]
 }
