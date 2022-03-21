@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-21T14:18:47",
+  "timestamp": "2022-03-21T15:22:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3ee3f6cb3ff05225a188",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.02d1d223140967ef249a",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "IBM Spectrum Protect",
+      "url": "https://www.heise.de/news/Adminrechte-durch-Sicherheitsluecke-in-Backup-Software-IBM-Spectrum-Protect-6595937.html"
+    },
     {
       "title": "npm Vue.js, node-ipc.js",
       "url": "https://www.heise.de/news/Paketmanager-npm-Paketabhaengigkeiten-fuer-Angriff-missbraucht-6594520.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/WordPress-Update-Angreifern-koennten-Admins-Schadcode-unterschieben-6587282.html"
     },
     {
-      "title": "ClickHouse DBMS",
-      "url": "https://www.heise.de/news/Online-Analysetool-ClickHouse-DBMS-Komprimierte-Dateien-als-Schadcode-Schleuder-6585865.html"
+      "title": "Adminrechte durch Sicherheitslücke in Backup-Software IBM Spectrum Protect",
+      "teaser": "Angreifer könnten aus der Ferne Sicherungsmaßnahmen umgehen und so bei der Anmeldung Administratorrechte an IBM Spectrum Protect Server erlangen.",
+      "url": "https://www.heise.de/news/Adminrechte-durch-Sicherheitsluecke-in-Backup-Software-IBM-Spectrum-Protect-6595937.html",
+      "image_title": "Aufmacher IBM Spectrum Protect Sicherheitslücke"
     },
     {
       "title": "Kritische Sicherheitslücke in Western Digital EdgeRover geschlossen",
@@ -144,11 +150,6 @@
       "title": "Sicherheitsupdate für IBM Spectrum Protect: Fremdzugriff auf Datenbanken möglich",
       "teaser": "Es gibt Sicherheitsupdates für IBMs Backup-Lösung Spectrum Protect. Angreifer könnten unter anderem auf eigentlich verschlüsselte Informationen zugreifen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-IBM-Spectrum-Protect-Fremdzugriff-auf-Datenbanken-moeglich-6548621.html"
-    },
-    {
-      "title": "Ukraine-Krieg: BSI warnt vor Kasperskys Sicherheits- und Antiviren-Software",
-      "teaser": "Wer Antiviren-Software des russischen Herstellers einsetzt, sollte auf alternative Produkte ausweichen, heißt es in der offiziellen BSI-Warnung.",
-      "url": "https://www.heise.de/news/Antivirus-BSI-warnt-vor-Nutzung-von-Kaspersky-Software-6549515.html"
     },
     {
       "title": "secIT by Heise 2022",

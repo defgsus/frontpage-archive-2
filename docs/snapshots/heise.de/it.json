@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-21T14:18:41",
+  "timestamp": "2022-03-21T15:22:33",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,17 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.4ab18c1709b9f03a8a3e",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.99bf7a7d250c36f31932",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Ein Linux-Desktop für M1-Macs: Erste Alpha von Asahi",
+      "teaser": "Asahi Linux bringt einen kompletten Linux-Desktop auf M1-Macs, allerdings noch mit Lücken bei der Hardwareunterstützung. Auch OpenBSD auf M1 ist jetzt möglich.",
+      "url": "https://www.heise.de/news/Ein-Linux-Desktop-fuer-M1-Macs-Erste-Alpha-von-Asahi-6594685.html"
+    },
     {
       "title": "Mainframe-Modernisierung: Die Anwendungswelt ist entscheidend, nicht die Technik",
       "teaser": "Sollen Mainframe-Anwendungen in die Cloud abwandern? Oder sollen sie lieber auf neue Füße gestellt werden? Welcher Weg der richtige ist, erklärt Björn Langmack.",
@@ -37,11 +42,6 @@
       "image_title": "Frischzellenkur für die Programmiersprache COBOL: Neuer FOSS-Compiler gcobol"
     },
     {
-      "title": "Microsoft: Eure Chefs wissen nicht, was ihr Angestellten im Arbeitsalltag wollt",
-      "teaser": "Microsofts Work Trend Index hält fest, wie groß die Diskrepanz der Erwartungen an die neue Arbeitsrealität zwischen Chefetagen und Mitarbeitenden ist: groß.",
-      "url": "https://www.heise.de/news/Microsoft-Eure-Chefs-wissen-nicht-was-ihr-Angestellten-im-Arbeitsalltag-wollt-6585507.html"
-    },
-    {
       "title": "Günstiger tanken: So lesen Sie Spritpreise automatisch aus mit Node-Red",
       "teaser": "Mit dem Entwicklungswerkzeug Node-Red verknüpfen Sie vorgefertigte Funktionsbausteine und erstellen mit wenig Code komplexe Anwendungen.",
       "url": "https://www.heise.de/ratgeber/Guenstiger-tanken-So-lesen-Sie-Spritpreise-automatisch-aus-mit-Node-Red-6549915.html"
@@ -51,6 +51,24 @@
       "teaser": "Manche Administratoren beharren auf IPv4. Zehn Praxisbeispiele belegen, warum viele Netzwerkanwendungen besser auf IPv6 laufen und wie Admins davon profitieren.",
       "url": "https://www.heise.de/ratgeber/Netzwerk-Management-Warum-Admins-auf-IPv6-umsteigen-sollten-6585843.html",
       "image_title": ", Bild: Thorsten Hübner"
+    },
+    {
+      "title": "TTIP: Lindner will neues Freihandelsabkommen mit den USA, Habeck ist dagegen",
+      "teaser": "Nach dem Überfall Russlands auf die Ukraine will Bundesfinanzminister Christian Lindner TTIP wiederbeleben. Wirtschaftsminister Robert Habeck hält davon nichts.",
+      "url": "https://www.heise.de/news/TTIP-Lindner-will-neues-Freihandelsabkommen-mit-den-USA-Habeck-ist-dagegen-6596076.html",
+      "image_title": "EU Kommission Brüssel mit Anti-TTIP-Aufkleber im Vordergrund"
+    },
+    {
+      "title": "\"Extremistisch\": Meta-Dienste Facebook und Instagram in Russland verboten",
+      "teaser": "Der US-Konzern Meta wurde in Russland zur \"extremistischen Organisation\" erklärt. Mehrere Angebote sind bereits blockiert. WhatsApp soll aber nutzbar bleiben.",
+      "url": "https://www.heise.de/news/Extremistisch-Meta-Dienste-Facebook-und-Instagram-in-Russland-verboten-6596331.html",
+      "image_title": "Moscow,Kremlin,At,Dusk,,Russia.,Panoramic,View,Of,The,Famous"
+    },
+    {
+      "title": "Adminrechte durch Sicherheitslücke in Backup-Software IBM Spectrum Protect",
+      "teaser": "Angreifer könnten aus der Ferne Sicherungsmaßnahmen umgehen und so bei der Anmeldung Administratorrechte an IBM Spectrum Protect Server erlangen.",
+      "url": "https://www.heise.de/news/Adminrechte-durch-Sicherheitsluecke-in-Backup-Software-IBM-Spectrum-Protect-6595937.html",
+      "image_title": "Aufmacher IBM Spectrum Protect Sicherheitslücke"
     },
     {
       "title": "Continuous Lifecycle & ContainerConf 2022: Call for Proposals gestartet",
@@ -78,11 +96,6 @@
       "title": "heise Security Tour 2022 – Wissen schützt!",
       "teaser": "Die heise-Security-Konferenz kommt wieder vor Ort: Ende Juni in Köln und in Stuttgart – und einen Online-Termin gibt es ebenfalls wieder.",
       "url": "https://www.heise.de/news/heise-Security-Tour-2022-Wissen-schuetzt-6594215.html"
-    },
-    {
-      "title": "Ein Linux-Desktop für M1-Macs: Erste Alpha von Asahi",
-      "teaser": "Asahi Linux bringt einen kompletten Linux-Desktop auf M1-Macs, allerdings noch mit Lücken bei der Hardwareunterstützung. Auch OpenBSD auf M1 ist jetzt möglich.",
-      "url": "https://www.heise.de/news/Ein-Linux-Desktop-fuer-M1-Macs-Erste-Alpha-von-Asahi-6594685.html"
     },
     {
       "title": "Geopolitik nach der Ukraine-Invasion: Sorge um Apples Taiwan-Abhängigkeit",
@@ -120,17 +133,6 @@
       "title": "c’t-Workshop: CI/CD mit GitLab",
       "teaser": "Continuous Integration und Continuous Delivery mit der Entwicklungsplattform GitLab managen. Im c’t-Workshop lernen und üben Sie alles dafür nötige.",
       "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-6547494.html"
-    },
-    {
-      "title": "Weißer Ring: Zivilcourage auch bei Hass im Internet wichtig",
-      "teaser": "Mobbing, Stalking, Bedrohungen und Hass spielen im Internet eine gravierende Rolle. Das ist nicht nur ein Thema für die Polizei, sondern auch für Unbeteiligte.",
-      "url": "https://www.heise.de/news/Weisser-Ring-Zivilcourage-auch-bei-Hass-im-Internet-wichtig-6594084.html",
-      "image_title": "Sexual,Harassment,And,Hate,Crime,,End,To,Violence,Against,Women."
-    },
-    {
-      "title": "Kommentar: Büro oder Homeoffice? Kehrt den Regelfall um!",
-      "teaser": "Die Deutschen müssen heute zurück in die Büros. Das ist ein Fehler, meint Jonas Volkert: Ein Plädoyer für mehr Eigenverantwortung.",
-      "url": "https://www.heise.de/meinung/Kommentar-Buero-oder-Homeoffice-Kehrt-den-Regelfall-um-6593347.html"
     },
     {
       "title": "baramundi ist Zweifach-Champion!",
