@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-23T11:15:34",
+  "timestamp": "2022-03-23T12:35:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.49bced0a4e65395e5e33",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.e35be118c1edb6b9afdf",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Drupal",
+      "url": "https://www.heise.de/news/CMS-Angreifer-koennten-in-Drupal-Kontrolle-uebernehmen-6612007.html"
+    },
     {
       "title": "HP-Drucker",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-mehr-als-200-HP-Drucker-Modellen-6605306.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sophos-schliesst-Sicherheitsluecken-in-Unified-Threat-Management-Firmware-6602749.html"
     },
     {
-      "title": "IBM Spectrum Protect",
-      "url": "https://www.heise.de/news/Adminrechte-durch-Sicherheitsluecke-in-Backup-Software-IBM-Spectrum-Protect-6595937.html"
+      "title": "CMS: Angreifer könnten in Drupal Kontrolle übernehmen",
+      "teaser": "Mit neuen Versionen schließt das Drupal-Projekt eine Sicherheitslücke, durch die Angreifer Kontrolle über ein betroffenes System übernehmen könnten.",
+      "url": "https://www.heise.de/news/CMS-Angreifer-koennten-in-Drupal-Kontrolle-uebernehmen-6612007.html",
+      "image_title": "Aufmacher Drupal schließt Sicherheitslücke"
     },
     {
       "title": "Kommentar zum Ukraine-Krieg: Wo bleiben die Milliarden für IT-Sicherheit?​",
@@ -148,11 +154,6 @@
       "title": "US-Behörden CISA und NSA aktualisieren Katalog zur Kubernetes-Absicherung",
       "teaser": "Wer Container-Umgebungen mit Kubernetes managet, bekommt nun noch mehr Tipps, um Systeme vor Attacken abzusichern.",
       "url": "https://www.heise.de/news/US-Behoerden-CISA-und-NSA-aktualisieren-Katalog-zur-Kubernetes-Absicherung-6581246.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer könnten Schadcode durch pfSense-Firewall schieben",
-      "teaser": "Mehrere Schwachstellen gefährden Systeme mit der Firewall-Distribution pfSense.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Schadcode-durch-pfSense-Firewall-schieben-6577971.html"
     },
     {
       "title": "secIT by Heise 2022",
