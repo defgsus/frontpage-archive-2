@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-23T14:18:50",
+  "timestamp": "2022-03-23T15:21:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Kritische Sicherheitslücken in mehr als 200 HP-Drucker-Modellen",
+      "teaser": "Zahlreiche HP-Drucker haben Sicherheitslücken, durch die Angreifer Schadcode einschleusen und ausführen könnten. Firmware-Updates schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-mehr-als-200-HP-Drucker-Modellen-6605306.html",
+      "image_title": "Aufmacher Firmware-Updates schließen kritische Lücken in HP-Druckern"
+    },
+    {
       "title": "\"Extremistisch\": Meta-Dienste Facebook und Instagram in Russland verboten",
       "teaser": "Der US-Konzern Meta wurde in Russland zur \"extremistischen Organisation\" erklärt. Mehrere Angebote sind bereits blockiert. WhatsApp soll aber nutzbar bleiben.",
       "url": "https://www.heise.de/news/Extremistisch-Meta-Dienste-Facebook-und-Instagram-in-Russland-verboten-6596331.html",
@@ -38,11 +44,6 @@
       "image_title": "iCloud-Fehlerseite"
     },
     {
-      "title": "Ein Linux-Desktop für M1-Macs: Erste Alpha von Asahi",
-      "teaser": "Asahi Linux bringt einen kompletten Linux-Desktop auf M1-Macs, allerdings noch mit Lücken bei der Hardwareunterstützung. Auch OpenBSD auf M1 ist jetzt möglich.",
-      "url": "https://www.heise.de/news/Ein-Linux-Desktop-fuer-M1-Macs-Erste-Alpha-von-Asahi-6594685.html"
-    },
-    {
       "title": "Softwareentwicklung: Hybride Apps mit Blazor Desktop unter Windows erstellen",
       "teaser": "Blazor Desktop ermöglicht die Integration moderner Webanwendungen in Windows-Programme. Da es keine Sandbox gibt, kann man auf alle Ressourcen zugreifen.",
       "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Hybride-Apps-mit-Blazor-Desktop-unter-Windows-erstellen-6595618.html"
@@ -51,6 +52,23 @@
       "title": "AMD-Grafikkarte für kleine Workstations: Radeon Pro W6400 im Test",
       "teaser": "Workstation-Grafikkarten müssen keine Rechenmonster sein, für manche Aufgaben reichen sparsame Karten. Im Test hat AMDs Radeon Pro W6400 gezeigt, was sie kann.",
       "url": "https://www.heise.de/tests/AMD-Grafikkarte-fuer-kleine-Workstations-Radeon-Pro-W6400-im-Test-6542043.html"
+    },
+    {
+      "title": "heise meets… Mit KI stehen wir an der Schwelle eines neuen Zeitalters",
+      "teaser": "Dr. Stenkamp, TÜV Nord, sagt: \"Wir stehen an der Schwelle eines neuen Zeitalters. KI übernimmt Aufgaben schneller und fehlerfreier, als Menschen das könnten.\"",
+      "url": "https://www.heise.de/news/heise-meets-Mit-KI-stehen-wir-an-der-Schwelle-eines-neuen-Zeitalters-6614075.html"
+    },
+    {
+      "title": "USVs ab 40 Euro: Notstromversorgung für Smart Home, Computer und Daten",
+      "teaser": "Für einen Blackout sind preisgünstige USVs nicht ausgelegt. Einen Stromausfall können sie aber für wenige Minuten überbrücken und so vor Datenverlust schützen.",
+      "url": "https://www.techstage.de/ratgeber/usvs-ab-40-euro-notstromversorgung-fur-smart-home-computer-und-daten/z6bgfm9?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "Zoom ermöglicht Teilnahme an Videomeetings in tierischer Gestalt",
+      "teaser": "Nutzer der Videokonferenz-Software Zoom können in einem Meeting Tier-Avatare verwenden und unter anderem als Kuh, Hase, Fuchs oder Hund am Gespräch teilnehmen.",
+      "url": "https://www.heise.de/news/Zoom-ermoeglicht-Teilnahme-an-Videomeetings-in-tierischer-Gestalt-6613251.html",
+      "image_title": "Panda"
     },
     {
       "title": "ServiceNow: Roboter \"hyperautomatisieren\" die digitalen Fließbandaufgaben",
@@ -115,22 +133,6 @@
       "title": "Hacker-Gruppe Lapsus$ leakt 37 Gigabyte Microsoft-Interna",
       "teaser": "Microsoft und Okta haben erfolgreiche Attacken durch Lapsus$ bestätigt. Unter den geleakten Daten soll sich Quellcode von Bing und Cortana befinden.",
       "url": "https://www.heise.de/news/Hacker-Gruppe-Lapsus-leakt-37-Gigabyte-Microsoft-Interna-6611197.html"
-    },
-    {
-      "title": "Linux-Kernel: Linux 5.17 mit neuem AMD-Powermanagement",
-      "teaser": "Der neue Linux-Kernel legt beim Powermanagement für moderne AMD-CPUs nach. Er macht anonymen Speicher bewertbar und steuert auf portables eBPF zu.",
-      "url": "https://www.heise.de/news/Linux-Kernel-Linux-5-17-mit-neuem-AMD-Powermanagement-6610697.html",
-      "image_title": "Aufmacher Linux-Kernel 5.17"
-    },
-    {
-      "title": "Versionsverwaltung GitLab 14.9: Mehr Sicherheit, Performance und Usability",
-      "teaser": "GitLab-Ultimate-Nutzer können nun zwei beliebige Epics verlinken und die Environments-Seite steht für alle Nutzergruppen in neuem Design bereit.",
-      "url": "https://www.heise.de/news/Versionsverwaltung-GitLab-14-9-erlaubt-das-Verlinken-zweier-Epics-6611285.html"
-    },
-    {
-      "title": "c't-Sonderheft c't @work jetzt im Handel verfügbar",
-      "teaser": "Mit den Tipps aus unserem Sonderheft gelingt die Arbeit zwischen Home und Office: von der Videokonferenz über Dokumentenaustausch bis hin zum Datenschutz.",
-      "url": "https://www.heise.de/news/c-t-Sonderheft-c-t-work-jetzt-im-Handel-verfuegbar-6543994.html"
     },
     {
       "title": "baramundi ist Zweifach-Champion!",
