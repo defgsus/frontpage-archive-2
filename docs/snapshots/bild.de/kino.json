@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-03-24T02:51:03",
+  "timestamp": "2022-03-24T03:26:58",
   "url": "https://www.bild.de/unterhaltung/kino/kino/home-15697512.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,13 +19,37 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
@@ -40,208 +58,7 @@
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.9ee60dde.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.9bded6b4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.cc8d3182.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3de5965b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dd979065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.6704b63d.js",
-      "id": null,
-      "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "„Tove“ : Die Mutter der Mumins",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/tove-neu-im-kino-die-mutter-der-mumins-79541756.bild.html",
-      "image_url": "https://images.bild.de/623af270435b2d2bcc47df6c/10a835dd2292d0fad8cb8aaa422bd370/Video_MitVideo,3681e0c?w=656",
-      "image_title": "„Tove“ – neu im Kino: Die Mutter der Mumins"
-    },
-    {
-      "title": "„Come on, Come on“ : Der „Joker“ als Babysitter?",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/joaquin-phoenix-in-come-on-come-on-der-joker-als-babysitter-79541698.bild.html",
-      "image_url": "https://images.bild.de/623af14d46a13f3f5a42e3b2/18cf73ca23d29305649a608bde1295ef-miniSquare/Video_MitVideo,366c4b0?w=320",
-      "image_title": "Joaquin Phoenix in „Come on, Come on“: Der „Joker“ als Babysitter?"
-    },
-    {
-      "title": "„Ambulance“ : Tatütata, die Bankräuber sind da",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/ambulance-jetzt-im-kino-tatuetata-die-bankraeuber-sind-da-79541414.bild.html",
-      "image_url": "https://images.bild.de/623aec9f29e37c79421fc656/d343b31d349837dd2dc2bb6849cfa943-miniSquare/Video_MitVideo,366c0ef?w=320",
-      "image_title": "„Ambulance“ – jetzt im Kino: Tatütata, die Bankräuber sind da"
-    },
-    {
-      "title": "Alle Infos zu den 94. Academy Awards : Hollywood macht sich Oscar-fit!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/oscars-2022-der-bagger-schuftet-schon-die-xxl-buchstaben-sind-da-79539644.bild.html",
-      "image_url": "https://images.bild.de/623adba029e37c79421fc62f/2f2deb1d246f7013b8be1207153adb6f/1/2?w=320",
-      "image_title": "Oscars 2022: Der Bagger schuftet schon, die XXL-Buchstaben sind da"
-    },
-    {
-      "title": "Oscar Isaacs „Dune“ für 10 Oscars nominiert : „Einen Plan B gab’s nicht!“",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/kino/kino/oscar-isaac-dune-ist-oscar-favorit-einen-plan-b-gabs-nicht-79531202.bild.html",
-      "image_url": "https://images.bild.de/6239b8af29e37c79421fc4db/e8bf63f160f820aeb434fccad939b479/1/2?w=320",
-      "image_title": "Oscar Isaac („Dune“) ist Oscar-Favorit: „Einen Plan B gab’s nicht!“"
-    },
-    {
-      "title": "„Die Gangster Gang“ : Geld her oder ich lache!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-die-gangster-gang-geld-her-oder-ich-lache-79469858.bild.html",
-      "image_title": "Neu im Kino: „Die Gangster Gang“: Geld her oder ich lache!"
-    },
-    {
-      "title": "„Der Wolf und der Löwe“ : Raubtiere zum Kuscheln?",
-      "teaser": "In der Wildnis kommen sich Wolf und Löwe selten in die Quere. Hier mischt der Mensch mit.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-der-wolf-und-der-loewe-raubtiere-zum-kuscheln-79469958.bild.html",
-      "image_title": "Neu im Kino: „Der Wolf und der Löwe“: Raubtiere zum Kuscheln?"
-    },
-    {
-      "title": "„The Adam Project“ : Zeitreise zum Ich",
-      "teaser": "Es wirkt wie ein teurer Kinofilm. Aber „The Adam Project“ ist eine Netflix-Produktion.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-auf-netflix-the-adam-project-netflix-zeitreise-zum-ich-79469784.bild.html",
-      "image_title": "Neu auf Netflix: „The Adam Project“ (Netflix): Zeitreise zum Ich"
-    },
-    {
-      "title": "DIE GANGSTER GANG : Signiertes Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Kino-Start von DIE GANGSTER GANG ein tolles Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/die-gangster-gang-signiertes-fan-paket-ersteigern-79398904.bild.html",
-      "image_title": "DIE GANGSTER GANG: Signiertes Fan-Paket ersteigern"
-    },
-    {
-      "title": "Legendäre Szenen : „Basic Instinct“-Villa zu verkaufen!",
-      "teaser": "Die Villa, in der Sharon Stone einst Michael Douglas verführte, ist auf dem Markt.",
-      "url": "https://www.bild.de/unterhaltung/kino/leute/basic-instinct-villa-fuer-30-mio-dollar-zu-verkaufen-79437050.bild.html",
-      "image_title": "„Basic Instinct“-Villa für 30 Millionen Dollar zu verkaufen"
-    },
-    {
-      "title": "„Jackass Forever“ : Stunts, Schmerzen, Körpersäfte",
-      "teaser": "Nach elf Jahren kehrt Johnny Knoxville (50) mit seiner „Jackass“-Stunt-Komiker-Gang zurück",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-jackass-forever-graue-haare-raue-tage-79398090.bild.html",
-      "image_title": "Neu im Kino: „Jackass Forever“: Graue Haare, raue Tage"
-    },
-    {
-      "title": "„Parallele Mütter“ : Das falsche Kind von Penélope Cruz",
-      "teaser": "In den Filmen von Pedro Almodóvar ist die Mutter oft eine zentrale Figur. So auch hier.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-parallele-muetter-das-falsche-kind-von-penlope-cruz-79398212.bild.html",
-      "image_title": "Neu im Kino: „Parallele Mütter“: Das falsche Kind von Penélope Cruz"
-    },
-    {
-      "title": "„Blue Bayou“ : Amerikaner sein oder nicht sein",
-      "teaser": "Oscar-Gewinnerin Alicia Vikander (33, Lara Croft) überzeugt in diesem emotionalen Drama.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-blue-bayou-schwierige-familiengruendung-79398170.bild.html",
-      "image_title": "Neu im Kino: „Blue Bayou“: Schwierige Familiengründung"
-    },
-    {
-      "title": "Batman-Details : HIER müssen Sie ganz genau hinschauen!",
-      "teaser": "Heißer und düsterer als je zuvor! Die Geheimnisse des genialsten „Batman“ aller Zeiten.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/the-batman-bild-knackt-die-geheimnisse-des-kino-krachers-79379000.bild.html",
-      "image_title": "„The Batman“ im Kino: Details des neuen Film. HIER müssen Sie ganz genau hinschauen!"
-    },
-    {
-      "title": "SCHACHNOVELLE : Exklusive Requisite vom Set ersteigern",
-      "teaser": "Ersteigern Sie zum Heimkino-Start von SCHACHNOVELLE eine exklusive Set-Requisite.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/schachnovelle-exklusive-requisite-vom-set-ersteigern-79292754.bild.html",
-      "image_title": "SCHACHNOVELLE: Exklusive Requisite vom Set ersteigern"
-    },
-    {
-      "title": "„Ein Stück Sch****!“ : Western-Legende schimpft über Oscar-Favoriten",
-      "teaser": "Sam Elliott schimpft über den Netflix-Western und Oscar-Favorit „Power of the Dog“.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/kino/kino/oscar-favourit-power-of-the-dog-sam-elliott-schimpft-ueber-netflix-western-79323684.bild.html",
-      "image_title": "Oscar-Favorit „Power of the Dog“: Sam Elliott schimpft über Netflix-Western"
-    },
-    {
-      "title": "„The Card Counter“ : Alles auf eine Karte",
-      "teaser": "Sci-Fi-Fans kennen Oscar Isaac aus „Star Wars“ und „Dune“. Hier spielt er einen Zocker",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-the-card-counter-alles-auf-eine-karte-79323914.bild.html",
-      "image_title": "Neu im Kino: „The Card Counter“: Alles auf eine Karte"
-    },
-    {
-      "title": "„The Batman“ : Batmans lange Nacht",
-      "teaser": "Schon wieder ein neuer Batman-Streifen? Ja! Diesmal mit Ex-Glitzer-Vampir Robert Pattinson",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-the-batman-batmans-lange-nacht-79323594.bild.html",
-      "image_title": "Neu im Kino: „The Batman“: Batmans lange Nacht"
-    },
-    {
-      "title": "„Cyrano“ : Kleiner Mann mit großer Sehnsucht",
-      "teaser": "Peter Dinklage (52, „Game of Thrones“) spielt den kleinwüchsigen Cyrano in diesem Musical",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-cyrano-kleiner-mann-mit-grosser-sehnsucht-79323838.bild.html",
-      "image_title": "Neu im Kino: „Cyrano“: Kleiner Mann mit großer Sehnsucht"
-    },
-    {
-      "title": "Die Oscar-Vorboten! : Will Smith – Tränchen bei den „SAG Awards“",
-      "teaser": "Ein gutes Omen! Will Smith (53) wird bei den Oscar-Vorboten ausgezeichnet.",
-      "url": "https://www.bild.de/unterhaltung/kino/royals/sag-awards-will-smith-nimmt-weinend-preis-fuer-king-richard-entgegen-79300186.bild.html",
-      "image_title": "SAG Awards: Will Smith nimmt weinend Preis für „King Richard“ entgegen"
-    },
-    {
-      "title": "„Fifty Shades“-Star : Diese Filme kommen für mich nicht infrage",
-      "teaser": "Jamie Dornan im Interview über Fluch und Segen einer Rolle in einer großen Film-Reihe.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/jamie-dornan-will-nicht-fifty-shades-rolle-reduziert-werden-79291028.bild.html",
-      "image_title": "Jamie Dornan will nicht „Fifty Shades“-Rolle reduziert werden"
-    },
-    {
-      "title": "„HARRY POTTER“-STARS : Gefeuert – und kaum einer hat’s gemerkt",
-      "teaser": "Bei „Harry Potter“ geht es magisch zu. Manchmal verschwinden sogar Darsteller ...",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/kino/kino/harry-potter-stars-ploetzlich-verschwunden-gefeuert-und-kaum-einer-hats-gemerkt-79249584.bild.html",
-      "image_title": "„Harry Potter“-Stars plötzlich verschwunden: Gefeuert und kaum einer hat’s gemerkt"
-    },
-    {
-      "title": "Diese Kino-Kracher kommen : Vorfreude auf den Film-Frühling!",
-      "teaser": "Der Frühling steht vor der Tür, also nix wie weg mit der Fernbedienung! Diese Filme warten im Kino.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/the-batman-toppt-alles-diese-film-kracher-muessen-sie-im-kino-sehen-79263574.bild.html",
-      "image_title": "„The Batman“ toppt alles: Diese Film-Kracher MÜSSEN Sie im Kino sehen"
-    },
-    {
-      "title": "Vampirfilme : Früher war mehr Biss!",
-      "teaser": "Vor 100 Jahren wurde „Nosferatu“ uraufgeführt. Seitdem wurden Vampire immer erotischer.",
-      "url": "https://www.bild.de/unterhaltung/kino/leute/vampire-in-filmen-heute-sind-sie-sexy-aber-frueher-war-mehr-biss-79284160.bild.html",
-      "image_title": "Vampire in Filmen: Heute sind sie sexy – aber früher war mehr Biss!"
-    },
-    {
-      "title": "Neuer Podcast von Ashley Greene : Vampir-Schönheit verrät letzte „Twilight“-Geheimnisse",
-      "teaser": "Heiße Flirts bereits beim Casting und angespannte Stimmung am Set… Ashley Greene packt aus!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/twilight-podcast-vampir-schoenheit-verraet-letzte-geheimnisse-79272922.bild.html",
-      "image_title": "„Twilight“-Podcast: Vampir-Schönheit verrät letzte Geheimnisse"
-    },
-    {
-      "title": "Der Filmtrailer : „Drive My Car“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-drive-my-car-79526650,auto=true.bild.html",
-      "image_title": "Der Filmtrailer: „Drive My Car“"
-    },
-    {
-      "title": "Der Filmtrailer : „King Richard“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-king-richard-79192912,auto=true.bild.html",
-      "image_title": "Der Filmtrailer: „King Richard“"
-    },
-    {
-      "title": "Der Filmtrailer : „Come on, Come on“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-come-on-come-on-79497030,auto=true.bild.html",
-      "image_title": "Der Filmtrailer: „Come on, Come on“"
-    }
-  ]
+  "articles": []
 }
