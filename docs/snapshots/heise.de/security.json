@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-24T08:24:22",
+  "timestamp": "2022-03-24T09:20:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Carbon App Control",
+      "url": "https://www.heise.de/news/VMware-Carbon-App-Control-Angreifer-koennten-Schadcode-auf-Server-schieben-6619596.html"
+    },
+    {
       "title": "Drupal",
       "url": "https://www.heise.de/news/CMS-Angreifer-koennten-in-Drupal-Kontrolle-uebernehmen-6612007.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Cyclops-Blink-Botnet-Asus-Router-im-Fokus-Firmware-Updates-verfuegbar-6604576.html"
     },
     {
-      "title": "Sophos UTM",
-      "url": "https://www.heise.de/news/Sophos-schliesst-Sicherheitsluecken-in-Unified-Threat-Management-Firmware-6602749.html"
+      "title": "Antiviren-Hersteller F-Secure spaltet sich auf",
+      "teaser": "Der Antivirenhersteller F-Secure splittet sich in Business- und Konsumenten-Bereich auf. Die Business-Einheit erhält den Namen WithSecure.",
+      "url": "https://www.heise.de/news/F-Secure-spaltet-sich-auf-6619571.html",
+      "image_title": "Aufmacher F-Secure Split - WithSecure"
+    },
+    {
+      "title": "VMware Carbon App Control: Angreifer könnten Schadcode auf Server schieben",
+      "teaser": "Wichtige Sicherheitsupdates schließen zwei kritische Lücken in Carbon App Control für Windows.",
+      "url": "https://www.heise.de/news/VMware-Carbon-App-Control-Angreifer-koennten-Schadcode-auf-Server-schieben-6619596.html"
     },
     {
       "title": "Angreifer könnten im Drupal-CMS Kontrolle übernehmen",
@@ -145,23 +156,12 @@
       "url": "https://www.heise.de/news/Online-Analysetool-ClickHouse-DBMS-Komprimierte-Dateien-als-Schadcode-Schleuder-6585865.html"
     },
     {
-      "title": "Sicherheitsupdate: Kritische Schwachstelle bedroht Google Chrome",
-      "teaser": "Angreifer könnten Computer attackieren, auf denen der Webbrowser Chrome installiert ist.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Kritische-Schwachstelle-bedroht-Google-Chrome-6585231.html"
-    },
-    {
-      "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
-      "teaser": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt. 10 Prozent Rabatt bis 5.4.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-6550002.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
       "title": "secIT by Heise 2022",
       "teaser": "Wie schützen Sie sich vor Hackerangriffen? Und was muss man eigentlich tun, wenn sich bereits Malware im Netzwerk befindet und sich von System zu System weiter hangelt? Diese und viele weitere Fragen klären die von c't, heise Security und iX ausgewählten Referenten auf der secIT by Heise 2022 am 30. und 31. März in Hannover.",
       "url": "https://sec-it.heise.de/?wt_mc=intern.events.ho.konf_secit0322.hs_teaser.link.link"
     },
     {
-      "title": "FIDO nimmt neuen Anlauf als Passwort-Killer",
+      "title": "IT-Sicherheit FIDO nimmt neuen Anlauf als Passwort-Killer",
       "teaser": "Die FIDO-Allianz will nichts weniger als das Passwort überflüssig machen. In der Praxis hakte das dann noch. Jetzt soll es besser werden – auch dank Cloud.",
       "url": "https://www.heise.de/hintergrund/FIDO-nimmt-neuen-Anlauf-als-Passwort-Killer-6613194.html",
       "image_title": "Symbolbild mit Schriftzug \"FIDO2\""
