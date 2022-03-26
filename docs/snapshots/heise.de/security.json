@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-26T06:24:17",
+  "timestamp": "2022-03-26T07:19:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Notfallupdate-fuer-Google-Chrome-6638415.html"
+    },
+    {
       "title": "Western Digital My Cloud OS",
       "url": "https://www.heise.de/news/Western-Digital-schliesst-Root-Schadcode-Luecke-in-My-Cloud-Netzwerkspeichern-6630582.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/CMS-Angreifer-koennten-in-Drupal-Kontrolle-uebernehmen-6612007.html"
     },
     {
-      "title": "HP-Drucker",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-mehr-als-200-HP-Drucker-Modellen-6605306.html"
+      "title": "Webbrowser: Notfallupdate für Google Chrome",
+      "teaser": "Google hat neue Versionen vom Webbrowser Chrome veröffentlicht, die eine Sicherheitslücke schließen, für die bereits Exploit-Code existiert.",
+      "url": "https://www.heise.de/news/Webbrowser-Notfallupdate-fuer-Google-Chrome-6638415.html",
+      "image_title": "Aufmacher Google Chrome Notfallupdate"
     },
     {
       "title": "Nordkoreanische Cyberkriminelle greifen Sicherheitslücke in Chrome an",
@@ -152,11 +158,6 @@
       "teaser": "Angreifer könnten aus der Ferne Sicherungsmaßnahmen umgehen und so bei der Anmeldung Administratorrechte an IBM Spectrum Protect Server erlangen.",
       "url": "https://www.heise.de/news/Adminrechte-durch-Sicherheitsluecke-in-Backup-Software-IBM-Spectrum-Protect-6595937.html",
       "image_title": "Aufmacher IBM Spectrum Protect Sicherheitslücke"
-    },
-    {
-      "title": "Paketmanager npm: Angriff durch Paketabhängigkeiten",
-      "teaser": "Der Entwickler des npm-Pakets node-ipc.js hat als Protest gegen den Ukraine-Krieg Schadcode ergänzt. Es wird als Abhängigkeit etwa von Vue.js mit installiert.",
-      "url": "https://www.heise.de/news/Paketmanager-npm-Paketabhaengigkeiten-fuer-Angriff-missbraucht-6594520.html"
     },
     {
       "title": "secIT by Heise 2022",
