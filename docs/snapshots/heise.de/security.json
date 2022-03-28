@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-28T07:19:42",
+  "timestamp": "2022-03-28T08:27:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sophos Firewall",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Sophos-Firewall-koennte-Schadcode-passieren-lassen-6653493.html"
+    },
+    {
       "title": "Sonicwall Firewalls",
       "url": "https://www.heise.de/news/Firewall-Kritische-Luecke-in-Sonicwall-erlaubt-Angreifern-einschmuggeln-von-Code-6653073.html"
     },
@@ -44,8 +48,20 @@
       "url": "https://www.heise.de/news/Western-Digital-schliesst-Root-Schadcode-Luecke-in-My-Cloud-Netzwerkspeichern-6630582.html"
     },
     {
-      "title": "VMware Carbon App Control",
-      "url": "https://www.heise.de/news/VMware-Carbon-App-Control-Angreifer-koennten-Schadcode-auf-Server-schieben-6619596.html"
+      "title": "Der Countdown läuft: Am 3. April endet der Call for Papers für die ISDs 2022",
+      "teaser": "Die Internet Security Days kehren im September ins Phantasialand zurück. Vortragsideen für die IT-Security-Fachkonferenz sind noch bis zum 3. April willkommen.",
+      "url": "https://www.heise.de/news/Der-Countdown-laeuft-Am-3-April-endet-der-Call-for-Papers-fuer-die-ISDs-2022-6632639.html"
+    },
+    {
+      "title": "USA: FCC stuft Kaspersky-Software als Risiko für die nationale Sicherheit ein",
+      "teaser": "Mit Kaspersky gilt für die FCC erstmals ein nicht-chinesisches Unternehmen als Sicherheitsrisiko. Damit wird die Firma von US-Fördergeld abgeschnitten.",
+      "url": "https://www.heise.de/news/USA-FCC-stuft-Kaspersky-Software-als-Risiko-fuer-die-nationale-Sicherheit-ein-6653565.html",
+      "image_title": "Warsaw,,Poland,-,July,,2019:,Kaspersky,Lab,Logotype,On,The"
+    },
+    {
+      "title": "Sicherheitsupdate: Sophos Firewall könnte Schadcode passieren lassen",
+      "teaser": "Die Firewall von Sophos ist löchrig. Aktualisierte Versionen lösen das Sicherheitsproblem.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Sophos-Firewall-koennte-Schadcode-passieren-lassen-6653493.html"
     },
     {
       "title": "iX-Workshop: Linux-Server härten",
@@ -138,24 +154,6 @@
       "title": "Security-Konferenz: Wenn ein falscher Mausklick zur Katastrophe führt",
       "teaser": "Die secIT 2022 startet nächste Woche. Dort erfährt man, wie man IT-Attacken abwehrt und wie man sich effektiv verhält, wenn Angreifer bereits im System sind.",
       "url": "https://www.heise.de/news/Security-Konferenz-Wenn-ein-falscher-Mausklick-zur-Katastrophe-fuehrt-6594653.html"
-    },
-    {
-      "title": "Kritische Sicherheitslücken in mehr als 200 HP-Drucker-Modellen",
-      "teaser": "Zahlreiche HP-Drucker haben Sicherheitslücken, durch die Angreifer Schadcode einschleusen und ausführen könnten. Firmware-Updates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-mehr-als-200-HP-Drucker-Modellen-6605306.html",
-      "image_title": "Aufmacher Firmware-Updates schließen kritische Lücken in HP-Druckern"
-    },
-    {
-      "title": "Botnet: Firmware-Updates von Asus gegen Cyclops-Blink-Attacken",
-      "teaser": "Die Cybergang Sandworm hat ihr Cyclops-Blink-Botnet inzwischen auf Asus-Router angesetzt. Firmware-Updates sollen dem Befall vorbeugen.",
-      "url": "https://www.heise.de/news/Cyclops-Blink-Botnet-Asus-Router-im-Fokus-Firmware-Updates-verfuegbar-6604576.html",
-      "image_title": "Aufmacher Cyclops-Blink-Botnet greift Asus-Router an"
-    },
-    {
-      "title": "Microsoft und Okta: Hacker-Gruppe Lapsus$ hat offenbar erneut zugeschlagen",
-      "teaser": "Derzeit untersuchen Microsoft bei Azure DevOps und der Zugriffsmanagement-Dienstleister Okta unberechtigte Server-Zugriffe.",
-      "url": "https://www.heise.de/news/Microsoft-und-Okta-Hacker-Gruppe-Lapsus-hat-offenbar-erneut-zugeschlagen-6603364.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "secIT by Heise 2022",
