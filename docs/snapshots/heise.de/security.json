@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-29T13:29:55",
+  "timestamp": "2022-03-29T14:18:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Linux-Kernel",
+      "url": "https://www.heise.de/news/Root-Luecke-im-netfilter-Subsystem-des-Linux-Kernels-6656053.html"
+    },
+    {
       "title": "In-Memory-Datenbank Redis",
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-in-In-Memory-Datenbank-Redis-geschlossen-6655726.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Sophos-Firewall-koennte-Schadcode-passieren-lassen-6653493.html"
     },
     {
-      "title": "Sonicwall Firewalls",
-      "url": "https://www.heise.de/news/Firewall-Kritische-Luecke-in-Sonicwall-erlaubt-Angreifern-einschmuggeln-von-Code-6653073.html"
+      "title": "Root-Lücke im netfilter-Subsystem des Linux-Kernels",
+      "teaser": "Angreifer könnten aufgrund von Sicherheitslücken in nf_tables im Linux-Kernel ihre Rechte zu Root ausweiten. Patches dichten die Sicherheitslecks ab.",
+      "url": "https://www.heise.de/news/Root-Luecke-im-netfilter-Subsystem-des-Linux-Kernels-6656053.html",
+      "image_title": "Aufmacher root-Lücke in nf_tables im Linux-Kernel"
     },
     {
       "title": "Kritische Schadcode-Lücke in In-Memory-Datenbank Redis geschlossen",
@@ -149,12 +155,6 @@
       "title": "l+f: Das große Wettrennen der Verschlüsselungstrojaner",
       "teaser": "Sicherheitsforscher haben die Stoppuhr gezückt und Ransomware bei der Arbeit beobachtet.",
       "url": "https://www.heise.de/news/l-f-Das-grosse-Wettrennen-der-Verschluesselungstrojaner-6620009.html"
-    },
-    {
-      "title": "Antiviren-Hersteller F-Secure spaltet sich auf",
-      "teaser": "Der Antivirenhersteller F-Secure splittet sich in Business- und Konsumenten-Bereich auf. Die Business-Einheit erhält den Namen WithSecure.",
-      "url": "https://www.heise.de/news/F-Secure-spaltet-sich-auf-6619571.html",
-      "image_title": "Aufmacher F-Secure Split - WithSecure"
     },
     {
       "title": "secIT by Heise 2022",
