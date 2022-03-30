@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-30T07:20:24",
+  "timestamp": "2022-03-30T08:26:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Trend Micro Apex Central",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Angriffe-auf-Sicherheitsluecke-in-Trend-Micro-Apex-Central-6656849.html"
+    },
+    {
       "title": "Linux-Kernel",
       "url": "https://www.heise.de/news/Root-Luecke-im-netfilter-Subsystem-des-Linux-Kernels-6656053.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "Zyxel Firewalls",
       "url": "https://www.heise.de/news/Geraeteuebernahme-durch-Sicherheitsluecke-in-Zyxel-Firewalls-6655491.html"
-    },
-    {
-      "title": "Sophos Firewall",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Sophos-Firewall-koennte-Schadcode-passieren-lassen-6653493.html"
     },
     {
       "title": "Webbrowser Chrome: Version 100 ist da",
@@ -59,15 +59,21 @@
       "url": "https://www.heise.de/news/Fahrplan-der-Cyberagentur-Mit-IT-Security-Forschung-Teil-der-Weltspitze-werden-6656209.html"
     },
     {
-      "title": "Root-Lücke im netfilter-Subsystem des Linux-Kernels",
-      "teaser": "Angreifer könnten aufgrund von Sicherheitslücken in nf_tables im Linux-Kernel ihre Rechte zu Root ausweiten. Patches dichten die Sicherheitslecks ab.",
-      "url": "https://www.heise.de/news/Root-Luecke-im-netfilter-Subsystem-des-Linux-Kernels-6656053.html",
-      "image_title": "Aufmacher root-Lücke in nf_tables im Linux-Kernel"
+      "title": "Parrot OS 5.0: Neuer Debian-Unterbau und frische Tools",
+      "teaser": "Das vogelbunte Linux-System etwa zum Suchen von Sicherheitslücken lässt sich auf dem Stable-Zweig Debians nieder. Neu ist eine Ausgabe für den Raspberry Pi 4.",
+      "url": "https://www.heise.de/news/Parrot-OS-5-0-Neuer-Debian-Unterbau-und-frische-Tools-6655793.html",
+      "image_title": "Aufmacher Parrot OS 5.0"
     },
     {
       "title": "Kritische Schadcode-Lücke in In-Memory-Datenbank Redis geschlossen",
       "teaser": "Das Zusammenspiel von Debian-Systemen und Redis kann zu ernsten Sicherheitsproblemen führen. Dagegen abgesicherte Versionen schaffen Abhilfe.",
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-in-In-Memory-Datenbank-Redis-geschlossen-6655726.html"
+    },
+    {
+      "title": "Netzausfall durch Cyberangriff auf ukrainischen Internetprovider",
+      "teaser": "In der Nacht kam es zu einem massiven Cyberangriff auf einen der größten ukrainischen Internetprovider. Die Lage normalisiert sich inzwischen jedoch wieder.",
+      "url": "https://www.heise.de/news/Cyberangriff-fuehrt-zu-Netzwerkausfaellen-bei-ukrainischen-Internetprovider-6655534.html",
+      "image_title": "Aufmacher massiver Cyberangriff auf Ukrtelecom"
     },
     {
       "title": "Geräteübernahme durch Sicherheitslücke in Zyxel Firewalls",
@@ -151,11 +157,6 @@
       "teaser": "Tausende Rechner aus dem Energiesektor in über hundert Ländern hätten die russisch-staatlichen Einbrecher kompromittiert. Nun erhebt die US-Justiz Anklage.",
       "url": "https://www.heise.de/news/US-Justiz-klagt-vier-russische-Cyberkriminelle-an-6629895.html",
       "image_title": "Aufmacher US-Justiz klagt 4 russische Kriminelle an"
-    },
-    {
-      "title": "Hacker-Gruppe Lapsus$: Sieben Teenager in Großbritannien festgenommen",
-      "teaser": "In Großbritannien sind sieben Teenager in Verbindung mit Ermittlungen zur Lapsus$-Gruppe festgenommen worden. Ein 16-Jähriger soll Kopf der Gruppe sein.",
-      "url": "https://www.heise.de/news/Hacker-Gruppe-Lapsus-Sieben-Teenager-in-Grossbritannien-festgenommen-6625675.html"
     },
     {
       "title": "secIT by Heise 2022",
