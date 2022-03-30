@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-03-30T17:19:59",
+  "timestamp": "2022-03-30T18:25:23",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,12 +78,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -128,11 +122,25 @@
   ],
   "articles": [
     {
+      "title": "Stadt der Standhaften",
+      "teaser": "Es ist ein ewiges Donnern und Grollen, vor Kiew greifen die russischen Truppen fast Tag und Nacht an. Aber die Menschen wissen sich zu wehren. Szenen aus der umkämpften Hauptstadt.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/kiew-stadt-der-standhaften-e871323/",
+      "author": "Tomas Avenarius und Sonja Zekri, Kiew",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557898/1000x420"
+    },
+    {
       "title": "Was macht Abramowitsch bei den Friedensverhandlungen?",
       "teaser": "Der in der EU und in Großbritannien sanktionierte Milliardär war bei den Gesprächen in der Türkei dabei. Nur: In welcher Rolle? Und was hat er selbst davon?",
       "url": "https://www.sueddeutsche.de/politik/abramowitsch-chelsea-friedensverhandlung-1.5557646",
       "author": "Florian Hassel und Michael Neudecker",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557647/1000x420"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557647/208x156"
+    },
+    {
+      "title": "Deutschland findet kaum Oligarchen-Vermögen",
+      "teaser": "Inländische Banken haben bis zum 21. März insgesamt 95 Millionen Euro eingefroren. Andere Länder sind da schon weiter.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/oligarchen-vermoegen-1.5557817",
+      "author": "Meike Schreiber , Frankfurt",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557818/208x156"
     },
     {
       "title": "Habeck fordert zum Energiesparen auf",
@@ -146,14 +154,6 @@
       "url": "https://www.sueddeutsche.de/kultur/anna-netrebko-krieg-in-der-ukraine-1.5557836",
       "author": "Egbert Tholl",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5554832/208x156"
-    },
-    {
-      "title": "Wo die Front verläuft - Tag 35",
-      "teaser": "Die russischen Streitkräfte kündigen an, die Angriffe auf Kiew zu reduzieren. Was bedeutet das? Haben sie den Kampf um die Hauptstadt verloren? Und was kommt jetzt? Der Überblick in Karten.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/krieg-in-der-ukraine-wo-die-front-verlaeuft-e898286/",
-      "author": "SZ-Autoren",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557800/600x337",
-      "image_title": "Online-/Digital-Grafik"
     },
     {
       "title": "Bundesregierung bereitet neue Waffenlieferungen in die Ukraine vor",
@@ -182,6 +182,13 @@
       "url": "https://www.sueddeutsche.de/politik/botschafter-seibert-lambsdorff-1.5557901",
       "author": "Paul-Anton Krüger, Berlin",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5317038/208x156"
+    },
+    {
+      "title": "60 Morde an einem Tag",
+      "teaser": "El Salvador hatte gehofft, die schlimmsten Zeiten der Ganggewalt seien vorbei. Doch nun gab es in wenigen Tagen so viele Morde, wie sonst in einem ganzen Monat - und die Regierung, so die Sorge, könnte das Chaos für sich nutzen.",
+      "url": "https://www.sueddeutsche.de/politik/morde-el-salvador-nayib-bukele-1.5557725",
+      "author": "Christoph Gurk , Buenos Aires",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557728/208x156"
     },
     {
       "title": "Goldgrube Biontech",
@@ -232,13 +239,6 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5556933/208x156"
     },
     {
-      "title": "\"Die Gedanken kreisen um diese düsteren Themen\"",
-      "teaser": "Oscar Isaac spielt in der Marvel-Serie \"Moon Knight\" gleich drei Rollen, eine finsterer als die andere. Ein Gespräch über Helden mit Persönlichkeitsstörung, millionenschwere Blockbuster und Latino-Rollenklischees.",
-      "url": "https://www.sueddeutsche.de/medien/oscar-isaac-moon-knight-marvel-1.5557311",
-      "author": "Interview von Anke Sterneborg",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557089/600x337"
-    },
-    {
       "title": "Europa steht vor einer Prüfung in Solidarität",
       "teaser": "Falls der Kreml tatsächlich auf Zahlung in Rubel pocht, könnten Russlands Gaslieferungen versiegen. Die Bundesregierung beruft Krisenstäbe ein und ruft zum Energiesparen auf. Die größte Herausforderung aber ist eine andere.",
       "url": "https://www.sueddeutsche.de/meinung/gas-meinung-europa-russland-1.5557508",
@@ -268,11 +268,11 @@
       "image_title": "Suchaktion im Mordfall Sonja Engelbrecht"
     },
     {
-      "title": "München macht Löwenstadion fit für die zweite Liga",
-      "teaser": "Der Sportausschuss der Stadt votiert für die teuerste Sanierungsvariante der traditionsreichen Arena. Die erwartete Gegenleistung der künftigen Nutzer ist eher symbolischer Natur.",
-      "url": "https://www.sueddeutsche.de/muenchen/gruenwalder-stadion-politik-muenchen-stadtrat-muenchen-1.5557821",
-      "author": "Joachim Mölter",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557375/208x156"
+      "title": "FDP und ÖDP klagen gegen die Stadt - und verlieren",
+      "teaser": "Vor etwa zwei Jahren setzten die großen Stadtratsfraktionen eine neue Zuteilung der Ausschussplätze durch, die tendenziell stärkere Parteien begünstigt. Dagegen wollten sich die kleinen Fraktionen am Verwaltungsgericht wehren - vergebens.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-fdp-oedp-geschaeftsordnung-kleine-fraktionen-stadtrat-gericht-1.5557729",
+      "author": "Anna Hoben",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.4100039/208x156"
     },
     {
       "title": "So lebt es sich im Arabella-Hochhaus",
@@ -342,6 +342,13 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5481447/208x156"
     },
     {
+      "title": "Risiko Klassenfahrt?",
+      "teaser": "2019 stirbt die diabeteskranke Emily auf einer Schulfahrt nach London, zwei mitreisende Lehrerinnen werden nun angeklagt. Über die schwierige Frage, wer in solchen Fällen die Verantwortung trägt.",
+      "url": "https://www.sueddeutsche.de/panorama/emily-schulfahrt-tod-lehrkraefte-aufsichtspflicht-1.5557763",
+      "author": "Friedrich Conradi",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557764/208x156"
+    },
+    {
       "title": "Keilen und heilen",
       "teaser": "Jada Pinkett Smith meldet sich zu Wort, Alec Baldwin freut sich über einen Baldwinito, und Atze Schröder hat von seinem Vater ein paar ernste Worte mit auf den Weg bekommen.",
       "url": "https://www.sueddeutsche.de/panorama/jada-pinkett-smith-will-smith-oscars-alec-baldwin-promis-promi-news-1.5557496",
@@ -352,20 +359,6 @@
       "teaser": "2011 wurde Andreas Darsow schuldig gesprochen, noch immer beteuert er seine Unschuld. Eine neue Beweisaufnahme in einem Zivilverfahren, in dem es um 70 000 Euro ging, lehnt ein Gericht nun ab.",
       "url": "https://www.sueddeutsche.de/panorama/darsow-doppelmord-beweisaufnahme-babenhausen-1.5557785",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5557786/208x156"
-    },
-    {
-      "title": "Stolz wie Oma",
-      "teaser": "Wer hätte nicht auch gerne so eine Großmutter wie der Fußballer Nico Schlotterbeck? Ihre Spielanalyse ist ein Volltreffer.",
-      "url": "https://www.sueddeutsche.de/panorama/nico-schlotterbeck-oma-helga-keller-grossmuetter-1.5557649",
-      "author": "Violetta Simon",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557655/208x156"
-    },
-    {
-      "title": "Deutschland findet kaum Oligarchen-Vermögen",
-      "teaser": "Inländische Banken haben bis zum 21. März insgesamt 95 Millionen Euro eingefroren. Andere Länder sind da schon weiter.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/oligarchen-vermoegen-1.5557817",
-      "author": "Meike Schreiber , Frankfurt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557818/208x156"
     },
     {
       "title": "Boris Palmer verliert gegen McDonald's im Tübinger Müllstreit",
@@ -381,6 +374,13 @@
       "author": "Interview von Marc Beise",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5557422/208x156",
       "image_title": "Wirtschaft und Konjunktur: Ein Hafen in der Abendsonne"
+    },
+    {
+      "title": "Steigende Energiepreise machen das Leben spürbar teurer",
+      "teaser": "Die Inflation legt rasant zu - auf 7,3 Prozent. Solche Werte gab es seit 40 Jahren nicht. Warum sich die Lage wohl noch weiter zuspitzen wird.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/inflation-ezb-energie-ukraine-1.5557469",
+      "author": "Markus Zydra, Frankfurt",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5557470/208x156"
     },
     {
       "title": "Ukraine: \"Alle sind davon überzeugt: Wir werden siegen!\"",
