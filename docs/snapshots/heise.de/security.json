@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-01T07:20:07",
+  "timestamp": "2022-04-01T08:26:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "RaspberryMatic",
+      "url": "https://www.heise.de/news/Smart-Home-Uebernahme-durch-kritische-Sicherheitsluecke-in-RaspberryMatic-moeglich-6659606.html"
+    },
+    {
       "title": "macOS, iOS, iPadOS",
       "url": "https://www.heise.de/news/iOS-15-4-1-und-macOS-12-3-1-Apple-geht-Akku-und-Display-Probleme-an-6659375.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Alte-Sicherheitsluecke-in-zlib-koennte-Codeschmuggel-ermoeglichen-6657233.html"
     },
     {
-      "title": "Trend Micro Apex Central",
-      "url": "https://www.heise.de/news/Jetzt-updaten-Angriffe-auf-Sicherheitsluecke-in-Trend-Micro-Apex-Central-6656849.html"
+      "title": "macOS: Zugänglicher Daemon erlaubte fieses Apple-ID-Phishing",
+      "teaser": "Unter Verwendung von Systemroutinen war es möglich, Apples zentralen Account abzufischen. Der Konzern reagierte nur mit Verzögerung.",
+      "url": "https://www.heise.de/news/macOS-Zugaenglicher-Daemon-erlaubte-fieses-Apple-ID-Phishing-6659000.html"
     },
     {
       "title": "iOS 15.4.1 und macOS 12.3.1: Apple geht Akku- und Display-Probleme an",
@@ -64,12 +69,6 @@
       "url": "https://www.heise.de/news/Verwirrung-um-kritische-Sicherheitsluecke-im-Umfeld-des-Spring-Framework-6658510.html"
     },
     {
-      "title": "Netzwerkhersteller Ubiquiti verklagt IT-Sicherheitsexperten Brian Krebs",
-      "teaser": "Der renommierte Journalist und IT-Sicherheitsexperte Brian Krebs wurde vom Hersteller Ubiquiti für seine angeblich falsche Berichterstattung verklagt.",
-      "url": "https://www.heise.de/news/Netzwerktechnikhersteller-Ubiquiti-verklagt-Brian-Krebs-auf-Schadensersatz-6658337.html",
-      "image_title": "Aufmacher Krebs von Ubiquiti verklagt"
-    },
-    {
       "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
       "teaser": "Die zweitägige Schulung bereitet Sie auf Prüfungen im Rahmen der Umsetzung des § 8a (3) des BSI-Gesetzes vor. 10 Prozent Frühbucherrabatt bis 18.4.",
       "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Spezielle-Pruefverfahrenskompetenz-fuer-8a-BSIG-6657584.html",
@@ -81,9 +80,21 @@
       "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-pruefen-und-zertifizieren-6657503.html"
     },
     {
+      "title": "Alte Sicherheitslücke in zlib könnte Codeschmuggel ermöglichen",
+      "teaser": "Eine kürzlich entdeckte Sicherheitslücke in zlib könnte Angreifern ermöglichen, Schadcode auszuführen. Ein Patch steht seit vier Jahren bereit.",
+      "url": "https://www.heise.de/news/Alte-Sicherheitsluecke-in-zlib-koennte-Codeschmuggel-ermoeglichen-6657233.html",
+      "image_title": "Aufmacher Alte Sicherheitslücke in zlib"
+    },
+    {
       "title": "Trotz Festnahmen: Hacker-Gruppe Lapsus$ leakt offenbar weiter erbeutete Daten",
       "teaser": "Trotz der Festnahme angeblicher Mitglieder, ist die Lapsus$-Gruppe wohl weiter aktiv. 70 Gigabyte an Daten aus einem weiteren Hack wurden jetzt öffentlich.",
       "url": "https://www.heise.de/news/Trotz-Festnahmen-Hacker-Gruppe-Lapsus-leakt-offenbar-weiter-erbeutete-Daten-6657245.html"
+    },
+    {
+      "title": "Jetzt aktualisieren! Angriffe auf Sicherheitslücke in Trend Micro Apex Central",
+      "teaser": "Trend Micro warnt vor Angriffen auf eine Sicherheitslücke in zentralen Verwaltungssoftware Apex Central. Zum Abdichten des Lecks stehen Updates bereit.",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Angriffe-auf-Sicherheitsluecke-in-Trend-Micro-Apex-Central-6656849.html",
+      "image_title": "Aufmacher Angriffe auf Trend Micro Apex Central"
     },
     {
       "title": "Chrome 100 bringt Multi-Monitor-Setup und schließt 28 Sicherheitslücken",
@@ -146,17 +157,6 @@
       "teaser": "Mit Kaspersky gilt für die FCC erstmals ein nicht-chinesisches Unternehmen als Sicherheitsrisiko. Damit wird die Firma von US-Fördergeld abgeschnitten.",
       "url": "https://www.heise.de/news/USA-FCC-stuft-Kaspersky-Software-als-Risiko-fuer-die-nationale-Sicherheit-ein-6653565.html",
       "image_title": "Warsaw,,Poland,-,July,,2019:,Kaspersky,Lab,Logotype,On,The"
-    },
-    {
-      "title": "Sicherheitsupdate: Sophos Firewall könnte Schadcode passieren lassen",
-      "teaser": "Die Firewall von Sophos ist löchrig. Aktualisierte Versionen lösen das Sicherheitsproblem.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Sophos-Firewall-koennte-Schadcode-passieren-lassen-6653493.html"
-    },
-    {
-      "title": "Firewall: Kritische Lücke in Sonicwall erlaubt Angreifern Einschmuggeln von Code",
-      "teaser": "In zahlreichen Sonicwall-Modellen klafft eine Sicherheitslücke, durch die Angreifer mit manipulierten Paketen Code einschleusen oder das Gerät lahmlegen können.",
-      "url": "https://www.heise.de/news/Firewall-Kritische-Luecke-in-Sonicwall-erlaubt-Angreifern-einschmuggeln-von-Code-6653073.html",
-      "image_title": "Aufmacher SonicWALL SIcherheitsupdate"
     },
     {
       "title": "secIT by Heise 2022",
