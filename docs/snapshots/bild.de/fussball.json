@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-04-01T15:22:37",
+  "timestamp": "2022-04-01T16:32:47",
   "url": "https://www.bild.de/sport/fussball/fussball/home-15769054.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,46 +25,634 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,75181336.1-56687664.11.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.4c155a00.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.fbbdcd5f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.568b9cdd.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.bac10625.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.dbe7a27d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.81b64891.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Häßler & Hertha-Stars : Fußball-Camp lädt Ukraine-Kinder ein",
+      "url": "https://www.bild.de/sport/fussball/fussball/haessler-rehmer-fussball-camp-laedt-ukraine-kinder-ein-79641734.bild.html",
+      "image_url": "https://images.bild.de/6246f88429e37c79421fd56c/7b667d11fe8de8c28e68a9cf53eb95ef/1/3?w=656",
+      "image_title": "Häßler & Rehmer: Fußball-Camp lädt Ukraine-Kinder ein"
+    },
+    {
+      "title": "Auslosung ab 18 Uhr im Liveticker : DFB-Team droht Hammer-Gruppe",
+      "url": "https://www.bild.de/sport/fussball/fussball/wm-in-katar-auslosung-ab-18-uhr-im-liveticker-bloss-nicht-man-und-mbapp-79630402.bild.html",
+      "image_url": "https://images.bild.de/6245cdabf857a30b3f788e15/f6264cffb5d84c570b423cca153e9656-miniSquare/1/3?w=320",
+      "image_title": "Katar-WM 2022: Auslosung ab 18 Uhr – alle Informationen HIER im Liveticker!"
+    },
+    {
+      "title": "„Pflichtaufgabe\" Bonn? : Hildmann will Preußen sexy machen",
+      "url": "https://www.bild.de/sport/fussball/fussball/pflichtaufgabe-bonn-hildmann-will-preussen-sexy-machen-79640234.bild.html",
+      "image_url": "https://images.bild.de/62470427435b2d2bcc47ef3c/5ebfc348123191179a97d2855b3a5c25-miniSquare/1/3?w=320",
+      "image_title": "„Pflichtaufgabe\" Bonn?: Hildmann will Preußen sexy machen"
+    },
+    {
+      "title": "Damen-Team übernommen : Das steckt hinter Heidels Frauen-Offensive",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/mainz-05-damen-team-uebernommen-das-steckt-hinter-der-frauen-offensive-79641654.bild.html",
+      "image_url": "https://images.bild.de/62471eed29e37c79421fd5c1/2eeb73cf3cad0fde32314229e376e45c-miniSquare/1/3?w=320",
+      "image_title": "Mainz 05: Damen-Team übernommen! Das steckt hinter der Frauen-Offensive"
+    },
+    {
+      "title": "Kolumbianer fit : Ballert Borré gegen Fürth wieder die Tor-Krise weg?",
+      "url": "https://www.bild.de/sport/fussball/fussball/ballert-eintracht-frankfurts-rafael-borr-gegen-fuerth-wieder-die-tor-krise-weg-79641758.bild.html"
+    },
+    {
+      "title": "Gelbe Gefahr! : Werder droht Kettensprengung",
+      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-gelbe-gefahr-ole-werner-droht-eine-kettensprengung-79640288.bild.html"
+    },
+    {
+      "title": "FRAU-fL im Halbfinale : Schlager & Arnold bei Wolfsburger Top-Fußball",
+      "url": "https://www.bild.de/sport/fussball/fussball/vfl-wolfsburg-fussball-frauen-machen-es-den-maennern-vor-79635006.bild.html"
+    },
+    {
+      "title": "Reif ist Live vom 01.04.2022 : WM-Auslosung, DFB-Team und Top-Spiel BVB gegen RBL",
+      "teaser": "TV-Experte Marcel Reif spricht über die Auslosung der Vorrunden-Gruppen der WM 2022 in ...",
+      "url": "https://www.bild.de/video/clip/video/reif-ist-live-vom-01-04-2022-wm-auslosung-dfb-team-und-top-spiel-bvb-gegen-rbl-79635442,auto=true.bild.html",
+      "image_title": "Reif ist Live vom 01.04.2022: WM-Auslosung, DFB-Team und Top-Spiel BVB gegen RBL"
+    },
+    {
+      "title": "Nach 34 Jahren! : Warum spielte Bayer im Uefa-Cup in zwei Trikots?",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/nach-34-jahren-darum-spielte-bayer-im-uefa-cup-finale-in-zwei-trikots-79529308,auto=true.bild.html",
+      "image_title": "Nach 34 Jahren!: Darum spielte Bayer im UEFA-Cup-Finale in zwei Trikots"
+    },
+    {
+      "title": "Fuß ist dick und blau : Rose über drohenden Haaland-Ausfall",
+      "teaser": "Marco Rose erklärt auf der Pk vor dem Spiel gegen Leipzig, ob sein Star-Stürmer Erling ...",
+      "url": "https://www.bild.de/video/clip/sport-videos/fuss-ist-dick-und-blau-rose-ueber-drohenden-haaland-ausfall-79628866,auto=true.bild.html",
+      "image_title": "Fuß ist dick und blau: Rose über drohenden Haaland-Ausfall"
+    },
+    {
+      "title": "Sohn trifft wie Ronaldo : Real-Star eskaliert auf der Tribüne!",
+      "teaser": "Real-Star Marcelo kann seine Freude über das Tor von Sohn Enzo so gar nicht zurückhalten.",
+      "url": "https://www.bild.de/video/clip/sport-videos/real-madrid-marcelo-eskaliert-nach-cristiano-ronaldo-tor-von-sohn-enzo-79625634-79626688,auto=true.bild.html",
+      "image_title": "Real Madrid: Marcelo eskaliert nach Cristiano-Ronaldo-Tor von Sohn Enzo"
+    },
+    {
+      "title": "Türkei-Sensation : Dieser Knirps fliegt schon wie Neuer!",
+      "teaser": "Ugur Avsin Toprak aus der Türkei begeistert Instagram mit Weltklasse-Paraden.",
+      "url": "https://www.bild.de/video/clip/sport-videos/tuerkei-sensation-ugur-avsin-toprak-dieser-knirps-fliegt-wie-neuer-neuer-viral-dane-79625634,auto=true.bild.html",
+      "image_title": "Türkei-Sensation Ugur Avsin Toprak: Dieser Knirps fliegt wie Neuer Neuer"
+    },
+    {
+      "title": "Wilde Polen-Party : ... aber was ist denn mit Lewandowski los?",
+      "teaser": "Robert Lewandowski wirkt auf der Polen-Party nach dem 2:0 gegen Schweden nicht fit.",
+      "url": "https://www.bild.de/video/clip/sport-videos/robert-lewandowski-auf-polen-party-nach-wm-playoffs-gegen-schweden-nicht-fit-79625634-79626828,auto=true.bild.html",
+      "image_title": "Robert Lewandowski auf Polen-Party nach WM-Playoffs gegen Schweden nicht fit"
+    },
+    {
+      "title": "Dank Assi Peintinger : Rettungs-Matchball für Hütter!",
+      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-rettungs-matchball-fuer-adi-huetter-79641646.bild.html",
+      "image_title": "Borussia Mönchengladbach: Rettungs-Matchball für Adi Hütter!"
+    },
+    {
+      "title": "Zukunft des Ur-Bayers : Erste Verhandlungen mit Müller!",
+      "teaser": "Jetzt spricht Bayern endlich mit Thomas Müller (32) über die Zukunft!",
+      "url": "https://www.bild.de/sport/fussball/fussball/fc-bayern-muenchen-es-geht-um-die-zukunft-des-bayern-stars-erste-verhandlungen-m-79638604.bild.html",
+      "image_title": "FC Bayern München: Es geht um die Zukunft des Bayern-Stars: Erste Verhandlungen mit Thomas Müller!"
+    },
+    {
+      "title": "Neuer Spitzname : Nagelsmann verrät: Ich bin jetzt Vegetarier",
+      "teaser": "Julian Nagelsmann (34) ist seinen Spitznamen los! Grund: Der Bayern-Trainer ist seit rund einem Monat Vegetarier. Mit am liebsten is...",
+      "url": "https://www.bild.de/sport/fussball/fussball/fc-bayern-nagelsmann-verraet-ich-bin-jetzt-vegetarier-79638052.bild.html",
+      "image_title": "FC Bayern: Julian Nagelsmann verrät - Ich bin jetzt Vegetarier"
+    },
+    {
+      "title": "Freiburg-Stürmer heiß : Höler plant 1. Bayern-Streich",
+      "teaser": "Haut Lucas endlich die Bayern weg? Freiburg -Stürmer Höler traf dreimal, siegte aber nie.",
+      "url": "https://www.bild.de/sport/fussball/fussball/sc-freiburgs-stuermer-lucas-hoeler-plant-seinen-ersten-bayern-sieg-79640472.bild.html",
+      "image_title": "SC Freiburg: Stürmer Lucas Höler plant seinen ersten Bayern-Sieg"
+    },
+    {
+      "title": "Transfer im Sommer? : Über diesen Verteidiger spricht man bei Leipzig",
+      "teaser": "RB Leipzig plant die neue Saison. Ein, zwei Neue sollen kommen. Auch dieser Verteidiger?",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/transfer-im-sommer-ueber-diesen-verteidiger-spricht-man-bei-rb-leipzig-79638562.bild.html",
+      "image_title": "Transfer im Sommer? Über diesen Verteidiger spricht man bei RB Leipzig"
+    },
+    {
+      "title": "Aua, Duda! : Diesen Schmerz fühlt jeder Mann",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/aua-duda-diesen-schmerz-fuehlt-jeder-mann-79472450,auto=true.bild.html",
+      "image_title": "Aua, Duda!: Diesen Schmerz fühlt jeder Mann"
+    },
+    {
+      "title": "Tor verpasst! : Poulsen will ins Tor dribbeln",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/tor-verpasst-poulsen-will-ins-tor-dribblen-79472400,auto=true.bild.html",
+      "image_title": "Tor verpasst!: Poulsen will ins Tor dribbeln"
+    },
+    {
+      "title": "Hitzige Szene : Hier gibt's gleich viermal gelb!",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/hitzige-szene-hier-gibts-gleich-viermal-gelb-79472432,auto=true.bild.html",
+      "image_title": "Hitzige Szene: Hier gibt's gleich viermal gelb!"
+    },
+    {
+      "title": "Ein Muss für Fans : Hier gibt's Bayerns Tor-Parade",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/ein-muss-fuer-fans-hier-gibts-bayerns-tor-parade-79472372,auto=true.bild.html",
+      "image_title": "Ein Muss für Fans: Hier gibt's Bayerns Tor-Parade!"
+    },
+    {
+      "title": "Was für ein Sieg! : Dieses Video lässt Stuttgart ausrasten",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/was-fuer-ein-sieg-dieses-video-laesst-ganz-stuttgart-ausrasten-79472286,auto=true.bild.html",
+      "image_title": "Was für ein Sieg! Dieses Video lässt ganz Stuttgart ausrasten"
+    },
+    {
+      "title": "Hertha lebt : Dieses Spiel ist pure Magath-Magie!",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/hertha-lebt-dieses-spiel-ist-pure-magath-magie-79472332,auto=true.bild.html",
+      "image_title": "Hertha lebt: Dieses Spiel ist pure Magath-Magie!"
+    },
+    {
+      "title": "Mainz-Wahnsinn : 3 Elfer-Tore in 14 Minuten!",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/mainz-wahnsinn-3-elfer-tore-in-13-minuten-79472316,auto=true.bild.html",
+      "image_title": "Mainz-Wahnsinn: 3 Elfer-Tore in 14 Minuten!"
+    },
+    {
+      "title": "Kopftreffer! : Fürth-Star k.o. geschossen",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/fuerth-freiburg-simon-asta-k-o-geschossen-bundesliga-highlights-79472354,auto=true.bild.html",
+      "image_title": "Fürth - Freiburg: Simon Asta k.o. geschossen - Bundesliga-Highlights"
+    },
+    {
+      "title": "Nach Becher-Wurf : Bochum-Torwart geht auf eigene Fans los!",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/nach-spielabbruch-bochum-torwart-geht-auf-eigene-fans-los-79472260,auto=true.bild.html",
+      "image_title": "Nach Becher-Wurf: Bochum-Torwart geht auf eigene Fans los!"
+    },
+    {
+      "title": "Hansa gegen St. Pauli : Trainer Härtel hofft auf Fan-Funken",
+      "url": "https://www.bild.de/sport/fussball/fussball/hansa-gegen-st-pauli-trainer-haertel-hofft-auf-fan-funken-79641572.bild.html",
+      "image_title": "Hansa gegen St. Pauli: Trainer Härtel hofft auf Fan-Funken"
+    },
+    {
+      "title": "Wie lange hält die Luft? : Corona-Aufatmen in Darmstadt",
+      "teaser": "Darmstadt ist raus aus dem Corona-Chaos! Aber wie lange hält die Luft gegen Kiel?",
+      "url": "https://www.bild.de/sport/fussball/fussball/2-liga-wie-lange-haelt-die-luft-corona-aufatmen-beim-sv-darmstadt-79640482.bild.html",
+      "image_title": "2. Liga: Wie lange hält die Luft?: Corona-Aufatmen beim SV Darmstadt"
+    },
+    {
+      "title": "Suhonen der Nächste : Heyer verlängert beim HSV bis 2026",
+      "teaser": "Beim HSV geht's weiter Schlag auf Schlag. Jetzt verlängerte Moritz Heyer bis 2026.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hsv-heyer-verlaengert-bis-2026-suhonen-wird-der-naechste-79639732.bild.html",
+      "image_title": "HSV: Heyer verlängert bis 2026 – Suhonen wird der Nächste:"
+    },
+    {
+      "title": "Hansa gegen St. Pauli : Darum steigt das Brisanz-Duell abends",
+      "teaser": "Ein Hochrisikospiel bei Dunkelheit? Die Klubs sind irritiert, die Polizei gibt grünes Licht.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hansa-samstag-gegen-st-pauli-darum-steigt-das-brisanz-duell-abends-79631094.bild.html",
+      "image_title": "Hansa Samstag gegen St. Pauli: Darum steigt das Brisanz-Duell abends"
+    },
+    {
+      "title": "Geheime HSV-Pläne : Millionen-Angriff auf die 1. Liga",
+      "teaser": "Drei Mio-Deals in zehn Tagen. Mit den Millionen plant der HSV den Aufstiegs-Angriff.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/hsv-geheime-plaene-millionen-angriff-auf-die-1-liga-79628376.bild.html",
+      "image_title": "HSV: Geheime Pläne! Millionen-Angriff auf die 1. Liga"
+    },
+    {
+      "title": "Hannover 96 : Dabro droht der Zimbo-Absturz",
+      "teaser": "Im November wurde Dabrowski Nachfolger von Trainer Zimmermann. Nun gibt es Parallelen...",
+      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-christoph-dabrowski-droht-absturz-wie-jan-zimmermann-79627352.bild.html",
+      "image_title": "Hannover 96: Christoph Dabrowski droht Absturz wie Jan Zimmermann"
+    },
+    {
+      "title": "Voll durch die Beine : Regensburg trifft aus Wahnsinns-Winkel",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/voll-durch-die-beine-regensburg-trifft-aus-wahnsinns-winkel-79472094,auto=true.bild.html",
+      "image_title": "Voll durch die Beine: Regensburg trifft aus Wahnsinns-Winkel"
+    },
+    {
+      "title": "Aus 40M an den Pfosten : Kiel verpasst Traumtor haarscharf",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/aus-40-metern-an-den-pfosten-kiel-verpasst-traumtor-haarscharf-2-bundesliga-79472056,auto=true.bild.html",
+      "image_title": "Aus 40 Metern an den Pfosten: Kiel verpasst Traumtor haarscharf – 2. Bundesliga"
+    },
+    {
+      "title": "Kein Sieg für den Club : Nur kurzer Jubel über Traum-Schlenzer",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/nuernberg-dresden-schoener-schlenzer-laesst-club-nur-kurz-jubeln-79472082,auto=true.bild.html",
+      "image_title": "Nürnberg - Dresden: Schöner Schlenzer lässt Club nur kurz jubeln"
+    },
+    {
+      "title": "Noch ein Becher-Wurf : So genial reagieren Werder-Fans!",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/noch-ein-becher-wurf-so-genial-reagieren-werder-fans-79472028,auto=true.bild.html",
+      "image_title": "Noch ein Becher-Wurf: So genial reagieren Werder-Fans!"
+    },
+    {
+      "title": "Unglaubliche Szene : HSV vergibt Tausendprozentige",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/unglaubliche-szene-hsv-vergibt-tausendprozentige-79471994,auto=true.bild.html",
+      "image_title": "Unglaubliche Szene! HSV vergibt Tausendprozentige"
+    },
+    {
+      "title": "Ob das gewollt war? : Pfosten verhindert Einwurf-Tor",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/ob-das-gewollt-war-pfosten-verhindert-einwurf-tor-79472006,auto=true.bild.html",
+      "image_title": "Ob das gewollt war? : Pfosten verhindert Einwurf-Tor"
+    },
+    {
+      "title": "Zalazar wie Neymar : Schalke-Star rollt und rollt",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/fc-schalke-04-hannover-96-zalazar-kommt-aus-dem-rollen-nicht-mehr-raus-79471982,auto=true.bild.html",
+      "image_title": "FC Schalke 04 - Hannover 96: Zalazar kommt aus dem Rollen nicht mehr raus"
+    },
+    {
+      "title": "Wahnsinn Wanitzek! : Diesen KSC-Knaller müssen Sie sehen!",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/wahnsinn-wanitzek-diesen-karlsruhe-knaller-muessen-sie-sehen-79471966,auto=true.bild.html",
+      "image_title": "Wahnsinn Wanitzek!: Diesen KSC-Knaller müssen Sie sehen!"
+    },
+    {
+      "title": "Vor vollem Millerntor : Kyereh schleicht St. Pauli auf Platz 1",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/st-pauli-heidenheim-kyereh-laesst-volles-millerntor-jubeln-highlights-79471954,auto=true.bild.html",
+      "image_title": "St. Pauli - Heidenheim: Kyereh lässt volles Millerntor jubeln - Highlights"
+    },
+    {
+      "title": "Nach Trainer-Beben : Zalazar-Show bei Schalke-Sieg",
+      "url": "https://www.bild.de/bild-plus/video/clip/sport-videos/ingolstadt-schalke-04-zalazar-fuehrt-schalke-zum-sieg-79400710,auto=true.bild.html",
+      "image_title": "Ingolstadt – Schalke 04: Zalazar-Show bei Schalke-Sieg"
+    },
+    {
+      "title": "Er kickte beim SC Freiburg : DFB verpflichtet National-Streamer für Twitch",
+      "url": "https://www.bild.de/sport/fussball/nationalmannschaft/dfb-verpflichtet-national-streamer-xpazzoo-fuer-twitch-was-er-machen-soll-79627098.bild.html",
+      "image_title": "DFB verpflichtet National-Streamer Xpazzoo“ für Twitch - was er machen soll"
+    },
+    {
+      "title": "Freitag WM-Auslosung : Flick-Elf droht Knaller oder Katar",
+      "teaser": "Freitag werden die Gruppen für die WM ausgelost. Deutschland droht ein Knaller - oder Katar.",
+      "url": "https://www.bild.de/sport/fussball/fussball/wm-auslosung-deutschland-droht-knaller-oder-katar-79621220.bild.html",
+      "image_title": "WM-Auslosung: Deutschland droht Knaller oder Katar"
+    },
+    {
+      "title": "PCR-positiv am Spielfeld : Das sagt Flick zum Wirbel um van Gaal",
+      "teaser": "Trotz positiven PCR-Tests stand Holland-Coach van Gaal gegen Deutschland an der Linie.",
+      "url": "https://www.bild.de/sport/fussball/nationalmannschaft/pcr-positiv-dabei-was-flick-zum-corona-wirbel-um-holland-coach-van-gaal-sagt-79618226.bild.html",
+      "image_title": "PCR-positiv dabei! Was Flick zum Corona-Wirbel um Holland-Coach van Gaal sagt"
+    },
+    {
+      "title": "Kommentar : Die WM kann kommen",
+      "teaser": "Titelfavorit? Nein! Aber es ist auch kein Gegner in Sicht, der für uns unschlagbar wäre.",
+      "url": "https://www.bild.de/sport/fussball/fussball/katar-2022-kommentar-zur-gruppen-auslosung-die-wm-kann-kommen-79620896.bild.html",
+      "image_title": "Katar 2022: Kommentar zur Gruppen-Auslosung – Die WM kann kommen"
+    },
+    {
+      "title": "Live im TV : Schweinsteiger überrascht van Gaal mit Geschenk",
+      "teaser": "Bastian Schweinsteiger hatte für Holland-Trainer van Gaal ein besonderes Präsent parat.",
+      "url": "https://www.bild.de/sport/fussball/nationalmannschaft/sportschau-ard-experte-schweinsteiger-ueberrascht-van-gaal-mit-diesem-geschenk-79614548.bild.html",
+      "image_title": "Sportschau (ARD): Experte Schweinsteiger überrascht van Gaal mit DIESEM Geschenk"
+    },
+    {
+      "title": "Freitag Auslosung in Katar : Diese Gegner drohen uns bei der WM – Stand jetzt!",
+      "teaser": "Jetzt wirds ernst! Am Freitag findet die Auslosung der WM-Gruppenphase statt.",
+      "url": "https://www.bild.de/sport/fussball/fussball/wm-in-katar-diese-gegner-drohen-unseren-dfb-jungs-bei-der-wm-stand-jetzt-79611314.bild.html",
+      "image_title": "WM in Katar: Diese Gegner drohen unseren DFB-Jungs bei der WM – Stand jetzt!"
+    },
+    {
+      "title": "Real Madrid, AC Mailand : Die Rekordsieger der Champions League",
+      "teaser": "Die Champions League geht weiter! Welche Vereine gewannen die meisten Titel?",
+      "url": "https://www.bild.de/sport/fussball/champions-league/champions-league-diese-vereine-gewannen-die-meisten-titel-79041972.bild.html",
+      "image_title": "Champions League: Diese Vereine haben die meisten Titel gewonnen"
+    },
+    {
+      "title": "Ronaldo an der Spitze : Das sind die besten Torjäger der Champions League",
+      "teaser": "BILD zeigt Ihnen die 10 besten Torschützen in der Geschichte der Champions League",
+      "url": "https://www.bild.de/sport/fussball/champions-league/champions-league-2022-das-sind-die-10-besten-torjaeger-79011324.bild.html",
+      "image_title": "Champions League 2022: DAS sind die 10 besten Torjäger"
+    },
+    {
+      "title": "Champions League-Viertelfinale : So sehen sie die Champions League live im TV",
+      "teaser": "Das Viertelfinale der Champions League steht vor der Tür! Wo sie die Spiele im TV sehen!",
+      "url": "https://www.bild.de/sport/fussball/champions-league/champions-league-so-sehen-sie-das-achtelfinale-live-im-tv-79045094.bild.html",
+      "image_title": "Champions League: So sehen sie das Viertelfinale live im TV"
+    },
+    {
+      "title": "Welche Auswirkungen das hat : Uefa ändert Regeln wegen Putin-Krieg",
+      "teaser": "Die Klubs, die noch international spielen, dürfen wegen des Kriegs Spieler nachnominieren.",
+      "url": "https://www.bild.de/sport/fussball/champions-league/uefa-aendert-wegen-ukraine-krieg-europapokal-regularien-79528484.bild.html",
+      "image_title": "Uefa ändert wegen Ukraine-Krieg Europapokal-Regularien"
+    },
+    {
+      "title": "Champions League 2022 : Alle Infos zur diesjährigen Königsklasse",
+      "teaser": "BILD liefert Ihnen alle Infos zur diesjährigen Champions League-Saison",
+      "url": "https://www.bild.de/sport/fussball/champions-league/champions-league-2021-2022-alle-infos-vereine-termine-tv-uebertragung-79058208.bild.html",
+      "image_title": "Champions League 2021/2022: Alle Teams, Ergebnisse und TV-Übertragungen"
+    },
+    {
+      "title": "2000 Euro für Barcelona-Ticket : So geht Frankfurt gegen irren Ticket-Wucher vor",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/eintracht-frankfurt-geht-gegen-frechen-wucher-mit-barcelona-tickets-vor-79625576.bild.html",
+      "image_title": "Eintracht Frankfurt geht gegen frechen Wucher mit Barcelona-Tickets vor"
+    },
+    {
+      "title": "Eintracht großzügig : Mega-Prämie für Sensation gegen Barcelona",
+      "teaser": "Eintracht lobt eine Super-Prämie aus für die Sensation gegen Barcelona.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/grosszuegige-eintracht-lobt-mega-praemie-fuer-sensation-gegen-barcelona-aus-79621356.bild.html",
+      "image_title": "Großzügige Eintracht lobt Mega-Prämie für Sensation gegen Barcelona aus"
+    },
+    {
+      "title": "Aufsichtsratschef verrät! : Darum glaubt Frankfurt an die Barça-Sensation",
+      "teaser": "Im BILD-Interview spricht Eintracht-Boss Philip Holzer über den Barca-Kracher.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/boss-holzer-darum-glaubt-eintracht-frankfurt-an-die-barca-sensation-79608356.bild.html",
+      "image_title": "Boss Holzer: Darum glaubt Eintracht Frankfurt an die Barca-Sensation"
+    },
+    {
+      "title": "Von Barca-Anfragen überrannt : Fischer: „Ich alleine könnte Stadion vollmachen“",
+      "teaser": "Euro-Wahn! Jeder will bei den Viertelfinal-Spielen gegen den FC Barcelona ins Stadion.",
+      "url": "https://www.bild.de/sport/fussball/fussball/eintracht-frankfurt-wird-von-barca-anfragen-ueberrannt-79536084.bild.html",
+      "image_title": "Eintracht Frankfurt wird von Barca-Anfragen überrannt"
+    },
+    {
+      "title": "Kommt er an ter Stegen vorbei? : Eintracht-Riese Trapp schon in WM-Form!",
+      "teaser": "245 Tage bis zum WM-Start in Katar! Eintracht-Torwart Kevin Trapp ist schon in Bestform.",
+      "url": "https://www.bild.de/sport/fussball/fussball/eintracht-frankfurt-riese-kevin-trapp-schon-in-wm-form-79524904.bild.html",
+      "image_title": "Eintracht Frankfurt: Riese Kevin Trapp schon in WM-Form!"
+    },
+    {
+      "title": "Beschränkungen fallen! : Volle Hütte gegen Fürth und Barca",
+      "teaser": "Die Politik gibt endlich grünes Licht für ein volles Eintracht-Stadion!",
+      "url": "https://www.bild.de/sport/fussball/fussball/eintracht-frankfurt-beschraenkungen-weg-volle-huette-gegen-fuerth-und-barca-79520940.bild.html",
+      "image_title": "Eintracht Frankfurt: Beschränkungen weg! Volle Hütte gegen Fürth und Barca"
+    },
+    {
+      "title": "DFB-Pokal-Auslosung : Union muss nach Leipzig",
+      "url": "https://www.bild.de/sport/fussball/dfb-pokal/dfb-pokal-auslosung-im-live-ticker-wer-muss-im-halbfinale-gegen-rbleipzig-ran-79369756.bild.html",
+      "image_title": "DFB-Pokal-Auslosung Halbfinale: Wer muss im Halbfinale gegen RB Leipzig ran?"
+    },
+    {
+      "title": "Gegen Freiburg : Schafft der HSV das Pokal-Wunder?",
+      "teaser": "Der HSV hat im Halbfinale des DFB-Pokals Heimrecht. Der SC Freiburg kommt.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hsv-gegen-freiburg-schafft-hamburg-das-pokal-wunder-79372214.bild.html",
+      "image_title": "HSV: Gegen Freiburg – schafft Hamburg das Pokal-Wunder?"
+    },
+    {
+      "title": "Vor Pokal-Auslosung : Streich „Leipzig wäre kein schönes Los“",
+      "teaser": "Heute Abend (19.15 Uhr) wird das Pokal-Halbfinale ausgelost. Warum RB kein gutes Los wäre",
+      "url": "https://www.bild.de/sport/fussball/dfb-pokal/sc-freiburg-streich-leipzig-waere-kein-schoenes-los-79371284.bild.html",
+      "image_title": "SC Freiburg: Streich „Leipzig wäre kein schönes Los“"
+    },
+    {
+      "title": "Freiburg im Halbfinale : Last-Minute-Held Sallai: Rein, Tor, runter, Gänsehaut!",
+      "teaser": "In der 120. Minute spitzelte Sallai den Ball zum 2:1 ins Netz. Jetzt spricht er in BILD",
+      "url": "https://www.bild.de/sport/fussball/fussball/sc-freiburg-sallai-rein-tor-runter-gaensehaut-79343784.bild.html",
+      "image_title": "SC Freiburg: Sallai Rein, Tor, runter, Gänsehaut!"
+    },
+    {
+      "title": "Die Einzelkritik : Zweimal Note 1 für die Pokal-Helden des HSV",
+      "teaser": "Hamburg gegen Karlsruhe – ein irres Pokal-Duell. Wie die HSV-Sieger in Form waren.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/hsv-die-einzelkritik-zweimal-note-1-fuer-die-pokal-helden-79333536.bild.html",
+      "image_title": "HSV – Die Einzelkritik: Zweimal Note 1 für die Pokal-Helden"
+    },
+    {
+      "title": "Beim 2:1 in Bochum : Note 1 für Freiburgs Pokal-Held Sallai!",
+      "teaser": "Zum zweiten Mal Halbfinale! Mit 2:1 besiegte Freiburg Bochum. Die Helden in der Einzelkritik",
+      "url": "https://www.bild.de/sport/fussball/dfb-pokal/sc-freiburg-note-1-fuer-freiburgs-pokal-held-sallai-79335092.bild.html",
+      "image_title": "SC Freiburg: Note 1 für Freiburgs Pokal-Held Sallai!"
+    },
+    {
+      "title": "Klublegende bringt spannenden Namen ins Spiel : Wer Liverpool nach Klopp trainieren soll",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/premier-league-klublegende-erklaert-wer-liverpool-nach-juergen-klopp-trainieren-79631408.bild.html",
+      "image_title": "Premier League: Klublegende erklärt, wer Liverpool nach Jürgen Klopp trainieren soll"
+    },
+    {
+      "title": "Auf dem Weg zum Training : Premier-League-Star überlebt schweren Unfall",
+      "teaser": "Manuel Lanzini (29) von West Ham United war am Donnerstag in einen Auto-Unfall verwickelt.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/premier-league-west-ham-star-lanzini-ueberlebt-dramatischen-auto-unfall-unverlet-79635186.bild.html",
+      "image_title": "Premier League: West-Ham-Star Lanzini überlebt dramatischen Auto-Unfall unverletzt"
+    },
+    {
+      "title": "Ausgerechnet am Muttertag : Mama von England-Star eskaliert bei Party",
+      "teaser": "Laut „The Sun“ hat die Familie von England-Star Phil Foden (21) zu laut gefeiert.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/mama-von-manchester-city-star-eskaliert-bei-party-ausgerechnet-am-muttertag-79602654.bild.html",
+      "image_title": "Mama von Manchester-City-Star eskaliert bei Party – ausgerechnet am Muttertag"
+    },
+    {
+      "title": "Rangnick hatte die Idee : Schiri-Revolution in England!",
+      "teaser": "Revolutioniert eine Idee von Ralf Rangnick (63) das Schiedsrichter-Wesen in England?",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/ralf-rangnick-schiedsrichter-revolution-in-england-dank-manunited-trainer-79601164.bild.html",
+      "image_title": "Premier League: Schiri-Revolution! ManUnited-Trainer Rangnick hatte die geniale Idee"
+    },
+    {
+      "title": "Nach Abramowitsch-Aus : Chelsea-Verkauf steht fest!",
+      "teaser": "Die Deadline für die Übernahme des FC Chelsea von Noch-Besitzer Roman Abramowitsch ist fix!",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/premier-league-noch-im-april-zeitpunkt-fuer-verkauf-des-fc-chelsea-steht-fest-79599834.bild.html",
+      "image_title": "Premier League: Noch im April – Zeitpunkt für Verkauf des FC Chelsea steht fest!"
+    },
+    {
+      "title": "„Wurm“-Botschaft : Die traurige Geschichte hinter diesem Pulisic-Jubel",
+      "teaser": "Beim USA-Sieg gegen Panama jubelte Christian Pulisic auf ganz besondere Art und Weise!",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/christian-pulisic-die-traurige-geschichte-hinter-diesem-jubel-79597196.bild.html",
+      "image_title": "Christian Pulisic: Die traurige Geschichte hinter diesem Jubel"
+    },
+    {
+      "title": "Was Shakira wohl dazu sagT : Spannende Sex-Aussage von Bara-Star Piqué",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/fc-barcelona-spannende-sex-aussage-von-gerard-piqu-79634372.bild.html",
+      "image_title": "FC Barcelona: Spannende Sex-Aussage von Gerard Piqué"
+    },
+    {
+      "title": "Wechsel-Alarm droht! : Alaba will Bayern-Star zu Real locken",
+      "teaser": "David Alaba (29) wechselte von München zu Real. Nun will er einen Kumpel nachholen.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball-international/wechsel-alarm-droht-david-alaba-will-diesen-bayern-star-zu-real-madrid-locken-79606288.bild.html",
+      "image_title": "Wechsel-Alarm droht! David Alaba will diesen Bayern-Star zu Real Madrid locken"
+    },
+    {
+      "title": "Sonnig durch Länderspielpause : So schön urlauben Courtois und seine Herzensdame",
+      "teaser": "Thibaut Courtois (29), Torwart von Real Madrid, genießt mit seiner Freundin sonnige Tage.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/thibaut-courtois-real-madrid-torwart-im-urlaub-mit-mishel-gerzig-79592134.bild.html",
+      "image_title": "Thibaut Courtois: Real-Madrid-Torwart im Urlaub mit Mishel Gerzig"
+    },
+    {
+      "title": "Riesen-Namen dabei : Diese Stars will Real Madrid loswerden",
+      "teaser": "Sorgt Real Madrid für einen Mega-Umbruch? Die Königlichen könnten im Sommer gleich mal...",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/real-madrid-fuer-haaland-und-mbapp-diese-stars-will-real-loswerden-79551652.bild.html",
+      "image_title": "Real Madrid: Für Haaland und Mbappé – Diese Stars will Real loswerden"
+    },
+    {
+      "title": "Offiziell verkündet : Mega-Influencerin ist Barças neuer Glücksbringer",
+      "teaser": "Der FC Barcelona hatte beim 4:0-Sieg im Clasico bei Real Madrid heiße Unterstützung.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/mega-influencerin-addison-rae-ist-baras-neuer-gluecksbringer-79528212.bild.html",
+      "image_title": "Mega-Influencerin Addison Rae ist Barças neuer Glücksbringer!"
+    },
+    {
+      "title": "Barca macht Madrid nass : Real erlebt Clasico-Fiasko",
+      "teaser": "Clasico-Fiasko für Real! Der FC Barcelona gewinnt IN Madrid, bei den „Königlichen“, 4:0!",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/la-liga-ex-bvb-stars-machen-madrid-nass-real-erlebt-clasico-fiasko-79517338.bild.html",
+      "image_title": "La Liga: Ex-BVB-Stars machen Madrid nass – Real erlebt Clasico-Fiasko"
+    },
+    {
+      "title": "Im Kino seines Hauses : PSG-Torwart nimmt 30 Ukrainer auf",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/psg-ukraine-krieg-psg-torwart-keylor-navas-nimmt-30-gefluechtete-in-kino-auf-79579634.bild.html",
+      "image_title": "PSG: Ukraine-Krieg – PSG-Torwart Keylor Navas nimmt 30 Geflüchtete in Kino auf"
+    },
+    {
+      "title": "DFB-Nationalspieler trifft : Heftige Pleite für PSG, Neymar und Mbappé",
+      "teaser": "Bittere Klatsche für PSG, Neymar und Mbappé! Ohne Messi geht PSG in Monaco mit 0:3 baden.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/psg-0-3-klatsche-in-monaco-heftige-pleite-fuer-neymar-mbappe-ohne-messi-79512364.bild.html",
+      "image_title": "PSG: 0:3-Klatsche in Monaco! Heftige Pleite für Neymar & Mbappe ohne Messi"
+    },
+    {
+      "title": "Real-Wechsel immer irrer : Fordert Mbappés Mutter 150 Mio. Handgeld?",
+      "teaser": "Mit dem Wechsel ihres Sohnes will die Mutter von Kylian Mbappé einen Haufen Kohle machen!",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/kylian-mbapp-real-wechsel-immer-irrer-fordert-seine-mutter-150-mio-handgeld-79499818.bild.html",
+      "image_title": "Kylian Mbappé: Real-Wechsel immer irrer! Fordert seine Mutter 150 Mio. Handgeld?"
+    },
+    {
+      "title": "Intime Chats auf Instagram : Icardis Wanda zeigt Nachrichten von verheiratetem Fußballer",
+      "teaser": "Wanda Nara, die Frau von PSG-Star Mauro Icardi, zeigt, was sie so bei Instagram bekommt.",
+      "url": "https://www.bild.de/sport/fussball/fussball/psg-star-mauro-icardi-frau-wanda-nara-zeigt-nachrichten-von-verheiratetem-fussba-79492160.bild.html",
+      "image_title": "PSG-Star Mauro Icardi: Frau Wanda Nara zeigt Nachrichten von verheiratetem Fußballer"
+    },
+    {
+      "title": "Nach Pfiffen gegen PSG-Superstar : Messi will angeblich zurück zu Barça!",
+      "teaser": "Nach den Pfiffen in Paris gibt es Gerüchte um eine Barça-Rückkehr von Lionel Messi.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/paris-saint-germain-lionel-messi-will-zum-fc-barcelona-zurueck-79460312.bild.html",
+      "image_title": "Paris Saint-Germain: Lionel Messi will zum FC Barcelona zurück"
+    },
+    {
+      "title": "Vertrags-Details enthüllt : Real macht Mbappé MEGA-Angebot",
+      "teaser": "Die „Marca“ nennt Details zum bevorstehenden Transfer-Deal von Kylian Mbappé mit Real Madrid.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/kylian-mbapp-angebot-von-real-madrid-vertrags-details-enthuellt-79443020.bild.html",
+      "image_title": "Kylian Mbappé: Angebot von Real Madrid - Vertrags-Details enthüllt"
+    },
+    {
+      "title": "Zum zweiten Mal an Leukämie erkrankt : Krebs-Sorgen um Bologna-Trainer Mihajlović",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/serie-a-krebs-sorgen-um-bologna-trainer-mihajlovi-an-leukaemie-erkrankt-79575678.bild.html",
+      "image_title": "Serie A: Krebs-Sorgen um Bologna-Trainer Mihajlović - An Leukämie erkrankt"
+    },
+    {
+      "title": "Vor Rom-Derby : Neuer Protz-Anfall von Mourinho",
+      "teaser": "Vor dem Derby der AS gegen Lazio Rom zofft sich José Mourinho mit einem Ex-Trainer.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/serie-a-protz-anfall-von-jose-mourinho-vor-rom-derby-79510254.bild.html",
+      "image_title": "Serie A: Protz-Anfall von Jose Mourinho vor Rom-Derby!"
+    },
+    {
+      "title": "„Lächerliche Querele“ : Juve-Boss platzt wegen dieses Spielers der Kragen",
+      "teaser": "Dicke Luft bei Juventus! Schon vor dem peinlichen Aus gegen Villareal platzte Juve-Boss Maurizio Arrivabene der Kragen.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/juventus-turin-laecherliche-querele-juve-boss-platzt-wegen-dybala-deal-der-krage-79485078.bild.html",
+      "image_title": "Juventus Turin: „Lächerliche Querele“ – Juve-Boss platzt wegen Dybala-Deal der Kragen"
+    },
+    {
+      "title": "Neapel als Kriegs-Ziel? : Skandal-Banner in Italien!",
+      "teaser": "Vor dem Spiel gegen Neapel hängten rechtsradikale Anhänger ein skandalöses Plakat auf.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/serie-a-neapel-als-kriegs-ziel-skandal-banner-in-italien-79444890.bild.html",
+      "image_title": "Serie A: Neapel als Kriegs-Ziel? Skandal-Banner in Italien!"
+    },
+    {
+      "title": "Er prallte an Ampelmast : Ribéry bei Autounfall verletzt",
+      "teaser": "Schock-Moment für Franck Ribéry! Der Franzose hatte in Italien einen Autounfall.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/franck-ribry-bei-autounfall-in-italien-verletzt-79305488.bild.html",
+      "image_title": "Franck Ribéry bei Autounfall in Italien verletzt"
+    },
+    {
+      "title": "Meint er das ernst? : Kuriose Drohung von Ibrahimovic",
+      "teaser": "Ibra arbeitet am Comeback! Vor seiner Rückkehr spricht er schon eine Drohung aus.",
+      "url": "https://www.bild.de/sport/fussball/fussball-international/ac-mailand-meint-er-das-ernst-irre-drohung-von-zlatan-ibrahimovic-79225934.bild.html",
+      "image_title": "Zlatan Ibrahimovic mit kurioser Drohung: Meint er das ernst?"
+    },
+    {
+      "title": "Nach Saarbrückens Pokal-Aus : Zeitz macht Mut für München",
+      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-zeitz-verspricht-wiedergutmachung-fuers-pokal-aus-79639284.bild.html",
+      "image_title": "1. FC Saarbrücken: Zeitz verspricht Wiedergutmachung fürs Pokal-Aus"
+    },
+    {
+      "title": "FCS-Torjäger wieder verletzt : Grimaldi droht Saison-Aus",
+      "teaser": "Saarbrücken-Torjäger Adriano Grimaldi wird in dieser Saison wohl kein Spiel mehr machen.",
+      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-adriano-grimaldi-droht-saison-aus-79638254.bild.html",
+      "image_title": "1. FC Saarbrücken: Adriano Grimaldi droht Saison-Aus"
+    },
+    {
+      "title": "Für die eigene Karriere : Jungprofi nimmt Namen von DFB-Star an",
+      "teaser": "Das gibt's auch nicht alle Tage! Ein Nachwuchs-Kicker ändert seinen Nachnamen.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/waldhof-mannheim-jungprofi-nimmt-namen-von-dfb-star-an-fuer-die-eigene-karriere-79636284.bild.html",
+      "image_title": "Waldhof Mannheim: Jungprofi nimmt Namen von DFB-Star an - für die eigene Karriere"
+    },
+    {
+      "title": "Braunschweig - Havelse : Mini-Derby im Free-TV",
+      "teaser": "Das kleine Derby zwischen Eintracht Braunschweig und dem TSV Havelse gibt es live für alle.",
+      "url": "https://www.bild.de/sport/fussball/fussball/eintracht-braunschweig-tsv-havelse-mini-derby-im-free-tv-79630858.bild.html",
+      "image_title": "Eintracht Braunschweig – TSV Havelse: Mini-Derby im Free-TV"
+    },
+    {
+      "title": "1. FC Saarbrücken : Koschinat: „Das kotzt mich an!“",
+      "teaser": "Der Pokal-K.o. des 1. FC Saarbrücken beim 1:2 in Homburg! Trainer Uwe Koschinat ist sauer.",
+      "url": "https://www.bild.de/sport/fussball/fussball/saarbruecken-trainer-uwe-koschinat-nach-pokal-aus-das-kotzt-mich-an-79628244.bild.html",
+      "image_title": "Saarbrücken-Trainer Uwe Koschinat nach Pokal-Aus: „Das kotzt mich an!“"
+    },
+    {
+      "title": "Nach Insolvenz : Klartext! Jetzt packt der Türkgücü-Trainer aus",
+      "teaser": "Das Türkgücü-Aus hat die 3. Liga ins Chaos gestürzt, der Verantwortliche ist abgetaucht...",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/3-liga-die-insolvenz-von-tuerkguecue-muenchen-79620446.bild.html",
+      "image_title": "3. Liga: Die Insolvenz von Türkgücü München"
+    },
+    {
+      "title": "Vorzeitiger Abschied : Das sagt Möller über sein Eintracht-Aus",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/eintracht-frankfurt-das-sagt-andy-moeller-zum-aus-als-nachwuchs-chef-79638512.bild.html",
+      "image_title": "Eintracht Frankfurt: Das sagt Andy Möller zum Aus als Nachwuchs-Chef"
+    },
+    {
+      "title": "Interessanter Stürmer! : Bayern hat den neuen Haaland auf dem Zettel",
+      "teaser": "Holt der FC Bayern den neuen Erling Haaland? Ein interessanter Stürmer steht im Fokus!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fc-bayern-neuer-erling-haaland-auf-dem-zettel-kommt-benjamin-sesko-79636906.bild.html",
+      "image_title": "FC Bayern: Neuer Erling Haaland auf dem Zettel – kommt ein interessanter Stürmer?"
+    },
+    {
+      "title": "Warum er Schalker wurde : Mainz-Macher Heidel schreibt seine Memoiren!",
+      "teaser": "Mainz-Boss Christian Heidel (58) blickt in BILD auf seine nun 30 Jahre im Fußball zurück!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/warum-er-zu-schalke-ging-mainz-boss-heidel-schreibt-seine-memoiren-79627894.bild.html",
+      "image_title": "Warum er zu Schalke ging: Mainz-Boss Heidel schreibt seine Memoiren!"
+    },
+    {
+      "title": "Fans sollten hier reservieren : In diesen Restaurants essen Sie neben Hertha-Stars",
+      "teaser": "Einmal speisen wie die Hertha-Stars? In Berlin kein Problem!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fans-sollten-hier-reservieren-in-diesen-berlin-restaurants-essen-sie-neben-herth-79637538.bild.html",
+      "image_title": "Fans sollten hier reservieren: In diesen Berlin-Restaurants essen Sie neben Hertha-Stars"
+    },
+    {
+      "title": "Boss Holzer erklärt : So hilft Eintracht in der Ukraine",
+      "teaser": "Der Krieg in der Ukraine fordert viele Opfer. Das berührt auch Frankfurt und Eintracht.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/boss-philip-holzer-erklaert-so-hilft-eintracht-frankfurt-in-der-ukraine-79636034.bild.html",
+      "image_title": "Boss Philip Holzer erklärt: So hilft Eintracht Frankfurt in der Ukraine"
+    },
+    {
+      "title": "Thioune greift durch : Arroganz-Verbot für einen Star!",
+      "teaser": "Schluss mit Leichtsinn! Fortuna-Trainer Daniel Thioune schaut besonders auf einen Spieler.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fortuna-duesseldorf-arroganz-verbot-fuer-einen-star-79633842.bild.html",
+      "image_title": "Fortuna Düsseldorf: Arroganz-Verbot für einen Star!"
+    }
+  ]
 }
