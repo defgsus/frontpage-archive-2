@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-01T20:22:02",
+  "timestamp": "2022-04-01T21:18:36",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Coronavirus: Zahl der Corona-Toten steigt weiter",
+      "teaser": "Die Gesundheitsämter haben 239.047 Neuinfektionen gemeldet – deutlich weniger als noch vor einer Woche. Die Zahl der Corona-Toten steigt wiederum auf 306 neue Fälle an.",
+      "url": "https://www.zeit.de/wissen/2022-04/coronavirus-todesfaelle-steigen-deutschland",
+      "image_url": "https://img.zeit.de/wissen/2022-04/coronavirus-todesfaelle-steigen-bild/cinema__980x420"
+    },
+    {
       "title": "Unvernunft: Der Reiz der dummen Idee",
       "teaser": "Manchmal kennen wir 1.000 gute Gründe, etwas nicht zu tun. Und machen es dann trotzdem. Ist das vielleicht schlau?",
       "url": "https://www.zeit.de/zeit-wissen/2022/02/unvernunft-dumme-ideen-reiz-psychologie",
-      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/2-was-ist-der-reiz-an-dummen-ideen-bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/2-was-ist-der-reiz-an-dummen-ideen-bild-1/wide__822x462",
+      "image_title": "Unvernunft: Der Reiz der dummen Idee"
     },
     {
       "title": "Luftverschmutzung: 96 Prozent von Europas Stadtbevölkerung leben in ungesunder Luft",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/wissen/umwelt/2022-04/luftverschmutzung-europa-staedte-feinstaub",
       "image_url": "https://img.zeit.de/wissen/2022-04/schadstoffwerte-feinstaub-bild/wide__822x462",
       "image_title": "Luftverschmutzung: 96 Prozent von Europas Stadtbevölkerung leben in ungesunder Luft"
-    },
-    {
-      "title": "Wochenbericht: Gipfel von aktueller Corona-Welle laut RKI wahrscheinlich erreicht",
-      "teaser": "Das RKI geht davon aus, dass die Zahl der Neuinfektionen fortan zurückgehen wird. Vieles hänge nun vom eigenverantwortlichen Verhalten der Menschen ab.",
-      "url": "https://www.zeit.de/wissen/2022-04/wochenbericht-rki-omikron-welle-beschraenkungen",
-      "image_url": "https://img.zeit.de/wissen/2022-04/werbung-fuer-corona-test/wide__822x462",
-      "image_title": "Wochenbericht: Gipfel von aktueller Corona-Welle laut RKI wahrscheinlich erreicht"
     },
     {
       "title": "Antarktis: Hitzewelle im letzten gallischen Dorf der Klimaerwärmung",
@@ -95,11 +95,11 @@
       "image_title": "Forschungskosmos: »Zukunftsfragen der Forschung«"
     },
     {
-      "title": "Coronavirus: Sieben-Tage-Inzidenz sinkt auf 1.586",
-      "teaser": "Die Gesundheitsämter haben zuletzt 252.530 Neuinfektionen registriert, deutlich weniger als in der Vorwoche. 304 weitere Menschen sind dem RKI zufolge gestorben.",
-      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-zahlen-gipfel-erreicht",
-      "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-bild/wide__822x462",
-      "image_title": "Coronavirus: Sieben-Tage-Inzidenz sinkt auf 1.586"
+      "title": "Wochenbericht: Gipfel von aktueller Corona-Welle laut RKI wahrscheinlich erreicht",
+      "teaser": "Das RKI geht davon aus, dass die Zahl der Neuinfektionen fortan zurückgehen wird. Vieles hänge nun vom eigenverantwortlichen Verhalten der Menschen ab.",
+      "url": "https://www.zeit.de/wissen/2022-04/wochenbericht-rki-omikron-welle-beschraenkungen",
+      "image_url": "https://img.zeit.de/wissen/2022-04/werbung-fuer-corona-test/wide__822x462",
+      "image_title": "Wochenbericht: Gipfel von aktueller Corona-Welle laut RKI wahrscheinlich erreicht"
     },
     {
       "title": "AnzeigeWissen schafft Erleben",
@@ -123,6 +123,13 @@
       "image_title": "Dirk Messner: \"Die gegenwärtige Krise kann ungeahnte Kräfte freisetzen\""
     },
     {
+      "title": "Coronavirus: Sieben-Tage-Inzidenz sinkt auf 1.586",
+      "teaser": "Die Gesundheitsämter haben zuletzt 252.530 Neuinfektionen registriert, deutlich weniger als in der Vorwoche. 304 weitere Menschen sind dem RKI zufolge gestorben.",
+      "url": "https://www.zeit.de/wissen/2022-03/coronavirus-zahlen-gipfel-erreicht",
+      "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-bild/wide__822x462",
+      "image_title": "Coronavirus: Sieben-Tage-Inzidenz sinkt auf 1.586"
+    },
+    {
       "title": "Erneuerbare Energien: Lasst sie wachsen!",
       "teaser": "Bäume verbrennen, um grüne Energie zu gewinnen? Keine gute Idee, aber die EU-Kommission stuft Strom aus Biomasse nun so ein. Dabei haben Europas Wälder genug zu kämpfen.",
       "url": "https://www.zeit.de/2022/14/erneuerbare-energien-holz-eu-taxonomie-nachhaltigkeit",
@@ -133,14 +140,14 @@
       "title": "Dürre: So trocken wie im März darf es nicht bleiben",
       "teaser": "Selten waren die Böden zu dieser Zeit trockener. Forstwirte sind im Krisenmodus und regional drohen Ernteausfälle. Ausgerechnet jetzt, da die Ukraine nicht liefern kann.",
       "url": "https://www.zeit.de/wissen/2022-03/duerre-trockenheit-boeden-wetter-klimawandel",
-      "image_url": "https://img.zeit.de/wissen/2022-03/duerre-trockenheit-boeden-wetter-klimawandel-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/2022-03/duerre-trockenheit-boeden-wetter-klimawandel-bild-2/cinema__980x420",
       "image_title": "Dürre: So trocken wie im März darf es nicht bleiben"
     },
     {
       "title": "Architektur: Der Stoff, aus dem Zuhause ist",
       "teaser": "Ein Gespräch mit dem Architekten Jürgen Mayer H. über die Vorlagen der Natur – und das, was Menschen daraus schöpfen können",
       "url": "https://www.zeit.de/zeit-wissen/2022/02/architektur-zuhause-natur-juergen-mayer-h",
-      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/baumeister-beutelmeise-bild-9/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/baumeister-beutelmeise-bild-9/wide__822x462",
       "image_title": "Architektur: Der Stoff, aus dem Zuhause ist"
     },
     {
@@ -156,13 +163,6 @@
       "url": "https://www.zeit.de/2022/13/indigene-voelker-naturschutz-klima-un",
       "image_url": "https://img.zeit.de/2022/13/es-geht-nicht-ohne-sie-bild-1/wide__822x462",
       "image_title": "Indigene Völker: Die Natur des Planeten lässt sich nur mit ihnen retten"
-    },
-    {
-      "title": "Klimaaktivismus: Die zwei Seiten der Petra Kelly",
-      "teaser": "Petra Kelly war das Gesicht der Grünen – in Deutschland und auch weltweit. Obwohl sie eine Einzelkämpferin war, definierte sie, was grüne Politik bis heute bedeutet.",
-      "url": "https://www.zeit.de/zeit-wissen/2022/02/petra-kelly-politikerin-klimaaktivismus-atomenergie",
-      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/petra-kelly-bild-1/wide__822x462",
-      "image_title": "Klimaaktivismus: Die zwei Seiten der Petra Kelly"
     },
     {
       "title": "Freiheit der Wissenschaft: \"Wenn wir nichts ändern, hat unsere Demokratie ein Problem\"",
@@ -266,10 +266,17 @@
       "image_title": "Psychologie: Kann auch ein Erwachsener Urvertrauen lernen?"
     },
     {
+      "title": "Klimaaktivismus: Die zwei Seiten der Petra Kelly",
+      "teaser": "Petra Kelly war das Gesicht der Grünen – in Deutschland und auch weltweit. Obwohl sie eine Einzelkämpferin war, definierte sie, was grüne Politik bis heute bedeutet.",
+      "url": "https://www.zeit.de/zeit-wissen/2022/02/petra-kelly-politikerin-klimaaktivismus-atomenergie",
+      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/petra-kelly-bild-1/cinema__980x420",
+      "image_title": "Klimaaktivismus: Die zwei Seiten der Petra Kelly"
+    },
+    {
       "title": "Wetterbilanz: 2021 war zu warm und von Starkregen geprägt",
-      "teaser": "Auf den zu nassen Sommer folgte ein zu trockener Herbst: Das Jahr 2021 war geprägt von Wetterextremen. Es war das elfte zu warme Jahr in Folge. 148 Kommentare",
+      "teaser": "Auf den zu nassen Sommer folgte ein zu trockener Herbst: Das Jahr 2021 war geprägt von Wetterextremen. Es war das elfte zu warme Jahr in Folge.",
       "url": "https://www.zeit.de/wissen/umwelt/2022-03/wetterbilanz-2021-deutscher-wetterdienst-trockenheit-starkregen-wetterextreme",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/wetterbilanz-2021-deutscher-wetterdienst-trockenheit-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/wetterbilanz-2021-deutscher-wetterdienst-trockenheit-bild-2/wide__822x462",
       "image_title": "Wetterbilanz: 2021 war zu warm und von Starkregen geprägt"
     },
     {
@@ -278,13 +285,6 @@
       "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-baden-wuerttemberg-hoechstwert",
       "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-zahlen/wide__822x462",
       "image_title": "Corona-Pandemie: Abwärtstrend gestoppt, Inzidenz steigt wieder leicht an"
-    },
-    {
-      "title": "DJ Dominik Eulberg: Natur und Techno",
-      "teaser": "Er mixt Technobeats mit Klängen aus der Natur: Dominik Eulberg ist Techno-DJ – neuerdings berät er auch die Wissenschaft. Kann ein DJ die Leute zum Artenschutz bringen?",
-      "url": "https://www.zeit.de/2022/13/dj-dominik-eulberg-natur-techno-wissenschaft",
-      "image_url": "https://img.zeit.de/2022/13/im-beat-der-rotbauchunke-bild-1/wide__822x462",
-      "image_title": "DJ Dominik Eulberg: Natur und Techno"
     },
     {
       "title": "Matthias Maurer: Der Spätberufene",
@@ -327,32 +327,32 @@
       "image_title": "Klimawandel und Technik: Wie retten wir den Planeten?"
     },
     {
+      "title": "DJ Dominik Eulberg: Natur und Techno",
+      "teaser": "Er mixt Technobeats mit Klängen aus der Natur: Dominik Eulberg ist Techno-DJ – neuerdings berät er auch die Wissenschaft. Kann ein DJ die Leute zum Artenschutz bringen?",
+      "url": "https://www.zeit.de/2022/13/dj-dominik-eulberg-natur-techno-wissenschaft",
+      "image_url": "https://img.zeit.de/2022/13/im-beat-der-rotbauchunke-bild-1/cinema__980x420",
+      "image_title": "DJ Dominik Eulberg: Natur und Techno"
+    },
+    {
       "title": "Christopher Clark: \"Preußen war ein europäischer Staat, bevor er ein deutscher wurde\"",
       "teaser": "Einerseits tolerant, andererseits militaristisch: der Historiker Christopher Clark über den Staat Preußen, den viele Deutsche bis heute nicht richtig verstehen",
       "url": "https://www.zeit.de/zeit-geschichte/2022/01/preussen-hohenzollern-hitler-machtuebernahme-christopher-clark",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/preussen-hohenzollern-hitler-machtuebernahme-christopher-clark-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/preussen-hohenzollern-hitler-machtuebernahme-christopher-clark-teaser/wide__822x462",
       "image_title": "Christopher Clark: \"Preußen war ein europäischer Staat, bevor er ein deutscher wurde\""
     },
     {
       "title": "Deutsch-russischer Handel: Enge Beziehung",
       "teaser": "Dass Deutschland von Russlands Energielieferungen abhängt, ist bekannt. Welche Güter haben die beiden Länder bisher noch voneinander bezogen? Ein Überblick in Grafiken",
       "url": "https://www.zeit.de/2022/13/russland-handel-energie-export-infografik",
-      "image_url": "https://img.zeit.de/2022/13/russland-handel-energie-export-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/2022/13/russland-handel-energie-export-teaser/cinema__980x420",
       "image_title": "Deutsch-russischer Handel: Enge Beziehung"
     },
     {
       "title": "Coronavirus: RKI meldet erneut sinkende Inzidenz",
       "teaser": "Das Robert Koch-Institut registrierte 67.501 neue Corona-Fälle. Die Inzidenz liegt bei 1.701. Es wurden 20 weitere Todesfälle im Zusammenhang mit dem Virus gemeldet.",
       "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-koeln-richtwert",
-      "image_url": "https://img.zeit.de/wissen/2022-03/rki-zahlen-skater/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2022-03/rki-zahlen-skater/wide__822x462",
       "image_title": "Coronavirus: RKI meldet erneut sinkende Inzidenz"
-    },
-    {
-      "title": "Vulkanausbruch auf Tonga: \"Ich sah aus dem Fenster und alles war grau\"",
-      "teaser": "Schwarzer Regen, das Haus unter Asche: Nach neun Tagen ohne Netz kommt ein Lebenszeichen aus Tonga. Die Studentin Kalisi erzählt, wie sie den Vulkanausbruch miterlebte.",
-      "url": "https://www.zeit.de/wissen/2022-03/vulkanausbruch-tonga-hunga-haapai-tsunami-polynesien",
-      "image_url": "https://img.zeit.de/wissen/2022-02/vulkanausbruch-tonga-hunga-haapai-tsunami-4/wide__822x462",
-      "image_title": "Vulkanausbruch auf Tonga: \"Ich sah aus dem Fenster und alles war grau\""
     },
     {
       "title": "Eckart und Christian von Hirschhausen: \"Ich frage mich, warum nicht alle schreiend durch die Gegend laufen\"",
@@ -369,10 +369,17 @@
       "image_title": "Privatjets: So exklusiv, dass es wehtut"
     },
     {
+      "title": "Vulkanausbruch auf Tonga: \"Ich sah aus dem Fenster und alles war grau\"",
+      "teaser": "Schwarzer Regen, das Haus unter Asche: Nach neun Tagen ohne Netz kommt ein Lebenszeichen aus Tonga. Die Studentin Kalisi erzählt, wie sie den Vulkanausbruch miterlebte.",
+      "url": "https://www.zeit.de/wissen/2022-03/vulkanausbruch-tonga-hunga-haapai-tsunami-polynesien",
+      "image_url": "https://img.zeit.de/wissen/2022-02/vulkanausbruch-tonga-hunga-haapai-tsunami-4/cinema__980x420",
+      "image_title": "Vulkanausbruch auf Tonga: \"Ich sah aus dem Fenster und alles war grau\""
+    },
+    {
       "title": "Coronavirus: RKI meldet erneut mehr als eine Viertelmillion Neuinfektionen",
-      "teaser": "Binnen eines Tages sind 252.026 neue Corona-Fälle erfasst worden – etwas weniger als vor einer Woche. Zudem wurden 278 weitere Todesfälle registriert. 238 Kommentare",
+      "teaser": "Binnen eines Tages sind 252.026 neue Corona-Fälle erfasst worden – etwas weniger als vor einer Woche. Zudem wurden 278 weitere Todesfälle registriert.",
       "url": "https://www.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-faelle-uebertragung",
-      "image_url": "https://img.zeit.de/gesundheit/2022-03/coronavirus-deutschland-rki-zahlen-3/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2022-03/coronavirus-deutschland-rki-zahlen-3/wide__822x462",
       "image_title": "Coronavirus: RKI meldet erneut mehr als eine Viertelmillion Neuinfektionen"
     },
     {
@@ -383,13 +390,6 @@
       "image_title": "Coronavirus: RKI meldet erneut Höchstwert der Inzidenz"
     },
     {
-      "title": "Friedrich der Große: So formte er Preußen zur europäischen Macht",
-      "teaser": "46 Jahre herrschte Friedrich II. über Preußen, führte dafür Kriege mit viel Elend. Oft rettete ihn nur das Glück. Bis heute gilt er als \"Friedrich der Große\" – zu Recht?",
-      "url": "https://www.zeit.de/zeit-geschichte/2022/01/friedrich-der-grosse-herrschaft-krieg",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/friedrich-der-grosse/wide__822x462",
-      "image_title": "Friedrich der Große: So formte er Preußen zur europäischen Macht"
-    },
-    {
       "title": "Sprachtest: Wie gut ist Ihr Französisch?",
       "teaser": "Sprache bildet die Grundlage für Kommunikation. Wie gut die eigenen Sprachkenntnisse sind, können Sie schnell mit unserem digitalen Sprachtest herausfinden.",
       "url": "https://sprachtest.zeit.de/franzoesisch?wt_zmc=fix.int.zonaudev.alias.alias.zeitde.alias.spotlight-sprachtest-link-franzoesisch.x&utm_medium=fix&utm_source=alias_zonaudev_int&utm_campaign=alias&utm_content=zeitde_alias_spotlight-sprachtest-link-franzoesisch_x",
@@ -397,11 +397,11 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
     },
     {
-      "title": "Erderwärmung: Die Antarktis macht vor, was Klimaeskalation bedeutet",
-      "teaser": "Die Wärme am Südpol erinnert daran, dass mit jeder Tonne CO₂ die Gefahr wächst, unsichtbare Dynamiken zu entfesseln. Rekordwerte sind keine Ausnahme mehr – nirgendwo.",
-      "url": "https://www.zeit.de/2022/13/erderwaermung-antarktis-rekordtemperatur-klimakrise",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/teaser-klimawandel-antarktis-hitzewelle/wide__822x462",
-      "image_title": "Erderwärmung: Die Antarktis macht vor, was Klimaeskalation bedeutet"
+      "title": "Friedrich der Große: So formte er Preußen zur europäischen Macht",
+      "teaser": "46 Jahre herrschte Friedrich II. über Preußen, führte dafür Kriege mit viel Elend. Oft rettete ihn nur das Glück. Bis heute gilt er als \"Friedrich der Große\" – zu Recht?",
+      "url": "https://www.zeit.de/zeit-geschichte/2022/01/friedrich-der-grosse-herrschaft-krieg",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/01/friedrich-der-grosse/wide__822x462",
+      "image_title": "Friedrich der Große: So formte er Preußen zur europäischen Macht"
     },
     {
       "title": "Corona-Risikogruppe: Höhle, ade!",
