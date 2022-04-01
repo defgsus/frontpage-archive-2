@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-01T05:18:37",
+  "timestamp": "2022-04-01T06:26:08",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,19 +32,20 @@
   ],
   "articles": [
     {
+      "title": "Bitcoin & Co.EU-Abgeordnete stimmen für Aus anonymer Kryptozahlungen",
+      "teaser": "Kryptowährungen wie Bitcoin und Ethereum dürfen nicht länger ein Eldorado für Geldwäsche und Terrorfinanzierung sein, fordern zwei Ausschüsse des EU-Parlaments.",
+      "url": "https://www.heise.de/news/Bitcoin-Co-EU-Abgeordnete-stimmen-fuer-Aus-anonymer-Kryptozahlungen-6659442.html"
+    },
+    {
+      "title": "iOS 15.4.1 und macOS 12.3.1Apple geht Akku- und Display-Probleme an",
+      "teaser": "Die Betriebssystem-Updates sollen Bugs beseitigen, die iPhone- und Mac-Nutzer geplagt haben. Sicherheitslücken werden offenbar aktiv für Angriffe ausgenutzt.",
+      "url": "https://www.heise.de/news/iOS-15-4-1-und-macOS-12-3-1-Apple-geht-Akku-und-Display-Probleme-an-6659375.html",
+      "image_title": "Updates für iPhone und MacBook"
+    },
+    {
       "title": "Moore ThreadsDie ersten komplett chinesischen Grafikkarten",
       "teaser": "Nur 1,5 Jahre hat das chinesische Start-up Moore Threads benötigt, um eigene Grafikkarten herzustellen. Zu den Geldgebern gehören chinesische Tech-Riesen.",
       "url": "https://www.heise.de/news/Moore-Threads-Die-ersten-komplett-chinesischen-Grafikkarten-6659157.html"
-    },
-    {
-      "title": "Privacy SandboxGoogles Cookie-Nachfolger gehen in Praxistest",
-      "teaser": "Die neuen Werbetechniken sollen zuerst von Beta-Testern erprobt werden. Den Geltungsbereich der Datenschutzgrundverordnung scheut Google jedoch noch.",
-      "url": "https://www.heise.de/news/Privacy-Sandbox-Googles-Cookie-Nachfolger-gehen-in-den-Praxistest-6658725.html"
-    },
-    {
-      "title": "KreislaufwirtschaftNeue Strategien für die zirkuläre Wirtschaft",
-      "teaser": "Neue Ökodesign-Regeln der EU-Kommission sollen Produkte nachhaltiger machen. Das soll die Kreislaufwirtschaft fördern. Was steckt hinter diesem Prinzip?",
-      "url": "https://www.heise.de/hintergrund/Kreislaufwirtschaft-Neue-Strategien-fuer-die-zirkulaere-Wirtschaft-6510749.html"
     },
     {
       "title": "Smartes VernetzenSmart-Home zentral steuern mit Raspberry Pi",
@@ -107,19 +108,71 @@
       "url": "https://www.heise.de/news/Licht-brauchte-12-9-Milliarden-Jahre-Hubble-findet-bislang-entferntesten-Stern-6658127.html"
     },
     {
-      "title": "Bitcoin & Co.: EU-Abgeordnete stimmen für Aus anonymer Kryptozahlungen",
-      "teaser": "Kryptowährungen wie Bitcoin und Ethereum dürfen nicht länger ein Eldorado für Geldwäsche und Terrorfinanzierung sein, fordern zwei Ausschüsse des EU-Parlaments.",
-      "url": "https://www.heise.de/news/Bitcoin-Co-EU-Abgeordnete-stimmen-fuer-Aus-anonymer-Kryptozahlungen-6659442.html"
+      "title": "US-Abstimmungen über erste Gewerkschaft bei Amazon: Einmal nein, einmal ja?",
+      "teaser": "In den USA werden Stimmzettel aus zwei Amazon-Warenhäusern über die Gründung der ersten Gewerkschaftsvertretung ausgezählt. Bislang gibt es nur Tendenzen.",
+      "url": "https://www.heise.de/news/US-Abstimmungen-ueber-erste-Gewerkschaft-bei-Amazon-Einmal-nein-einmal-ja-6659466.html"
     },
     {
-      "title": "Bundesregierung will Veröffentlichung von Gesetzen digitalisieren",
-      "teaser": "Die Einführung eines elektronischen Bundesgesetzblattes schaffe Transparenz, erleichtere alltägliche Arbeit und spare Ressourcen.",
-      "url": "https://www.heise.de/news/Bundesregierung-will-Veroeffentlichung-von-Gesetzen-digitalisieren-6659446.html"
+      "title": "Ferris Talk #7: Vom Ungetüm zur Goldrose – eine kleine Rust-Refactoring-Story",
+      "teaser": "Die moderne Syntax von Rust wappnet nicht vor historisch gewachsenem Programmcode, der die Lesbarkeit zu verschlingen droht. Ein Refactoring schafft Abhilfe.",
+      "url": "https://www.heise.de/hintergrund/Ferris-Talk-7-Vom-Ungetuem-zur-Goldrose-eine-kleine-Rust-Refactoring-Story-6658167.html",
+      "image_title": "Ferris Talk – Neuigkeiten zu Rust. Eine Heise-Kolumne von Rainer Stropek und Stefan Baumgartner für Rustaceans"
     },
     {
       "title": "Sechs gute Gründe für die Business-Cloud",
       "teaser": "Immer mehr geschäftskritische Applikationen wie Business Intelligence oder ERP werden in die Cloud verlagert. Das ist nicht verwunderlich, denn eine Business-Cloud bringt viele Vorteile. Bei der Wahl des Anbieters ist jedoch Sorgfalt angesagt – vor allem, wenn es um Sicherheit und Datenschutz geht.",
       "url": "https://www.heise.de/solutions/infor/sechs-gute-gruende-fuer-die-business-cloud/"
+    },
+    {
+      "title": "Ölquellen als Geothemiespeicher für Sonnenwärme nutzen",
+      "teaser": "In Kalifornien kam das Unternehmen Hyperlight Energy auf die Idee, versiegenden oder auch leeren Öl- und Gasquellen zu einem zweiten Leben zu verhelfen.",
+      "url": "https://www.heise.de/hintergrund/Oelquellen-als-Geothemiespeicher-fuer-Sonnenwaerme-nutzen-6657353.html"
+    },
+    {
+      "title": "Braccio ++: Ein Lernroboterarm von Arduino",
+      "teaser": "Der Brachio++ soll es Studenten und Schülern ermöglichen, mit vergleichsweise günstiger Roboterhardware zu lernen und experimentieren.",
+      "url": "https://www.heise.de/news/Braccio-Ein-Lernroboterarm-von-Arduino-6659334.html",
+      "image_title": "Brachio++ und schicke Umverpackung"
+    },
+    {
+      "title": "Last Call: MINT-Jobtag öffnet am 5. April in München",
+      "teaser": "In vier Tagen ist es soweit: Der MINT-Jobtag in München bringt Fachkräfte, Berufseinsteiger und Unternehmen mit attraktiven Stellen zusammen.",
+      "url": "https://www.heise.de/hintergrund/Last-Call-MINT-Jobtag-oeffnet-am-5-April-in-Muenchen-6658868.html"
+    },
+    {
+      "title": "Bastelprojekt: Taupunkt-Lüftungssystem bauen und Keller trockenlegen",
+      "teaser": "Ein Arduino Nano behält die aktuellen Taupunkte drinnen und draußen rund um die Uhr im Auge und legt durch gezieltes Lüften den Keller trocken.",
+      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Taupunkt-Lueftungssystem-bauen-und-Keller-trockenlegen-6356018.html"
+    },
+    {
+      "title": "Bericht: Brexit-Folgen so schlimm wie befürchtet",
+      "teaser": "Seit Anfang 2021 ist Großbritannien nicht mehr Mitglied von EU-Zollunion und Binnenmarkt. Ihre Brexit-Ziele hat die britische Regierung seitdem nicht erreicht.",
+      "url": "https://www.heise.de/news/Bericht-Brexit-Folgen-so-schlimm-wie-befuerchtet-6659458.html"
+    },
+    {
+      "title": "Bitcoin & Co.: EU-Abgeordnete stimmen für Aus anonymer Kryptozahlungen",
+      "teaser": "Kryptowährungen wie Bitcoin und Ethereum dürfen nicht länger ein Eldorado für Geldwäsche und Terrorfinanzierung sein, fordern zwei Ausschüsse des EU-Parlaments.",
+      "url": "https://www.heise.de/news/Bitcoin-Co-EU-Abgeordnete-stimmen-fuer-Aus-anonymer-Kryptozahlungen-6659442.html"
+    },
+    {
+      "title": "Security: Android-Smartphone vor unkontrollierten Datenabflüssen absichern",
+      "url": "https://www.heise.de/ratgeber/Security-Android-Smartphone-vor-unkontrollierten-Datenabfluessen-absichern-6613079.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ", Bild: Rudolf A. Blaha"
+    },
+    {
+      "title": "IT-SecurityFreie Web-Application-Firewalls im Test",
+      "teaser": "Netzwerküberwachung via Raspi",
+      "url": "https://www.heise.de/tests/Security-Drei-freie-Web-Application-Firewalls-im-Test-6548938.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Make-Projekt: Füllstandsensor für eine Regenwasserzisterne bauen",
+      "url": "https://www.heise.de/ratgeber/Make-Projekt-Fuellstandsensor-fuer-eine-Regenwasserzisterne-bauen-6326268.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": "Gullideckel auf einer Wiese, darauf liegend ein Blutdruckmessgerät."
+    },
+    {
+      "title": "Bundesregierung will Veröffentlichung von Gesetzen digitalisieren",
+      "teaser": "Die Einführung eines elektronischen Bundesgesetzblattes schaffe Transparenz, erleichtere alltägliche Arbeit und spare Ressourcen.",
+      "url": "https://www.heise.de/news/Bundesregierung-will-Veroeffentlichung-von-Gesetzen-digitalisieren-6659446.html"
     },
     {
       "title": "Freitag: Apple mit wichtigen Updates, Tank-Apps mit Spritpreisen im Vergleich",
@@ -156,21 +209,6 @@
       "url": "https://www.heise.de/news/Boston-Dynamics-bietet-Logistikroboter-Stretch-zum-Verkauf-an-6659344.html"
     },
     {
-      "title": "Security: Android-Smartphone vor unkontrollierten Datenabflüssen absichern",
-      "url": "https://www.heise.de/ratgeber/Security-Android-Smartphone-vor-unkontrollierten-Datenabfluessen-absichern-6613079.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ", Bild: Rudolf A. Blaha"
-    },
-    {
-      "title": "IT-SecurityFreie Web-Application-Firewalls im Test",
-      "teaser": "Netzwerküberwachung via Raspi",
-      "url": "https://www.heise.de/tests/Security-Drei-freie-Web-Application-Firewalls-im-Test-6548938.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Make-Projekt: Füllstandsensor für eine Regenwasserzisterne bauen",
-      "url": "https://www.heise.de/ratgeber/Make-Projekt-Fuellstandsensor-fuer-eine-Regenwasserzisterne-bauen-6326268.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": "Gullideckel auf einer Wiese, darauf liegend ein Blutdruckmessgerät."
-    },
-    {
       "title": "Nach BSI-Warnung: Mehrere Distributoren bieten Kaspersky nicht mehr an",
       "teaser": "Reseller wie Timmunity und Alternate haben Sicherheitssoftware des russischen Produzenten aus dem Programm genommen oder gekündigt. Andere halten zu Kaspersky.",
       "url": "https://www.heise.de/news/Nach-BSI-Warnung-Mehrere-Distributoren-bieten-Kaspersky-nicht-mehr-an-6659320.html",
@@ -203,6 +241,11 @@
       "url": "https://www.heise.de/news/Amazon-Gruender-Bezos-schickt-weitere-sechs-Menschen-ins-All-6659328.html"
     },
     {
+      "title": "Herr der Sicherheitslage bleiben mit einem zentralen Dashboard",
+      "teaser": "Die Sicherheit Ihres Unternehmens hängt von vielen Faktoren ab, die Sie jederzeit im Blick haben sollten. Wir stellen Ihnen im Live-Webcast am 26. April um 11:00 Uhr einen cloud-basierten Ansatz vor, mit dessen Hilfe Sie Bedrohungen für Ihr Unternehmen rechtzeitig erkennen und entschärfen können.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/herr-der-sicherheitslage-bleiben-mit-einem-zentralen-dashboard-4255?source=HBSadersatz"
+    },
+    {
       "title": "EU-Nachhaltigkeitsinitiative: \"Frage der Sicherheit und Souveränität\"",
       "teaser": "Die Bundesregierung unterstützt den Plan der EU-Kommission für nachhaltige, leichter reparierbare Produkte. Auch aus Wirtschaft und Gesellschaft kommt viel Lob.",
       "url": "https://www.heise.de/news/EU-Nachhaltigkeitsinitiative-Frage-der-Sicherheit-und-Souveraenitaet-6659308.html"
@@ -233,49 +276,6 @@
       "teaser": "Die Redmi Watch 2 Lite macht einiges besser als andere Smartwatches und Fitnesstracker. Überrascht haben uns vor allem die Akkulaufzeit und der Preis.",
       "url": "https://www.heise.de/tests/Redmi-Watch-2-Lite-mit-langer-Akkulaufzeit-und-Fitnesstracking-im-Test-6629887.html",
       "image_title": ","
-    },
-    {
-      "title": "Moore Threads: Die ersten komplett chinesischen Grafikkarten",
-      "teaser": "Nur 1,5 Jahre hat das chinesische Start-up Moore Threads benötigt, um eigene Grafikkarten herzustellen. Zu den Geldgebern gehören chinesische Tech-Riesen.",
-      "url": "https://www.heise.de/news/Moore-Threads-Die-ersten-komplett-chinesischen-Grafikkarten-6659157.html"
-    },
-    {
-      "title": "Herr der Sicherheitslage bleiben mit einem zentralen Dashboard",
-      "teaser": "Die Sicherheit Ihres Unternehmens hängt von vielen Faktoren ab, die Sie jederzeit im Blick haben sollten. Wir stellen Ihnen im Live-Webcast am 26. April um 11:00 Uhr einen cloud-basierten Ansatz vor, mit dessen Hilfe Sie Bedrohungen für Ihr Unternehmen rechtzeitig erkennen und entschärfen können.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/herr-der-sicherheitslage-bleiben-mit-einem-zentralen-dashboard-4255?source=HBSadersatz"
-    },
-    {
-      "title": "Mini-Linux-Distribution GParted Live aktualisiert Unterbau",
-      "teaser": "Die GParted-Entwickler haben ihr minimalistisches Linux-System GParted Live mit ihrer Partitionsverwaltungssoftware auf den neuen Stand 1.4.0 gebracht.",
-      "url": "https://www.heise.de/news/Mini-Linux-Distribution-GParted-Live-jetzt-auf-Stand-1-4-0-6659036.html",
-      "image_title": "Aufmacher GParted Live 1.4.0"
-    },
-    {
-      "title": "KI-optimierte Anwendungen: Intel übernimmt Granulate",
-      "teaser": "Um Server-Rechenleistung einzusparen und Cloud-Kosten in Echtzeit und per KI zu reduzieren, kauft Intel das israelische Start-up Granulate.",
-      "url": "https://www.heise.de/news/KI-optimierte-Anwendungen-Intel-uebernimmt-Granulate-6659165.html",
-      "image_title": "Cloud, Rechenzentrum,"
-    },
-    {
-      "title": "Kartellamt nimmt Bonitätsprüfung beim Online-Shopping unter die Lupe",
-      "teaser": "Beim Scoring werden Werte für die Bonität einer Person ermittelt. Das Bundeskartellamt will prüfen, ob Händler und Auskunfteien dabei rechtskonform bleiben.",
-      "url": "https://www.heise.de/news/Kartellamt-nimmt-Bonitaetspruefung-beim-Online-Shopping-unter-die-Lupe-6659118.html"
-    },
-    {
-      "title": "Neues Konzept für autofreie Friedrichstraße vom Berliner Senat geplant",
-      "teaser": "Die Friedrichstraße ist auch ohne Autos nicht zur Flaniermeile geworden. Das Konzept überzeugt viele Menschen nicht. Nun sieht der Senat Handlungsbedarf.",
-      "url": "https://www.heise.de/news/Neues-Konzept-fuer-autofreie-Friedrichstrasse-vom-Berliner-Senat-geplant-6659145.html"
-    },
-    {
-      "title": "Korg NTS-1 – Elektronik trifft auf Musik",
-      "teaser": "Der Synthesizer ist ein Paradebeispiel für die Symbiose aus Musikinstrumentenbau und Elektronik. Ein kleiner Bausatz macht Appetit darauf.",
-      "url": "https://www.heise.de/blog/Korg-NTS-1-Elektronik-trifft-auf-Musik-6658911.html"
-    },
-    {
-      "title": "VW ruft Plug-in-Hybride wegen Brandgefahr zurück",
-      "teaser": "Bei Plug-in-Hybriden von Volkswagen drohen durch eine fehlerhafte Sicherung der Batterie Stromschläge, im Extremfall sogar ein Feuer.",
-      "url": "https://www.heise.de/news/VW-ruft-Plug-in-Hybride-wegen-Brandgefahr-zurueck-6659079.html",
-      "image_title": "VW Tiguan PHEV"
     },
     {
       "title": "Russland gehen offenbar die Datenspeicher aus",
@@ -448,6 +448,11 @@
       "url": "https://www.heise.de/news/Halbautonomer-Rollstuhlroboter-soll-Kollisionen-mit-Fussgaengern-vermeiden-6656822.html"
     },
     {
+      "title": "Last Call: MINT-Jobtag öffnet am 5. April in München",
+      "teaser": "In vier Tagen ist es soweit: Der MINT-Jobtag in München bringt Fachkräfte, Berufseinsteiger und Unternehmen mit attraktiven Stellen zusammen.",
+      "url": "https://www.heise.de/hintergrund/Last-Call-MINT-Jobtag-oeffnet-am-5-April-in-Muenchen-6658868.html"
+    },
+    {
       "title": "IT-FachkräfteAlle suchen Akademiker​",
       "teaser": "Immer mehr offene IT-Stellen können nicht besetzt werden. Frauen, Umschulung, Bleibe- und Trennungsgespräche sollen dazu beitragen, den Mangel zu mildern.",
       "url": "https://www.heise.de/news/IT-Fachkraefte-Alle-suchen-Akademiker-6658026.html"
@@ -455,18 +460,12 @@
     {
       "title": "Montag: Chinas IT-Politik bedroht Fachkräfte, Drohnen nutzen die Kill-Cloud",
       "teaser": "Entlassungen in Chinas IT-Branche + Drohnenkrieg braucht Internet + Notfallupdate für Google Chrome + Studie zu E-Leichtfahrzeugen + Cybergangs im Ukraine-Krieg",
-      "url": "https://www.heise.de/news/Montag-Chinas-IT-Politik-bedroht-Fachkraefte-Drohnen-nutzen-die-Kill-Cloud-6652413.html",
-      "image_title": "Mitarbeiter im Büro besprechen sich am Arbeitsplatz"
+      "url": "https://www.heise.de/news/Montag-Chinas-IT-Politik-bedroht-Fachkraefte-Drohnen-nutzen-die-Kill-Cloud-6652413.html"
     },
     {
       "title": "Bit-Rauschen: Intel-Fab in Magdeburg, Apple M1 Ultra, ARM-Entlassungen",
       "teaser": "Der Frühling beschert Sachsen-Anhalt blühende Landschaften. Apple vereint zwei M1-Chips und ARM baut Hunderte Arbeitsplätze ab.",
       "url": "https://www.heise.de/news/Bit-Rauschen-Intel-Fab-in-Magdeburg-Apple-M1-Ultra-ARM-Entlassungen-6593975.html"
-    },
-    {
-      "title": "Entlassungen in Chinas Tech-BrancheIT-Fachkräfte bangen um ihre Jobs",
-      "teaser": "Fluktuation bei den Mitarbeiterzahlen der E-Commerce- und Tech-Branche in China sind normal. Die neue Politik setzt den Unternehmen allerdings mehr und mehr zu.",
-      "url": "https://www.heise.de/hintergrund/Zuegellose-Vergroesserung-von-Kapital-Chinas-IT-Fachkraefte-bangen-um-ihre-Jobs-6632783.html"
     },
     {
       "title": "Trailer zu \"The Lord of the Rings: The Rings of Power\"",
@@ -516,6 +515,12 @@
       "url": "https://www.heise.de/news/Geheimnisverrat-bei-Apple-im-Podcast-von-Mac-i-6541368.html"
     },
     {
+      "title": "Braccio ++: Ein Lernroboterarm von Arduino",
+      "teaser": "Der Brachio++ soll es Studenten und Schülern ermöglichen, mit vergleichsweise günstiger Roboterhardware zu lernen und experimentieren.",
+      "url": "https://www.heise.de/news/Braccio-Ein-Lernroboterarm-von-Arduino-6659334.html",
+      "image_title": "Brachio++ und schicke Umverpackung"
+    },
+    {
       "title": "Enthüllt: Wie vor 10 Jahren der Raspberry Pi (vielleicht) den ESC entschied",
       "teaser": "Tausende scheckkartenkleine Computer mit GSM-Modul sollen im Mai 2012 als Voting-Automaten quer durch Europa geschickt worden sein. Make klärt auf.",
       "url": "https://www.heise.de/hintergrund/Enthuellt-Wie-vor-10-Jahren-der-Raspberry-Pi-vielleicht-den-ESC-entschied-6654593.html"
@@ -525,11 +530,6 @@
       "teaser": "Die cloudbasierte Smart-Home-Firmware Tuya steckt in den billigen Produkten vom Non-Food-Discounter Action. Man kann sie nach etwas Arbeit rein lokal steuern.",
       "url": "https://www.heise.de/hintergrund/Smart-Home-vom-Discounter-So-steuern-Sie-Tuya-Geraete-ohne-Cloud-6326538.html",
       "image_title": "Verpackungen von smarten LED-Leuchtmitteln (Lichterkette und Kerzenbirne), daneben eine schaltbare Steckdose."
-    },
-    {
-      "title": "Ostereiersuche mit NanoAxe-Controller",
-      "teaser": "Sollte Ostern mit Ihren Kindern wetterbedingt indoor stattfinden, hätten wir etwas für Sie: Unsere Eier-Schatztruhe öffnet sich nur mit Karotten-Code-Eingabe.",
-      "url": "https://www.heise.de/hintergrund/Ostereiersuche-mit-NanoAxe-Controller-6657672.html"
     },
     {
       "title": "c't Fotografie: Endlich ohne Automatik",
@@ -667,10 +667,10 @@
       "url": "https://www.heise.de/tp/features/Gutachten-Vorstoesse-von-Kassenaerzten-gegen-Ungeimpfte-rechtswidrig-und-kaum-umsetzbar-6334944.html"
     },
     {
-      "title": "Anonym surfen mit VPN: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen, Daten verschlüsselt über das Internet zu versenden oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2022 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036?wt_mc=intern.newsticker.buehne.download",
-      "image_title": "Im Vergleich: VPN-Anbieter für anonymes Surfen"
+      "title": "Der eigene Web-Auftritt: Homepage-Baukästen im Vergleich",
+      "teaser": "Wer ohne Vorkenntnisse eine Website erstellen möchte, der erzielt mit Homepage-Baukästen schnell hübsche Ergebnisse. Wir nennen die Vor- und Nachteile der Baukasten-Systeme und zeigen, welche Anbieter sich für private und gewerbliche Homepages eignen.",
+      "url": "https://www.heise.de/download/specials/Der-eigene-Web-Auftritt-Homepage-Baukaesten-im-Vergleich-6188143?wt_mc=intern.newsticker.buehne.download",
+      "image_title": "Homepage Baukästen im Vergleich"
     },
     {
       "title": "kavremover",
