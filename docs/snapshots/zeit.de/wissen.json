@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-02T12:32:39",
+  "timestamp": "2022-04-02T13:24:18",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Antikes Weltbild: Wie die alten Griechen erkannten, dass die Erde eine Kugel ist",
+      "teaser": "Wieso verschwinden Schiffe am Horizont, wenn die Erde eine Scheibe ist? Warum rotieren die Sterne? Forschende Seefahrer entdeckten vor mehr als 2.000 Jahren die Welt neu.",
+      "url": "https://www.zeit.de/zeit-geschichte/2022/02/antikes-weltbild-erde-kugel-seefahrt",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/02/antikes-weltbild-erde-kugel-seefahrt-teaser/cinema__980x420"
+    },
+    {
       "title": "Atomwaffen: Der Wahnsinn ist zurück",
       "teaser": "Wladimir Putin spielt mit der Angst vor der Bombe. Ist das alles nur ein Bluff? Oder ist ein Atomkrieg wirklich wahrscheinlicher geworden?",
       "url": "https://www.zeit.de/wissen/2022-04/atomwaffen-russland-atomkrieg-angst-verbot",
-      "image_url": "https://img.zeit.de/wissen/2022-04/atomwaffen-russland-atomkrieg-angst/cinema__980x420"
+      "image_url": "https://img.zeit.de/wissen/2022-04/atomwaffen-russland-atomkrieg-angst/wide__822x462",
+      "image_title": "Atomwaffen: Der Wahnsinn ist zurück"
     },
     {
       "title": "Coronavirus: Zahl der Neuansteckungen sinkt auf 196.456",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/wissen/2022-04/coronavirus-todesfaelle-steigen-deutschland",
       "image_url": "https://img.zeit.de/wissen/2022-04/coronavirus-todesfaelle-steigen-bild/wide__822x462",
       "image_title": "Coronavirus: Zahl der Neuansteckungen sinkt auf 196.456"
-    },
-    {
-      "title": "Unvernunft: Der Reiz der dummen Idee",
-      "teaser": "Manchmal kennen wir 1.000 gute Gründe, etwas nicht zu tun. Und machen es dann trotzdem. Ist das vielleicht schlau?",
-      "url": "https://www.zeit.de/zeit-wissen/2022/02/unvernunft-dumme-ideen-reiz-psychologie",
-      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/2-was-ist-der-reiz-an-dummen-ideen-bild-1/wide__822x462",
-      "image_title": "Unvernunft: Der Reiz der dummen Idee"
     },
     {
       "title": "Antarktis: Hitzewelle im letzten gallischen Dorf der Klimaerwärmung",
@@ -95,11 +95,11 @@
       "image_title": "Forschungskosmos: »Zukunftsfragen der Forschung«"
     },
     {
-      "title": "Luftverschmutzung: 96 Prozent von Europas Stadtbevölkerung leben in ungesunder Luft",
-      "teaser": "Die Schadstoffbelastung der Luft in Europas Städten liegt noch immer oberhalb der Richtwerte der WHO. Ausgerechnet die Lungenkrankheit Covid sorgte für eine Verbesserung.",
-      "url": "https://www.zeit.de/wissen/umwelt/2022-04/luftverschmutzung-europa-staedte-feinstaub",
-      "image_url": "https://img.zeit.de/wissen/2022-04/schadstoffwerte-feinstaub-bild/wide__822x462",
-      "image_title": "Luftverschmutzung: 96 Prozent von Europas Stadtbevölkerung leben in ungesunder Luft"
+      "title": "Unvernunft: Der Reiz der dummen Idee",
+      "teaser": "Manchmal kennen wir 1.000 gute Gründe, etwas nicht zu tun. Und machen es dann trotzdem. Ist das vielleicht schlau?",
+      "url": "https://www.zeit.de/zeit-wissen/2022/02/unvernunft-dumme-ideen-reiz-psychologie",
+      "image_url": "https://img.zeit.de/zeit-wissen/2022/02/2-was-ist-der-reiz-an-dummen-ideen-bild-1/wide__822x462",
+      "image_title": "Unvernunft: Der Reiz der dummen Idee"
     },
     {
       "title": "AnzeigeWissen schafft Erleben",
@@ -123,6 +123,13 @@
       "image_title": "Dirk Messner: \"Die gegenwärtige Krise kann ungeahnte Kräfte freisetzen\""
     },
     {
+      "title": "Luftverschmutzung: 96 Prozent von Europas Stadtbevölkerung leben in ungesunder Luft",
+      "teaser": "Die Schadstoffbelastung der Luft in Europas Städten liegt noch immer oberhalb der Richtwerte der WHO. Ausgerechnet die Lungenkrankheit Covid sorgte für eine Verbesserung.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-04/luftverschmutzung-europa-staedte-feinstaub",
+      "image_url": "https://img.zeit.de/wissen/2022-04/schadstoffwerte-feinstaub-bild/wide__822x462",
+      "image_title": "Luftverschmutzung: 96 Prozent von Europas Stadtbevölkerung leben in ungesunder Luft"
+    },
+    {
       "title": "Wochenbericht: Gipfel von aktueller Corona-Welle laut RKI wahrscheinlich erreicht",
       "teaser": "Das RKI geht davon aus, dass die Zahl der Neuinfektionen fortan zurückgehen wird. Vieles hänge nun vom eigenverantwortlichen Verhalten der Menschen ab.",
       "url": "https://www.zeit.de/wissen/2022-04/wochenbericht-rki-omikron-welle-beschraenkungen",
@@ -131,16 +138,16 @@
     },
     {
       "title": "Coronavirus: Sieben-Tage-Inzidenz sinkt auf 1.586",
-      "teaser": "Die Gesundheitsämter haben zuletzt 252.530 Neuinfektionen registriert, deutlich weniger als in der Vorwoche. 304 weitere Menschen sind dem RKI zufolge gestorben.",
+      "teaser": "Die Gesundheitsämter haben zuletzt 252.530 Neuinfektionen registriert, deutlich weniger als in der Vorwoche. 304 weitere Menschen sind dem RKI zufolge gestorben. 157 Kommentare",
       "url": "https://www.zeit.de/wissen/2022-03/coronavirus-zahlen-gipfel-erreicht",
-      "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/2022-03/coronavirus-neuinfektionen-rki-gesundheitsaemter-bild/cinema__980x420",
       "image_title": "Coronavirus: Sieben-Tage-Inzidenz sinkt auf 1.586"
     },
     {
       "title": "Erneuerbare Energien: Lasst sie wachsen!",
       "teaser": "Bäume verbrennen, um grüne Energie zu gewinnen? Keine gute Idee, aber die EU-Kommission stuft Strom aus Biomasse nun so ein. Dabei haben Europas Wälder genug zu kämpfen.",
       "url": "https://www.zeit.de/2022/14/erneuerbare-energien-holz-eu-taxonomie-nachhaltigkeit",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/erneuerbare-energien-holz-eu-taxonomie-nachhaltigkeit-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2022-03/erneuerbare-energien-holz-eu-taxonomie-nachhaltigkeit-bild/wide__822x462",
       "image_title": "Erneuerbare Energien: Lasst sie wachsen!"
     },
     {
@@ -156,13 +163,6 @@
       "url": "https://www.zeit.de/zeit-wissen/2022/02/architektur-zuhause-natur-juergen-mayer-h",
       "image_url": "https://img.zeit.de/zeit-wissen/2022/02/baumeister-beutelmeise-bild-9/wide__822x462",
       "image_title": "Architektur: Der Stoff, aus dem Zuhause ist"
-    },
-    {
-      "title": "Coronavirus: Hospitalisierungsrate steigt leicht an",
-      "teaser": "Knapp 270.000 Neuinfektionen hat das RKI aktuell registriert, 15.000 weniger als in der Vorwoche. Aber es gab mehr Krankenhauseinweisungen. Weitere 348 Menschen starben.",
-      "url": "https://www.zeit.de/wissen/2022-03/url-coronavirus-neuinfektionen-rki-gesundheitsaemter-steigende-todesfaelle",
-      "image_url": "https://img.zeit.de/gesundheit/2022-03/coronavirus-deutschland-3/wide__822x462",
-      "image_title": "Coronavirus: Hospitalisierungsrate steigt leicht an"
     },
     {
       "title": "Freiheit der Wissenschaft: \"Wenn wir nichts ändern, hat unsere Demokratie ein Problem\"",
@@ -183,12 +183,12 @@
       "url": "https://www.zeit.de/wissen/umwelt/2022-03/klimawandel-fruehlingsbeginn-oekosystem-bluetezeit-veraenderung"
     },
     {
-      "title": "Dürre: So trocken wie im März darf es nicht bleiben",
-      "url": "https://www.zeit.de/wissen/2022-03/duerre-trockenheit-boeden-wetter-klimawandel"
-    },
-    {
       "title": "Atomwaffen: Der Wahnsinn ist zurück",
       "url": "https://www.zeit.de/wissen/2022-04/atomwaffen-russland-atomkrieg-angst-verbot"
+    },
+    {
+      "title": "Dürre: So trocken wie im März darf es nicht bleiben",
+      "url": "https://www.zeit.de/wissen/2022-03/duerre-trockenheit-boeden-wetter-klimawandel"
     },
     {
       "title": "Dürre: So trocken wie im März darf es nicht bleiben",
@@ -223,8 +223,8 @@
       "url": "https://www.zeit.de/wissen/2022-03/url-coronavirus-neuinfektionen-rki-gesundheitsaemter-steigende-todesfaelle"
     },
     {
-      "title": "Dürre: So trocken wie im März darf es nicht bleiben",
-      "url": "https://www.zeit.de/wissen/2022-03/duerre-trockenheit-boeden-wetter-klimawandel"
+      "title": "Atomwaffen: Der Wahnsinn ist zurück",
+      "url": "https://www.zeit.de/wissen/2022-04/atomwaffen-russland-atomkrieg-angst-verbot"
     },
     {
       "title": "Tempolimit: Die Raser setzten sich immer durch",
@@ -355,18 +355,18 @@
       "image_title": "Christopher Clark: \"Preußen war ein europäischer Staat, bevor er ein deutscher wurde\""
     },
     {
-      "title": "Eckart und Christian von Hirschhausen: \"Ich frage mich, warum nicht alle schreiend durch die Gegend laufen\"",
-      "teaser": "Die Brüder Eckart und Christian von Hirschhausen sind grundverschieden, aber in diesem Punkt sind sie sich einig: Die Menschen fahren die Welt gerade vor die Wand.",
-      "url": "https://www.zeit.de/green/2022-03/eckart-christian-hirschhausen-klimawandel-energiepreise",
-      "image_url": "https://img.zeit.de/green/2022-03/eckart-christian-hirschhausen-klimawandel-energiepreise-bild-2/wide__822x462",
-      "image_title": "Eckart und Christian von Hirschhausen: \"Ich frage mich, warum nicht alle schreiend durch die Gegend laufen\""
+      "title": "Klimaschutz: Schöner Reisen in der Klimakrise",
+      "teaser": "Unser Autor schreibt vor allem über Klimaschutz – und hat sich gerade ein Auto gekauft. Einen Verbrenner. Er sieht darin kein großes Problem.",
+      "url": "https://www.zeit.de/mobilitaet/2022-03/klimaschutz-nachhaltigkeit-verkehrswende-reisen",
+      "image_url": "https://img.zeit.de/mobilitaet/2022-03/verkehrswende-klimaschutz-autofrei-verzicht-reisen-vw-bus/wide__822x462",
+      "image_title": "Klimaschutz: Schöner Reisen in der Klimakrise"
     },
     {
-      "title": "Privatjets: So exklusiv, dass es wehtut",
-      "teaser": "Dienstreisen mit dem Flugzeug schienen durch die Pandemie endgültig überflüssig. Doch das Fliegen mit Privatjets boomt wie nie. Wer fliegt da? Manchmal nur Falken.",
-      "url": "https://www.zeit.de/green/2022-03/privatjets-airhamburg-co2-emissionen-klimakrise",
-      "image_url": "https://img.zeit.de/green/2022-03/privatjets-airhamburg-co2-emissionen-klimakrise-bild/wide__822x462",
-      "image_title": "Privatjets: So exklusiv, dass es wehtut"
+      "title": "Autobahn: Was ein Tempolimit jetzt bewirken würde",
+      "teaser": "Wegen der Energiekrise mehren sich die Forderungen nach einem Tempolimit. Wie viel Öl würde es einsparen? Und wie würde es den Verkehr verändern? Fünf Zahlen zur Debatte",
+      "url": "https://www.zeit.de/mobilitaet/2022-03/tempolimit-autobahn-energie-debatte",
+      "image_url": "https://img.zeit.de/mobilitaet/2022-03/tempolimit-autobahn-energie-debatte-bild/wide__822x462",
+      "image_title": "Autobahn: Was ein Tempolimit jetzt bewirken würde"
     },
     {
       "title": "Deutsch-russischer Handel: Enge Beziehung",
