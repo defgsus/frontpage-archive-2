@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-04-04T01:47:07",
+  "timestamp": "2022-04-04T03:06:04",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.4c155a00.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.fbbdcd5f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.568b9cdd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.bac10625.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dbe7a27d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.81b64891.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Sarah Engels' Schwager Jendrik : Fummel-Einstand auf „Love Island“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/love-island-sarah-engels-schwager-jendrik-gibt-flirt-volllgas-79661138.bild.html",
-      "image_url": "https://images.bild.de/624a1fb529e37c79421fd8ec/0e988ae0c0140353cd6f87ffa835c198-square/9/2?w=656",
-      "image_title": "„Love Island“: Sarah Engels' Schwager Jendrik gibt Flirt-Volllgas"
-    },
-    {
-      "title": "„Kitchen Impossible“ : Mälzer schummelt sich zum Unentschieden",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kitchen-impossible-tim-maelzer-schummelt-sich-zum-unentschieden-79651616.bild.html",
-      "image_url": "https://images.bild.de/6248b2eb29e37c79421fd74a/db2d392595a999ece6db1186b51450fd-miniSquare/1/2?w=320",
-      "image_title": "„Kitchen Impossible“: Tim Mälzer schummelt sich zum Unentschieden"
-    },
-    {
-      "title": "TV-Doppelmörder Johannes Zeiler : „Ich wäre gern selbst Tatort-Kommissar“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-johannes-zeiler-waere-gern-selbst-tatort-kommissar-79660470.bild.html",
-      "image_url": "https://images.bild.de/6249f0fd29e37c79421fd8ce/f4f01bbf2ed4375a0a748e99620e98c3-miniSquare/1/2?w=320",
-      "image_title": "Tatort: Johannes Zeiler wäre gern selbst Tatort-Kommissar"
-    },
-    {
-      "title": "„Game of Thrones“-Hit „House of the Dragon“ : Was diese Bilder über die Serie des Jahres verraten!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/house-of-the-dragon-was-diese-bilder-ueber-den-game-of-thrones-kult-verraten-79655580.bild.html",
-      "image_url": "https://images.bild.de/6249749064bac504b8e12bcd/52eaeea6aaf232bfc29c5ba119ca9cb6/1/2?w=320",
-      "image_title": "„House of the Dragon“: Was diese Bilder über den „Game of Thrones“-Kult verraten"
-    },
-    {
-      "title": "„The Biggest Loser“ : Hammer Turm-Challenge zum Halbfinale",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-biggest-loser-turm-challenge-verlangte-den-kandidaten-alles-ab-79659088.bild.html",
-      "image_url": "https://images.bild.de/6249cbfdf857a30b3f789259/7de78e1e5c8f8136224a814339fb8ccc/1/2?w=320",
-      "image_title": "„The Biggest Loser“: Turm-Challenge verlangte den Kandidaten alles ab"
-    },
-    {
-      "title": "Warum bei „Verstehen Sie Spaß?“ der Ton weg war : Schöneberger witzelt über die Live-Panne",
-      "url": "https://www.bild.de/unterhaltung/tv/leute/verstehen-sie-spass-panne-darum-war-barbara-schoenebergers-ton-weg-79655348.bild.html",
-      "image_title": "„Verstehen Sie Spaß?“-Panne: Darum war Barbara Schönebergers Ton weg"
-    },
-    {
-      "title": "„Prominent getrennt“ : „Die schaut aus wie ein Transvestit“",
-      "teaser": "Gibt es etwa doch Harmonie in der „Villa der Verflossenen“? Nix da. Dafür Eskalation!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/prominent-getrennt-laesterei-die-sieht-aus-wie-ein-transvestit-79648542.bild.html",
-      "image_title": "„Prominent getrennt“-Lästerei: „Die sieht aus wie ein Transvestit“"
-    },
-    {
-      "title": "„The Masked Singer“ : Im Koala-Kostüm steckt ein britischer Musiker",
-      "teaser": "Der tollpatschige Liefer-Koala musste bei „The Masked Singer“ am Ende sein Gesicht zeigen. In dem Kostüm steckte ein internationaler Star.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-sensation-im-koala-kostuem-steckt-ein-britischer-musiker-79651860.bild.html",
-      "image_title": "„The Masked Singer“-Sensation: Im Koala-Kostüm steckt ein britischer Musiker"
-    },
-    {
-      "title": "Kuschel-Alarm bei „DSDS“ : Emine mit Din im Bett erwischt",
-      "teaser": "Hat es bei „Deutschland sucht den Superstar“ wieder gefunkt? Die Castingshow brachte ja schon einige Pärchen hervor.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/dsds-din-und-emine-im-bett-erwischt-79651772.bild.html",
-      "image_title": "DSDS: Emine mit Din im Bett erwischt"
-    },
-    {
-      "title": "Schöneberger verstummt : Ton-Ausfall total bei „Verstehen Sie Spaß?“",
-      "teaser": "In ihrer ersten „Verstehen Sie Spaß?“-Show blieb Barbara Schöneberger die Stimme weg.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/verstehen-sie-spass-panne-tonausfall-barbara-schoeneberger-verstummt-79650958.bild.html",
-      "image_title": "„Verstehen Sie Spaß“-Panne: Tonausfall – Barbara Schöneberger verstummt"
-    },
-    {
-      "title": "Lena sagt „The Voice“ ab : „Schweren Herzens dazu entschieden“",
-      "teaser": "Auf Instagram gibt Lena Gercke ihren Abschied von „The Voice of Germany“ bekannt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lena-gercke-verlaesst-the-voice-schweren-herzens-dazu-entschieden-79625468.bild.html",
-      "image_title": "Lena Gercke verlässt „The Voice“: „Schweren Herzens dazu entschieden“"
-    },
-    {
-      "title": "„Bridgerton“-Geheimnis : ER sollte eigentlich den heißen Herzog spielen!",
-      "teaser": "„Bridgerton“ ist eine der erfolgreichsten Netflix-Serien. BILD verrät pikante Geheimnisse.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bridgerton-star-lueftet-serien-geheimnis-er-sollte-eigentlich-den-heissen-herzog-79571438.bild.html",
-      "image_title": "„Bridgerton“-Star lüftet Serien-Geheimnis: ER sollte eigentlich den heißen Herzog spielen"
-    },
-    {
-      "title": "Eskalation auf „Love Island“ : RTL2 schmeißt Kandidat Bucci raus",
-      "teaser": "Kandidat Bucci verbreitet auf „Love Island“ schlechte Stimmung und fliegt aus der Show.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/love-island-rtl2-schmeisst-kandidat-bucci-raus-79644874.bild.html",
-      "image_title": "„Love Island“: RTL2 schmeißt Kandidat Bucci raus"
-    },
-    {
-      "title": "Pocher bei „Let's Dance“ : Überraschender Auftritt nach Ohrfeigen-Attacke",
-      "teaser": "Am Freitagabend tauchte Oliver Pocher nach der Ohrfeigen-Attacke bei „Let's Dance auf.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/lets-dance-oliver-pocher-tauchte-nach-ohrfeigen-attacke-auf-79644968.bild.html",
-      "image_title": "„Let's Dance“: Oliver Pocher tauchte nach Ohrfeigen-Attacke auf"
-    },
-    {
-      "title": "„The Voice Kids“ : Wer Wincent Weiss in der Show anrief",
-      "teaser": "Am Freitagabend sorgte ein kleiner Zwischenfall bei „The Voice Kids“ für große Lacher.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-kids-wer-wincent-weiss-in-der-show-anrief-79643808.bild.html",
-      "image_title": "„The Voice Kids“: Wer Wincent Weiss in der Show anrief"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-top-10-die-beliebtesten-filme-und-serien-fuers-wochenende-79634788.bild.html",
-      "image_title": "Netflix Top 10: Die beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-top-10-film-und-serien-charts-fuers-wochenende-79634804.bild.html",
-      "image_title": "Amazon Prime Top 10: Film- und Serien-Charts fürs Wochenende!"
-    },
-    {
-      "title": "Jo Weil : Soap-Comeback für „Verbotene Liebe“-Star",
-      "teaser": "Nach der Soap ist vor der Soap. TV-Star Jo Weil (44) ist der Neuzugang bei „Unter Uns“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/unter-uns-neuzugang-jo-weil-ueber-sein-soap-comeback-79632354.bild.html",
-      "image_title": "„Unter Uns:“ Neuzugang Jo Weil über sein Soap-Comeback"
-    },
-    {
-      "title": "Die Bachelor-Bilanz : Wer Knutsch-König ist, wer Sex am Set hatte!",
-      "teaser": "189 Küsse – DAS ist die Bilanz der Ex-Bachelor! Wer am meisten knutschte, wer Sex hatte.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bachelor-bilanz-wer-knutsch-koenig-ist-wer-sex-am-set-hatte-79627142.bild.html",
-      "image_title": "Bachelor-Bilanz: Wer Knutsch-König ist, wer Sex am Set hatte!"
-    },
-    {
-      "title": "Shooting abgebrochen : Jetzt spricht Heidis GNTM-Model Lieselotte",
-      "teaser": "Weil ihr übel wurde, musste sie aufhören. Was Lieselotte über Heidis harte Kritik denkt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/heidi-klum-germanys-next-topmodel-liselotte-spricht-ueber-shooting-abbruch-79636164.bild.html",
-      "image_title": "Heidi Klum: „Germany’s Next Topmodel“-Liselotte spricht über Shooting-Abbruch"
-    },
-    {
-      "title": "Vollgas-Bachelor : „Ich sehe dich schon im Brautkleid!“",
-      "teaser": "Nachdem Bachelor Dominik seiner Anna die letzte Rose gegeben hat, geht alles ganz schnell.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/vollgas-bachelor-dominik-zu-seiner-anna-ich-sehe-dich-schon-im-brautkleid-79633930.bild.html",
-      "image_title": "Bachelor Dominik Stuckmann und seine Anna: „Ich sehe dich schon im Brautkleid!“"
-    },
-    {
-      "title": "Sarah Engels Schwager bei „Love Island“ : Mit diesem Spruch sorgte Jendrik für Ärger",
-      "teaser": "Mit Jendrik Büscher kommt jemand zu „Love Island“, der Sarah Engels als Schwägerin hat.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/love-island-sarah-engels-schwager-sorgt-fuer-aerger-auf-der-insel-79633282.bild.html",
-      "image_title": "„Love Island“: Sarah Engels Schwager sorgt für Ärger auf der Insel"
-    },
-    {
-      "title": "Senior-Model bei GNTM : Lieselotte bricht Fotoshooting ab",
-      "teaser": "Schock am Set: „Mir ist schlecht, Heidi“, stöhnte Lieselotte – und brach das Shooting ab!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-sorge-um-senior-model-lieselotte-bricht-fotoshooting-ab-79627680.bild.html",
-      "image_title": "GNTM: Sorge um Senior-Model – Lieselotte bricht Fotoshooting ab"
-    },
-    {
-      "title": "Wer war Gerry Cotten? : Die Geschichte des „toten“ Krypto-Königs",
-      "teaser": "„Die Jagd nach dem Kryptokönig“ läuft auf Netflix. Lesen Sie die Geschichte dahinter.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/gerry-cotten-als-netflix-doku-die-geschichte-des-toten-krypto-koenigs-79624532.bild.html",
-      "image_title": "Gerry Cotten als Netflix-Doku: Die Geschichte des „toten“ Krypto-Königs"
-    },
-    {
-      "title": "Zu krank für Show : „Let’s Dance“-Aus für Michelle – SIE rückt nach",
-      "teaser": "Sängerin Michelle (50) muss „Let’s Dance“ aus gesundheitlichen Gründen verlassen.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-aus-fuer-michelle-schlager-star-zu-krank-fuer-show-sie-rueckt-nach-79622974.bild.html",
-      "image_title": "„Let’s Dance“-Aus für Michelle: Schlager-Star zu krank für Show – SIE rückt nach"
-    },
-    {
-      "title": "„The Masked Singer“ : Der Koala ist ein Weltstar",
-      "url": "https://www.bild.de/video/clip/glomex/the-masked-singer-der-koala-ist-ein-weltstar-v-cj02uijzesgx-79651742,auto=true.bild.html",
-      "image_title": "„The Masked Singer“: Der Koala ist ein Weltstar"
-    },
-    {
-      "title": "Shooting-Abbruch bei GNTM! : Was ist los mit Lieselotte?",
-      "url": "https://www.bild.de/video/clip/glomex/gntm-shooting-abbruch-was-ist-los-bei-lieselotte-v-cixc5ywpu7pd-79632748,auto=true.bild.html",
-      "image_title": "GNTM-Shooting-Abbruch!: Was ist los bei Lieselotte?"
-    },
-    {
-      "title": "Die Möwe ist enttarnt : TV-Legende fliegtaus „The Masked Singer“",
-      "url": "https://www.bild.de/video/clip/glomex/die-moewe-ist-enttarnt-tv-legende-fliegt-aus-aus-the-masked-singer-v-ciu5pto1qffl-79578108,auto=true.bild.html",
-      "image_title": "Die Möwe ist enttarnt : TV-Legende fliegt aus „The Masked Singer“"
-    }
-  ]
+  "articles": []
 }
