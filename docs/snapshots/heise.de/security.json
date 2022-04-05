@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-05T05:19:10",
+  "timestamp": "2022-04-05T06:26:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-Webbrowser-Google-Chrome-6662814.html"
+    },
+    {
       "title": "Gitlab",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Gitlab-Update-ausser-der-Reihe-6660080.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Smart-Home-Uebernahme-durch-kritische-Sicherheitsluecke-in-RaspberryMatic-moeglich-6659606.html"
     },
     {
-      "title": "macOS, iOS, iPadOS",
-      "url": "https://www.heise.de/news/iOS-15-4-1-und-macOS-12-3-1-Apple-geht-Akku-und-Display-Probleme-an-6659375.html"
+      "title": "iX-Sonderheft \"Sicheres Active Directory\" ist da",
+      "teaser": "Das Active Directory ist der Dreh- und Angelpunkt bei Ransomware-Angriffen. Wie man es absichert, zeigt das neue iX kompakt auf über 170 Seiten.",
+      "url": "https://www.heise.de/news/iX-Sonderheft-Sicheres-Active-Directory-ist-da-6660896.html"
+    },
+    {
+      "title": "Sicherheitsupdate für Webbrowser Google Chrome",
+      "teaser": "Neue Versionen des Webbrowsers Google Chrome schließen erneut eine Sicherheitslücke in der JavaScript-Engine V8.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-Webbrowser-Google-Chrome-6662814.html",
+      "image_title": "Aufmacherbild Google Chrome Update"
     },
     {
       "title": "Globaler Schlag des FBI gegen Geschäftsmail-Betrug",
@@ -146,18 +157,6 @@
       "title": "Fahrplan der Cyberagentur: Mit IT-Security-Forschung Teil der Weltspitze werden",
       "teaser": "Ein Strategiepapier legt die Ziele der Cyberagentur bis 2025 fest: Es gehe darum, mit Forschung die Cybersicherheit in Deutschland gesamthaft zu stärken.",
       "url": "https://www.heise.de/news/Fahrplan-der-Cyberagentur-Mit-IT-Security-Forschung-Teil-der-Weltspitze-werden-6656209.html"
-    },
-    {
-      "title": "Root-Lücke im netfilter-Subsystem des Linux-Kernels",
-      "teaser": "Angreifer könnten aufgrund von Sicherheitslücken in nf_tables im Linux-Kernel ihre Rechte zu Root ausweiten. Patches dichten die Sicherheitslecks ab.",
-      "url": "https://www.heise.de/news/Root-Luecke-im-netfilter-Subsystem-des-Linux-Kernels-6656053.html",
-      "image_title": "Aufmacher root-Lücke in nf_tables im Linux-Kernel"
-    },
-    {
-      "title": "Parrot OS 5.0: Neuer Debian-Unterbau und frische Tools",
-      "teaser": "Das vogelbunte Linux-System etwa zum Suchen von Sicherheitslücken lässt sich auf dem Stable-Zweig Debians nieder. Neu ist eine Ausgabe für den Raspberry Pi 4.",
-      "url": "https://www.heise.de/news/Parrot-OS-5-0-Neuer-Debian-Unterbau-und-frische-Tools-6655793.html",
-      "image_title": "Aufmacher Parrot OS 5.0"
     },
     {
       "title": "secIT by Heise 2022",
