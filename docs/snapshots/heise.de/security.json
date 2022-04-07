@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-07T12:36:58",
+  "timestamp": "2022-04-07T13:30:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-VMware-patcht-teils-kritische-Sicherheitsluecken-6665440.html"
+    },
+    {
       "title": "Fortinet",
       "url": "https://www.heise.de/news/Fortinet-dichtet-Schwachstellen-in-mehreren-Produkten-ab-6665211.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Firefox-99-Kreditkartendaten-im-Browser-und-zwoelf-Sicherheitsluecken-geschlossen-6663515.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-Webbrowser-Google-Chrome-6662814.html"
+      "title": "SambaXP-Konferenz wieder kostenlos",
+      "teaser": "Das jährliche Treffen der Samba-Entwickler findet auch dieses Jahr digital statt und ist kostenlos für Interessierte zugänglich. Das Programm steht bereits.",
+      "url": "https://www.heise.de/news/SambaXP-Konferenz-wieder-kostenlos-6665921.html"
+    },
+    {
+      "title": "Jetzt aktualisieren: VMware patcht teils kritische Sicherheitslücken",
+      "teaser": "Mehrere VMware-Produkte sind von teils kritischen Lücken betroffen, durch die Angreifer Schadcode einschleusen könnten. Es gibt Updates und Gegenmaßnahmen.",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-VMware-patcht-teils-kritische-Sicherheitsluecken-6665440.html",
+      "image_title": "Aufmacher VMware-Patches"
     },
     {
       "title": "iX-Workshop zur IT-Sicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -148,17 +159,6 @@
       "teaser": "In Rockwell Automation Logix-Kontrollern können Angreifer Sicherheitslücken ausnutzen, um eigenen Code auszuführen. Die CISA gibt Admins Handlungsempfehlungen.",
       "url": "https://www.heise.de/news/Industriesteuerung-CISA-warnt-vor-kritischer-Luecke-in-Rockwell-Automation-6659741.html",
       "image_title": "Aufmacher CISA warnt vor Rockwell Automation-Sicherheitslücke"
-    },
-    {
-      "title": "Smart Home: Übernahme durch kritische Sicherheitslücke in RaspberryMatic möglich",
-      "teaser": "Angreifer könnten im Smarthome aufgrund einer Sicherheitslücke in RaspberryMatic die Kontrolle übernehmen. Ein Update zum Absichern steht zur Verfügung.",
-      "url": "https://www.heise.de/news/Smart-Home-Uebernahme-durch-kritische-Sicherheitsluecke-in-RaspberryMatic-moeglich-6659606.html",
-      "image_title": "Aufmacher kritische Sicherheitslücke in RaspberryMatic"
-    },
-    {
-      "title": "macOS: Zugänglicher Daemon erlaubte fieses Apple-ID-Phishing",
-      "teaser": "Unter Verwendung von Systemroutinen war es möglich, Apples zentralen Account abzufischen. Der Konzern reagierte nur mit Verzögerung.",
-      "url": "https://www.heise.de/news/macOS-Zugaenglicher-Daemon-erlaubte-fieses-Apple-ID-Phishing-6659000.html"
     },
     {
       "title": "heise Security Tour 2022",
