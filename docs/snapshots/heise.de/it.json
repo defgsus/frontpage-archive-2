@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-07T09:21:20",
+  "timestamp": "2022-04-07T10:22:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Microsoft rüstet nach Windows 11 für Cloud und Unternehmenseinsatz",
+      "teaser": "Neue Windows Features rund um Sicherheit und Cloud sind die Hauptthemen für eine hybride Arbeitswelt zwischen Büro und Homeoffice.",
+      "url": "https://www.heise.de/news/Microsoft-ruestet-Windows-11-fuer-die-Cloud-und-den-Einsatz-im-Unternehmen-6663737.html"
+    },
+    {
       "title": "Viasat Wiper-Malware hat Ausfall des Satellitennetzwerks KA-Sat verursacht",
       "teaser": "Viasat und SentinelOne haben Details zum Cyberangriff auf KA-Sat veröffentlicht, der hierzulande Windräder lahmlegte. Sie sehen eine Botnetz-Verbindung.",
       "url": "https://www.heise.de/news/Viasat-Wiper-Malware-hat-Ausfall-des-Satellitennetzwerks-KA-Sat-verursacht-6661499.html"
@@ -37,11 +42,6 @@
       "image_title": "Apple Business Essentials"
     },
     {
-      "title": "Jugendwettbewerb Informatik: Mädchenanteil steigt auf 35 Prozent",
-      "teaser": "Mehr als 35.500 Schülerinnen und Schüler starten Runde eins des Jugendwettbewerbs Informatik – so viele Kinder wie noch nie.",
-      "url": "https://www.heise.de/news/Jugendwettbewerb-Informatik-Maedchenanteil-steigt-auf-35-Prozent-6660228.html"
-    },
-    {
       "title": "Anleitung: macOS unter Windows ausprobieren mit dem Subsystem für Linux und QEMU",
       "teaser": "Mit nur wenigen Handgriffen lässt sich ein aktuelles macOS auf Windows 11 installieren und ausführen. Wir zeigen, wie es geht und was Sie dafür brauchen.",
       "url": "https://www.heise.de/ratgeber/Anleitung-macOS-unter-Windows-ausprobieren-mit-dem-Subsystem-fuer-Linux-und-QEMU-6663861.html"
@@ -50,6 +50,32 @@
       "title": "WordPress-Alternative: Websites flexibel gestalten und verwalten mit ProcessWire",
       "teaser": "ProcessWire ist flexibel, schnell und leistungsstark. Entwickler genießen viele Freiheiten. Schon für kleine Projekte ist das offene CMS die perfekte Wahl.",
       "url": "https://www.heise.de/ratgeber/WordPress-Alternative-Websites-flexibel-gestalten-und-verwalten-mit-ProcessWire-6663030.html"
+    },
+    {
+      "title": "Mac & i Heft 2/2022 jetzt im Handel",
+      "teaser": "Neue Aufgaben für iPhone und iPad • macOS 12 auf alten Macs • Mac und iPad wachsen zusammen • Test: Mac Studio und Apple Studio Display, iPhone SE 3, iPad Air 5",
+      "url": "https://www.heise.de/news/Mac-i-Heft-2-2022-jetzt-im-Handel-6663893.html"
+    },
+    {
+      "title": "Testmanagement: TestRail Server 7.4 ist beinahe gleichauf mit TestRail Cloud",
+      "teaser": "Interaktive Diagramme, ein veränderter Umgang mit angehängten Mediendateien sowie Performance-Verbesserungen sind Teil des neuen Release.",
+      "url": "https://www.heise.de/news/Testmanagement-TestRail-Server-7-4-ist-beinahe-gleichauf-mit-TestRail-Cloud-6665282.html"
+    },
+    {
+      "title": "software-architektur.tv: Data Mesh – nur ein neuer Datenanalyse-Hype?",
+      "teaser": "heise Developer präsentiert software-architektur.tv, Eberhard Wolffs Videocast. Diesmal zu Gast: Jochen Christ, Simon Harrer und Theo Pack.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Data-Mesh-nur-ein-neuer-Datenanalyse-Hype-6664323.html",
+      "image_title": "software-architektur.tv: Was ist Software-Architektur überhaupt?"
+    },
+    {
+      "title": "Microsoft bringt Teams-Meetings für Firefox",
+      "teaser": "Lange ließ sich Teams zwar in Firefox starten, sobald ein Anruf anstand, war der Spaß jedoch vorbei. Nun rüstet Microsoft diese essenziellen Funktionen nach.",
+      "url": "https://www.heise.de/news/Endlich-Microsoft-bringt-Teams-Meetings-fuer-Firefox-6665401.html"
+    },
+    {
+      "title": "Gigaset bringt WLAN-Router auf den Markt",
+      "teaser": "Die Breko-Einkaufsgemeinschaft bringt mit Gigaset einen Router auf den Markt, den Carrier ihren Kunden anbieten können. Weitere Modelle sind in der Pipeline.",
+      "url": "https://www.heise.de/news/Gigaset-bringt-WLAN-Router-mit-Wi-Fi-5-IEEE-802-11-a-b-g-n-ac-auf-den-Markt-6665537.html"
     },
     {
       "title": "Fortinet dichtet Schwachstellen in Firewalls und weiteren Security-Lösungen ab",
@@ -86,7 +112,7 @@
       "image_title": "Aufmacher Linux Deepin 20.5"
     },
     {
-      "title": "#heiseshow: IPv6 setzt sich langsam durch – die wichtigsten Fragen",
+      "title": "live #heiseshow: IPv6 setzt sich langsam durch – die wichtigsten Fragen",
       "teaser": "Der IPv4-Nachfolger verbreitet sich langsam. Wir lassen uns erklären, warum das so lange dauert, was die Vorteile von IPv6 sind und was man selbst machen kann.",
       "url": "https://www.heise.de/news/heiseshow-IPv6-setzt-sich-langsam-durch-die-wichtigsten-Fragen-6664196.html"
     },
@@ -104,33 +130,6 @@
       "title": "Neue Atlassian-Produkte: Mitarbeiter-Rapport wöchentlich im Twitter-Format",
       "teaser": "Atlassian stellt vier neue Tools vor. Ein Data Lake bündelt künftig Daten aus allen Atlassian-Anwendungen, Teams und Entwickler sollen noch effizienter werden.",
       "url": "https://www.heise.de/news/Neue-Atlassian-Produkte-Mitarbeiter-Rapport-woechentlich-im-Twitter-Format-6664548.html"
-    },
-    {
-      "title": "WordPress 5.9.3: Letztes Bugfix-Update vor Version 6.0 erschienen",
-      "teaser": "Der Zeitplan für das große Update der Blogsoftware steht fest, auch, wie es aussehen soll. Erst einmal haben die Entwickler in Version 5.9.3 Fehler behoben.",
-      "url": "https://www.heise.de/news/WordPress-5-9-3-Letztes-Bugfix-Update-vor-der-Version-6-0-erschienen-6664883.html"
-    },
-    {
-      "title": "Grafikkartenpreise sinken weiter: Die ersten Modelle zur Preisempfehlung",
-      "teaser": "Spieletaugliche Grafikkarten kosten nicht mehr unbedingt ein Vermögen – erste Modelle von AMD und Nvidia halten sich sogar an die offiziellen Preisempfehlungen.",
-      "url": "https://www.heise.de/news/Grafikkartenpreise-sinken-weiter-Die-ersten-Modelle-zur-Preisempfehlung-6664870.html"
-    },
-    {
-      "title": "Zero-Day-Lücken: Ältere macOS- und iOS-Versionen weiter angreifbar",
-      "teaser": "Aktiv ausgenutzte Lücken hat Apple nur in iOS 15 und macOS 12 gestopft. Sicherheitsforschern zufolge sind aber auch ältere Betriebssystemversionen verwundbar.",
-      "url": "https://www.heise.de/news/Zero-Day-Luecken-Aeltere-macOS-und-iOS-Versionen-weiter-angreifbar-6664730.html",
-      "image_title": "Offenes Schloss neben Apple-Logo"
-    },
-    {
-      "title": "Datenschützer: Google führt \"Alles ablehnen\"-Button ein",
-      "teaser": "In Cookie-Bannern muss man sich oft durch zahlreiche Ebenen klicken. Das soll jetzt zumindest bei Google ein Ende haben, sagt Hamburgs Datenschützer.",
-      "url": "https://www.heise.de/news/Datenschuetzer-Google-fuehrt-Alles-ablehnen-Button-ein-6664850.html"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 4.29 bringt App-Updates, Beta von Version 5.0",
-      "teaser": "In Tails 4.29 haben die Maintainer die zentralen Anwendungen aktualisiert. Die Beta von Tails 5.0 liefert jedoch einen Ausblick in die Zukunft.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-4-29-bringt-App-Updates-Beta-von-Version-5-0-6664471.html",
-      "image_title": "Aufmacher Tails 4.29/Beta Tails 5.00"
     },
     {
       "title": "Trendstudie",
