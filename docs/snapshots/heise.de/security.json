@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-07T13:30:52",
+  "timestamp": "2022-04-07T14:20:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.67d5bed3ed0ae61dd3f2",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d5d1bb60d7d9e593124f",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Netzwerkausstatter-Zahlreiche-Schwachstellen-in-Cisco-Produkten-6666020.html"
+    },
     {
       "title": "VMware",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-VMware-patcht-teils-kritische-Sicherheitsluecken-6665440.html"
@@ -44,19 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Google-schliesst-44-Sicherheitsluecken-in-Android-6664128.html"
     },
     {
-      "title": "Firefox",
-      "url": "https://www.heise.de/news/Firefox-99-Kreditkartendaten-im-Browser-und-zwoelf-Sicherheitsluecken-geschlossen-6663515.html"
+      "title": "Netzwerkausstatter: Zahlreiche Schwachstellen in Cisco-Produkten",
+      "teaser": "Cisco warnt in mehreren Sicherheitsmeldungen vor Lücken in den Produkten. Außerdem listet das Unternehmen von der Spring-Framework-Lücke betroffene Lösungen.",
+      "url": "https://www.heise.de/news/Netzwerkausstatter-Zahlreiche-Schwachstellen-in-Cisco-Produkten-6666020.html",
+      "image_title": "Aufmacher Cisco-Sicherheitsmeldungen"
     },
     {
       "title": "SambaXP-Konferenz wieder kostenlos",
       "teaser": "Das jährliche Treffen der Samba-Entwickler findet auch dieses Jahr digital statt und ist kostenlos für Interessierte zugänglich. Das Programm steht bereits.",
       "url": "https://www.heise.de/news/SambaXP-Konferenz-wieder-kostenlos-6665921.html"
-    },
-    {
-      "title": "Jetzt aktualisieren: VMware patcht teils kritische Sicherheitslücken",
-      "teaser": "Mehrere VMware-Produkte sind von teils kritischen Lücken betroffen, durch die Angreifer Schadcode einschleusen könnten. Es gibt Updates und Gegenmaßnahmen.",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-VMware-patcht-teils-kritische-Sicherheitsluecken-6665440.html",
-      "image_title": "Aufmacher VMware-Patches"
     },
     {
       "title": "iX-Workshop zur IT-Sicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -65,14 +65,15 @@
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
     },
     {
-      "title": "Cyclops Blink: FBI legt Botnet des russischen Geheimdienstes lahm",
-      "teaser": "US-Bundespolizei ist gegen ein Botnet vorgegangen, das tausende Netzwerkgeräte umfasste. USA und Großbritannien sind sich sicher, dass Russland dahintersteckt.",
-      "url": "https://www.heise.de/news/Cyclops-Blink-FBI-legt-Botnet-des-russischen-Geheimdienstes-lahm-6665689.html"
-    },
-    {
       "title": "Whatsapp-Kettenbrief: \"Milka\" erneut Köder für gefälschte Gewinnspiele",
       "teaser": "Kriminelle werden nicht müde, die Schokoladenmarke für ihre Zwecke zu nutzen. Erst recht kurz vor Ostern.",
       "url": "https://www.heise.de/news/Whatsapp-Kettenbrief-Milka-erneut-Koeder-fuer-gefaelschte-Gewinnspiele-6665629.html"
+    },
+    {
+      "title": "Fortinet dichtet Schwachstellen in Security-Lösungen und weiteren Produkten ab",
+      "teaser": "Mehrere Produkte von Fortinet mit teils kritischen Sicherheitslücken ermöglichten Angreifern, etwa Schadcode einzuschleusen. Updates dichten die Lücken ab.",
+      "url": "https://www.heise.de/news/Fortinet-dichtet-Schwachstellen-in-mehreren-Produkten-ab-6665211.html",
+      "image_title": "Aufmacher Fortinet-April-Updates"
     },
     {
       "title": "Zero-Day-Lücken: Ältere macOS- und iOS-Versionen weiter angreifbar",
@@ -85,6 +86,12 @@
       "teaser": "In Tails 4.29 haben die Maintainer die zentralen Anwendungen aktualisiert. Die Beta von Tails 5.0 liefert jedoch einen Ausblick in die Zukunft.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-4-29-bringt-App-Updates-Beta-von-Version-5-0-6664471.html",
       "image_title": "Aufmacher Tails 4.29/Beta Tails 5.00"
+    },
+    {
+      "title": "Patchday: Google schließt 44 Sicherheitslücken in Android",
+      "teaser": "Zum Android-Patchday im April behebt Google zahlreiche sicherheitsrelevante Fehler. Die meisten betreffen Qualcomm-SoCs.",
+      "url": "https://www.heise.de/news/Patchday-Google-schliesst-44-Sicherheitsluecken-in-Android-6664128.html",
+      "image_title": "Aufmacher Android-Patchday"
     },
     {
       "title": "iX-Workshop: Azure AD als zentralen Authentifizierungsdienst einrichten",
@@ -153,12 +160,6 @@
       "teaser": "Die Gitlab-Entwickler haben ein Update veröffentlicht, um Sicherheitslücken zu schließen. Eine kritische Lücke könnte Angreifern die Kontoübernahme ermöglichen.",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Gitlab-Update-ausser-der-Reihe-6660080.html",
       "image_title": "Aufmacher Gitlab-Notfallupdate"
-    },
-    {
-      "title": "Industriesteuerung: CISA warnt vor kritischer Lücke in Rockwell Automation",
-      "teaser": "In Rockwell Automation Logix-Kontrollern können Angreifer Sicherheitslücken ausnutzen, um eigenen Code auszuführen. Die CISA gibt Admins Handlungsempfehlungen.",
-      "url": "https://www.heise.de/news/Industriesteuerung-CISA-warnt-vor-kritischer-Luecke-in-Rockwell-Automation-6659741.html",
-      "image_title": "Aufmacher CISA warnt vor Rockwell Automation-Sicherheitslücke"
     },
     {
       "title": "heise Security Tour 2022",
