@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-10T17:20:27",
+  "timestamp": "2022-04-10T18:25:23",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.ac931398b3d53e7c5f76.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/wahl-frankreich-2022/dashboardFrankreich.ed44f61e9143582e7e91.cached.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://interactive.zeit.de/g/2022/wahl-frankreich-2022/dashboardFrankreich.677c0273da1583a3c817.cached.js",
       "id": null,
       "text": null
     },
@@ -67,6 +79,18 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/wahl-frankreich-2022/dashboardFrankreich.ed44f61e9143582e7e91.cached.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://interactive.zeit.de/g/2022/wahl-frankreich-2022/dashboardFrankreich.677c0273da1583a3c817.cached.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/corona/dashboard.2f427db333fd82df5e31.cached.mjs",
       "id": null,
       "text": null
@@ -74,10 +98,10 @@
   ],
   "articles": [
     {
-      "title": "Emmanuel Macron: Links liegen gelassen",
-      "teaser": "Bis vor Kurzem galt Emmanuel Macron noch als sicherer Sieger der Präsidentschaftswahl in Frankreich. Doch die linken Wähler wenden sich ab. Die Profiteurin: Marine Le Pen",
-      "url": "https://www.zeit.de/politik/ausland/2022-04/emmanuel-macron-wahlkampf-rechte-politik",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-04/emmanuel-macron-wahlkampf-rechte-politik-bild/cinema__980x420"
+      "title": "Präsidentenwahl Frankreich: Macron und Le Pen gehen in die Stichwahl",
+      "teaser": "In der Präsidentschaftswahl in Frankreich liegt Amtsinhaber Emmanuel Macron knapp vor Herausforderin Marine Le Pen. Beide treten im zweiten Wahlgang gegeneinander an.",
+      "url": "https://www.zeit.de/politik/ausland/2022-04/praesidentenwahl-frankreich-macron-und-le-pen-gehen-in-die-stichwahl",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-04/stichwahl-praesidentschaftswahl-frankreich-macron-le-pen-bild/cinema__980x420"
     },
     {
       "title": "Russlandpolitik: Untersuchungsausschuss jetzt!",
@@ -85,6 +109,13 @@
       "url": "https://www.zeit.de/politik/deutschland/2022-04/russlandpolitik-gas-embargo-nord-stream-2-mecklenburg-vorpommern",
       "image_url": "https://img.zeit.de/politik/deutschland/2022-04/russlandpolitik-gas-embargo-nord-stream-2-mecklenburg-vorpommern-bild/wide__822x462",
       "image_title": "Russlandpolitik: Untersuchungsausschuss jetzt!"
+    },
+    {
+      "title": "Krieg in der Ukraine: Satellitenaufnahmen zeigen Konvoi auf dem Weg in den Donbass",
+      "teaser": "Ein knapp 13 Kilometer langer Militärkonvoi bewegt sich in die Ostukraine. Experten gehen von rund 400 russischen Fahrzeugen aus, die auf dem Weg in den Donbass sind.",
+      "url": "https://www.zeit.de/politik/ausland/2022-04/krieg-ukraine-militaerkonvoi-donbass-sattelitenbilder",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-04/krieg-ukraine-militaerkonvoi-donbass-sattelitenbilder-bild/wide__822x462",
+      "image_title": "Krieg in der Ukraine: Satellitenaufnahmen zeigen Konvoi auf dem Weg in den Donbass"
     },
     {
       "title": "Liveblog: Ukraine-Krieg: 2.200 Wehrpflichtige an Ausreise aus Ukraine gehindert",
@@ -283,11 +314,11 @@
       "image_title": "Kriegsgedenken: Am Grabmal des unbekannten Soldaten"
     },
     {
-      "title": "Bundesliga, 29. Spieltag: Torlose Partie zwischen Bayer Leverkusen und dem VfL Bochum",
-      "teaser": "Bayer Leverkusen bleibt nach dem Unentschieden gegen den VfL Bochum auf Platz drei. Hertha BSC verliert das Stadtderby gegen Union Berlin mit 1:4. Die Spielberichte",
+      "title": "Bundesliga, 29. Spieltag: Frankfurt verliert gegen Freiburg",
+      "teaser": "Die Eintracht steckt nach der Niederlage im Mittelfeld fest, Freiburg bleibt nach dem Sieg Fünfter. Keine Tore sah die Partie von Leverkusen in Bochum. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2022-04/bundesliga-29-spieltag-fussball-spielberichte",
-      "image_url": "https://img.zeit.de/sport/2022-04/bundesliga-29-spieltag-fussball-spielberichte-bild-2/wide__822x462",
-      "image_title": "Bundesliga, 29. Spieltag: Torlose Partie zwischen Bayer Leverkusen und dem VfL Bochum"
+      "image_url": "https://img.zeit.de/sport/2022-04/frankfurt-freiburg-bundesliga/wide__822x462",
+      "image_title": "Bundesliga, 29. Spieltag: Frankfurt verliert gegen Freiburg"
     },
     {
       "title": "Weinempfehlung: Die sauren Zeiten sind vorbei",
@@ -516,10 +547,17 @@
       "image_title": "Backen: Miso muss so"
     },
     {
+      "title": "Emmanuel Macron: Links liegen gelassen",
+      "teaser": "Bis vor Kurzem galt Emmanuel Macron noch als sicherer Sieger der Präsidentschaftswahl in Frankreich. Doch die linken Wähler wenden sich ab. Die Profiteurin: Marine Le Pen",
+      "url": "https://www.zeit.de/politik/ausland/2022-04/emmanuel-macron-wahlkampf-rechte-politik",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-04/emmanuel-macron-wahlkampf-rechte-politik-bild/cinema__980x420",
+      "image_title": "Emmanuel Macron: Links liegen gelassen"
+    },
+    {
       "title": "Invasion in die Ukraine: Russische Armee zieht Truppen in Ostukraine zusammen",
       "teaser": "Aktuelle Satellitenbilder bestätigen neue russische Truppenkonzentrationen nahe der Großstadt Charkiw im Osten. Unsere Karten zeigen die Frontverläufe.",
       "url": "https://www.zeit.de/politik/ausland/2022-02/ukraine-invasion-russland-regionen-uebersicht",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-03/teaserbild-karte-ukraine-russland-vormarschgebiete-07/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-03/teaserbild-karte-ukraine-russland-vormarschgebiete-07/wide__822x462",
       "image_title": "Invasion in die Ukraine: Russische Armee zieht Truppen in Ostukraine zusammen"
     },
     {
@@ -528,13 +566,6 @@
       "url": "https://www.zeit.de/politik/ausland/2022-04/praesidentschaftswahl-frankreich-wahlbueros-emmanuel-macron",
       "image_url": "https://img.zeit.de/politik/ausland/2022-04/frankreich-wahlen/wide__822x462",
       "image_title": "Präsidentschaftswahl: Erste Runde der Präsidentschaftswahl in Frankreich läuft"
-    },
-    {
-      "title": "Ukraine-Überblick: Angriffe im Süden und Osten, Strafanzeigen bei Autokorso – die Nacht",
-      "teaser": "Bei Angriffen auf Donezk, Charkiw und Mykolajiw haben russische Soldaten Zivilisten getötet. Die Polizei hat eine prorussische Demo in Lübeck gestoppt. Das war die Nacht.",
-      "url": "https://www.zeit.de/politik/ausland/2022-04/ukraine-ueberblick-angriffe-donezk-autokorso-luebeck-forderungen-westen",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-04/ukraine-ueberblick-angriffe-donezk-autokorso-luebeck/wide__822x462",
-      "image_title": "Ukraine-Überblick: Angriffe im Süden und Osten, Strafanzeigen bei Autokorso – die Nacht"
     },
     {
       "title": "Nukleare Abschreckung: Wie Putin die Welt erpresst",
@@ -818,11 +849,11 @@
       "image_title": "Wohngemeinschaft: Verdammt, ich lieb dich!"
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Lebenswandel: Ich, 41, Praktikantin",
@@ -937,36 +968,36 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
-      "title": "Bundesliga: Zwei Verletzte: Leverkusen sorgt sich um Tah und Bellarabi",
-      "url": "https://www.zeit.de/news/2022-04/10/zwei-verletzte-leverkusen-sorgt-sich-um-tah-und-bellarabi"
+      "title": "Gewerkschaft: Verdi ruft zum Streik für Tarifrechte bei Amazon in NRW auf",
+      "url": "https://www.zeit.de/news/2022-04/10/verdi-ruft-zum-streik-fuer-tarifrechte-bei-amazon-in-nrw-auf"
     },
     {
-      "title": "Messe: Fitnessmesse Fibo lockt nach Corona-Pause Zehntausende an",
-      "url": "https://www.zeit.de/news/2022-04/10/fitnessmesse-fibo-lockt-nach-corona-pause-zehntausende-an"
+      "title": "Basketball-Bundesliga: 80:83: Hamburg Towers geben Sieg in Göttingen aus der Hand",
+      "url": "https://www.zeit.de/news/2022-04/10/80-83-hamburg-towers-geben-sieg-in-goettingen-aus-der-hand"
     },
     {
-      "title": "Bundesliga: Keine Tore: Bayer Leverkusen sichert Platz drei trotz 0:0",
-      "url": "https://www.zeit.de/news/2022-04/10/keine-tore-bayer-leverkusen-sichert-platz-drei-trotz-0-0"
+      "title": "Fallzahlen: Corona-Inzidenz in Schleswig-Holstein weiter gesunken",
+      "url": "https://www.zeit.de/news/2022-04/10/corona-inzidenz-in-schleswig-holstein-weiter-gesunken"
     },
     {
-      "title": "Fallzahlen: Corona-Inzidenzwert sinkt weiter",
-      "url": "https://www.zeit.de/news/2022-04/10/corona-inzidenzwert-sinkt-weiter"
+      "title": "Bayreuth: Wildschwein «Putin» heißt jetzt «Eberhofer»",
+      "url": "https://www.zeit.de/news/2022-04/10/wildschwein-putin-heisst-jetzt-eberhofer"
     },
     {
-      "title": "Frankfurt am Main: Beute auf dem Kopf: Räuber enttarnt sich selbst",
-      "url": "https://www.zeit.de/news/2022-04/10/beute-auf-dem-kopf-raeuber-enttarnt-sich-selbst"
+      "title": "Bundesliga: Joker Petersen trifft wieder: Freiburg siegt in Frankfurt",
+      "url": "https://www.zeit.de/news/2022-04/10/joker-petersen-trifft-wieder-freiburg-siegt-in-frankfurt"
     },
     {
-      "title": "Landeskirche: Missbrauch bei Kirche: 30 Betroffene haben sich gemeldet",
-      "url": "https://www.zeit.de/news/2022-04/10/missbrauch-bei-kirche-30-betroffene-haben-sich-gemeldet"
+      "title": "League of Legends: G2 Esports gewinnt neunten LEC-Titel gegen Rogue",
+      "url": "https://www.zeit.de/news/2022-04/10/g2-esports-gewinnt-neunten-lec-titel-gegen-rogue"
     },
     {
-      "title": "Pandemie: Diakonie-Chef fordert Neubewertung der Pflege-Impfpflicht",
-      "url": "https://www.zeit.de/news/2022-04/10/diakonie-chef-fordert-neubewertung-der-pflege-impfpflicht"
+      "title": "Wahlen: Macron liegt vor Le Pen bei französischer Präsidentschaftswahl",
+      "url": "https://www.zeit.de/news/2022-04/10/macron-liegt-vor-le-pen-bei-franzoesischer-praesidentschaftswahl"
     },
     {
-      "title": "Wartburgkreis: Brand in Einfamilienhaus: Bewohner verletzt sich",
-      "url": "https://www.zeit.de/news/2022-04/10/brand-in-einfamilienhaus-bewohner-verletzt-sich"
+      "title": "Deutsche Eishockey Liga: Berlin, Mannheim und Wolfsburg: mit Siegen in DEL-Playoffs",
+      "url": "https://www.zeit.de/news/2022-04/10/berlin-mannheim-und-wolfsburg-mit-siegen-in-del-playoffs"
     }
   ]
 }
