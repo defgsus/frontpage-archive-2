@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-13T07:20:48",
+  "timestamp": "2022-04-13T08:26:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-30-Sicherheitsluecken-ab-6670382.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-jede-Menge-PDF-Luecken-in-Acrobat-und-Reader-6670412.html"
     },
@@ -44,18 +48,10 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-elf-Sicherheitslecks-in-Chrome-6669129.html"
     },
     {
-      "title": "Dell EMC PowerScale OneFS",
-      "url": "https://www.heise.de/news/Verschluesselungsschwaechen-in-Datenmanagementsoftware-Dell-EMC-PowerScale-OneFS-6668566.html"
-    },
-    {
-      "title": "Patchday: Adobe schließt jede Menge PDF-Lücken in Acrobat und Reader",
-      "teaser": "Der Softwarehersteller Adobe hat mehrere Sicherheitsupdates für Acrobat und Reader, After Effects, Commerce und Photoshop veröffentlicht.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-jede-Menge-PDF-Luecken-in-Acrobat-und-Reader-6670412.html"
-    },
-    {
-      "title": "Patchday: Angreifer nehmen von der NSA entdeckte Windows-Lücke ins Visier",
-      "teaser": "Wichtige Sicherheitsupdates schließen Lücken in Exchange Server, Office, Windows & Co. Eine Schwachstelle wird bereits aktiv ausgenutzt.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-nehmen-von-der-NSA-entdeckte-Windows-Luecke-ins-Visier-6670345.html"
+      "title": "Patchday: SAP dichtet 30 Sicherheitslücken ab",
+      "teaser": "SAP hat zu Lücken in diversen Produkten 21 neue Meldungen veröffentlicht und neun ältere aktualisiert. Administratoren sollten die Updates bald installieren.",
+      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-30-Sicherheitsluecken-ab-6670382.html",
+      "image_title": "Patchday SAP"
     },
     {
       "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
@@ -70,15 +66,15 @@
       "image_title": "Handschellen liegen auf einer Computertastatur"
     },
     {
-      "title": "Bessere Business-Entscheidungen dank echtem 360°-Blick auf Ihr Unternehmen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
-    },
-    {
       "title": "Discord-Konten im Visier von Cyberkriminellen",
       "teaser": "Seit Jahresanfang sehen GDatas Sicherheitsforscher einen Anstieg an Malware, die Zugangstoken zu Discord stehlen will. Nutzer sollten Maßnahmen ergreifen.",
       "url": "https://www.heise.de/news/Discord-Konten-im-Visier-von-Cyberkriminellen-6669765.html",
       "image_title": "Aufmacher Trojaner stehlen Discord-Zugangstoken"
+    },
+    {
+      "title": "Bessere Business-Entscheidungen dank echtem 360°-Blick auf Ihr Unternehmen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Datenleck im Legoland: Reisedaten tausender Kunden betroffen",
@@ -87,10 +83,22 @@
       "image_title": "Baustelle auf der Legolandseite"
     },
     {
+      "title": "Windows Autopatch: Vorsichtige Updateverteilung für Enterprise-Kunden",
+      "teaser": "Für Kunden mit Enterprise-Lizenz bietet Microsoft demnächst den Autopatch-Mechanismus an, der Updates in Wellen verteilt und dabei Nebenwirkungen vermeidet.",
+      "url": "https://www.heise.de/news/Windows-Autopatch-Vorsichtige-Updateverteilung-fuer-Enterprise-Kunden-6669279.html",
+      "image_title": "Aufmacher Microsoft Autopatch für Enterprise-Kunden"
+    },
+    {
       "title": "Webbrowser Google Chrome: Elf Sicherheitslücken gestopft",
       "teaser": "Der Webbrowser Chrome schließt in aktueller Version für Linux, Mac und Windows elf Sicherheitslücken. Durch einige könnten Angreifer vermutlich Code ausführen.",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-elf-Sicherheitslecks-in-Chrome-6669129.html",
       "image_title": "Aufmacher Google Chrome Sicherheitsupdate"
+    },
+    {
+      "title": "OpenSSH 9.0 sichert Schlüsselaustausch gegen Angriffe durch Quantencomputer",
+      "teaser": "Version 9.0 von OpenSSH behebt viele Fehler des freien SSH-Frameworks – und soll schon jetzt vorausschauend vor Qantencomputer-Angriffen schützen.",
+      "url": "https://www.heise.de/news/OpenSSH-9-0-sichert-Schluesselaustausch-gegen-Angriffe-durch-Quantencomputer-6668694.html",
+      "image_title": "Verschlossene Tür, Schloss, Sicherheit"
     },
     {
       "title": "Mirai-Botnet missbraucht Spring4Shell-Sicherheitsleck",
@@ -156,12 +164,6 @@
       "teaser": "Mehrere VMware-Produkte sind von teils kritischen Lücken betroffen, durch die Angreifer Schadcode einschleusen könnten. Es gibt Updates und Gegenmaßnahmen.",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-VMware-patcht-teils-kritische-Sicherheitsluecken-6665440.html",
       "image_title": "Aufmacher VMware-Patches"
-    },
-    {
-      "title": "iX-Workshop zur IT-Sicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
-      "teaser": "An zwei Tagen analysieren Sie aktuelle Angriffstechniken, um die eigene Anfälligkeit und Schutzmaßnahmen besser bewerten zu können. Frühbucherrabatt bis 21.4.",
-      "url": "https://www.heise.de/news/iX-Workshop-zur-IT-Sicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-6662249.html",
-      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
     },
     {
       "title": "heise Security Tour 2022",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-13T07:20:43",
+  "timestamp": "2022-04-13T08:26:23",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Datenschutz Datenleck im Legoland: Reisedaten tausender Kunden seit 2015 betroffen",
+      "teaser": "Durch ein Datenleck der Buchungsseite für Legoland-Übernachtungen im bayerischen Günzburg waren Kundendaten der letzten sieben Jahre öffentlich einsehbar.",
+      "url": "https://www.heise.de/news/Datenleck-im-Legoland-Reisedaten-tausender-Kunden-seit-2015-betroffen-6668852.html"
+    },
+    {
       "title": "Googles neue Datenplattform heißt BigLake",
       "teaser": "BigLake soll Googles zentrale Datenplattform werden und Analytik strukturierter sowie unstrukturierter Daten unter ein gemeinsames Dach bringen.",
       "url": "https://www.heise.de/news/Googles-neue-Datenplattform-heisst-BigLake-6667198.html",
@@ -37,11 +42,6 @@
       "url": "https://www.heise.de/news/Cyber-Bankraeuber-FIN7-Mitglied-in-USA-zu-fuenf-Jahren-Haft-verurteilt-6667121.html"
     },
     {
-      "title": "Microsoft rüstet nach Windows 11 für Cloud und Unternehmenseinsatz",
-      "teaser": "Neue Windows Features rund um Sicherheit und Cloud sind die Hauptthemen für eine hybride Arbeitswelt zwischen Büro und Homeoffice.",
-      "url": "https://www.heise.de/news/Microsoft-ruestet-Windows-11-fuer-die-Cloud-und-den-Einsatz-im-Unternehmen-6663737.html"
-    },
-    {
       "title": "13 SSDs im Test: Festplatten bis 188 Euro mit PCIe 3.0 oder 4.0",
       "teaser": "Festplatten kommen in aktuellen Rechnern kaum noch zum Einsatz, jetzt ist die nächste Ablösung in Sicht: PCIe-SSDs ersetzen die bisher gängigen SATA-SSDs.",
       "url": "https://www.heise.de/tests/13-SSDs-Im-Test-Festplatten-bis-188-Euro-mit-PCIe-3-0-oder-4-0-6669141.html",
@@ -51,6 +51,29 @@
       "title": "Ukrainekrieg: Auswirkungen auf die IT-Sicherheit in Deutschland",
       "teaser": "Gibt es einen Cyberwar und ist Deutschland Teil davon? Drei Menschen aus der Security-Branche stehen uns Rede und Antwort.",
       "url": "https://www.heise.de/hintergrund/Ukrainekrieg-Auswirkungen-auf-die-IT-Sicherheit-in-Deutschland-6668405.html"
+    },
+    {
+      "title": "Linux-Distribution EndeavourOS 22.1: Modellpflege und neuer Window-Manager",
+      "teaser": "Die Entwickler von EndeavourOS haben Version 22.1 veröffentlicht. Highlights sind ein neuer Window-Manager und ein Installationsprogramm für Nvidia-VGA-Treiber.",
+      "url": "https://www.heise.de/news/Linux-Distribution-EndeavourOS-22-1-Modellpflege-und-neuer-Window-Manager-6670532.html",
+      "image_title": "Aufmacher EndeavourOS 22.1 Apollo"
+    },
+    {
+      "title": "Mastering GitOps 2022: Zweitägiger Workshop führt in Continuous Operations ein",
+      "teaser": "Der praxisnahe Workshop vermittelt einschlägiges Know-how rund um GitOps, von den Grundlagen bis zum Meistern der Herausforderungen bei der Umsetzung.",
+      "url": "https://www.heise.de/news/Mastering-GitOps-2022-zweitaegiger-Workshop-fuehrt-in-Continuous-Operations-ein-6669904.html",
+      "image_title": "Mastering GitOps 2022: zweitägiger Workshop führt in Continuous Operations ein"
+    },
+    {
+      "title": "Patchday: SAP dichtet 30 Sicherheitslücken ab",
+      "teaser": "SAP hat zu Lücken in diversen Produkten 21 neue Meldungen veröffentlicht und neun ältere aktualisiert. Administratoren sollten die Updates bald installieren.",
+      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-30-Sicherheitsluecken-ab-6670382.html",
+      "image_title": "Patchday SAP"
+    },
+    {
+      "title": "Cross-Plattform-Framework Qt 6.3 kompiliert QML nach C++",
+      "teaser": "Der Qt Quick Compiler besteht aus zwei Werkzeugen, die in der deklarativen Sprache QML geschriebenen Code weitgehend in C++ übersetzen.",
+      "url": "https://www.heise.de/news/Cross-Plattform-Framework-Qt-6-3-kompiliert-QML-nach-C-6670341.html"
     },
     {
       "title": "Patchday: Adobe schließt jede Menge PDF-Lücken in Acrobat und Reader",
@@ -112,27 +135,6 @@
       "title": "Supportende für .NET Framework 4.5.2, 4.6 und 4.6.1 sowie .NET 5.0",
       "teaser": "Einige .NET-Entwickler, die nicht die neusten Versionen nutzen, müssen in Kürze Ihre Software aktualisieren.",
       "url": "https://www.heise.de/blog/Supportende-fuer-NET-Framework-4-5-2-4-6-und-4-6-1-sowie-NET-5-0-6669882.html"
-    },
-    {
-      "title": "In eigener Sache: Heise Medien sucht Web-Developer für Frontend und Backend",
-      "teaser": "Zwei Stellen sind in der Entwicklungsabteilung von Heise Medien neu zu besetzen: Frontend-Web-Developer und Web-Developer mit Schwerpunkt Backend.",
-      "url": "https://www.heise.de/news/In-eigener-Sache-Heise-Medien-sucht-Web-Developer-fuer-Frontend-und-Backend-6669180.html"
-    },
-    {
-      "title": "Virtuelles Whiteboard \"Canvas\" von Box ab Herbst kostenlos nutzbar",
-      "teaser": "Der Software-Anbieter Box hat das virtuelle Whiteboard \"Canvas\" vorgestellt. Das Kollaborations-Werkzeug soll ab Herbst in allen Box-Tarifen nutzbar sein.",
-      "url": "https://www.heise.de/news/Virtuelles-Whiteboard-Canvas-von-Box-ab-Herbst-kostenlos-nutzbar-6669551.html"
-    },
-    {
-      "title": "Remote auf den Linux-Desktop: TeamViewer funktioniert künftig auch mit Wayland",
-      "teaser": "Wer mit TeamViewer auf Linux-Desktops zugreifen will, braucht auf Client-Seite künftig kein Xorg mehr. Noch ist der Wayland-Support jedoch experimentell.",
-      "url": "https://www.heise.de/news/Remote-auf-den-Linux-Desktop-TeamViewer-funktioniert-kuenftig-auch-mit-Wayland-6669830.html"
-    },
-    {
-      "title": "Unbekannter Mac mini in Firmware entdeckt",
-      "teaser": "Offenbar arbeitet Apple an einem neuen Kompaktrechner. Er könnte erstmals mit M2-Chip ausgestattet sein.",
-      "url": "https://www.heise.de/news/Unbekannter-Mac-mini-in-Firmware-entdeckt-6669613.html",
-      "image_title": "Mac mini M1"
     },
     {
       "title": "Trendstudie",
