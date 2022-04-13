@@ -1,10 +1,16 @@
 {
-  "timestamp": "2022-04-13T17:23:23",
+  "timestamp": "2022-04-13T18:25:06",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
@@ -159,13 +165,13 @@
   "articles": [
     {
       "title": "Baden-Württemberg : Kretschmanns Werbetour für eine Brennstoffzellenfabrik",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kretschmann-auf-werbetour-chefsache-brennstoffzellenfabrik-17957243.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/brennstoffzellenfabrik-winfried-kretschmann-auf-werbetour-17957243.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Hier wirbt der Chef selbst: Ministerpräsident Winfried Kretschmann (l.) und Weilheims Bürgermeister Johannes Züfle"
     },
     {
       "title": "F.A.Z.-Preisbericht : Auch Brot und Butter werden teurer",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wie-entwickeln-sich-die-preise-brot-und-butter-werden-teurer-17956729.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/inflation-wie-entwickeln-sich-die-preise-17956729.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Viele Brotsorten werden teurer."
     },
@@ -191,12 +197,6 @@
       "title": "WTO-Prognose : Ausgebremst",
       "teaser": "Ein Kommentar von",
       "url": "https://www.faz.net/aktuell/wirtschaft/putin-und-xi-jinping-bremsen-den-welthandel-laut-wto-prognose-17954442.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Wegen Elon Musk : Twitter im Chaos",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-twitter-wegen-elon-musk-ins-chaos-gestuerzt-ist-17952207.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -307,8 +307,8 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/wie-der-ukraine-krieg-lieferketten-und-globalisierung-bedroht-17940015.html"
     },
     {
-      "title": "Einkommensvergleich : Wo die Menschen in Deutschland am meisten verdienen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/einkommen-wo-die-menschen-in-deutschland-am-meisten-verdienen-17956262.html"
+      "title": "Öffentlicher Nahverkehr : Das sind die Details zum 9-Euro-Ticket",
+      "url": "https://www.faz.net/aktuell/wirtschaft/9-euro-ticket-im-oeffentlichen-nahverkehr-das-sind-die-details-17956046.html"
     },
     {
       "title": "Landwirtschaftspreise : Kartoffeln verteuern sich um 88 Prozent",
@@ -319,8 +319,8 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-eckt-mit-vorschlag-der-panzer-lieferung-an-ukraine-an-17954666.html"
     },
     {
-      "title": "Öffentlicher Nahverkehr : Das sind die Details zum 9-Euro-Ticket",
-      "url": "https://www.faz.net/aktuell/wirtschaft/9-euro-ticket-im-oeffentlichen-nahverkehr-das-sind-die-details-17956046.html"
+      "title": "Einkommensvergleich : Wo die Menschen in Deutschland am meisten verdienen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/einkommen-wo-die-menschen-in-deutschland-am-meisten-verdienen-17956262.html"
     },
     {
       "title": "Britanniens Energiestrategie : In Zukunft mehr Atomkraft",
@@ -613,6 +613,10 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/energieversorgung-wie-kam-es-zur-abhaengigkeit-von-russland-17943604.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Willy Brandt und Leonid Breschnew 1971 während einer Bootsfahrt entlang der Krimküste. Gaslieferungen waren Teil der neuen Ostpolitik des Kanzlers."
+    },
+    {
+      "title": ": Bundeskabinett beschließt höchste Rentenerhöhung seit Jahrzehnten",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": ": Bei Gaslieferstopp: Wirtschaftsinstitute warnen vor „scharfer“ Rezession",
