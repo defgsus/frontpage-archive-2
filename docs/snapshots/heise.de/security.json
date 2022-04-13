@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-13T05:19:11",
+  "timestamp": "2022-04-13T06:26:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-nehmen-von-der-NSA-entdeckte-Windows-Luecke-ins-Visier-6670345.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-elf-Sicherheitslecks-in-Chrome-6669129.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-ESR-Thunderbird-und-Tor-Browser-geschlossen-6668028.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Netzwerkausstatter-Zahlreiche-Schwachstellen-in-Cisco-Produkten-6666020.html"
+      "title": "Patchday: Angreifer nehmen von der NSA entdeckte Windows-Lücke ins Visier",
+      "teaser": "Wichtige Sicherheitsupdates schließen Lücken in Exchange Server, Office, Windows & Co. Eine Schwachstelle wird bereits aktiv ausgenutzt.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-nehmen-von-der-NSA-entdeckte-Windows-Luecke-ins-Visier-6670345.html"
+    },
+    {
+      "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
+      "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive optionaler, direkt anschließender Abschlussprüfung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Spezielle-Pruefverfahrenskompetenz-fuer-8a-BSIG-6668469.html",
+      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
       "title": "Europol meldet Schließung des Verbrecher-Marktplatzes RaidForums",
@@ -60,6 +71,11 @@
       "image_title": "Aufmacher Trojaner stehlen Discord-Zugangstoken"
     },
     {
+      "title": "Bessere Business-Entscheidungen dank echtem 360°-Blick auf Ihr Unternehmen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
       "title": "Datenleck im Legoland: Reisedaten tausender Kunden betroffen",
       "teaser": "Durch ein Datenleck der Buchungsseite für Legoland-Übernachtungen im bayerischen Günzburg waren Kundendaten der letzten sieben Jahre öffentlich einsehbar.",
       "url": "https://www.heise.de/news/Datenleck-im-Legoland-Reisedaten-tausender-Kunden-seit-2015-betroffen-6668852.html",
@@ -70,11 +86,6 @@
       "teaser": "Der Webbrowser Chrome schließt in aktueller Version für Linux, Mac und Windows elf Sicherheitslücken. Durch einige könnten Angreifer vermutlich Code ausführen.",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-elf-Sicherheitslecks-in-Chrome-6669129.html",
       "image_title": "Aufmacher Google Chrome Sicherheitsupdate"
-    },
-    {
-      "title": "Bessere Business-Entscheidungen dank echtem 360°-Blick auf Ihr Unternehmen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Mirai-Botnet missbraucht Spring4Shell-Sicherheitsleck",
@@ -151,17 +162,6 @@
       "title": "Cyclops Blink: FBI legt Botnet des russischen Geheimdienstes lahm",
       "teaser": "US-Bundespolizei ist gegen ein Botnet vorgegangen, das tausende Netzwerkgeräte umfasste. USA und Großbritannien sind sich sicher, dass Russland dahintersteckt.",
       "url": "https://www.heise.de/news/Cyclops-Blink-FBI-legt-Botnet-des-russischen-Geheimdienstes-lahm-6665689.html"
-    },
-    {
-      "title": "Whatsapp-Kettenbrief: \"Milka\" erneut Köder für gefälschte Gewinnspiele",
-      "teaser": "Kriminelle werden nicht müde, die Schokoladenmarke für ihre Zwecke zu nutzen. Erst recht kurz vor Ostern.",
-      "url": "https://www.heise.de/news/Whatsapp-Kettenbrief-Milka-erneut-Koeder-fuer-gefaelschte-Gewinnspiele-6665629.html"
-    },
-    {
-      "title": "Fortinet dichtet Schwachstellen in Security-Lösungen und weiteren Produkten ab",
-      "teaser": "Mehrere Produkte von Fortinet mit teils kritischen Sicherheitslücken ermöglichten Angreifern, etwa Schadcode einzuschleusen. Updates dichten die Lücken ab.",
-      "url": "https://www.heise.de/news/Fortinet-dichtet-Schwachstellen-in-mehreren-Produkten-ab-6665211.html",
-      "image_title": "Aufmacher Fortinet-April-Updates"
     },
     {
       "title": "heise Security Tour 2022",
