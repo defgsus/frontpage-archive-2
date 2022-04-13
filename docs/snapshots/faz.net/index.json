@@ -1,10 +1,16 @@
 {
-  "timestamp": "2022-04-13T09:20:19",
+  "timestamp": "2022-04-13T10:23:29",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
@@ -164,26 +170,26 @@
   ],
   "articles": [
     {
+      "title": "Nach Ausladung Steinmeiers : Wann fährt Scholz in die Ukraine?",
+      "url": "https://www.faz.net/aktuell/politik/inland/nach-steinmeier-ausladung-wann-faehrt-scholz-in-die-ukraine-17955990.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bundeskanzler Olaf Scholz (SPD) am 12. April in Berlin"
+    },
+    {
+      "title": "Mützenich verteidigt Steinmeier : Ukraine sollte sich „an Mindestmaß diplomatischer Gepflogenheiten halten“",
+      "url": "https://www.faz.net/aktuell/politik/inland/steinmeier-in-der-ukraine-nicht-erwuenscht-muetzenich-kritisiert-kiew-17955550.html"
+    },
+    {
       "title": "Weizenexporte im Krieg : Wie kann die Ukraine ohne Hafen Handel treiben?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-verlegt-teil-ihres-seehandels-nach-rumaenien-17945941.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-hat-keine-haefen-mehr-weizen-ueber-rumaenien-exportieren-17945941.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ausweg für den Handel? Hafen Constanta in Rumänien"
     },
     {
-      "title": "Ukraine-Liveblog : Ukraine: Keine Möglichkeit für Fluchtkorridore am Mittwoch",
-      "url": "https://www.faz.net/aktuell/ukraine-konflikt/ukraine-liveticker-ukraine-keine-moeglichkeit-fuer-fluchtkorridore-am-mittwoch-17804564.html"
-    },
-    {
-      "title": "„Alles hat auch Grenzen“ : Kubicki kritisiert Ukraine wegen Ausladung Steinmeiers",
-      "url": "https://www.faz.net/aktuell/politik/inland/steinmeier-in-der-ukraine-nicht-erwuenscht-kubicki-kritisiert-kiew-17955550.html",
+      "title": "Psychologie im Krieg : Woher kommt die Lust am Töten?",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/psychologe-im-interview-woher-kommt-die-lust-am-toeten-17953737.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Verständnis für die Ukraine ja, aber in Grenzen: Bundestagsvizepräsident Wolfgang Kubicki hat die Ausladung Steinmeiers kritisiert."
-    },
-    {
-      "title": "Aus in der Champions League : Was soll der FC Bayern eigentlich sein?",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-aus-was-soll-der-fc-bayern-muenchen-sein-17955514.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Thomas Müller und der FC Bayern scheiden gegen Villarreal aus."
+      "image_title": "Nach der russischen Invasion: Der Albtraum von Butscha"
     },
     {
       "title": "Britanniens Energiestrategie : In Zukunft mehr Atomkraft",
@@ -207,7 +213,7 @@
     {
       "title": "Boris Johnson : Im Amt nicht mehr tragbar",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/ausland/boris-johnson-im-amt-nicht-mehr-tragbar-17954239.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/boris-johnson-ist-nach-partygate-im-amt-nicht-mehr-tragbar-17954239.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -249,10 +255,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Leben nach der Pandemie : Was die Strategen von der Post-Omikron-Welt erwarten",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/corona-vier-szenarien-fuer-die-weitere-pandemie-17952429.html",
+      "title": "Aus in der Champions League : Was soll der FC Bayern eigentlich sein?",
+      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-scheitert-an-villarreal-aus-in-der-champions-league-17955514.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wo Omikron derzeit Land gewinnt: Corona-Sorgen in Peking."
+      "image_title": "Thomas Müller und der FC Bayern scheiden gegen Villarreal aus."
     },
     {
       "title": "Bei russischem Gaslieferstopp : Forscher warnen vor höchster Inflation seit Bestehen der Bundesrepublik",
@@ -285,47 +291,48 @@
       "image_title": "Ende August 2013 nehmen UN-Mitarbeiter Bodenproben in der Nähe von Damaskus Bodenproben, um den Einsatz chemischer Kampfstoffe in Syrien nachzuweisen."
     },
     {
+      "title": "Mehrjährige Haftstrafe : Gericht spricht Schweizer Starbanker schuldig",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schweizer-starbanker-pierin-vincenz-schuldig-gesprochen-17955835.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Fast 200.000 Franken verrechnete Pierin Vincenz für Besuche in Cabarets und Stripclubs für die Pflege geschäftlicher Beziehungen."
+    },
+    {
       "title": "Bruno Hübner im Interview : „Barça war beeindruckt von der Eintracht“",
       "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/fc-barcelona-gegen-eintracht-frankfurt-bruno-huebner-ueber-das-spiel-17954580.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Spieler des FC Barcelona schauen nach dem zwischenzeitlichen Rückstand bedient."
     },
     {
-      "title": "„Sie waren unehrlich“ : Opposition fordert Johnsons Rücktritt",
-      "url": "https://www.faz.net/aktuell/politik/ausland/partygate-affaere-opposition-fordert-johnsons-ruecktritt-17955747.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Steht stark in der Kritik: der britische Premierminister Boris Johnson"
-    },
-    {
       "title": "Landwirtschaftspreise : Kartoffeln verteuern sich um 88 Prozent",
-      "url": "https://www.faz.net/aktuell/wirtschaft/landwirtschaftspreise-kartoffeln-verteuern-sich-um-88-prozent-17955718.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/preise-fuer-kartoffeln-getreide-raps-und-milch-steigen-enorm-an-17955718.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Getreidepreise im Februar überstiegen das Vorjahresniveau um 31,3 Prozent"
     },
     {
-      "title": "„Jedes Leben hat Wert“ : Oklahoma ahndet Abtreibungen künftig mit bis zu zehn Jahren Haft",
-      "url": "https://www.faz.net/aktuell/gesellschaft/oklahoma-bestraft-abtreibungen-kuenftig-mit-bis-zu-zehn-jahren-haft-17955729.html",
+      "title": "Japans Währung schwächelt : Yen fällt auf das tiefste Niveau zum Dollar seit 20 Jahren",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/yen-faellt-auf-tiefstes-niveau-zum-dollar-seit-20-jahren-17955725.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Gouverneur von Oklahoma Kevin Stitt räumte ein, dass es sicherlich viele Klagen gegen das Gesetz geben werde, er äußerte sich jedoch zuversichtlich, dass es letztlich Bestand haben werde."
+      "image_title": "Laut der Bank ING ist der Yen eine der schwächsten Währungen weltweit in diesem Jahr"
     },
     {
-      "title": "Die Sneaker der Saison : Wir mögen’s sportlich",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/sneaker-das-sind-die-trends-2022-fuer-damen-und-herren-17928484.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "Marathon des Sables : In sieben Tagen durch die Sahara",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/marathon-des-sables-250-kilometer-durch-die-sahara-in-sieben-tagen-17954279.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Mitten im Standsturm: Bei Windgeschwindigkeiten von rund 70 Kilometern pro Stunde fühlen sich Sandkörner wie kleine Projektile auf der Haut an."
+    },
+    {
+      "title": "Bahnchef Lutz : Ein ganz normaler Mitarbeiter",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bahnchef-lutz-ein-ganz-normaler-mitarbeiter-17954683.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Teams-Konferenz: Herr Lutz von der Deutschen Bahn mit Schülern aus Aachen"
+    },
+    {
+      "title": "Leben nach der Pandemie : Was die Strategen von der Post-Omikron-Welt erwarten",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/corona-vier-szenarien-fuer-die-weitere-pandemie-17952429.html"
     },
     {
       "title": "Nachhaltige Fußböden : Worauf wir richtig stehen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/nachhaltige-fussboeden-welcher-bodenbelag-der-beste-ist-17944878.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Vollholzdielen sind eine der besten Lösungen."
-    },
-    {
-      "title": "Kontroverse in Spanien : Die Kanzlei, das Opus Dei und der Missbrauch",
-      "url": "https://www.faz.net/aktuell/politik/ausland/opfer-trauen-aufklaerern-von-missbrauch-in-spanien-nicht-17954604.html"
-    },
-    {
-      "title": "Dr. Klein-Gesellschaft : Der tiefe Fall der Superaktie",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/hypoport-aktie-lohnt-sich-jetzt-der-einstieg-17945734.html"
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/nachhaltige-fussboeden-welcher-bodenbelag-der-beste-ist-17944878.html"
     },
     {
       "title": "Jurastudium : Letzter Halt: Staatsexamen",
@@ -340,16 +347,16 @@
       "image_title": "Ein Mitglieder russischen Truppen während einer Pause im Süden von Mariupol."
     },
     {
-      "title": "Rechtspsychologe Heubrock : Sollte man besser alle privaten Waffen verbieten?",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/rechtspsychologe-im-interview-ueber-ein-verbot-von-privaten-waffen-17950963.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ballaballa: Alle denken immer nur, die Amerikaner seien waffenverrückt, aber auch in Deutschland gibt es mehr als fünf Millionen private Waffen, ganz legal."
-    },
-    {
       "title": "AWO-Affäre : Scheinjobs für bevorzugte Mitarbeiter",
       "url": "https://www.faz.net/aktuell/rhein-main/awo-affaere-scheinjobs-fuer-bevorzugte-mitarbeiter-17954460.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Aufarbeitung der AWO-Affäre wird noch viel Zeit in Anspruch nehmen."
+    },
+    {
+      "title": "Sächsischer Ministerpräsident : Wie Michael Kretschmer das Vertrauen der Sachsen verspielte",
+      "url": "https://www.faz.net/aktuell/politik/inland/ukraine-krieg-und-corona-kretschmer-verspielt-vertrauen-der-sachsen-17949684.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der direkte Bürgerkontakt ist seine Stärke: Michael Kretschmer"
     },
     {
       "title": ": Ukrainekrieg: Selenskyj will Steinmeier nicht empfangen",
@@ -434,42 +441,36 @@
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/ukraine-krieg-ex-us-general-fordert-waffenlieferung-und-raketen-17953544.html"
     },
     {
-      "title": "Hanks Welt : Die Muskelmänner Putin, Erdogan und Xi Jinping",
-      "url": "https://www.faz.net/aktuell/wirtschaft/putin-erdogan-und-xi-jinping-diktatoren-ticken-auf-ihre-eigene-weise-17945590.html"
+      "title": "Krieg in der Ukraine : Der große Panzer-Räumungsverkauf",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-eckt-mit-vorschlag-der-panzer-lieferung-an-ukraine-an-17954666.html"
     },
     {
       "title": "Ex-US-General zu Ukrainekrieg : „Die russische Armee ist auf den Knien“",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/ukraine-krieg-ex-us-general-fordert-waffenlieferung-und-raketen-17953544.html"
     },
     {
+      "title": "Wer ist Viktor Medwedtschuk? : „Putins Mann in der Ukraine“",
+      "url": "https://www.faz.net/aktuell/politik/ausland/putin-vertrauter-medwedtschuk-in-ukraine-festgenommen-17955988.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Viktor Medwedtschuk, prorussischer Politiker der Ukraine und Oligarch (links), mit Wladimir Putin bei einem Treffen 2019 in St. Petersburg"
+    },
+    {
       "title": "Wegen Anschlagsplänen : Anklage gegen mutmaßlichen Rechtsextremisten",
-      "url": "https://www.faz.net/aktuell/politik/inland/anklage-gegen-mutmasslichen-rechtsextremisten-17955824.html",
+      "url": "https://www.faz.net/aktuell/politik/inland/anschlagsplaene-anklage-gegen-mutmasslichen-rechtsextremisten-17955824.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Bundesanwaltschaft in Karlsruhe hat Anklage gegen den mutmaßlichen Rechtsterroristen erhoben."
     },
     {
-      "title": "Familie und Beruf : Die entrückten Grünen",
-      "url": "https://www.faz.net/aktuell/politik/anne-spiegel-debatte-vom-alltag-vieler-familien-weit-entfernt-17954158.html",
+      "title": "Kontroverse in Spanien : Die Kanzlei, das Opus Dei und der Missbrauch",
+      "url": "https://www.faz.net/aktuell/politik/ausland/opfer-trauen-aufklaerern-von-missbrauch-in-spanien-nicht-17954604.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Anne Spiegel gibt am Sonntag in Berlin eine Erklärung ab."
+      "image_title": "Wegen der Wahl der untersuchenden Kanzlei unter Druck: Kardinal Juan José Omella, Vorsitzender der Spanischen Bischofskonferenz"
     },
     {
-      "title": "Omikron-Variante : Mit dem Corona-Booster schützen Geimpfte auch andere",
-      "url": "https://www.faz.net/aktuell/politik/inland/omikron-mit-der-booster-impfung-schuetzen-geimpfte-auch-andere-17954498.html",
+      "title": "Mützenich verteidigt Steinmeier : Ukraine sollte sich „an Mindestmaß diplomatischer Gepflogenheiten halten“",
+      "url": "https://www.faz.net/aktuell/politik/inland/steinmeier-in-der-ukraine-nicht-erwuenscht-muetzenich-kritisiert-kiew-17955550.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Booster-Impfung in Berlin"
-    },
-    {
-      "title": "Die Nacht in der Ukraine : Biden wirft Putin Völkermord vor",
-      "url": "https://www.faz.net/aktuell/ukraine-konflikt/biden-wirft-putin-voelkermord-in-der-ukraine-vor-17955607.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der amerikanische Präsident Joe Biden am 12. April in Iowa"
-    },
-    {
-      "title": "Mehrjährige Haftstrafe : Gericht spricht Schweizer Starbanker schuldig",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schweiz-starbanker-pierin-vincenz-schuldig-gesprochen-17955835.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fast 200.000 Franken verrechnete Pierin Vincenz für Besuche in Cabarets und Stripclubs für die Pflege geschäftlicher Beziehungen."
+      "image_title": "Verteidigt Bundespräsident Steinmeier: der Vorsitzende der SPD-Bundestagsfraktion, Rolf Mützenich"
     },
     {
       "title": "Britanniens Energiestrategie : In Zukunft mehr Atomkraft",
@@ -485,9 +486,15 @@
     },
     {
       "title": "Börse : Ehemalige Twitter-Aktionäre starten Sammelklage gegen Elon Musk",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ehemalige-twitter-aktionaere-starten-sammelklage-gegen-elon-musk-17955351.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elon-musk-ehemalige-twitter-aktionaere-verlangen-schadenersatz-17955351.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ehemalige Twitter-Aktionäre werfen Musk vor, die Vorschriften des Aktienhandels gebrochen zu haben."
+    },
+    {
+      "title": "Kühnes Pläne mit Investment : „Die Lufthansa ist ein ideales Ziel für langfristige Investoren“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuehnes-plaene-mit-investment-die-lufthansa-ist-ein-ideales-ziel-17954310.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Eine Maschine der Lufthansa landet auf dem Flughafen Düsseldorf."
     },
     {
       "title": "F.A.Z. Podcast Finanzen : NFTs – Spiel, Hype oder gigantisches Schneeballsystem?",
@@ -508,10 +515,16 @@
       "image_title": "Eine chinesische Rakete von Typ „Langer Marsch 5B“ startet am Raumfahrtbahnhof Wenchang."
     },
     {
-      "title": "Japans Währung schwächelt : Yen fällt auf das tiefste Niveau zum Dollar seit 20 Jahren",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/yen-faellt-auf-tiefstes-niveau-zum-dollar-seit-20-jahren-17955725.html",
+      "title": "Kolumne: „Frag den Mohr“ : Was sind die besten Dividendenaktien?",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/frag-den-mohr/was-sind-die-besten-dividendenaktien-17943618.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Laut der Bank ING ist der Yen eine der schwächsten Währungen weltweit in diesem Jahr"
+      "image_title": "8 Prozent Dividendenrendite: Mercedes-Benz"
+    },
+    {
+      "title": "Dr. Klein-Gesellschaft : Der tiefe Fall der Superaktie",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/hypoport-aktie-lohnt-sich-jetzt-der-einstieg-17945734.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Hypoport-Gründer und Großaktionär Ronald Slabke"
     },
     {
       "title": "Zwangsausschüttung im Lotto : 45 Millionen Euro – selbst wenn kein Lottospieler richtig tippt",
@@ -524,12 +537,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/capital-kehrt-deutscher-bank-und-commerzbank-den-ruecken-17954230.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Auf der Verkaufsliste: Aktien von Deutscher Bank und Commerzbank."
-    },
-    {
-      "title": "Hohe Spritpreise : So knöpft sich das Kartellamt jetzt die Mineralölkonzerne vor",
-      "url": "https://www.faz.net/aktuell/wirtschaft/hohe-spritpreise-kartellamt-knoepft-sich-mineraloelkonzerne-vor-17954099.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bleiben Benzin und Diesel so teuer?"
     },
     {
       "title": "Bill Conti wird achtzig : Musik für Helden und Verfolgungsjagden",
@@ -556,6 +563,12 @@
       "image_title": "Kein Auto stört die Frühlingsfeier der Natur: David Hockneys „Three Trees near Thixendale, Spring“ aus dem Jahr 2008"
     },
     {
+      "title": "Arbeitsrecht und Corona : „Kontaktpersonen dürfen schweigen“",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/was-bald-fuer-kontaktpersonen-von-corona-infizierten-gilt-17952001.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Es geht wieder zurück ins Büro: Doch wie sind die neuen Quarantäneregeln arbeitsrechtlich auszulegen?"
+    },
+    {
       "title": "Arbeitsalltag im Büro : Wenn der Arbeitskollege nicht aufhört zu nörgeln",
       "url": "https://www.faz.net/aktuell/karriere-hochschule/wenn-der-arbeitskollege-nicht-aufhoert-zu-noergeln-17943868.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -566,12 +579,6 @@
       "url": "https://www.faz.net/aktuell/karriere-hochschule/moderne-arbeitsmethoden-freiraeume-fuer-mitarbeiter-17942936.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Bei agilen Organisationsformen steht das gemeinsame, schrittweise Lernen im Vordergrund"
-    },
-    {
-      "title": "Schwachstelle gefunden : Wie ein gefährlicher Krankenhauskeim bekämpft werden könnte",
-      "url": "https://www.faz.net/aktuell/rhein-main/wie-der-krankenhauskeim-acinetobacter-baumannii-bekaempft-werden-koennte-17952178.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das Bakterium Acinetobacter baumannii kann schwere Krankheiten auslösen."
     },
     {
       "title": "F.A.Z.-Stellenmarkt : Vorstand und Geschäftsführung: Jobs finden",
@@ -662,6 +669,12 @@
       "image_title": "Nur Zuschauer: Philipp Weber kämpft gegen zwei starke Mitbewerber."
     },
     {
+      "title": "„Jedes Leben hat Wert“ : Oklahoma ahndet Abtreibungen künftig mit bis zu zehn Jahren Haft",
+      "url": "https://www.faz.net/aktuell/gesellschaft/oklahoma-bestraft-abtreibungen-kuenftig-mit-bis-zu-zehn-jahren-haft-17955729.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der Gouverneur von Oklahoma Kevin Stitt räumte ein, dass es sicherlich viele Klagen gegen das Gesetz geben werde, er äußerte sich jedoch zuversichtlich, dass es letztlich Bestand haben werde."
+    },
+    {
       "title": "Oberbayern : Fahrer beim schweren Reisebus-Unfall in Inzell stand unter Kokain",
       "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/schwerer-ski-busunfall-in-bayern-fahrer-stand-unter-kokain-17954916.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -680,10 +693,9 @@
       "image_title": "Im November 2019: Mimi Reinhardt im Alter von 104 Jahren in Herzlija"
     },
     {
-      "title": "New Yorker U-Bahn : 23 Verletzte nach Schüssen in der Rush Hour",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/new-yorker-u-bahn-23-verletzte-nach-schuessen-in-der-rushhour-17954259.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "New Yorker Polizeibeamte untersuchen die U-Bahn-Station."
+      "title": "Die Sneaker der Saison : Wir mögen’s sportlich",
+      "url": "https://www.faz.net/aktuell/stil/mode-design/sneaker-das-sind-die-trends-2022-fuer-damen-und-herren-17928484.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Amber Valletta im Fragebogen : „Klatsch interessiert mich gar nicht“",
@@ -696,12 +708,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/frankfurter-gruene-sosse-durch-mangel-an-bauern-und-kraeutern-in-gefahr-17952014.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kräuter mit Tradition: In der Karwoche sind die Zutaten für die Grüne Soße nicht nur bei den Frankfurtern besonders beliebt."
-    },
-    {
-      "title": "Eine Boutique mit Historie : Als ob Monsieur Dior gleich um die Ecke käme",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/dior-in-paris-jean-imbert-eroeffnet-restaurant-17936890/wie-in-einer-galerie-in-17936903.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wie in einer Galerie: In nahezu jeder Ecke der Boutique sind Kunstwerke zu sehen."
     },
     {
       "title": "Neues von den Promis : Avril Lavigne plant dritte Hochzeit",
@@ -728,6 +734,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Schauspiel Frankfurt : Warum Goethe so modern ist",
+      "url": "https://www.faz.net/aktuell/rhein-main/goethes-wahlverwandtschaften-am-schauspiel-frankfurt-17945952.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Riesenbühne, aber nah am Publikum: Lisa Nielebock inszeniert Goethe im Großen Haus des Schauspiels."
+    },
+    {
       "title": "Bedrohtes Kulturzentrum : Wie die Stadt die Brotfabrik retten will",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/wie-die-stadt-die-brotfabrik-retten-will-17954881.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -744,12 +756,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/mehr-passagiere-und-weniger-fracht-am-frankfurter-flughafen-17955721.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Mit Geduld im Gepäck: An Ostern kann es am Frankfurter Flughafen zu lange Wartezeiten und vereinzelte Flugausfälle kommen."
-    },
-    {
-      "title": "Besoldung In Hessen : Beamte fordern mehr Geld",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessens-beamte-fordern-mehr-geld-fuer-untere-besoldungsgruppen-17952312.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wollen mehr Geld: hessische Beamte"
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Zertifikat: Organisationspsychologie",
@@ -907,11 +913,11 @@
       "image_title": "Haben schon Erfolge errungen: Demonstranten in Pennsylvania gegen das Fracking"
     },
     {
-      "title": "Neue Flugverbindungen : Der Ferne so nah",
-      "teaser": "Der Nachholbedarf bei Fernreisen scheint enorm, die Lust auf Beinfreiheit auch. Um diesen Markt ringen jetzt zwei deutsche Ferienflieger.",
+      "title": "Keramik auf der Spur : Die Nacht am großen Feuer",
+      "teaser": "In der Gegend am Ammersee wurden seit Jahrhunderten Töpfe gebrannt. Wenn hier heute Flammen in den Himmel schlagen, ist das kein Osterfeuer – sondern Kunst: Ein Besuch bei dem Keramiker Benedikt Hipp.",
       "url": "https://www.faz.net/aktuell/reise/",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gestreift in den Urlaub: Ein Flugzeug von Condor im neuen Streifenkleid."
+      "image_title": "Hipp bei der Arbeit am selbst gebauten Ofen"
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Lernen Sie für Ihre nächste Reise einfach online Italienisch",
