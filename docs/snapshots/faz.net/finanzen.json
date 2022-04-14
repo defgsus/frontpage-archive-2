@@ -1,10 +1,16 @@
 {
-  "timestamp": "2022-04-14T11:17:51",
+  "timestamp": "2022-04-14T12:40:48",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
@@ -224,8 +230,14 @@
   ],
   "articles": [
     {
-      "title": "Scherbaums Börse : Das andere Gold im Depot - Lindt & Sprüngli",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/das-andere-gold-im-depot-lindt-spruengli-17958867.html",
+      "title": "Trotz 7,5 Prozent Inflation : Die EZB lässt den Leitzins unverändert",
+      "url": "https://www.faz.net/aktuell/finanzen/ezb-laesst-leitzins-bei-inflation-von-7-5-prozent-unveraendert-17958573.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Zentrale der EZB im Frankfurter Ostend: Wann hebt die Notenbank die Zinsen an?"
+    },
+    {
+      "title": "Scherbaums Börse : Das andere Gold im Depot – Lindt & Sprüngli",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/lindt-spruengli-70-geburtstag-des-goldhasen-freut-aktionaere-17958867.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kult: Der Goldhase von Lindt & Sprüngli"
     },
@@ -236,16 +248,16 @@
       "image_title": "Wer würde da nicht gerne zugreifen? Auswahl an verschiedene Euro-Geldscheinen"
     },
     {
-      "title": "Zukunft der Assekuranz : Endlich werden auch Versicherer digitaler",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/versichern-und-schuetzen/neue-insurtechs-wagen-sich-in-den-versicherungsmarkt-17954275.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Insurtechs nehmen sich Comichelden zum Vorbild: Zu sehen in der Zentrale des digitalen Maklers Clark"
-    },
-    {
       "title": "Altersvorsorge : Tarifparteien mussten zum Jagen getragen werden",
       "teaser": "Ein Kommentar von",
       "url": "https://www.faz.net/aktuell/finanzen/ig-bce-und-chemie-arbeitgeberverband-setzen-nahles-rente-um-17951862.html",
       "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Zukunft der Assekuranz : Endlich werden auch Versicherer digitaler",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/versichern-und-schuetzen/neue-insurtechs-wagen-sich-in-den-versicherungsmarkt-17954275.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Insurtechs nehmen sich Comichelden zum Vorbild: Zu sehen in der Zentrale des digitalen Maklers Clark"
     },
     {
       "title": "Neue Anleihen : Mit allen Tricks gegen steigende Zinsen und Preise",
@@ -273,17 +285,11 @@
     },
     {
       "title": "Zahlungen blockiert : Russen können auch mit chinesischer Kreditkarte nicht online einkaufen",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/geld-ausgeben/russen-koennen-auch-chinesische-kreditkarte-nicht-nutzen-17955982.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bisher vergeblich: Russen hatten gehofft, auf UnionPay-Karten zurückgreifen zu können"
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/geld-ausgeben/russen-koennen-auch-chinesische-kreditkarte-nicht-nutzen-17955982.html"
     },
     {
       "title": "Kolumne: „Frag den Mohr“ : Was sind die besten Dividendenaktien?",
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/frag-den-mohr/was-sind-die-besten-dividendenaktien-17943618.html"
-    },
-    {
-      "title": "Japans Währung schwächelt : Yen fällt auf das tiefste Niveau zum Dollar seit 20 Jahren",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/yen-faellt-auf-tiefstes-niveau-zum-dollar-seit-20-jahren-17955725.html"
     },
     {
       "title": "Hauskauf : Was tun, wenn die Kreditzinsen steigen?",
@@ -334,6 +340,12 @@
       "image_title": "Die Absicherung beim Klettern folgt einer einfachen Logik – so wie die am Kapitalmarkt."
     },
     {
+      "title": "Japans Währung schwächelt : Yen fällt auf das tiefste Niveau zum Dollar seit 20 Jahren",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/yen-faellt-auf-tiefstes-niveau-zum-dollar-seit-20-jahren-17955725.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Laut der Bank ING ist der Yen eine der schwächsten Währungen weltweit in diesem Jahr"
+    },
+    {
       "title": "Dr. Klein-Gesellschaft : Der tiefe Fall der Superaktie",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/aktienmarkt-lohnt-sich-jetzt-der-einstieg-in-die-hypoport-aktie-17945734.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -350,12 +362,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/capital-kehrt-deutscher-bank-und-commerzbank-den-ruecken-17954230.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Auf der Verkaufsliste: Aktien von Deutscher Bank und Commerzbank."
-    },
-    {
-      "title": "Kryptowerte : Bitcoin fällt wieder unter 40.000 Dollar",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/bitcoin-aktienkurs-faellt-erneut-unter-40-000-dollar-17953354.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bitcoin ist die weltweit stärkste Kryptowährung"
     },
     {
       "title": "DSL-Vergleich : So finden Sie Ihren Wunschtarif",
@@ -474,20 +480,20 @@
       "url": "https://www.faz.net/aktuell/finanzen/lotto-zwangsausschuettung-in-hoehe-von-45-millionen-euro-17954186.html"
     },
     {
-      "title": "Sitzung am Gründonnerstag : Wann wird die EZB endlich aktiv?",
-      "url": "https://www.faz.net/aktuell/finanzen/ezb-rat-will-am-donnerstag-ueber-negativzinsen-entscheiden-17951647.html"
+      "title": "Zahlungen blockiert : Russen können auch mit chinesischer Kreditkarte nicht online einkaufen",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/geld-ausgeben/russen-koennen-auch-chinesische-kreditkarte-nicht-nutzen-17955982.html"
     },
     {
       "title": "Sanktionen : Die VTB Bank Europe muss sich selbst auflösen",
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/sanktionen-die-vtb-bank-europe-muss-sich-selbst-aufloesen-17956630.html"
     },
     {
-      "title": "Société Générale : Französische Großbank verkauft Russlandgeschäft an Oligarch Potanin",
-      "url": "https://www.faz.net/aktuell/finanzen/societe-generale-verkauft-russland-geschaeft-an-oligarch-potanin-17953196.html"
-    },
-    {
       "title": "Zahlungen blockiert : Russen können auch mit chinesischer Kreditkarte nicht online einkaufen",
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/geld-ausgeben/russen-koennen-auch-chinesische-kreditkarte-nicht-nutzen-17955982.html"
+    },
+    {
+      "title": "Hans-Werner Sinn und Lars Feld : „Die Inflation ist da – und wird auch bleiben“",
+      "url": "https://www.faz.net/aktuell/finanzen/lars-feld-und-hans-werner-sinn-sprechen-ueber-inflation-17939867.html"
     }
   ]
 }
