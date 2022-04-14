@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-14T09:20:48",
+  "timestamp": "2022-04-14T10:24:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Db2",
+      "url": "https://www.heise.de/news/Luecken-in-mehren-Komponente-machen-Datenmanagement-Software-IBM-Db2-angreifbar-6677497.html"
+    },
+    {
       "title": "VMware Identity Manager, Workspace One Access",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-VMware-Identity-Manager-und-Workspace-One-Access-6677723.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Drittherstellermodule-reissen-kritische-Sicherheitsluecken-in-HP-Teradici-PCoIP-6670713.html"
     },
     {
-      "title": "Apache Struts",
-      "url": "https://www.heise.de/news/Sicherheitspatch-fuer-Apache-Struts-unvollstaendig-neues-Updates-soll-es-richten-6670584.html"
+      "title": "Lücken in mehren Komponente machen Datenmanagement-Software IBM Db2 angreifbar",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für IBM Db2, IBM Db2 On Openshift und IBM Db2 Warehouse on Cloud Pak for Data.",
+      "url": "https://www.heise.de/news/Luecken-in-mehren-Komponente-machen-Datenmanagement-Software-IBM-Db2-angreifbar-6677497.html"
     },
     {
       "title": "Jetzt patchen! Attacken auf VMware Identity Manager und Workspace One Access",
@@ -63,14 +68,14 @@
       "url": "https://www.heise.de/news/Pipedream-US-Warnung-vor-ausgekluegelten-Cyberangriffen-auf-Energiesektor-6670554.html"
     },
     {
-      "title": "Cyber-Angriff: Russische Hacker wollten ukrainisches Stromnetz lahm legen​",
-      "teaser": "Während Russlands Bodenkrieg in der Ukraine ins Stocken geriet, versuchten seine Cyberangreifer, einen Stromausfall für zwei Millionen Menschen zu verursachen.​",
-      "url": "https://www.heise.de/hintergrund/Cyber-Angriff-Russische-Hacker-wollten-ukrainisches-Stromnetz-lahm-legen-6672100.html"
-    },
-    {
       "title": "Bessere Business-Entscheidungen dank echtem 360°-Blick auf Ihr Unternehmen",
       "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
+      "title": "Cyber-Angriff: Russische Hacker wollten ukrainisches Stromnetz lahm legen​",
+      "teaser": "Während Russlands Bodenkrieg in der Ukraine ins Stocken geriet, versuchten seine Cyberangreifer, einen Stromausfall für zwei Millionen Menschen zu verursachen.​",
+      "url": "https://www.heise.de/hintergrund/Cyber-Angriff-Russische-Hacker-wollten-ukrainisches-Stromnetz-lahm-legen-6672100.html"
     },
     {
       "title": "Drittherstellermodule reißen kritische Sicherheitslücken in HP Teradici PCoIP",
@@ -157,11 +162,6 @@
       "teaser": "Die Raspberry Pi-Macher haben im Standardnutzer pi ein Sicherheitsproblem erkannt. Deshalb muss er gehen. Weitere Verbesserungen vereinfachen die Nutzung.",
       "url": "https://www.heise.de/news/Bastelrechner-Linux-Raspberry-Pi-OS-entfernt-Nutzer-pi-und-verbessert-Usability-6668060.html",
       "image_title": "Aufmacher Raspberry PiOS entfern Nutze pi"
-    },
-    {
-      "title": "iX-Sonderheft \"Sicheres Active Directory\" jetzt auch am Kiosk",
-      "teaser": "Das Active Directory ist der Dreh- und Angelpunkt bei Ransomware-Angriffen. Wie man es absichert, zeigt das neue iX kompakt auf über 170 Seiten.",
-      "url": "https://www.heise.de/news/iX-Sonderheft-Sicheres-Active-Directory-jetzt-auch-am-Kiosk-6665838.html"
     },
     {
       "title": "heise Security Tour 2022",
