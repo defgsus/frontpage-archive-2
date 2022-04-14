@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-14T07:20:58",
+  "timestamp": "2022-04-14T08:26:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix",
+      "url": "https://www.heise.de/news/Angreifer-koennten-unberechtigt-auf-Systeme-mit-Citrix-Software-zugreifen-6677149.html"
+    },
+    {
       "title": "HP Teradici PCoIP",
       "url": "https://www.heise.de/news/Drittherstellermodule-reissen-kritische-Sicherheitsluecken-in-HP-Teradici-PCoIP-6670713.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-SAP-dichtet-30-Sicherheitsluecken-ab-6670382.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-jede-Menge-PDF-Luecken-in-Acrobat-und-Reader-6670412.html"
+      "title": "Angreifer könnten unberechtigt auf Systeme mit Citrix-Software zugreifen",
+      "teaser": "Mehrere Sicherheitslücken machen Endpoint Management, Gateway, SD-WAN und Storefront von Citrix angreifbar. Abgesicherte Versionen sind verfügbar.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-unberechtigt-auf-Systeme-mit-Citrix-Software-zugreifen-6677149.html"
     },
     {
       "title": "\"Pipedream\": US-Warnung vor ausgeklügelten Cyberangriffen auf Energiesektor",
@@ -58,27 +63,15 @@
       "url": "https://www.heise.de/hintergrund/Cyber-Angriff-Russische-Hacker-wollten-ukrainisches-Stromnetz-lahm-legen-6672100.html"
     },
     {
-      "title": "PCI DSS 4.0 veröffentlicht: Mehr Sicherheit für Kreditkartendaten",
-      "teaser": "Die neue Version 4.0 von PCI DSS erweitert den De-facto-Standard der Security für Zahlungssysteme. Vor allem sollen die Ziele flexibler umzusetzen sein.",
-      "url": "https://www.heise.de/news/PCI-DSS-4-0-veroeffentlicht-Mehr-Sicherheit-fuer-Kreditkartendaten-6671323.html",
-      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
-    },
-    {
-      "title": "Pumpenhersteller KSB stoppt weltweite Produktion nach Cyberattacke",
-      "teaser": "Der Pumpen- und Armaturenhersteller KSB hat aufgrund eines Cyberangriffs die Produktion eingestellt, um seine Systeme auf Schädlingsbefall zu untersuchen.",
-      "url": "https://www.heise.de/news/Pumpenhersteller-KSB-stoppt-weltweite-Produktion-nach-Cyberattacke-6671199.html",
-      "image_title": "Aufmacher KSB stoppt Produktion nach Cyberattacke"
+      "title": "Drittherstellermodule reißen kritische Sicherheitslücken in HP Teradici PCoIP",
+      "teaser": "PC over IP, eine Art Remote-Desktop-Protokoll, von HP Teradici läuft auf 15 Millionen Rechnern. Komponenten von Drittherstellern haben kritische Schwachstellen.",
+      "url": "https://www.heise.de/news/Drittherstellermodule-reissen-kritische-Sicherheitsluecken-in-HP-Teradici-PCoIP-6670713.html",
+      "image_title": "Aufmacher Kritische Sicherheitslücken in HP Teradici PCoIP"
     },
     {
       "title": "Bessere Business-Entscheidungen dank echtem 360°-Blick auf Ihr Unternehmen",
       "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
-    },
-    {
-      "title": "Drittherstellermodule reißen kritische Sicherheitslücken in HP Teradici PCoIP",
-      "teaser": "PC over IP, eine Art Remote-Desktop-Protokoll, von HP Teradici läuft auf 15 Millionen Rechnern. Komponenten von Drittherstellern haben kritische Schwachstellen.",
-      "url": "https://www.heise.de/news/Drittherstellermodule-reissen-kritische-Sicherheitsluecken-in-HP-Teradici-PCoIP-6670713.html",
-      "image_title": "Aufmacher Kritische Sicherheitslücken in HP Teradici PCoIP"
     },
     {
       "title": "Sicherheitspatch für Apache Struts unvollständig – neues Updates soll es richten",
@@ -90,6 +83,16 @@
       "teaser": "SAP hat zu Lücken in diversen Produkten 21 neue Meldungen veröffentlicht und neun ältere aktualisiert. Administratoren sollten die Updates bald installieren.",
       "url": "https://www.heise.de/news/Patchday-SAP-dichtet-30-Sicherheitsluecken-ab-6670382.html",
       "image_title": "Patchday SAP"
+    },
+    {
+      "title": "Patchday: Adobe schließt jede Menge PDF-Lücken in Acrobat und Reader",
+      "teaser": "Der Softwarehersteller Adobe hat mehrere Sicherheitsupdates für Acrobat und Reader, After Effects, Commerce und Photoshop veröffentlicht.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-jede-Menge-PDF-Luecken-in-Acrobat-und-Reader-6670412.html"
+    },
+    {
+      "title": "Patchday: Angreifer nehmen von der NSA entdeckte Windows-Lücke ins Visier",
+      "teaser": "Wichtige Sicherheitsupdates schließen Lücken in Exchange Server, Office, Windows & Co. Eine Schwachstelle wird bereits aktiv ausgenutzt.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-nehmen-von-der-NSA-entdeckte-Windows-Luecke-ins-Visier-6670345.html"
     },
     {
       "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
@@ -159,11 +162,6 @@
       "title": "Schadcode-Lücken in Firefox ESR, Thunderbird und Tor Browser geschlossen",
       "teaser": "Es gibt wichtige Sicherheitsupdates für die Webbrowser Firefox ESR und Tor Browser und für den Mailclient Thunderbird.",
       "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-ESR-Thunderbird-und-Tor-Browser-geschlossen-6668028.html"
-    },
-    {
-      "title": "Cyberangriffe auf die Ukraine: Microsoft übernimmt sieben Domains",
-      "teaser": "Microsoft übernimmt die Kontrolle von sieben Domains, die für Cyberangriffe auf die Ukraine genutzt wurden. Dahinter stecke der russische Geheimdienst.",
-      "url": "https://www.heise.de/news/Cyberangriffe-auf-die-Ukraine-Microsoft-uebernimmt-sieben-Domains-6667790.html"
     },
     {
       "title": "heise Security Tour 2022",
