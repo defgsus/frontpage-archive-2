@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-04-16T07:19:51",
+  "timestamp": "2022-04-16T08:25:08",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.19d0844a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.047bb367.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0abfae6c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.67212df3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.464f07e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.2aa4b395.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "„The Voice Kids“-Coach Lena verwechselt was : Song-Patzer beim Battle um Ben",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-kids-coach-lena-song-patzer-beim-battle-um-ben-79789064.bild.html",
-      "image_url": "https://images.bild.de/6259c65e7621af493de0254c/edd581e87ceb0f02af3b210c131db895/2/2?w=656",
-      "image_title": "„The Voice Kids“-Coach Lena: Song-Patzer beim Battle um Ben"
-    },
-    {
-      "title": "Brumm! : Hier kommt Florian HEIßeisen",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/florian-silbereisen-erklaert-seine-motorrad-liebe-79781702.bild.html",
-      "image_url": "https://images.bild.de/625913ca1e42757c1544a0a7/0c42d20ce478a333dc7d73823e8195b5-miniSquare/1/2?w=320",
-      "image_title": "Florian Silbereisen: Auf dem Motorrad in eine andere Welt"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zum Seestern",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-seestern-hinweise-indizien-und-auftritte-zum-mitraten-79387356.bild.html",
-      "image_url": "https://images.bild.de/62274923435b2d2bcc47c6c3/d818b474124fd02393588b3a965fcc7e-miniSquare/1/2?w=320",
-      "image_title": "„The Masked Singer“ - der Seestern: Alle Infos, Hinweise und Songs zum mitraten"
-    },
-    {
-      "title": "Masken, Regeln, Termine : Alle Infos zur 6. Staffel von „The Masked Singer“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-alle-infos-masken-konzept-rate-team-im-ueberblick-79386404.bild.html",
-      "image_url": "https://images.bild.de/622737e429e37c79421fae09/9ff6e6671f76320dd5aa79270fcc4a15-miniSquare/1/2?w=320",
-      "image_title": "„The Masked Singer“: Alle Masken, Rate-Team im Überblick und wer enttarnt wurde"
-    },
-    {
-      "title": "Aufregung bei GNTM : Lieselotte will Nackt-Shooting abbrechen",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/germanys-next-topmodel-lieselotte-will-nackt-shooting-abbrechen-79779894.bild.html",
-      "image_url": "https://images.bild.de/625862717621af493de023ec/ceeb2dd05cb5f646c94b5f99577e4f61-miniSquare/2/3?w=320",
-      "image_title": "„Germany’s Next Topmodel“: Lieselotte will Nackt-Shooting abbrechen"
-    },
-    {
-      "title": "Mirco Nontschew (†52) : Wie er uns ein letztes Mal zum Lachen bringt",
-      "teaser": "Comedy-Star Mirco Nontschew (†52): Wie er uns jetzt ein letztes Mal zum Lachen bringt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/mirco-nontschew-52-bei-lol-wie-er-uns-ein-letztes-mal-zum-lachen-bringt-79776188.bild.html",
-      "image_title": "Mirco Nontschew (†52) bei „LOL“: Wie er uns ein letztes Mal zum Lachen bringt"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zum Gorilla",
-      "teaser": "Der Mantel aus Samt, die Frisur aus Menschenhaar: Wer steckt in der Maske des Gorillas?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-gorilla-alle-hinweise-indizien-und-auftritte-zur-maske-79387342.bild.html",
-      "image_title": "„The Masked Singer“, Gorilla: Alle Hinweise, Tipps und Songs zum mitraten"
-    },
-    {
-      "title": "Er war der Erzähler : Was Gottschalk zur PEINLICH-Passion sagt",
-      "teaser": "„Die Passion“ von RTL wurde zum Fest für alle Twitter-User. Nun äußert sich Gottschalk.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/die-passion-was-erzaehler-thomas-gottschalk-zum-live-event-von-rtl-sagt-79777058.bild.html",
-      "image_title": "„Die Passion“ (RTL): Was Erzähler Thomas Gottschalk zum Live-Event sagt"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zum Dornteufel",
-      "teaser": "Er hat goldende Schuppen und blaue Augen. Was noch über den Dornteufel bekannt ist.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-dornteufel-alle-hinweise-indizien-und-auftritte-zur-maske-79386828.bild.html",
-      "image_title": "The Masked Singer - Dornteufel: Alle Hinweise, Tipps und Auftritte"
-    },
-    {
-      "title": "Wirbel um ihr RTL-Aus : Jetzt spricht Nazan Eckes",
-      "teaser": "Nach 23 Jahren will Moderatorin Nazan Eckes RTL verlassen. Jetzt spricht sie darüber.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/nazan-eckes-wirbel-um-rtl-abgang-von-beliebter-moderatorin-79767740.bild.html",
-      "image_title": "Nazan Eckes aktuell: Moderatorin spricht über ihr RTL-Aus"
-    },
-    {
-      "title": "Was niemand im TV sah : DAS sahen „Love Island“- Fans nie im TV!",
-      "teaser": "Das turbulente „Love Island“-Abenteuer. Lesen Sie hier, was hinter den Kulissen abläuft.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/leute/greta-packt-aus-anweisungen-und-fremde-begleitung-bei-love-island-76221700.bild.html",
-      "image_title": "„Love Island“ hinter den Kulissen: Anweisungen und fremde Begleitung!"
-    },
-    {
-      "title": "Hinter den Kulissen : „Das perfekte Dinner“: Was im TV nie zu sehen ist",
-      "teaser": "Einmal beim „Perfekten Dinner“ kochen. Davon träumen viele Hobbyköche. Aber kann das jeder? Und wie läuft sowas dann ab?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/das-perfekte-dinner-was-im-tv-nie-zu-sehen-ist-76609854.bild.html",
-      "image_title": "„Das Perfekte Dinner“ (Vox): Was im TV nie zu sehen ist"
-    },
-    {
-      "title": "Das wurde aus DSDS-Stars : Wer wegen versuchten Mordes hinter Gittern sitzt",
-      "teaser": "„Deutschland sucht den Superstar“ ist Kult. Doch was wurde aus den bunten, talentierten und manchmal einfach nur schrillen Kandidaten?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/dsds-kandidaten-wer-wegen-versuchten-mordes-hinter-gittern-sitzt-76816062.bild.html",
-      "image_title": "DSDS-Kandidaten: Wer wegen versuchten Mordes hinter Gittern sitzt"
-    },
-    {
-      "title": "AMAZON-HIT „LOL“ : Was die Stars an nur EINEM Tag verdienen",
-      "teaser": "Wenn schon die Stars bei „LOL“ nicht lachen dürfen, dann auf jeden Fall ihre Geldbeutel.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/lol-last-one-laughing-die-komplette-promi-liste-fuer-staffel-2-auf-amazon-76197426.bild.html",
-      "image_title": "„LOL: Last One Laughing“: Die Gagen der Stars"
-    },
-    {
-      "title": "Vanuschka und Mahdi : Wie es ohne Kameras bei dem Paar weitergeht",
-      "teaser": "Im TV funkte es zwischen Vanuschka und Mahdi. BILD weiß, wie es jetzt um die beiden steht.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/love-island-sind-vanuschka-und-mahdi-auch-ohne-kameras-ein-paar-79729160.bild.html",
-      "image_title": "„Love Island“: Sind Mahdi und Vanuschka auch ohne Kameras ein Paar?"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-geht-in-dritte-runde-kandidaten-regeln-highlights-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Alle Kandidaten, Regeln und wer raus ist"
-    },
-    {
-      "title": "„SOKO Leipzig“ wieder da : Für uns gibt’s Corona nur noch im Drehbuch!",
-      "teaser": "Die „SOKO Leipzig“ macht sich locker! Zwei Jahre lang hatte Corona die Produktion der ZDF-Krimiserie fest im Griff.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/soko-leipzig-fuer-uns-gibts-corona-nur-noch-im-drehbuch-79770856.bild.html",
-      "image_title": "„SOKO Leipzig“: Für uns gibt’s Corona nur noch im Drehbuch!"
-    },
-    {
-      "title": "Influencer laufen Sturm : Nestlé schnappt sich „Höhle der Löwen“-Firma Ankerkraut",
-      "teaser": "Durch die „Höhle der Löwen“ wurde die Firma berühmt. Jetzt landete sie einen Mega-Deal.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/nestl-gewuerz-firma-ankerkraut-wird-von-lebensmittel-riese-gekauft-79766564.bild.html",
-      "image_title": "Ankerkraut: Nestlé kauft „Höhle der Löwen“-Firma – Influencer laufen Sturm"
-    },
-    {
-      "title": "Ex-Kandidatin packt aus : Es gibt eine Nanny bei GNTM!",
-      "teaser": "Hunderte hübsche Mädchen – und ein großer Traum. Aber ist wirklich alles so traumhaft bei GNTM?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/gntm-ex-kandidatin-packt-aus-so-laeuft-es-wirklich-hinter-den-kulissen-79750900.bild.html",
-      "image_title": "GNTM: Ex-Kandidatin packt aus – so läuft es wirklich hinter den Kulissen!"
-    },
-    {
-      "title": "Morddrohung auf Instagram : So heftig werden TV-Stars im Netz angefeindet",
-      "teaser": "München – Mo Aidi und Dario Carlucci erzählen von Morddrohungen und Geld-Problemen.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/morddrohung-auf-instagram-so-heftig-werden-stars-im-netz-angefeindet-79375872.bild.html",
-      "image_title": "Morddrohung auf Instagram: So heftig werden Stars im Netz angefeindet"
-    },
-    {
-      "title": "Schreyls DSDS-Comeback : „Ich habe die Jury noch nicht kennengelernt“",
-      "teaser": "Ab Samstag moderiert Marco Schreyl (48) nach zehn Jahren Pause wieder „DSDS“.",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/dsds-holt-marco-schreyl-zurueck-habe-die-jury-noch-nicht-kennengelernt-79766338.bild.html",
-      "image_title": "DSDS holt Marco Schreyl zurück: „Habe die Jury noch nicht kennengelernt“"
-    },
-    {
-      "title": "„Prominent getrennt“ : Wie es nach dem Finale mit Meikes Ex weiterging",
-      "teaser": "Für sie hat sich der Stress wenigstens finanziell gelohnt …",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/meike-siegt-bei-prominent-getrennt-wie-es-nach-dem-finale-mit-ihrem-ex-weitergin-79759658.bild.html",
-      "image_title": "Meike siegt bei „Prominent getrennt“: Wie es nach dem Finale mit ihrem Ex weiterging"
-    },
-    {
-      "title": "Nach Heidi-Aus : Läuft bei Viola (21)",
-      "teaser": "Viola angelte sich einen fetten Model-Job, sie ist das neue Gesicht von Jean Paul Gaultier!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/nach-dem-heidi-aus-angelt-sich-die-schrille-bremerin-einen-gaultier-job-laeuft-b-79755170.bild.html",
-      "image_title": "Nach dem Heidi-Aus angelt sich die schrille Bremerin einen Gaultier-Job : Läuft bei Viola (21)"
-    },
-    {
-      "title": "„Die Höhle der Löwen“ : Darum platzte der Hörbuch-Deal nach der Show",
-      "teaser": "Die Löwen wollten in seine App investieren, doch der Deal platzte. Die Hintergründe!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/leute/hoehle-der-loewen-deal-geplatzt-das-beste-hoerbuch-angebot-kam-nach-der-tv-show-79749404.bild.html",
-      "image_title": "„Höhle der Löwen“-Deal geplatzt: Das beste Hörbuch-Angebot kam nach der TV-Show"
-    },
-    {
-      "title": "„The Voice Kids“ : Ben begeistert mit „Wonderwall“",
-      "url": "https://www.bild.de/video/clip/glomex/the-voice-kids-ben-begeistert-mit-wonderwall-v-cj85n9nmcea9-79789604,auto=true.bild.html",
-      "image_title": "„The Voice Kids“: Ben begeistert mit „Wonderwall“"
-    },
-    {
-      "title": "Mutter vom Tesla-Boss bei GNTM : Mama Musk macht Heidis Mädels rund",
-      "url": "https://www.bild.de/video/clip/glomex/tougher-als-ihr-sohn-mutter-von-elon-musk-kritisiert-heidis-models-79781168,auto=true.bild.html",
-      "image_title": "Tougher als ihr Sohn: Mutter von Elon Musk kritisiert Heidis Models"
-    },
-    {
-      "title": "Abrissparty bei den Geissens : Ist das Koks? Aus der Wand kommt weißes Pulver!",
-      "url": "https://www.bild.de/video/clip/video/ende-einer-aera-die-geissens-raeumen-das-apartment-in-monaco-79778326,auto=true.bild.html",
-      "image_title": "Ende einer Ära: Die Geissens räumen das Apartment in Monaco"
-    }
-  ]
+  "articles": []
 }
