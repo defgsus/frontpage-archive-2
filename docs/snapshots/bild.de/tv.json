@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-04-17T16:29:01",
+  "timestamp": "2022-04-17T17:21:24",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.19d0844a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.047bb367.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0abfae6c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.67212df3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.464f07e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.2aa4b395.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "„Immer wieder sonntags“ : Die geheimen Pläne für Stefan Mross’ TV-Hit",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/immer-wieder-sonntags-die-geheimen-plaene-fuer-stefan-mross-tv-hit-79778078.bild.html",
-      "image_url": "https://images.bild.de/62582805435b2d2bcc480401/0bf447c17d6b7a23f706caed1d534859/1/3?w=656",
-      "image_title": "„Immer wieder sonntags“: Die geheimen Pläne für Stefan Mross’ TV-Hit"
-    },
-    {
-      "title": "im TV nicht gezeigt : Warum Silbereisens Sitz in DSDS-Pausen leer ist",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/deutschland-sucht-den-superstar-silbereisens-sitz-in-dsds-pausen-leer-79797454.bild.html",
-      "image_url": "https://images.bild.de/625bcbdb7621af493de026a7/7529b6a65edaffd0940036cbc3f79143-miniSquare/1/2?w=320",
-      "image_title": "Deutschland sucht den Superstar: Silbereisens Sitz in DSDS-Pausen leer"
-    },
-    {
-      "title": "„The Masked Singer“-Halbfinale : Diese „Tatort“-Kommissarin war der Seestern",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-diese-tatort-kommissarin-war-der-seestern-79796298.bild.html",
-      "image_url": "https://images.bild.de/625b69b71e42757c1544a2fb/1636e53c2f908e131e8e26126f12da97-miniSquare/1/2?w=320",
-      "image_title": "„The Masked Singer“: Diese „Tatort“-Kommissarin war der Seestern"
-    },
-    {
-      "title": "Hinter den Kulissen : „Das perfekte Dinner“: Was im TV nie zu sehen ist",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/das-perfekte-dinner-was-im-tv-nie-zu-sehen-ist-76609854.bild.html",
-      "image_url": "https://images.bild.de/60b8920bfaf30300018c3df2/4855221ad73c6464e8afe5d758c8cb23-miniSquare/1/3?w=320",
-      "image_title": "„Das Perfekte Dinner“ (Vox): Was im TV nie zu sehen ist"
-    },
-    {
-      "title": "In der ersten Live-Show von DSDS : Plötzlich sprach Flori über Liebeskummer",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/dsds-florian-silbereisen-spricht-ueber-seinen-liebeskummer-79796144.bild.html",
-      "image_url": "https://images.bild.de/625b43e01e42757c1544a2cc/ea0a10d1e1dc1f0e7123b22e78f872fd-miniSquare/1/2?w=320",
-      "image_title": "DSDS: Florian Silbereisen spricht über seinen Liebeskummer"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zur Discokugel",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-discokugel-hinweise-indizien-und-auftritte-zum-mitraten-79523248.bild.html",
-      "image_title": "„The Masked Singer“, Discokugel: Wer steckt hinter der Maske? - Alle Hinweise"
-    },
-    {
-      "title": "„The Voice Kids“ : Lenas Song-Patzer beim Battle um Ben",
-      "teaser": "Auch Profi-Musiker liegen mal daneben … So wie „The Voice Kids“-Coach Lena Meyer-Landrut.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-kids-coach-lena-song-patzer-beim-battle-um-ben-79789064.bild.html",
-      "image_title": "„The Voice Kids“-Coach Lena: Song-Patzer beim Battle um Ben"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Das sagt Mike Cees zu den heftigen Vorwürfen",
-      "teaser": "Ist Reality-TV-Sternchen Mike Cees transphob? Was der 34-Jährige zu dem Vorwurf sagt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/kampf-der-realitystars-heftige-vorwuerfe-gegen-mike-cees-79785034.bild.html",
-      "image_title": "„Kampf der Realitystars“: Heftige Vorwürfe gegen Mike Cees"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Das steckt hinter Mauros Auszug",
-      "teaser": "TV-Star Mauro Corradino hielt es nur drei Tage in der Sala von „Kampf der Realitystars“ aus.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/kampf-der-realitystars-darum-musste-mauro-ausziehen-79783932.bild.html",
-      "image_title": "„Kampf der Realitystars“: Darum musste Mauro ausziehen"
-    },
-    {
-      "title": "„Bridgerton“-Kracher : Diese sechs Sex-Geheimnisse kennt noch niemand",
-      "teaser": "Die Historien-Verfilmung „Bridgerton“ ist eine der heißesten Serien – mit sexy Szenen.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bridgerton-diese-sechs-sex-geheimnisse-kennt-noch-niemand-79737250.bild.html",
-      "image_title": "„Bridgerton“: Diese sechs Sex-Geheimnisse kennt noch niemand"
-    },
-    {
-      "title": "Brumm! : Hier kommt Florian HEIßeisen",
-      "teaser": "Florian Silbereisen (40) zeigt exklusiv sein neues Motorrad.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/florian-silbereisen-erklaert-seine-motorrad-liebe-79781702.bild.html",
-      "image_title": "Florian Silbereisen: Auf dem Motorrad in eine andere Welt"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zum Seestern",
-      "teaser": "Ein Star durch und durch – das ist der Seestern. Alle Infos zur Maske gibt es hier!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-seestern-hinweise-indizien-und-auftritte-zum-mitraten-79387356.bild.html",
-      "image_title": "„The Masked Singer“ - der Seestern: Alle Infos, Hinweise und Songs zum mitraten"
-    },
-    {
-      "title": "Um Himmels Willen : „Die Passion“ – selbst Mats Hummels kommentiert",
-      "teaser": "Was war das denn? „Die Passion“ auf RTL – schräger konnte ein TV-Ereignis kaum sein.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-passion-auf-rtl-die-tv-kritik-sogar-mats-hummels-ist-empoert-79772776.bild.html",
-      "image_title": "„Die Passion“ auf RTL: Die TV-Kritik! Sogar Mats Hummels kommentierte"
-    },
-    {
-      "title": "Masken, Regeln, Termine : Alle Infos zur 6. Staffel von „The Masked Singer“",
-      "teaser": "Wer schwitzt diesmal unterm Kostüm? Die Infos zur neuen Staffel von „The Masked Singer“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-alle-infos-masken-konzept-rate-team-im-ueberblick-79386404.bild.html",
-      "image_title": "„The Masked Singer“: Alle Masken, Rate-Team im Überblick und wer enttarnt wurde"
-    },
-    {
-      "title": "Aufregung bei GNTM : Lieselotte will Nackt-Shooting abbrechen",
-      "teaser": "Bei „Germany’s Next Topmodel“ fielen jetzt ALLE Hüllen.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/germanys-next-topmodel-lieselotte-will-nackt-shooting-abbrechen-79779894.bild.html",
-      "image_title": "„Germany’s Next Topmodel“: Lieselotte will Nackt-Shooting abbrechen"
-    },
-    {
-      "title": "Mirco Nontschew (†52) : Wie er uns ein letztes Mal zum Lachen bringt",
-      "teaser": "Comedy-Star Mirco Nontschew (†52): Wie er uns jetzt ein letztes Mal zum Lachen bringt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/mirco-nontschew-52-bei-lol-wie-er-uns-ein-letztes-mal-zum-lachen-bringt-79776188.bild.html",
-      "image_title": "Mirco Nontschew (†52) bei „LOL“: Wie er uns ein letztes Mal zum Lachen bringt"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zum Gorilla",
-      "teaser": "Der Mantel aus Samt, die Frisur aus Menschenhaar: Wer steckt in der Maske des Gorillas?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-gorilla-alle-hinweise-indizien-und-auftritte-zur-maske-79387342.bild.html",
-      "image_title": "„The Masked Singer“, Gorilla: Alle Hinweise, Tipps und Songs zum mitraten"
-    },
-    {
-      "title": "Er war der Erzähler : Was Gottschalk zur PEINLICH-Passion sagt",
-      "teaser": "„Die Passion“ von RTL wurde zum Fest für alle Twitter-User. Nun äußert sich Gottschalk.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/die-passion-was-erzaehler-thomas-gottschalk-zum-live-event-von-rtl-sagt-79777058.bild.html",
-      "image_title": "„Die Passion“ (RTL): Was Erzähler Thomas Gottschalk zum Live-Event sagt"
-    },
-    {
-      "title": "„The Masked Singer“ : Alle Hinweise zum Dornteufel",
-      "teaser": "Er hat goldende Schuppen und blaue Augen. Was noch über den Dornteufel bekannt ist.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-dornteufel-alle-hinweise-indizien-und-auftritte-zur-maske-79386828.bild.html",
-      "image_title": "The Masked Singer - Dornteufel: Alle Hinweise, Tipps und Auftritte"
-    },
-    {
-      "title": "Wirbel um ihr RTL-Aus : Jetzt spricht Nazan Eckes",
-      "teaser": "Nach 23 Jahren will Moderatorin Nazan Eckes RTL verlassen. Jetzt spricht sie darüber.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/nazan-eckes-wirbel-um-rtl-abgang-von-beliebter-moderatorin-79767740.bild.html",
-      "image_title": "Nazan Eckes aktuell: Moderatorin spricht über ihr RTL-Aus"
-    },
-    {
-      "title": "Was niemand im TV sah : DAS sahen „Love Island“- Fans nie im TV!",
-      "teaser": "Das turbulente „Love Island“-Abenteuer. Lesen Sie hier, was hinter den Kulissen abläuft.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/leute/greta-packt-aus-anweisungen-und-fremde-begleitung-bei-love-island-76221700.bild.html",
-      "image_title": "„Love Island“ hinter den Kulissen: Anweisungen und fremde Begleitung!"
-    },
-    {
-      "title": "Das wurde aus DSDS-Stars : Wer wegen versuchten Mordes hinter Gittern sitzt",
-      "teaser": "„Deutschland sucht den Superstar“ ist Kult. Doch was wurde aus den bunten, talentierten und manchmal einfach nur schrillen Kandidaten?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/dsds-kandidaten-wer-wegen-versuchten-mordes-hinter-gittern-sitzt-76816062.bild.html",
-      "image_title": "DSDS-Kandidaten: Wer wegen versuchten Mordes hinter Gittern sitzt"
-    },
-    {
-      "title": "AMAZON-HIT „LOL“ : Was die Stars an nur EINEM Tag verdienen",
-      "teaser": "Wenn schon die Stars bei „LOL“ nicht lachen dürfen, dann auf jeden Fall ihre Geldbeutel.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/lol-last-one-laughing-die-komplette-promi-liste-fuer-staffel-2-auf-amazon-76197426.bild.html",
-      "image_title": "„LOL: Last One Laughing“: Die Gagen der Stars"
-    },
-    {
-      "title": "Vanuschka und Mahdi : Wie es ohne Kameras bei dem Paar weitergeht",
-      "teaser": "Im TV funkte es zwischen Vanuschka und Mahdi. BILD weiß, wie es jetzt um die beiden steht.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/love-island-sind-vanuschka-und-mahdi-auch-ohne-kameras-ein-paar-79729160.bild.html",
-      "image_title": "„Love Island“: Sind Mahdi und Vanuschka auch ohne Kameras ein Paar?"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-geht-in-dritte-runde-kandidaten-regeln-highlights-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Alle Kandidaten, Regeln und wer raus ist"
-    },
-    {
-      "title": "„The Masked Singer“ : Diese „Tatort“-Kommissarin war der Seestern",
-      "url": "https://www.bild.de/video/clip/glomex/the-masked-singer-diese-tatort-kommissarin-war-der-seestern-v-cjbzog1qu9tt-79796526,auto=true.bild.html",
-      "image_title": "„The Masked Singer“: Diese „Tatort“-Kommissarin war der Seestern"
-    },
-    {
-      "title": "„The Masked Singer“-Halbfinale: : Einfach affengeil! Dieser Gorilla ist ...",
-      "url": "https://www.bild.de/video/clip/glomex/the-masked-singer-halbfinale-einfach-affengeil-dieser-gorilla-ist-v-cjbymvz0a8vd-79795998,auto=true.bild.html",
-      "image_title": "„The Masked Singer“-Halbfinale:: Einfach affengeil! Dieser Gorilla ist ..."
-    },
-    {
-      "title": "„The Voice Kids“ : Ben begeistert mit „Wonderwall“",
-      "url": "https://www.bild.de/video/clip/glomex/the-voice-kids-ben-begeistert-mit-wonderwall-v-cj85n9nmcea9-79789604,auto=true.bild.html",
-      "image_title": "„The Voice Kids“: Ben begeistert mit „Wonderwall“"
-    }
-  ]
+  "articles": []
 }
