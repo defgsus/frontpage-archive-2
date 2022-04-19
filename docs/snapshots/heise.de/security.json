@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-19T09:21:32",
+  "timestamp": "2022-04-19T10:25:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Chrome",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-attackieren-Google-Chrome-6740855.html"
+    },
+    {
+      "title": "Lenovo System Update, BIOS",
+      "url": "https://www.heise.de/news/Lenovo-System-Update-koennte-Schadcode-auf-Computer-lassen-6740544.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Angreifer-koennten-sich-als-Admins-an-Cisco-Wireless-LAN-Controller-anmelden-6737709.html"
     },
@@ -40,18 +48,31 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Admin-Tool-Grafana-ist-verwundbar-6678300.html"
     },
     {
-      "title": "IBM Db2",
-      "url": "https://www.heise.de/news/Luecken-in-mehren-Komponente-machen-Datenmanagement-Software-IBM-Db2-angreifbar-6677497.html"
+      "title": "Sicherheitsupdate: Angreifer attackieren Google Chrome",
+      "teaser": "Chrome-Nutzer sollten den Webbrowser aus Sicherheitsgründen zügig aktualisieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-attackieren-Google-Chrome-6740855.html"
     },
     {
-      "title": "VMware Identity Manager, Workspace One Access",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-VMware-Identity-Manager-und-Workspace-One-Access-6677723.html"
+      "title": "iX-Praxis-Workshop: Anforderungen für den KRITIS-Betrieb umsetzen",
+      "teaser": "Wie plant man gezielt die Umsetzung der Vorgaben des IT-Sicherheitsgesetz des BSI? Starthilfe für KRITIS-Betreiber an zwei Tagen. Rabatt bis 5.5.",
+      "url": "https://www.heise.de/news/iX-Praxis-Workshop-Anforderungen-fuer-den-KRITIS-Betrieb-umsetzen-6669510.html",
+      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
+    },
+    {
+      "title": "Lenovo System Update könnte Schadcode auf Computer lassen",
+      "teaser": "Lenovo hat Sicherheitslücken in einer Anwendung und verschiedenen BIOS-Versionen geschlossen.",
+      "url": "https://www.heise.de/news/Lenovo-System-Update-koennte-Schadcode-auf-Computer-lassen-6740544.html"
     },
     {
       "title": "Kein \"Malware as a Service\" mehr: Microsoft demoliert ZLoader-Botnetz",
       "teaser": "Beim Botnetz ZLoader hat es sich erstmal ausgebottet: 65 der Kontroll-Domains werden jetzt von Microsoft betrieben.",
       "url": "https://www.heise.de/news/Kein-Malware-as-a-Service-mehr-Microsoft-demoliert-ZLoader-Botnetz-6704264.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "GitHub-Sicherheitslücke: OAuth-Token von Heroku und Travis-CI kompromittiert",
@@ -67,11 +88,6 @@
       "title": "Sicherheitslücke: Git liefert Patch für Windows- und Multi-User-Systeme",
       "teaser": "Das Update Git v2.35.2 soll die von GitHub gemeldete Schwachstelle CVE-2022-24765 beheben.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Git-liefert-Patch-fuer-Windows-und-Multi-User-Systeme-6678053.html"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Sicherheitsupdate: Admin-Tool Grafana Enterprise ist verwundbar",
@@ -141,24 +157,6 @@
       "title": "Patchday: Angreifer nehmen von der NSA entdeckte Windows-Lücke ins Visier",
       "teaser": "Wichtige Sicherheitsupdates schließen Lücken in Exchange Server, Office, Windows & Co. Eine Schwachstelle wird bereits aktiv ausgenutzt.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-nehmen-von-der-NSA-entdeckte-Windows-Luecke-ins-Visier-6670345.html"
-    },
-    {
-      "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
-      "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive optionaler, direkt anschließender Abschlussprüfung.",
-      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Spezielle-Pruefverfahrenskompetenz-fuer-8a-BSIG-6668469.html",
-      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Europol meldet Schließung des Verbrecher-Marktplatzes RaidForums",
-      "teaser": "RaidForums wurde selbst ge-raid-et, der Administrator verhaftet. Das berichtet Europol. Die USA klagen an.",
-      "url": "https://www.heise.de/news/Europol-meldet-Schliessung-des-Verbrecher-Marktplatzes-RaidForums-6670292.html",
-      "image_title": "Handschellen liegen auf einer Computertastatur"
-    },
-    {
-      "title": "Discord-Konten im Visier von Cyberkriminellen",
-      "teaser": "Seit Jahresanfang sehen GDatas Sicherheitsforscher einen Anstieg an Malware, die Zugangstoken zu Discord stehlen will. Nutzer sollten Maßnahmen ergreifen.",
-      "url": "https://www.heise.de/news/Discord-Konten-im-Visier-von-Cyberkriminellen-6669765.html",
-      "image_title": "Aufmacher Trojaner stehlen Discord-Zugangstoken"
     },
     {
       "title": "heise Security Tour 2022",

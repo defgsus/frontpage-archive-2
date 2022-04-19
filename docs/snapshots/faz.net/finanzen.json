@@ -1,10 +1,16 @@
 {
-  "timestamp": "2022-04-19T09:21:37",
+  "timestamp": "2022-04-19T10:25:33",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
@@ -224,8 +230,12 @@
   ],
   "articles": [
     {
+      "title": "Depot-Vergleich : Deutsche Privatanleger schlagen 2021 den Dax",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/sparen-und-geld-anlegen/deutsche-privatanleger-schlagen-2021-den-dax-17959200.html"
+    },
+    {
       "title": "Finanzmärkte : Der Dollar wird immer stärker",
-      "url": "https://www.faz.net/aktuell/finanzen/der-dollar-wird-immer-staerker-17967019.html",
+      "url": "https://www.faz.net/aktuell/finanzen/dollar-wird-staerker-geldpolitik-und-inflation-sind-schuld-17967019.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Für den Dollar ist immer mehr zu bezahlen."
     },
@@ -236,16 +246,16 @@
       "image_title": "An der Supermarktkasse wird als Erstes gespart, sagen Konsumforscher."
     },
     {
-      "title": "Prognose : Einbruch des Wohnungsbaus für 2023 erwartet",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/mieten-und-wohnen/wohnungsbau-wird-2023-laut-wohnungswirtschaft-einbrechen-17964826.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Was geht hier noch im kommenden Jahr?"
-    },
-    {
       "title": "Altersvorsorge : Tarifparteien mussten zum Jagen getragen werden",
       "teaser": "Ein Kommentar von",
       "url": "https://www.faz.net/aktuell/finanzen/ig-bce-und-chemie-arbeitgeberverband-setzen-nahles-rente-um-17951862.html",
       "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Prognose : Einbruch des Wohnungsbaus für 2023 erwartet",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/mieten-und-wohnen/wohnungsbau-wird-2023-laut-wohnungswirtschaft-einbrechen-17964826.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Was geht hier noch im kommenden Jahr?"
     },
     {
       "title": "Kolumne: „Frag den Mohr“ : Was ist nur mit der Post-Aktie los?",
@@ -261,7 +271,7 @@
     },
     {
       "title": "Bankwechsel : Der Konto-Irrsinn",
-      "url": "https://www.faz.net/aktuell/finanzen/warum-es-banken-so-schwer-machen-das-konto-zu-wechseln-17960861.html",
+      "url": "https://www.faz.net/aktuell/finanzen/girokonto-wechseln-warum-banken-es-so-schwer-machen-17960861.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Banken machen den Wechsel von Giro-Konten kompliziert – unnötigerweise?"
     },
@@ -273,17 +283,11 @@
     },
     {
       "title": "Zinswende : „Anleihen sind zum Risiko geworden“",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anleihen-schuetzen-nicht-mehr-und-jetzt-17959974.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Börsenhändler in New York"
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anleihen-schuetzen-nicht-mehr-und-jetzt-17959974.html"
     },
     {
       "title": "Nachbarschaft : Was beim Grillen erlaubt ist",
       "url": "https://www.faz.net/aktuell/finanzen/was-beim-grillen-erlaubt-ist-17943619.html"
-    },
-    {
-      "title": "Neue Grundsteuer : „Eigentümern droht eine XXL-Bürokratie“",
-      "url": "https://www.faz.net/aktuell/finanzen/neue-grundsteuer-verbaende-fordern-mehr-zeit-fuer-hausbesitzer-17964366.html"
     },
     {
       "title": "Bankgebühren : Abschied vom Negativzins",
@@ -291,6 +295,12 @@
       "url": "https://www.faz.net/aktuell/das-beste-von-fplus/",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ein Blick auf die Bankenstadt Frankfurt am Main"
+    },
+    {
+      "title": "Umfrage im Auftrag der ING : Jeder zehnte Verbraucher geht wegen Inflation an Ersparnisse",
+      "url": "https://www.faz.net/aktuell/finanzen/jeder-zehnte-in-deutschland-geht-wegen-inflation-an-ersparnisse-17966929.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Um mit den Preiserhöhungen mithalten zu können, greifen rund zehn Prozent der Deutschen auf ihr Erspartes zurück"
     },
     {
       "title": "Deutsche Bundesbank : Geldvermögen privater Haushalte in Deutschland auf Rekordhoch",
@@ -309,12 +319,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/was-ein-starinvestor-anlegern-raet-17944887.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "James Anderson, 62, stand sein ganzes Berufsleben in Diensten der schottischen Fondsgesellschaft Baillie Gifford. Ende April hört er auf. Baillie Gifford verwaltet umgerechnet rund 430 Milliarden Euro."
-    },
-    {
-      "title": "Höchstmöglicher Lotto-Jackpot : Schon wieder 45 Millionen Euro",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/sparen-und-geld-anlegen/maximaler-lotto-jackpot-schon-wieder-45-millionen-euro-17945726.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Noch ist alles möglich: Lottokugeln vor der Ziehung"
     },
     {
       "title": "Energiekosten : Strom und Gas werden noch teurer",
@@ -444,7 +448,7 @@
     },
     {
       "title": "Bankwechsel : Der Konto-Irrsinn",
-      "url": "https://www.faz.net/aktuell/finanzen/warum-es-banken-so-schwer-machen-das-konto-zu-wechseln-17960861.html",
+      "url": "https://www.faz.net/aktuell/finanzen/girokonto-wechseln-warum-banken-es-so-schwer-machen-17960861.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Banken machen den Wechsel von Giro-Konten kompliziert – unnötigerweise?"
     },
@@ -454,23 +458,23 @@
     },
     {
       "title": "Bankwechsel : Der Konto-Irrsinn",
-      "url": "https://www.faz.net/aktuell/finanzen/warum-es-banken-so-schwer-machen-das-konto-zu-wechseln-17960861.html"
+      "url": "https://www.faz.net/aktuell/finanzen/girokonto-wechseln-warum-banken-es-so-schwer-machen-17960861.html"
     },
     {
-      "title": "Kolumne: „Frag den Mohr“ : Was ist nur mit der Post-Aktie los?",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/frag-den-mohr/frag-den-mohr-was-ist-nur-mit-der-post-aktie-los-17959721.html"
+      "title": "Prognose : Einbruch des Wohnungsbaus für 2023 erwartet",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/mieten-und-wohnen/wohnungsbau-wird-2023-laut-wohnungswirtschaft-einbrechen-17964826.html"
     },
     {
       "title": "Bankwechsel : Der Konto-Irrsinn",
-      "url": "https://www.faz.net/aktuell/finanzen/warum-es-banken-so-schwer-machen-das-konto-zu-wechseln-17960861.html"
+      "url": "https://www.faz.net/aktuell/finanzen/girokonto-wechseln-warum-banken-es-so-schwer-machen-17960861.html"
     },
     {
       "title": "Zinswende : „Anleihen sind zum Risiko geworden“",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/anleihen-schuetzen-nicht-mehr-und-jetzt-17959974.html"
     },
     {
-      "title": "Prognose : Einbruch des Wohnungsbaus für 2023 erwartet",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/mieten-und-wohnen/wohnungsbau-wird-2023-laut-wohnungswirtschaft-einbrechen-17964826.html"
+      "title": "Kolumne: „Frag den Mohr“ : Was ist nur mit der Post-Aktie los?",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/frag-den-mohr/frag-den-mohr-was-ist-nur-mit-der-post-aktie-los-17959721.html"
     }
   ]
 }
