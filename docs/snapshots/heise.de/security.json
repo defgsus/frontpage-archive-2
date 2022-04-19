@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-19T07:20:32",
+  "timestamp": "2022-04-19T08:26:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Angreifer-koennten-sich-als-Admins-an-Cisco-Wireless-LAN-Controller-anmelden-6737709.html"
+    },
+    {
       "title": "Grafana",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Admin-Tool-Grafana-ist-verwundbar-6678300.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-VMware-Identity-Manager-und-Workspace-One-Access-6677723.html"
     },
     {
-      "title": "Citrix",
-      "url": "https://www.heise.de/news/Angreifer-koennten-unberechtigt-auf-Systeme-mit-Citrix-Software-zugreifen-6677149.html"
+      "title": "Angreifer könnten sich als Admins an Cisco Wireless LAN Controller anmelden",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für unter anderem Cisco IOS XE, SD-WAN und WLC. Eine Lücke gilt als kritisch.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-sich-als-Admins-an-Cisco-Wireless-LAN-Controller-anmelden-6737709.html"
     },
     {
       "title": "Datenschutz: Cisco Webex telefonierte selbst stummgeschaltet nach Hause",
@@ -64,14 +69,14 @@
       "url": "https://www.heise.de/news/GitHub-Sicherheitsluecke-Datenraub-durch-gestohlene-OAuth-Token-6703708.html"
     },
     {
-      "title": "Sichere Softwareentwicklung: Jetzt noch Tickets für devSec-Thementage sichern",
-      "teaser": "Am 18. Mai findet ein Webinar zu Threat Modeling statt. Vorher hilft am 26. April ein halbtägiger Online-Thementag beim Absichern der Software Supply Chain.",
-      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Tickets-fuer-devSec-Thementage-sichern-6679617.html"
-    },
-    {
       "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
       "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
+      "title": "Sichere Softwareentwicklung: Jetzt noch Tickets für devSec-Thementage sichern",
+      "teaser": "Am 18. Mai findet ein Webinar zu Threat Modeling statt. Vorher hilft am 26. April ein halbtägiger Online-Thementag beim Absichern der Software Supply Chain.",
+      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Tickets-fuer-devSec-Thementage-sichern-6679617.html"
     },
     {
       "title": "Sicherheitslücke: Git liefert Patch für Windows- und Multi-User-Systeme",
@@ -153,12 +158,6 @@
       "teaser": "Seit Jahresanfang sehen GDatas Sicherheitsforscher einen Anstieg an Malware, die Zugangstoken zu Discord stehlen will. Nutzer sollten Maßnahmen ergreifen.",
       "url": "https://www.heise.de/news/Discord-Konten-im-Visier-von-Cyberkriminellen-6669765.html",
       "image_title": "Aufmacher Trojaner stehlen Discord-Zugangstoken"
-    },
-    {
-      "title": "Datenleck im Legoland: Reisedaten tausender Kunden betroffen",
-      "teaser": "Durch ein Datenleck der Buchungsseite für Legoland-Übernachtungen im bayerischen Günzburg waren Kundendaten der letzten sieben Jahre öffentlich einsehbar.",
-      "url": "https://www.heise.de/news/Datenleck-im-Legoland-Reisedaten-tausender-Kunden-seit-2015-betroffen-6668852.html",
-      "image_title": "Baustelle auf der Legolandseite"
     },
     {
       "title": "heise Security Tour 2022",
