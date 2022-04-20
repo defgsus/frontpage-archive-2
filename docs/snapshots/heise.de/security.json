@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-20T07:20:44",
+  "timestamp": "2022-04-20T08:28:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Oracle Critical Patch Update",
+      "url": "https://www.heise.de/news/Oracle-stellt-520-Sicherheitspatches-fuer-sein-Software-Portfolio-bereit-6746906.html"
+    },
+    {
       "title": "Chrome",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-attackieren-Google-Chrome-6740855.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-sich-als-Admins-an-Cisco-Wireless-LAN-Controller-anmelden-6737709.html"
     },
     {
-      "title": "Grafana",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Admin-Tool-Grafana-ist-verwundbar-6678300.html"
+      "title": "Oracle stellt 520 Sicherheitspatches für sein Software-Portfolio bereit",
+      "teaser": "Admins von Oracle-Anwendungen sollten die verfügbaren Aktualisierungen installieren, um zum Teil kritische Sicherheitslücken zu schließen.",
+      "url": "https://www.heise.de/news/Oracle-stellt-520-Sicherheitspatches-fuer-sein-Software-Portfolio-bereit-6746906.html"
+    },
+    {
+      "title": "iX-Workshop: Unternehmensanwendungen sicher in der Public Cloud betreiben",
+      "teaser": "Cloud-Dienste wie Microsoft Azure sicher und möglichst datenschutzkonform einsetzen: Zweitagesworkshop Anfang Juni, mit 10 Prozent Frühbucherrabatt bis 5.5.",
+      "url": "https://www.heise.de/news/iX-Workshop-Unternehmensanwendungen-sicher-in-der-Public-Cloud-betreiben-6671043.html",
+      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
       "title": "Tokens geklaut: Krypto-Wallet Metamask warnt vor iCloud-Backups",
@@ -59,6 +70,11 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-attackieren-Google-Chrome-6740855.html"
     },
     {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Praxis-Workshop: Anforderungen für den KRITIS-Betrieb umsetzen",
       "teaser": "Wie plant man gezielt die Umsetzung der Vorgaben des IT-Sicherheitsgesetz des BSI? Starthilfe für KRITIS-Betreiber an zwei Tagen. Rabatt bis 5.5.",
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Anforderungen-fuer-den-KRITIS-Betrieb-umsetzen-6669510.html",
@@ -68,11 +84,6 @@
       "title": "Lenovo System Update könnte Schadcode auf Computer lassen",
       "teaser": "Lenovo hat Sicherheitslücken in einer Anwendung und verschiedenen BIOS-Versionen geschlossen und Hintertüren entfernt.",
       "url": "https://www.heise.de/news/Lenovo-System-Update-koennte-Schadcode-auf-Computer-lassen-6740544.html"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Kein \"Malware as a Service\" mehr: Microsoft demoliert ZLoader-Botnetz",
@@ -147,17 +158,6 @@
       "title": "Sicherheitspatch für Apache Struts unvollständig – neues Updates soll es richten",
       "teaser": "Aufgrund der Gefahr von möglichen Schadcode-Attacken sollten Admins ihre Apache-Struts-Systeme auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Sicherheitspatch-fuer-Apache-Struts-unvollstaendig-neues-Updates-soll-es-richten-6670584.html"
-    },
-    {
-      "title": "Patchday: SAP dichtet 30 Sicherheitslücken ab",
-      "teaser": "SAP hat zu Lücken in diversen Produkten 21 neue Meldungen veröffentlicht und neun ältere aktualisiert. Administratoren sollten die Updates bald installieren.",
-      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-30-Sicherheitsluecken-ab-6670382.html",
-      "image_title": "Patchday SAP"
-    },
-    {
-      "title": "Patchday: Adobe schließt jede Menge PDF-Lücken in Acrobat und Reader",
-      "teaser": "Der Softwarehersteller Adobe hat mehrere Sicherheitsupdates für Acrobat und Reader, After Effects, Commerce und Photoshop veröffentlicht.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-jede-Menge-PDF-Luecken-in-Acrobat-und-Reader-6670412.html"
     },
     {
       "title": "heise Security Tour 2022",
