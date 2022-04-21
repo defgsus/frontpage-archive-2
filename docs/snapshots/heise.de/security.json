@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-21T08:27:40",
+  "timestamp": "2022-04-21T09:21:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Amazon AWS Log4j",
+      "url": "https://www.heise.de/news/Amazon-Web-Services-Patch-gegen-Log4j-reisst-neue-Sicherheitsloecher-auf-7060677.html"
+    },
+    {
       "title": "Digitale Signaturen in JDK",
       "url": "https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.html"
     },
@@ -44,8 +48,29 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-attackieren-Google-Chrome-6740855.html"
     },
     {
-      "title": "Lenovo System Update, BIOS",
-      "url": "https://www.heise.de/news/Lenovo-System-Update-koennte-Schadcode-auf-Computer-lassen-6740544.html"
+      "title": "Finanzspritze soll Security der JavaScript-Runtime Node.js stärken",
+      "teaser": "Die Open Source Security Foundation wählt Node.js als erstes förderwürdiges Projekt im Rahmen der Alpha-Omega-Initiative aus und investiert 300.000 US-Dollar.",
+      "url": "https://www.heise.de/news/Finanzspritze-soll-Security-der-JavaScript-Runtime-Node-js-staerken-7060618.html"
+    },
+    {
+      "title": "Kettenbriefe - Nervige Spielerei oder gefährliches Sicherheitsrisiko?",
+      "teaser": "Kettenbriefe sind immer noch weit verbreitet. Egal, ob per E-Mail oder Messenger - wir klären die wichtigsten Fragen rund um die weitergeleiteten Nachrichten.",
+      "url": "https://www.heise.de/ratgeber/Kettenbriefe-Nervige-Spielerei-oder-gefaehrliches-Sicherheitsrisiko-6739270.html"
+    },
+    {
+      "title": "Keepass-Kompendium: Keepass einrichten, Passwörter verwalten und überall nutzen",
+      "teaser": "Der Passwortmanager Keepass verwahrt Ihre Kennwörter sicher. Wir zeigen, wie Sie die Datenbank systematisch füllen und die Passwörter überall verwenden können.",
+      "url": "https://www.heise.de/ratgeber/Keepass-Kompendium-Keepass-einrichten-Passwoerter-verwalten-und-ueberall-nutzen-6669634.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
+    },
+    {
+      "title": "l+f: Von Pflege-Robotern, die Patienten überfahren",
+      "teaser": "Medizinische Hilfsroboter als Spione auf Krankenhausfluren unterwegs.",
+      "url": "https://www.heise.de/news/l-f-Von-Pflege-Robotern-die-Patienten-ueberfahren-7060178.html"
+    },
+    {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "GitHub-Update: gestohlene OAuth-Token – Heroku betroffen,Travis-CI-Kunden sicher",
@@ -68,11 +93,6 @@
       "teaser": "Metamask speichert Daten im iCloud-Backup des iPhones. Nach einem Betrugsfall warnt der Anbieter, dass gezielte Phishing-Angriffe den Klau des Wallets erlauben.",
       "url": "https://www.heise.de/news/Tokens-geklaut-Krypto-Wallet-Metamask-warnt-vor-iCloud-Backups-6742228.html",
       "image_title": "Metamask-Maskottchen"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Sicherheitsupdate: Angreifer attackieren Google Chrome",
@@ -135,27 +155,6 @@
       "title": "Jetzt patchen! Attacken auf VMware Identity Manager und Workspace One Access",
       "teaser": "Angreifer schieben Krypto-Miner durch eine kritische Schadcode-Lücke in VMware Identity Manager und Workspace One Access. Updates stehen zum Download bereit.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-VMware-Identity-Manager-und-Workspace-One-Access-6677723.html"
-    },
-    {
-      "title": "Angreifer könnten unberechtigt auf Systeme mit Citrix-Software zugreifen",
-      "teaser": "Mehrere Sicherheitslücken machen Endpoint Management, Gateway, SD-WAN und Storefront von Citrix angreifbar. Abgesicherte Versionen sind verfügbar.",
-      "url": "https://www.heise.de/news/Angreifer-koennten-unberechtigt-auf-Systeme-mit-Citrix-Software-zugreifen-6677149.html"
-    },
-    {
-      "title": "\"Pipedream\": US-Warnung vor ausgeklügelten Cyberangriffen auf Energiesektor",
-      "teaser": "Mit einem Werkzeugkasten hochentwickelter Cyberwaffen sollen unbekannte Angreifer industrielle Steuerungslagen übernehmen können. Davor warnen US-Behörden.",
-      "url": "https://www.heise.de/news/Pipedream-US-Warnung-vor-ausgekluegelten-Cyberangriffen-auf-Energiesektor-6670554.html"
-    },
-    {
-      "title": "Cyber-Angriff: Russische Hacker wollten ukrainisches Stromnetz lahm legen​",
-      "teaser": "Während Russlands Bodenkrieg in der Ukraine ins Stocken geriet, versuchten seine Cyberangreifer, einen Stromausfall für zwei Millionen Menschen zu verursachen.​",
-      "url": "https://www.heise.de/hintergrund/Cyber-Angriff-Russische-Hacker-wollten-ukrainisches-Stromnetz-lahm-legen-6672100.html"
-    },
-    {
-      "title": "PCI DSS 4.0 veröffentlicht: Mehr Sicherheit für Kreditkartendaten",
-      "teaser": "Die neue Version 4.0 von PCI DSS erweitert den De-facto-Standard der Security für Zahlungssysteme. Vor allem sollen die Ziele flexibler umzusetzen sein.",
-      "url": "https://www.heise.de/news/PCI-DSS-4-0-veroeffentlicht-Mehr-Sicherheit-fuer-Kreditkartendaten-6671323.html",
-      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
     },
     {
       "title": "heise Security Tour 2022",
