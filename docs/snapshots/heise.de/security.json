@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-21T12:38:09",
+  "timestamp": "2022-04-21T13:32:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html"
+    },
+    {
       "title": "Amazon AWS Log4j",
       "url": "https://www.heise.de/news/Amazon-Web-Services-Patch-gegen-Log4j-reisst-neue-Sicherheitsloecher-auf-7060677.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Oracle-stellt-520-Sicherheitspatches-fuer-sein-Software-Portfolio-bereit-6746906.html"
     },
     {
-      "title": "Chrome",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-attackieren-Google-Chrome-6740855.html"
+      "title": "Statischer SSH-Schlüssel macht Cloudsicherheitssystem Cisco Umbrella zu schaffen",
+      "teaser": "Wichtige Sicherheitsupdates für Hard- und Software von Cisco schließen mehrere Lücken. Angreifer könnten Admin-Zugangsdaten mitschneiden.",
+      "url": "https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html"
     },
     {
       "title": "Okta-Hack: Angreifer sollen lediglich zwei Kunden erwischt haben",
@@ -63,14 +68,14 @@
       "url": "https://www.heise.de/ratgeber/Kettenbriefe-Nervige-Spielerei-oder-gefaehrliches-Sicherheitsrisiko-6739270.html"
     },
     {
-      "title": "Keepass-Kompendium: Keepass einrichten, Passwörter verwalten und überall nutzen",
-      "teaser": "Der Passwortmanager Keepass verwahrt Ihre Kennwörter sicher. Wir zeigen, wie Sie die Datenbank systematisch füllen und die Passwörter überall verwenden können.",
-      "url": "https://www.heise.de/ratgeber/Keepass-Kompendium-Keepass-einrichten-Passwoerter-verwalten-und-ueberall-nutzen-6669634.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
-    },
-    {
       "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
       "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
+      "title": "Keepass-Kompendium: Keepass einrichten, Passwörter verwalten und überall nutzen",
+      "teaser": "Der Passwortmanager Keepass verwahrt Ihre Kennwörter sicher. Wir zeigen, wie Sie die Datenbank systematisch füllen und die Passwörter überall verwenden können.",
+      "url": "https://www.heise.de/ratgeber/Keepass-Kompendium-Keepass-einrichten-Passwoerter-verwalten-und-ueberall-nutzen-6669634.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
     },
     {
       "title": "l+f: Von Pflege-Robotern, die Patienten überfahren",
@@ -150,11 +155,6 @@
       "title": "Sicherheitsupdate: Admin-Tool Grafana Enterprise ist verwundbar",
       "teaser": "Angreifer könnten Systeme mit der Datenvisualisierungssoftware Grafana Enterprise attackieren.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Admin-Tool-Grafana-ist-verwundbar-6678300.html"
-    },
-    {
-      "title": "Lücken in mehren Komponente machen Datenmanagement-Software IBM Db2 angreifbar",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für IBM Db2, IBM Db2 On Openshift und IBM Db2 Warehouse on Cloud Pak for Data.",
-      "url": "https://www.heise.de/news/Luecken-in-mehren-Komponente-machen-Datenmanagement-Software-IBM-Db2-angreifbar-6677497.html"
     },
     {
       "title": "heise Security Tour 2022",
