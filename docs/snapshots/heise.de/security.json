@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-22T07:20:29",
+  "timestamp": "2022-04-22T08:26:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Db2",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.html"
     },
     {
-      "title": "Oracle Critical Patch Update",
-      "url": "https://www.heise.de/news/Oracle-stellt-520-Sicherheitspatches-fuer-sein-Software-Portfolio-bereit-6746906.html"
+      "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
+      "teaser": "An zwei Tagen werden Sie auf die Prüfung und Zertifizierung Ihrer IT-Produkte nach deutschen und europäischen Standards wie CC, BSZ und NESAS vorbereitet.",
+      "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-6671212.html",
+      "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
+    },
+    {
+      "title": "Kritische Lücken in XML Parser Expat gefährden IBM Db2",
+      "teaser": "Updates sichern die Datenbank-Software Db2 von IBM ab. Angreifer könnten Systeme mit Schadcode attackieren.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
     },
     {
       "title": "Statischer SSH-Schlüssel macht Cloudsicherheitssystem Cisco Umbrella zu schaffen",
@@ -58,6 +69,11 @@
       "url": "https://www.heise.de/news/Okta-Hack-Angreifer-sollen-lediglich-zwei-Kunden-erwischt-haben-7061225.html"
     },
     {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
       "title": "Finanzspritze soll Security der JavaScript-Runtime Node.js stärken",
       "teaser": "Die Open Source Security Foundation wählt Node.js als erstes förderwürdiges Projekt im Rahmen der Alpha-Omega-Initiative aus und investiert 300.000 US-Dollar.",
       "url": "https://www.heise.de/news/Finanzspritze-soll-Security-der-JavaScript-Runtime-Node-js-staerken-7060618.html"
@@ -68,11 +84,6 @@
       "url": "https://www.heise.de/ratgeber/Kettenbriefe-Nervige-Spielerei-oder-gefaehrliches-Sicherheitsrisiko-6739270.html"
     },
     {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
-    },
-    {
       "title": "Keepass-Kompendium: Keepass einrichten, Passwörter verwalten und überall nutzen",
       "teaser": "Der Passwortmanager Keepass verwahrt Ihre Kennwörter sicher. Wir zeigen, wie Sie die Datenbank systematisch füllen und die Passwörter überall verwenden können.",
       "url": "https://www.heise.de/ratgeber/Keepass-Kompendium-Keepass-einrichten-Passwoerter-verwalten-und-ueberall-nutzen-6669634.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
@@ -81,6 +92,12 @@
       "title": "l+f: Von Pflege-Robotern, die Patienten überfahren",
       "teaser": "Medizinische Hilfsroboter als Spione auf Krankenhausfluren unterwegs.",
       "url": "https://www.heise.de/news/l-f-Von-Pflege-Robotern-die-Patienten-ueberfahren-7060178.html"
+    },
+    {
+      "title": "Bug in Java macht digitale Signaturen wertlos",
+      "teaser": "Doctor-Who-Fans wollen es schon lange: \"Psychic Paper\" präsentiert dem Opfer scheinbar echte Ausweise aller Art. Ein Fehler in Java macht das zum Kinderspiel.",
+      "url": "https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.html",
+      "image_title": "Von Spezifikationen und Geheimdiensten: Hinter den Kullissen eines Zertifikats-Skandals"
     },
     {
       "title": "GitHub-Update: gestohlene OAuth-Token – Heroku betroffen,Travis-CI-Kunden sicher",
@@ -140,21 +157,6 @@
       "title": "GitHub-Sicherheitslücke: OAuth-Token von Heroku und Travis-CI kompromittiert",
       "teaser": "Unauthorisierte Zugriffe auf die npm-Infrastruktur haben kriminelle Aktivitäten enttarnt. Betroffenen sind OAuth-Token von Heroku und Travis-CI.",
       "url": "https://www.heise.de/news/GitHub-Sicherheitsluecke-Datenraub-durch-gestohlene-OAuth-Token-6703708.html"
-    },
-    {
-      "title": "Sichere Softwareentwicklung: Jetzt noch Tickets für devSec-Thementage sichern",
-      "teaser": "Am 18. Mai findet ein Webinar zu Threat Modeling statt. Vorher hilft am 26. April ein halbtägiger Online-Thementag beim Absichern der Software Supply Chain.",
-      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Tickets-fuer-devSec-Thementage-sichern-6679617.html"
-    },
-    {
-      "title": "Sicherheitslücke: Git liefert Patch für Windows- und Multi-User-Systeme",
-      "teaser": "Das Update Git v2.35.2 soll die von GitHub gemeldete Schwachstelle CVE-2022-24765 beheben.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Git-liefert-Patch-fuer-Windows-und-Multi-User-Systeme-6678053.html"
-    },
-    {
-      "title": "Sicherheitsupdate: Admin-Tool Grafana Enterprise ist verwundbar",
-      "teaser": "Angreifer könnten Systeme mit der Datenvisualisierungssoftware Grafana Enterprise attackieren.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Admin-Tool-Grafana-ist-verwundbar-6678300.html"
     },
     {
       "title": "heise Security Tour 2022",
