@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-04-23T19:17:21",
+  "timestamp": "2022-04-23T20:22:01",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.a83a9faf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.ee51697c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.fce959c9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f4de713b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7ea04476.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.027ddafd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Frühjahrsputz in Charkiw : Mit dem Besen gegen das Kriegs-Chaos",
-      "url": "https://www.bild.de/news/ausland/news-ausland/fruehjahrsputz-in-charkiw-oksana-kaempft-mit-besen-gegen-das-kriegs-chaos-79855486.bild.html",
-      "image_url": "https://images.bild.de/6263371086b286649cf2035d/e6daf22b93cb818dc4a064851afb0009/3/2?w=656",
-      "image_title": "Frühjahrsputz in Charkiw: Oksana kämpft mit Besen gegen das Kriegs-Chaos"
-    },
-    {
-      "title": "Weltnaturschutzunion : „Großwildjagd eine Chance für den Naturschutz!“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/weltnaturschutzunion-grosswildjagd-kann-chance-fuer-den-naturschutz-sein-79846208.bild.html",
-      "image_url": "https://images.bild.de/62625c6941f8ce60f6545b46/2c588d265b17c3b3f4507509289622d0-miniSquare/2/3?w=320",
-      "image_title": "Weltnaturschutzunion: Großwildjagd kann Chance für den Naturschutz sein"
-    },
-    {
-      "title": "Er musste lange warten : Fan enthüllt Freddie-Mercury-Statue in Südkorea",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/er-musste-lange-warten-suedkoreanischer-mega-fan-enthuelltfreddie-mercury-statue-79851156.bild.html",
-      "image_url": "https://images.bild.de/6262b5df5fa0b23f67c882d6/91e6bf32318d893dc177094287262b9b-miniSquare/1/2?w=320",
-      "image_title": "Er musste lange warten: Südkoreanischer Mega-Fan enthüllt Freddie-Mercury-Statue"
-    },
-    {
-      "title": "Alle Nachrichten zu Covid-19 : Corona-News im Live-Ticker",
-      "url": "https://www.bild.de/news/inland/news-inland/corona-news-im-live-ticker-alle-nachrichten-zu-covid-19-77205864.bild.html",
-      "image_url": "https://images.bild.de/5fe08024eaf523000156c3fa/35f70b60efad480c4194c109785d804b-miniSquare/1/2?w=320",
-      "image_title": "Corona aktuell, News im Ticker: Nachrichten, Zahlen, Fakten zu Covid-19"
-    },
-    {
-      "title": "Mord nach 28 Jahren aufgeklärt : 13-Jähriger erdrosselte Rikki Neave (6)",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mord-nach-28-jahren-aufgeklaert-13-jaehriger-erdrosselte-sechsjaehrigen-79846778.bild.html",
-      "image_url": "https://images.bild.de/62626e135fa0b23f67c88227/5aec505be9be3757060c3dee9b419aea-miniSquare/1/2?w=320",
-      "image_title": "Mord nach 28 Jahren aufgeklärt: 13-Jähriger erdrosselte Rikki Neave (6)"
-    },
-    {
-      "title": "Opfer spricht von „Karma“ : Autodieb ver- prügelt Frau und stirbt bei Unfall",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-autodieb-verpruegelt-frau-und-stirbt-anschliessend-bei-unfall-79845312.bild.html",
-      "image_title": "USA: Autodieb verprügelt Frau und stirbt anschließend bei Unfall"
-    },
-    {
-      "title": "Frist läuft am 3. Mai ab : Brückner-Anklage – Damit der Fall Maddie nicht verjährt",
-      "teaser": "Wieder ein Stück näher an der Auflösung ... Die portugiesische Staatsanwaltschaft hat a...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/fall-maddie-deutscher-verdaechtiger-offiziell-beschuldigt-79844878.bild.html",
-      "image_title": "Fall Maddie: Deutscher Verdächtiger offiziell beschuldigt"
-    },
-    {
-      "title": "New Yorkerin erstochen : Polizei nimmt Ex-Affäre fest!",
-      "teaser": "Einer der blutrünstigsten Morde in der Geschichte von New York City ist aufgeklärt!",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/new-york-mutter-mit-60-stichen-ermordet-polizei-nimmt-ex-affaere-fest-79844912.bild.html",
-      "image_title": "New York: Mutter mit 60 Stichen ermordet – Polizei nimmt Ex-Affäre fest!"
-    },
-    {
-      "title": "Deutschem droht Anklage in Portugal : Durchbruch im Fall Maddie?",
-      "teaser": "Bewegung im Fall Maddie: In Portugal soll Anklage gegen Christian Brückner erhoben werden.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/maddie-verdaechtiger-christian-brueckner-droht-anklage-in-portugal-79834310.bild.html",
-      "image_title": "Maddie-Verdächtiger: Christian Brückner droht Anklage in Portugal"
-    },
-    {
-      "title": "Mysteriöses Verbrechen in Lloret de Mar : Russen-Oligarch soll Familie ermordet haben",
-      "teaser": "Dieses Verbrechen in hochrangigen Kreisen gibt Rätsel auf.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mysterioeses-verbrechen-in-spanien-russischer-oligarch-soll-familie-ermordet-hab-79838762.bild.html",
-      "image_title": "Mysteriöses Verbrechen in Spanien: Russischer Oligarch soll Familie ermordet haben"
-    },
-    {
-      "title": "Crime-Doku über Ted Bundy : „Weißt du was? Ich bring dich um“",
-      "teaser": "Ted Bundy, der grausame Serienkiller, tötete mindestens 30 Frauen auf brutalste Weise. Die spektakuläre und exklusive BILDplus-Doku!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ted-bundy-weisst-du-was-ich-bring-dich-um-72575912.bild.html",
-      "image_title": "True Crime Video-Doku über Serienkiller Ted Bundy: „Weißt du was? Ich bring dich um“"
-    },
-    {
-      "title": "BILD unterwegs mit der Flugambulanz : Wir retten Leben über den Wolken",
-      "teaser": "Dr. Anke Jensen fliegt um die ganze Welt und bringt verletzte Urlauber nach Hause. Sie ist Flugärztin. Ein Job zwischen Leben und Tod.",
-      "url": "https://www.bild.de/news/2021/news/bild-unterwegs-mit-der-flugambulanz-wir-retten-leben-ueber-den-wolken-77366016.bild.html",
-      "image_title": "BILD unterwegs mit der Flugambulanz: Wir retten Leben über den Wolken"
-    },
-    {
-      "title": "Angst vor Krawallen : Koran-Verbrenner nimmt an Schweden-Wahlen teil",
-      "teaser": "Der Rechtsradikale Rasmus Paludan hat seine Partei für die Parlamentswahlen angemeldet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/schweden-koran-verbrenner-nimmt-an-wahlen-teil-angst-vor-krawallen-und-terror-79836034.bild.html",
-      "image_title": "Schweden: Koran-Verbrenner nimmt an Wahlen teil – Angst vor Krawallen und Terror"
-    },
-    {
-      "title": "Salzburger Land : Mann (52) stirbt bei Paragleit-Unfall",
-      "teaser": "Ein Gleitschirm-Flieger ist bei einem Absturz im Salzburger Land ums Leben gekommen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/salzburger-land-mann-52-stirbt-bei-paragleit-unfall-79837498.bild.html",
-      "image_title": "Salzburger Land : Mann (52) stirbt bei Paragleit-Unfall"
-    },
-    {
-      "title": "Ukrainische Flüchtlingsfrauen : Direkt hinter der Grenze warten die Menschenhändler",
-      "teaser": "Sie entkommen Leid und Tod – aber die ukrainischen Frauen sind längst nicht in Sicherheit.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/ukraine-krieg-hinter-der-grenze-warten-sexhaendler-auf-die-gefluechteten-frauen-79737184.bild.html",
-      "image_title": "Ukraine-Krieg: Hinter der Grenze warten Sexhändler auf geflüchtete Frauen"
-    },
-    {
-      "title": "Beim ersten Gassi-Gang : Welpe Ollie findet Goldschatz",
-      "teaser": "Der Lagotto Romagnolo fand in Blackpool (England) einen Goldschatz.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/lagotto-romagnolo-welpe-zehn-wochen-findet-goldschatz-in-england-79834800.bild.html",
-      "image_title": "Lagotto Romagnolo Welpe (zehn Wochen) findet Goldschatz in England"
-    },
-    {
-      "title": "Die Begründung macht wütend : Lächelnd töteten sie den Riesen der Savanne",
-      "teaser": "Grinsend hocken sie neben dem toten Elefanten, stolz auf ihre kaltblütige Jagd.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/die-begruendung-der-jaeger-macht-einfach-nur-wuetend-laechelnd-toeteten-sie-den-79831540.bild.html",
-      "image_title": "Die Begründung der Jäger macht einfach nur wütend: Lächelnd töteten sie den Riesen der Savanne"
-    },
-    {
-      "title": "Bestie von Amstetten : Josef Fritzl kommt in „normales“ Gefängnis",
-      "teaser": "Er sperrte seine Tochter 24 Jahre lang in einen Keller. Bald könnte Josef Fritz freikommen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bestie-von-amstetten-josef-fritzl-kommt-in-normales-gefaengnis-79828768.bild.html",
-      "image_title": "Bestie von Amstetten: Josef Fritzl kommt in „normales“ Gefängnis"
-    },
-    {
-      "title": "Ai-Da kann malen wie ein Mensch : Diese Roboter-Dame ist eine echte Künstlerin",
-      "teaser": "Auf der 59. Kunstbiennale kann man etwas Erstaunliches sehen: die Roboterkünstlerin Ai-Da.",
-      "url": "https://www.bild.de/news/ausland/digital/ki-kuenstlerin-auf-der-kunstbiennale-in-venedig-ai-da-kann-malen-wie-ein-mensch-79820954.bild.html",
-      "image_title": "KI-Künstlerin auf der Kunstbiennale in Venedig: Ai-Da kann malen wie ein Mensch"
-    },
-    {
-      "title": "Frau und Tochter (13) erschossen : Kreml-Berater tot in Luxus-Appartment gefunden",
-      "teaser": "Der frühere Vizepräsident der russischen Gazprombank lag tot in seiner Wohnung.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ex-bankmanager-erschossen-toetete-der-kreml-berater-seine-familie-79815860.bild.html",
-      "image_title": "Ex-Bankmanager erschossen: Tötete der Kreml-Berater seine Familie?"
-    },
-    {
-      "title": "Mord in New York : Mutter mit 60 Stichen getötet",
-      "teaser": "Wendung im rätselhaften Mordfall an einer Mutter aus Queens. Kannte sie ihren Mörder?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/todesdrama-in-new-yorker-nobelsiedlung-mutter-mit-60-stichen-getoetet-79819692.bild.html",
-      "image_title": "Mord in New Yorker Nobelsiedlung: Mutter mit 60 Stichen getötet"
-    },
-    {
-      "title": "Dänemarks mysteriösester Mordfall : Löste Pastor Gotthard seine Frau in Säure auf?",
-      "teaser": "Ein Pastor sollte seine Gemeinde auf den richtigen Weg führen. Doch ausgerechnet von diesem scheint Thomas Gotthard (44) aus der idy...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/daenemarks-mysterioesester-mordfall-der-geistliche-mit-den-zwei-gesichtern-75507806.bild.html",
-      "image_title": "Dänemarks mysteriösester Mordfall: Der Geistliche mit den zwei Gesichtern"
-    },
-    {
-      "title": "26 verletzte Polizisten : Die blutige Bilanz der Schweden-Krawalle",
-      "teaser": "In mehreren schwedischen Städten gab es an Ostern Krawalle. Grund: Geplante Koran-Verbrennungen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/krawalle-in-schweden-rechtsradikaler-plante-koran-verbrennungen-die-blutige-bila-79813830.bild.html",
-      "image_title": "Krawalle in Schweden: Rechtsradikaler plante Koran-Verbrennungen – die blutige Bilanz"
-    },
-    {
-      "title": "Ausdehnung der Fläche niedrig wie nie : Das Ewige Eis in der Antarktis schmilzt",
-      "teaser": "Die Fläche ist auf niedrigstem Stand und die Forscher sind ratlos.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ursache-unklar-das-ewige-eis-in-der-antarktis-schmilzt-79812974.bild.html",
-      "image_title": "Ausdehnung der Fläche niedrig wie nie: Das Ewige Eis in der Antarktis schmilzt"
-    },
-    {
-      "title": "„Happy Face Killer“ : Opfer von Serienmörder nach 29 Jahren identifiziert",
-      "teaser": "Keith Hunter Jesperson (heute 67) hatte die Frau sexuell missbraucht und dann getötet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-opfer-von-serienmoerder-happy-face-killer-nach-29jahren-identifiziert-79810954.bild.html",
-      "image_title": "USA: Opfer von Serienmörder „Happy Face Killer“ nach 29 Jahren identifiziert"
-    },
-    {
-      "title": "Autsch! : Fahrerloser Tesla rammt Millionen-Jet",
-      "url": "https://www.bild.de/video/clip/news-ausland/unfall-in-washington-ein-fahrerloser-tesla-rammt-ein-flugzeug-79858442,auto=true.bild.html",
-      "image_title": "Unfall in Washington: Ein fahrerloser Tesla rammt ein Flugzeug"
-    },
-    {
-      "title": "Ukraine-Regierung feiert sie : Influencerin kämpft mit Panzerhaubitze gegen Putin",
-      "url": "https://www.bild.de/video/clip/video/das-verteidigungsministerium-feiert-sie-influencerin-kaempft-in-panzerhaubitze-g-79857654,auto=true.bild.html",
-      "image_title": "Ukraine-Regierung feiert sie: Influencerin kämpft mit Panzerhaubitze gegen Putin"
-    },
-    {
-      "title": "Nur wegen einer Tüte Chips : Übertriebener Polizei-Einsatz gegen 8-Jährigen",
-      "url": "https://www.bild.de/video/clip/video/wegen-einer-tuete-chips-polizisten-behandeln-8-jaehrigen-wie-killer-79849516,auto=true.bild.html",
-      "image_title": "Nur wegen einer Tüte Chips: Übertriebener Polizei-Einsatz gegen 8-Jährigen"
-    }
-  ]
+  "articles": []
 }
