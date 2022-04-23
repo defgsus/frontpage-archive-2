@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-23T11:17:26",
+  "timestamp": "2022-04-23T12:34:34",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -74,10 +74,24 @@
   ],
   "articles": [
     {
+      "title": "Joseph de Weck: \"Macron ist ein politischer Schwerenöter\"",
+      "teaser": "Frankreichs Präsident hat das Parteiensystem zerstört und Extremisten gestärkt, sagt der Historiker Joseph de Weck. Ein Wahlsieg Le Pens sei aber nicht das Ende der EU.",
+      "url": "https://www.zeit.de/politik/ausland/2022-04/joseph-de-weck-praesidentschaftswahl-frankreich-stichwahl-emmanuel-macron",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-04/joseph-de-weck-praesidentschaftswahl-frankreich-stichwahl-emmanuel-macron-bild/cinema__1000x428"
+    },
+    {
       "title": "Marine Le Pen: Die massentaugliche Rechtsextremistin",
       "teaser": "Sie könnte die erste Präsidentin Frankreichs werden. Wie Marine Le Pen aus dem Schatten ihres Vaters trat und was ihre Wahl für Deutschland und die EU bedeuten würde.",
       "url": "https://www.zeit.de/video/2022-04/6304727648001/marine-le-pen-die-massentaugliche-rechtsextremistin",
-      "image_url": "https://img.zeit.de/video/2022-04/6304727648001-still/cinema__980x420"
+      "image_url": "https://img.zeit.de/video/2022-04/6304727648001-still/cinema__980x420",
+      "image_title": "Marine Le Pen: Die massentaugliche Rechtsextremistin"
+    },
+    {
+      "title": "Junge Wähler in Frankreich: Einer, der sogar Drogendealer zum Wählen bringt",
+      "teaser": "Amine Kessaci, 18 Jahre, erklärt den Franzosen, warum die Jugend nicht wählt. Und auf den Straßen Marseilles versucht er, zu mobilisieren – mit einem einfachen Trick.",
+      "url": "https://www.zeit.de/campus/2022-04/junge-waehler-frankreich-wahlbeteiligung",
+      "image_url": "https://img.zeit.de/campus/2022-04/junge-waehler-frankreich-wahlbeteiligung-amine-kessaci/cinema__980x420",
+      "image_title": "Junge Wähler in Frankreich: Einer, der sogar Drogendealer zum Wählen bringt"
     },
     {
       "title": "Digital Services Act: So will die EU das Internet reparieren",
@@ -87,39 +101,53 @@
       "image_title": "Digital Services Act: So will die EU das Internet reparieren"
     },
     {
-      "title": "Russische Invasion: \"Wer einen Arzt angreift, zeigt, dass er bereit ist, alles zu tun\"",
-      "teaser": "Krankenhäuser zu bombardieren sei Kriegstaktik und ein Markenzeichen Russlands, sagt der Arzt Houssam Alnahhas. Er hat es selbst in Syrien erlebt.",
-      "url": "https://www.zeit.de/gesundheit/2022-04/russland-ukraine-krieg-krankenhaeuser-voelkerrecht-houssam-alnahhas-interview",
-      "image_url": "https://img.zeit.de/gesundheit/2022-04/russland-ukraine-krieg-krankenhaeuser-angriffe-voelkerrecht-interview-bild/wide__822x462",
-      "image_title": "Russische Invasion: \"Wer einen Arzt angreift, zeigt, dass er bereit ist, alles zu tun\""
-    },
-    {
-      "title": "Liveblog: Krieg in der Ukraine: Russland greift offenbar wieder Stahlwerk in Mariupol an",
-      "teaser": "Laut Ukraine attackiert Russland das Werksgelände des Asow-Stahlwerks nun aus der Luft. Der lettische Botschafter nimmt seine Arbeit in Kiew wieder auf. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2022-04/krieg-ukraine-russland-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-04/liveblog-ukraine-asow-stahlwerk-mariupol-angriffe-bild/wide__822x462",
-      "image_title": "Krieg in der Ukraine: Russland greift offenbar wieder Stahlwerk in Mariupol an"
-    },
-    {
-      "title": "Außenpolitik der USA: Zeitenwende, ernst gemeint",
-      "teaser": "Die USA haben den Isolationismus der Trump-Jahre überwunden. Hinter ihrer massiven Militärhilfe für die Ukraine steckt eine größere Strategie, die auch Risiken birgt.",
-      "url": "https://www.zeit.de/politik/ausland/2022-04/usa-aussenpolitik-china-europa-ukraine-krieg",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-04/usa-aussenpolitik-isolation-ukraine/wide__822x462",
-      "image_title": "Außenpolitik der USA: Zeitenwende, ernst gemeint"
-    },
-    {
-      "title": "Flut in Südafrika: \"So eine gewaltvolle Überflutung haben wir noch nie erlebt\"",
-      "teaser": "435 Menschen starben bei der Flut in Südafrika. Aktivist Mqapheli Bonono sagt: Betroffen sind vor allem die Armen. Wo sollen sie jetzt hin?",
-      "url": "https://www.zeit.de/zett/politik/2022-04/suedafrika-flut-kwazulu-natal-ueberschwemmung-folgen",
-      "image_url": "https://img.zeit.de/zett/politik/2022-04/suedafrika-flut-kwazulu-natal-ueberschwemmung-folgen-flut/cinema__980x420",
-      "image_title": "Flut in Südafrika: \"So eine gewaltvolle Überflutung haben wir noch nie erlebt\""
-    },
-    {
       "title": "Yuval Noah Harari: \"Putin braucht einen Ausweg\"",
       "teaser": "Der russische Präsident ist gescheitert, sagt der Historiker Yuval Noah Harari. Ein Gespräch über Wege zum Frieden, imperiale Kriege und einen Regimewechsel in Moskau.",
       "url": "https://www.zeit.de/2022/17/yuval-noah-harari-russland-ukraine-krieg",
       "image_url": "https://img.zeit.de/2022/17/yuval-noah-harari-russland-ukraine-krieg-teaser/wide__822x462",
       "image_title": "Yuval Noah Harari: \"Putin braucht einen Ausweg\""
+    },
+    {
+      "title": "Liveblog: Krieg in der Ukraine: Russland greift offenbar wieder Stahlwerk in Mariupol an",
+      "teaser": "Laut Ukraine attackiert Russland das Werksgelände des Asow-Stahlwerks nun aus der Luft. Der lettische Botschafter nimmt seine Arbeit in Kiew wieder auf. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2022-04/krieg-ukraine-russland-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-04/liveblog-ukraine-asow-stahlwerk-mariupol-angriffe-bild/cinema__980x420",
+      "image_title": "Krieg in der Ukraine: Russland greift offenbar wieder Stahlwerk in Mariupol an"
+    },
+    {
+      "title": "Anton Hofreiter: \"Scholz ist Merkel sehr ähnlich, das ist das Problem\"",
+      "teaser": "Die Koalitionspartner sind mit der zögerlichen Haltung der SPD zu Waffenlieferungen an die Ukraine nicht zufrieden. Grüne und FDP mahnen zu schneller militärischer Hilfe.",
+      "url": "https://www.zeit.de/politik/2022-04/fdp-wolfgang-kubicki-spd-ukraine",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-04/anton-hofreiter-kritik-spd-ukraine-waffen-bild/wide__822x462",
+      "image_title": "Anton Hofreiter: \"Scholz ist Merkel sehr ähnlich, das ist das Problem\""
+    },
+    {
+      "title": "FDP-Bundesparteitag: Christian Lindner wirft Union \"gefährliches Spiel\" vor",
+      "teaser": "Der FDP-Chef sieht im Antrag von CDU/CSU zur Lieferung schwerer Waffen an die Ukraine den Versuch, die Regierung zu schwächen. Dem Kanzler sicherte er Unterstützung zu.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-04/christian-lindner-waffenlieferung-union-scholz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-04/christian-lindner-waffenlieferung-union-scholz-bild/wide__822x462",
+      "image_title": "FDP-Bundesparteitag: Christian Lindner wirft Union \"gefährliches Spiel\" vor"
+    },
+    {
+      "title": "Gesunde Haare: Endlich Haare verstehen",
+      "teaser": "Müssen wir lernen, mit der Natur zu leben? Oder lassen sich Haare verändern? 25 wissenschaftliche Fakten über Glanz, Struktur, Haarausfall und falsche Werbeversprechen",
+      "url": "https://www.zeit.de/wissen/2022-04/gesunde-haare-locken-haarausfall-shampoo",
+      "image_url": "https://img.zeit.de/wissen/2022-02/gesunde-haare-locken-haarausfall-shampoo-teaser/wide__822x462",
+      "image_title": "Gesunde Haare: Endlich Haare verstehen"
+    },
+    {
+      "title": "Solarstrom: Schöner Schein",
+      "teaser": "Mit Solarstrom können Sie Energiekosten sparen und zusätzlich Geld verdienen.",
+      "url": "https://www.zeit.de/wirtschaft/2022-04/solarstrom-solarfoerderung-energiesparen",
+      "image_url": "https://img.zeit.de/wochenende/2022-03/wochenende-edition6-geld-fuer-alle-strom/wide__822x462",
+      "image_title": "Solarstrom: Schöner Schein"
+    },
+    {
+      "title": "Yoga und Heavy Metal: Meditation wie im Moshpit",
+      "teaser": "\"Unvergleichlich\": Thomas Meinhof powert sich zu Heavy-Metal-Musik beim Yoga aus. Gute Gründe, es unbedingt auszuprobieren",
+      "url": "https://www.zeit.de/entdecken/2022-04/heavy-metal-yoga-thomas-meinhof-lexikon-der-leidenschaften",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-02/wochenende-thomas-meinhof-heavy-metal-yoga/wide__822x462",
+      "image_title": "Yoga und Heavy Metal: Meditation wie im Moshpit"
     },
     {
       "title": "Streitkultur: Rastet aus!",
@@ -157,20 +185,6 @@
       "image_title": "Binge-Watching: Die besten TV-Serien fürs Wochenende"
     },
     {
-      "title": "Anpassungseffekt: Wider das Gewöhnen",
-      "teaser": "Menschen gewöhnen sich an fast alles. An eine Pandemie, an einen Krieg, der gar nicht weit weg ist. Faszinierend – aber ist nicht genau deshalb die Welt kaputt?",
-      "url": "https://www.zeit.de/politik/2022-04/gewohnheitseffekt-pandemie-corona-politik-krieg-ukraine",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-04/wochenende-17-gewoehnungseffekt-krieg-ukraine3/wide__822x462",
-      "image_title": "Anpassungseffekt: Wider das Gewöhnen"
-    },
-    {
-      "title": "Gesunde Haare: Endlich Haare verstehen",
-      "teaser": "Müssen wir lernen, mit der Natur zu leben? Oder lassen sich Haare verändern? 25 wissenschaftliche Fakten über Glanz, Struktur, Haarausfall und falsche Werbeversprechen",
-      "url": "https://www.zeit.de/wissen/2022-04/gesunde-haare-locken-haarausfall-shampoo",
-      "image_url": "https://img.zeit.de/wissen/2022-02/gesunde-haare-locken-haarausfall-shampoo-teaser/wide__822x462",
-      "image_title": "Gesunde Haare: Endlich Haare verstehen"
-    },
-    {
       "title": "Birdcontroller: \"Den Vögeln soll noch in der Luft der Appetit genommen werden\"",
       "teaser": "Marc Frangenberg hält den Rasen karg und zündet Böller, wenn ein Kranich landet. Vögel vertreiben ist sein Job: Der Birdcontroller schützt am Flughafen Tier und Mensch.",
       "url": "https://www.zeit.de/arbeit/2022-04/flughafen-bird-controller-flugsicherheit-beruf-koeln-bonn",
@@ -178,11 +192,11 @@
       "image_title": "Birdcontroller: \"Den Vögeln soll noch in der Luft der Appetit genommen werden\""
     },
     {
-      "title": "Solarstrom: Schöner Schein",
-      "teaser": "Mit Solarstrom können Sie Energiekosten sparen und zusätzlich Geld verdienen.",
-      "url": "https://www.zeit.de/wirtschaft/2022-04/solarstrom-solarfoerderung-energiesparen",
-      "image_url": "https://img.zeit.de/wochenende/2022-03/wochenende-edition6-geld-fuer-alle-strom/wide__822x462",
-      "image_title": "Solarstrom: Schöner Schein"
+      "title": "Anpassungseffekt: Wider das Gewöhnen",
+      "teaser": "Menschen gewöhnen sich an fast alles. An eine Pandemie, an einen Krieg, der gar nicht weit weg ist. Faszinierend – aber ist nicht genau deshalb die Welt kaputt?",
+      "url": "https://www.zeit.de/politik/2022-04/gewohnheitseffekt-pandemie-corona-politik-krieg-ukraine",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-04/wochenende-17-gewoehnungseffekt-krieg-ukraine3/wide__822x462",
+      "image_title": "Anpassungseffekt: Wider das Gewöhnen"
     },
     {
       "title": "Fans: Ich liebe dich nicht mehr, Fußball",
@@ -234,13 +248,6 @@
       "image_title": "Uranus: Das hässliche Planetlein"
     },
     {
-      "title": "Yoga und Heavy Metal: Meditation wie im Moshpit",
-      "teaser": "\"Unvergleichlich\": Thomas Meinhof powert sich zu Heavy-Metal-Musik beim Yoga aus. Gute Gründe, es unbedingt auszuprobieren",
-      "url": "https://www.zeit.de/entdecken/2022-04/heavy-metal-yoga-thomas-meinhof-lexikon-der-leidenschaften",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-02/wochenende-thomas-meinhof-heavy-metal-yoga/wide__822x462",
-      "image_title": "Yoga und Heavy Metal: Meditation wie im Moshpit"
-    },
-    {
       "title": "Pull-apart-Bread: Zusammen isst man weniger allein",
       "teaser": "Dieses Pull-apart-Bread mit Käse und Bärlauch bäckt sich beinahe von allein und teilt sich fast von selbst. Bleibt die Frage, ob Sie wirklich etwas davon abgeben wollen.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-04/pull-apart-bread-kaese-baerlauch-rezept",
@@ -255,25 +262,39 @@
       "image_title": "Die Sextagebücher: \"Schade, dass sie ihr Nachthemd anbehält, wenn wir Romantik machen\""
     },
     {
-      "title": "Grimaldi: Himmel und Hölle",
-      "teaser": "Mit einer Ferienwohnung in Italien erfüllt sich unsere Autorin einen Traum. Doch dann nimmt die Realität überhand – und sie steckt in Debatten um Corona und Migranten.",
-      "url": "https://www.zeit.de/zeit-magazin/2022/17/grimaldi-italien-corona-leugner-migration",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/himmel-und-hoelle-teaser/wide__822x462",
-      "image_title": "Grimaldi: Himmel und Hölle"
+      "title": "Eltern mit Depressionen • Das Wichtigste aus Z+: Mama sagte: \"Ich will nicht mehr leben\"",
+      "teaser": "Nach der Scheidung erkrankt die Mutter an Depressionen. Die Tochter will helfen. Bis sie merkt, dass sie nicht mehr kann. Darf man die eigenen Eltern im Stich lassen?",
+      "url": "https://www.zeit.de/zett/2022-04/eltern-depressionen-trennung-umgang",
+      "image_url": "https://img.zeit.de/zett/2022-04/eltern-depressionen-trennung-umgang-bild/wide__822x462",
+      "image_title": "Eltern mit Depressionen • Das Wichtigste aus Z+: Mama sagte: \"Ich will nicht mehr leben\""
     },
     {
-      "title": "Robo-Advisor: Wer’s bequem mag, setzt auf digitale Anlagehelfer",
-      "teaser": "Immer mehr Menschen nutzen sogenannte Robo-Advisoren für die Geldanlage. Sie gelten als einfach und kostengünstig. Doch halten sie auch, was sie versprechen?",
-      "url": "https://www.zeit.de/wirtschaft/2022-03/robo-advisor-geldanlage-ki-verwalter-strategie",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/robo-advisor-geldanlage/cinema__980x420",
-      "image_title": "Robo-Advisor: Wer’s bequem mag, setzt auf digitale Anlagehelfer"
+      "title": "Flut in Südafrika: \"So eine gewaltvolle Überflutung haben wir noch nie erlebt\"",
+      "teaser": "435 Menschen starben bei der Flut in Südafrika. Aktivist Mqapheli Bonono sagt: Betroffen sind vor allem die Armen. Wo sollen sie jetzt hin?",
+      "url": "https://www.zeit.de/zett/politik/2022-04/suedafrika-flut-kwazulu-natal-ueberschwemmung-folgen",
+      "image_url": "https://img.zeit.de/zett/politik/2022-04/suedafrika-flut-kwazulu-natal-ueberschwemmung-folgen-flut/wide__822x462",
+      "image_title": "Flut in Südafrika: \"So eine gewaltvolle Überflutung haben wir noch nie erlebt\""
     },
     {
-      "title": "\"ZDF Magazin Royale\": \"Alle Komik hat etwas Übergriffiges\"",
-      "teaser": "Tim Wolff schreibt Witze für Jan Böhmermanns ZDF-Show. Dort ist investigativer Journalismus an die Stelle der Satire getreten. Ist das jetzt unsere Art von Humor?",
-      "url": "https://www.zeit.de/2022/17/zdf-magazin-royale-satire-journalismus-tim-wolff",
-      "image_url": "https://img.zeit.de/2022/17/deutschland-ein-fehler-bild-1/wide__822x462",
-      "image_title": "\"ZDF Magazin Royale\": \"Alle Komik hat etwas Übergriffiges\""
+      "title": "Anpassungseffekt: Wider das Gewöhnen",
+      "teaser": "Menschen gewöhnen sich an fast alles. An eine Pandemie, an einen Krieg, der gar nicht weit weg ist. Faszinierend – aber ist nicht genau deshalb die Welt kaputt?",
+      "url": "https://www.zeit.de/politik/2022-04/gewohnheitseffekt-pandemie-corona-politik-krieg-ukraine",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-04/wochenende-17-gewoehnungseffekt-krieg-ukraine3/cinema__980x420",
+      "image_title": "Anpassungseffekt: Wider das Gewöhnen"
+    },
+    {
+      "title": "Sneaker von Superga: Sommer am Fuß",
+      "teaser": "Mit diesen Sneakern fühlt man sich wie im Italienurlaub, und das schon im deutschen Frühjahr. Das Beste: Man kann sie einfach in die Waschmaschine stecken.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2022-04/sneaker-superga-italien-leicht-sportschuhe",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-04/sneaker-superga-italien-leicht-sportschuhe2/wide__822x462",
+      "image_title": "Sneaker von Superga: Sommer am Fuß"
+    },
+    {
+      "title": "Hormontherapie: Die umstrittenen Hormone",
+      "teaser": "Lange galt die Hormontherapie als hilfreich für Frauen in den Wechseljahren. Doch sie ist stark umstritten. Was Frauen über die Risiken von Hormonen wissen müssen.",
+      "url": "https://www.zeit.de/wissen/gesundheit/2021-02/wechseljahre-hormontherapie-brustkrebs-herzinfarkt-gesundheit",
+      "image_url": "https://img.zeit.de/wissen/2021-01/hormontherapie-wechseljahre-hormonhaushalt-depression-psychische-2/wide__822x462",
+      "image_title": "Hormontherapie: Die umstrittenen Hormone"
     },
     {
       "title": "Hochstapler-Syndrom: \"Kann ja nicht sein, dass ich wirklich so gut bin\"",
@@ -290,25 +311,25 @@
       "image_title": "Moïra Mikolajczak : \"Jeder Eltern-Burn-out hat seine eigene Geschichte\""
     },
     {
-      "title": "Psychische Krisen : Notfallhilfe für die Psyche",
-      "teaser": "Heftiger Stress, schon fast Panik, alles viel zu viel? Drei Psychologen erklären, mit welchen Techniken man aus Momenten akuter Verzweiflung alleine wieder herausfindet.",
-      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2021-05/psychische-krisen-umgang-psychotherapeuten-nervenzusammenbruch-psychologie-tipps-faq",
-      "image_url": "https://img.zeit.de/gesundheit/zeit-doctor/2021-05/psychische-krisen-umgang-psychotherapeuten-nervenzusammenbruch-psychologie-tipps-faq-bild/wide__822x462",
-      "image_title": "Psychische Krisen : Notfallhilfe für die Psyche"
+      "title": "Die Linke: Janine Wissler will Sexismus-Verdacht aufklären lassen",
+      "teaser": "Kurz vor Wahlen in Schleswig-Holstein und NRW hat die Linke mit Sexismus-Vorwürfen ein Problem in den eigenen Reihen. Parteichefin Wissler wirbt um Vertrauen.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-04/die-linke-janine-wissler-sexismus-verdacht-aufklaerung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-04/linkspartei-janine-wissler-sexismus-verdacht-bild/wide__822x462",
+      "image_title": "Die Linke: Janine Wissler will Sexismus-Verdacht aufklären lassen"
     },
     {
-      "title": "Liveblog: Coronavirus-Pandemie: FDP-Fraktionschef stellt verpflichtende Isolation infrage",
-      "teaser": "Christian Dürr will mit Verweis auf Nachbarstaaten weg von der Isolationspflicht für Infizierte. Die Kommunen fordern vom Bund einen Notfallplan ab Herbst. Das Liveblog",
-      "url": "https://www.zeit.de/politik/2022-03/liveblog-corona-aktuell-news",
-      "image_url": "https://img.zeit.de/politik/2022-04/corona-blog-isolation/wide__822x462",
-      "image_title": "Coronavirus-Pandemie: FDP-Fraktionschef stellt verpflichtende Isolation infrage"
+      "title": "Robo-Advisor: Wer’s bequem mag, setzt auf digitale Anlagehelfer",
+      "teaser": "Immer mehr Menschen nutzen sogenannte Robo-Advisoren für die Geldanlage. Sie gelten als einfach und kostengünstig. Doch halten sie auch, was sie versprechen?",
+      "url": "https://www.zeit.de/wirtschaft/2022-03/robo-advisor-geldanlage-ki-verwalter-strategie",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/robo-advisor-geldanlage/wide__822x462",
+      "image_title": "Robo-Advisor: Wer’s bequem mag, setzt auf digitale Anlagehelfer"
     },
     {
-      "title": "Fußball-Podcast: \"Robert Lewandowski ist keine Weltklasse\"",
-      "teaser": "Im neuen Fußballpodcast analysieren wir die besten Spieler unserer Zeit. In der ersten Folge: Robert Lewandowski, der überschätzte Weltfußballer",
-      "url": "https://www.zeit.de/sport/2022-04/robert-lewandowski-beste-fussballer-fussball-podcast",
-      "image_url": "https://img.zeit.de/sport/2022-04/kicken-kann-er-podcast-lewandowski/wide__822x462",
-      "image_title": "Fußball-Podcast: \"Robert Lewandowski ist keine Weltklasse\""
+      "title": "Fans: Ich liebe dich nicht mehr, Fußball",
+      "teaser": "Früher hat unsere Kolumnistin sogar noch mit Wehen Fußball geschaut. Spätestens in der Pandemie aber ist etwas zerbrochen. Hier trennt sie sich.",
+      "url": "https://www.zeit.de/sport/2022-04/fussball-entfremdung-liebe-entzug",
+      "image_url": "https://img.zeit.de/sport/2022-04/wochenende-17-gruenflache/cinema__980x420",
+      "image_title": "Fans: Ich liebe dich nicht mehr, Fußball"
     },
     {
       "title": "Geständnisse: Verraten Sie uns Ihr Geheimnis?",
@@ -318,30 +339,16 @@
       "image_title": "Geständnisse: Verraten Sie uns Ihr Geheimnis?"
     },
     {
-      "title": "Sneaker von Superga: Sommer am Fuß",
-      "teaser": "Mit diesen Sneakern fühlt man sich wie im Italienurlaub, und das schon im deutschen Frühjahr. Das Beste: Man kann sie einfach in die Waschmaschine stecken.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2022-04/sneaker-superga-italien-leicht-sportschuhe",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-04/sneaker-superga-italien-leicht-sportschuhe2/cinema__980x420",
-      "image_title": "Sneaker von Superga: Sommer am Fuß"
-    },
-    {
-      "title": "Halloumipopcorn: Gemüse mit Popp",
-      "teaser": "Ofengemüse allein ist schon nah dran an kulinarischer Perfektion. Mit Halloumistückchen, die beim Backen wie Popcorn aufplatzen, wird sie erreicht.",
-      "url": "https://www.zeit.de/zeit-magazin/2022/17/halloumi-popcorn-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022/17/gemuese-mit-popp-bild-1/wide__822x462",
-      "image_title": "Halloumipopcorn: Gemüse mit Popp"
-    },
-    {
       "title": "Ukraine-Überblick: Russland weitet Kriegsziele aus, Scholz verteidigt sich – der Tag",
       "url": "https://www.zeit.de/politik/ausland/2022-04/ukraine-ueberblick-donbass-kiew-waffenlieferungen-olaf-scholz"
     },
     {
-      "title": "Krieg gegen die Ukraine: Olaf Scholz verteidigt Zurückhaltung bei Lieferungen schwerer Waffen",
-      "url": "https://www.zeit.de/politik/deutschland/2022-04/olaf-scholz-waffenlieferungen-ukraine-panzer"
-    },
-    {
       "title": "Yuval Noah Harari: \"Putin braucht einen Ausweg\"",
       "url": "https://www.zeit.de/2022/17/yuval-noah-harari-russland-ukraine-krieg"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Olaf Scholz verteidigt Zurückhaltung bei Lieferungen schwerer Waffen",
+      "url": "https://www.zeit.de/politik/deutschland/2022-04/olaf-scholz-waffenlieferungen-ukraine-panzer"
     },
     {
       "title": "Yuval Noah Harari: \"Putin braucht einen Ausweg\"",
@@ -386,8 +393,8 @@
       "image_title": "Krieg gegen die Ukraine: Olaf Scholz verteidigt Zurückhaltung bei Lieferungen schwerer Waffen"
     },
     {
-      "title": "Krieg gegen die Ukraine: Olaf Scholz verteidigt Zurückhaltung bei Lieferungen schwerer Waffen",
-      "url": "https://www.zeit.de/politik/deutschland/2022-04/olaf-scholz-waffenlieferungen-ukraine-panzer"
+      "title": "Yuval Noah Harari: \"Putin braucht einen Ausweg\"",
+      "url": "https://www.zeit.de/2022/17/yuval-noah-harari-russland-ukraine-krieg"
     },
     {
       "title": "Altersunterschied in der Beziehung: \"Ich liebe einen Mann, der fast so alt ist wie mein Vater\"",
@@ -398,8 +405,8 @@
       "url": "https://www.zeit.de/politik/ausland/2022-04/ukraine-uebersicht-mariupol-guterres"
     },
     {
-      "title": "Yuval Noah Harari: \"Putin braucht einen Ausweg\"",
-      "url": "https://www.zeit.de/2022/17/yuval-noah-harari-russland-ukraine-krieg"
+      "title": "Krieg gegen die Ukraine: Olaf Scholz verteidigt Zurückhaltung bei Lieferungen schwerer Waffen",
+      "url": "https://www.zeit.de/politik/deutschland/2022-04/olaf-scholz-waffenlieferungen-ukraine-panzer"
     },
     {
       "title": "Umgang mit Alkohol: \"Es wäre schön, nach ein oder zwei Gläsern aufhören zu können\"",
@@ -416,11 +423,11 @@
       "image_url": "https://img.zeit.de/2022/packshot-22-17-1000x620.jpg/imagegroup/original__1000x620"
     },
     {
-      "title": "Der Personal Trainer: Die Kniebeuge",
-      "teaser": "Kann doch jeder? Die Kniebeuge sieht einfach aus, man kann aber viel falsch machen. Besonders auf Knie und Rücken sollte man achten, sagt unser Personal Trainer.",
-      "url": "https://www.zeit.de/sport/2022-04/fitnessuebung-kniebeuge-personal-trainer",
-      "image_url": "https://img.zeit.de/wochenende/2022-03/fitnessuebung-kniebeuge-personal-trainer-aufmacher2/cinema__980x420",
-      "image_title": "Der Personal Trainer: Die Kniebeuge"
+      "title": "Halloumipopcorn: Gemüse mit Popp",
+      "teaser": "Ofengemüse allein ist schon nah dran an kulinarischer Perfektion. Mit Halloumistückchen, die beim Backen wie Popcorn aufplatzen, wird sie erreicht.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/17/halloumi-popcorn-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022/17/gemuese-mit-popp-bild-1/cinema__980x420",
+      "image_title": "Halloumipopcorn: Gemüse mit Popp"
     },
     {
       "title": "Verlagsangebot: Quiz: Erkennen Sie diese Nationalflaggen?",
@@ -430,11 +437,11 @@
       "image_title": "Freunde der ZEIT: Quiz: Erkennen Sie diese Nationalflaggen?"
     },
     {
-      "title": "Sexuelle Identität: Familienstand: divers",
-      "teaser": "Vor 16 Jahren bekam unsere Autorin eine Tochter. Heute bezeichnet sich ihr Kind als \"genderfluid\". Die Mutter will verstehen – und sorgt sich: Wird es glücklich werden?",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2022-04/sexuelle-identitaet-aufklaerung-geschlechter-diversitaet",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/sexuelle-identitaet-aufklaerung-diversitaet/wide__822x462",
-      "image_title": "Sexuelle Identität: Familienstand: divers"
+      "title": "Grimaldi: Himmel und Hölle",
+      "teaser": "Mit einer Ferienwohnung in Italien erfüllt sich unsere Autorin einen Traum. Doch dann nimmt die Realität überhand – und sie steckt in Debatten um Corona und Migranten.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/17/grimaldi-italien-corona-leugner-migration",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/himmel-und-hoelle-teaser/wide__822x462",
+      "image_title": "Grimaldi: Himmel und Hölle"
     },
     {
       "title": "Worträtsel: Buchstabiene",
@@ -572,13 +579,6 @@
       "image_title": "Lockdown in Shanghai: \"Abends höre ich, wie meine Nachbar:innen vom Balkon schreien\""
     },
     {
-      "title": "Eltern mit Depressionen: Mama sagte: \"Ich will nicht mehr leben\"",
-      "teaser": "Nach der Scheidung erkrankt die Mutter an Depressionen. Die Tochter will helfen. Bis sie merkt, dass sie nicht mehr kann. Darf man die eigenen Eltern im Stich lassen?",
-      "url": "https://www.zeit.de/zett/2022-04/eltern-depressionen-trennung-umgang",
-      "image_url": "https://img.zeit.de/zett/2022-04/eltern-depressionen-trennung-umgang-bild/wide__822x462",
-      "image_title": "Eltern mit Depressionen: Mama sagte: \"Ich will nicht mehr leben\""
-    },
-    {
       "title": "Aufruf: Gefährdet Alkohol deine Beziehung?",
       "teaser": "Du willst ein geregeltes Leben, doch dein:e Partner:in schafft es nicht, vom Alkohol loszukommen? Erzähl uns hier, wie Alkohol deine Beziehung beeinflusst.",
       "url": "https://www.zeit.de/zett/liebe-sex/2022-04/alkoholsucht-abhaengigkeit-beziehung-partnerschaft-leseraufruf",
@@ -586,10 +586,24 @@
       "image_title": "Aufruf: Gefährdet Alkohol deine Beziehung?"
     },
     {
+      "title": "Geld in der Beziehung: \"Ich hätte nicht gewollt, dass sie für lau bei mir wohnt\"",
+      "teaser": "Christian verdient fast 7.000 Euro und ist Wohnungseigentümer. Nun will er seine Freundin Luca heiraten. Und in einem Vertrag regeln, was sie im Scheidungsfall bekommt.",
+      "url": "https://www.zeit.de/zett/2022-04/geld-beziehung-partnerschaft-einkommen-ungleichgewicht",
+      "image_url": "https://img.zeit.de/zett/2022-04/geld-beziehung-partnerschaft-einkommen-ungleichgewicht-bild/wide__822x462",
+      "image_title": "Geld in der Beziehung: \"Ich hätte nicht gewollt, dass sie für lau bei mir wohnt\""
+    },
+    {
+      "title": "\"ZDF Magazin Royale\": \"Alle Komik hat etwas Übergriffiges\"",
+      "teaser": "Tim Wolff schreibt Witze für Jan Böhmermanns ZDF-Show. Dort ist investigativer Journalismus an die Stelle der Satire getreten. Ist das jetzt unsere Art von Humor?",
+      "url": "https://www.zeit.de/2022/17/zdf-magazin-royale-satire-journalismus-tim-wolff",
+      "image_url": "https://img.zeit.de/2022/17/deutschland-ein-fehler-bild-1/cinema__980x420",
+      "image_title": "\"ZDF Magazin Royale\": \"Alle Komik hat etwas Übergriffiges\""
+    },
+    {
       "title": "Kristine Bilkau: Ein Leuchtturm am Rand",
       "teaser": "Viel Verfall, wenig Romantik: Kristine Bilkaus Roman \"Nebenan\" erzählt eindrucksvoll und still aus der deutschen Provinz.",
       "url": "https://www.zeit.de/kultur/literatur/2022-04/kristine-bilkau-buch-nebenan-provinzroman-nord-ostsee-kanal",
-      "image_url": "https://img.zeit.de/kultur/literatur/2022-04/kristine-bilkau-buch-nebenan-provinzroman-nord-ostsee-kanal-teaserfoto/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/literatur/2022-04/kristine-bilkau-buch-nebenan-provinzroman-nord-ostsee-kanal-teaserfoto/wide__822x462",
       "image_title": "Kristine Bilkau: Ein Leuchtturm am Rand"
     },
     {
@@ -600,13 +614,6 @@
       "image_title": "Frauen in Afghanistan: Wächter auf dem Campus"
     },
     {
-      "title": "Stichwahl in Frankreich: Die neue Blockbildung",
-      "teaser": "Mit der erneuten Stichwahl zwischen Macron und Le Pen zerfällt das alte Parteiensystem Frankreichs vollends. Die Gründe reichen bis in die Achtzigerjahre zurück.",
-      "url": "https://www.zeit.de/kultur/2022-04/frankreich-stichwahl-emmanuel-macron-marine-le-pen-blockbildung-umbruch",
-      "image_url": "https://img.zeit.de/kultur/2022-04/frankreich-stichwahl-emmanuel-macron-marine-le-pen-blockbildung-umbruch-bild/wide__822x462",
-      "image_title": "Stichwahl in Frankreich: Die neue Blockbildung"
-    },
-    {
       "title": "Wolodymyr Selenskyj: Kritisierter Politiker, gefeierter Held",
       "teaser": "Bevor er durch den Krieg weltbekannt wurde, versuchte der ukrainische Präsident, die Korruption in seinem Land zu bekämpfen. Wer ist Wolodomyr Selenskyj? Ein Videoporträt",
       "url": "https://www.zeit.de/video/2022-03/6301808165001/wolodymyr-selenskyj-kritisierter-politiker-gefeierter-held",
@@ -614,18 +621,18 @@
       "image_title": "Wolodymyr Selenskyj: Kritisierter Politiker, gefeierter Held"
     },
     {
+      "title": "USA: Feuer gefährden Hunderte Häuser in Colorado",
+      "teaser": "In der Näher der Stadt Colorado Springs ist ein Feuer ausgebrochen, das mehrere Hundert Häuser bedrohte. Ursache waren vermutlich illegale Schweißarbeiten.",
+      "url": "https://www.zeit.de/video/2022-04/6304857776001/usa-feuer-gefaehrden-hunderte-haeuser-in-colorado",
+      "image_url": "https://img.zeit.de/video/2022-04/6304857776001-still/wide__822x462",
+      "image_title": "USA: Feuer gefährden Hunderte Häuser in Colorado"
+    },
+    {
       "title": "Ukraine: Russische Armee setzt Offensive im Osten fort",
       "teaser": "Ukrainischen Angaben zufolge versuchen Russlands Truppen weiter, Kontrolle über die Separatistengebiete zu erlangen. Für Samstag sind Evakuierungen aus Mariupol geplant.",
       "url": "https://www.zeit.de/video/2022-04/6304858911001/ukraine-russische-armee-setzt-offensive-im-osten-fort",
       "image_url": "https://img.zeit.de/video/2022-04/6304858911001-still/wide__822x462",
       "image_title": "Ukraine: Russische Armee setzt Offensive im Osten fort"
-    },
-    {
-      "title": "Inflation: Verbraucherzentrale fordert Lebensmittel frei von Mehrwertsteuer",
-      "teaser": "Die Verbraucherzentrale will Familien mit begrenztem Einkommen so vor Ernährungsarmut schützen. Frisches Obst oder Gemüse sollen etwa steuerfrei sein.",
-      "url": "https://www.zeit.de/video/2022-04/6304751354001/inflation-verbraucherzentrale-fordert-lebensmittel-frei-von-mehrwertsteuer",
-      "image_url": "https://img.zeit.de/video/2022-04/6304751354001-still/wide__822x462",
-      "image_title": "Inflation: Verbraucherzentrale fordert Lebensmittel frei von Mehrwertsteuer"
     },
     {
       "title": "Corona-Zahlen in Deutschland: Coronavirus in Deutschland – alle aktuellen Zahlen auf einer Karte",
@@ -656,11 +663,11 @@
       "image_title": "Warum sind Hirnregionen bei Taxifahrern größer als bei Busfahrern?"
     },
     {
-      "title": "Antidepressiva: Wie gut helfen Medikamente gegen Depression?",
-      "teaser": "Daten aus den USA deuten darauf hin, dass Antidepressiva langfristig kaum Einfluss auf die Lebensqualität haben. Wie aussagekräftig die Daten sind, bleibt jedoch offen.",
-      "url": "https://www.zeit.de/gesundheit/2022-04/antidepressiva-depressionen-studie-wirkung",
-      "image_url": "https://img.zeit.de/gesundheit/2022-04/antidepressiva-depressionen/cinema__980x420",
-      "image_title": "Antidepressiva: Wie gut helfen Medikamente gegen Depression?"
+      "title": "Russische Invasion: \"Wer einen Arzt angreift, zeigt, dass er bereit ist, alles zu tun\"",
+      "teaser": "Krankenhäuser zu bombardieren sei Kriegstaktik und ein Markenzeichen Russlands, sagt der Arzt Houssam Alnahhas. Er hat es selbst in Syrien erlebt.",
+      "url": "https://www.zeit.de/gesundheit/2022-04/russland-ukraine-krieg-krankenhaeuser-voelkerrecht-houssam-alnahhas-interview",
+      "image_url": "https://img.zeit.de/gesundheit/2022-04/russland-ukraine-krieg-krankenhaeuser-angriffe-voelkerrecht-interview-bild/cinema__980x420",
+      "image_title": "Russische Invasion: \"Wer einen Arzt angreift, zeigt, dass er bereit ist, alles zu tun\""
     },
     {
       "title": "Psychologie: Wie komme ich rasch wieder runter, wenn ich mich aufgeregt habe?",
@@ -670,15 +677,15 @@
       "image_title": "Psychologie: Wie komme ich rasch wieder runter, wenn ich mich aufgeregt habe?"
     },
     {
-      "title": "Carl Erik Fisher: \"Sucht existiert in uns allen\"",
-      "teaser": "Die Sucht gehört zum Menschsein, sagt der Psychiater und trockene Alkoholiker Carl Erik Fisher. Die Versuche, Sucht auszurotten, haben unermessliches Leid verursacht.",
-      "url": "https://www.zeit.de/gesundheit/2022-04/carl-erik-fisher-sucht-psychologie",
-      "image_url": "https://img.zeit.de/wissen/2022-04/carl-erik-fisher-sucht-psychologie-bild-1/wide__822x462",
-      "image_title": "Carl Erik Fisher: \"Sucht existiert in uns allen\""
+      "title": "Antidepressiva: Wie gut helfen Medikamente gegen Depression?",
+      "teaser": "Daten aus den USA deuten darauf hin, dass Antidepressiva langfristig kaum Einfluss auf die Lebensqualität haben. Wie aussagekräftig die Daten sind, bleibt jedoch offen.",
+      "url": "https://www.zeit.de/gesundheit/2022-04/antidepressiva-depressionen-studie-wirkung",
+      "image_url": "https://img.zeit.de/gesundheit/2022-04/antidepressiva-depressionen/wide__822x462",
+      "image_title": "Antidepressiva: Wie gut helfen Medikamente gegen Depression?"
     },
     {
       "title": "Digital Services Act: EU einigt sich auf strengere Regeln für Internetkonzerne",
-      "teaser": "Ein Digitalgesetz soll Hass und Hetze im Internet beschränken. Große Plattformen müssen transparenter werden. Die EU-Kommission spricht von einem historischen Beschluss. 122 Kommentare",
+      "teaser": "Ein Digitalgesetz soll Hass und Hetze im Internet beschränken. Große Plattformen müssen transparenter werden. Die EU-Kommission spricht von einem historischen Beschluss. 126 Kommentare",
       "url": "https://www.zeit.de/digital/internet/2022-04/digital-services-act-eu-internetkonzerne",
       "image_url": "https://img.zeit.de/digital/internet/2022-04/digital-services-act-eu-einigung/cinema__980x420",
       "image_title": "Digital Services Act: EU einigt sich auf strengere Regeln für Internetkonzerne"
@@ -726,10 +733,17 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Business Englisch?"
     },
     {
+      "title": "Sexuelle Identität: Familienstand: divers",
+      "teaser": "Vor 16 Jahren bekam unsere Autorin eine Tochter. Heute bezeichnet sich ihr Kind als \"genderfluid\". Die Mutter will verstehen – und sorgt sich: Wird es glücklich werden?",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2022-04/sexuelle-identitaet-aufklaerung-geschlechter-diversitaet",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/sexuelle-identitaet-aufklaerung-diversitaet/cinema__980x420",
+      "image_title": "Sexuelle Identität: Familienstand: divers"
+    },
+    {
       "title": "Kochen mit Wein: Kochwein, der im Topf und im Glas schmeckt",
       "teaser": "Ein Kochwein, der nicht auch Trinkwein sein könnte, ist in Wahrheit kein Kochwein. Unser Weinkolumnist über günstige Flaschen und deren richtigen Einsatz in der Küche.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-04/kochen-wein-kochwein-trinken-wein-doch",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-04/kochen-wein-kochwein-trinken-wein-doch-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-04/kochen-wein-kochwein-trinken-wein-doch-teaser/wide__822x462",
       "image_title": "Kochen mit Wein: Kochwein, der im Topf und im Glas schmeckt"
     },
     {
@@ -745,13 +759,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2022-04/putzen-tricks-fruehjahrsputz-haushalt",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/putzen-tricks-fruehjahrsputz-haushalt-bild/wide__822x462",
       "image_title": "Putzen: Sauberer wird's nicht"
-    },
-    {
-      "title": "Alison Roman: Was die Köchin der berühmtesten Internetrezepte wirklich isst",
-      "teaser": "Von Pommes und Martinis über Wolfsbarsch und Lammschulter bis zu Caesar Salad in verschiedenen Aggregatzuständen: eine Woche mit der New Yorker Starköchin Alison Roman",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022/02/alison-roman-koechin-ernaehrung-essen-alltag",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022/02/alison-roman-teaser/wide__822x462",
-      "image_title": "Alison Roman: Was die Köchin der berühmtesten Internetrezepte wirklich isst"
     },
     {
       "title": "WOCHENMARKT GEWINNSPIEL",
@@ -776,11 +783,11 @@
       "image_title": "Julia Wadhawan: \"Sag mir nicht, wer ich bin\""
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Die Linke : \"Ich kenne keine Genossin, die noch nie sexistisch angegangen wurde\"",
@@ -853,10 +860,17 @@
       "image_title": "Pedram Emami: \"Schlimm ist, wenn man Fehler erkennt und trotzdem nicht umsteuert\""
     },
     {
+      "title": "Der Personal Trainer: Die Kniebeuge",
+      "teaser": "Kann doch jeder? Die Kniebeuge sieht einfach aus, man kann aber viel falsch machen. Besonders auf Knie und Rücken sollte man achten, sagt unser Personal Trainer.",
+      "url": "https://www.zeit.de/sport/2022-04/fitnessuebung-kniebeuge-personal-trainer",
+      "image_url": "https://img.zeit.de/wochenende/2022-03/fitnessuebung-kniebeuge-personal-trainer-aufmacher2/cinema__980x420",
+      "image_title": "Der Personal Trainer: Die Kniebeuge"
+    },
+    {
       "title": "Bundesliga, 31. Spieltag: Mainz unterliegt Wolfsburg 0:5",
       "teaser": "In nur einer Halbzeit kassieren die Mainzer fünf Tore. Max Kruse steuert für die Wölfe einen Hattrick bei. Der Klassenerhalt des VfL ist wohl gesichert. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2022-04/bundesliga-31-spieltag-spielberichte",
-      "image_url": "https://img.zeit.de/sport/2022-04/bundesliga-31-spieltag-wolfsburg-mainz/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2022-04/bundesliga-31-spieltag-wolfsburg-mainz/wide__822x462",
       "image_title": "Bundesliga, 31. Spieltag: Mainz unterliegt Wolfsburg 0:5"
     },
     {
@@ -865,13 +879,6 @@
       "url": "https://www.zeit.de/sport/2022-04/wimbledon-tennis-russland-ausladung",
       "image_url": "https://img.zeit.de/sport/2022-04/wimbledon-2021-2/wide__822x462",
       "image_title": "Wimbledon: Die große Ausladung"
-    },
-    {
-      "title": "Fußball-Bundesliga: Das Jahrzehnt des FC Bayern",
-      "teaser": "Am Samstag kann der FC Bayern zum zehnten Mal in Folge Deutscher Meister werden. Unsere Langzeittabelle zeigt, wie dominant er in dieser Zeit war. Bereit zum Scrollen?",
-      "url": "https://www.zeit.de/sport/2022-04/fussball-bundesliga-fc-bayern-muenchen-zehnte-meisterschaft",
-      "image_url": "https://img.zeit.de/sport/2022-04/fc-bayern-2/wide__822x462",
-      "image_title": "Fußball-Bundesliga: Das Jahrzehnt des FC Bayern"
     },
     {
       "title": "Neues Spiel: Wortiger",
@@ -895,36 +902,36 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
-      "title": "Corona-Hotspot: Nach gekippter Regel: Shoppen ohne Maske nur zögerlich",
-      "url": "https://www.zeit.de/news/2022-04/23/nach-gekippter-regel-shoppen-ohne-maske-nur-zoegerlich"
+      "title": "Verleihung: Deutsch-polnischer Literaturpreis an Bator und Mora",
+      "url": "https://www.zeit.de/news/2022-04/23/deutsch-polnischer-literaturpreis-an-bator-und-mora"
     },
     {
-      "title": "Führungskrise: Linke-Chefin Wissler will Sexismus-Vorwürfe aufklären",
-      "url": "https://www.zeit.de/news/2022-04/23/linke-chefin-wissler-will-sexismus-vorwuerfe-aufklaeren"
+      "title": "Berlin: Einschränkungen bei der Bahn durch Feuer",
+      "url": "https://www.zeit.de/news/2022-04/23/einschraenkungen-bei-der-bahn-durch-feuer"
     },
     {
-      "title": "Unfall: Autofahrer stirbt nach Kollision mit Baum",
-      "url": "https://www.zeit.de/news/2022-04/23/autofahrer-stirbt-nach-kollision-mit-baum"
+      "title": "Abi-Prüfungen: Ermittlungsverfahren nach Feier zu letztem Schultag",
+      "url": "https://www.zeit.de/news/2022-04/23/ermittlungsverfahren-nach-feier-zu-letztem-schultag"
     },
     {
-      "title": "Verkehr: Taxi-Fahrt vom BER nach Berlin wird teurer",
-      "url": "https://www.zeit.de/news/2022-04/23/taxi-fahrt-vom-ber-nach-berlin-wird-teurer"
+      "title": "Weltrekord: 162,5 Kilogramm «Leipziger Lerche»",
+      "url": "https://www.zeit.de/news/2022-04/23/162-5-kilogramm-leipziger-lerche"
     },
     {
-      "title": "Mannheim: Zahlreiche E-Scooter-Fahrer unter Drogeneinfluss erwischt",
-      "url": "https://www.zeit.de/news/2022-04/23/zahlreiche-e-scooter-fahrer-unter-drogeneinfluss-erwischt"
+      "title": "Kunstbiennale: Venedig ehrt schwarze Künstlerinnen - Preis für Fritsch",
+      "url": "https://www.zeit.de/news/2022-04/23/venedig-ehrt-schwarze-kuenstlerinnen-preis-fuer-fritsch"
     },
     {
-      "title": "Deutscher Wetterdienst: Wechselhaftes Wetter in Deutschland mit wenig Sonne",
-      "url": "https://www.zeit.de/news/2022-04/23/wechselhaftes-wetter-in-deutschland-mit-wenig-sonne"
+      "title": "Fulda: Arbeiter stürzt bei Brückenbauarbeiten ab: Schwer verletzt",
+      "url": "https://www.zeit.de/news/2022-04/23/arbeiter-stuerzt-bei-brueckenbauarbeiten-ab-schwer-verletzt"
     },
     {
-      "title": "Gedenkstätten: Gedenken an Befreiung von KZ-Außenlager Schlieben-Berga",
-      "url": "https://www.zeit.de/news/2022-04/23/gedenken-an-befreiung-von-kz-aussenlager-schlieben-berga"
+      "title": "Ortenaukreis: 78-Jähriger stirbt nach Autounfall: Medizinischer Notfall",
+      "url": "https://www.zeit.de/news/2022-04/23/78-jaehriger-stirbt-nach-autounfall-medizinischer-notfall"
     },
     {
-      "title": "Bundesliga: Svensson zu 0:5-Klatsche: Weit weg von «Bundesliga-Niveau»",
-      "url": "https://www.zeit.de/news/2022-04/23/svensson-zu-0-5-klatsche-weit-weg-von-bundesliga-niveau"
+      "title": "Parteitag: Lindner stellt sich in Ukraine-Politik hinter Scholz",
+      "url": "https://www.zeit.de/news/2022-04/23/lindner-stellt-sich-in-ukraine-politik-hinter-scholz"
     }
   ]
 }
