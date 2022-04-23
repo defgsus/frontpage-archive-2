@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-23T16:29:29",
+  "timestamp": "2022-04-23T17:21:27",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
@@ -80,14 +80,9 @@
   ],
   "articles": [
     {
-      "title": "Brutaler Gold-Raub in Hagen (NRW) : Darum überfiel dieses Ehepaar einen Juwelier",
-      "url": "https://www.bild.de/news/inland/news-inland/gold-raub-in-hagen-darum-ueberfielen-diese-eltern-einen-juwelier-79849142.bild.html",
-      "image_title": "Gold-Raub in Hagen: Darum überfielen diese Eltern einen Juwelier!"
-    },
-    {
-      "title": "Unglück in Leverkusen : Auto rast in Mutter mit zwei Kindern",
+      "title": "Junge (8) lebensgefährlich verletzt : Suff-Fahrer rast in Frau und zwei Kinder",
       "url": "https://www.bild.de/regional/koeln/news-ausland/mehrere-verletzte-auto-rast-in-menschenmenge-in-leverkusen-79858624.bild.html",
-      "image_title": "Leverkusen (NRW): Auto rast in Mutter und ihre zwei Kinder!"
+      "image_title": "Leverkusen (NRW): Auto rast in Frau und zwei Kinder!"
     },
     {
       "title": "Recycling : Schwestern machen aus Schrott Millionen",
@@ -98,6 +93,11 @@
       "title": "Aus Ukraine geflüchtet : Spurlos in Berlin verschwunden! Alina, wo bist du?",
       "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-ukrainerin-wird-vermisst-alina-wo-bist-du-79852658.bild.html",
       "image_title": "Berlin: Ukrainerin wird vermisst! Alina, wo bist du?"
+    },
+    {
+      "title": "Polizei-Fahndung in NRW : Hier geht ein Pärchen mit Baby einKLAUfen",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/essen-paerchen-mit-baby-soll-handy-gestohlen-haben-79852140.bild.html",
+      "image_title": "Essen: Pärchen mit Baby soll Handy gestohlen haben – Polizei-Fahndung!"
     },
     {
       "title": "Mordkommission ermittelt : Senior (86) tot in Berliner Wohnung gefunden",
@@ -185,7 +185,13 @@
       "image_title": "Wahlkampf: CDU greift drei Wochen vor Landtagswahl die SPD scharf an"
     },
     {
+      "title": "Um Sprit zu sparen : Autofahrer (55) fährt absichtlich in Gegenverkehr",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/um-sprit-zu-sparen-autofahrer-55-faehrt-absichtlich-in-gegenverkehr-79860042.bild.html",
+      "image_title": "Um Sprit zu sparen: Autofahrer (55) fährt absichtlich in Gegenverkehr"
+    },
+    {
       "title": "Tierisch komisch : Bienen-Schwarm macht auf Auto Pause",
+      "teaser": "Mit Hilfe eines Imkers konnten die Tiere schließlich auf sicheres Terrain gebracht werden.",
       "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/tierisch-komisch-bienen-schwarm-macht-auf-auto-pause-79859774.bild.html",
       "image_title": "Tierisch komisch: Bienen-Schwarm macht auf Auto Pause"
     },
@@ -194,12 +200,6 @@
       "teaser": "Die Korruptions-Affäre um die Frankfurter Generalstaatsanwaltschaft weitet sich aus.",
       "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/korruptions-affaere-um-badle-ermittlungen-gegen-dritten-staatsanwalt-79859046.bild.html",
       "image_title": "Korruptions-Affäre um Badle: Ermittlungen gegen dritten Staatsanwalt"
-    },
-    {
-      "title": "Zum dritten Mal in sieben Wochen : Chaoten werfen Einkaufswagen von Hochhäusern",
-      "teaser": "Wie durch ein Wunder wurde bisher niemand verletzt. Doch die Anwohner sind stinksauer.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/aus-fast-50-metern-hoehe-chaoten-werfen-einkaufswagen-von-hochhaeusern-79851722.bild.html",
-      "image_title": "Aus fast 50 Metern Höhe: Chaoten werfen Einkaufswagen von Hochhäusern"
     },
     {
       "title": "Im tückischen mühlenberger Loch : Versegelt & gestrandet!",
@@ -321,7 +321,13 @@
       "image_title": "Die ersten Arbeiten laufen schon: Fußgängerzone wird ausgedehnt"
     },
     {
-      "title": "Ein Fuchs verletzte den Hund schwer : Gelähmter „Eddy“ kommt wieder auf die Beinchen",
+      "title": "Brutaler Gold-Raub in Hagen (NRW) : Darum überfiel dieses Ehepaar einen Juwelier",
+      "url": "https://www.bild.de/news/inland/news-inland/gold-raub-in-hagen-darum-ueberfielen-diese-eltern-einen-juwelier-79849142.bild.html",
+      "image_title": "Gold-Raub in Hagen: Darum überfielen diese Eltern einen Juwelier!"
+    },
+    {
+      "title": "Fuchs griff Hund an : Gelähmter „Eddy“ kommt wieder auf die Beinchen",
+      "teaser": "Dass der von einem Fuchs attackierte Hund „Eddy“ schon wieder läuft, grenzt an ein Wunder!",
       "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-fuchs-verletzte-hund-gelaehmter-chihuahua-eddy-macht-reha-79857796.bild.html",
       "image_title": "Dortmund – Fuchs verletzte Hund: Gelähmter Chihuahua „Eddy“ macht Reha"
     },
@@ -330,12 +336,6 @@
       "teaser": "Kaya Lichtleitner (15) aus Essen ist der Star der in Frankfurt laufenden Pokémon-EM.",
       "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/pokmon-em-in-frankfurt-kaya-15-aus-essen-trumpft-gross-auf-79858246.bild.html",
       "image_title": "Pokémon-EM in Frankfurt: Kaya (15) aus Essen trumpft groß auf"
-    },
-    {
-      "title": "Polizei-Fahndung in NRW : Hier geht ein Pärchen mit Baby einKLAUfen",
-      "teaser": "Mit Baby auf dem Arm soll ein Pärchen in Essen ein Handy gestohlen haben. Fahndung!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/essen-paerchen-mit-baby-soll-handy-gestohlen-haben-79852140.bild.html",
-      "image_title": "Essen: Pärchen mit Baby soll Handy gestohlen haben – Polizei-Fahndung!"
     },
     {
       "title": "So aktuell wie nie : „Ein bisschen Frieden“ von Nicole wird 40",
