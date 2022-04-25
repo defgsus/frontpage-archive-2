@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-25T08:28:12",
+  "timestamp": "2022-04-25T09:21:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Cognos Analytics",
+      "url": "https://www.heise.de/news/IBM-schliesst-kritische-Sicherheitsluecken-in-Cognos-Analytics-7063645.html"
+    },
+    {
       "title": "Atlassian Jira",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-Jira-Angreifer-koennten-Authentifizierung-umgehen-7063649.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html"
     },
     {
-      "title": "Amazon AWS Log4j",
-      "url": "https://www.heise.de/news/Amazon-Web-Services-Patch-gegen-Log4j-reisst-neue-Sicherheitsloecher-auf-7060677.html"
+      "title": "IBM schließt kritische Sicherheitslücken in Cognos Analytics",
+      "teaser": "In der Business-Intelligence-Software IBM Cognos Analytics könnten Angreifer unter anderem Schadcode einschleusen. Aktualisierte Software behebt die Probleme.",
+      "url": "https://www.heise.de/news/IBM-schliesst-kritische-Sicherheitsluecken-in-Cognos-Analytics-7063645.html",
+      "image_title": "Aufmacher IBM Cognos Analytics-Updates schließen kritische Sicherheitslücken"
     },
     {
       "title": "Tracking-Demo: Anomaly Six soll NSA- und CIA-Agenten ausspioniert haben",
@@ -65,14 +71,14 @@
       "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
     },
     {
-      "title": "Kritische Lücken in XML Parser Expat gefährden IBM Db2",
-      "teaser": "Updates sichern die Datenbank-Software Db2 von IBM ab. Angreifer könnten Systeme mit Schadcode attackieren.",
-      "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
-    },
-    {
       "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
       "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
+      "title": "Kritische Lücken in XML Parser Expat gefährden IBM Db2",
+      "teaser": "Updates sichern die Datenbank-Software Db2 von IBM ab. Angreifer könnten Systeme mit Schadcode attackieren.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
     },
     {
       "title": "Virenscan-Dienste: Vertrauliche Nutzer-Dokumente öffentlich abrufbar",
@@ -153,11 +159,6 @@
       "teaser": "Wie plant man gezielt die Umsetzung der Vorgaben des IT-Sicherheitsgesetz des BSI? Starthilfe für KRITIS-Betreiber an zwei Tagen. Rabatt bis 5.5.",
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Anforderungen-fuer-den-KRITIS-Betrieb-umsetzen-6669510.html",
       "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
-    },
-    {
-      "title": "Lenovo System Update könnte Schadcode auf Computer lassen",
-      "teaser": "Lenovo hat Sicherheitslücken in einer Anwendung und verschiedenen BIOS-Versionen geschlossen und Hintertüren entfernt.",
-      "url": "https://www.heise.de/news/Lenovo-System-Update-koennte-Schadcode-auf-Computer-lassen-6740544.html"
     },
     {
       "title": "heise Security Tour 2022",
