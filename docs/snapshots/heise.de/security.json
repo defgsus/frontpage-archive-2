@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-25T13:34:50",
+  "timestamp": "2022-04-25T14:20:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap NAS",
+      "url": "https://www.heise.de/news/Netzwerkspeicher-Apple-Protokolle-reissen-Sicherheitsluecken-in-Qnap-NAS-7064336.html"
+    },
+    {
       "title": "IBM Cognos Analytics",
       "url": "https://www.heise.de/news/IBM-schliesst-kritische-Sicherheitsluecken-in-Cognos-Analytics-7063645.html"
     },
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html"
+      "title": "Netzwerkspeicher: Apple-Protokolle reißen Sicherheitslücken in Qnap-NAS",
+      "teaser": "Die Unterstützung von Apples Netzwerkprotokollen durch netatalk in Qnap-NAS-Systemen bringt teils kritische Sicherheitslücken mit. Erste Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Netzwerkspeicher-Apple-Protokolle-reissen-Sicherheitsluecken-in-Qnap-NAS-7064336.html",
+      "image_title": "Aufmacher kritische netatalk-Lücken in Qnap-NAS"
     },
     {
-      "title": "12 Millionen US-Dollar Förderung für Cyber-Abwehr",
+      "title": "Stromnetze: 12 Millionen US-Dollar für mehr Cyber-Sicherheit",
       "teaser": "Das US-amerikanische Energieministerium fördert Projekte an sechs US-Universitäten, die die Sicherheit kritischer Infrastruktur im Energiesektor verbessern.",
       "url": "https://www.heise.de/news/12-Millionen-US-Dollar-Foerderung-fuer-Cyber-Abwehr-7063897.html",
       "image_title": "Aufmacher 12 Mio US-$ Förderung Cybersecurity Energiesektor"
@@ -64,15 +70,15 @@
       "url": "https://www.heise.de/hintergrund/Einbruch-in-kritische-Infrastrukturen-Experten-zeigen-wie-einfach-es-ist-7062641.html"
     },
     {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
       "title": "IBM schließt kritische Sicherheitslücken in Cognos Analytics",
       "teaser": "In der Business-Intelligence-Software IBM Cognos Analytics könnten Angreifer unter anderem Schadcode einschleusen. Aktualisierte Software behebt die Probleme.",
       "url": "https://www.heise.de/news/IBM-schliesst-kritische-Sicherheitsluecken-in-Cognos-Analytics-7063645.html",
       "image_title": "Aufmacher IBM Cognos Analytics-Updates schließen kritische Sicherheitslücken"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Tracking-Demo: Anomaly Six soll NSA- und CIA-Agenten ausspioniert haben",
@@ -152,12 +158,6 @@
       "title": "Oracle stellt 520 Sicherheitspatches für sein Software-Portfolio bereit",
       "teaser": "Admins von Oracle-Anwendungen sollten die verfügbaren Aktualisierungen installieren, um zum Teil kritische Sicherheitslücken zu schließen.",
       "url": "https://www.heise.de/news/Oracle-stellt-520-Sicherheitspatches-fuer-sein-Software-Portfolio-bereit-6746906.html"
-    },
-    {
-      "title": "iX-Workshop: Unternehmensanwendungen sicher in der Public Cloud betreiben",
-      "teaser": "Cloud-Dienste wie Microsoft Azure sicher und möglichst datenschutzkonform einsetzen: Zweitagesworkshop Anfang Juni, mit 10 Prozent Frühbucherrabatt bis 5.5.",
-      "url": "https://www.heise.de/news/iX-Workshop-Unternehmensanwendungen-sicher-in-der-Public-Cloud-betreiben-6671043.html",
-      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
       "title": "heise Security Tour 2022",
