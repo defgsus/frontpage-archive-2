@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-25T07:21:12",
+  "timestamp": "2022-04-25T08:28:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Jira",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-Jira-Angreifer-koennten-Authentifizierung-umgehen-7063649.html"
+    },
+    {
       "title": "IBM Db2",
       "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
     },
@@ -44,19 +48,15 @@
       "url": "https://www.heise.de/news/Amazon-Web-Services-Patch-gegen-Log4j-reisst-neue-Sicherheitsloecher-auf-7060677.html"
     },
     {
-      "title": "Digitale Signaturen in JDK",
-      "url": "https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.html"
-    },
-    {
-      "title": "iX-Workshop: Windows 10 im Unternehmen absichern",
-      "teaser": "Lernen Sie mit vielen Beispielen aus der Praxis wie Sie Windows 10 Pro und Enterprise in Ihrem Unternehmen sicher betreiben. Bis zum 11. Mai mit 10% Rabatt.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-10-im-Unternehmen-absichern-6739133.html",
-      "image_title": "Online-Workshop: Windows 10 im Unternehmen absichern"
-    },
-    {
       "title": "Tracking-Demo: Anomaly Six soll NSA- und CIA-Agenten ausspioniert haben",
       "teaser": "Die Überwachungsfirma A6 behauptet, Milliarden von Mobiltelefonen weltweit tracken zu können. Darunter seien auch Geräte der wichtigsten US-Geheimdienste.",
       "url": "https://www.heise.de/news/Tracking-Demo-Anomaly-Six-soll-NSA-und-CIA-Agenten-ausspioniert-haben-7063258.html"
+    },
+    {
+      "title": "ALHACK: Apples Audio-Codec ALAC macht Millionen Android-Geräte angreifbar",
+      "teaser": "Die Chiphersteller Qualcomm und MediaTek setzen in ihren Audio-Decodern angreifbaren Code ein, der Android-Geräte gefährdet. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/ALHACK-Apples-Audio-Codec-ALAC-macht-Millionen-Android-Geraete-angreifbar-7062324.html",
+      "image_title": "Aufmacher Android-Patchday"
     },
     {
       "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
@@ -73,6 +73,12 @@
       "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
       "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
+      "title": "Virenscan-Dienste: Vertrauliche Nutzer-Dokumente öffentlich abrufbar",
+      "teaser": "Arztberichte, Arbeitsverträge, Bewerbungen, Unfallgutachten – all das fanden wir auf Virenscan-Plattformen, arglos hochgeladen von Nutzern der Analysedienste.",
+      "url": "https://www.heise.de/hintergrund/Virenscan-Dienste-Vertrauliche-Nutzer-Dokumente-oeffentlich-abrufbar-6678047.html",
+      "image_title": "Virenscanner-Datenschleude"
     },
     {
       "title": "Statischer SSH-Schlüssel macht Cloudsicherheitssystem Cisco Umbrella zu schaffen",
@@ -152,11 +158,6 @@
       "title": "Lenovo System Update könnte Schadcode auf Computer lassen",
       "teaser": "Lenovo hat Sicherheitslücken in einer Anwendung und verschiedenen BIOS-Versionen geschlossen und Hintertüren entfernt.",
       "url": "https://www.heise.de/news/Lenovo-System-Update-koennte-Schadcode-auf-Computer-lassen-6740544.html"
-    },
-    {
-      "title": "Angreifer könnten sich als Admins an Cisco Wireless LAN Controller anmelden",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für unter anderem Cisco IOS XE, SD-WAN und WLC. Eine Lücke gilt als kritisch.",
-      "url": "https://www.heise.de/news/Angreifer-koennten-sich-als-Admins-an-Cisco-Wireless-LAN-Controller-anmelden-6737709.html"
     },
     {
       "title": "heise Security Tour 2022",
