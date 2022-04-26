@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-26T08:27:24",
+  "timestamp": "2022-04-26T09:21:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,15 +42,42 @@
       "url": "https://www.heise.de/news/Linux-Ubuntu-22-04-GNOME-42-Wayland-als-Standard-und-Snap-Aerger-im-LTS-Release-7060442.html"
     },
     {
+      "title": "Zwei Dell-Monitore mit Full-HD- und 4K-Auflösung im Test",
+      "teaser": "Die Dell-Monitore C2723H und der U2723QE unterscheiden sich in Pixelanzahl und eingebauter Webcam. Wir haben getestet, welches Display für wen infrage kommt.",
+      "url": "https://www.heise.de/tests/Zwei-Dell-Monitore-mit-Full-HD-und-4K-Aufloesung-im-Test-7064080.html"
+    },
+    {
       "title": "Im Test: Azure VMware Service für hybride Clouds",
       "teaser": "Ein direkter Umzug von VM-Workloads in die Cloud ist aufwendig. Doch alle großen Cloud-Provider bieten Unterstützung auf Grundlage von VMwares Cloud Foundation.",
       "url": "https://www.heise.de/tests/Im-Test-Azure-VMware-Service-fuer-hybride-Clouds-7062735.html"
     },
     {
-      "title": "Homomorphe Verschlüsselung: Interview mit Kryptografie-Forscher Kim Laine",
-      "teaser": "Berechnungen mit verschlüsselten Daten scheint der Heilige Gral des Datenschutzes beim (Cloud-)Computing. Uns interessieren aktuelle Fortschritte und Probleme.",
-      "url": "https://www.heise.de/hintergrund/Homomorphe-Verschluesselung-Interview-mit-Kryptografie-Forscher-Kim-Laine-7062611.html",
-      "image_title": ","
+      "title": "Google übergibt Istio an die Cloud Native Computing Foundation",
+      "teaser": "Das Service Mesh Istio schlüpft als eines der letzten großen von Google initiierten Container-Projekte unter den Schirm der CNCF.",
+      "url": "https://www.heise.de/news/Google-uebergibt-Istio-an-die-Cloud-Native-Computing-Foundation-7064804.html"
+    },
+    {
+      "title": "Virustotal: Einbrecher führen eigenen Code auf Googles Servern aus",
+      "teaser": "Bei seinem Scan-Dienst Virustotal hat Google eine veraltete exiftool-Version eingesetzt. Eine Sicherheitslücke ermöglichte Forschern den Einbruch in den Dienst.",
+      "url": "https://www.heise.de/news/Einbrecher-fuehren-eigenen-Code-auf-Googles-Virustotal-Servern-aus-7065048.html",
+      "image_title": "Aufmacher Virustotal-Einbruch"
+    },
+    {
+      "title": "Googles öffnet YouTube-CDN für andere Anbieter",
+      "teaser": "Dass das Google-Netz Videos streamen kann, zeigt YouTube jeden Tag. Dahinter steht ein leistungsfähiges Content Delivery Network.",
+      "url": "https://www.heise.de/news/Googles-oeffnet-YouTube-CDN-fuer-andere-Anbieter-7064809.html"
+    },
+    {
+      "title": "Emmy für Web Fonts: Buchstäblich große Freude im World Wide Web Consortium",
+      "teaser": "Web-Schriftarten ermöglichen es Webdesignern, die Darstellung von Text präzise vorzugeben. Bis zur Umsetzung war es allerdings ein weiter Weg.",
+      "url": "https://www.heise.de/news/Emmy-fuer-Web-Fonts-Buchstaeblich-grosse-Freude-im-World-Wide-Web-Consortium-7065016.html",
+      "image_title": "Ein Notebook, auf dem der Schriftzug Fonts angezeigt wird"
+    },
+    {
+      "title": "Sicherheitslücken-Suche: DHS verbucht Bug-Bounty-Programm als vollen Erfolg",
+      "teaser": "Sicherheitsexperten haben im Rahmen eines Bug-Bounty-Programms Schwachstellen in Systemen des US-amerikanischen Department of Homeland Security aufgespürt.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Suche-DHS-verbucht-Bug-Bounty-Programm-als-vollen-Erfolg-7064821.html",
+      "image_title": "Aufmacher BugBounty HackDHS beendet"
     },
     {
       "title": "Nitrowall: Open-Source-Sicherheit out of the box",
@@ -86,6 +113,12 @@
       "image_title": "Ferris Talk – Neuigkeiten zu Rust. Eine Heise-Kolumne von Rainer Stropek und Stefan Baumgartner für Rustaceans"
     },
     {
+      "title": "Homomorphe Verschlüsselung: Interview mit Kryptografie-Forscher Kim Laine",
+      "teaser": "Berechnungen mit verschlüsselten Daten scheint der Heilige Gral des Datenschutzes beim (Cloud-)Computing. Uns interessieren aktuelle Fortschritte und Probleme.",
+      "url": "https://www.heise.de/hintergrund/Homomorphe-Verschluesselung-Interview-mit-Kryptografie-Forscher-Kim-Laine-7062611.html",
+      "image_title": ","
+    },
+    {
       "title": "Telefonieren per WLAN",
       "teaser": "Obwohl ich im Menü meines Smartphones Voice over WiFi aktiviert habe, laufen eingehende Anrufe weiterhin auf die Mailbox. Habe ich etwas übersehen?",
       "url": "https://www.heise.de/ratgeber/Telefonieren-per-WLAN-7060802.html"
@@ -101,37 +134,6 @@
       "teaser": "Zum Wegwerfen zu gut, zum Verkaufen zu alt: Holen Sie Ihr vergessenes Schätzchen aus der Schublade und hauchen Sie ihm mit unseren Tipps neues Leben ein.",
       "url": "https://www.heise.de/ratgeber/Zeit-fuers-Entstauben-Neue-Aufgaben-fuer-alte-iPhones-und-iPads-7064302.html",
       "image_title": ","
-    },
-    {
-      "title": "Twitter bezahlt Content Creators jetzt auch mit Kryptowährung",
-      "teaser": "Content Creators können sich auf Twitter in dem Stablecoin USDC für ihre kostenpflichtigen Twitter Spaces und Super-Follows-Abos auszahlen lassen.",
-      "url": "https://www.heise.de/news/Twitter-bezahlt-Content-Creators-auch-mit-Kryptowaehrung-7064530.html"
-    },
-    {
-      "title": "Kurz informiert: DSA, Twitter-Übernahme, Digitale Zeiterfassung, ISS-Mission",
-      "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
-      "url": "https://www.heise.de/news/Kurz-informiert-DSA-Twitter-Uebernahme-Digitale-Zeiterfassung-ISS-Mission-7063636.html"
-    },
-    {
-      "title": "\"AI Trust Label\": VDE legt Standardentwurf für vertrauenswürdige KI vor",
-      "teaser": "Der Nachweis, dass KI-Systeme vorgegebene Werte einhalten, gilt als globale Herausforderung. Ein Technikverband arbeitet mit Partnern an einer Lösung.",
-      "url": "https://www.heise.de/news/AI-Trust-Label-VDE-legt-Standardentwurf-fuer-vertrauenswuerdige-KI-vor-7064416.html"
-    },
-    {
-      "title": "GitLab 14.10 zeigt Compliance-Verstöße einzelner Merge Requests an",
-      "teaser": "Über 25 Neuerungen haben es in das Release geschafft, darunter ein GitLab Runner Operator für Kubernetes und detailliertere Compliance-Berichte.",
-      "url": "https://www.heise.de/news/GitLab-14-10-zeigt-Compliance-Verstoesse-einzelner-Merge-Requests-an-7064287.html"
-    },
-    {
-      "title": "Netzwerkspeicher: Apple-Protokolle reißen Sicherheitslücken in Qnap-NAS",
-      "teaser": "Die Unterstützung von Apples Netzwerkprotokollen durch netatalk in Qnap-NAS-Systemen bringt teils kritische Sicherheitslücken mit. Erste Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Netzwerkspeicher-Apple-Protokolle-reissen-Sicherheitsluecken-in-Qnap-NAS-7064336.html",
-      "image_title": "Aufmacher kritische netatalk-Lücken in Qnap-NAS"
-    },
-    {
-      "title": "Datenschutzbeauftragter will Microsoft 365 aus Schulen verbannen",
-      "teaser": "Baden-Württembergs Datenschutzbeauftragter fordert: Schulen sollen Microsoft 365 nach dem Sommer nicht mehr oder nur noch datenschutzkonform nutzen.",
-      "url": "https://www.heise.de/news/Datenschutzbeauftragter-will-Microsoft-365-aus-Schulen-verbannen-7064231.html"
     },
     {
       "title": "Trendstudie",
