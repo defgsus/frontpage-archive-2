@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-27T07:21:21",
+  "timestamp": "2022-04-27T08:26:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Log4Shell",
+      "url": "https://www.heise.de/news/Lagebild-Gefahr-durch-kritische-Log4Shell-Luecke-ungebrochen-7066481.html"
+    },
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-101-schliesst-30-Sicherheitsluecken-7066457.html"
+    },
+    {
       "title": "Qnap NAS",
       "url": "https://www.heise.de/news/Netzwerkspeicher-Apple-Protokolle-reissen-Sicherheitsluecken-in-Qnap-NAS-7064336.html"
     },
@@ -40,12 +48,9 @@
       "url": "https://www.heise.de/news/IBM-schliesst-kritische-Sicherheitsluecken-in-Cognos-Analytics-7063645.html"
     },
     {
-      "title": "Atlassian Jira",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Atlassian-Jira-Angreifer-koennten-Authentifizierung-umgehen-7063649.html"
-    },
-    {
-      "title": "IBM Db2",
-      "url": "https://www.heise.de/news/Kritische-Luecken-in-XML-Parser-Expat-gefaehrden-IBM-Db2-7062152.html"
+      "title": "Lagebild: Gefahr durch kritische Log4Shell-Lücke ungebrochen",
+      "teaser": "Sicherheitsforscher stoßen auf zahlreiche Dienste, die noch ungepatchte Log4j-Bibliotheken einsetzen. Rund 40 Prozent der Downloads sind verwundbare Versionen.",
+      "url": "https://www.heise.de/news/Lagebild-Gefahr-durch-kritische-Log4Shell-Luecke-ungebrochen-7066481.html"
     },
     {
       "title": "Unibibliothek Leipzig meldet Sicherheitslücke",
@@ -54,10 +59,21 @@
       "image_title": "Lesesaal mit Glasdach"
     },
     {
+      "title": "Virustotal: Einbrecher führen eigenen Code auf Googles Servern aus",
+      "teaser": "Bei seinem Scan-Dienst Virustotal hat Google eine veraltete exiftool-Version eingesetzt. Eine Sicherheitslücke ermöglichte Forschern den Einbruch in den Dienst.",
+      "url": "https://www.heise.de/news/Einbrecher-fuehren-eigenen-Code-auf-Googles-Virustotal-Servern-aus-7065048.html",
+      "image_title": "Aufmacher Virustotal-Einbruch"
+    },
+    {
       "title": "Bug-Bounty-Programm des DHS zur Sicherheitslückensuche ist voller Erfolg",
       "teaser": "Sicherheitsexperten haben im Rahmen eines Bug-Bounty-Programms Schwachstellen in Systemen des US-amerikanischen Department of Homeland Security aufgespürt.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Suche-DHS-verbucht-Bug-Bounty-Programm-als-vollen-Erfolg-7064821.html",
       "image_title": "Aufmacher BugBounty HackDHS beendet"
+    },
+    {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Nitrowall: Open-Source-Sicherheit out of the box",
@@ -68,11 +84,6 @@
       "title": "Warum reiche Cyberkriminelle zunehmend Zero-Day-Hacks nutzen",
       "teaser": "Noch nicht geschlossene Lücken sind zum Angriff auf Rechner und Geräte ideal. Cyber-Gangs treiben die Preise in die Höhe – und booten sogar Regierungen aus.",
       "url": "https://www.heise.de/hintergrund/Warum-sich-reiche-Cyberkriminelle-zunehmend-Zero-Day-Hacks-bedienen-7062493.html"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Netzwerkspeicher: Apple-Protokolle reißen Sicherheitslücken in Qnap-NAS",
@@ -150,16 +161,6 @@
       "title": "Okta-Hack: Angreifer sollen lediglich zwei Kunden erwischt haben",
       "teaser": "Der Identitäts- und Zugriffsmanagement-Dienstleister Okta hat den finalen forensischen Bericht über einen Sicherheitsvorfall im Januar 2022 vorgelegt.",
       "url": "https://www.heise.de/news/Okta-Hack-Angreifer-sollen-lediglich-zwei-Kunden-erwischt-haben-7061225.html"
-    },
-    {
-      "title": "Finanzspritze soll Security der JavaScript-Runtime Node.js stärken",
-      "teaser": "Die Open Source Security Foundation wählt Node.js als erstes förderwürdiges Projekt im Rahmen der Alpha-Omega-Initiative aus und investiert 300.000 US-Dollar.",
-      "url": "https://www.heise.de/news/Finanzspritze-soll-Security-der-JavaScript-Runtime-Node-js-staerken-7060618.html"
-    },
-    {
-      "title": "Patch gegen Log4Shell für Amazon Web Services reißt neue Sicherheitslöcher auf",
-      "teaser": "Da das erste Log4j-Sicherheitsupdate für AWS fehlerhaft ist und neue Attacken ermöglicht, gibt es nun eine reparierte Version.",
-      "url": "https://www.heise.de/news/Amazon-Web-Services-Patch-gegen-Log4j-reisst-neue-Sicherheitsloecher-auf-7060677.html"
     },
     {
       "title": "heise Security Tour 2022",
