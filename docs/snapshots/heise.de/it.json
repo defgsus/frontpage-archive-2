@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-27T14:19:20",
+  "timestamp": "2022-04-27T15:24:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,20 @@
   ],
   "articles": [
     {
+      "title": "Ukraine-Krieg Mehrere Terabyte an gehackten Daten aus Russland auf Leakportal",
+      "teaser": "Das US-Portal DDoSecrets publiziert seit Jahren gehackte und geleakte Daten. Seit Beginn des Ukraine-Kriegs sind das bereits Millionen Dokumente aus Russland.",
+      "url": "https://www.heise.de/news/Ukraine-Krieg-Mehrere-Terabyte-an-gehackten-Daten-aus-Russland-auf-Leakportal-7064974.html"
+    },
+    {
+      "title": "Malware Emotet war kaputt, infiziert aber wieder Windows-Computer",
+      "teaser": "Die hoch entwickelte Schadsoftware Emotet baut nach einem Fehler seine Attacken weltweit weiter aus.",
+      "url": "https://www.heise.de/news/Emotet-war-kaputt-infiziert-jetzt-aber-wieder-vermehrt-Windows-Computer-7064903.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
       "title": "Silicon-Chips Apple testet M3-Macs",
       "teaser": "Neben einer ganzen Reihe von M2-Modellen arbeitet der Konzern bereits an der übernächsten Generation seiner Apple-Silicon-Chips für den Mac.",
       "url": "https://www.heise.de/news/Apple-testet-M3-Macs-7064817.html"
-    },
-    {
-      "title": "Tracking-Demo: Anomaly Six soll NSA- und CIA-Agenten ausspioniert haben",
-      "teaser": "Die Überwachungsfirma A6 behauptet, Milliarden von Mobiltelefonen weltweit tracken zu können. Darunter seien auch Geräte der wichtigsten US-Geheimdienste.",
-      "url": "https://www.heise.de/news/Tracking-Demo-Anomaly-Six-soll-NSA-und-CIA-Agenten-ausspioniert-haben-7063258.html"
-    },
-    {
-      "title": "OpenBSD 7.1 veröffentlicht: System läuft stabil auf Apple M1/Ultra-Hardware",
-      "teaser": "Die Portierung von OpenBSD 7.1 auf Apples moderne ARM-Hardware ist fast abgeschlossen, Hilfe kam vom Asahi-Linux-Projekt. Auch RISC-V erhielt Verbesserungen.",
-      "url": "https://www.heise.de/news/OpenBSD-7-1-veroeffentlicht-System-laeuft-stabil-auf-Apple-M1-Ultra-Hardware-7062581.html",
-      "image_title": "Das offizielle Bild zum OpenBSD 7.1-Release wurde von Luc Houweling gezeichnet und erinnert an die berühmte"
     },
     {
       "title": "Nachrichten filtern und aufbereiten: Sechs RSS-Reader im Vergleich",
@@ -52,6 +52,32 @@
       "teaser": "Die endlose Anzahl und durch Algorithmen gesteuerten News im Netz tun vielen Nutzern nicht gut. Mit unseren Tipps fördern Sie einen gesünderen News-Konsum.",
       "url": "https://www.heise.de/ratgeber/Gezielt-informieren-Tipps-fuer-einen-gesunden-Social-Media-News-Konsum-7061342.html",
       "image_title": ", Bild: Rudolf A. Blaha"
+    },
+    {
+      "title": "Microsoft findet root-Lücken in Linux",
+      "teaser": "Sicherheitslücken in Linux könnten Nutzer etwa zum Ausführen von Code als root missbrauchen. Microsoft hat die Schwachstellen entdeckt und nennt sie Nimbuspwn.",
+      "url": "https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html",
+      "image_title": "Aufmacher Linux-Lücke Nimbuspwn"
+    },
+    {
+      "title": "Apple Fotos: Keine Rückblicke mehr zu KZ-Gedenkstätten",
+      "teaser": "iOS soll eine Liste mit \"sensiblen Orten\" erhalten, um Fotos aus der Diashow-Funktion auszuklammern. Enthalten sind angeblich Holocaust-Mahnmale.",
+      "url": "https://www.heise.de/news/Apple-Fotos-Keine-Rueckblicke-mehr-zu-KZ-Gedenkstaetten-7067478.html"
+    },
+    {
+      "title": "GeForce RTX 4000: Gerüchte um Powerlimits von 600 bis 900 Watt",
+      "teaser": "Die kommende GeForce RTX 4090 soll bis zu 600 Watt aufnehmen. Überdies testet Nvidia offenbar aber auch weitere Grafikkarten mit bis zu 900 Watt.",
+      "url": "https://www.heise.de/news/GeForce-RTX-4000-Geruechte-um-Powerlimits-von-600-bis-900-Watt-7067435.html"
+    },
+    {
+      "title": "Knapp die Hälfte der Ransomware-Opfer zahlt Lösegeld",
+      "teaser": "Die Zahl der von Erpressungstrojanern angegriffenen Mittelständler weltweit steigt. Und viele von ihnen zahlen Lösegeld - oft in siebenstelliger Höhe.",
+      "url": "https://www.heise.de/news/Knapp-die-Haelfte-der-Ransomware-Opfer-zahlt-Loesegeld-7067219.html"
+    },
+    {
+      "title": "Schadcode könnte Nvidias Embedded-System Jetson gefährlich werden",
+      "teaser": "Sicherheitsupdates schließen Lücken in verschiedenen Jetson-Systemen von Nvidia.",
+      "url": "https://www.heise.de/news/Schadcode-koennte-Nvidias-Embedded-System-Jetson-gefaehrlich-werden-7067304.html"
     },
     {
       "title": "Leak: Facebook hat offenbar keine Kontrolle über Nutzerdaten",
@@ -107,33 +133,6 @@
       "teaser": "Eine als Package Planting bezeichnete Sicherheitslücke im Paketmanager npm erlaubte laut Aquasec, die Vertrauenswürdigkeit bekannter Maintainer zu missbrauchen.",
       "url": "https://www.heise.de/news/Npm-Schwachstelle-Vertrauen-ist-gut-Kontrolle-ist-besser-7066873.html",
       "image_title": "Npm-Schwachstelle: Vertrauen ist gut, Kontrolle ist besser"
-    },
-    {
-      "title": "Notebook-Arbeitsspeicher: Dell will CAMM-RAM zum Industriestandard machen",
-      "teaser": "Die ersten Dell-Notebooks ersetzen die gängigen SO-DIMMs und verwenden für den Arbeitsspeicher selbstentworfene Module. Andere Hersteller sollen folgen.",
-      "url": "https://www.heise.de/news/Industriestandard-statt-prioprietaer-Dell-will-CAMM-RAM-bei-allen-Herstellern-7066860.html"
-    },
-    {
-      "title": "Netzwerkwächter Little Snitch kommt besser mit Apples Private Relay zurecht",
-      "teaser": "Das Update 5.4 der Outbound-Firewall zeigt nun deutlicher an, wenn eine Verbindung über Apples Pseudo-VPN erfolgt – und liefert weitere Verbesserungen.",
-      "url": "https://www.heise.de/news/Netzwerkwaechter-Little-Snitch-kommt-besser-mit-Apples-Private-Relay-zurecht-7065651.html"
-    },
-    {
-      "title": "Android 13 Beta 1 grenzt App-Zugriffe auf Medieninhalte weiter ein",
-      "teaser": "Apps benötigen explizite Genehmigung für unterschiedliche Medientypen. Außerdem bringt die Beta detailliertere Fehlermeldungen für die Schlüsselverwaltung.",
-      "url": "https://www.heise.de/news/Android-13-Beta-1-grenzt-App-Zugriffe-auf-Medieninhalte-weiter-ein-7066379.html",
-      "image_title": "Ein grüner Android steht vor dem Google-Hauptquartier (Glasgebäude Hintergrund)"
-    },
-    {
-      "title": "Lagebild: Gefahr durch kritische Log4Shell-Lücke ungebrochen",
-      "teaser": "Sicherheitsforscher stoßen auf zahlreiche Dienste, die noch ungepatchte Log4j-Bibliotheken einsetzen. Rund 40 Prozent der Downloads sind verwundbare Versionen.",
-      "url": "https://www.heise.de/news/Lagebild-Gefahr-durch-kritische-Log4Shell-Luecke-ungebrochen-7066481.html"
-    },
-    {
-      "title": "iX-Workshop: IT-Recht für Admins – Grundlagen, Stolperfallen und Praxis",
-      "teaser": "Wie sieht ein rechtssicherer IT-Betrieb aus? Was dürfen Admins – und wozu sind sie aus rechtlicher Sicht sogar verpflichtet? Tagesworkshop, Rabatt bis 12.5.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Recht-fuer-Admins-Grundlagen-Stolperfallen-und-Praxis-7064524.html",
-      "image_title": "ix-Tagesworkshop Recht für Admins"
     },
     {
       "title": "Trendstudie",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-27T14:19:23",
+  "timestamp": "2022-04-27T15:24:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Linux networkd-dispatcher",
+      "url": "https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html"
+    },
+    {
+      "title": "Nvidia Jetson",
+      "url": "https://www.heise.de/news/Schadcode-koennte-Nvidias-Embedded-System-Jetson-gefaehrlich-werden-7067304.html"
+    },
+    {
       "title": "Log4Shell",
       "url": "https://www.heise.de/news/Lagebild-Gefahr-durch-kritische-Log4Shell-Luecke-ungebrochen-7066481.html"
     },
@@ -40,18 +48,31 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-101-schliesst-30-Sicherheitsluecken-7066457.html"
     },
     {
-      "title": "Qnap NAS",
-      "url": "https://www.heise.de/news/Netzwerkspeicher-Apple-Protokolle-reissen-Sicherheitsluecken-in-Qnap-NAS-7064336.html"
+      "title": "Microsoft findet root-Lücken in Linux",
+      "teaser": "Sicherheitslücken in Linux könnten Nutzer etwa zum Ausführen von Code als root missbrauchen. Microsoft hat die Schwachstellen entdeckt und nennt sie Nimbuspwn.",
+      "url": "https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html",
+      "image_title": "Aufmacher Linux-Lücke Nimbuspwn"
     },
     {
-      "title": "IBM Cognos Analytics",
-      "url": "https://www.heise.de/news/IBM-schliesst-kritische-Sicherheitsluecken-in-Cognos-Analytics-7063645.html"
+      "title": "Knapp die Hälfte der Ransomware-Opfer zahlt Lösegeld",
+      "teaser": "Die Zahl der von Erpressungstrojanern angegriffenen Mittelständler weltweit steigt. Und viele von ihnen zahlen Lösegeld - oft in siebenstelliger Höhe.",
+      "url": "https://www.heise.de/news/Knapp-die-Haelfte-der-Ransomware-Opfer-zahlt-Loesegeld-7067219.html"
+    },
+    {
+      "title": "Schadcode könnte Nvidias Embedded-System Jetson gefährlich werden",
+      "teaser": "Sicherheitsupdates schließen Lücken in verschiedenen Jetson-Systemen von Nvidia.",
+      "url": "https://www.heise.de/news/Schadcode-koennte-Nvidias-Embedded-System-Jetson-gefaehrlich-werden-7067304.html"
     },
     {
       "title": "Npm-Schwachstelle \"Package Planting\": Vertrauen ist gut, Kontrolle ist besser",
       "teaser": "Eine als Package Planting bezeichnete Sicherheitslücke im Paketmanager npm erlaubte laut Aquasec, die Vertrauenswürdigkeit bekannter Maintainer zu missbrauchen.",
       "url": "https://www.heise.de/news/Npm-Schwachstelle-Vertrauen-ist-gut-Kontrolle-ist-besser-7066873.html",
       "image_title": "Npm-Schwachstelle: Vertrauen ist gut, Kontrolle ist besser"
+    },
+    {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Netzwerkwächter Little Snitch kommt besser mit Apples Private Relay zurecht",
@@ -69,11 +90,6 @@
       "teaser": "70.000 Datensätze mit E-Mail-Adressen, Usernamen und Karteinummern sind in falsche Hände gelangt. Passwörter sollen nicht betroffen sein.",
       "url": "https://www.heise.de/meinung/Unibibliothek-Leipzig-meldet-Sicherheitsluecke-7066305.html",
       "image_title": "Lesesaal mit Glasdach"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "NFTs gestohlen: Phishing-Raubzug beim Bored Ape Yacht Club",
@@ -148,23 +164,6 @@
       "image_title": "Online-Workshop: Windows 10 im Unternehmen absichern"
     },
     {
-      "title": "Tracking-Demo: Anomaly Six soll NSA- und CIA-Agenten ausspioniert haben",
-      "teaser": "Die Überwachungsfirma A6 behauptet, Milliarden von Mobiltelefonen weltweit tracken zu können. Darunter seien auch Geräte der wichtigsten US-Geheimdienste.",
-      "url": "https://www.heise.de/news/Tracking-Demo-Anomaly-Six-soll-NSA-und-CIA-Agenten-ausspioniert-haben-7063258.html"
-    },
-    {
-      "title": "ALHACK: Apples Audio-Codec ALAC macht Millionen Android-Geräte angreifbar",
-      "teaser": "Die Chiphersteller Qualcomm und MediaTek setzen in ihren Audio-Decodern angreifbaren Code ein, der Android-Geräte gefährdet. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/ALHACK-Apples-Audio-Codec-ALAC-macht-Millionen-Android-Geraete-angreifbar-7062324.html",
-      "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
-      "teaser": "An zwei Tagen werden Sie auf die Prüfung und Zertifizierung Ihrer IT-Produkte nach deutschen und europäischen Standards wie CC, BSZ und NESAS vorbereitet.",
-      "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-6671212.html",
-      "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Die eintägige heise Security Tour liefert Security- und Datenschutzverantwortlichen den Überblick, das Hintergrundwissen und praktisch relevante Informationen, die eigene IT richtig abzusichern.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -188,6 +187,11 @@
       "image_title": "3d,Illustration,Of,Lock,Concept,Button,On,Keyboard,With,Soft"
     },
     {
+      "title": "Re: Festplatte kann nicht eingehangen werden",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Festplatte-kann-nicht-eingehangen-werden/posting-40913621/show/"
+    },
+    {
       "title": "Re: Updates für Desinfec't: Anleitung und Changelog",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Updates-fuer-Desinfec-t-Anleitung-und-Changelog/posting-40910137/show/"
@@ -196,11 +200,6 @@
       "title": "Social Engineering: Was kann man mit den erbeuteten Daten anfangen?",
       "teaser": "Forum: Security Consulter",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Security-Consulter/Social-Engineering-Was-kann-man-mit-den-erbeuteten-Daten-anfangen/posting-40906622/show/"
-    },
-    {
-      "title": "Re: Nvidia Lüfter aus -> Grafikkarte steigt aus",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Nvidia-Luefter-aus-Grafikkarte-steigt-aus/posting-40891939/show/"
     }
   ]
 }
