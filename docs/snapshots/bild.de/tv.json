@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-04-28T10:24:35",
+  "timestamp": "2022-04-28T11:18:15",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.4.1-cats-release--22.04/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e8783000.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.60504806.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.fce959c9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f4de713b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.ed02da41.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.11e4be99.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Die traurigste GNTM-Folge : Heidi: „Und ich heule sonst wegen gar nichts!“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-folge-mit-brigitte-nielsen-bei-nolla-und-lieselotte-fliessen-echte-traenen-79900978.bild.html",
-      "image_url": "https://images.bild.de/626939e141f8ce60f654636f/20af227dacbca55b72888da1d1b326fc/1/2?w=656",
-      "image_title": "GNTM-Folge mit Brigitte Nielsen: Bei Noëlla und Lieselotte fließen echte Tränen"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Regeln, Kandidaten: Alle Infos zur 3. Staffel!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-alle-infos-zur-dritten-staffel--kandidaten-regeln-highlights-79693132.bild.html",
-      "image_url": "https://images.bild.de/624da30829e37c79421fde33/0d0fe08b34e59796924dd7da14caee32-miniSquare/4/2?w=320",
-      "image_title": "„Kampf der Realitystars“: Alle Infos zur Show, Kandidaten und wer raus ist"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : „Richter Gnadenlos“ baggert an Nina Kristin",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-ronald-schill-baggert-an-nina-kristin-79904144.bild.html",
-      "image_url": "https://images.bild.de/626960605fa0b23f67c88b94/3da38b82ef408162bf4387d6cb73b8ff-miniSquare/1/2?w=320",
-      "image_title": "Kampf der Realitystars: Ronald Schill baggert an Nina Kristin"
-    },
-    {
-      "title": "Streaming Amazon : Die besten Filme & Serien auf Amazon",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-besten-filme-serien-streamen-79313592.bild.html",
-      "image_url": "https://images.bild.de/621e0180ea63d148ab030ceb/2fa5d589a0eae8d09f14916868a87b8f-miniSquare/1/3?w=320",
-      "image_title": "Amazon Prime: Die besten Filme & Serien streamen"
-    },
-    {
-      "title": "Catwalk im Studio : Joko und Klaas versuchen sich als Topmodels",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/joko-und-klaas-in-ihrer-show-versuchen-sie-sich-als-topmodels-79894860.bild.html",
-      "image_url": "https://images.bild.de/62686e5841f8ce60f654628a/f74aaef98194dd1ae96997f98d18d725-miniSquare/3/2?w=320",
-      "image_title": "Joko und Klaas: In ihrer Show versuchen sie sich als Topmodels"
-    },
-    {
-      "title": "Da ist sie! : Hanna ist die neue Princess Charming",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/da-ist-sie-hanna-ist-die-neue-princess-charming-2022-79849608.bild.html",
-      "image_title": "Da ist sie! Hanna ist die neue „Princess Charming“ 2022"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Das sagt Mike Cees zu den heftigen Vorwürfen",
-      "teaser": "Ist Reality-TV-Sternchen Mike Cees transphob? Was der 34-Jährige zu dem Vorwurf sagt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/kampf-der-realitystars-heftige-vorwuerfe-gegen-mike-cees-79785034.bild.html",
-      "image_title": "„Kampf der Realitystars“: Heftige Vorwürfe gegen Mike Cees"
-    },
-    {
-      "title": "„Sing meinen Song“ : Sängerin Elif trifft auf ihren Jugend-Schwarm",
-      "teaser": "„Sing meinen Song“ ging am Dienstagabend in die neunte Staffel – und sorgte für einen knisternden Abend.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sing-meinen-song-saengerin-elif-trifft-auf-jugend-schwarm-clueso-79892882.bild.html",
-      "image_title": "Sing meinen Song: Sängerin Elif trifft auf Jugend-Schwarm Clueso"
-    },
-    {
-      "title": "„Bauer sucht Frau“ : Womit Farmer Félix seine Hofdame vergraulte",
-      "teaser": "Der Auftakt von „Bauer sucht Frau – International“ wurde für Landwirt Félix zum glatten Fehlstart.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-international-womit-farmer-flix-seine-hofdame-vergraulte-79894364.bild.html",
-      "image_title": "Bauer sucht Frau – International: Womit Farmer Félix seine Hofdame vergraulte"
-    },
-    {
-      "title": "ARD statt GNTM : TV-Job für Heidis Transgender-Model",
-      "teaser": "Jetzt wird sie zur „Roten Rose“. Die ARD schnappt sich Ex-GNTM-Model Lucy Hellenbrecht.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/rote-rosen-gntm-kandidatin-lucy-hellenbrecht-steigt-als-hauptrolle-ein-79884846.bild.html",
-      "image_title": "„Rote Rosen“: GNTM-Kandidatin Lucy Hellenbrecht steigt als Hauptrolle ein"
-    },
-    {
-      "title": "RTL-Lady Maxi Biewer : Unter Segeln in den Ruhestand ...",
-      "teaser": "Aus 14 Tagen Urlaubsvertretung wurden 30 Jahre. Jetzt ist Schluss!",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/rtl-wetterfee-maxi-biewer-57-unter-segeln-in-den-ruhestand-79890636.bild.html",
-      "image_title": "RTL-Wetterfee Maxi Biewer (57): Unter Segeln in den Ruhestand ..."
-    },
-    {
-      "title": "Reality und Porno-Star : Das ist Melanie Müller im Porträt",
-      "teaser": "Laut, schrill, sächsisch und auf jeden Fall unangepasst – das ist Melanie Müller.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-2021-frueher-war-melanie-mueller-erotik-model-77342372.bild.html",
-      "image_title": "Der Reality Star im Porträt: Melanie Müller im BILD-Steckbrief"
-    },
-    {
-      "title": "Heute neue Staffel : Wen Clueso bittet: „Sing meinen Song!“",
-      "teaser": "Die neunte Staffel der Musikshow auf Vox startet mit Hits von Pop-Sänger Clueso.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sing-meinen-song-heute-staffelstart-mit-clueso-die-songs-alle-teilnehmer-79885566.bild.html",
-      "image_title": "„Sing meinen Song“: Heute Staffelstart mit Clueso – die Songs & alle Teilnehmer"
-    },
-    {
-      "title": "Im TV sah man es nicht : Süßes Geheimnis um „Höhle der Löwen“-Gründerinnen!",
-      "teaser": "Was man bei den „Xeem“-Gründerinnen Janine Weirich und Géraldine Ulrichs nicht im TV sah.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/die-hoehle-der-loewen-suesses-geheimnis-um-xeem-gruenderinnen-79884200.bild.html",
-      "image_title": "„Die Höhle der Löwen“: Süßes Geheimnis um „Xeem“-Gründerinnen!"
-    },
-    {
-      "title": "Ab dem 25. April : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-das-ozark-finale-diese-serien-und-filme-sind-neu-79812414.bild.html",
-      "image_title": "Netflix: das „Ozark“ Finale! – diese Serien und Filme sind neu"
-    },
-    {
-      "title": "Streaming Netflix : Die besten Filme & Serien auf Netflix",
-      "teaser": "Hier bei BILD finden Sie die besten Netflix Filme & Serien, die Sie gesehen haben müssen",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-besten-filme-und-serien-zum-streamen-79311744.bild.html",
-      "image_title": "Netflix: Die besten Filme und Serien zum streamen"
-    },
-    {
-      "title": "Gerner auf der Flucht : So krass wird das GZSZ-Jubiläum",
-      "teaser": "Blut, Schrammen im Gesicht, ein Ausdruck der Fassungslosigkeit: Jo Gerner auf der Flucht.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/leute/gzsz-jubilaeum-wird-krass-jo-gerner-auf-der-flucht-vor-seinem-schlimmsten-feind-79882542.bild.html",
-      "image_title": "GZSZ-Jubiläum wird krass: Jo Gerner auf der Flucht vor seinem schlimmsten Feind"
-    },
-    {
-      "title": "Ex-DFB-Star in der „Höhle der Löwen“ : Ballack landet Volltreffer mit Dünger",
-      "teaser": "Volltreffer! Fußball-Legende Michael Ballack (45) lief Montagabend bei „Die Höhle der Löwen“ als grüner Gründer auf und kämpfte um ...",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/ballack-in-der-hoehle-der-loewen-fussball-legende-verwandelt-duenger-deal-79880574.bild.html",
-      "image_title": "„Höhle der Löwen“! Wie es mit „Lucky Plant“ von Ballack nach dem Deal weiterging"
-    },
-    {
-      "title": "Nach Coming-out mit 45 : ARD-Cop traut sich als Drag Queen ins TV",
-      "teaser": "Im TV mimt Schauspieler Tom Keune stets den harten Hund – eigentlich!",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/koeln-ard-cop-tom-keune-traut-sich-in-all-you-need-als-drag-queen-ins-tv-79874700.bild.html",
-      "image_title": "Köln: ARD-Cop Tom Keune traut sich in „All you need“ als Drag Queen ins TV"
-    },
-    {
-      "title": "„Bauer sucht Frau – International“ : Darum wartete Kaffee-Bauer Félix vergeblich auf seine Damen",
-      "teaser": "Bei „Bauer sucht Frau – International“ wartete Landwirt Félix vergebens auf seine Hofdamen.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-international-flix-wartete-auf-seine-hofdamen-79882326.bild.html",
-      "image_title": "„Bauer sucht Frau – International“: Félix wartete auf seine Hofdamen"
-    },
-    {
-      "title": "„The Masked Singer“ : Die Enthüllung der Discokugel",
-      "teaser": "Sie ist klein und rund und kann sehr gut singen. Wer ist die Discokugel?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-discokugel-alle-hinweise-tipps-und-wer-dahinter-steckte-79523248.bild.html",
-      "image_title": "„The Masked Singer“ - Die Discokugel: Alle Hinweise, Auftritte und wer dahinter steckte"
-    },
-    {
-      "title": "Ex-DFB-Star in Gründer-Show : Mit diesem Produkt will Ballack bei den „Löwen“ landen",
-      "teaser": "Michael Ballack (45) outet sich bei „Die Höhle der Löwen“ als Hobby-Gärtner.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/einmal-rasen-immer-rasen-die-lieblingsblume-von-hobby-gaertner-michael-ballack-79876486.bild.html",
-      "image_title": "Ex-Nationalspieler in Gründer-Show: Mit diesem Produkt will Ballack bei den „Löwen“ landen"
-    },
-    {
-      "title": "TV-Bauer Patrick : Er hatte schon Sex mit der Freundin seines Bruders",
-      "teaser": "Es bleibt in der Familie: Patrick schockte mit ’nem Sex-Geständnis bei „Couple Challenge“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-patrick-sex-mit-der-freundin-seines-bruders-79874270.bild.html",
-      "image_title": "„Bauer sucht Frau“-Patrick: Sex mit der Freundin seines Bruders"
-    },
-    {
-      "title": "„The Masked Singer“ : Dieser Schauspieler steckt hinter dem Dornteufel",
-      "teaser": "Als Zweitplatzierter verlässt der Dornteufel die Bühne! Lesen Sie hier, wer dahinter steckte...",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-masked-singer-dornteufel-im-finale-alle-hinweise-indizien-und-auftritte-79386828.bild.html",
-      "image_title": "„The Masked Singer“ - Dornteufel: Alle Hinweise und wer hinter der Maske war"
-    },
-    {
-      "title": "Greta, nicht hinsehen! : Dieser Kuss lässt „Love Island“-Fans ausflippen",
-      "teaser": "Liebes-Outing im Blubberbad: „Love Island“-Fynn küsst nach Greta nun seine neue Freundin.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/love-island-liebling-greta-ex-freund-fynn-kuesst-jetzt-emilia-79875014.bild.html",
-      "image_title": "„Love Island“-Liebling Greta: Ex-Freund Fynn küsst jetzt Emilia"
-    },
-    {
-      "title": "Die Klum im Knast : Heidis Haft-Quickie",
-      "url": "https://www.bild.de/video/clip/glomex/die-klum-im-knast-heidis-haft-quickie-v-cjk0yv6vu2b5-79899038,auto=true.bild.html",
-      "image_title": "Die Klum im Knast: Heidis Haft-Quickie"
-    },
-    {
-      "title": "„Masked Singer“-Finale : Das Pannen-Zebra holt den Pokal",
-      "url": "https://www.bild.de/video/clip/glomex/masked-singer-finale-das-pannen-zebra-holt-den-pokal-v-cjhyybt4k8y9-79863444,auto=true.bild.html",
-      "image_title": "„Masked Singer“-Finale: Das Pannen-Zebra holt den Pokal"
-    },
-    {
-      "title": "„Masked Singer“-Finale : Der Ork ist ein „Keinohrhasen“-Star",
-      "url": "https://www.bild.de/video/clip/glomex/masked-singer-finale-der-ork-ist-ein-keinohrhasen-star-v-cjhw4p916r6x-79861766,auto=true.bild.html",
-      "image_title": "„Masked Singer“-Finale: Der Ork ist ein „Keinohrhasen“-Star"
-    }
-  ]
+  "articles": []
 }
