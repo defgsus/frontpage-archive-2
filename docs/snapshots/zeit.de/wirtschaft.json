@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-29T06:27:40",
+  "timestamp": "2022-04-29T07:21:03",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
+      "title": "Energiemonitor: Teuer, klimaschädlich und abhängig von Russland",
+      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich von Kohle, Öl und Gas lösen. Kann die Wende gelingen? Alle Daten im täglich aktualisierten ZEIT-ONLINE-Energiemonitor",
+      "url": "https://www.zeit.de/wirtschaft/2022-04/energiekosten-deutschland-gas-strom-benzin-energiemonitor",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/teaser-energiekosten-gas-strom-benzin-erneuerbare/cinema__980x420"
+    },
+    {
       "title": "Tesla: Elon Musk verkauft Aktien im Wert von vier Milliarden Dollar",
       "teaser": "Zu Preisen von bis zu 999,13 Dollar hat Elon Musk Aktien an seinem Unternehmen Tesla verkauft. Denn: Für die geplante Twitter-Übernahme muss er eigene Mittel einbringen.",
       "url": "https://www.zeit.de/wirtschaft/2022-04/tesla-elon-musk-aktien-twitter",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/tesla-elon-musk-aktien-twitter-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/tesla-elon-musk-aktien-twitter-bild/wide__822x462",
+      "image_title": "Tesla: Elon Musk verkauft Aktien im Wert von vier Milliarden Dollar"
     },
     {
       "title": "Finanzen: Muss man sich überhaupt mit seinen Finanzen beschäftigen?",
@@ -72,15 +79,8 @@
       "title": "Energieabhängigkeit von Russland: Ein heikler Entzug",
       "teaser": "Deutschland kommt sehr bald ohne russisches Öl aus, sagt Robert Habeck. Doch die Energieabhängigkeit bleibt groß – vor allem beim Gas, wie die Daten zeigen.",
       "url": "https://www.zeit.de/wirtschaft/2022-04/energieabhaengigkeit-russland-deutschland-gas-oel",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/energieabhaengigkeit-russland-deutschland-gas-oel-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/energieabhaengigkeit-russland-deutschland-gas-oel-teaser/cinema__980x420",
       "image_title": "Energieabhängigkeit von Russland: Ein heikler Entzug"
-    },
-    {
-      "title": "Hacking durch Wirecard: Hacker zu Diensten",
-      "teaser": "Um Kritiker einzuschüchtern, ließ Wirecard deren Computer ausspähen. In den USA hat sich nun ein Privatagent schuldig bekannt.",
-      "url": "https://www.zeit.de/2022/18/hacking-wirecard-kritiker",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/wirecard/cinema__980x420",
-      "image_title": "Hacking durch Wirecard: Hacker zu Diensten"
     },
     {
       "title": "Anzeige2. Staffel: Alles was zahlt",
@@ -90,11 +90,11 @@
       "image_title": "2. Staffel: Alles was zahlt"
     },
     {
-      "title": "Windenergie: Nicht auf meiner Rentierweide",
-      "teaser": "Strom aus norwegischen Windparks könnte in Deutschland die Preise senken. Doch Ausbau und Ausfuhr erneuerbarer Energien scheitern auch dort am Widerstand der Bevölkerung.",
-      "url": "https://www.zeit.de/wirtschaft/2022-04/windenergie-norwegen-erneuerbare-energie-klimawandel-deutschland",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/windenergie-norwegen-erneuerbare-energie-klimawandel-deutschland-aufmacherfoto/wide__822x462",
-      "image_title": "Windenergie: Nicht auf meiner Rentierweide"
+      "title": "Hacking durch Wirecard: Hacker zu Diensten",
+      "teaser": "Um Kritiker einzuschüchtern, ließ Wirecard deren Computer ausspähen. In den USA hat sich nun ein Privatagent schuldig bekannt.",
+      "url": "https://www.zeit.de/2022/18/hacking-wirecard-kritiker",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/wirecard/wide__822x462",
+      "image_title": "Hacking durch Wirecard: Hacker zu Diensten"
     },
     {
       "title": "Russlands Wirtschaft: Langsames Dahinsiechen",
@@ -175,6 +175,13 @@
       "url": "https://www.zeit.de/wirtschaft/2022-04/ukraine-krieg-heizen-strom-energie-sparen"
     },
     {
+      "title": "Bundesnetzagenturpräsident Klaus Müller : Und wenn das Gas nicht mehr für alle reicht, Herr Müller?",
+      "teaser": "Der Chef der Netzagentur muss das Land auf eine Zukunft ohne russisches Gas vorbereiten. Er sagt: \"Der uneingeschränkte Schutz für Verbraucher ist schwer vermittelbar.\"",
+      "url": "https://www.zeit.de/2022/16/bundesnetzagentur-praesident-klaus-mueller-gas-russland",
+      "image_url": "https://img.zeit.de/2022/16/bundesnetzagentur-praesident-klaus-mueller-gas-russland-teaserbild/wide__822x462",
+      "image_title": "Bundesnetzagenturpräsident Klaus Müller : Und wenn das Gas nicht mehr für alle reicht, Herr Müller?"
+    },
+    {
       "title": "Treuhand: Dilettanten am Werk",
       "teaser": "Bis heute gilt die Treuhand als Inbegriff aller Übel der Nachwendezeit. Nun werden Akten aus ihrem Inneren öffentlich. Sie zeichnen ein neues Bild der Behörde.",
       "url": "https://www.zeit.de/2022/15/treuhand-ddr-privatisierung-behoerde",
@@ -182,18 +189,11 @@
       "image_title": "Treuhand: Dilettanten am Werk"
     },
     {
-      "title": "Wohnungen als Kapitalanlage: \"Lohnt es sich, in Immobilien in Ballungsräumen zu investieren?\"",
-      "teaser": "Eine Wohnung zu kaufen, um sie zu vermieten, kann ein gutes Geschäft sein. Aber Vorsicht: Den Aufwand als Privatvermieter unterschätzen viele. Worauf man achten sollte.",
-      "url": "https://www.zeit.de/2022/15/immobilien-geldanlage-wohnung-kapital",
-      "image_url": "https://img.zeit.de/2022/15/immobilien-geldanlage-wohnung-kapital-teaserbild/wide__822x462",
-      "image_title": "Wohnungen als Kapitalanlage: \"Lohnt es sich, in Immobilien in Ballungsräumen zu investieren?\""
-    },
-    {
-      "title": "Großbritannien: Fast 80 Prozent der britischen Firmen finden nur schwer Fachkräfte",
-      "teaser": "Die meisten britischen Unternehmen haben erhebliche Schwierigkeiten bei der Fachkräftesuche. Verantwortlich dafür sind vor allem der Brexit und die Corona-Pandemie.",
-      "url": "https://www.zeit.de/wirtschaft/2022-04/brexit-corona-probleme-fachkraefte-grossbritannien",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/brexit-corona-probleme-fachkraefte-grossbritannien-bild/square__460x460",
-      "image_title": "Großbritannien: Fast 80 Prozent der britischen Firmen finden nur schwer Fachkräfte"
+      "title": "Windenergie: Nicht auf meiner Rentierweide",
+      "teaser": "Strom aus norwegischen Windparks könnte in Deutschland die Preise senken. Doch Ausbau und Ausfuhr erneuerbarer Energien scheitern auch dort am Widerstand der Bevölkerung.",
+      "url": "https://www.zeit.de/wirtschaft/2022-04/windenergie-norwegen-erneuerbare-energie-klimawandel-deutschland",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/windenergie-norwegen-erneuerbare-energie-klimawandel-deutschland-aufmacherfoto/square__460x460",
+      "image_title": "Windenergie: Nicht auf meiner Rentierweide"
     },
     {
       "title": "Kolumne: money matters",
@@ -203,11 +203,11 @@
       "image_title": "Kolumne: money matters"
     },
     {
-      "title": "Atomkraft: \"Dass die Kernenergie sicher ist, werden Sie von mir nicht hören\"",
-      "teaser": "Zwei Männer, gleich alt: Wolfgang Ehmke kämpfte jahrzehntelang gegen die Atomkraft, Ulrich Waas warb dafür. Nun treffen sie aufeinander. Können sie sich heute verstehen?",
-      "url": "https://www.zeit.de/wirtschaft/2022-04/atomkraft-ausstieg-warum-denken-sie-das-podcast",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/atomkraft-ausstieg-warum-denken-sie-das-podcast-bild/wide__822x462",
-      "image_title": "Atomkraft: \"Dass die Kernenergie sicher ist, werden Sie von mir nicht hören\""
+      "title": "Großbritannien: Fast 80 Prozent der britischen Firmen finden nur schwer Fachkräfte",
+      "teaser": "Die meisten britischen Unternehmen haben erhebliche Schwierigkeiten bei der Fachkräftesuche. Verantwortlich dafür sind vor allem der Brexit und die Corona-Pandemie.",
+      "url": "https://www.zeit.de/wirtschaft/2022-04/brexit-corona-probleme-fachkraefte-grossbritannien",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/brexit-corona-probleme-fachkraefte-grossbritannien-bild/wide__822x462",
+      "image_title": "Großbritannien: Fast 80 Prozent der britischen Firmen finden nur schwer Fachkräfte"
     },
     {
       "title": "Anzeige: Digitale Pioniere: Der neue Video-Podcast",
@@ -215,6 +215,13 @@
       "url": "https://www.zeit.de/angebote/digitale-pioniere/index",
       "image_url": "https://img.zeit.de/angebote/digitale-pioniere/digitale-pioniere-teaserbild-neu/wide__822x462",
       "image_title": "Digitale Pioniere: Digitale Pioniere: Der neue Video-Podcast"
+    },
+    {
+      "title": "Atomkraft: \"Dass die Kernenergie sicher ist, werden Sie von mir nicht hören\"",
+      "teaser": "Zwei Männer, gleich alt: Wolfgang Ehmke kämpfte jahrzehntelang gegen die Atomkraft, Ulrich Waas warb dafür. Nun treffen sie aufeinander. Können sie sich heute verstehen?",
+      "url": "https://www.zeit.de/wirtschaft/2022-04/atomkraft-ausstieg-warum-denken-sie-das-podcast",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/atomkraft-ausstieg-warum-denken-sie-das-podcast-bild/wide__822x462",
+      "image_title": "Atomkraft: \"Dass die Kernenergie sicher ist, werden Sie von mir nicht hören\""
     },
     {
       "title": "Spenden: Windeln oder Cash: Wie spende ich richtig?",
@@ -234,22 +241,15 @@
       "title": "Elon Musk : Jetzt auch noch Twitter",
       "teaser": "Elon Musk kauft für 44 Milliarden US-Dollar den Kurznachrichtendienst Twitter. Auch für den reichsten Mann der Welt keine Kleinigkeit, doch nichts an ihm ist gewöhnlich.",
       "url": "https://www.zeit.de/wirtschaft/2022-04/twitter-elon-musk-plattform-kurznachrichtendienst",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/twitter-elon-musk/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/twitter-elon-musk/cinema__980x420",
       "image_title": "Elon Musk : Jetzt auch noch Twitter"
     },
     {
       "title": "EuGH-Urteil: Airbnb muss Auskunft über Privatübernachtungen geben",
       "teaser": "Der Europäische Gerichtshof hat strengere Auskunftspflichten für Übernachtungsanbieter bekräftigt. Portale wie Airbnb sind zu Angaben gegenüber Kommunen verpflichtet.",
       "url": "https://www.zeit.de/wirtschaft/2022-04/europaeischer-gerichtshof-airbnb-privatuebernachtung-internetanbieter-auskuenfte",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/europaeischer-gerichtshof-airbnb-privatuebernachtung/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-04/europaeischer-gerichtshof-airbnb-privatuebernachtung/wide__822x462",
       "image_title": "EuGH-Urteil: Airbnb muss Auskunft über Privatübernachtungen geben"
-    },
-    {
-      "title": "Konjunktur: Verbraucherstimmung sinkt auf neuen Tiefstand",
-      "teaser": "Die Kauflust der Deutschen ist noch geringer als im ersten Corona-Lockdown. Grund sind neben den Pandemiefolgen die hohe Inflation und der Krieg in der Ukraine.",
-      "url": "https://www.zeit.de/wirtschaft/2022-04/konsumklima-verbraucherstimmung-tiefstand-ukraine",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-04/konsumklima-deutschland/wide__822x462",
-      "image_title": "Konjunktur: Verbraucherstimmung sinkt auf neuen Tiefstand"
     },
     {
       "title": "Social Media: Twitter verhandelt Medienberichten zufolge doch mit Elon Musk",
