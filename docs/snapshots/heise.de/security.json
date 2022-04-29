@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-04-29T07:20:52",
+  "timestamp": "2022-04-29T08:28:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Videokonferenzen-Schwachstellen-in-Zoom-ermoeglichen-Rechteausweitung-und-mehr-7069420.html"
+    },
+    {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Firewalls-von-Cisco-neu-starten-lassen-7069408.html"
+    },
+    {
       "title": "Synology NAS",
       "url": "https://www.heise.de/news/Netzwerkspeicher-Auch-Synology-von-netatalk-Sicherheitsluecken-betroffen-7067778.html"
     },
@@ -40,12 +48,42 @@
       "url": "https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html"
     },
     {
-      "title": "Nvidia Jetson",
-      "url": "https://www.heise.de/news/Schadcode-koennte-Nvidias-Embedded-System-Jetson-gefaehrlich-werden-7067304.html"
+      "title": "Videokonferenzen: Schwachstellen in Zoom ermöglichen Rechteausweitung und mehr",
+      "teaser": "Mehrere Schwachstellen in Zoom-Software könnte Angreifern ermöglichen, ihre Rechte im System auszuweiten oder unbefugt Informationen abzugreifen.",
+      "url": "https://www.heise.de/news/Videokonferenzen-Schwachstellen-in-Zoom-ermoeglichen-Rechteausweitung-und-mehr-7069420.html",
+      "image_title": "Aufmacher Zoom-Sicherheitsupdates"
     },
     {
-      "title": "Log4Shell",
-      "url": "https://www.heise.de/news/Lagebild-Gefahr-durch-kritische-Log4Shell-Luecke-ungebrochen-7066481.html"
+      "title": "Sicherheitsupdates: Angreifer könnten Firewalls von Cisco neu starten lassen",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für Cisco Firepower Threat Defense und Adaptive Security Appliance.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Firewalls-von-Cisco-neu-starten-lassen-7069408.html"
+    },
+    {
+      "title": "Studie: Active Directory je nach Branche unterschiedlich angreifbar",
+      "teaser": "Einer Befragung von IT-Verantwortlichen zufolge spielt bei der Absicherung des Active Directory die Branche eine Rolle. Auch ist die Unternehmensgröße relevant.",
+      "url": "https://www.heise.de/news/Studie-Active-Directory-je-nach-Branche-unterschiedlich-angreifbar-7069098.html"
+    },
+    {
+      "title": "Störung bei Fernwartung von Windkraftanlagen weitgehend behoben",
+      "teaser": "Durch einen mutmaßlichen Cyber-Angriff wird die Kommunikation für die Fernwartung Tausender Windräder gestört. Nun sind die meisten Windparks wieder angebunden.",
+      "url": "https://www.heise.de/news/Stoerung-bei-Fernwartung-von-Windkraftanlagen-weitgehend-behoben-7069313.html"
+    },
+    {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
+      "title": "Europol: Deepfakes drohen zum Standardwerkzeug Krimineller zu werden",
+      "teaser": "Vor allem die organisierte Kriminalität wird laut Europol verstärkt computergenerierte Manipulationen nutzen, um etwa die Chef-Masche anzuwenden.",
+      "url": "https://www.heise.de/news/Europol-Deepfakes-drohen-zum-Standardwerkzeug-Krimineller-zu-werden-7069235.html",
+      "image_title": "Halbes Gesicht einer weißen Frau, darüber gelegt symbolische Rasterung"
+    },
+    {
+      "title": "Virenschutzsoftware: Kaspersky-Beschwerde gegen BSI-Warnung erneut gescheitert",
+      "teaser": "Auch vor dem Oberverwaltungsgericht war der russische Konzern Kaspersky mit seiner Beschwerde gegen die Warnung des BSI vor der eigenen Software erfolglos.",
+      "url": "https://www.heise.de/news/Virenschutzsoftware-Kaspersky-Beschwerde-gegen-BSI-Warnung-erneut-gescheitert-7069134.html",
+      "image_title": "Warsaw,,Poland,-,July,,2019:,Kaspersky,Lab,Logotype,On,The"
     },
     {
       "title": "GitHub Security Update: Den OAuth-Token-Dieben auf der Spur",
@@ -67,11 +105,6 @@
       "teaser": "In dem Cloud-Dienst Azure Database for PostgreSQL Flexible Server von Microsoft hätten Angreifer ihre Rechte ausweiten und beliebigen Code ausführen können.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Azure-Database-for-PostgreSQL-Flexible-Server-gefixt-7068605.html",
       "image_title": "Aufmacher Sicherheitslücken in Azure Database for PostgreSQL"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "IT-Sicherheitsbehörden sammeln am häufigsten angegriffene Sicherheitslücken",
@@ -127,40 +160,6 @@
       "title": "NFTs gestohlen: Phishing-Raubzug beim Bored Ape Yacht Club",
       "teaser": "Kriminelle kaperten den Instagram-Account des Bored Ape Yacht Club und lockten darüber ihre Opfer auf eine Fake-Site, mit der sie teure NFTs stehlen konnten.",
       "url": "https://www.heise.de/news/NFTs-gestohlen-Phishing-Raubzug-beim-Bored-Ape-Yacht-Club-7066117.html"
-    },
-    {
-      "title": "Emotet war kaputt, infiziert jetzt aber wieder vermehrt Windows-Computer",
-      "teaser": "Die hoch entwickelte Schadsoftware Emotet baut nach einem Fehler seine Attacken weltweit weiter aus.",
-      "url": "https://www.heise.de/news/Emotet-war-kaputt-infiziert-jetzt-aber-wieder-vermehrt-Windows-Computer-7064903.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Virustotal: Einbrecher führen eigenen Code auf Googles Servern aus",
-      "teaser": "Bei seinem Scan-Dienst Virustotal hat Google eine veraltete exiftool-Version eingesetzt. Eine Sicherheitslücke ermöglichte Forschern den Einbruch in den Dienst.",
-      "url": "https://www.heise.de/news/Einbrecher-fuehren-eigenen-Code-auf-Googles-Virustotal-Servern-aus-7065048.html",
-      "image_title": "Aufmacher Virustotal-Einbruch"
-    },
-    {
-      "title": "Bug-Bounty-Programm des DHS zur Sicherheitslückensuche ist voller Erfolg",
-      "teaser": "Sicherheitsexperten haben im Rahmen eines Bug-Bounty-Programms Schwachstellen in Systemen des US-amerikanischen Department of Homeland Security aufgespürt.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Suche-DHS-verbucht-Bug-Bounty-Programm-als-vollen-Erfolg-7064821.html",
-      "image_title": "Aufmacher BugBounty HackDHS beendet"
-    },
-    {
-      "title": "Nitrowall: Open-Source-Sicherheit out of the box",
-      "teaser": "Anbieter Nitrokey packt die Open-Source-Sicherheitslösung OPNsense mit Firewall, Intrusion Detection und VPN-Gateway auf einen lüfterlosen Industrie-PC.",
-      "url": "https://www.heise.de/news/Nitrowall-Open-Source-Sicherheit-out-of-the-box-7064566.html"
-    },
-    {
-      "title": "Warum reiche Cyberkriminelle zunehmend Zero-Day-Hacks nutzen",
-      "teaser": "Noch nicht geschlossene Lücken sind zum Angriff auf Rechner und Geräte ideal. Cyber-Gangs treiben die Preise in die Höhe – und booten sogar Regierungen aus.",
-      "url": "https://www.heise.de/hintergrund/Warum-sich-reiche-Cyberkriminelle-zunehmend-Zero-Day-Hacks-bedienen-7062493.html"
-    },
-    {
-      "title": "Netzwerkspeicher: Apple-Protokolle reißen Sicherheitslücken in Qnap-NAS",
-      "teaser": "Die Unterstützung von Apples Netzwerkprotokollen durch netatalk in Qnap-NAS-Systemen bringt teils kritische Sicherheitslücken mit. Erste Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Netzwerkspeicher-Apple-Protokolle-reissen-Sicherheitsluecken-in-Qnap-NAS-7064336.html",
-      "image_title": "Aufmacher kritische netatalk-Lücken in Qnap-NAS"
     },
     {
       "title": "heise Security Tour 2022",
