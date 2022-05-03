@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-03T11:20:18",
+  "timestamp": "2022-05-03T12:45:07",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Der Patch-Alptraum: Wenn schnell nicht schnell genug ist",
+      "teaser": "Neben den überbewerteten Zero-Day-Lücken gibt es eine weniger bekannte Bedrohung durch \"Beinahe-Zero-Days\". Die sind weitverbreitet und brandgefährlich.",
+      "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
+    },
+    {
       "title": "Cloudflare: Botnet-Angriff mit mehr als 15 Millionen HTTPS-Anfragen/s abgewehrt",
       "teaser": "Der Infrastruktur- und DNS-Anbieter Cloudflare hat eine DDoS-Attacke gestoppt, die zu Spitzenzeiten bis zu 15,3 Millionen Anfragen pro Sekunde verschickte.",
       "url": "https://www.heise.de/news/Cloudflare-Botnet-Angriff-mit-mehr-als-15-Millionen-HTTPS-Anfragen-abgewehrt-7070519.html"
@@ -36,12 +41,6 @@
       "url": "https://www.heise.de/news/Microsoft-Edge-kriegt-ein-eingebautes-VPN-7069831.html"
     },
     {
-      "title": "Microsoft findet root-Lücken in Linux",
-      "teaser": "Sicherheitslücken in Linux könnten Nutzer etwa zum Ausführen von Code als root missbrauchen. Microsoft hat die Schwachstellen entdeckt und nennt sie Nimbuspwn.",
-      "url": "https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html",
-      "image_title": "Aufmacher Linux-Lücke Nimbuspwn"
-    },
-    {
       "title": "Container-Storage für Kubernetes: Ceph mit Rook in Betrieb nehmen",
       "teaser": "Ceph ist zwar etabliert, aber nicht immer einfach zu handhaben. In Kubernetes-Clustern kann das der Operator Rook übernehmen.",
       "url": "https://www.heise.de/ratgeber/Container-Storage-fuer-Kubernetes-Ceph-mit-Rook-in-Betrieb-nehmen-7068314.html"
@@ -50,6 +49,27 @@
       "title": "Programmieren mit Python: Große Datenmengen verwalten mit vaex",
       "teaser": "Wer häufig mit Python und pandas arbeitet, kennt das Problem: Irgendwann reicht der Speicher nicht mehr. vaex schafft Abhilfe und ist kompatibel zu pandas.",
       "url": "https://www.heise.de/ratgeber/Python-Mit-vaex-grosse-Datenmengen-verwalten-7066766.html"
+    },
+    {
+      "title": "Chip-Geheimnisse entwendet? Apple klagt gegen Start-Up und zwei Ex-Mitarbeiter",
+      "teaser": "Apple wirft den Beklagten vor, dass sie anhand der Daten eigene Chips bauen wollen. Rivos habe gezielt Geheimnisträger rund um Apple Silicon abgeworben.",
+      "url": "https://www.heise.de/news/Chip-Geheimnisse-entwendet-Apple-klagt-gegen-Start-Up-und-zwei-Ex-Mitarbeiter-7073046.html",
+      "image_title": "Apple M1"
+    },
+    {
+      "title": "Monitoring mit Checkmk: Konferenz mit News",
+      "teaser": "Die Münchener tribe29 startet ihre Konferenz zur Monitoring-Lösung Checkmk und stellt die nächste Version vor – Streams sollen kostenlos zugänglich sein.",
+      "url": "https://www.heise.de/news/Monitoring-mit-Checkmk-Konferenz-mit-News-7072643.html"
+    },
+    {
+      "title": "Kabel-Internet: Netzbetreiber demonstrieren Gigabit-Bandbreiten über Docsis 4.0",
+      "teaser": "Die nächste Stufe des Übertragungsstandards soll Up- und Download annähern. Doch bis zur weltweiten Einführung bietet DOCSIS 3.1 noch viel Luft nach oben.",
+      "url": "https://www.heise.de/news/10G-Live-Demonstration-von-DOCSIS-4-0-zeigt-die-Zukunft-des-Kabel-Internets-7072816.html"
+    },
+    {
+      "title": "Zahlen, bitte! Patent 643316 – die Magnetschwebebahn nimmt erstmals Gestalt an",
+      "teaser": "Die Transrapid-Grundlagen schuf ein deutscher Ingenieur bereits in den 1930ern. Mehr als 30 Jahre später kam Fahrt in die Sache – mit einem Kuraufenthalt.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Patent-643316-die-Magnetschwebebahn-nimmt-erstmals-Gestalt-an-7071086.html"
     },
     {
       "title": "Ukraine-Krieg: Internet in Oblast Cherson wird nun über Russland geroutet",
@@ -79,7 +99,7 @@
       "image_title": "Flutter Workshop"
     },
     {
-      "title": "Ukraine-Krieg: 150.000 Menschen in der Ukraine täglich über Starlink im Internet",
+      "title": "Ukraine-Krieg: 150.000 Menschen in der Ukraine täglich über Starlink online",
       "teaser": "Im Kriegsgebiet in der Ukraine sind Starlink-Antennen oft die einzige Möglichkeit, ins Internet zu kommen. Mehr als 150.000 Menschen nutzen das jeden Tag.",
       "url": "https://www.heise.de/news/Ukraine-Krieg-150-000-Menschen-in-der-Ukraine-taeglich-ueber-Starlink-im-Internet-7072719.html"
     },
@@ -109,27 +129,6 @@
       "teaser": "Data Scientists, Data Engineers und Data Teams bleibt Zeit bis zum 9. Mai, um Vorschläge zu Workshops und Vorträgen einzureichen.",
       "url": "https://www.heise.de/news/data2day-2022-Call-for-Proposals-der-Konferenz-in-Karlsruhe-verlaengert-7071934.html",
       "image_title": "data2day 2022: Call for Proposals der Konferenz in Karlsruhe gestartet"
-    },
-    {
-      "title": "Linux-Desktop Gnome 42 im Test",
-      "teaser": "Die Gnome-Version 42 gefällt mit einem systemweiten dunklen Modus, entschlackten Apps und einem neuen Screenshot-Tool. An einigen Stellen hakt es jedoch noch.",
-      "url": "https://www.heise.de/tests/Linux-Desktop-Gnome-42-im-Test-6678271.html"
-    },
-    {
-      "title": "Studie: Europäische Digitalwirtschaft fällt weiter zurück",
-      "teaser": "In kaum einem anderen Bereich sind Deutschland und die anderen 26 EU-Staaten so vom Ausland abhängig wie in der Digitalwirtschaft. Das belegt auch eine Studie.",
-      "url": "https://www.heise.de/news/Studie-Europaeische-Digitalwirtschaft-faellt-weiter-zurueck-7072413.html"
-    },
-    {
-      "title": "KI-Sicherheit: Anthropic erhält 580 Millionen US-Dollar Forschungsgelder",
-      "teaser": "Dem Start-up für KI-Sicherheit trauen die Investoren offenbar Großes zu: Anthropic erhält für die Alignment-Forschung eine Finanzierung in Rekordhöhe.",
-      "url": "https://www.heise.de/news/KI-Sicherheit-Anthropic-erhaelt-580-Millionen-US-Dollar-Forschungsgelder-7070972.html"
-    },
-    {
-      "title": "Rauswurf \"veralteter\" iPhone-Apps: Entwickler sollen mehr Zeit bekommen",
-      "teaser": "Länger nicht mehr aktualisierte und selten geladene Apps entfernt Apple, wenn Entwickler kein Update nachreichen. Sie sollen nun mehr Zeit dafür erhalten.",
-      "url": "https://www.heise.de/news/Rauswurf-veralteter-iPhone-Apps-Entwickler-sollen-mehr-Zeit-bekommen-7072275.html",
-      "image_title": "App-Store-Icon"
     },
     {
       "title": "Trendstudie",

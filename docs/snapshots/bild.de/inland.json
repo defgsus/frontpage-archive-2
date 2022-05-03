@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-03T11:20:47",
+  "timestamp": "2022-05-03T12:45:28",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
@@ -80,37 +80,73 @@
   ],
   "articles": [
     {
-      "title": "Kaum Nachfrage : Condor streicht Flüge von Leipzig nach Athen",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/urlaub-condor-streicht-fluege-von-leipzig-nach-athen-79960004.bild.html",
-      "image_url": "https://images.bild.de/6270f74241f8ce60f6546c73/8dae861ce208031caecbedf129cb1e28/1/3?w=656",
-      "image_title": "Urlaub: Condor streicht Flüge von Leipzig nach Athen"
-    },
-    {
-      "title": "Baden gegangen : Motorrad-Dieb will vor Polizei davonschwimmen",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/polizei-motorrad-dieb-waehlt-flucht-durch-kanal-und-geht-baden-79959542.bild.html",
-      "image_url": "https://images.bild.de/6270f0e941f8ce60f6546c63/f724bccc99d79061f852a3a8c1add4cf-miniSquare/Kennung_Symbolfoto,a48e538f?w=320",
-      "image_title": "Polizei: Motorrad-Dieb wählt Flucht durch Kanal und geht baden"
-    },
-    {
-      "title": "Maßkrug ins Gesicht geworfen : Miss Franken Vanessa böse verletzt",
+      "title": "Maßkrug ins Gesicht geworfen : Miss Franken böse verletzt",
       "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/gntm-kandidation-vanessa-hampl-durch-masskrug-wurf-verletzt-79959000.bild.html",
-      "image_url": "https://images.bild.de/6270ec4f86b286649cf213f4/a5d8c4705039a7868e52a2cee276e84d-miniSquare/1/2?w=320",
+      "image_url": "https://images.bild.de/6270ec4f86b286649cf213f4/cf9f28ac2f428613433a09b34a78e9ea/2/2?w=656",
       "image_title": "Miss Franken Vanessa Hampl durch Maßkrug-Wurf verletzt"
     },
     {
+      "title": "Strom, Wasser, Haustür weg! : Ist ER Deutschlands schlimmster Vermieter?",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/strom-wasser-tuer-weg-ist-er-deutschlands-schlimmster-vermieter-79953408.bild.html",
+      "image_url": "https://images.bild.de/626fec7f86b286649cf212dc/c6aa2d59fe5bd8adb18367c752e5831f-miniSquare/1/2?w=320",
+      "image_title": "München: Strom, Wasser, Haustür weg! Ist ER Deutschlands schlimmster Vermieter?"
+    },
+    {
+      "title": "Betrugsprozess : Bande zockte 42 Mio. mit falschen Geldanlagen ab",
+      "url": "https://www.bild.de/news/inland/news-inland/anlagebetrug-in-saarbruecken-vor-gericht-bande-zockte-42-mio-euro-ab-79960702.bild.html",
+      "image_url": "https://images.bild.de/6271056f40b7475054e1ac37/400a49d0fbd3dc1e4af4f8b6728728bc-miniSquare/1/2?w=320",
+      "image_title": "Anlagebetrug in Saarbrücken vor Gericht: Bande zockte 42 Mio. Euro ab"
+    },
+    {
+      "title": "Frau (20) überfallen : Vergewaltiger aus Leipzig in Spanien gefasst",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-frau-20-missbraucht-kripo-fasst-mehrfach-vergewaltiger-79961826.bild.html",
+      "image_url": "https://images.bild.de/627116f041f8ce60f6546cd8/c37753ed336c362207ff2c2e875779fb-miniSquare/1/3?w=320",
+      "image_title": "Leipzig: Frau (20) missbraucht! Kripo fasst Mehrfach-Vergewaltiger"
+    },
+    {
+      "title": "Kurioser einsatz : Mann bleibt in Kleidercontainer stecken",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehr-mann-klettert-in-kleidercontainer-und-bleibt-stecken-79961462.bild.html",
+      "image_url": "https://images.bild.de/627112a686b286649cf21462/63629690749547f7060323a17c7ba0b1-miniSquare/Kennung_Symbolfoto,a48f400e?w=320",
+      "image_title": "Feuerwehr: Mann klettert in Kleidercontainer und bleibt stecken"
+    },
+    {
+      "title": "Busen, wir haben ein Problem ... : Kölner Forscher schicken Frauen-Puppen zum Mond",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/dlr-koelner-forscher-schicken-frauen-puppen-zum-mond-79952738.bild.html",
+      "image_title": "DLR: Kölner Forscher schicken Frauen-Puppen zum Mond"
+    },
+    {
+      "title": "Baden gegangen : Motorrad-Dieb will Polizei davonschwimmen",
+      "teaser": "Als die Polizei den Dieb erwischt, wählt er die Flucht durch den Kanal und geht baden.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/polizei-motorrad-dieb-waehlt-flucht-durch-kanal-und-geht-baden-79959542.bild.html",
+      "image_title": "Polizei: Motorrad-Dieb wählt Flucht durch Kanal und geht baden"
+    },
+    {
+      "title": "Tod als Rache-Akt? : Die blutige Spur der Clan-Familie Rabih",
+      "teaser": "Sie waren fünf Brüder, hineingeboren in die kriminelle Clan-Welt. Zwei wurden getötet.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/verbrechen-in-berlin-die-blutige-spur-der-clan-familie-rabih-79958298.bild.html",
+      "image_title": "Verbrechen in Berlin: Die blutige Spur der Clan-Familie Rabih"
+    },
+    {
+      "title": "Kaum Nachfrage : Condor streicht Flüge von Leipzig nach Athen",
+      "teaser": "„Condor“ streicht nach nur drei Flügen wieder die Strecke von Leipzig nach Athen.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/urlaub-condor-streicht-fluege-von-leipzig-nach-athen-79960004.bild.html",
+      "image_title": "Urlaub: Condor streicht Flüge von Leipzig nach Athen"
+    },
+    {
       "title": "Clan-Mitglied getötet : Mohamed Rabieh sollte abgeschoben werden",
+      "teaser": "Seit seiner Jugend war Mohamed kriminell. Am Ende sollte er abgeschoben werden.",
       "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/clan-mitglied-in-berlin-erstochen-mohamed-r-sollte-abgeschoben-werden-79954506.bild.html",
-      "image_url": "https://images.bild.de/6270161841f8ce60f6546b93/452c4822ff68e9bbf19985424a2d78a7-miniSquare/1/3?w=320",
       "image_title": "Clan-Mitglied in Berlin erstochen: Mohamed Rabieh sollte abgeschoben werden"
     },
     {
       "title": "6 aus 49 Lotto-Anekdoten : Frau investierte 1 Euro - und gewann 1 Million",
+      "teaser": "Wer von Lutz Trabalski im Büro empfangen wird, ist Glückspilz. Der Lotto-Gewinnberater.",
       "url": "https://www.bild.de/news/inland/news-inland/trabalski-empfaengt-lotto-millionaere-frau-kaufte-lottoschein-fuer-1-gewinnt-1-m-79914296.bild.html",
-      "image_url": "https://images.bild.de/626aa41a5fa0b23f67c88d45/cb38ad7b4280a76fdd171e3db6e198b7-miniSquare/1/2?w=320",
       "image_title": "Lotto: Frau kaufte Lottoschein für 1 Euro – und gewann 1 Million Euro"
     },
     {
-      "title": "Warum Radikale immer brutaler werden : Gewalt zwischen Linken und Rechten eskaliert",
+      "title": "Radikal brutal! : Warum die Gewalt zwischen Linken und Rechten eskaliert",
+      "teaser": "Mit massiver Gewalt gehen extreme Linke und Rechte derzeit aufeinander los!",
       "url": "https://www.bild.de/regional/leipzig/leipzig-news/extremismus-warum-die-gewalt-zwischen-linken-und-rechten-eskaliert-79954736.bild.html",
       "image_title": "Extremismus: Warum die Gewalt zwischen Linken und Rechten eskaliert"
     },
@@ -137,18 +173,6 @@
       "teaser": "Schwerer Unfall im Landeanflug zum Augsburger Flughafen. Drei Menschen wurden verletzt.",
       "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/unfall-in-augsburg-kleinflugzeug-ueberschlaegt-sich-mit-drei-insassen-79954604.bild.html",
       "image_title": "Unfall in Augsburg: Kleinflugzeug überschlägt sich mit drei Insassen"
-    },
-    {
-      "title": "Strom, Wasser, Haustür weg! : Ist ER Deutschlands schlimmster Vermieter?",
-      "teaser": "München – Er soll seine Mieter rausgeekelt haben: Wasser abgedreht, Strom abgeschaltet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/strom-wasser-tuer-weg-ist-er-deutschlands-schlimmster-vermieter-79953408.bild.html",
-      "image_title": "Strom, Wasser, Tür weg! : Ist er Deutschlands schlimmster Vermieter?"
-    },
-    {
-      "title": "Busen, wir haben ein Problem ... : Kölner Forscher schicken Frauen-Puppen zum Mond",
-      "teaser": "Kurioses Experiment des Deutschen Luft- und Raumfahrtzentrums (DLR)!",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/dlr-koelner-forscher-schicken-frauen-puppen-zum-mond-79952738.bild.html",
-      "image_title": "DLR: Kölner Forscher schicken Frauen-Puppen zum Mond"
     },
     {
       "title": "Für Richter kein Mord : Berliner Messer-Killer lauerte Ex immer wieder auf",
@@ -203,30 +227,6 @@
       "teaser": "Wegen sexuellem Missbrauch steht Tanzlehrer Michael B. in Mönchengladbach vor Gericht.",
       "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/moenchengladbach-tanzlehrer-soll-schuelerinnen-12-15-missbraucht-haben-79948146.bild.html",
       "image_title": "Mönchengladbach: Tanzlehrer soll Schülerinnen (12-15) missbraucht haben"
-    },
-    {
-      "title": "Clan-Mord in Berlin : Mohamed verließ nur mit Schusswaffe das Haus",
-      "teaser": "Clan-Größe Mohamed Rabieh wurde in Berlin erstochen. Und er wusste offenbar, dass er in Gefahr ist.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/clan-mord-in-berlin-mohammed-hatte-immer-eine-schusswaffe-dabei-79946374.bild.html",
-      "image_title": "Clan-Mord in Berlin: Mohamed hatte immer eine Schusswaffe dabei"
-    },
-    {
-      "title": "Wilde Mischungen bei Burger King : Saure-Gurken-Whopper für Schwangere?!",
-      "teaser": "Burger King startet zum Muttertag am kommenden Sonntag eine skurrile Werbe-Aktion.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/burger-king-saure-gurken-whopper-fuer-schwangere-skurrile-aktion-zum-frauentag-79942702.bild.html",
-      "image_title": "Burger King: Saure-Gurken-Whopper für Schwangere – skurrile Aktion zum Frauentag"
-    },
-    {
-      "title": "Dresdner Neustadt : Fünf Kinder bei Brand in Shisha-Bar",
-      "teaser": "Die Feuerwehr musste Sonntagabend eine brennende Shisha-Bar in der Neustadt löschen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/brand-in-dresdner-neustadt-20-gaeste-aus-shisha-bar-gerettet-79945552.bild.html",
-      "image_title": "Brand in Dresden: Fünf Kinder bei Feuer in Shisha-Bar gerettet"
-    },
-    {
-      "title": "Hausdurchsuchungen : Polizei geht gegen Kinderpornos vor",
-      "teaser": "Bei drei Männern im Landkreis Rosenheim wurden Kinderpornos gefunden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/hausdurchsuchungen-polizei-geht-gegen-kinderpornos-vor-79948976.bild.html",
-      "image_title": "Hausdurchsuchungen: Polizei geht gegen Kinderpornos vor"
     },
     {
       "title": "Drama über der Ostsee : Eurofighter fangen Russen ab",
