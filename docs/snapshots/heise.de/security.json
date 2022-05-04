@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-04T11:16:49",
+  "timestamp": "2022-05-04T12:45:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2bfbc11ebfa7c9932539",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.e3d2373ec59398961033",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Aruba- und Avaya-Switches",
+      "url": "https://www.heise.de/news/TLStorm-2-Kritische-Luecken-bedrohen-Switches-von-Aruba-und-Avaya-7074477.html"
+    },
     {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Wichtige-Sicherheitsupdates-fuer-Android-10-11-und-12-erschienen-7072491.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Videokonferenzen-Schwachstellen-in-Zoom-ermoeglichen-Rechteausweitung-und-mehr-7069420.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Firewalls-von-Cisco-neu-starten-lassen-7069408.html"
+      "title": "iX-Workshop: KRITIS – Prüfverfahrenskompetenz für § 8a BSIG (Last Call)",
+      "teaser": "Erlangen Sie spezielle KRITIS-Prüfverfahrenskompetenz für § 8a BSIG; inklusive optionaler, direkt anschließender Abschlussprüfung. Noch einige Plätze frei.",
+      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Pruefverfahrenskompetenz-fuer-8a-BSIG-Last-Call-7071169.html",
+      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
+    },
+    {
+      "title": "TLStorm 2: Kritische Lücken bedrohen Switches von Aruba und Avaya",
+      "teaser": "Aufgrund von Software-Fehlern könnten Angreifer unbefugt in sensible Netzwerkbereiche von Unternehmen eindringen.",
+      "url": "https://www.heise.de/news/TLStorm-2-Kritische-Luecken-bedrohen-Switches-von-Aruba-und-Avaya-7074477.html"
     },
     {
       "title": "iX-Workshop: Azure AD als zentraler Authentifizierungsdienst",
@@ -59,6 +70,11 @@
       "url": "https://www.heise.de/news/Cyberangriff-fuehrt-zu-Einschraenkungen-fuer-Kunden-beim-Autovermieter-Sixt-7074381.html"
     },
     {
+      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
+      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
+    },
+    {
       "title": "Anonymisierendes Betriebssystem: Linux-Unterbau von Tails 5.0 erneuert",
       "teaser": "Die Tails-Entwickler haben das System in Version 5 vor allem in der Bedienung optimiert und viele Tools in aktuellen Versionen implementiert.",
       "url": "https://www.heise.de/news/Anonymisierendes-Betriebssystem-Linux-Unterbau-von-Tails-5-0-erneuert-7074287.html"
@@ -67,11 +83,6 @@
       "title": "Patchday: Wichtige Sicherheitsupdates für Android 10, 11 und 12 erschienen",
       "teaser": "Google hat sein mobiles Betriebssystem gegen mehrere mögliche Attacken abgesichert. Außerdem können Lückenfinder in Android 13 Beta Millionäre werden.",
       "url": "https://www.heise.de/news/Patchday-Wichtige-Sicherheitsupdates-fuer-Android-10-11-und-12-erschienen-7072491.html"
-    },
-    {
-      "title": "Wie Sie Ihre Daten nutzen können, um bessere Entscheidungen zu treffen",
-      "teaser": "Um Business-Entscheidungen treffen zu können, benötigen Sie zuverlässige Daten. Doch diese liegen meist in unterschiedlichen Systemen und lassen sich nur schwer zusammenführen. Wir zeigen Ihnen im Webcast am 5. Mai um 11:00 Uhr, wie Sie eine echte 360°-Sicht auf Ihr Unternehmen bekommen können.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/schluss-mit-datensilos-bessere-business-entscheidungen-dank-echtem-360blick-auf-ihr-unternehmen-4257?source=hbsad-ersatz"
     },
     {
       "title": "Phisher haben Microsoft und den Handel im Visier",
@@ -146,16 +157,6 @@
       "title": "Sicherheitsupdates: Angreifer könnten Firewalls von Cisco neu starten lassen",
       "teaser": "Es gibt wichtige Sicherheitsupdates für Cisco Firepower Threat Defense und Adaptive Security Appliance.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Firewalls-von-Cisco-neu-starten-lassen-7069408.html"
-    },
-    {
-      "title": "Studie: Active Directory je nach Branche unterschiedlich angreifbar",
-      "teaser": "Einer Befragung von IT-Verantwortlichen zufolge spielt bei der Absicherung des Active Directory die Branche eine Rolle. Auch ist die Unternehmensgröße relevant.",
-      "url": "https://www.heise.de/news/Studie-Active-Directory-je-nach-Branche-unterschiedlich-angreifbar-7069098.html"
-    },
-    {
-      "title": "Störung bei Fernwartung von Windkraftanlagen weitgehend behoben",
-      "teaser": "Durch einen mutmaßlichen Cyber-Angriff wird die Kommunikation für die Fernwartung Tausender Windräder gestört. Nun sind die meisten Windparks wieder angebunden.",
-      "url": "https://www.heise.de/news/Stoerung-bei-Fernwartung-von-Windkraftanlagen-weitgehend-behoben-7069313.html"
     },
     {
       "title": "heise Security Tour 2022",
