@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-05T11:18:29",
+  "timestamp": "2022-05-05T12:44:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Noch kein Update: DNS-Poisoning-Lücke in vielen IoT-Geräten",
+      "teaser": "Eine Sicherheitslücke in den Bibliotheken uClibc und uClibc-ng vereinfacht DNS-Poisoning-Angriffe, die Anfragen auf fremde Server umleiten.",
+      "url": "https://www.heise.de/news/Noch-kein-Update-DNS-Poisoning-Luecke-in-vielen-IoT-Geraeten-7074442.html",
+      "image_title": "Aufmacher DNS-Poisoning in uClibc/-ng"
+    },
+    {
+      "title": "Microsoft wirft unsichere Anmeldung für Exchange Online raus",
+      "teaser": "Das sogenannte Basic-Auth-Verfahren zur Anmeldung am Exchange-Online-Postfach gilt als äußerst unsicher. Microsoft schaltet es ab dem 1. Oktober ab.",
+      "url": "https://www.heise.de/news/Microsoft-wirft-unsichere-Anmeldung-fuer-Exchange-Online-raus-7074899.html",
+      "image_title": "Aufmacher MS Exchange Online Basic Auth deaktiviert"
+    },
+    {
       "title": "Nach Diebstahl aus der Ukraine: Digitale Landmaschinen aus der Ferne gesperrt",
       "teaser": "Die russischen Invasoren hatten Fahrzeuge im Wert von 5 Millionen US-Dollar mitgehen lassen. Doch die Freude währte dank digitaler Technik nicht lange.",
       "url": "https://www.heise.de/news/Nach-Diebstahl-aus-der-Ukraine-Digitale-Landmaschinen-aus-der-Ferne-gesperrt-7071729.html",
       "image_title": "Trecker bei der Heuernte"
-    },
-    {
-      "title": "Ukraine-Krieg: Internet in Oblast Cherson wird nun über Russland geroutet",
-      "teaser": "Seit Wochen haben russische Truppen die Oblast Cherson nördlich der Halbinsel Krim besetzt. Nun wird offenbar die Abkapselung von der Ukraine vorangetrieben.",
-      "url": "https://www.heise.de/news/Ukraine-Krieg-Internet-in-Oblast-Cherson-wird-nun-ueber-Russland-geroutet-7072799.html",
-      "image_title": "Flag,Of,Russia,And,Ukraine,Painted,On,A,Concrete,Wall"
-    },
-    {
-      "title": "Apple-Prozessor M1 Ultra: Multi-Chip-Verbund mit neuer TSMC-Fertigungstechnik",
-      "teaser": "Moderne Halbleiter vom Chipauftragsfertiger TSMC: Apples M1 Ultra besteht aus zwei Chips, die ohne teuren Silizium-Interposer auskommen.",
-      "url": "https://www.heise.de/news/Apple-Prozessor-M1-Ultra-Multi-Chip-Verbund-mit-neuer-TSMC-Fertigungstechnik-7072236.html"
     },
     {
       "title": "Smart Home: Wann und wie sich Zwischenstecker lohnen",
@@ -52,6 +53,21 @@
       "teaser": "Mit dem Spionage-Tool können Behörden und Kriminelle nicht nur die alle Inhalte auslesen, sondern auch Mikrofon und Kamera von iPhones aktivieren. Wie geht das?",
       "url": "https://www.heise.de/hintergrund/Analyse-Wie-die-iPhone-Spyware-Pegasus-vorging-7073968.html",
       "image_title": ", Sergey Nivens, stock.adobe.com"
+    },
+    {
+      "title": "Tipp: Monitor an alten iMac über Thunderbolt anschließen",
+      "teaser": "Gängige externe Bildschirme lassen sich Sie mit Hilfe eines Mini-DisplayPort-Adapters an einem älteren Mac mit Thunderbolt-Port betreiben.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Monitor-an-alten-iMac-ueber-Thunderbolt-anschliessen-7076753.html"
+    },
+    {
+      "title": "Sicherheitsupdate schützt IBMs Datenbanksystem Informix Dynamic Server",
+      "teaser": "Ein wichtiger Sicherheitspatch schließt eine Schwachstelle in IBMs Informix Dynamic Server.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-schuetzt-IBMs-Datenbankmanagementsystem-Informix-Dynamic-Server-7076231.html"
+    },
+    {
+      "title": "Flexibilität gegen Aufpreis: Starlink bietet neue Portability-Option an",
+      "teaser": "Für einen Aufpreis von 25 US-Dollar pro Monat dürfen Nutzer das Satelliten-Internet künftig auf dem gesamten Kontinent verwenden. Autos und Boote bleiben tabu.",
+      "url": "https://www.heise.de/news/Flexibilitaet-gegen-Aufpreis-Starlink-bietet-neue-Portability-Option-an-7076632.html"
     },
     {
       "title": "software-architektur.tv: Lösungsstrategie & Kontext am Beispiel iSAQB Advanced",
@@ -102,12 +118,6 @@
       "url": "https://www.heise.de/news/iX-Workshop-Erfolgreich-mit-einem-Hybrid-Cloud-Modell-7073759.html"
     },
     {
-      "title": "Noch kein Update: DNS-Poisoning-Lücke in vielen IoT-Geräten",
-      "teaser": "Eine Sicherheitslücke in den Bibliotheken uClibc und uClibc-ng vereinfacht DNS-Poisoning-Angriffe, die Anfragen auf fremde Server umleiten.",
-      "url": "https://www.heise.de/news/Noch-kein-Update-DNS-Poisoning-Luecke-in-vielen-IoT-Geraeten-7074442.html",
-      "image_title": "Aufmacher DNS-Poisoning in uClibc/-ng"
-    },
-    {
       "title": "AR-Headsets: Google kauft Micro-LED-Unternehmen Raxium",
       "teaser": "Google hat die Micro-LED-Firma Raxium gekauft. Das könnte helfen, die Preise für AR-Headsets zu senken.",
       "url": "https://www.heise.de/news/AR-Headsets-Google-kauft-Micro-LED-Unternehmen-Raxium-7075344.html",
@@ -124,16 +134,6 @@
       "teaser": "An diesem Donnerstag findet der alljährliche Welt-Passwort-Tag statt. Grund dazu, sich noch einmal Gedanken über die Sicherheit von Zugängen zu machen.",
       "url": "https://www.heise.de/news/Welt-Passwort-Tag-Zugangssicherheit-im-Fokus-7070092.html",
       "image_title": "Aufmacher Übersichtsmeldung Welt-Passwort-Tag"
-    },
-    {
-      "title": "Nach Cyberangriff auf Fraunhofer-Institut in Halle Daten im Darknet angeboten",
-      "teaser": "Hunderte Gigabyte an Daten sollen beim Fraunhofer-Institut für Mikrostruktur abgeschöpft worden sein. Eine Lösegeldforderung ließ das Institut verstreichen.",
-      "url": "https://www.heise.de/news/Nach-Hackerangriff-auf-Fraunhofer-Institut-in-Halle-Daten-im-Darknet-angeboten-7075239.html"
-    },
-    {
-      "title": "Extension: Mehr PowerShell unter Visual Studio Code",
-      "teaser": "Microsoft erweitert den kostenlosen Quelltext-Editor Visual Studio Code um eine vollständig überarbeitete Version der integrierten PowerShell-Engine.",
-      "url": "https://www.heise.de/news/Extension-Mehr-PowerShell-unter-Visual-Studio-Code-7075159.html"
     },
     {
       "title": "Trendstudie",
