@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-09T13:40:28",
+  "timestamp": "2022-05-09T14:19:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Freifunk Gluon",
+      "url": "https://www.heise.de/news/Freifunk-Einschleusen-boesartiger-Firmware-durch-kritische-Luecke-moeglich-7079644.html"
+    },
+    {
       "title": "Patchday Fortinet",
       "url": "https://www.heise.de/news/Patchday-Fortinet-schuetzt-IP-Telefone-vor-Schadcode-Attacken-7079563.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Videoueberwachungssystem-und-NAS-von-Qnap-moeglich-7077449.html"
     },
     {
-      "title": "IBM Informix Dynamic Server",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-schuetzt-IBMs-Datenbankmanagementsystem-Informix-Dynamic-Server-7076231.html"
+      "title": "Hilfestellung für die Analyse schadbringender Dokumente",
+      "teaser": "Das SANS-Institut veröffentlicht einen neuen \"Spickzettel\", der bei der Malware-Analyse verschiedener Dokumenttypen helfen soll.",
+      "url": "https://www.heise.de/news/Hilfestellung-fuer-die-Analyse-schadbringender-Dokumente-7079601.html"
+    },
+    {
+      "title": "Freifunk: Einschleusen schädlicher Firmware durch kritische Lücke möglich",
+      "teaser": "Freifunk aktualisiert seine Router-Firmware und schließt eine kritische Sicherheitslücke, durch die Angreifer eigene Firmware auf die Geräte aufspielen könnten.",
+      "url": "https://www.heise.de/news/Freifunk-Einschleusen-boesartiger-Firmware-durch-kritische-Luecke-moeglich-7079644.html",
+      "image_title": "Aufmacher Freifunk Gluon-Firmware Update gegen Sicherheitslücke"
     },
     {
       "title": "Patchday: Fortinet schützt IP-Telefone vor Schadcode-Attacken",
@@ -141,17 +152,6 @@
       "teaser": "Ein Sicherheitsforscher ärgert die Entwickler der Erpressungstrojaner REvil, LockBit & Co.",
       "url": "https://www.heise.de/news/l-f-Malware-Autoren-muessen-Sicherheitspatch-entwickeln-7074959.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Microsoft wirft unsichere Anmeldung für Exchange Online raus",
-      "teaser": "Das sogenannte Basic-Auth-Verfahren zur Anmeldung am Exchange-Online-Postfach gilt als äußerst unsicher. Microsoft schaltet es ab dem 1. Oktober ab.",
-      "url": "https://www.heise.de/news/Microsoft-wirft-unsichere-Anmeldung-fuer-Exchange-Online-raus-7074899.html",
-      "image_title": "Aufmacher MS Exchange Online Basic Auth deaktiviert"
-    },
-    {
-      "title": "Spyware blieb in Unternehmen bis zu 18 Monate lang unentdeckt",
-      "teaser": "Die \"Quietexit\" genannte Backdoor blieb teilweise 18 Monate unentdeckt. Sicherheitsforscher vermuten, dass dahinter eine staatliche Gruppe steckt.",
-      "url": "https://www.heise.de/news/Spyware-blieb-in-Unternehmen-bis-zu-18-Monate-lang-unentdeckt-7074066.html"
     },
     {
       "title": "heise Security Tour 2022",
