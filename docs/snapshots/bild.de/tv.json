@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-10T14:25:24",
+  "timestamp": "2022-05-10T15:23:48",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.2be9be5c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.4d581c33.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.63b28b4e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.99b32ac5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d4204342.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7675fb68.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Serien-Liebling Ulrike Frank : Dieser GZSZ-Tod hat mich umgehauen",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/gzsz-star-ulrike-frank-dieser-serien-tod-hat-mich-umgehauen-80027564.bild.html",
-      "image_url": "https://images.bild.de/62790f5240b7475054e1b711/8b9e8f24830d0a4f78ecf6593e0951cc/2/2?w=656",
-      "image_title": "GZSZ-Star Ulrike Frank: Dieser Serien-Tod hat mich umgehauen"
-    },
-    {
-      "title": "„NetzBeweis“-Deal : Tränen-Pakt hinter den „Höhle der Löwen“-Kulissen",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/netzbeweis-bei-hoehle-der-loewen-traenen-pakt-was-nach-dem-deal-geschah-80034110.bild.html",
-      "image_url": "https://images.bild.de/627a13f686b286649cf2204a/77feda664bef52ab6df8af9b9368f741-miniSquare/3/2?w=320",
-      "image_title": "„NetzBeweis“ bei „Höhle der Löwen“: Tränen-Pakt! Was nach dem Deal geschah"
-    },
-    {
-      "title": "„Bauer sucht Frau“ : Félix rechnet mit seiner Hofdame ab",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-international-flix-rechnet-mit-seiner-hofdame-ab-80032632.bild.html",
-      "image_url": "https://images.bild.de/62797e4f40b7475054e1b7e1/a4c50735a6d078eecca456ac24efa125-miniSquare/1/2?w=320",
-      "image_title": "„Bauer sucht Frau – International“: Félix rechnet mit seiner Hofdame ab"
-    },
-    {
-      "title": "„Die Höhle der Löwen“ : Rosberg schenkt Gründern Geld!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-hoehle-der-loewen-rosberg-schenkt-gruendern-geld-80032340.bild.html",
-      "image_url": "https://images.bild.de/62796c8074724468ea1d1bfa/cce5e202e64936ddf453bd256365ae33-miniSquare/2/2?w=320",
-      "image_title": "„Die Höhle der Löwen“: Rosberg schenkt Gründern Geld!"
-    },
-    {
-      "title": "GZSZ-Geheimnisse : Wer vor Kuss-Szenen extra eine Kippe raucht",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/gzsz-geheimnisse-der-soap-stars-wer-vor-kussszenen-eine-kippe-raucht-80026586.bild.html",
-      "image_url": "https://images.bild.de/6279017874724468ea1d1b48/1e61a0788bfd7a50539f5fb61caa44c5-miniSquare/1/2?w=320",
-      "image_title": "GZSZ-Geheimnisse der Soap-Stars: Wer vor Kussszenen eine Kippe raucht"
-    },
-    {
-      "title": "50 Jahre Ballermann : Feiert Melanie Müller ihr Comeback?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/melanie-mueller-feiert-sie-ihr-ballermann-comenack-alle-infos-77342372.bild.html",
-      "image_title": "Melanie Müller: Feiert sie jetzt ihr Ballermann-Comeback?"
-    },
-    {
-      "title": "Ab dem 9. Mai : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme und Serien der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-amazon-prime-diese-filme-und-serien-starten-diese-woche-79995924.bild.html",
-      "image_title": "Neu bei Amazon Prime: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "14. Doc der Endlos-Serie : „Sex Education“-Liebling wird „Doctor Who“",
-      "teaser": "Diese Serie hat einen Eintrag im Guinness-Buch der Rekorde. Und nun hat „Doctor Who“ einen neuen Doc.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/doctor-who-ncuti-gatwa-ist-der-neue-hauptdarsteller-80027182.bild.html",
-      "image_title": "„Doctor Who“: Ncuti Gatwa ist der neue Hauptdarsteller"
-    },
-    {
-      "title": "Ab dem 9. Mai : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-netflix-diese-serien-und-filme-starten-diese-woche-neu-79995912.bild.html",
-      "image_title": "Neu bei Netflix: Diese Serien und Filme starten diese Woche neu"
-    },
-    {
-      "title": "Zoff bei „Kampf der Realitystars“ : Jan Leyk bringt Zwillinge zum Heulen",
-      "teaser": "Pöbel-Profi Jan Leyk und die Influencer-Zwillinge Ilona und Suzana gerieten heftig aneinander.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-jan-leyk-bringt-jakic-zwillinge-zum-heulen-80006666.bild.html",
-      "image_title": "„Kampf der Realitystars“: Jan Leyk bringt Jakic-Zwillinge zum Heulen"
-    },
-    {
-      "title": "„Grill den Henssler“ : GZSZ-Star mit Hochzeitsnacht ohne Ehemann",
-      "teaser": "Muttertag bei „Grill den Henssler“. Drei Promis, drei Mamas. Und spannende Geschichten.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/grill-den-henssler-gzsz-star-hatte-hochzeitsnacht-ohne-ehemann-80020792.bild.html",
-      "image_title": "„Grill den Henssler“: GZSZ-Star hatte Hochzeitsnacht ohne Ehemann"
-    },
-    {
-      "title": "Harry neuer Superstar : Wofür der neue DSDS-Sieger jetzt kämpfen will",
-      "teaser": "Er kam, sang & siegte! Deutschlands neuer Superstar heißt Harry Laffontien (21). Und nun?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/harry-laffontien-gewinnt-dsds-ich-weiss-noch-gar-nicht-wie-es-jetzt-weitergeht-80012138.bild.html",
-      "image_title": "DSDS-Gewinner Harry Laffontien: „Ich weiß noch gar nicht, wie es jetzt weitergeht“"
-    },
-    {
-      "title": "„The Voice Kids“ : Georgia gewinnt das Finale",
-      "teaser": "Am Freitagabend holte sich Georgia aus Bremerhaven den Sieg bei „The Voice Kids“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-kids-georgia-gewinnt-das-finale-80005142.bild.html",
-      "image_title": "„The Voice Kids“: Georgia gewinnt das Finale"
-    },
-    {
-      "title": "Bei „Duell um die Welt“ : Großkreutz wird zur lebenden Zielscheibe",
-      "teaser": "Am Samstagabend kannten Joko und Klaas mal wieder keine Gnade!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/duell-um-die-welt-grosskreutz-wird-zur-zielscheibe-bei-armbrust-experiment-80012096.bild.html",
-      "image_title": "„Duell um die Welt“: Großkreutz wird zur Zielscheibe bei Armbrust-Experiment"
-    },
-    {
-      "title": "Bohlen-Comeback im Finale : Harry Laffontien ist Deutschlands neuer Superstar!",
-      "teaser": "Harry Laffontien ist der Gewinner der 19. „Deutschland sucht den Superstar“-Staffel!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/dsds-finale-mit-bohlen-harry-laffontien-ist-deutschlands-neuer-superstar-80011896.bild.html",
-      "image_title": "DSDS-Finale mit Bohlen: Harry Laffontien ist Deutschlands neuer Superstar!"
-    },
-    {
-      "title": "Wer gewinnt DSDS? : Silbereisen macht den Finalisten-Check",
-      "teaser": "DSDS-Chefjuror Florian Silbereisen sagt, wen er für den aktuellen Gewinner der Show hält.",
-      "url": "https://www.bild.de/unterhaltung/tv/leute/dsds-finale-florian-silbereisen-macht-den-finalisten-check-80000080.bild.html",
-      "image_title": "DSDS-Finale: Florian Silbereisen macht den Finalisten-Check"
-    },
-    {
-      "title": "Jive-Panne bei „Let’s Dance“ : René und Kathrin patzen bei Hebefigur",
-      "teaser": "Artist René Casselly und Profitänzerin Kathrin Menzinger patzten bei ihrem Jive-Tanz.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-ren-und-kathrin-patzen-bei-hebefigur-80005064.bild.html",
-      "image_title": "„Let’s Dance“: René und Kathrin patzen bei Hebefigur"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-79995868.bild.html",
-      "image_title": "Netflix: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-79995884.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Georgina im „The Voice Kids“-Finale : Gesangswunder rockt Berlin",
-      "teaser": "Georgia Balke ist gerade mal 11 und verzaubert alle mit ihrer gewaltigen Stimme.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/georgina-11-im-the-voice-kids-finale-gesangswunder-rockt-berlin-79988336.bild.html",
-      "image_title": "Georgina (11) im „The Voice Kids“-Finale: Gesangswunder rockt Berlin"
-    },
-    {
-      "title": "Knatsch bei Gntm : „Richtig frech. Eine Unterstellung. Stopp hier!“",
-      "teaser": "Die Best Ager fahren die Krallen aus. Diese Woche erwartet die Zuschauer ein Zicken-Krieg.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-zoff-so-richtig-frech-eine-unterstellung-stopp-hier-79989270.bild.html",
-      "image_title": "GNTM-Zoff: „So richtig frech. Eine Unterstellung. Stopp hier!“"
-    },
-    {
-      "title": "„Club der guten Laune“ : Cora Schumacher packt über Ehe mit Ralf aus",
-      "teaser": "Im „Club der guten Laune“ sprach Cora Schumacher über ihre Ehe mit Ex-Formel-1-Fahrer Ralf.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/club-der-guten-laune-cora-schumacher-packt-ueber-ehe-mit-ralf-aus-79980886.bild.html",
-      "image_title": "Club der guten Laune: Cora Schumacher packt über Ehe mit Ralf aus"
-    },
-    {
-      "title": "„Club der guten Laune“ : Was Cora der Flirt mit Marc bedeutet hat",
-      "teaser": "Marc Terenzi kuschelte mit Cora Schumacher UND Jenny Elvers.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/club-der-guten-laune-hier-kuschelt-marc-terenzi-mit-cora-schumacher-79975318.bild.html",
-      "image_title": "Club der guten Laune: Hier kuschelt Marc Terenzi mit Cora Schumacher"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-alle-infos-zur-dritten-staffel--kandidaten-regeln-highlights-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Alle Kandidaten und wer wie lange in der Sala war"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Sorge um Fürst Heinz von Sayn-Wittgenstein",
-      "teaser": "Zu Beginn der vierten Folge sah alles friedlich aus. Doch dann erlitt Heinz einen Kreislaufkollaps.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-kreislaufkollaps-sorge-um-fuerst-heinz-von-sayn-wittgenst-79977912.bild.html",
-      "image_title": "„Kampf der Realitystars“: Sorge um Fürst Heinz von Sayn-Wittgenstein"
-    },
-    {
-      "title": "Marc Terenzi und Cora Schumacher : Heiße Bettspiele im „Club der Guten Laune“",
-      "url": "https://www.bild.de/video/clip/glomex/was-sagt-jenny-elvers-dazu-bett-flirt-zwischen-cora-schumacher-und-marc-terenzi-v-cjr58yus5v3t-79990206,auto=true.bild.html",
-      "image_title": "Marc Terenzi und Cora Schumacher: Heiße Bettspiele im „Club der Guten Laune“"
-    },
-    {
-      "title": "Nervenkitzel pur! : Stirbt Gerner in der Geburtstags-Folge?",
-      "url": "https://www.bild.de/video/clip/video/gzsz-jubilaeum-so-spanned-wir-die-geburtstags-folge-79977000,auto=true.bild.html",
-      "image_title": "Nervenkitzel pur!: Stirbt Gerner in der Geburtstags-Folge?"
-    },
-    {
-      "title": "Game - Set -Foto? : Heidis Models müssen Tennis spielen",
-      "url": "https://www.bild.de/video/clip/glomex/game-set-foto-heidis-models-muessen-tennis-spielen-79956558,auto=true.bild.html",
-      "image_title": "Game - Set -Foto?: Heidis Models müssen Tennis spielen"
-    }
-  ]
+  "articles": []
 }
