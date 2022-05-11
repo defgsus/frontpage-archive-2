@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-11T08:29:35",
+  "timestamp": "2022-05-11T09:21:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,20 +32,26 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-bedrohen-ColdFusion-InDesign-Co-7081357.html"
+    },
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-in-Chrome-13-Sicherheitsluecken-7081339.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-klinken-sich-in-Domain-Controller-ein-7081322.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-behebt-acht-neu-entdeckte-Sicherheitsprobleme-7081276.html"
     },
     {
-      "title": "Freifunk Gluon",
-      "url": "https://www.heise.de/news/Freifunk-Einschleusen-boesartiger-Firmware-durch-kritische-Luecke-moeglich-7079644.html"
-    },
-    {
-      "title": "Patchday Fortinet",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schuetzt-IP-Telefone-vor-Schadcode-Attacken-7079563.html"
-    },
-    {
-      "title": "F5 BIG-IP",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-F5-BIG-IP-Systeme-koennten-bevorstehen-7079049.html"
+      "title": "Webbrowser: Google schließt in Chrome 13 Sicherheitslücken",
+      "teaser": "Google hat den Desktop-Webbrowser sowie die Extended-Stable-Version von Chrome aktualisiert. Die Standardversion korrigiert 13 sicherheitsrelevante Fehler.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-in-Chrome-13-Sicherheitsluecken-7081339.html",
+      "image_title": "Aufmacher Chrome-Update"
     },
     {
       "title": "Patchday: SAP behebt acht neu entdeckte Sicherheitsprobleme",
@@ -71,10 +77,21 @@
       "url": "https://www.heise.de/news/EU-und-USA-Russland-fuer-Ausfall-des-Satellitennetzwerks-KA-Sat-verantwortlich-7080650.html"
     },
     {
+      "title": "Soziales Netzwerk: Spam-Welle rollt durch Xing",
+      "teaser": "Nutzer des sozialen Business-Netzwerks Xing erhalten derzeit vermehrt Nachrichten, dass sie in Beiträgen erwähnt wurden. Es handelt sich dabei um Spam.",
+      "url": "https://www.heise.de/news/Soziales-Netzwerk-Spam-Welle-rollt-durch-Xing-7080326.html",
+      "image_title": "Aufmacher Xing-SPAM"
+    },
+    {
       "title": "BKA-Bericht Cybercrime: Ransomware beeinträchtigt die Funktion des Gemeinwesens",
       "teaser": "Das Bedrohungs- und Schadenspotenzial von Verschlüsselungstrojanern ist 2021 laut dem BKA erneut spürbar angestiegen. Ganze Lieferketten seien gefährdet.",
       "url": "https://www.heise.de/news/BKA-Bericht-Cybercrime-Ransomware-beeintraechtigt-die-Funktion-des-Gemeinwesens-7080066.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "Utimaco, der Krypto-Miner und ein Disclosure-Desaster​",
+      "teaser": "Auch Anbieter von Hochsicherheitslösungen sind vor Securityproblemen nicht gefeit. Man sollte sich vorbereiten, bevor man davon erfährt, sagt Jürgen Schmidt.",
+      "url": "https://www.heise.de/meinung/Utimaco-der-Krypto-Miner-und-ein-Disclosure-Desaster-7079962.html"
     },
     {
       "title": "Hilfestellung für die Analyse schadbringender Dokumente",
@@ -137,22 +154,6 @@
       "title": "Schadcode-Attacken auf Videoüberwachungssystem und NAS von Qnap möglich",
       "teaser": "Wichtige Sicherheitsupdates schließen mehreren Lücken in Netzwerkprodukten von Qnap.",
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Videoueberwachungssystem-und-NAS-von-Qnap-moeglich-7077449.html"
-    },
-    {
-      "title": "Passwort-Nachfolge: Apple, Google und Microsoft unterstützen erweitertes FIDO",
-      "teaser": "Schneller, einfacher und sicherer sollen Log-ins quer über alle Geräte und Plattformen werden. Das unterstützen nun auch Apple, Google und Microsoft.",
-      "url": "https://www.heise.de/news/Passwort-Nachfolge-Apple-Google-und-Microsoft-unterstuetzen-erweitertes-FIDO-7076804.html",
-      "image_title": "Aufmacher Apple, Goole, MS unterstützen erweitertes FIDO"
-    },
-    {
-      "title": "Sicherheitsupdate schützt IBMs Datenbanksystem Informix Dynamic Server",
-      "teaser": "Ein wichtiger Sicherheitspatch schließt eine Schwachstelle in IBMs Informix Dynamic Server.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-schuetzt-IBMs-Datenbankmanagementsystem-Informix-Dynamic-Server-7076231.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Cisco schließt VM-Ausbruch-Lücken mit Root-Zugriff",
-      "teaser": "Der Netzwerkausrüster Cisco hat unter anderem in Enterprise NFV Infrastrucutre Software eine kritische Lücke geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-schliesst-VM-Ausbruch-Luecken-mit-Root-Zugriff-7075725.html"
     },
     {
       "title": "heise Security Tour 2022",
