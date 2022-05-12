@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-12T09:22:19",
+  "timestamp": "2022-05-12T10:27:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft: Windows-Schwachstelle attackiert - Domain-Controller updaten",
+      "teaser": "Eine aktiv ausgenutzte Schwachstelle betrifft viele Windows- und Windows-Server-Versionen. Zwei weitere Lücken sind bekannt. Attacken könnten bevorstehen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-klinken-sich-in-Domain-Controller-ein-7081322.html"
+    },
+    {
       "title": "Gehaltsreport: Hohes Einstiegsgehalt bei IT-Fachkräften",
       "teaser": "Zu wenige Fachkräfte sowie eine große Wechselbereitschaft zwingen Arbeitgeber dazu, attraktive Konditionen zu bieten. Die Gehälter sind entsprechend hoch.",
       "url": "https://www.heise.de/news/Gehaltsreport-Hohes-Einstiegsgehalt-bei-IT-Fachkraeften-7080829.html"
@@ -34,11 +39,6 @@
       "title": "AMD Radeon RX 6x50 XT: Grafikkarten-Refresh im ersten Test",
       "teaser": "AMDs neue Radeon-Grafikkarten sind da, darunter das Topmodell RX 6950 XT. Wir erklären, welche Modelle sich lohnen.",
       "url": "https://www.heise.de/tests/AMD-Radeon-RX-6x50-XT-Grafikkarten-Refresh-im-ersten-Test-7080678.html"
-    },
-    {
-      "title": "20 Jahre: Happy Birthday RHEL",
-      "teaser": "Vor 20 Jahren vollzog Red Hat einen fundamentalen Schnitt seines Geschäftsmodells in dessen Zentrum die erste Version von Red Hat Enterprise Linux (RHEL) stand.",
-      "url": "https://www.heise.de/hintergrund/20-Jahre-Happy-Birthday-RHEL-7080298.html"
     },
     {
       "title": "Schnelle Speicherkarten: Diese Technik steckt hinter SD Express",
@@ -52,12 +52,27 @@
       "image_title": ", Albert Hulm"
     },
     {
+      "title": "enterJS-Keynotes 2022: Der menschliche Faktor im Innovationsprozess und NFTs",
+      "teaser": "Die JavaScript-Konferenz findet in diesem Jahr wieder vor Ort in Darmstadt statt. Neben den 35 Vorträgen und vier Workshops stehen nun auch die Keynotes fest.",
+      "url": "https://www.heise.de/news/enterJS-Keynotes-2022-Der-menschliche-Faktor-im-Innovationsprozess-und-NFTs-7081722.html"
+    },
+    {
+      "title": "software-architektur.tv: Gibt es das Wasserfallmodell überhaupt?",
+      "teaser": "heise Developer präsentiert software-architektur.tv, Eberhard Wolffs Videocast. Thema diesmal: das umstrittene Wasserfallmodell und seine Mythen.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Gibt-es-das-Wasserfallmodell-ueberhaupt-7080177.html"
+    },
+    {
+      "title": "JavaScript-Testing-Framework Jest landet bei der OpenJS Foundation",
+      "teaser": "Die Verantwortung für eins der populärsten Testwerkzeuge für JavaScript wandert von Meta zu der unter dem Dach der Linux Foundation geführten OpenJS Foundation.",
+      "url": "https://www.heise.de/news/JavaScript-Testing-Framework-Jest-landet-bei-der-OpenJS-Foundation-7088848.html"
+    },
+    {
       "title": "Aktuelle BIOS/UEFI-Versionen schließen Schadcode-Schlupflöcher in HP-Computern",
       "teaser": "Wer einen PC von HP besitzt, sollte die Firmware aus Sicherheitsgründen auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Aktuelle-BIOS-UEFI-Versionen-schliessen-Schadcode-Schlupfloecher-in-HP-Computern-7088965.html"
     },
     {
-      "title": "SQL Server für Entwickler: Die Webinar-Serie von Heise",
+      "title": "Microsoft SQL Server für Entwickler: Die Webinar-Serie von Heise",
       "teaser": "In fünf digitalen Live-Trainings lernen Interessierte in insgesamt 20 praxisnahen Stunden, wie sie die tägliche Arbeit mit dem SQL Server meistern",
       "url": "https://www.heise.de/news/SQL-Server-fuer-Entwickler-Die-Webinar-Serie-von-Heise-7077741.html"
     },
@@ -115,23 +130,6 @@
       "teaser": "Automatische Zusammenfassungen und Wortprotokolle, bessere Videobilder und weniger Echo",
       "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-soll-in-Google-Workspace-die-Informationsflut-eindaemmen-7081207.html",
       "image_title": "Google Pichai schreitet auf eine Bühne; auf der Leinwand prangt das I/O-Logo"
-    },
-    {
-      "title": "Voll flexibel: Samsung zeigt Mobildisplays zum Falten und Auseinanderziehen",
-      "teaser": "Samsung rückt auf der Display Week seine OLED-Technik ins Zentrum, es geht um Energiesparen, falt- und aufrollbare Displays und natürlich um die neuen QD-OLEDs.",
-      "url": "https://www.heise.de/news/Voll-flexibel-Samsung-zeigt-Mobildisplays-zum-Falten-und-Auseinanderziehen-7088307.html"
-    },
-    {
-      "title": "Analyst: iPhone mit USB-C kommt wohl 2023",
-      "teaser": "Apples Lieferkette bereitet sich offenbar auf das Aus des Lightning-Ports vor: Das iPhone 15 wird angeblich auf USB-C wechseln.",
-      "url": "https://www.heise.de/news/iPhone-mit-USB-C-kommt-wohl-2023-7087787.html",
-      "image_title": "USB-C vs. Lightning"
-    },
-    {
-      "title": "l+f: Chinesen wollen Windows sicherer machen – oder doch nicht?",
-      "teaser": "Chinesische Sicherheitsforscher haben offensichtlich die Regeln der eigenen Regierung verletzt.",
-      "url": "https://www.heise.de/news/l-f-Chinesen-wollen-Windows-sicherer-machen-oder-doch-nicht-7081764.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "Trendstudie",
