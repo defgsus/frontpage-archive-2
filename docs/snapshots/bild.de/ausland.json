@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-11T23:23:37",
+  "timestamp": "2022-05-12T01:58:28",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.64d94ae3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.8cf0078e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.933448ac.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.cff927f9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.46cd0a55.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Warum der fall die USA in Atem hielt : Die irre Flucht von Vicky & Casey",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/warum-der-fall-ganz-amerika-in-atem-hielt-die-irre-flucht-von-vicky-casey-80056494.bild.html",
-      "image_url": "https://images.bild.de/627c0b46c166364f54f994d6/83b6f19827029b7e15070b29f75ade13/2/2?w=656",
-      "image_title": "Warum der Fall ganz Amerika in Atem hielt: Die irre Flucht von Vicky & Casey"
-    },
-    {
-      "title": "Für 50 Euro aus Berlin : Mit dem Flixbus in den Krieg",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/fuer-50-euro-von-berlin-nach-kiew-mit-dem-flixbus-in-den-krieg-79999108.bild.html",
-      "image_url": "https://images.bild.de/6275103386b286649cf21a8d/838b6a7bf9f834a15f1a771ba88c28ae-miniSquare/1/2?w=320",
-      "image_title": "Für 50 Euro von Berlin nach Kiew: Mit dem Flixbus in den Krieg"
-    },
-    {
-      "title": "Weisser Diamant in Rekord-Größe : „The Rock“ für 17,8 Mio. Euro versteigert",
-      "url": "https://www.bild.de/news/ausland/news-ausland/weisser-diamant-in-rekord-groesse-the-rock-fuer-17-8-mio-euro-versteigert-80056582.bild.html",
-      "image_url": "https://images.bild.de/627c09bdc166364f54f994d4/d515ab05a791c8066f465af049f3a4c5-miniSquare/2/2?w=320",
-      "image_title": "Weisser Diamant in Rekord-Größe: „The Rock“ für 17,8 Mio. Euro versteigert"
-    },
-    {
-      "title": "Studentin († 21) getötet : US-Killer spricht bei seiner Hinrichtung zu Mord-Opfer",
-      "url": "https://www.bild.de/news/ausland/news-ausland/arizona-usa-todesstrafe-killer-spricht-bei-hinrichtung-zu-mord-opfer-80055828.bild.html",
-      "image_url": "https://images.bild.de/627bfd1f277f7042b71a60d1/a8a19a8021ad60974c12cd2345c0ab22-miniSquare/1/2?w=320",
-      "image_title": "Arizona (USA): Todesstrafe! Killer spricht bei Hinrichtung zu Mord-Opfer"
-    },
-    {
-      "title": "LANDUNG NACH PILOTEN-AUSFALL : Passagier zum Tower: „Ich habe keine Ahnung“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-pilot-hat-gesundheitsprobleme-passagier-greift-ein-und-landet-die-cessna-80054220.bild.html",
-      "image_url": "https://images.bild.de/627bd72a277f7042b71a60a0/d09d791cdc6dc6e2b866296cf312fd00-miniSquare/2/3?w=320",
-      "image_title": "USA: Pilot hat Gesundheitsprobleme – Passagier greift ein und landet die Cessna!"
-    },
-    {
-      "title": "So viele Tote wie nie zuvor : Horror-Drogen überschwemmen die USA",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-horror-drogen-ueberschwemmen-das-land-so-viele-tote-wie-noch-nie-80054330.bild.html",
-      "image_title": "USA: Horror-Drogen überschwemmen das Land – so viele Tote wie noch nie"
-    },
-    {
-      "title": "Todkranke Moderatorin : „Die Nachricht, die ich nie schreiben wollte“",
-      "teaser": "„Niemand weiß, wie lange ich noch habe.“ Ihr letztes Posting sammelt eine Mio-Spende!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/bbc-moderatorin-deborah-james-die-nachricht-die-ich-nie-schreiben-wollte-80050990.bild.html",
-      "image_title": "BBC-Moderatorin Deborah James: „Die Nachricht, die ich nie schreiben wollte“"
-    },
-    {
-      "title": "Horror-Infektion nach Katzenbiss : Tierpflegerin könnte ihren Finger verlieren",
-      "teaser": "Scharrowne Farmer wollte nur einer Katze helfen – doch jetzt bangt sie um ihren Finger.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/horror-infektion-nach-katzenbiss-tierpflegerin-koennte-ihren-finger-verlieren-80051382.bild.html",
-      "image_title": "Horror-Infektion nach Katzenbiss: Tierpflegerin könnte ihren Finger verlieren"
-    },
-    {
-      "title": "Lotto-Rekord : Jackpot! Brite ist 215 Mio. Euro reicher",
-      "teaser": "Ein Euromillions-Los hat in Großbritannien den Jackpot geknackt. Kann ich da auch tippen?",
-      "url": "https://www.bild.de/news/ausland/news-inland/lotto-rekord-euromillions-jackpot-in-grossbritannien-geknackt-80046872.bild.html",
-      "image_title": "Lotto-Rekord! Euromillions-Jackpot in Großbritannien geknackt"
-    },
-    {
-      "title": "185 Millionen Euro für ein Bild : Warhols Marilyn knackt den Auktions-Rekord",
-      "teaser": "Warhols Marilyn Monroe ist das teuerste versteigerte Gemälde des 20. Jahrhunderts.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/andy-warhol-knackt-seine-marilyn-monroe-den-auktions-rekord-80024318.bild.html",
-      "image_title": "Andy Warhol: Seine Marilyn Monroe knackte den Auktions-Rekord"
-    },
-    {
-      "title": "Russlands Angriffskrieg : Gesprengte Brücke von Irpin wird zum Mahnmal",
-      "teaser": "In der Not sprengten Pioniere die Brücke zwischen Irpin und Kiew, um die Russen zu stoppen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russlands-angriffskrieg-gesprengte-bruecke-von-irpin-wird-zum-mahnmal-80020280.bild.html",
-      "image_title": "Russlands Angriffskrieg: Gesprengte Brücke von Irpin wird zum Mahnmal"
-    },
-    {
-      "title": "Flugstart in Israel gestoppt : Passagiere kriegen Absturz-Fotos aufs Handy",
-      "teaser": "Flugzeug-Horror auf der Startbahn des Flughafens von Tel Aviv.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/israel-flug-gestoppt-passagiere-bekommen-ploetzlich-absturz-fotos-aufs-handy-80038346.bild.html",
-      "image_title": "Israel: Flug gestoppt! Passagiere bekommen plötzlich Absturz-Fotos aufs Handy"
-    },
-    {
-      "title": "Mysteriöser Mord in den USA : Microsoft-Manager vor Augen seiner Tochter getötet",
-      "teaser": "Ein Microsoft-Manager wird vor den Augen seiner Tochter erschossen. Es gibt kaum Spuren.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-microsoft-manager-vor-den-augen-seiner-tochter-erschossen-80034602.bild.html",
-      "image_title": "USA: Microsoft-Manager vor den Augen seiner Tochter erschossen"
-    },
-    {
-      "title": "Tragisches Ende einer Knast-Liebe : Wärterin stirbt nach Flucht mit Häftling",
-      "teaser": "In den USA hat die Flucht eines Schwerkriminellen und einer Gefängniswärterin ein tragisches Ende gefunden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-gefaengniswaerterin-stirbt-nach-flucht-mit-haeftling-tragisches-ende-einer-k-80035606.bild.html",
-      "image_title": "USA: Gefängniswärterin stirbt nach Flucht mit Häftling – tragisches Ende einer Knast-Liebe"
-    },
-    {
-      "title": "Noch ein Mafia-Opfer? : Zweite Leiche aus Dürre-See aufgetaucht",
-      "teaser": "„Zuerst dachten wir, es war Dickhornschaf und wir fingen an, ein bisschen drumherum zu graben.“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-zweite-leiche-aus-duerre-see-aufgetaucht-80034810.bild.html",
-      "image_title": "USA: Zweite Leiche aus Dürre-See aufgetaucht"
-    },
-    {
-      "title": "Mutter gerettet : Im Park entdeckte eine Fremde meinen Hautkrebs!",
-      "teaser": "USA – Durch eine zufällige Begegnung wurde Melissa Albin (37) vielleicht das Leben gerettet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-hautkrebs-durch-fremde-im-park-entdeckt-zweifach-mama-gerettet-80030594.bild.html",
-      "image_title": "USA: Hautkrebs durch Fremde im Park entdeckt – Zweifach-Mama gerettet"
-    },
-    {
-      "title": "Auf den Bahamas : Drei US-Touristen sterben in Luxus-Resort",
-      "teaser": "Untersuchungen sollen nun klären, ob ein Defekt der Klimaanlage zur Tragödie führte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mysterioese-todesfaelle-auf-den-bahamas-drei-us-touristen-sterben-in-luxus-resor-80021712.bild.html",
-      "image_title": "Mysteriöse Todesfälle auf den Bahamas: Drei US-Touristen sterben in Luxus-Resort"
-    },
-    {
-      "title": "In Villa auf Mallorca : Maklerin (52) stürzt von Terrasse in den Tod",
-      "teaser": "Eine deutsche Maklerin stürzte von der Terrasse ihrer Nobel-Villa auf Mallorca in den Tod.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-deutsche-luxus-maklerin-52-stuerzt-von-terrasse-in-den-tod-80006104.bild.html",
-      "image_title": "Mallorca: Deutsche Luxus-Maklerin (52) stürzt von Terrasse in den Tod"
-    },
-    {
-      "title": "Dramatische Szenen aus Kuba : Explosion vor Luxushotel – viele Tote und Verletzte",
-      "teaser": "Bei einer Explosion vor einem Luxushotel in Havanna wurden mehrere Menschen getötet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kuba-explosion-bei-luxushotel-in-havanna-mehrere-tote-80003178.bild.html",
-      "image_title": "Kuba: Explosion bei Luxushotel in Havanna – mehrere Tote"
-    },
-    {
-      "title": "Wieder Lust auf Liebe … : Mann mit Penis-Arm sucht jetzt Frau auf Tinder",
-      "teaser": "Malcolm MacDonald (47) verlor nach einer Blutvergiftung seinen Penis. Ärzte formten ihm einen neuen Penis am Arm",
-      "url": "https://www.bild.de/news/ausland/news-ausland/wieder-lust-auf-liebe-mann-mit-penis-arm-sucht-jetzt-frau-auf-tinder-80002892.bild.html",
-      "image_title": "Wieder Lust auf Liebe …: Mann mit Penis-Arm sucht jetzt Frau auf Tinder"
-    },
-    {
-      "title": "BILD-Malle-Serie, Teil 5 : So sieht der Ballermann der Zukunft aus",
-      "teaser": "Seit Jahren kämpft die Insel-Regierung gegen den Sauf-Tourismus. Happy Hour, Freibier und Flatrate-Saufen wurden verboten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bild-malle-serie-teil-5-so-sieht-der-ballermann-der-zukunft-aus-80002532.bild.html",
-      "image_title": "BILD-Malle-Serie, Teil 5: So sieht der Ballermann der Zukunft aus"
-    },
-    {
-      "title": "BILD-Malle-Serie, Teil 4 : Drei Generationen Party-Sänger reden über den Ballermann",
-      "teaser": "Zum 50. Geburtstag des Ballermanns bringt BILD drei Generationen Partysänger an einen Tisch.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bild-malle-serie-teil-4-drei-generationen-party-saenger-reden-ueber-den-ballerma-80002490.bild.html",
-      "image_title": "BILD-Malle-Serie, Teil 4: Drei Generationen Party-Sänger reden über den Ballermann"
-    },
-    {
-      "title": "Nachrichten zu Covid-19 : Corona-News im Live-Ticker",
-      "teaser": "Die neuesten Informationen, Zahlen und Fakten zum Coronavirus. Der Live-Ticker von BILD.",
-      "url": "https://www.bild.de/news/inland/news-inland/corona-news-im-live-ticker-alle-nachrichten-zu-covid-19-77205864.bild.html",
-      "image_title": "Corona aktuell, News im Ticker: Nachrichten, Zahlen, Fakten zu Covid-19"
-    },
-    {
-      "title": "Vier schwule Todesopfer : Spanien schnappt Dating-App-Serienkiller",
-      "teaser": "Er lockte seine Opfer mit einer Dating-App in die Falle – und tötete sie mit Drogen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mindestens-vier-schwule-todesopfer-spanien-schnappt-dating-app-serienkiller-79991510.bild.html",
-      "image_title": "Spanien schnappt Dating-App-Serienkiller: Mindestens vier schwule Todesopfer"
-    },
-    {
-      "title": "In der Schweiz : 500 Kilo Kokain in Nespresso-Werk gefunden",
-      "teaser": "Zürich – In einem Nespresso-Werk in der Schweiz sind 500 Kilogramm Kokain mit einem geschätzten Wert von rund 50 Millionen Schweizer...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/in-der-schweiz-500-kilo-kokain-in-nespresso-werk-gefunden-79994064.bild.html",
-      "image_title": "In der Schweiz: 500 Kilo Kokain in Nespresso-Werk gefunden"
-    },
-    {
-      "title": "Mysteriöser Unterwasserfund : Ist das die Straße nach Atlantis?",
-      "url": "https://www.bild.de/video/clip/video/mysterioeser-unterwasserfund-ist-das-die-strasse-nach-atlantis-80052966,auto=true.bild.html",
-      "image_title": "Mysteriöser Unterwasserfund: Ist das die Straße nach Atlantis?"
-    },
-    {
-      "title": "Zum 100. Geburtstag : Oma gönnt sich Fallschirm-Sprung",
-      "url": "https://www.bild.de/video/clip/video/sie-macht-sich-selbst-das-schoenste-geschenk-oma-100-goennt-sich-fallschirm-spru-80052036,auto=true.bild.html",
-      "image_title": "Sie macht sich selbst das schönste Geschenk: Oma (100) gönnt sich Fallschirm-Sprung zum Geburtstag"
-    },
-    {
-      "title": "Nicht für den Verzehr geeignet! : Polizei schnappt Olivenöl-Panscher in Spanien",
-      "url": "https://www.bild.de/video/clip/video/olivenoel-panscher-geschnappt-produkte-nicht-fuer-den-verzehr-geeignet-80009432,auto=true.bild.html",
-      "image_title": "Olivenöl-Panscher geschnappt: Produkte nicht für den Verzehr geeignet"
-    }
-  ]
+  "articles": []
 }
