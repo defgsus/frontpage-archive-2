@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-13T08:27:22",
+  "timestamp": "2022-05-13T09:22:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ZoneAlarm",
+      "url": "https://www.heise.de/news/Desktop-Firewall-ZoneAlarm-ermoeglicht-Rechteausweitung-7090411.html"
+    },
+    {
       "title": "Zyxel Firewalls",
       "url": "https://www.heise.de/news/Jetzt-patchen-Zyxel-Firewalls-als-Schlupfloch-in-Firmen-Netzwerke-7090269.html"
     },
@@ -44,19 +48,15 @@
       "url": "https://www.heise.de/news/Aktuelle-BIOS-UEFI-Versionen-schliessen-Schadcode-Schlupfloecher-in-HP-Computern-7088965.html"
     },
     {
-      "title": "F5 BIG-IP",
-      "url": "https://www.heise.de/news/Jetzt-patchen-F5-BIG-IP-Systeme-werden-aktiv-angegriffen-7081985.html"
+      "title": "Desktop-Firewall: ZoneAlarm ermöglicht Rechteausweitung",
+      "teaser": "Eine Sicherheitslücke in der Desktop-Firewall ZoneAlarm könnte Angreifern ermöglichen, ihre Rechte im System auszuweiten und somit die Kontrolle zu übernehmen.",
+      "url": "https://www.heise.de/news/Desktop-Firewall-ZoneAlarm-ermoeglicht-Rechteausweitung-7090411.html",
+      "image_title": "Aufmacher ZoneAlarm-Sicherheitsupdate"
     },
     {
       "title": "Eclipse Foundation erklärt Security zur Chefsache",
       "teaser": "Mit Blick auf die wachsenden Gefahren für die Software Supply Chain ernennt die Stiftung Mikaël Barbero zum Head of Security.",
       "url": "https://www.heise.de/news/Eclipse-Foundation-erklaert-Security-zur-Chefsache-7090173.html"
-    },
-    {
-      "title": "Windows-Updates verursachen Start- und Authentifizierungsprobleme",
-      "teaser": "Microsoft-Updates aus dem Mai verursachen bei Nutzern Probleme etwa beim Starten bestimmter Anwendungen. Zudem können Dienste Authentifizierungsprobleme melden.",
-      "url": "https://www.heise.de/news/Windows-Updates-verursachen-Start-und-Authentifizierungsprobleme-7090193.html",
-      "image_title": "Aufmacher Windows-Updates-Probleme"
     },
     {
       "title": "Jetzt patchen! Zyxel Firewalls als Schlupfloch in Firmen-Netzwerke",
@@ -78,6 +78,11 @@
       "title": "Verwirrung um vermeintlichen Dependency-Confusion-Angriff auf deutsche Firmen",
       "teaser": "Ein scheinbar bösartiger Supply-Chain-Angriff auf vier Firmen hat sich als Penetrationstest herausgestellt, zeigt aber die anhaltende Gefahr der Attacken.",
       "url": "https://www.heise.de/news/Verwirrung-um-vermeintlichen-Dependency-Confusion-Angriff-auf-deutsche-Firmen-7089135.html"
+    },
+    {
+      "title": "Aktuelle BIOS/UEFI-Versionen schließen Schadcode-Schlupflöcher in HP-Computern",
+      "teaser": "Wer einen PC von HP besitzt, sollte die Firmware aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Aktuelle-BIOS-UEFI-Versionen-schliessen-Schadcode-Schlupfloecher-in-HP-Computern-7088965.html"
     },
     {
       "title": "l+f: Chinesen wollen Windows sicherer machen – oder doch nicht?",
@@ -151,11 +156,6 @@
       "teaser": "Das Bedrohungs- und Schadenspotenzial von Verschlüsselungstrojanern ist 2021 laut dem BKA erneut spürbar angestiegen. Ganze Lieferketten seien gefährdet.",
       "url": "https://www.heise.de/news/BKA-Bericht-Cybercrime-Ransomware-beeintraechtigt-die-Funktion-des-Gemeinwesens-7080066.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Utimaco, der Krypto-Miner und ein Disclosure-Desaster​",
-      "teaser": "Auch Anbieter von Hochsicherheitslösungen sind vor Securityproblemen nicht gefeit. Man sollte sich vorbereiten, bevor man davon erfährt, sagt Jürgen Schmidt.",
-      "url": "https://www.heise.de/meinung/Utimaco-der-Krypto-Miner-und-ein-Disclosure-Desaster-7079962.html"
     },
     {
       "title": "heise Security Tour 2022",

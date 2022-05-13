@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-13T08:27:18",
+  "timestamp": "2022-05-13T09:22:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Aktuelle BIOS/UEFI-Versionen schließen Schadcode-Schlupflöcher in HP-Computern",
+      "teaser": "Wer einen PC von HP besitzt, sollte die Firmware aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Aktuelle-BIOS-UEFI-Versionen-schliessen-Schadcode-Schlupfloecher-in-HP-Computern-7088965.html"
+    },
+    {
       "title": "Patchday Microsoft: Windows-Schwachstelle attackiert - Domain-Controller updaten",
       "teaser": "Eine aktiv ausgenutzte Schwachstelle betrifft viele Windows- und Windows-Server-Versionen. Zwei weitere Lücken sind bekannt. Attacken könnten bevorstehen.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-klinken-sich-in-Domain-Controller-ein-7081322.html"
@@ -36,9 +41,10 @@
       "url": "https://www.heise.de/news/Gehaltsreport-Hohes-Einstiegsgehalt-bei-IT-Fachkraeften-7080829.html"
     },
     {
-      "title": "AMD Radeon RX 6x50 XT: Grafikkarten-Refresh im ersten Test",
-      "teaser": "AMDs neue Radeon-Grafikkarten sind da, darunter das Topmodell RX 6950 XT. Wir erklären, welche Modelle sich lohnen.",
-      "url": "https://www.heise.de/tests/AMD-Radeon-RX-6x50-XT-Grafikkarten-Refresh-im-ersten-Test-7080678.html"
+      "title": "Smart Home: Energie sparen mit virtuellen Zäunen",
+      "teaser": "Das Smart Home kann Geräte selbständig ausschalten, wenn Geofences eingerichtet ist. Wir zeigen Ihnen, wie das mit Node-Red und dem Trackerserver Traccar geht.",
+      "url": "https://www.heise.de/ratgeber/Smart-Home-Energie-sparen-mit-virtuellen-Zaeunen-7079482.html",
+      "image_title": ","
     },
     {
       "title": "Wie man Apples RealityKit zur Spieleentwicklung nutzt",
@@ -47,10 +53,15 @@
       "image_title": ","
     },
     {
-      "title": "Mini-PC-Barebone für Ryzen-Prozessoren im Test",
-      "teaser": "In den kompakten ECS Liva One A300 passt ein Achtkern-CPU hinein. Im Leerlauf kommt er mit unter 10 Watt aus, bei der Lautstärke gibt es Potenzial nach unten.",
-      "url": "https://www.heise.de/tests/Mini-PC-Barebone-fuer-Ryzen-Prozessoren-im-Test-7074751.html",
-      "image_title": ","
+      "title": "Podcast \"Techtiefen\": Aufbau eines Tech-Start-ups",
+      "teaser": "Diese Folge des Techtiefen-Podcasts begrüßt Nico Kreiling Janosch Sadowski, der vom Aufbau seines Spiele-Start-ups Kolibri Games berichtet.",
+      "url": "https://www.heise.de/blog/Podcast-Techtiefen-Aufbau-eines-Tech-Start-ups-7090511.html"
+    },
+    {
+      "title": "Desktop-Firewall: ZoneAlarm ermöglicht Rechteausweitung",
+      "teaser": "Eine Sicherheitslücke in der Desktop-Firewall ZoneAlarm könnte Angreifern ermöglichen, ihre Rechte im System auszuweiten und somit die Kontrolle zu übernehmen.",
+      "url": "https://www.heise.de/news/Desktop-Firewall-ZoneAlarm-ermoeglicht-Rechteausweitung-7090411.html",
+      "image_title": "Aufmacher ZoneAlarm-Sicherheitsupdate"
     },
     {
       "title": "Eclipse Foundation erklärt Security zur Chefsache",
@@ -77,6 +88,12 @@
       "title": "Threat Modeling: Jetzt noch Tickets für devSec-Thementag und Workshop sichern",
       "teaser": "Am 18. Mai 2022 findet ein halbtägiges Webinar zu Threat Modeling statt. Ein Workshop am 23. Mai vertieft das Thema praxisorientiert.",
       "url": "https://www.heise.de/news/Threat-Modeling-Jetzt-noch-Tickets-fuer-devSec-Thementag-und-Workshop-sichern-7089380.html"
+    },
+    {
+      "title": "Mini-PC-Barebone für Ryzen-Prozessoren im Test",
+      "teaser": "In den kompakten ECS Liva One A300 passt ein Achtkern-CPU hinein. Im Leerlauf kommt er mit unter 10 Watt aus, bei der Lautstärke gibt es Potenzial nach unten.",
+      "url": "https://www.heise.de/tests/Mini-PC-Barebone-fuer-Ryzen-Prozessoren-im-Test-7074751.html",
+      "image_title": ","
     },
     {
       "title": "Ransomware verschlüsselt NAS",
@@ -115,21 +132,6 @@
       "teaser": "Die Prozessorenhersteller AMD und Intel beheben Sicherheitslücken. Rechnerhersteller müssen zum Abdichten zumeist BIOS-Updates verteilen.",
       "url": "https://www.heise.de/news/Prozessoren-Patchday-AMD-und-Intel-verteilen-Updates-7088854.html",
       "image_title": "Aufmacher AMD+Intel-Patchday"
-    },
-    {
-      "title": "Tipp: Soundbibliothek von Logic Pro auslagern",
-      "teaser": "Die riesige Sound Library von Apples DAW lässt sich auch auf einem externen Laufwerk speichern, um so auf der internen SSD schnell Platz zu schaffen.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Soundbibliothek-von-Logic-Pro-auslagern-7089798.html"
-    },
-    {
-      "title": "Magdeburger Developer Days vom 16. bis 18.5.2022",
-      "teaser": "Eintrittskarten für die Community-Veranstaltung für Entwickler gibt es bereits ab 40 Euro.",
-      "url": "https://www.heise.de/blog/Magdeburger-Developer-Days-vom-16-bis-18-5-2022-7089722.html"
-    },
-    {
-      "title": "Verwirrung um vermeintlichen Dependency-Confusion-Angriff auf deutsche Firmen",
-      "teaser": "Ein scheinbar bösartiger Supply-Chain-Angriff auf vier Firmen hat sich als Penetrationstest herausgestellt, zeigt aber die anhaltende Gefahr der Attacken.",
-      "url": "https://www.heise.de/news/Verwirrung-um-vermeintlichen-Dependency-Confusion-Angriff-auf-deutsche-Firmen-7089135.html"
     },
     {
       "title": "Trendstudie",
