@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-13T11:19:34",
+  "timestamp": "2022-05-13T12:50:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.6ff10b105c7b7e10179a",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.7e8caf1cca387905e7d6",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "NetBSD & Playstation",
+      "url": "https://www.heise.de/news/Playstation-Luecke-in-NetBSD-Treiber-koennte-Codeschmuggel-ermoeglichen-7091153.html"
+    },
     {
       "title": "ZoneAlarm",
       "url": "https://www.heise.de/news/Desktop-Firewall-ZoneAlarm-ermoeglicht-Rechteausweitung-7090411.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Prozessoren-Patchday-AMD-und-Intel-verteilen-Updates-7088854.html"
     },
     {
-      "title": "HP BIOS",
-      "url": "https://www.heise.de/news/Aktuelle-BIOS-UEFI-Versionen-schliessen-Schadcode-Schlupfloecher-in-HP-Computern-7088965.html"
+      "title": "Playstation: Lücke in NetBSD-Treiber könnte Codeschmuggel ermöglichen",
+      "teaser": "Sonys Playstation nutzt zumindest Teile von NetBSD. Eine Treiber-Sicherheitslücke könnte Angreifern aus dem LAN ermöglichen, eigenen Code einzuschleusen.",
+      "url": "https://www.heise.de/news/Playstation-Luecke-in-NetBSD-Treiber-koennte-Codeschmuggel-ermoeglichen-7091153.html",
+      "image_title": "Aufmacher Playstation+NetBSD PPPoE-Lücke RCE"
+    },
+    {
+      "title": "Colonial Pipeline droht Geldstrafe wegen schlechten Risikomanagements",
+      "teaser": "Dem Betreiber des Ölpipelinesystems droht eine hohe Geldstrafe. Fehlendes Notfallmanagement war wohl mitursächlich für die Ransomware-Auswirkungen 2021.",
+      "url": "https://www.heise.de/news/Colonial-Pipeline-droht-Millionenstrafe-wegen-schlechten-Risikomanagements-7091191.html",
+      "image_title": "Warnschild \"Warning Petroleum Pipeline\""
     },
     {
       "title": "Desktop-Firewall ZoneAlarm: Kritische Lücke ermöglicht Rechteausweitung",
@@ -144,18 +156,6 @@
       "title": "EU und USA: Russland für Ausfall des Satellitennetzwerks KA-Sat verantwortlich",
       "teaser": "Die EU, USA und Großbritannien sind sich einig, dass der russische Militärgeheimdienst hinter dem Ausfall des Satelliten-Internets am 24. Februar steckt.",
       "url": "https://www.heise.de/news/EU-und-USA-Russland-fuer-Ausfall-des-Satellitennetzwerks-KA-Sat-verantwortlich-7080650.html"
-    },
-    {
-      "title": "Soziales Netzwerk: Spam-Welle rollt durch Xing",
-      "teaser": "Nutzer des sozialen Business-Netzwerks Xing erhalten derzeit vermehrt Nachrichten, dass sie in Beiträgen erwähnt wurden. Es handelt sich dabei um Spam.",
-      "url": "https://www.heise.de/news/Soziales-Netzwerk-Spam-Welle-rollt-durch-Xing-7080326.html",
-      "image_title": "Aufmacher Xing-SPAM"
-    },
-    {
-      "title": "BKA-Bericht Cybercrime: Ransomware beeinträchtigt die Funktion des Gemeinwesens",
-      "teaser": "Das Bedrohungs- und Schadenspotenzial von Verschlüsselungstrojanern ist 2021 laut dem BKA erneut spürbar angestiegen. Ganze Lieferketten seien gefährdet.",
-      "url": "https://www.heise.de/news/BKA-Bericht-Cybercrime-Ransomware-beeintraechtigt-die-Funktion-des-Gemeinwesens-7080066.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "heise Security Tour 2022",
