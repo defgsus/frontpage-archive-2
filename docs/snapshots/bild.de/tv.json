@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-14T06:00:36",
+  "timestamp": "2022-05-14T06:47:25",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.64d94ae3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.8cf0078e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.933448ac.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.cff927f9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.46cd0a55.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Raus bei „Let's Dance“ : Amira Pocher verpasst das Finale",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-amira-pocher-fliegt-im-halbfinale-raus-80080400.bild.html",
-      "image_url": "https://images.bild.de/627eea6ff85e37084d18390e/91d6aaa4423ba20fd3700c6bfc70687b/1/2?w=656",
-      "image_title": "„Let's Dance“: Amira Pocher fliegt im Halbfinale raus"
-    },
-    {
-      "title": "Ukraine soll verlieren : Putin will ESC hacken!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/esc-2022-putin-will-esc-hacken-damit-die-ukraine-nicht-gewinnt-80078412.bild.html",
-      "image_url": "https://images.bild.de/627e86f26211895750ca3a74/8e3c70534182a2a717f440d54df77966-miniSquare/1/3?w=320",
-      "image_title": "ESC 2022: Putin will ESC hacken, damit die Ukraine nicht gewinnt"
-    },
-    {
-      "title": "„Let's Dance“ und Börse : 10 Punkte für Llambis Aktien-Tipps",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/joachim-llambi-war-boersenmakler-lets-dance-juror-verraet-seine-aktien-tipps-80070718.bild.html",
-      "image_url": "https://images.bild.de/627e0a756211895750ca3954/6c486dd083f496d706c3f8cf0ff248ad-miniSquare/3/2?w=320",
-      "image_title": "Joachim Llambi war Börsenmakler – „Let’s Dance“-Juror verrät seine Aktien-Tipps"
-    },
-    {
-      "title": "Oli deutet Geheimnis an : Wenn Amira heute ins Finale kommt, dann ...",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-mit-amira-pocher-oliver-pocher-deutet-final-geheimnis-an-80075986.bild.html",
-      "image_url": "https://images.bild.de/627e51a7f85e37084d183845/affc012d5e111defe9c455f6dc713583-miniSquare/1/2?w=320",
-      "image_title": "„Let’s Dance“ mit Amira Pocher: Oliver Pocher deutet Final-Geheimnis an"
-    },
-    {
-      "title": "Vergewaltiger in Portugal gefasst : Das sagt Edith Stehfest zur Festnahme",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/nach-monatelanger-flucht-in-portugal-gefasst-das-sagt-edith-stehfest-zur-festnah-80071538.bild.html",
-      "image_title": "Sexualstraftäter gefasst: Das sagt Edith Stehfest zur Festnahme ihres Vergewaltigers"
-    },
-    {
-      "title": "Germany’s Next Topmodel : Lieselotte (66) mit Alien ins GNTM-Halbfinale",
-      "teaser": "Mit einem Alien an der Hand zog Lieselotte (66) aus Salzwedel in das Halbfinale von „Germany’s Next Topmodel“.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/gntm-lieselotte-66-mit-alien-ins-halbfinalevon-germanys-next-topmod-80070234.bild.html",
-      "image_title": "GNTM: Lieselotte (66) mit Alien ins Halbfinalevon Germany’s Next Topmod"
-    },
-    {
-      "title": "Drei tote Elefanten! : Wirbel um Zirkus-Star René Casselly",
-      "teaser": "Tierrechtsorganisationen erheben schwere Vorwürfe gegen „Let’s Dance“-Star René Casselly.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-star-ren-casselly-tierquaeler-vorwuerfe-80062934.bild.html",
-      "image_title": "„Let’s Dance“-Star René Casselly: Tierquäler-Vorwürfe!"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80071570.bild.html",
-      "image_title": "Netflix: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80071556.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "GZSZ-Jubiläumsfolge : Blinde Yvonne bringt Fans auf die Palme",
-      "teaser": "Drama, Action – und jede Menge Tweets! Das GZSZ-Jubiläum brachte die Fans ins Grübeln.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gzsz-jubilaeumsfolge-blinde-yvonne-bringt-fans-auf-die-palme-80072370.bild.html",
-      "image_title": "GZSZ-Jubiläumsfolge: Blinde Yvonne bringt Fans auf die Palme"
-    },
-    {
-      "title": "Kein Stroh? Kein Problem! : So wird bei „Bauer sucht Frau“ getrickst",
-      "teaser": "Die Show „Bauer sucht Frau“ ist Kult. Was kein Zuschauer im TV sieht, lesen Sie hier!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bauer-sucht-frau-so-wird-hinter-den-kulissen-getrickst-kein-stroh-kein-problem-80070926.bild.html",
-      "image_title": "„Bauer sucht Frau“ – so wird hinter den Kulissen getrickst: Kein Stroh? Kein Problem..."
-    },
-    {
-      "title": "GNTM : Nach Kreislaufproblemen – bitteres Aus für Vivien",
-      "teaser": "Es wird wieder ausgesiebt bei GNTM – und dieser Druck bekommt nicht jeder Kandidatin.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-nach-kreislaufproblemen-bitteres-aus-fuer-vivien-80066098.bild.html",
-      "image_title": "GNTM: Nach Kreislaufproblemen – bitteres Aus für Vivien"
-    },
-    {
-      "title": "30 Jahre GZSZ : Gerner darf weiterleben – und küsst SIE",
-      "teaser": "30 Jahre läuft „Gute Zeiten, schlechte Zeiten“ schon! Heute gab’s die Jubiläumsfolge.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gzsz-feiert-30-gerner-darf-weiterleben-und-kuesst-sie-80064566.bild.html",
-      "image_title": "GZSZ feiert 30.: Gerner darf weiterleben – und küsst SIE"
-    },
-    {
-      "title": "„The Voice of Germany“ : In der Jury sitzt jetzt eine Musik-Legende",
-      "teaser": "„The Voice“-Hammer! Ab August geht’s in die neue Runde von „The Voice of Germany“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-of-germany-in-der-jury-sitzt-jetzt-ein-maerchen-erfinder-80067282.bild.html",
-      "image_title": "„The Voice of Germany“: Rock-Legende Peter Maffay neu in der Jury"
-    },
-    {
-      "title": "Haben wir geheult! : Die dramatischsten Szenen aus 30 Jahren GZSZ",
-      "teaser": "30 Jahre GZSZ bedeutet fiese Intrigen, tödliche Unfälle, Mord und ein Inzest-Drama ...",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gzsz-jubilaeum-die-dramatischsten-szenen-aus-30-jahren-kult-soap-79841528.bild.html",
-      "image_title": "GZSZ-Jubiläum: Die dramatischsten Szenen aus 30 Jahren Kult-Soap"
-    },
-    {
-      "title": "„Heartstopper“ : Die Serie, bei der sich LGBT-Teens wiedererkennen",
-      "teaser": "Der neue britische Netflix-Hit heißt „Heartstopper“ und ist seit Wochen in den Top 10-Charts.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/heartstopper-im-netflix-hit-erkennen-sich-viele-lgbt-teens-wieder-80051190.bild.html",
-      "image_title": "„Heartstopper“: Im Netflix-Hit erkennen sich viele LGBT-Teens wieder"
-    },
-    {
-      "title": "Nur für die Quote drin? : Lieselotte (66) spaltet die GNTM-Fans",
-      "teaser": "Woche für Woche kommt Lieselotte weiter. Dafür wird Heidi Klum heftig von Fans kritisiert.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/germanys-next-topmodel-gntm-fans-fordern-rauswurf-von-lieselotte-66-80046924.bild.html",
-      "image_title": "Germany’s Next Topmodel: GNTM-Fans fordern Rauswurf von Lieselotte (66)"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Fürst Heinz geht auf Elena Miras los",
-      "teaser": "Am Star-Strand sorgte Fürst Heinz mit fiesen Beleidigungen für Tränen bei Elena Miras.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-fuerst-heinz-geht-auf-elena-miras-los-80054946.bild.html",
-      "image_title": "„Kampf der Realitystars“: Fürst Heinz geht auf Elena Miras los"
-    },
-    {
-      "title": "Marc Terenzis Beichte : „Zwei Jahre lang habe ich durchgesoffen!“",
-      "teaser": "Harter Tobak im Paradies! Marc Terenzi gab tiefe Einblicke in seine bewegte Vergangenheit.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/club-der-guten-laune-marc-terenzi-zwei-jahre-habe-ich-durchgesoffen-80051580.bild.html",
-      "image_title": "Club der guten Laune: Marc Terenzi: „Zwei Jahre habe ich durchgesoffen!“"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-alle-infos-zur-dritten-staffel--kandidaten-regeln-highlights-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Die Kandidaten, Regeln Highlights und wer raus ist"
-    },
-    {
-      "title": "„Höhle der Löwen“ : Sie ist die neue TV-Löwin!",
-      "teaser": "BILD enthüllt den Star der kommenden DHDL-Staffel und verrät, wer dafür kürzertritt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/hoehle-der-loewen-sie-wird-neue-loewin-in-staffel-12-80049652.bild.html",
-      "image_title": "„Höhle der Löwen“: SIE wird neue Löwin in Staffel 12!"
-    },
-    {
-      "title": "Grund für TV-Pause : Serienstar trotz Unterleibs-Krankheit schwanger",
-      "teaser": "Luise Matejczyk alias „Lea Hammerschmidt“ gehört zu den absoluten Lieblingen bei „Köln 50667“.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/koeln-50667-luise-matejczyk-trotz-unterleibs-krankheit-schwanger-80047190.bild.html",
-      "image_title": "Köln 50667: Luise Matejczyk trotz Unterleibs-Krankheit schwanger"
-    },
-    {
-      "title": "Ab dem 9. Mai : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-netflix-diese-serien-und-filme-starten-diese-woche-neu-79995912.bild.html",
-      "image_title": "Neu bei Netflix: Diese Serien und Filme starten diese Woche neu"
-    },
-    {
-      "title": "Ab dem 9. Mai : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme und Serien der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-amazon-prime-diese-filme-und-serien-starten-diese-woche-79995924.bild.html",
-      "image_title": "Neu bei Amazon Prime: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "„Für mich die Hölle“ : Vivien kollabiert bei „Germany’s next Topmodel“",
-      "url": "https://www.bild.de/video/clip/glomex/fuer-mich-die-hoelle-vivien-kollabiert-beim-training-80069408,auto=true.bild.html",
-      "image_title": "„Für mich die Hölle“: Vivien kollabiert bei „Germany’s next Topmodel“"
-    },
-    {
-      "title": "Topmodels werden zu Dominas : Heiße Leder-Show mit Heidi",
-      "url": "https://www.bild.de/video/clip/glomex/topmodels-werden-zu-dominas-heisse-leder-show-mit-heidi-v-cjx0f7bkr5nt-80069388,auto=true.bild.html",
-      "image_title": "Topmodels werden zu Dominas: Heiße Leder-Show mit Heidi"
-    },
-    {
-      "title": "Marc Terenzis Alkohol-Beichte : „Zwei Jahre lang habe ich durchgesoffen!“",
-      "url": "https://www.bild.de/video/clip/glomex/marc-terenzis-alkohol-beichte-zwei-jahre-lang-habe-ich-durchgesoffen-v-cjwvj2y9aoj5-80057438,auto=true.bild.html",
-      "image_title": "Marc Terenzis Alkohol-Beichte: „Zwei Jahre lang habe ich durchgesoffen!“"
-    }
-  ]
+  "articles": []
 }
