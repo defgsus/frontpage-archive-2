@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-16T23:23:16",
+  "timestamp": "2022-05-17T01:56:00",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.64d94ae3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.8cf0078e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.933448ac.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.cff927f9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.46cd0a55.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Finale von „Bauer sucht Frau – International“ : Zwei Traumpaare und eine Liebes-Pleite",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-international-zwei-traumpaare-und-eine-liebes-pleite-80109954.bild.html",
-      "image_url": "https://images.bild.de/6282a9e0c166364f54f99d97/1e1cb929fe2dab3d68ed14155e83ff74/1/2?w=656",
-      "image_title": "Bauer sucht Frau – International“: Zwei Traumpaare und eine Liebes-Pleite"
-    },
-    {
-      "title": "„Höhle der Löwen“ : Kofler stürmt wutentbrannt aus dem Studio",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-hoehle-der-loewen-eklat-warum-kofler-aus-dem-studio-stuermte-80106816.bild.html",
-      "image_url": "https://images.bild.de/628261e86211895750ca3eec/403d539b01c1af23ffa91af7d7981782-miniSquare/1/2?w=320",
-      "image_title": "„Die Höhle der Löwen“ -Eklat: Warum Kofler aus dem Studio stürmte"
-    },
-    {
-      "title": "K.o.-Tropfen im Urlaub : „Köln 50667“-Star außer Gefecht gesetzt",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/koeln-50667-darsteller-jerry-mutschall-mit-k-o-tropfen-ausser-gefecht-gesetzt-80100092.bild.html",
-      "image_url": "https://images.bild.de/6281fea7277f7042b71a6800/df6e8e51c6dabaa488d02c8fe6c714df-miniSquare/1/2?w=320",
-      "image_title": "Köln 50667: „Jerry“ Mutschal im Urlaub mit K.-o.-Tropfen außer Gefecht gesetzt"
-    },
-    {
-      "title": "Ab dem 16. Mai : Diese Filme & Serien sind neu bei Netflix",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-netflix-diese-serien-und-filme-starten-diese-woche-neu-80071518.bild.html",
-      "image_url": "https://images.bild.de/627e14ebc166364f54f99798/def96bd3f1b29e01dcd908363d32819d-miniSquare/1/3?w=320",
-      "image_title": "Neu bei Netflix: Diese Serien und Filme starten diese Woche neu"
-    },
-    {
-      "title": "Ab dem 16. Mai : Diese Filme starten bei Amazon Prime",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-amazon-prime-diese-filme-und-serien-starten-diese-woche-80071510.bild.html",
-      "image_url": "https://images.bild.de/627e14e7c166364f54f99796/5a2b71e2cc38608744d01a249c891c5a-miniSquare/1/2?w=320",
-      "image_title": "Neu bei Amazon Prime: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "Lukas Podolski packt bei „Grill den Henssler“ aus : So war seine Beziehung zu Laura Wontorra",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/grill-den-henssler-lukas-podolski-packt-ueber-beziehung-zu-laura-wontorra-aus-80094496.bild.html",
-      "image_title": "„Grill den Henssler“: Lukas Podolski packt über Beziehung zu Laura Wontorra aus"
-    },
-    {
-      "title": "Eurovision Song Contest 2022 : Ukraine siegt, Deutschland Letzter!",
-      "teaser": "Beim ESC 2022 landete Malik Harris auf dem letzten Platz, die Ukraine siegt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/esc-2022-wettbueros-laufen-heiss-zocker-kueren-die-ukraine-zum-sieger-80084154.bild.html",
-      "image_title": "ESC 2022 – Ukraine siegt, Deutschland Letzter!"
-    },
-    {
-      "title": "Festnahme in Portugal : Mutter überführt Vergewaltiger von Edith Stehfest",
-      "teaser": "Als Max H. (36) seine Mutter am Flughafen in Lissabon abholen wollte, griff die Polizei zu.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/eric-stehfest-eigene-mutter-ueberfuehrte-vergewaltiger-seiner-frau-edith-80081556.bild.html",
-      "image_title": "Eric Stehfest: Eigene Mutter überführt Vergewaltiger seiner Frau Edith"
-    },
-    {
-      "title": "„Bauer sucht Frau“ : Das passiert, bevor die Kamera angeht …",
-      "teaser": "Die Show „Bauer sucht Frau“ ist Kult. Was kein Zuschauer im TV sieht, lesen Sie hier!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-so-wird-hinter-den-kulissen-getrickst-kein-stroh-kein-problem-80070926.bild.html",
-      "image_title": "„Bauer sucht Frau“ – so wird hinter den Kulissen getrickst: Kein Stroh? Kein Problem..."
-    },
-    {
-      "title": "Amira nach „Let’s Dance“-Aus : „Ich hab meine Freiheit wieder“",
-      "teaser": "Im Halbfinale ist das Favoriten-Paar ausgeschieden. Zu Unrecht, finden Fans.",
-      "url": "https://www.bild.de/unterhaltung/tv/leute/lets-dancefans-sauer-flogen-amira-pocher-und-massimo-zu-unrecht-raus-80080710.bild.html",
-      "image_title": "„Let’s Dance“–Fans sauer: Flogen Amira Pocher und Massimo zu unrecht raus?"
-    },
-    {
-      "title": "Raus bei „Let's Dance“ : Amira Pocher verpasst das Finale",
-      "teaser": "Trotz drei guter Tänze wurde Amira Pocher am Freitagabend von den Zuschauern rausgewählt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-amira-pocher-fliegt-im-halbfinale-raus-80080400.bild.html",
-      "image_title": "„Let's Dance“: Amira Pocher fliegt im Halbfinale raus"
-    },
-    {
-      "title": "Ukraine soll verlieren : Putin will ESC hacken!",
-      "teaser": "Russische Cyber-Kriminelle planen, den ESC zu sabotieren, damit die Ukraine nicht gewinnt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/esc-2022-putin-will-esc-hacken-damit-die-ukraine-nicht-gewinnt-80078412.bild.html",
-      "image_title": "ESC 2022: Putin will ESC hacken, damit die Ukraine nicht gewinnt"
-    },
-    {
-      "title": "„Let’s Dance“-Gagen : Amira Pocher ist Top-Verdienerin",
-      "teaser": "Glanzvolle Auftritte auf dem Parkett, grandiose Aussichten für den Kontostand.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/lets-dance-das-sind-die-promi-gagen-amira-pocher-ist-top-verdienerin-80077712.bild.html",
-      "image_title": "„Let’s Dance“ – das sind die Promi-Gagen: Amira Pocher ist Top-Verdienerin!"
-    },
-    {
-      "title": "„Let's Dance“ und Börse : 10 Punkte für Llambis Aktien-Tipps",
-      "teaser": "Auf dem Tanz-Parkett ist er Profi, aber Joachim Llambi kennt sich auch auf dem Börsen-Parkett aus.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/joachim-llambi-war-boersenmakler-lets-dance-juror-verraet-seine-aktien-tipps-80070718.bild.html",
-      "image_title": "Joachim Llambi war Börsenmakler – „Let’s Dance“-Juror verrät seine Aktien-Tipps"
-    },
-    {
-      "title": "Oli deutet Geheimnis an : Wenn Amira heute ins Finale kommt, dann ...",
-      "teaser": "Ist das ein Angebot oder eine Drohung?! Oliver Pocher plappert ein Final-Geheimnis aus.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-mit-amira-pocher-oliver-pocher-deutet-final-geheimnis-an-80075986.bild.html",
-      "image_title": "„Let’s Dance“ mit Amira Pocher: Oliver Pocher deutet Final-Geheimnis an"
-    },
-    {
-      "title": "Vergewaltiger verhaftet : Das sagt Edith Stehfest zur Festnahme von Max H.",
-      "teaser": "Nach monatelanger Flucht konnte jetzt Sexualstraftäter Max H. (36) am Flughafen von Lissabon (Portugal) verhaftet werden.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/nach-monatelanger-flucht-in-portugal-gefasst-das-sagt-edith-stehfest-zur-festnah-80071538.bild.html",
-      "image_title": "Sexualstraftäter gefasst: Das sagt Edith Stehfest zur Festnahme ihres Vergewaltigers"
-    },
-    {
-      "title": "Germany’s Next Topmodel : Lieselotte (66) mit Alien ins GNTM-Halbfinale",
-      "teaser": "Mit einem Alien an der Hand zog Lieselotte (66) aus Salzwedel in das Halbfinale von „Germany’s Next Topmodel“.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/gntm-lieselotte-66-mit-alien-ins-halbfinalevon-germanys-next-topmod-80070234.bild.html",
-      "image_title": "GNTM: Lieselotte (66) mit Alien ins Halbfinalevon Germany’s Next Topmod"
-    },
-    {
-      "title": "Drei tote Elefanten! : Wirbel um Zirkus-Star René Casselly",
-      "teaser": "Tierrechtsorganisationen erheben schwere Vorwürfe gegen „Let’s Dance“-Star René Casselly.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lets-dance-star-ren-casselly-tierquaeler-vorwuerfe-80062934.bild.html",
-      "image_title": "„Let’s Dance“-Star René Casselly: Tierquäler-Vorwürfe!"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80071570.bild.html",
-      "image_title": "Netflix: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80071556.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "GZSZ-Jubiläumsfolge : Blinde Yvonne bringt Fans auf die Palme",
-      "teaser": "Drama, Action – und jede Menge Tweets! Das GZSZ-Jubiläum brachte die Fans ins Grübeln.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gzsz-jubilaeumsfolge-blinde-yvonne-bringt-fans-auf-die-palme-80072370.bild.html",
-      "image_title": "GZSZ-Jubiläumsfolge: Blinde Yvonne bringt Fans auf die Palme"
-    },
-    {
-      "title": "GNTM : Nach Kreislaufproblemen – bitteres Aus für Vivien",
-      "teaser": "Es wird wieder ausgesiebt bei GNTM – und dieser Druck bekommt nicht jeder Kandidatin.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-nach-kreislaufproblemen-bitteres-aus-fuer-vivien-80066098.bild.html",
-      "image_title": "GNTM: Nach Kreislaufproblemen – bitteres Aus für Vivien"
-    },
-    {
-      "title": "30 Jahre GZSZ : Gerner darf weiterleben – und küsst SIE",
-      "teaser": "30 Jahre läuft „Gute Zeiten, schlechte Zeiten“ schon! Heute gab’s die Jubiläumsfolge.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gzsz-feiert-30-gerner-darf-weiterleben-und-kuesst-sie-80064566.bild.html",
-      "image_title": "GZSZ feiert 30.: Gerner darf weiterleben – und küsst SIE"
-    },
-    {
-      "title": "„The Voice of Germany“ : In der Jury sitzt jetzt eine Musik-Legende",
-      "teaser": "„The Voice“-Hammer! Ab August geht’s in die neue Runde von „The Voice of Germany“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-of-germany-in-der-jury-sitzt-jetzt-ein-maerchen-erfinder-80067282.bild.html",
-      "image_title": "„The Voice of Germany“: Rock-Legende Peter Maffay neu in der Jury"
-    },
-    {
-      "title": "Haben wir geheult! : Die dramatischsten Szenen aus 30 Jahren GZSZ",
-      "teaser": "30 Jahre GZSZ bedeutet fiese Intrigen, tödliche Unfälle, Mord und ein Inzest-Drama ...",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gzsz-jubilaeum-die-dramatischsten-szenen-aus-30-jahren-kult-soap-79841528.bild.html",
-      "image_title": "GZSZ-Jubiläum: Die dramatischsten Szenen aus 30 Jahren Kult-Soap"
-    },
-    {
-      "title": "„Für mich die Hölle“ : Vivien kollabiert bei „Germany’s next Topmodel“",
-      "url": "https://www.bild.de/video/clip/glomex/fuer-mich-die-hoelle-vivien-kollabiert-beim-training-80069408,auto=true.bild.html",
-      "image_title": "„Für mich die Hölle“: Vivien kollabiert bei „Germany’s next Topmodel“"
-    },
-    {
-      "title": "Topmodels werden zu Dominas : Heiße Leder-Show mit Heidi",
-      "url": "https://www.bild.de/video/clip/glomex/topmodels-werden-zu-dominas-heisse-leder-show-mit-heidi-v-cjx0f7bkr5nt-80069388,auto=true.bild.html",
-      "image_title": "Topmodels werden zu Dominas: Heiße Leder-Show mit Heidi"
-    }
-  ]
+  "articles": []
 }
