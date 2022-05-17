@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-17T01:55:52",
+  "timestamp": "2022-05-17T03:35:13",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.64d94ae3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.8cf0078e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.933448ac.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.cff927f9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.46cd0a55.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "An Wasserfall auf Ko Samui : Touristin (23) aus Wien stürzt bei Selfie in den Tod",
-      "url": "https://www.bild.de/news/ausland/news-ausland/koh-samui-wasserfall-touristin-23-aus-wien-stuerzt-bei-selfie-in-den-tod-80108682.bild.html",
-      "image_url": "https://images.bild.de/62828c5d6211895750ca3f4b/0d98098ee841bcc58ebbb9f22f3c685d/1/2?w=656",
-      "image_title": "Koh Samui Wasserfall: Touristin (23) aus Wien stürzt bei Selfie in den Tod"
-    },
-    {
-      "title": "Massaker in Buffalo : Attentäter schrieb Breiviks Namen auf Mordwaffe",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/massaker-in-buffalo-attentaeter-schrieb-breiviks-namen-auf-mordwaffe-80103004.bild.html",
-      "image_url": "https://images.bild.de/62823233f85e37084d183cbf/ae91ce82bea5c7631eddde15a1598411-miniSquare/1/2?w=320",
-      "image_title": "Massaker in Buffalo: Attentäter schrieb Breiviks Namen auf Mordwaffe"
-    },
-    {
-      "title": "Sieben Tage verschollen : Deutsche Oma (75) aus Thai-Dschungel gerettet",
-      "url": "https://www.bild.de/news/ausland/news-ausland/thailand-deutsche-touristin-75-war-sieben-tage-verschollen-lebend-gerettet-80102792.bild.html",
-      "image_url": "https://images.bild.de/62822c67f85e37084d183cab/b633accf0970490e4058473022098792-miniSquare/1/3?w=320",
-      "image_title": "Thailand: Deutsche Touristin (75) war sieben Tage verschollen – lebend gerettet!"
-    },
-    {
-      "title": "10 Tote in Buffalo : Neonazi verschonte nur einen weißen Kunden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/10-tote-bei-attentat-in-us-supermarkt-neonazi-verschonte-nur-einen-weissen-kunde-80097810.bild.html",
-      "image_url": "https://images.bild.de/628164c36211895750ca3d65/8175cf6f507c9984549ebf763154c14e-miniSquare/1/3?w=320",
-      "image_title": "10 Tote bei Attentat in US-Supermarkt! Neonazi verschonte nur einen weißen Kunden"
-    },
-    {
-      "title": "Angehörige zu BILD : „Es wurde ihr das Gesicht weggeschossen!”",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/angehoerige-zu-bild-es-wurde-ihr-das-gesicht-weggeschossen-80098832.bild.html",
-      "image_url": "https://images.bild.de/6281dd23277f7042b71a67c0/5049b1d5df99024621088b0b9f8b55ce-miniSquare/1/2?w=320",
-      "image_title": "Angehörige zu BILD: „Es wurde ihr das Gesicht weggeschossen!”"
-    },
-    {
-      "title": "Blutiger Angriff in Alaska : US-Soldat von Brutalo-Bär getötet",
-      "url": "https://www.bild.de/news/ausland/news-ausland/alaska-usa-us-soldat-michael-plant-30-von-brutalo-baer-getoetet-80075672.bild.html",
-      "image_title": "Alaska (USA): US-Soldat Michael Plant (30) von Brutalo-Bär getötet"
-    },
-    {
-      "title": "Bei Foto abgerutscht : Thailand-Touristin (23) stürzt an Wasserfall in Tod",
-      "teaser": "Auf der Insel Koh Samui ist eine junge Wienerin an einem Wasserfall in den Tod gestürzt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/thailand-foto-unfall-an-wasserfall-auf-koh-samui-junge-wienerin-23-stuerzt-in-de-80099212.bild.html",
-      "image_title": "Thailand: Foto-Unfall an Wasserfall auf Koh Samui – junge Wienerin (23) stürzt in den Tod"
-    },
-    {
-      "title": "Killer von Buffalo : Radikalisiert, weil er sich wegen Corona langweilte",
-      "teaser": "Aus seinem Manifest sprechen Hass und Verachtung! Die kranke Welt des Killers von Buffalo!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/killer-von-buffalo-radikalisiert-sich-weil-er-sich-wegen-corona-langweilte-80094878.bild.html",
-      "image_title": "Killer von Buffalo radikalisiert sich, weil er sich wegen Corona langweilte"
-    },
-    {
-      "title": "Nach Amoklauf in Buffalo : Mann schießt in US-Kirche um sich – ein Toter",
-      "teaser": "Durch Schüsse in einer Kirche ist mindestens ein Mensch getötet worden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/laguna-woods-1-toter-fuenf-verletzte-nach-schuessen-wieder-blutbad-in-den-usa-80098350.bild.html",
-      "image_title": "Kalifornien (USA): Mann schießt in Kirche in Laguna Woods um sich – 1 Toter, fünf Verletzte"
-    },
-    {
-      "title": "Öffentliche Anhörung : UFO-Sitzung im US-Kongress!",
-      "teaser": "Seit Wochen herrscht in Washington Zoff zwischen Kongress-Abgeordneten und dem Pentagon. Das brisante Streitthema: UFOs!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/erste-oeffentliche-anhoerung-seit-50-jahren-ufo-sitzung-im-us-kongress-80051194.bild.html",
-      "image_title": "Erste öffentliche Anhörung seit 50 Jahren: UFO-Sitzung im US-Kongress!"
-    },
-    {
-      "title": "Zehn Tote bei Amoklauf : Supermarkt-Wachmann starb als Held",
-      "teaser": "Wachmann Aaron Salter wollte den rechtsextremistischen Attentäter aufhalten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-buffalo-usa-mit-10-toten-supermarkt-wachmann-starb-als-held-80090006.bild.html",
-      "image_title": "Amoklauf in Buffalo, USA, mit 10 Toten: Supermarkt-Wachmann starb als Held"
-    },
-    {
-      "title": "Tat live gestreamt : Rechtsextremist erschießt 10 Menschen in US-Supermarkt",
-      "teaser": "In einem Supermarkt in Buffalo feuerte ein Attentäter gezielt auf Afroamerikaner",
-      "url": "https://www.bild.de/news/ausland/news-ausland/buffalo-amoklauf-in-supermarkt-moeglicherweise-mehrere-tote-80087210.bild.html",
-      "image_title": "Buffalo: Zehn Tote bei Amoklauf in den USA"
-    },
-    {
-      "title": "Nach 6 Jahren Ehe : Keine Enkel! Mutter verklagt ihren Sohn",
-      "teaser": "Eine Inderin hat Sohn und Schwiegertochter verklagt – weil diese keine Kinder haben!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kinderlos-nach-6-jahren-ehe-keine-enkel-mutter-verklagt-ihren-sohn-80085836.bild.html",
-      "image_title": "Kinderlos nach 6 Jahren Ehe: Keine Enkel! Mutter verklagt ihren Sohn"
-    },
-    {
-      "title": "Horror-Feuer in Indien : 27 Menschen sterben bei Hausbrand",
-      "teaser": "In einem Haus in Neu-Delhi brach ein tödliches Feuer aus. Die Polizei nahm zwei Männer fest.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/feuer-in-indien-27-menschen-sterben-bei-hausbrand-80082554.bild.html",
-      "image_title": "Feuer in Indien: 27 Menschen sterben bei Hausbrand"
-    },
-    {
-      "title": "Hammer-Urteil in England : „Glatze“ zu sagen ist sexuelle Belästigung",
-      "teaser": "Dieses Urteil wurde von drei Richtern getroffen – die allesamt eine Glatze haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hammer-urteil-in-grossbritannien-glatze-zu-sagen-ist-sexuelle-belaestigung-80081428.bild.html",
-      "image_title": "Hammer-Urteil in Großbritannien: „Glatze“ zu sagen ist sexuelle Belästigung"
-    },
-    {
-      "title": "Seltenes Phänomen : Internet staunt über Frau mit zwei Vaginas",
-      "teaser": "Leanne Bell (37) könnte gleichzeitig mit zwei Babys von zwei Männern schwanger sein.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/seltenes-phaenomen-internet-staunt-ueber-frau-mit-zwei-vaginas-80080152.bild.html",
-      "image_title": "Seltenes Phänomen: Internet staunt über Frau mit zwei Vaginas"
-    },
-    {
-      "title": "Indien kocht weiter : Wegen Hammer-Hitze! Vögel fallen vom Himmel",
-      "teaser": "Retter bringen jeden Tag Dutzende von Vögeln wie Tauben oder Milane in eine Tierklinik.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hammer-hitze-in-indien-voegel-fallen-vom-himmel-80076214.bild.html",
-      "image_title": "Hammer-Hitze in Indien: Vögel fallen vom Himmel!"
-    },
-    {
-      "title": "Teuerstes Auto jemals? : Mercedes bei Geheim-Auktion versteigert",
-      "teaser": "Ein Mercedes-Benz könnte das teuerste Auto aller Zeiten sein. Alle Infos zum Millionen-Deal!",
-      "url": "https://www.bild.de/auto/auto-news/news-ausland/teuerstes-auto-aller-zeiten-benz-bei-geheim-auktion-versteigert-80069678.bild.html",
-      "image_title": "Mercedes-Benz bei Geheim-Auktion versteigert: Teuerstes Auto aller Zeiten?"
-    },
-    {
-      "title": "Russlands Angriffskrieg : Gesprengte Brücke von Irpin wird zum Mahnmal",
-      "teaser": "In der Not sprengten Pioniere die Brücke zwischen Irpin und Kiew, um die Russen zu stoppen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russlands-angriffskrieg-gesprengte-bruecke-von-irpin-wird-zum-mahnmal-80020280.bild.html",
-      "image_title": "Russlands Angriffskrieg: Gesprengte Brücke von Irpin wird zum Mahnmal"
-    },
-    {
-      "title": "Nach Einbruch in Portugal : Polizei erschießt deutschen Geiselnehmer",
-      "teaser": "Er stach auf seine Geisel ein, wollte die Polizei attackieren – dann schossen die Polizisten …",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nach-einbruch-in-portugal-polizei-erschiesst-deutschen-geiselnehmer-80065986.bild.html",
-      "image_title": "Nach Einbruch in Portugal: Polizei erschießt deutschen Geiselnehmer"
-    },
-    {
-      "title": "Mysteriöses vom Mars : Dieses Foto sorgt für Rätselraten",
-      "teaser": "Fotografiert vom Nasa-Rover Curiosity auf dem Mars: Dieses Foto sorgt für Rätselraten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/fotografiert-vom-nasa-rover-curiosity-auf-dem-mars-dieses-foto-sorgt-fuer-raetse-80054888.bild.html",
-      "image_title": "Fotografiert vom Nasa-Rover Curiosity auf dem Mars: Dieses Foto sorgt für Rätselraten"
-    },
-    {
-      "title": "Doch kein Mord! : US-Häftling saß 30 Jahre unschuldig im Knast",
-      "teaser": "In den Vereinigten Staaten wurde ein schwerer Justiz-Fehler korrigiert.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-haeftling-sass-30-jahre-unschuldig-im-knast-jetzt-kommt-claude-garrett-65-fr-80060184.bild.html",
-      "image_title": "USA: Häftling saß 30 Jahre unschuldig im Knast – jetzt kommt Claude Garrett (65) frei"
-    },
-    {
-      "title": "Landung nach Piloten-Ausfall : Passagier zum Tower: „Ich habe keine Ahnung“",
-      "teaser": "Der Pilot eines Kleinflugzeuges hat gesundheitliche Probleme – ein Passagier greift ein!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-pilot-hat-gesundheitsprobleme-passagier-greift-ein-und-landet-die-cessna-80054220.bild.html",
-      "image_title": "USA: Pilot hat Gesundheitsprobleme – Passagier greift ein und landet die Cessna!"
-    },
-    {
-      "title": "So viele Tote wie nie zuvor : Horror-Drogen überschwemmen die USA",
-      "teaser": "Die USA bekommen die Drogen-Pandemie im Land nicht unter Kontrolle.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-horror-drogen-ueberschwemmen-das-land-so-viele-tote-wie-noch-nie-80054330.bild.html",
-      "image_title": "USA: Horror-Drogen überschwemmen das Land – so viele Tote wie noch nie"
-    },
-    {
-      "title": "Studentin († 21) getötet : US-Killer spricht bei Hinrichtung zu Mord-Opfer",
-      "teaser": "Zum ersten Mal seit acht Jahren ist in Arizona wieder eine Todesstrafe vollstreckt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/arizona-usa-todesstrafe-killer-spricht-bei-hinrichtung-zu-mord-opfer-80055828.bild.html",
-      "image_title": "Arizona (USA): Todesstrafe! Killer spricht bei Hinrichtung zu Mord-Opfer"
-    },
-    {
-      "title": "Brutale Attacke in Manchester : Postbote tritt kleinen Hund und bringt Mädchen zum Weinen",
-      "url": "https://www.bild.de/video/clip/video/brutale-attacke-in-manchester-postbote-tritt-kleinen-hund-und-bringt-maedchen-zu-80108970,auto=true.bild.html",
-      "image_title": "Brutale Attacke in Manchester: Postbote tritt kleinen Hund und bringt Mädchen zum Weinen"
-    },
-    {
-      "title": "Emotionales Front-Video : Ukrainische Soldaten singen ESC-Hit „Stefania“",
-      "url": "https://www.bild.de/video/clip/video/emotionales-front-video-ukrainische-soldaten-singen-esc-hit-stefania-80105736,auto=true.bild.html",
-      "image_title": "Emotionales Front-Video: Ukrainische Soldaten singen ESC-Hit „Stefania“"
-    },
-    {
-      "title": "Überflutung als Kriegstaktik : Wassermassen retten Dorf vor russischer Invasion",
-      "url": "https://www.bild.de/video/clip/video/glueck-im-unglueck-flut-rettet-dorf-vor-russischer-invasion-reuters-80101272,auto=true.bild.html",
-      "image_title": "Überflutung als Kriegstaktik: Wassermassen retten Dorf vor russischer Invasion"
-    }
-  ]
+  "articles": []
 }
