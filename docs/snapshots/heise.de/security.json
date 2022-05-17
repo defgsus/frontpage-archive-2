@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-17T12:44:36",
+  "timestamp": "2022-05-17T13:38:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Aruba ClearPass Policy Manager",
+      "url": "https://www.heise.de/news/Netzwerkausruester-Aruba-schliesst-Sicherheitsluecken-in-ClearPass-Policy-Manager-7097151.html"
+    },
+    {
       "title": "Sonicwall",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Sonicwall-SMA-1000-und-SSL-VPN-erlauben-unbefugten-Zugriff-7092533.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Desktop-Firewall-ZoneAlarm-ermoeglicht-Rechteausweitung-7090411.html"
     },
     {
-      "title": "Zyxel Firewalls",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Zyxel-Firewalls-als-Schlupfloch-in-Firmen-Netzwerke-7090269.html"
+      "title": "Netzwerkausrüster: Aruba schließt Sicherheitslücken in ClearPass Policy Manager",
+      "teaser": "Mit Arubas ClearPass Policy Manager können Administratoren die Zugangskontrolle regeln. Sicherheitslücken darin ermöglichen Angreifern die komplette Übernahme.",
+      "url": "https://www.heise.de/news/Netzwerkausruester-Aruba-schliesst-Sicherheitsluecken-in-ClearPass-Policy-Manager-7097151.html",
+      "image_title": "Aufmacher Aruba ClearPass Policy Manager Sicherheitsupdate"
     },
     {
       "title": "IT-Sicherheit: Große Defizite beim Standardschutz in kleinen Firmen",
@@ -153,11 +159,6 @@
       "teaser": "Angreifer nutzen Sicherheitslücken in den BIG-IP-Systemen von F5 aus, um darin einzubrechen, die Systeme unbrauchbar zu machen oder sie zu übernehmen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-F5-BIG-IP-Systeme-werden-aktiv-angegriffen-7081985.html",
       "image_title": "Aufmacher BIG-IP werden aktiv angegriffen"
-    },
-    {
-      "title": "Google dichtet Speicherverschlüsselung des AMD Epyc ab",
-      "teaser": "Google-Sicherheitsexperten fanden mehrere Fehler in der RAM-Verschlüsselung AMD SVE des Epyc 7003 für \"Confidential Computing\" in der Cloud.",
-      "url": "https://www.heise.de/news/Google-dichtet-Speicherverschluesselung-des-AMD-Epyc-ab-7082019.html"
     },
     {
       "title": "heise Security Tour 2022",
