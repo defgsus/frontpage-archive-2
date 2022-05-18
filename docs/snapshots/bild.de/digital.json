@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-05-18T18:26:47",
+  "timestamp": "2022-05-18T19:18:24",
   "url": "https://www.bild.de/digital/startseite/digital/digital-home-15479358.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,46 +25,341 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,58725794.1-56687664.11.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Neue WhatsApp-Funktion in Arbeit : Bald kann man Gruppen heimlich verlassen",
+      "url": "https://www.bild.de/digital/smartphone-und-tablet/handy-und-telefon/whatsapp-bald-kann-man-gruppen-chats-heimlich-verlassen-80125786.bild.html",
+      "image_url": "https://images.bild.de/6284bebcc166364f54f9a032/93fe011129f36f2787b88815ce3723a1/2/3?w=656",
+      "image_title": "WhatsApp: Bald kann man Gruppen-Chats heimlich verlassen"
+    },
+    {
+      "title": "Für Gespräche & Videos : Apple bringt Live-Untertitel aufs iPhone",
+      "url": "https://www.bild.de/digital/smartphone-und-tablet/handy-und-telefon/apple-neue-iphone-funktion-fuer-untertitel-in-gespraechen-und-streaming-80116950.bild.html",
+      "image_url": "https://images.bild.de/6283949ff85e37084d183eca/0ec0d1afbab4afe7af6b3ec9314e02a9-miniSquare/1/2?w=320",
+      "image_title": "Apple: Neue iPhone-Funktion für Untertitel in Gesprächen und Streaming"
+    },
+    {
+      "title": "Zoff um Fake-Profile : Elon Musk schickt Twitter-Chef Kackhaufen-Emoji",
+      "url": "https://www.bild.de/digital/internet/internet/neuer-zoff-um-fake-profile-elon-musk-schickt-twitter-chef-kackhaufen-emoji-80110736.bild.html",
+      "image_url": "https://images.bild.de/6283042bc166364f54f99dbb/b83ed25e33a96aeeac530d24cd198556-miniSquare/2/3?w=320",
+      "image_title": "Neuer Zoff um Fake-Profile: Elon Musk schickt Twitter-Chef Kackhaufen-Emoji"
+    },
+    {
+      "title": "Produktion eingestellt : Bye, ByePod!",
+      "url": "https://www.bild.de/digital/multimedia/multimedia/apple-stellt-ipod-ein-bye-bye-mp3-player-80076500.bild.html"
+    },
+    {
+      "title": "Huawei Matebook 14S : Günstiges Notebook für Leistungs-Hungrige",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/huawei-matebook-14s-im-test-guenstiges-notebook-mit-starker-leistung-79950976.bild.html"
+    },
+    {
+      "title": "Neuer Service startet : BILD TV gibt es jetzt auch zum Hören!",
+      "url": "https://www.bild.de/digital/2022/digital/neuer-audio-service-startet-bild-tv-gibt-es-jetzt-auch-zum-hoeren-79963290.bild.html"
+    },
+    {
+      "title": "Neue Produkte, neue Preise : Apples günstigstes iPhone wird teurer",
+      "url": "https://www.bild.de/video/clip/video/neue-produkte-neue-preise-apples-guenstigstes-iphone-wird-teurer-79393664,auto=true.bild.html",
+      "image_title": "Neue Produkte, neue Preise: Apples günstigstes iPhone wird teurer"
+    },
+    {
+      "title": "„Krass Klassenfahrt“ : Jamie schickte Freundin Foto seines nackten ...",
+      "url": "https://www.bild.de/video/clip/leute/krass-klassenfahrt-jamie-schickte-freundin-foto-seines-nackten-78226214,auto=true.bild.html",
+      "image_title": "„Krass Klassenfahrt“: Jamie schickte Freundin Foto seines nackten ..."
+    },
+    {
+      "title": "Facebook präsentiert Metaverse : „Zuckerberg will nur von seinen Problemen ablenken“",
+      "url": "https://www.bild.de/video/clip/bild-tv/facebook-zuckerberg-will-mit-meta-nur-von-seinen-problemen-ablenken-78097208,auto=true.bild.html",
+      "image_title": "Facebook: „Zuckerberg will mit Meta nur von seinen Problemen ablenken“"
+    },
+    {
+      "title": "Mega-Panne im Netz : Facebook, Instagram und WhatsApp offline",
+      "url": "https://www.bild.de/video/clip/digital/mega-panne-im-netz-facebook-instagram-und-whatsapp-offline-77869458,auto=true.bild.html",
+      "image_title": "Mega-Panne im Netz: Facebook, Instagram und WhatsApp offline"
+    },
+    {
+      "title": "Amazon-Haushaltsroboter : Statt Hund oder Katze: Jetzt kommt Astro!",
+      "url": "https://www.bild.de/video/clip/digital/amazon-haushaltsroboter-statt-hund-oder-katze-jetzt-kommt-astro-77818736,auto=true.bild.html",
+      "image_title": "Amazon-Haushaltsroboter : Statt Hund oder Katze: Jetzt kommt Astro!"
+    },
+    {
+      "title": "Spar-Trick Refurbished? : Wann es sich lohnt, gebrauchte Technik zu kaufen",
+      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/refurbished-wann-es-sich-lohnt-gebrauchtgeraete-zu-kaufen-79908018.bild.html",
+      "image_title": "Refurbished: Wann es sich lohnt, gebrauchte Geräte zu kaufen"
+    },
+    {
+      "title": "Eine ist ein Taschenrechner : Achtung, wenn Ihre Kinder diese Apps benutzen",
+      "teaser": "Vier Apps, bei denen Eltern aufhorchen sollten, wenn sie auf den Handys ihrer Kinder sind.",
+      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/achtung-wenn-ihre-kinder-diese-apps-benutzen-79823152.bild.html",
+      "image_title": "Achtung, wenn Ihre Kinder diese Apps benutzen!"
+    },
+    {
+      "title": "Marketing-Panne : Apple zeigt versehentlich neues Produkt",
+      "teaser": "Beobachter haben auf der US-Webseite ein bislang noch unbekanntes Apple-Gerät entdeckt.",
+      "url": "https://www.bild.de/digital/smartphone-und-tablet/handy-und-telefon/zubehoer-fuers-iphone-apple-zeigt-versehentlich-neues-produkt-79730570.bild.html",
+      "image_title": "Zubehör fürs iPhone: Apple zeigt versehentlich neues Produkt"
+    },
+    {
+      "title": "Bis zu 50 Prozent sparen : So bekommen Sie Ihr Handy billiger",
+      "teaser": "Smartphones werden teurer. BILD zeigt, wie Sie Ihr Handy trotzdem günstig einkaufen.",
+      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/so-bekommen-sie-ihr-handy-billiger-und-sparen-bis-zu-50-79676018.bild.html",
+      "image_title": "So bekommen Sie Ihr Handy billiger und sparen bis zu 50 %!"
+    },
+    {
+      "title": "6 Handys bis 150 Euro im Test : Dieses Billig-Smartphone bringt die beste Leistung",
+      "teaser": "Der große COMPUTER-BILD-Test verrät, was die günstigsten Handys leisten – und was nicht.",
+      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/sechs-handys-im-test-was-smartphones-unter-150-euro-koennen-79663138.bild.html",
+      "image_title": "6 Handys bis 150 Euro im Test: Dieses Billig-Smartphone bringt die beste Leistung"
+    },
+    {
+      "title": "Im Test : Drei Kopfhörer, die besser als die Airpods sind",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/beats-sennheiser-1more-drei-kopfhoerer-die-besser-als-airpods-sind-80029338.bild.html",
+      "image_title": "Kopfhörer-Alternativen, die besser als Apple Airpods sind: Beats, Sennheiser, 1More"
+    },
+    {
+      "title": "Was taugen Tank-Apps? : So sparen Sie zehn Euro pro Tankfüllung!",
+      "teaser": "Preise vergleichen hilft sparen. BILD zeigt, wie Tank-Apps dabei helfen können.",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/tank-apps-im-vergleich-so-sparen-sie-10-euro-pro-tankfuellung-79952404.bild.html",
+      "image_title": "Günstiger tanken: Mit Tank-Apps 10 Euro pro Tankfüllung sparen"
+    },
+    {
+      "title": "Geplantes Gesetz : Warum ein EU-Netzteil uns allen schadet",
+      "teaser": "Die EU will Ladegeräte vereinheitlichen. Eine Idee, die wohl mehr schadet, als nützt.",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/geplantes-gesetz-warum-ein-eu-netzteil-uns-allen-schadet-79848158.bild.html",
+      "image_title": "Geplantes Gesetz: Warum ein EU-Netzteil uns allen schadet"
+    },
+    {
+      "title": "Massiv Kunden verloren : Erst Abo-Schock, dann Aktien-Absturz bei Netflix",
+      "teaser": "Das schaut der Streaming-Riese aber heftig in die Röhre!",
+      "url": "https://www.bild.de/digital/multimedia/multimedia/netflix-erst-abo-schock-dann-aktien-absturz-streaming-riese-verliert-kunden-79822158.bild.html",
+      "image_title": "Netflix: Erst Abo-Schock, dann Aktien-Absturz – Streaming-Riese verliert Kunden"
+    },
+    {
+      "title": "Lenovo Smart Clock 2 : Was der schlauste Wecker der Welt nicht kann",
+      "teaser": "Lenovo verkauft die zweite Generation seiner schlauen Uhr. BILD hat sie ausprobiert.",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/lenovo-smart-clock-2-im-test-der-schlauste-wecker-der-welt-kann-viel-aber-nicht-79745142.bild.html",
+      "image_title": "Lenovo Smart Clock 2 im Test: Der schlauste Wecker der Welt kann viel – aber nicht alles"
+    },
+    {
+      "title": "Amazon und Disney : Die Zukunft des Streamings ist gratis!",
+      "teaser": "Bisher ging ohne Abo bei Disney, Amazon & Co. gar nichts. Doch das ändert sich noch 2022.",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/plaene-von-amazon-und-disney-die-zukunft-des-streamings-ist-gratis-79782208.bild.html",
+      "image_title": "Pläne von Amazon und Disney: Die Zukunft des Streamings ist gratis!"
+    },
+    {
+      "title": "Neue Betrüger-Masche : Wie Sie auf Anrufe von Europol reagieren sollten",
+      "url": "https://www.bild.de/digital/internet/internet/anruf-von-europol-oder-interpol-das-steckt-dahinter-80023032.bild.html",
+      "image_title": "Anruf von Europol oder Interpol? Diese Betrugsmasche steckt dahinter!"
+    },
+    {
+      "title": "Vertrags-Ärger : Lahmes Internet? DAS sollten Sie jetzt tun!",
+      "teaser": "Sie Zahlen, der Anbieter liefert nicht. BILD erklärt, wie Sie sich wehren können.",
+      "url": "https://www.bild.de/bild-plus/digital/internet/internet/homeoffice-videos-musik-so-schnell-sollte-ihr-internet-sein-75021796.bild.html",
+      "image_title": "Vertrags-Ärger über lahmes Internet? DAS sollten Sie jetzt tun!"
+    },
+    {
+      "title": "Bild- und Ton-Qualität : Diesen Fehler müssen Sie bei Netflix vermeiden!",
+      "teaser": "Kinoreife Klang- und Bildqualität? Gibt's bei Netflix teils nur mit einem Trick.",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/netflix-bild-und-ton-qualitaet-diesen-fehler-muessen-sie-vermeiden-79972976.bild.html",
+      "image_title": "Netflix schlechte Bild- und Ton-Qualität: Diesen Fehler müssen Sie vermeiden!"
+    },
+    {
+      "title": "Logitech Pop Keys : Diese Tastatur hat Emoji-Knöpfe",
+      "teaser": "Ein Keyboard für die Generation Smiley. Unser Test zeigt, ob es auch als Tastatur taugt.",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/logitech-pop-keys-im-test-diese-tastatur-hat-emoji-knoepfe-79994640.bild.html",
+      "image_title": "Logitech Pop Keys im Test: Diese Tastatur hat Emoji-Knöpfe"
+    },
+    {
+      "title": "Mit Cookies & Warenkorb : So holen Sie sich Rabatte bei Onlinehändlern",
+      "teaser": "Mit welchen Tricks die Händler arbeiten und wie Sie trotzdem Geld sparen können.",
+      "url": "https://www.bild.de/bild-plus/digital/internet/internet/profi-tricks-beim-online-shopping-so-holen-sie-sich-rabatte-bei-onlinehaendlern-79884468.bild.html",
+      "image_title": "Profi-Tricks beim Online-Shopping: So holen Sie sich Rabatte bei Onlinehändlern"
+    },
+    {
+      "title": "Als Selbstständiger : Daniel macht mit T-Shirts im Netz über 4000 Euro",
+      "teaser": "In BILD erzählt ein Online-Unternehmer, wie er per Internet Geld verdient.",
+      "url": "https://www.bild.de/bild-plus/digital/internet/multimedia/geld-verdienen-im-internet-daniel-macht-mit-t-shirts-ueber-4000-euro-67099062.bild.html",
+      "image_title": "Geld verdienen im Internet: Mit T-Shirts über 4000 Euro einnehmen"
+    },
+    {
+      "title": "Lahmes Internet? : Es muss nicht immer der Anschluss sein",
+      "url": "https://www.bild.de/digital/internet/internet/lahmes-internet-es-muss-nicht-unbedingt-am-anschluss-liegen-79999972.bild.html",
+      "image_title": "Lahmes Internet? Es muss nicht unbedingt am Anschluss liegen"
+    },
+    {
+      "title": "Nach Übernahme : Elon Musk will Gebühren für Twitter",
+      "teaser": "Elon Musk erwägt nach der Übernahme von Twitter eine Gebühr für bestimmte Nutzer.",
+      "url": "https://www.bild.de/digital/internet/internet/twitter-elon-musk-will-gebuehren-von-bestimmten-nutzern-79969020.bild.html",
+      "image_title": "Twitter: Elon Musk plant Gebühren für bestimmte Nutzer"
+    },
+    {
+      "title": "41 Millionen registriert : Luca-App löscht Nutzerdaten",
+      "teaser": "Die Eincheck-App checkt aus. BILD verrät, warum Luca trotzdem noch wertvoll sein könnte.",
+      "url": "https://www.bild.de/digital/internet/internet/luca-app-loescht-alle-nutzerdaten-und-baut-neues-geschaeftsmodell-79972104.bild.html",
+      "image_title": "Luca-App löscht alle Nutzerdaten und baut neues Geschäftsmodell"
+    },
+    {
+      "title": "Schleppender Start : Nur jede zweite Apotheke bekam schon ein E-Rezept",
+      "teaser": "Das neue E-Rezept wurde bislang 10 000 Mal ausgestellt – was Patienten dafür benötigen.",
+      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/e-rezept-wie-die-elektronische-verschreibung-aufs-smartphone-kommt-79890754.bild.html",
+      "image_title": "E-Rezept: Wie die elektronische Verschreibung aufs Smartphone kommt"
+    },
+    {
+      "title": "Gilt für Google & Co. : EU einigt sich auf Gesetz gegen Hass und Hetze im Netz",
+      "teaser": "Auf Internetkonzerne wie Google, Facebook und Co. kommen strengere Regeln zu.",
+      "url": "https://www.bild.de/politik/2022/politik/eu-digital-gesetz-gegen-hass-und-hetze-beschlossen-79855542.bild.html",
+      "image_title": "Gilt für Facebook, Google & Co.: EU einigt sich auf Gesetz gegen Hass und Hetze"
+    },
+    {
+      "title": "Endlich einfacher : So schürfen Sie Krypto-Währung OHNE Super-PC",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/endlich-einfacher-so-schuerfen-sie-krypto-waehrung-ohne-super-pc-76906160.bild.html",
+      "image_title": "Krypto-Währung ohne Super-PC schürfen"
+    },
+    {
+      "title": "Tech-Freak-Kolumne : Sind wir wirklich schlauer als Computer?",
+      "teaser": "Was kann künstliche Intelligenz heute schon? Und warum ist das noch so wenig?",
+      "url": "https://www.bild.de/digital/computer/computer/kuenstliche-intelligenz-sind-wir-wirklich-schlauer-als-computer-79733964.bild.html",
+      "image_title": "Künstliche Intelligenz: Sind wir wirklich schlauer als Computer?"
+    },
+    {
+      "title": "Krypto-Wahnsinn : Geld scheffeln ohne Grafikkarte - so klappt’s",
+      "teaser": "Grafikkarten sind knapp. Eine Alternative: Der Mini-Rechner Bobcat 300 für Helium-Coins.",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/krypto-waehrung-ohne-grafikkarte-geld-scheffeln-so-geht-es-79094340.bild.html",
+      "image_title": "Kryptowährung mit Potenzial: Ohne Grafikkarte Geld scheffeln – so geht es"
+    },
+    {
+      "title": "Über 10 Prozent Rendite : Dieses Krypto-Geld wird von alleine mehr",
+      "teaser": "Beim Schürfen nach Krypto gibt es viele Fallstricke. Das „Staken“ ist oft sinnvoller.",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/ueber-10-prozent-rendite-dieses-krypto-geld-wird-von-alleine-mehr-77004202.bild.html",
+      "image_title": "Dieses Krypto-Geld wird von alleine mehr - über 10 Prozent Rendite"
+    },
+    {
+      "title": "Dauertest zeigt : Der beste Virenschutz für Windows ist gratis!",
+      "teaser": "Ein unabhängiges Institut hat 21 Programme getestet. Das Ergebnis ist überraschend.",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/windows-10-geld-fuer-virenschutz-koennen-sie-sich-sparen-65187458.bild.html",
+      "image_title": "Der beste Virenschutz für Windows ist gratis"
+    },
+    {
+      "title": "Angebote aus dem Netz : Sind Billig-Lizenzen für Windows und Office legal?",
+      "teaser": "Angebote im Internet und bei Discountern wirken viel zu günstig, um seriös zu sein.",
+      "url": "https://www.bild.de/bild-plus/digital/computer/computer/sind-billig-lizenzen-fuer-windows-und-office-legal-62858670.bild.html",
+      "image_title": "Microsoft: Sind Billig-Lizenzen für Office und Windows legal?"
+    },
+    {
+      "title": "Haben Sie es schon bemerkt? : Sechs neue Funktionen bei WhatsApp!",
+      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/whatsapp-neue-funktionen-machen-sprachnachrichten-viel-komfortabler-79615144.bild.html",
+      "image_title": "WhatsApp: Neue Funktionen machen Sprachnachrichten viel komfortabler"
+    },
+    {
+      "title": "Lahmes Internet? : Verbraucherschutz rät: Zahlen Sie weniger!",
+      "teaser": "Das neue Telekommunikationsgesetz räumt Verbrauchern ab 1. Dezember mehr Rechte ein.",
+      "url": "https://www.bild.de/bild-plus/digital/internet/internet/lahmes-internet-verbraucherschutz-raet-zahlen-sie-weniger-78249650.bild.html",
+      "image_title": "Internet langsam? Verbraucherschutz rät: Zahlen Sie weniger!"
+    },
+    {
+      "title": "eBooks : Was Sie über Kindle und Tolino wissen müssen",
+      "teaser": "Tausende Bücher in einem kleinen Gerät - ein Traum. Doch welches System ist das Richtige?",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/ebooks-was-sie-ueber-kindle-und-tolino-wissen-muessen-78291806.bild.html",
+      "image_title": "eBooks: Was Sie über Kindle und Tolino wissen müssen"
+    },
+    {
+      "title": "Bild-Diagonale, Auflösung, Abstand : So finden Sie den perfekten Fernseher",
+      "teaser": "Gibt es zu viel Bild? Klar! Der BILD-Ratgeber erklärt, wie Sie Ihren perfekten TV finden.",
+      "url": "https://www.bild.de/digital/multimedia/multimedia/bilddiagonale-aufloesung-abstand-so-gross-sollte-ihr-fernseher-sein-77664850.bild.html",
+      "image_title": "Bilddiagonale, Auflösung, Abstand: So groß sollte Ihr Fernseher sein"
+    },
+    {
+      "title": "Auf wenige Meter genau : Wie jeder Fleck der Erde eine Adresse erhält",
+      "teaser": "Verschiedene Kodiersysteme geben jedem Flecken der Erde eine einzigartige Adresse.",
+      "url": "https://www.bild.de/bild-plus/digital/multimedia/multimedia/kodiersysteme-wie-jeder-fleck-der-erde-eine-adresse-erhaelt-77431504.bild.html",
+      "image_title": "Auf wenige Meter genau: Wie jeder Fleck der Erde eine Adresse erhält"
+    },
+    {
+      "title": "Upday startet Jaxon : Neue App bringt eSport-News aufs Handy",
+      "url": "https://www.bild.de/spiele/spiele-news/spiele-news/jaxon-von-upday-gestartet-neue-app-bringt-esport-news-aufs-handy-76905358.bild.html",
+      "image_title": "Upday startet Jaxon: Neue App bringt eSport-News aufs Handy"
+    },
+    {
+      "title": "Kein „Halo Infinite“ vor 2021 : Kein Bock auf Xbox Series X, Microsoft?",
+      "teaser": "Eine Konsole ohne coole Spiele. Ein Handy mit zwei Displays. Neue Filmtechnik. „Freaks“ als Netflix-Show. Sven und Martin haben Spaß!",
+      "url": "https://www.bild.de/spiele/spiele-news/spiele-news/xbox-series-x-surface-duo-quibi-tech-freaks-podcast-151-72368338.bild.html",
+      "image_title": "„Halo Infinite“ nicht vor 2021: Kein Bock auf Xbox Series X, Microsoft?"
+    },
+    {
+      "title": "Werden Sie aktiv, kreativ, gelassen : Sechs gute Vorsätze für Gamer",
+      "teaser": "Neujahr – die Zeit der guten Vorsätze. Auch beim Spielen kann man alte Gewohnheiten ablegen und neues wagen. BILD gibt Anregungen.",
+      "url": "https://www.bild.de/spiele/spiele-news/spiele-news/werden-sie-aktiv-kreativ-gelassen-sechs-gute-vorsaetze-fuer-gamer-66785086.bild.html",
+      "image_title": "Werden Sie Aktiv, kreativ, gelassen: Sechs gute Vorsätze für Gamer"
+    },
+    {
+      "title": "„BILD lädt“ – Spiele und Apps : Hier bauen Sie sich Ihre kleine heile Welt",
+      "teaser": "Diese Woche: Das Aufbau-Spiel „Dorfromantik“, das Action-Abenteuer „It takes two“ und das Rollen-Strategie-Spiel „Sin Slayers“.",
+      "url": "https://www.bild.de/bild-plus/spiele/spiele-news/spiele-news/dorfromantik-it-takes-two-und-sin-slayers-im-test-76008716.bild.html",
+      "image_title": "„BILD lädt“ – Spiele und Apps, die Sie kennen sollten: Hier bauen Sie sich Ihre kleine heile Welt"
+    },
+    {
+      "title": "Diablo, Pokémon & Co. : Drei Spiele-Neuauflagen im BILD-Test",
+      "teaser": "Sind „Diablo II“, „Pokémon: Diamant und Perle“ & „Disco Elysium“ beim zweiten Mal besser?",
+      "url": "https://www.bild.de/bild-plus/spiele/spiele-test/spiele-test/diablo-pokmon-co-drei-spiele-neuauflagen-im-bild-test-78316358.bild.html",
+      "image_title": "„Diablo“, „Pokémon“ & Co.: Drei Spiele-Neuauflagen im BILD-Test"
+    },
+    {
+      "title": "Trailer zeigt Bombast-Shooter : Nächster Teil der „Battlefield“-Reihe enthüllt",
+      "teaser": "Schluss mit historischen Szenarien: Spieleentwickler Dice hat den nächsten Teil der beliebten „Battlefield“-Reihe enthüllt.",
+      "url": "https://www.bild.de/spiele/spiele-news/spiele-news/battlefield-2042-neuer-trailer-enthuellt-naechsten-battlefield-teil-76704224.bild.html",
+      "image_title": "Trailer zeigt Bombast-Shooter: Nächster Teil der „Battlefield“-Reihe enthüllt"
+    }
+  ]
 }
