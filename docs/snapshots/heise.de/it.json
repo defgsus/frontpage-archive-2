@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-18T07:21:01",
+  "timestamp": "2022-05-18T08:27:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,19 @@
   ],
   "articles": [
     {
+      "title": "Heeres-Inspekteur sieht geschützte Kommunikation als Hauptaufgabe",
+      "teaser": "Das deutsche Militär kann nicht geschützt kommunizieren. Darunter leidet bereits die Zusammenarbeit mit den NATO-Partnern, kritisiert Alfons Mais.",
+      "url": "https://www.heise.de/news/Heeres-Inspekteur-sieht-geschuetzte-Kommunikation-als-Hauptaufgabe-7096519.html"
+    },
+    {
+      "title": "Kali Linux 2022.2 mit polierter Optik und in unkaputtbar",
+      "teaser": "Das neue Kali Linux ist da. Dank Snapshots kann man das System nun zurücksetzen. Neue Tools erweitern den Funktionsumfang.",
+      "url": "https://www.heise.de/news/Kali-Linux-2022-2-mit-polierter-Optik-und-in-unkaputtbar-7096750.html"
+    },
+    {
       "title": "NSA: Keine Hintertür für Spione in quantengesicherter Verschlüsselung",
       "teaser": "2015 musste das NIST einen Verschlüsselungsalgorithmus beerdigen, da ihn die NSA unterwandert hatte. Bei Post-Quanten-Kryptografie soll das nicht passieren.",
       "url": "https://www.heise.de/news/NSA-Keine-Hintertuer-fuer-Spione-in-quantengesicherter-Verschluesselung-7092138.html"
-    },
-    {
-      "title": "Windows-Updates verursachen Start- und Authentifizierungsprobleme",
-      "teaser": "Microsoft-Updates aus dem Mai verursachen bei Nutzern Probleme etwa beim Starten bestimmter Anwendungen. Zudem können Dienste Authentifizierungsprobleme melden.",
-      "url": "https://www.heise.de/news/Windows-Updates-verursachen-Start-und-Authentifizierungsprobleme-7090193.html",
-      "image_title": "Aufmacher Windows-Updates-Probleme"
-    },
-    {
-      "title": "TrueNAS 13: Renovierter FreeBSD-Unterbau und bessere Performance",
-      "teaser": "Im Rahmen des Release 13 basiert TrueNAS nun auf einem aktuellen FreeBSD und packt vor allem die Geschwindigkeit des Open-Source-NAS-Systems an.",
-      "url": "https://www.heise.de/news/TrueNAS-13-Renovierter-FreeBSD-Unterbau-und-bessere-Performance-7091635.html"
     },
     {
       "title": "Pillow für Einsteiger: So bearbeiten Sie Bilder mit Python",
@@ -53,7 +52,29 @@
       "image_title": ", Albert Hulm"
     },
     {
-      "title": "Support-Ende für Windows Server und Windows 10 20H2",
+      "title": "Apples MDM-Lösung für Mac: Nicht nur Apps aus dem App Store installierbar",
+      "teaser": "Die Apple Business Essentials waren bislang strikt auf Apples Anwendungsverteilsystem ausgerichtet. Das ändert sich nun glücklicherweise.",
+      "url": "https://www.heise.de/news/Apples-MDM-Loesung-Nicht-nur-Apps-aus-dem-App-Store-installierbar-7095012.html"
+    },
+    {
+      "title": "Sicherheitsupdates: Schadcode-Lücken in GPU-Treibern von Nvidia geschlossen",
+      "teaser": "Berechnen Nvidia-Grafikkarten von Angreifern präparierte Shader, kann es zu Sicherheitsproblemen kommen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Luecken-in-GPU-Treibern-von-Nvidia-geschlossen-7097875.html"
+    },
+    {
+      "title": "iX-Workshop: Datenanalyse mit dem Elastic Stack (Last Call)",
+      "teaser": "Aus den eigenen Unternehmensdaten mit den Tools des Elastic Stack Erkenntnisse ziehen. Dreitägige Online-Schulung für Kurzentschlossene vom 23. bis zum 25. Mai.",
+      "url": "https://www.heise.de/news/iX-Workshop-Datenanalyse-mit-dem-Elastic-Stack-Last-Call-7095665.html",
+      "image_title": "iX-Workshop: Monitoring und Datenanalyse mit dem Elastic Stack"
+    },
+    {
+      "title": "Mastercard will Bezahlen mit Gesichts- oder Handscan einführen",
+      "teaser": "Der Zahlungsdienstleister Mastercard will mit rein biometrischer Authentifizierung eine \"neue Ära\" des Bezahlens einläuten – mit einem \"Winken\" oder \"Lächeln\".",
+      "url": "https://www.heise.de/news/Mastercard-will-Bezahlen-mit-Gesichts-oder-Handscan-einfuehren-7097609.html",
+      "image_title": "Mastercard: Bezahlen mit Winken oder Lächeln"
+    },
+    {
+      "title": "Keine Updates mehr für Windows Server und Windows 10 20H2",
       "teaser": "Microsoft stellt die Unterstützung für die Windows-Versionen Server und Windows 10 20H2 ein. Windows Server gibt es künftig nicht mehr als Halbjahres-Releases.",
       "url": "https://www.heise.de/news/Support-Ende-fuer-Windows-Server-und-Windows-10-20H2-7097917.html",
       "image_title": "Aufmacher Windows 20H2 End-of-Life"
@@ -111,29 +132,6 @@
       "teaser": "Mit Arubas ClearPass Policy Manager können Administratoren die Zugangskontrolle regeln. Sicherheitslücken darin ermöglichen Angreifern die komplette Übernahme.",
       "url": "https://www.heise.de/news/Netzwerkausruester-Aruba-schliesst-Sicherheitsluecken-in-ClearPass-Policy-Manager-7097151.html",
       "image_title": "Aufmacher Aruba ClearPass Policy Manager Sicherheitsupdate"
-    },
-    {
-      "title": "Abos in iPhone-Apps: Apple erlaubt ungefragte Preiserhöhungen",
-      "teaser": "Abos in iOS-Apps können nun um bis zu 50 Prozent ohne Zustimmung des Nutzers verteuert werden. Mehrere Apple-Vorgaben sollen Missbrauch erschweren.",
-      "url": "https://www.heise.de/news/Abos-in-iPhone-Apps-Apple-erlaubt-ungefragte-Preiserhoehungen-7097229.html",
-      "image_title": "iPhone 12 neben iPhone 12 Pro"
-    },
-    {
-      "title": "Update für Projektmanagementtool awork: Projektautomatisierung und neuer Planer",
-      "teaser": "Das neue Release von awork führt unter anderem private Projekte ein und ermöglicht eine Automatisierung auf Projektebene.",
-      "url": "https://www.heise.de/news/Update-fuer-Projektmanagementtool-awork-Projektautomatisierung-und-neuer-Planer-7096632.html"
-    },
-    {
-      "title": "Digitalisierung deutscher Unternehmen beschleunigt – Verwaltung hinkt hinterher",
-      "teaser": "Die pandemiebedingten Entwicklungen in den deutschen Büros sind nachhaltig, meint der Branchenverband Bitkom auf Basis einer aktuellen Umfrage.",
-      "url": "https://www.heise.de/news/Digitalisierung-deutscher-Unternehmen-beschleunigt-Verwaltung-hinkt-hinterher-7097044.html",
-      "image_title": "Professional,Development,Programmer,Cooperating,Meeting,And,Brainstorming,And,Programming,Website"
-    },
-    {
-      "title": "Microsoft: Support-Ende für Quick Assist, Store-Version als Ersatz",
-      "teaser": "Die integrierte Remotehilfe von Windows 10 und 11 erreicht jetzt ihr Support-Ende. Microsoft bietet im Store einen Ersatz an – und erregt die Gemüter.",
-      "url": "https://www.heise.de/news/Microsoft-Support-Ende-fuer-Quick-Assist-Store-Version-als-Ersatz-7096903.html",
-      "image_title": "Aufmacher MS QuickAssist Support-Ende"
     },
     {
       "title": "Trendstudie",
