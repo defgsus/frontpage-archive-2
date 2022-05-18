@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-18T03:20:43",
+  "timestamp": "2022-05-18T04:35:28",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,385 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.1-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Generalbundesanwalt sicher : Dackelfreund machte Waffen-Deals mit Moskau",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/waffen-fuer-russland-hochsicherheits-prozess-gegen-dackelmann-80121188.bild.html",
-      "image_title": "Waffen für Russland: Hochsicherheits-Prozess gegen Dackelmann"
-    },
-    {
-      "title": "Tragödie in Brandenburg : Mädchen (4) ertrinkt in See",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/wusterhausen-brandenburg-maedchen-4-ertrinkt-im-klempowsee-80122644.bild.html",
-      "image_title": "Wusterhausen (Brandenburg): Mädchen (4) ertrinkt im Klempowsee"
-    },
-    {
-      "title": "TV-Star Doreen Dietel : Not-OP wegen Hautkrebs",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/doreen-dietel-not-op-wegen-hautkrebs-80114138.bild.html",
-      "image_title": "Doreen Dietel: Not-OP wegen Hautkrebs"
-    },
-    {
-      "title": "Falscher Sugardaddy : Frau (24) fällt auf Nacktfoto-Erpresser rein",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-frau-24-faellt-auf-nacktfoto-erpresser-rein-80114872.bild.html",
-      "image_title": "Dortmund: Frau (24) fällt auf Nacktfoto-Erpresser rein"
-    },
-    {
-      "title": "Mordkommission ermittelt : Blutiger Messer-Streit unter Nachbarn",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/in-berlin-treptow-nachbarschaftszoff-endet-blutig-festnahme-80110904.bild.html",
-      "image_title": "Mordkommission ermittelt! Blutiger Messer-Streit unter Nachbarn"
-    },
-    {
-      "title": "AfD und Linke stützen Russland : Putin-Propaganda im Potsdamer Parlament",
-      "teaser": "Potsdam – Die einen stehen rechts, die anderen links. Doch beim Thema Ukraine-Krieg herrscht zwischen AfD und Linken Einigkeit. Beid...",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/putin-propaganda-im-potsdamer-parlament-afd-und-linke-stuetzen-russland-80120752.bild.html",
-      "image_title": "Putin-Propaganda im Potsdamer Parlament! AfD und Linke stützen Russland"
-    },
-    {
-      "title": "In Berlin erstochen : Warum schützte Polizei ermordete Afghanin nicht?",
-      "teaser": "Die Berliner Polizei kann nicht erklären, warum sie die Mutter aus Afghanistan nicht schützte.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/in-berlin-erstochen-warum-schuetzte-polizei-ermordete-afghanin-nicht-80101682.bild.html",
-      "image_title": "In Berlin erstochen: Warum schützte Polizei ermordete Afghanin nicht?"
-    },
-    {
-      "title": "Acht Verletzte in Delmenhorst : Mercedes schleudert in Schülergruppe",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/schwerer-unfall-in-delmenhorst-auto-crasht-in-bushaltestelle-acht-verletzte-80114494.bild.html",
-      "image_title": "Schwerer Unfall: Golf schleudert vor Schule in Haltestelle - acht Verletzte!"
-    },
-    {
-      "title": "Nummer 1 bleibt : Pavlenka verlängert bei Werder",
-      "teaser": "Jiri Pavlenka bleibt in Bremen! Der Keeper hat seinen auslaufenden Vertrag verlängert.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-torwart-jiri-pavlenka-verlaengert-vertrag-fuer-die-bundesliga-80117896.bild.html",
-      "image_title": "Werder Bremen: Torwart Jiri Pavlenka verlängert Vertrag für die Bundesliga"
-    },
-    {
-      "title": "Eigentlich undenkbar! : Werder drückt jetzt dem HSV die Daumen",
-      "teaser": "Werder hat es gepackt – zieht der HSV nach? Für Bremen wäre das in diesem Jahr großartig.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/werder-bremen-eigentlich-undenkbar-werder-drueckt-jetzt-dem-hsv-die-daumen-80112856.bild.html",
-      "image_title": "Werder Bremen: Eigentlich undenkbar! Werder drückt jetzt dem HSV die Daumen"
-    },
-    {
-      "title": "Forscher warnen : West-Nil-Virus breitet sich in Deutschland aus",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/forscher-warnen-west-nil-virus-breitet-sich-in-deutschland-aus-80116972.bild.html",
-      "image_title": "Forscher warnen: West-Nil-Virus breitet sich in Deutschland aus"
-    },
-    {
-      "title": "Libuše Šafránková : Aschenbrödels echter Prinz gestorben",
-      "teaser": "Nach dem Krebstod von „Aschenbrödel“-Star Libuše Šafránková verstarb jetzt ihr Ehemann.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/libue-afrnkovs-mann-gestorben-aschenbroedels-echter-prinz-ist-tot-80114416.bild.html",
-      "image_title": "„Drei Haselnüsse für Aschenbrödel“: Libuše Šafránkovás Mann gestorben"
-    },
-    {
-      "title": "Auf Kabinetts-Ausflug : MP Kretschmer im Regenwald",
-      "teaser": "Ministerpräsident Michael Kretschmer (47, CDU) lud sein Kabinett am Dienstag auf die Bastei.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/auf-kabinetts-ausflug-mp-michael-kretschmer-im-regenwald-80121612.bild.html",
-      "image_title": "Auf Kabinetts-Ausflug: MP Michael Kretschmer im Regenwald"
-    },
-    {
-      "title": "Zu Schmerzensgeld verurteilt : Querdenker beißt Polizist in die Wade",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/querdenker-in-sachsen-beissender-querdenker-aus-bautzen-verurteilt-80121716.bild.html",
-      "image_title": "Querdenker in Sachsen: Beißender Querdenker aus Bautzen verurteilt"
-    },
-    {
-      "title": "Bauteile geliefert : Half ein Deutscher den Russen beim Bau von Waffen?",
-      "teaser": "Ein Deutscher soll dem russischen Geheimdienst beim Bau von ABC-Waffen geholfen haben.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-auftakt-half-sachse-den-russen-beim-bau-von-chemie-waffen-80113490.bild.html",
-      "image_title": "Prozess-Auftakt: Half ein Deutscher den Russen beim Bau von Waffen?"
-    },
-    {
-      "title": "Iraker (32) starb eingepfercht : Knast für Todes-Schleuser",
-      "teaser": "Sie bereicherten sich am Leid von Flüchtlingen, kassierten horrende Summen für den Menschenschmuggel – bis einer starb.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-iraker-32-starb-eingepfercht-knast-fuer-todes-schleuser-80106990.bild.html",
-      "image_title": "Prozess: Iraker (32) starb eingepfercht – Knast für Todes-Schleuser"
-    },
-    {
-      "title": "Gespräche in der Schweiz : Gladbach scharf auf Ex-Schalke-Trainer?",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-gladbach-scharf-auf-andr-breitenreiter-80118546.bild.html",
-      "image_title": "Borussia Mönchengladbach: Gladbach scharf auf André Breitenreiter?"
-    },
-    {
-      "title": "Hilfe für Zwilling in Essen : Dieser Himmelsbote ist ein Arm-Spender",
-      "teaser": "Vom rechten Engelsarm wird ein Abguss gemacht – für den einarmigen „Zwilling“ in Essen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/essen-versehrter-engel-vom-bischofsdach-bekommt-himmlische-hilfe-80117132.bild.html",
-      "image_title": "Essen: Versehrter Engel vom Bischofsdach bekommt himmlische Hilfe"
-    },
-    {
-      "title": "Senioren missbraucht : Berufsverbot und Knast für perversen Pfleger (28)",
-      "teaser": "Er hat alte Menschen (86 bis 92) sexuell missbraucht, misshandelt, gedemütigt, bestohlen.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-senioren-missbraucht-knast-fuer-perversen-pfleger-28-80117666.bild.html",
-      "image_title": "Düsseldorf: Senioren missbraucht – Knast für perversen Pfleger (28)"
-    },
-    {
-      "title": "Rentnerin gerettet : Die Helfer-Helden",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/bankangestellte-retten-rentnerin-48-000-euro-die-helfer-helden-80120704.bild.html",
-      "image_title": "Bankangestellte retten Rentnerin 48 000 Euro: Die Helfer-Helden"
-    },
-    {
-      "title": "Speyerer Generalvikar : Abrechnung mit der katholischen Kirche",
-      "teaser": "Es geht um den Umgang mit Missbrauch, die Rolle der Frau und den Zölibat.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/generalvikar-von-speyer-abrechnung-mit-der-katholischen-kirche-80119412.bild.html",
-      "image_title": "Generalvikar von Speyer: Abrechnung mit der katholischen Kirche"
-    },
-    {
-      "title": "Design-Vater des iPod : Dieter Rams feiert Geburtstag",
-      "teaser": "„Weniger, aber “ – sein Leitspruch. Dieter Rams, Design-Vater der Apple-Produkte, wird 90!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/design-vater-des-ipod-dieter-rams-feiert-geburtstag-80108676.bild.html",
-      "image_title": "Design-Vater des iPod: Dieter Rams feiert Geburtstag"
-    },
-    {
-      "title": "Kassenwartin Tanja (43) klaut 20 000 Euro : Sparclub-Beschiss im Schnell-Imbiss",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kassenwartin-tanja-43-klaut-den-elmschenhagenern-stoerchen-20-000-euro-sparclub-80112100.bild.html",
-      "image_title": "Kassenwartin Tanja (43) klaut 20.000 Euro: Sparclub-Beschiss im Schnell-Imbiss"
-    },
-    {
-      "title": "Weltstars bei Online-Messe : OMG OMR",
-      "teaser": "Das Digital-Festival der OMR lockte am ersten Tag mehr als 45.000 Menschen auf das Messegelände.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/onliner-stuermen-messe-omg-omr-80112084.bild.html",
-      "image_title": "Weltstars bei Online-Messe in Hamburg: OMG OMR"
-    },
-    {
-      "title": "Abschied von Hansi Böhrs : Jubel, Trubel, Trauerfeier!",
-      "teaser": "Eine letzte, große Abschiedsparty für den Vater der Fummel-Fete!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/knallbunter-abschied-von-lilabe-erfinder-hans-herbert-boehrs-jubel-trubel-trauer-80112104.bild.html",
-      "image_title": "Knallbunter Abschied von „LiLaBe“-Erfinder Hans Herbert Böhrs: Jubel, Trubel, Trauerfeier!"
-    },
-    {
-      "title": "Schülerin missbraucht : Vier Jahre Knast für Kiosk-Inhaber",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schuelerin-missbraucht-vier-jahre-knast-fuer-kiosk-inhaber-80116132.bild.html",
-      "image_title": "Schülerin missbraucht: Vier Jahre Knast für Kiosk-Inhaber"
-    },
-    {
-      "title": "Schwimmbad : Hier gehen Sie baden",
-      "teaser": "Das gab‘s seit rund 30 Jahren nicht mehr: Hannover baut ein neues Schwimmbad!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schwimmbad-hier-gehen-sie-baden-80112938.bild.html",
-      "image_title": "Schwimmbad: Hier gehen Sie baden"
-    },
-    {
-      "title": "Aronstab-Gewächse : 1000 Euro kostet das Ding",
-      "teaser": "Es sind gerade mal vier dünne Stängel mit schrumpeligen Blättern, als wäre Läuse dran.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/aronstab-gewaechse-sehen-aus-wie-von-laeusen-zerfressen-trotzdem-macht-carla-mei-80101432.bild.html",
-      "image_title": "Aronstab-Gewächse sehen aus wie von Läusen zerfressen! Trotzdem macht Carla Meineke (25) gutes Geschäft: 1000 Euro kostet das Ding"
-    },
-    {
-      "title": "Kölner Brauer klagten : Kölsch-Imitat Sölsch wird in NRW verboten",
-      "url": "https://www.bild.de/regional/koeln/koeln-regional-politik-und-wirtschaft/koelner-brauer-klagten-koelsch-imitat-soelsch-wird-in-nrw-verboten-80120660.bild.html",
-      "image_title": "Kölner Brauer klagten: Kölsch-Imitat Sölsch wird in NRW verboten"
-    },
-    {
-      "title": "Ehrung für Trude Herr : „Scheidung op Kölsch“ im Scala-Theater",
-      "teaser": "Das berühmte Lustspiel von Trude Herr kehrt nach 40 Jahren auf die Bühne zurück.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-scala-theater-plant-stueck-von-trude-herr-scheidung-op-koelsch-80118418.bild.html",
-      "image_title": "Köln: Scala Theater plant Stück von Trude Herr „Scheidung op Kölsch“"
-    },
-    {
-      "title": "CDU ließ Korken knallen : Koalitions-Planung beim Sektfrühstück",
-      "teaser": "Düsseldorf – Sekt, Jubel und Beifall für Wahlsieger Hendrik Wüst (46) im Saal der CDU: Die 76 Abgeordneten der Landtagsfraktion und ...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/nach-nrw-wahl-koalitions-planung-nach-sektfruehstueck-bei-wuests-cdu-80118912.bild.html",
-      "image_title": "Nach NRW-Wahl: Koalitions-Planung nach Sektfrühstück bei Wüsts CDU"
-    },
-    {
-      "title": "In Clubs : Leipzig soll für Qualitätstests von Drogen zahlen",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/drogen-in-leipzig-stadt-soll-fuer-qualitaetstests-in-clubs-zahlen-80120920.bild.html",
-      "image_title": "Drogen in Leipzig: Stadt soll für Qualitätstests in Clubs zahlen"
-    },
-    {
-      "title": "Pokal-König Forsberg : Warum er seinen Startelf-Platz schon sicher hat",
-      "teaser": "Emil Forsberg hat RB ins Pokalfinale geschossen und soll da auch von Beginn an spielen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/rb-leipzig-pokalkoenig-warum-forsberg-seinen-startelfplatz-sicher-hat-80117584.bild.html",
-      "image_title": "RB Leipzig: Pokalkönig! Warum Forsberg seinen Startelfplatz sicher hat"
-    },
-    {
-      "title": "Frontalcrash bei Leipzig : Trotz Verbot überholt – Drei Schwerverletzte",
-      "teaser": "Der Unfall wurde durch einen Überholversuch verursacht. Er forderte drei Schwerverletzte.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/unfall-bei-leipzig-trotz-verbot-ueberholt-drei-schwerverletzte-80118042.bild.html",
-      "image_title": "Unfall bei Leipzig: Trotz Verbot überholt – Drei Schwerverletzte"
-    },
-    {
-      "title": "STREIT UM VATERSCHAFT : 11 Jahre Haft für Polizisten, der Frau anzündete",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mordversuch-11-jahre-haft-fuer-polizisten-der-ex-geliebte-anzuendete-80119440.bild.html",
-      "image_title": "Mordversuch: 11 Jahre Haft für Polizisten, der Ex-Geliebte anzündete"
-    },
-    {
-      "title": "Das wäre überraschend : Bleibt dieser Hansa-Profi trotz Verabschiedung?",
-      "teaser": "Zwölf Hansa-Profis wurden verabschiedet. Spannend: Einer könnte sein Comeback geben.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/hansa-rostock-ueberraschend-bleibt-dieser-profi-trotz-verabschiedung-80118328.bild.html",
-      "image_title": "Hansa Rostock: Überraschend! Bleibt dieser Profi trotz Verabschiedung?"
-    },
-    {
-      "title": "Ex-Ministerpräsident Sellering : Vorstand von Schwesigs Schummel-Stiftung tritt zurück",
-      "teaser": "Der Stiftungsvorstand wird Ende September geschlossen die Ämter niederlegen.",
-      "url": "https://www.bild.de/politik/2022/politik/mecklenburg-vorpommern-vorstand-von-schwesigs-schummel-stiftung-tritt-zurueck-80116892.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: Vorstand von Schwesigs Klimastiftung tritt zurück"
-    },
-    {
-      "title": "Ab ins neue Gehege : Löwen-Umzug im Tierpark Hellabrunn",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ab-ins-neue-gehege-loewen-umzug-im-tierpark-hellabrunn-80122338.bild.html",
-      "image_title": "Ab ins neue Gehege: Löwen-Umzug im Tierpark Hellabrunn"
-    },
-    {
-      "title": "Mariannes Michael : „Ich musste neu sprechen und laufen lernen“",
-      "teaser": "Michael Hartl vom Duo Marianne und Michael spricht erstmals über seinen Schlaganfall.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/michael-hartl-nach-schlaganfall-ich-musste-neu-sprechen-und-laufen-lernen-80115148.bild.html",
-      "image_title": "Michael Hartl nach Schlaganfall: „Ich musste neu sprechen und laufen lernen“"
-    },
-    {
-      "title": "Seit Ukraine-Krieg : Autofahrer sparen Sprit",
-      "teaser": "Bayerns Autofahrer haben im März nach Beginn des Ukraine-Kriegs weniger getankt.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/seit-beginn-des-ukraine-kriegs-autofahrer-sparen-sprit-80115314.bild.html",
-      "image_title": "Seit Beginn des Ukraine-Kriegs: Autofahrer sparen Sprit"
-    },
-    {
-      "title": "Fans reiben sich verwundert die Augen : Fürth holt Trainer, den KEINER kennt",
-      "url": "https://www.bild.de/sport/fussball/fussball/schweizer-berichten-fuerth-holt-schneider-als-chefcoach-80114984.bild.html",
-      "image_title": "Fürth holt Trainer, den KEINER kennt! Fans reiben sich verwundert die Augen"
-    },
-    {
-      "title": "Fahranfänger : Frontal-Crash – zwei Frauen sterben",
-      "teaser": "Am Dienstag hat auf der B8 ein Fahranfänger (18) einen tödlichen Verkehrsunfall verursacht",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/fahranfaenger-frontal-crash-zwei-frauen-sterben-80116408.bild.html",
-      "image_title": "Fahranfänger: Frontal-Crash – zwei Frauen sterben"
-    },
-    {
-      "title": "Wegen Metallteilen : Maggi ruft „5 Minuten Terrinen“ zurück",
-      "teaser": "Maggi ruft zwei Sorten „5 Minuten Terrine“ zurück, weil Metallteile drin sein könnten.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/wegen-metallteilen-maggi-ruft-5-minuten-terrinen-zurueck-80115346.bild.html",
-      "image_title": "Wegen Metallteilen : Maggi ruft „5 Minuten Terrinen“ zurück"
-    },
-    {
-      "title": "Vorfahrt an Kreuzung genommen? : Motorrad kracht in Passat – Biker (26) sofort tot",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/unfall-in-gevelsberg-motorrad-kracht-in-passat-biker-26-sofort-tot-80122198.bild.html",
-      "image_title": "Unfall in Gevelsberg: Motorrad kracht in Passat – Biker (26) sofort tot"
-    },
-    {
-      "title": "ManCity-Fan ins Koma geprügelt : Bewährung für Schalke-Hooligans!",
-      "teaser": "Der Hauptangeklagte Jens H. kam am Dienstag mit Bewährung davon.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/mancity-fan-ins-koma-gepruegelt-bewaehrung-fuer-schalke-hooligans-80121058.bild.html",
-      "image_title": "ManCity-Fan ins Koma geprügelt: Bewährung für Schalke-Hooligans!"
-    },
-    {
-      "title": "Verdächtiger stellt sich : Mann in Essener City niedergestochen",
-      "teaser": "In Essen ist am Dienstagnachmittag ein junger Mann niedergestochen worden.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/taeter-fluechtig-mann-in-essener-innenstadt-mit-messer-niedergestochen-80117456.bild.html",
-      "image_title": "Tatverdächtiger stellt sich: Mann in Essener Innenstadt mit Messer niedergestochen"
-    },
-    {
-      "title": "Wegen Verlagerung von sozialem Brennpunkt : Bürger grillen Stadtchef",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/verlagerung-von-sozialem-brennpunkt-buerger-grillen-oberbuergermeister-80116138.bild.html",
-      "image_title": "Verlagerung von sozialem Brennpunkt: Bürger grillen Oberbürgermeister"
-    },
-    {
-      "title": "Pläne von MP Rehlinger : Kita-Beiträge fallen 2027 weg!",
-      "teaser": "Die Regierung ist zurück von ihrer Regierungsklausur und stellt die Ergebnisse vor.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/plaene-von-mp-rehlinger-kita-beitraege-fallen-2027-weg-80118726.bild.html",
-      "image_title": "Pläne von MP Rehlinger: Kita-Beiträge fallen 2027 weg!"
-    },
-    {
-      "title": "Die wichtigsten Fragen : So funktioniert das 9-Euro-Ticket im Saarland",
-      "teaser": "BILD beantwortet die wichtigsten Fragen fürs Saarland zum geplanten 9-Euro-Ticket.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/die-wichtigsten-fragen-so-funktioniert-das-9-euro-ticket-im-saarland-80118260.bild.html",
-      "image_title": "Die wichtigsten Fragen: So funktioniert das 9-Euro-Ticket im Saarland"
-    },
-    {
-      "title": "Erfurt : Neues Amazon-Zentrum soll 1000 neue Jobs bringen",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/erfurt-neues-amazon-zentrum-soll-1000-neue-jobs-bringen-80121246.bild.html",
-      "image_title": "Erfurt: Neues Amazon-Zentrum soll 1000 neue Jobs bringen"
-    },
-    {
-      "title": "Gerd, der Kraft-Greis! : Mit 84 stemmt er 100 Kilo",
-      "teaser": "Während andere Senioren in seinem Alter am Rollator gehen, stemmt der 84-Jährige satte 100 Kilo.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/gewichtheben-gerd-der-kraft-greis-mit-84-stemmt-er-100-kilo-80120972.bild.html",
-      "image_title": "Gewichtheben: Gerd, der Kraft-Greis! Mit 84 stemmt er 100 Kilo"
-    },
-    {
-      "title": "Exklusive Fotos! : Magdeburg feiert Aufstieg am Ballermann",
-      "teaser": "Im Feiern ist die Truppe schon erstklassig. Party-Alarm beim 1. FC Magdeburg auf Mallorca!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/3-liga-exklusive-fotos-magdeburg-feiert-aufstieg-am-ballermann-80118422.bild.html",
-      "image_title": "3. Liga! Exklusive Fotos: Magdeburg feiert Aufstieg am Ballermann"
-    },
-    {
-      "title": "Kripo prüft Strafverfahren : Binden-Dieb stellt sich dem VfB",
-      "url": "https://www.bild.de/sport/fussball/fussball/stuttgarter-kripo-prueft-ermittlungen-binden-dieb-stellt-sich-dem-vfb-80121938.bild.html",
-      "image_title": "Stuttgarter Kripo prüft Ermittlungen: Binden-Dieb stellt sich dem VfB"
-    },
-    {
-      "title": "Dreister Dieb : Anhänger geklaut – frisch lackiert zurückgebracht",
-      "teaser": "Frisch lackiert ist ein Anhänger an Ort und Stelle wieder aufgetaucht.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/dreister-dieb-anhaenger-geklaut-frisch-lackiert-zurueckgebracht-80115202.bild.html",
-      "image_title": "Dreister Dieb: Anhänger geklaut – frisch lackiert zurückgebracht"
-    },
-    {
-      "title": "TV-Star sorgt vor : Chemo! Katerina Jacob verliert ihre Haare",
-      "teaser": "Mutiger Instagram-Post von Katerina Jacob (64)! Die Schauspielerin spricht zu ihren Fans",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/tv-star-leidet-an-seltener-zellteilung-aerzte-rieten-zur-vorsorge-80114708.bild.html",
-      "image_title": "TV-Star leidet an seltener Zellteilung. Ärzte rieten zur Vorsorge!"
-    },
-    {
-      "title": "Vergewaltiger, Mörder und Dealer : Die Knast-Imker von Tonna",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/gefaengnis-job-imker-vergewaltiger-moerder-und-dealer-lernen-honigschleudern-80121066.bild.html",
-      "image_title": "Gefängnis-Job Imker: Vergewaltiger, Mörder und Dealer lernen Honigschleudern"
-    },
-    {
-      "title": "Dedidis neuer Ersatzmann : Jena sucht neue Nummer 1",
-      "teaser": "Ein Spiel muss Jena in dieser Saison noch absolvieren. Sportchef Werner bastelt am Kader.",
-      "url": "https://www.bild.de/sport/fussball/fussball/dedidis-neuer-ersatzmann-jena-sucht-neue-nummer-1-80117946.bild.html",
-      "image_title": "Dedidis neuer Ersatzmann: Jena sucht neue Nummer 1"
-    },
-    {
-      "title": "Ostfußballboss Winkler : Was ich mir jetzt von RB erhoffe",
-      "teaser": "NOFV-Boss Hermann Winkler hat eine klare Forderung an den Bundesligisten.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/ost-fussballboss-hermann-winkler-was-ich-mir-jetzt-von-rb-erhoffe-80105918.bild.html",
-      "image_title": "Ost-Fußballboss Hermann Winkler: Was ich mir jetzt von RB erhoffe"
-    }
-  ]
+  "articles": []
 }
