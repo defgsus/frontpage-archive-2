@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-19T04:38:43",
+  "timestamp": "2022-05-19T05:25:50",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Julia Holz hatte Krebs mit 35 : TV-Auswanderin erfüllt sich jetzt Musik-Traum",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/nach-krebs-goodbye-deutschland-star-julia-holz-erfuellt-sich-musik-traum-80129586.bild.html",
-      "image_url": "https://images.bild.de/6284eb1b277f7042b71a6c80/c8a93b319a88d027a14b25d45575b25a/1/2?w=656",
-      "image_title": "Nach Krebs: „Goodbye Deutschland“-Star Julia Holz erfüllt sich Musik-Traum"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Musste Yeliz alles für Jimi Blue bezahlen?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-musste-yeliz-koc-alles-fuer-jimi-blue-bezahlen-80131972.bild.html",
-      "image_url": "https://images.bild.de/628511e0c166364f54f9a147/fd2de1aa943c5b3a9a2e1f96fa876e81-miniSquare/2/2?w=320",
-      "image_title": "„Kampf der Realitystars“: Musste Yeliz Koc alles für Jimi Blue bezahlen?"
-    },
-    {
-      "title": "Der Trailer ist da! : Hier ist das neue „Queer as Folk“",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/der-trailer-ist-da-hier-ist-das-neue-queer-as-folk-80134566.bild.html",
-      "image_url": "https://images.bild.de/62854fad6211895750ca438e/95f8e8d6f1175eed437ce92bdae69573-miniSquare/1/2?w=320",
-      "image_title": "Der Trailer ist da: Hier ist das neue „Queer as Folk“!"
-    },
-    {
-      "title": "VoD und Streaming : Alles über Netflix, Amazon, Disney+ & Co",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/streaming-anbieter-alles-ueber-netflix-amazon-disney-und-co-79161274.bild.html",
-      "image_url": "https://images.bild.de/61dedba18f8b361a16c7667c/d63df1bf6d43a5c9b80ca86a6dc9faf4-miniSquare/1/2?w=320",
-      "image_title": "Streaming-Anbieter: Alles über Netflix, Amazon, Disney+ und Co"
-    },
-    {
-      "title": "Heiße Bridgerton“-News : Ein neues Traumpaar – und eine Neubesetzung!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bridgerton-staffel-3-ein-neues-traumpaar-und-hannah-dodd-ist-die-neue-80127874.bild.html",
-      "image_url": "https://images.bild.de/6284db26c166364f54f9a088/535eb61421840dd6c8bb80e1da0bd3d9-miniSquare/1/2?w=320",
-      "image_title": "„Bridgerton“-Staffel 3: Ein neues Traumpaar! Und Hannah Dodd ist die Neue!"
-    },
-    {
-      "title": "Abo, Kosten, Tricks : Alle Infos zum Streamingdienst Amazon Prime Video",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-alle-infos-zum-streamingdienst-amazon-prime-video-79472696.bild.html",
-      "image_title": "Amazon: Alle Infos zum Streamingdienst Amazon Prime Video"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-alle-infos-zur-dritten-staffel--kandidaten-regeln-highlights-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Alle Kandidaten, Regeln und wer raus ist"
-    },
-    {
-      "title": "Karriere zerstört : Millionen-Klage gegen „Game of Thrones“",
-      "teaser": "Stuntfrau Casey Michaels erlitt einen schweren Unfall am GoT-Set. Nun verklagt sie die Macher.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/game-of-thrones-zerstoerte-ihre-karriere-millionen-klage-80082574.bild.html",
-      "image_title": "Millionen-Klage gegen „Game of Thrones“: Dieser Stunt zerstörte ihre Karriere"
-    },
-    {
-      "title": "Ab dem 16. Mai : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-netflix-diese-serien-und-filme-starten-diese-woche-neu-80071518.bild.html",
-      "image_title": "Neu bei Netflix: Diese Serien und Filme starten diese Woche neu"
-    },
-    {
-      "title": "Netflix : Das müssen Sie über den Streaming-Anbieter wissen",
-      "teaser": "Vom DVD-Versender zum weltweiten Mediengiganten. Alles wissenswerte über Netflix",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-geschichte-erfolge-und-preismodelle-des-streaming-anbieters-79472638.bild.html",
-      "image_title": "Netflix: Die Geschichte, Erfolge und Preismodelle des Streaming-Anbieters"
-    },
-    {
-      "title": "„Sing meinen Song“ : Clueso hat noch nie „Ich liebe dich“ gesagt",
-      "teaser": "Folge vier von „Sing meinen Song – Das Tauschkonzert“ war die bisher emotionalste der Staffel.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/clueso-bei-sing-meinen-song-ich-habe-noch-nie-ich-liebe-dich-gesagt-80122214.bild.html",
-      "image_title": "Clueso bei „Sing meinen Song“: „Ich habe noch nie ‚Ich liebe dich’ gesagt“"
-    },
-    {
-      "title": "Joko&Klaas gegen ProSieben : H. P. Baxxter errät eigene Songs nicht",
-      "teaser": "Star-Aufgebot am Dienstagabend bei „Joko und Klaas gegen Pro Sieben“!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/joko-und-klaas-gegen-prosieben-h-p-baxxter-erraet-eigene-songs-nicht-80122552.bild.html",
-      "image_title": "„Joko und Klaas gegen ProSieben“: H. P. Baxxter errät eigene Songs nicht"
-    },
-    {
-      "title": "Leonard Diepenbrock : Vom RTL-Moderator zum Seifen-Saubermann",
-      "teaser": "Er erlebte mehrere Schicksalsschläge, musste sein Leben von heute auf morgen umkrempeln.",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/leonard-diepenbrock-vom-rtl-moderator-zum-seifen-saubermann-80117372.bild.html",
-      "image_title": "Leonard Diepenbrock: Vom RTL-Moderator zum Seifen-Saubermann"
-    },
-    {
-      "title": "Neue Show mit Bachelor : Rassismus bei der Wohnungssuche?",
-      "teaser": "Ex-„Bachelor“ Jan Kralitschka geht für RTL auf Wohnungssuche und dabei einem Verdacht nach",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/wohnung-verzweifelt-gesucht-mit-bachelor-jan-kralitschka-rassimus-vorwurf-80115796.bild.html",
-      "image_title": "„Wohnung verzweifelt gesucht“ mit Bachelor Jan Kralitschka: Rassimus-Vorwurf!"
-    },
-    {
-      "title": "Tipps und Tricks : So kündigen Sie Ihr Amazon Prime-Abo",
-      "teaser": "Sie wollen Ihre Amazon Prime Mitgliedschaft kündigen? Erfahren Sie hier bei BILD, wie!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-video-so-kuendigen-sie-ihr-abo-in-5-schritten-79277770.bild.html",
-      "image_title": "Amazon Prime Video: So kündigen Sie Ihr Abo in 5 Schritten"
-    },
-    {
-      "title": "„Die Höhle der Löwen“ : „Hintenrum-Kungelei!“ Kofler attackiert Rosberg!",
-      "teaser": "Am Montag stürmte Georg Kofler aus dem „Höhle der Löwen“-Studio. BILD kennt die Gründe.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/die-hoehle-der-loewen-star-kofler-das-wollte-rosberg-von-den-gruendern-80111184.bild.html",
-      "image_title": "„Die Höhle der Löwen“-Ausraster: Georg Kofler attackiert Nico Rosberg!"
-    },
-    {
-      "title": "„Bauer sucht Frau“ : Zwei Traumpaare und eine Liebes-Pleite",
-      "teaser": "Finale bei „Bauer sucht Frau – International“. Und nicht nur bei einem Paar funkte es so richtig.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-international-zwei-traumpaare-und-eine-liebes-pleite-80109954.bild.html",
-      "image_title": "Bauer sucht Frau – International“: Zwei Traumpaare und eine Liebes-Pleite"
-    },
-    {
-      "title": "„Höhle der Löwen“ : Kofler stürmt wutentbrannt aus dem Studio",
-      "teaser": "Eine Erfindung zur Wespen-Vertreibung wurde in der „Höhle der Löwen“ zum echten Griff ins Wespennest.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-hoehle-der-loewen-eklat-warum-kofler-aus-dem-studio-stuermte-80106816.bild.html",
-      "image_title": "„Die Höhle der Löwen“ -Eklat: Warum Kofler aus dem Studio stürmte"
-    },
-    {
-      "title": "K.o.-Tropfen im Urlaub : „Köln 50667“-Star außer Gefecht gesetzt",
-      "teaser": "Schock für TV-Star Jeremy „Jerry“ Mutschall (24, spielt „Hannes“ bei „Köln 50667“).",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/koeln-50667-darsteller-jerry-mutschall-mit-k-o-tropfen-ausser-gefecht-gesetzt-80100092.bild.html",
-      "image_title": "Köln 50667: „Jerry“ Mutschal im Urlaub mit K.-o.-Tropfen außer Gefecht gesetzt"
-    },
-    {
-      "title": "Ab dem 16. Mai : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme und Serien der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-bei-amazon-prime-diese-filme-und-serien-starten-diese-woche-80071510.bild.html",
-      "image_title": "Neu bei Amazon Prime: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "„Grill den Henssler“ : Podolski und Wontorra: Ihre gemeinsame Vergangenheit",
-      "teaser": "Das Staffel-Finale von „Grill den Henssler“ mit Podolski sorgte bei Laura Wontorra für Aufregung.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/grill-den-henssler-lukas-podolski-packt-ueber-beziehung-zu-laura-wontorra-aus-80094496.bild.html",
-      "image_title": "„Grill den Henssler“: Lukas Podolski packt über Beziehung zu Laura Wontorra aus"
-    },
-    {
-      "title": "Eurovision Song Contest 2022 : Ukraine siegt, Deutschland Letzter!",
-      "teaser": "Beim ESC 2022 landete Malik Harris auf dem letzten Platz, die Ukraine siegt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/esc-2022-wettbueros-laufen-heiss-zocker-kueren-die-ukraine-zum-sieger-80084154.bild.html",
-      "image_title": "ESC 2022 – Ukraine siegt, Deutschland Letzter!"
-    },
-    {
-      "title": "Festnahme in Portugal : Mutter überführt Vergewaltiger von Edith Stehfest",
-      "teaser": "Als Max H. (36) seine Mutter am Flughafen in Lissabon abholen wollte, griff die Polizei zu.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/eric-stehfest-eigene-mutter-ueberfuehrte-vergewaltiger-seiner-frau-edith-80081556.bild.html",
-      "image_title": "Eric Stehfest: Eigene Mutter überführt Vergewaltiger seiner Frau Edith"
-    },
-    {
-      "title": "„Bauer sucht Frau“ : Das passiert, bevor die Kamera angeht …",
-      "teaser": "Die Show „Bauer sucht Frau“ ist Kult. Was kein Zuschauer im TV sieht, lesen Sie hier!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bauer-sucht-frau-so-wird-hinter-den-kulissen-getrickst-kein-stroh-kein-problem-80070926.bild.html",
-      "image_title": "„Bauer sucht Frau“ – so wird hinter den Kulissen getrickst: Kein Stroh? Kein Problem..."
-    },
-    {
-      "title": "Amira nach „Let’s Dance“-Aus : „Ich hab meine Freiheit wieder“",
-      "teaser": "Im Halbfinale ist das Favoriten-Paar ausgeschieden. Zu Unrecht, finden Fans.",
-      "url": "https://www.bild.de/unterhaltung/tv/leute/lets-dancefans-sauer-flogen-amira-pocher-und-massimo-zu-unrecht-raus-80080710.bild.html",
-      "image_title": "„Let’s Dance“–Fans sauer: Flogen Amira Pocher und Massimo zu unrecht raus?"
-    },
-    {
-      "title": "„Für mich die Hölle“ : Vivien kollabiert bei „Germany’s next Topmodel“",
-      "url": "https://www.bild.de/video/clip/glomex/fuer-mich-die-hoelle-vivien-kollabiert-beim-training-80069408,auto=true.bild.html",
-      "image_title": "„Für mich die Hölle“: Vivien kollabiert bei „Germany’s next Topmodel“"
-    },
-    {
-      "title": "Topmodels werden zu Dominas : Heiße Leder-Show mit Heidi",
-      "url": "https://www.bild.de/video/clip/glomex/topmodels-werden-zu-dominas-heisse-leder-show-mit-heidi-v-cjx0f7bkr5nt-80069388,auto=true.bild.html",
-      "image_title": "Topmodels werden zu Dominas: Heiße Leder-Show mit Heidi"
-    }
-  ]
+  "articles": []
 }
