@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-19T07:25:47",
+  "timestamp": "2022-05-19T08:28:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware",
+      "url": "https://www.heise.de/news/Attacken-auf-VMware-Sicherheitsluecken-Jetzt-updaten-7099531.html"
+    },
+    {
       "title": "WordPress-Plug-in Tatsu Builder",
       "url": "https://www.heise.de/news/Massive-Angriffe-auf-Luecke-in-WordPress-Plug-in-Tatsu-Builder-7098058.html"
     },
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Netzwerkausruester-Aruba-schliesst-Sicherheitsluecken-in-ClearPass-Policy-Manager-7097151.html"
     },
     {
-      "title": "Sonicwall",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Sonicwall-SMA-1000-und-SSL-VPN-erlauben-unbefugten-Zugriff-7092533.html"
-    },
-    {
-      "title": "iPhone aus, Funk bleibt an: Sicherheitsforscher sehen neue Angriffsfläche",
-      "teaser": "Auf einem abgeschalteten iPhone kann Malware laufen, warnt ein Forschungsteam der TU Darmstadt. Apples Low-Power-Mode fehlen Schutzvorkehrungen.",
-      "url": "https://www.heise.de/news/iPhone-aus-Funk-bleibt-an-Sicherheitsforscher-sehen-neue-Angriffsflaeche-7099330.html",
-      "image_title": "iPhone"
+      "title": "Finale der Cyber Security Challenge 2022 im Verbund mit IT Job kompakt",
+      "teaser": "Parallel zum finalen Hacking-Wettbewerb für junge Menschen wird es in München eine Ausgabe der Fachkonferenz und Recruiting-Messe IT Job kompakt geben.",
+      "url": "https://www.heise.de/news/Finale-der-Cyber-Security-Challenge-2022-im-Verbund-mit-IT-Job-kompakt-7098357.html"
     },
     {
       "title": "Zahlreiche persönliche Daten bei Hackerangriff auf TU Berlin in 2021 gestohlen",
@@ -88,6 +87,12 @@
       "image_title": "Aufmacher Windows 20H2 End-of-Life"
     },
     {
+      "title": "Bluetooth-Angriff: Tesla Model 3 und Tesla Y flott gestohlen",
+      "teaser": "Sicherheitsmängel in Bluetooth Low Energy erlauben Zugriff auf Teslas Elektroautos, andere elektronische Geräte und Türschlösser. Tesla bestätigt das Problem.",
+      "url": "https://www.heise.de/news/Bluetooth-Angriff-Hacker-koennten-Tesla-Model-3-und-Y-stehlen-7097831.html",
+      "image_title": "Tesla-Logo auf Lenkrad"
+    },
+    {
       "title": "KubeCon: StackRox – Red Hat Cluster Security für Kubernetes in Community-Edition",
       "teaser": "Red Hat bleibt seiner Community-Strategie treu: Wie beim Vorbild RHEL bekommt auch das Kubernetes-Sicherheits-Produkt RHACS zur KubeCon ein Open-Source-Pendant.",
       "url": "https://www.heise.de/news/StackRox-Red-Hat-s-Cluster-Security-fuer-Kubernetes-bekommt-Community-Edition-7097225.html"
@@ -103,6 +108,11 @@
       "teaser": "Weil er Zugangsdaten zu IT-Systemen rund um den Globus auf einem Darknet-Marktplatz verhökert hat, wurde ein Ukrainer nun zu vier Jahren Haft verurteilt.",
       "url": "https://www.heise.de/news/US-Gericht-Ukrainischer-Botnet-Betreiber-erhaelt-vier-Jahre-Haft-7096675.html",
       "image_title": "Aufmacher 4 Jahre Haft für ukrainischen Botnet-Betreiber"
+    },
+    {
+      "title": "Kali Linux 2022.2 mit polierter Optik und in unkaputtbar",
+      "teaser": "Das neue Kali Linux ist da. Dank Snapshots kann man das System nun zurücksetzen. Neue Tools erweitern den Funktionsumfang.",
+      "url": "https://www.heise.de/news/Kali-Linux-2022-2-mit-polierter-Optik-und-in-unkaputtbar-7096750.html"
     },
     {
       "title": "IT-Sicherheit: Große Defizite beim Standardschutz in kleinen Firmen",
@@ -149,18 +159,6 @@
       "title": "NSA: Keine Hintertür für Spione in quantengesicherter Verschlüsselung",
       "teaser": "2015 musste das NIST einen Verschlüsselungsalgorithmus beerdigen, da ihn die NSA unterwandert hatte. Bei Post-Quanten-Kryptografie soll das nicht passieren.",
       "url": "https://www.heise.de/news/NSA-Keine-Hintertuer-fuer-Spione-in-quantengesicherter-Verschluesselung-7092138.html"
-    },
-    {
-      "title": "Playstation: Lücke in NetBSD-Treiber könnte Codeschmuggel ermöglichen",
-      "teaser": "Sonys Playstation nutzt zumindest Teile von NetBSD. Eine Treiber-Sicherheitslücke könnte Angreifern aus dem LAN ermöglichen, eigenen Code einzuschleusen.",
-      "url": "https://www.heise.de/news/Playstation-Luecke-in-NetBSD-Treiber-koennte-Codeschmuggel-ermoeglichen-7091153.html",
-      "image_title": "Aufmacher Playstation+NetBSD PPPoE-Lücke RCE"
-    },
-    {
-      "title": "Colonial Pipeline droht Geldstrafe wegen schlechten Risikomanagements",
-      "teaser": "Dem Betreiber des Ölpipelinesystems droht eine hohe Geldstrafe. Fehlendes Notfallmanagement war wohl mitursächlich für die Ransomware-Auswirkungen 2021.",
-      "url": "https://www.heise.de/news/Colonial-Pipeline-droht-Millionenstrafe-wegen-schlechten-Risikomanagements-7091191.html",
-      "image_title": "Warnschild \"Warning Petroleum Pipeline\""
     },
     {
       "title": "heise Security Tour 2022",
