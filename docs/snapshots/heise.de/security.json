@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-19T11:19:02",
+  "timestamp": "2022-05-19T12:44:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sonicwall SMA-100",
+      "url": "https://www.heise.de/news/Nutzer-koennten-Sonicwall-SMA-100-beliebigen-Code-unterjubeln-7099955.html"
+    },
+    {
       "title": "Qnap",
       "url": "https://www.heise.de/news/Qnap-warnt-vor-Ransomware-Angriffen-auf-Netzwerkspeicher-7099676.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Attacken-auf-VMware-Sicherheitsluecken-Jetzt-updaten-7099531.html"
     },
     {
-      "title": "WordPress-Plug-in Tatsu Builder",
-      "url": "https://www.heise.de/news/Massive-Angriffe-auf-Luecke-in-WordPress-Plug-in-Tatsu-Builder-7098058.html"
+      "title": "Nutzer könnten Sonicwall SMA-100 beliebigen Code unterjubeln",
+      "teaser": "In den Zugangssicherungsgeräten der SMA-100-Reihe von Sonicwall könnten Nutzer eigene Befehle als root ausführen. Ein Firmware-Update steht bereit.",
+      "url": "https://www.heise.de/news/Nutzer-koennten-Sonicwall-SMA-100-beliebigen-Code-unterjubeln-7099955.html",
+      "image_title": "Aufmacher Sonicwall SMA-100 Sicherheitslücke RCE"
     },
     {
       "title": "Microsoft: Neue Masche zur Erkennungsumgehung bei MSSQL-Angriffen",
@@ -155,12 +161,6 @@
       "teaser": "Eine neue Variante des Sysrv-Botnets hat Microsoft beobachtet, die Windows- und Linux-Systeme befällt, um Kryptowährungen zu schürfen.",
       "url": "https://www.heise.de/news/Microsoft-warnt-vor-Sysrv-Botnet-7095053.html",
       "image_title": "Aufmacher MS warnt vor Sysrv-Botnet"
-    },
-    {
-      "title": "Sicherheitslücken in Sonicwall SMA 1000 und SSL-VPN erlauben unbefugten Zugriff",
-      "teaser": "Sonicwall schließt mehrere Sicherheitslücken in Firmwares von SMA-1000-Geräten und in SSL-VPN NetExtender. Angreifer könnten sich etwa Zugriff verschaffen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Sonicwall-SMA-1000-und-SSL-VPN-erlauben-unbefugten-Zugriff-7092533.html",
-      "image_title": "Aufmacher Sonicwall SMA-1000/SSL-VPN NetExtender Lücken"
     },
     {
       "title": "heise Security Tour 2022",
