@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-19T23:22:30",
+  "timestamp": "2022-05-20T01:53:54",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "„Ich bin der König der Welt“ : Mann ertrinkt, weil er „Titanic“-Szene nachspielen wollte",
-      "url": "https://www.bild.de/news/ausland/news-ausland/tuerkei-mann-23-ertrinkt-weil-er-titanic-szene-nachspielen-wollte-80123016.bild.html",
-      "image_url": "https://images.bild.de/628487866211895750ca41ab/ea8b7d856bba233d899649d53f0095e0/1/2?w=656",
-      "image_title": "Türkei: Mann (23) ertrinkt, weil er „Titanic“-Szene nachspielen wollte"
-    },
-    {
-      "title": "Johanna aus Südafrika : Hier lachen 128 Jahre!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/johanna-mazibuko-ist-die-wahrscheinlich-aelteste-frau-der-welt-hier-lachen-128-j-80109256.bild.html",
-      "image_url": "https://images.bild.de/62829a26277f7042b71a6948/1a5b4caa9ca00cf06b8763ba812240fc-miniSquare/1/2?w=320",
-      "image_title": "Die wahrscheinlich älteste Frau der Welt: Hier lachen 128 Jahre!"
-    },
-    {
-      "title": "UFO-Anhörung im US-Kongress : „Irgendetwas ist da draußen“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/erste-anhoerung-im-us-kongress-seit-50-jahren-ufo-report-wirft-weiterhin-raetsel-80121240.bild.html",
-      "image_url": "https://images.bild.de/6283e6f6c166364f54f99f63/f2c1a8e94b9bd664c742cfdb5e3b070f-miniSquare/2/2?w=320",
-      "image_title": "Erste Anhörung im US-Kongress seit 50 Jahren: UFO-Report wirft weiterhin Rätsel auf"
-    },
-    {
-      "title": "Absturz mit 132 Toten : China-Flugzeug wohl mit Absicht in Berg gesteuert",
-      "url": "https://www.bild.de/news/ausland/news-ausland/china-flugzeug-bei-crash-im-maerz-wohl-mit-absicht-in-berg-gesteuert-132-tote-80121108.bild.html",
-      "image_url": "https://images.bild.de/6283e7096211895750ca4164/270bd101425246879468077c976c906e-miniSquare/1/2?w=320",
-      "image_title": "China: Flugzeug bei Absturz im März wohl mit Absicht in den Berg gesteuert – 132 Tote"
-    },
-    {
-      "title": "Sieben Tage verschollen : Deutsche Oma (75) aus Thai-Dschungel gerettet",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/thailand-deutsche-touristin-75-war-sieben-tage-verschollen-lebend-gerettet-80102792.bild.html",
-      "image_url": "https://images.bild.de/62822c67f85e37084d183cab/b633accf0970490e4058473022098792-miniSquare/1/3?w=320",
-      "image_title": "Thailand: Deutsche Touristin (75) war sieben Tage verschollen – lebend gerettet!"
-    },
-    {
-      "title": "Trauriger Rekord im Drogenkrieg : Mehr als 100 000 Menschen in Mexiko vermisst",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mexiko-trauriger-rekord-im-drogenkrieg-mehr-als-100000-menschen-vermisst-80112366.bild.html",
-      "image_title": "Mexiko: Trauriger Rekord im Drogenkrieg! Mehr als 100 000 Menschen vermisst"
-    },
-    {
-      "title": "Anhörung im US-Kongress : Kommt heute die große UFO-Enthüllung?",
-      "teaser": "Zoff in Washington zwischen Kongress-Abgeordneten und dem Pentagon. Das brisante Streitthema: UFOs!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/erste-oeffentliche-anhoerung-seit-50-jahren-ufo-sitzung-im-us-kongress-80051194.bild.html",
-      "image_title": "Sitzung im US-Kongress! Kommt heute die große UFO-Enthüllung?"
-    },
-    {
-      "title": "Mutter rettet Tochter : Vergewaltigung in Mallorca-Hotel verhindert",
-      "teaser": "Ein 16 Jahre alter Brite wurde festgenommen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-mutter-rettet-tochter-vor-vergewaltigung-in-hotelzimmer-80118810.bild.html",
-      "image_title": "Mallorca: Mutter rettet Tochter vor Vergewaltigung in Hotelzimmer"
-    },
-    {
-      "title": "Ko Samui : Touristin (23) stürzt bei Selfie in den Tod",
-      "teaser": "Die Wienerin ist nicht die erste Touristin, die an dieser Stelle tödlich verunglückte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/koh-samui-wasserfall-touristin-23-aus-wien-stuerzt-bei-selfie-in-den-tod-80108682.bild.html",
-      "image_title": "Koh Samui Wasserfall: Touristin (23) aus Wien stürzt bei Selfie in den Tod"
-    },
-    {
-      "title": "Amoklauf in Buffalo mit 13 Opfern : Der Neonazi-Killer aus der Vorstadt-Idylle",
-      "teaser": "BILD-Report aus Heimatstadt des Attentäters.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/10-tote-bei-amoklauf-der-neonazi-aus-der-vorstadt-idylle-80111260.bild.html",
-      "image_title": "10 Tote bei Amoklauf: Der Neonazi aus der Vorstadt-Idylle"
-    },
-    {
-      "title": "Schüsse in New York : Verirrte Kugel trifft Mädchen (11) – tot!",
-      "teaser": "Im New Yorker Stadtteil Bronx ist ein elf Jahre altes Mädchen tödlich verletzt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/new-york-schiesserei-in-der-bronx-maedchen-11-stirbt-durch-verirrte-kugel-80115562.bild.html",
-      "image_title": "New York: Schießerei in der Bronx – Mädchen (11) stirbt durch verirrte Kugel"
-    },
-    {
-      "title": "Antike Schätze geschmuggelt : Berliner droht Todesstrafe im Irak",
-      "teaser": "Bei dem Wissenschaftler wurden Scherben und Steine gefunden.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/weil-er-angeblich-antike-schaetze-schmuggeln-wollte-berliner-droht-todesstrafe-i-80113806.bild.html",
-      "image_title": "Weil er angeblich antike Schätze schmuggeln wollte: Berliner droht Todesstrafe im Irak"
-    },
-    {
-      "title": "Massaker in Buffalo : Attentäter schrieb Breiviks Namen auf Mordwaffe",
-      "teaser": "Bilder der Mordwaffe zeigen die rassistischen Motive des Attentäters Payton Gendron (18).",
-      "url": "https://www.bild.de/news/ausland/news-ausland/massaker-in-buffalo-attentaeter-schrieb-breiviks-namen-auf-mordwaffe-80103004.bild.html",
-      "image_title": "Massaker in Buffalo: Attentäter schrieb Breiviks Namen auf Mordwaffe"
-    },
-    {
-      "title": "10 Tote in Buffalo : Neonazi verschonte nur einen weißen Kunden",
-      "teaser": "Als er auf einen Weißen trifft, senkt er die Waffe, sagt „Sorry“ und geht weiter.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/10-tote-bei-attentat-in-us-supermarkt-neonazi-verschonte-nur-einen-weissen-kunde-80097810.bild.html",
-      "image_title": "10 Tote bei Attentat in US-Supermarkt! Neonazi verschonte nur einen weißen Kunden"
-    },
-    {
-      "title": "Angehörige zu BILD : „Es wurde ihr das Gesicht weggeschossen!”",
-      "teaser": "Der Amoklauf des rechtsextremistischen Payton Gendron (18) in Buffalo wühlt die USA auf!",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/angehoerige-zu-bild-es-wurde-ihr-das-gesicht-weggeschossen-80098832.bild.html",
-      "image_title": "Angehörige zu BILD: „Es wurde ihr das Gesicht weggeschossen!”"
-    },
-    {
-      "title": "Blutiger Angriff in Alaska : US-Soldat von Brutalo-Bär getötet",
-      "teaser": "Ein zweiter Soldat kam mit leichten Verletzungen davon.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/alaska-usa-us-soldat-michael-plant-30-von-brutalo-baer-getoetet-80075672.bild.html",
-      "image_title": "Alaska (USA): US-Soldat Michael Plant (30) von Brutalo-Bär getötet"
-    },
-    {
-      "title": "Bei Foto abgerutscht : Thailand-Touristin (23) stürzt an Wasserfall in Tod",
-      "teaser": "Auf der Insel Koh Samui ist eine junge Wienerin an einem Wasserfall in den Tod gestürzt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/thailand-foto-unfall-an-wasserfall-auf-koh-samui-junge-wienerin-23-stuerzt-in-de-80099212.bild.html",
-      "image_title": "Thailand: Foto-Unfall an Wasserfall auf Koh Samui – junge Wienerin (23) stürzt in den Tod"
-    },
-    {
-      "title": "Killer von Buffalo : Radikalisiert, weil er sich wegen Corona langweilte",
-      "teaser": "Aus seinem Manifest sprechen Hass und Verachtung! Die kranke Welt des Killers von Buffalo!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/killer-von-buffalo-radikalisiert-sich-weil-er-sich-wegen-corona-langweilte-80094878.bild.html",
-      "image_title": "Killer von Buffalo radikalisiert sich, weil er sich wegen Corona langweilte"
-    },
-    {
-      "title": "Nach Amoklauf in Buffalo : Mann schießt in US-Kirche um sich – ein Toter",
-      "teaser": "Durch Schüsse in einer Kirche ist mindestens ein Mensch getötet worden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/laguna-woods-1-toter-fuenf-verletzte-nach-schuessen-wieder-blutbad-in-den-usa-80098350.bild.html",
-      "image_title": "Kalifornien (USA): Mann schießt in Kirche in Laguna Woods um sich – 1 Toter, fünf Verletzte"
-    },
-    {
-      "title": "Zehn Tote bei Amoklauf : Supermarkt-Wachmann starb als Held",
-      "teaser": "Wachmann Aaron Salter wollte den rechtsextremistischen Attentäter aufhalten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-buffalo-usa-mit-10-toten-supermarkt-wachmann-starb-als-held-80090006.bild.html",
-      "image_title": "Amoklauf in Buffalo, USA, mit 10 Toten: Supermarkt-Wachmann starb als Held"
-    },
-    {
-      "title": "Tat live gestreamt : Rechtsextremist erschießt 10 Menschen in US-Supermarkt",
-      "teaser": "In einem Supermarkt in Buffalo feuerte ein Attentäter gezielt auf Afroamerikaner",
-      "url": "https://www.bild.de/news/ausland/news-ausland/buffalo-amoklauf-in-supermarkt-moeglicherweise-mehrere-tote-80087210.bild.html",
-      "image_title": "Buffalo: Zehn Tote bei Amoklauf in den USA"
-    },
-    {
-      "title": "Nach 6 Jahren Ehe : Keine Enkel! Mutter verklagt ihren Sohn",
-      "teaser": "Eine Inderin hat Sohn und Schwiegertochter verklagt – weil diese keine Kinder haben!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kinderlos-nach-6-jahren-ehe-keine-enkel-mutter-verklagt-ihren-sohn-80085836.bild.html",
-      "image_title": "Kinderlos nach 6 Jahren Ehe: Keine Enkel! Mutter verklagt ihren Sohn"
-    },
-    {
-      "title": "Horror-Feuer in Indien : 27 Menschen sterben bei Hausbrand",
-      "teaser": "In einem Haus in Neu-Delhi brach ein tödliches Feuer aus. Die Polizei nahm zwei Männer fest.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/feuer-in-indien-27-menschen-sterben-bei-hausbrand-80082554.bild.html",
-      "image_title": "Feuer in Indien: 27 Menschen sterben bei Hausbrand"
-    },
-    {
-      "title": "Hammer-Urteil in England : „Glatze“ zu sagen ist sexuelle Belästigung",
-      "teaser": "Dieses Urteil wurde von drei Richtern getroffen – die allesamt eine Glatze haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hammer-urteil-in-grossbritannien-glatze-zu-sagen-ist-sexuelle-belaestigung-80081428.bild.html",
-      "image_title": "Hammer-Urteil in Großbritannien: „Glatze“ zu sagen ist sexuelle Belästigung"
-    },
-    {
-      "title": "Seltenes Phänomen : Internet staunt über Frau mit zwei Vaginas",
-      "teaser": "Leanne Bell (37) könnte gleichzeitig mit zwei Babys von zwei Männern schwanger sein.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/seltenes-phaenomen-internet-staunt-ueber-frau-mit-zwei-vaginas-80080152.bild.html",
-      "image_title": "Seltenes Phänomen: Internet staunt über Frau mit zwei Vaginas"
-    },
-    {
-      "title": "Stürmisches Baseball-Spiel : Junge läuft durch Tornado",
-      "url": "https://www.bild.de/video/clip/video/stuermisches-baseball-spiel-junge-laeuft-durch-tornado-80146904,auto=true.bild.html",
-      "image_title": "Stürmisches Baseball-Spiel: Junge läuft durch Tornado"
-    },
-    {
-      "title": "Er summte immer weiter! : Vibrator bleibt im Hintern stecken",
-      "url": "https://www.bild.de/video/clip/video/er-summte-immer-weiter-vibrator-bleibt-im-hintern-stecken-80141566,auto=true.bild.html",
-      "image_title": "Er summte immer weiter: Vibrator bleibt im Hintern stecken"
-    },
-    {
-      "title": "Spektakuläre Aufnahmen : SO haben Sie die Sonne noch nie gesehen",
-      "url": "https://www.bild.de/video/clip/video/spektakulaere-aufnahmen-so-haben-sie-die-sonne-noch-nie-gesehen-80141322,auto=true.bild.html",
-      "image_title": "Spektakuläre Aufnahmen: SO haben Sie die Sonne noch nie gesehen"
-    }
-  ]
+  "articles": []
 }
