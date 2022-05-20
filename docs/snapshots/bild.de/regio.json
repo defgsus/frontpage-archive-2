@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-20T16:31:48",
+  "timestamp": "2022-05-20T17:25:49",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,385 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Heftige Unwetter erwartet : Sturm, dicke Hagelkörner und Tornados",
-      "url": "https://www.bild.de/news/wetter/wetter/heftige-unwetter-am-nachmittag-superzellen-rauschen-ueber-deutschland-80147142.bild.html",
-      "image_title": "Wetter heute in Deutschland: Die Unwetterlage im Live-Ticker"
-    },
-    {
-      "title": "Tourist ist in München : Affenpocken-Patient reiste durch halb Deutschland",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/tourist-ist-in-muenchen-affenpocken-patient-reiste-durch-deutschland-80152660.bild.html",
-      "image_title": "Deutschlands erster Affenpocken-Patient reiste durch Deutschland"
-    },
-    {
-      "title": "Pass und Kennzeichen : Polizei erwischt „DDR-Bürger“",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-reichsbuerger-mit-ddr-papieren-auf-der-autobahn-erwischt-80147350.bild.html",
-      "image_title": "Sachsen: Reichsbürger mit DDR-Papieren auf der Autobahn erwischt"
-    },
-    {
-      "title": "Wahnsinn in Sachsen : Feuerwehrmänner als Brandstifter festgenommen",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/brandstiftungen-feuerwehrmaenner-sollen-braende-selbst-gelegt-haben-80151632.bild.html",
-      "image_title": "Brandstiftungen: Feuerwehrmänner sollen Brände selbst gelegt haben"
-    },
-    {
-      "title": "Nachbarin verhinderte Schlimmeres : Mann sticht mit Messer auf Ehefrau und Tochter ein",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-hellersdorf-mann-sticht-mit-messer-auf-ehefrau-und-tochter-ein-80157304.bild.html",
-      "image_title": "Berlin-Hellersdorf: Mann sticht mit Messer auf Ehefrau und Tochter ein"
-    },
-    {
-      "title": "Super-Klinik in Berlin : BILD im Labor der lebendigen Medikamente",
-      "teaser": "Wissenschaftler der Berliner Charité entwickeln die nächste Generation Arzneimittel.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/virchow-campus-berlin-bild-im-labor-der-lebendigen-medikamente-80144238.bild.html",
-      "image_title": "Virchow-Campus Berlin: BILD im Labor der lebendigen Medikamente"
-    },
-    {
-      "title": "In Brandenburger See : Lena (4) ertrank, während ihre Eltern aufräumten",
-      "teaser": "Kinder ertrinken lautlos, warnen Experten. So kam auch für Lena (4) jede Hilfe zu spät.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/in-brandenburger-see-lena-4-ertrank-waehrend-ihre-eltern-aufraeumten-80131946.bild.html",
-      "image_title": "In Brandenburger See: Lena (4) ertrank, während ihre Eltern aufräumten"
-    },
-    {
-      "title": "Pokal-Finale gegen den Leher TS : Bremer SV will das Double klarmachen",
-      "url": "https://www.bild.de/sport/regional-sport/fussball/pokal-finale-gegen-den-leher-ts-bremer-sv-will-das-double-klarmachen-80155084.bild.html",
-      "image_title": "Pokal-Finale gegen den Leher TS: Bremer SV will das Double klarmachen"
-    },
-    {
-      "title": "Latzel warnte vor Homo-Lobby : Skandal-Pastor freigesprochen",
-      "teaser": "Pastor Olaf Latzel warnte vor der Homo-Lobby. Am Freitag sprach ihn das Landgericht frei.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/latzel-warnte-vor-homo-lobby-skandal-pastor-freigesprochen-80150464.bild.html",
-      "image_title": "Latzel warnte vor Homo-Lobby: Skandal-Pastor freigesprochen"
-    },
-    {
-      "title": "Auch in der Bundesliga : Werner setzt auf Aufstiegs-Identität",
-      "teaser": "Trainer Ole Werner hat eine klare Vorstellung, welchen Fußball Werder in Liga 1 spielen soll.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-ole-werner-setzt-auch-in-der-bundesliga-auf-aufstiegs-identitaet-80150928.bild.html",
-      "image_title": "Werder Bremen! Ole Werner setzt auch in der Bundesliga auf Aufstiegs-Identität"
-    },
-    {
-      "title": "Achtung Fans : Unwetter-Gefahr bei Rammstein Konzert in Leipzig",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/rammstein-unwetter-gefahr-bei-konzert-in-leipzig-80155032.bild.html",
-      "image_title": "Rammstein in Leipzig: Unwetter-Gefahr bei Konzert"
-    },
-    {
-      "title": "Finale gegen Chemie : CFC-Bubi Walther heiß auf den Pott",
-      "teaser": "Der Chemnitzer FC will am Samstag den zwölften Titel im 17. Sachsenpokal-Endspiel!",
-      "url": "https://www.bild.de/sport/fussball/fussball/finale-gegen-chemie-leipzig-cfc-bubi-walther-heiss-auf-den-pott-80155130.bild.html",
-      "image_title": "Finale gegen Chemie Leipzig: CFC-Bubi Walther heiß auf den Pott"
-    },
-    {
-      "title": "Bundesrat stimmt zu : Diese Tücken des 9-Euro-Tickets müssen Sie kennen",
-      "teaser": "Das 9-Euro-Ticket für die Sommermonate kommt. BILD erklärt, was Sie dazu wissen müssen.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/leben-und-wissen-verbraucherportal/ratgeber/volle-fahrt-in-den-sommer-das-muessen-sie-zum-9-euro-ticket-wissen-79900248.bild.html",
-      "image_title": "9-Euro-Bahn-Ticket kaufen: Diese Tücken müssen Sie kennen"
-    },
-    {
-      "title": "Staatsanwalt klagt an : 32-Jähriger schwängert Mädchen (13)",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-32-jaehriger-schwaengert-maedchen-13-80145564.bild.html",
-      "image_title": "Dresden: 32-Jähriger schwängert Mädchen (13)"
-    },
-    {
-      "title": "Neun-Euro-Ticket kommt : Bundesrat beschließt Billig-Bahnfahren",
-      "teaser": "Der Bundesrat hat den Weg für das Neun-Euro-Ticket für den Nahverkehr freigemacht!",
-      "url": "https://www.bild.de/politik/2022/politik/9-euro-ticket-kommt-bundesrat-beschliesst-billig-bahnfahren-80149630.bild.html",
-      "image_title": "Neun-Euro-Ticket kommt: Bundesrat beschließt Billig-Bahnfahren"
-    },
-    {
-      "title": "Albino-Baby quetscht sich rein : Känguru-Baby zu groß für Beutel",
-      "teaser": "Enge Kiste im Zoo von Decín (Tschechien) nahe der sächsischen Grenze.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/albino-kaenguru-im-zoo-decn-baby-einfach-zu-gross-fuer-hotel-mama-80137614.bild.html",
-      "image_title": "Albino-Känguru im Zoo Decín: Baby einfach zu groß für Hotel Mama"
-    },
-    {
-      "title": "Nach Zollamt-Coup in NRW : Hier holt sich die Polizei die Millionendiebe!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/zollamt-einbruch-in-emmerich-polizei-video-zeigt-festnahme-der-millionendiebe-80154750.bild.html",
-      "image_title": "Zollamt-Einbruch in Emmerich: Polizei-Video zeigt Festnahme der Millionendiebe"
-    },
-    {
-      "title": "Fink erinnert sich : So spaltete ein Trikot Fortuna!",
-      "teaser": "Nach 13 Jahren Fortuna hat Oliver Fink seine Karriere beendet, erinnert sich an ein Trikot.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-so-spaltete-ein-trikot-fortuna-80155620.bild.html",
-      "image_title": "Fortuna Düsseldorf: So spaltete ein Trikot Fortuna!"
-    },
-    {
-      "title": "„Super-Recognizer“ : Diese Augen vergessen kein Gesicht",
-      "teaser": "Sollten Sie je etwas Illegales planen – sehen Sie bloß zu, dass sie nicht David Paprocki begegnen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/david-paprocki-ist-super-recognizerbei-der-polizei-80153032.bild.html",
-      "image_title": "David Paprocki ist „Super-Recognizer“ bei der Polizei"
-    },
-    {
-      "title": "Eklat vor Euro-Finale : Stadt wollte Autokorso der Eintracht verbieten",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/eklat-vor-euro-finale-stadt-wollte-autokorso-der-eintracht-verbieten-80156448.bild.html",
-      "image_title": "Eklat vor Euro-Finale: Stadt wollte Autokorso der Eintracht verbieten"
-    },
-    {
-      "title": "Hanauer Horror-Vater : „Er hat Mutter und Kinder gewürgt und geschlagen“",
-      "teaser": "Eine frühere Nachbarin der Familie berichtet über schockierende Details.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/ueber-hanauer-horror-vater-mutter-und-kinder-gewuergt-und-geschlagen-80154832.bild.html",
-      "image_title": "Über Hanauer Horror-Vater: „Mutter und Kinder gewürgt und geschlagen“"
-    },
-    {
-      "title": "Exklusiv in BILD : Eintracht-Kapitän kritisiert peinlichen OB-Auftritt",
-      "teaser": "Der Auftritt von Frankfurts OB Peter Feldmann beim Eintracht-Empfang sorgte für Fremdscham",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/eintracht-frankfurt-das-sagt-kapitaen-sebastian-rode-zum-ob-auftritt-80154868.bild.html",
-      "image_title": "Eintracht Frankfurt: Das sagt Kapitän Sebastian Rode zum OB-Auftritt"
-    },
-    {
-      "title": "Schlag gegen die Drogenszene : Zollhund Loki findet 15 Kilo Kokain",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/schlag-gegen-die-drogenszene-zollhund-loki-findet-15-tonnen-kokain-80152424.bild.html",
-      "image_title": "Schlag gegen die Drogenszene: Zollhund Loki findet 15 Kilo Kokain"
-    },
-    {
-      "title": "Cum-Ex-Ausschuss : Warburg-Anwalt geht auf Bürgermeister los",
-      "teaser": "Haben Bürgermeister Tschentscher und Senator Dressel den Cum-Ex-Ausschuss belogen?",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/cum-ex-prozess-warburg-anwalt-geht-auf-buergermeister-und-senator-los-80154008.bild.html",
-      "image_title": "Cum-Ex-Ausschuss: Warburg-Anwalt geht auf Bürgermeister und Senator los"
-    },
-    {
-      "title": "Corona-Zoff der Experten : Forscher gegen Forscher",
-      "teaser": "Der eine ist Virologe, der andere Physiker. Und sie liegen im juristischen Clinch.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/corona-zoff-zwischen-virologe-christian-drosten-und-physik-professor-roland-wies-80149712.bild.html",
-      "image_title": "Corona-Zoff zwischen Virologe Christian Drosten und Physik-Professor Roland Wiesendanger landet vor Landgericht: Forscher gegen Forscher"
-    },
-    {
-      "title": "Nach Hoeneß-Entlassung : Hannover 96 zittert um Beier",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-zittern-um-maxi-beier-nach-hoeness-rauswurf-in-hoffenheim-80151828.bild.html",
-      "image_title": "Hannover 96: Zittern um Maxi Beier nach Hoeneß-Rauswurf in Hoffenheim"
-    },
-    {
-      "title": "Teils fast auf Kopfhöhe : E-Bus durchbohrt Brückengeländer",
-      "teaser": "Ein Linienbus ist in Hannover bei einem Unfall von einem Brückengeländer durchbohrt worden.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/teils-fast-auf-kopfhoehe-e-bus-durchbohrt-brueckengelaender-80150144.bild.html",
-      "image_title": "Teils fast auf Kopfhöhe: E-Bus durchbohrt Brückengeländer"
-    },
-    {
-      "title": "Viele Feuerwehreinsätze : Unwetter mit Starkregen noch nicht vorbei",
-      "teaser": "Das Unwetter, das am Donnerstag für zahlreiche Feuerwehreinsätze sorgte, ist noch nicht vorbei.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/viele-feuerwehreinsaetze-im-norden-unwetter-mit-starkregen-noch-nicht-vorbei-80147980.bild.html",
-      "image_title": "Viele Feuerwehreinsätze im Norden: Unwetter mit Starkregen noch nicht vorbei"
-    },
-    {
-      "title": "Kölns Ex-Verteidiger : Meré will den Mexiko-Titel",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-koeln-ex-verteidiger-jorge-mer-will-den-mexiko-titel-80156000.bild.html",
-      "image_title": "1. FC Köln: Ex-Verteidiger Jorge Meré will den Mexiko-Titel"
-    },
-    {
-      "title": "Anklage : Soldat wollte Maschinenpistole verschicken",
-      "teaser": "Ein angehender Bundeswehroffizier wollte eine Maschinenpistole in die USA verschicken.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/anklage-soldat-wollte-maschinenpistole-per-post-verschicken-80152954.bild.html",
-      "image_title": "Anklage: Soldat wollte Maschinenpistole per Post verschicken"
-    },
-    {
-      "title": "Friseurinnen bitte melden! : 2000 Komparsen für „Manta, Manta 2“ gesucht",
-      "teaser": "Friseurinnen, Rennfahrer, Strandbar-Gäste: Für „Manta, Manta 2“ werden 2000 Komparsen gesucht.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/90er-kultfilm-kommt-zurueck-2000-komparsen-fuer-manta-manta-2-gesucht-80148814.bild.html",
-      "image_title": "Für „Manta, Manta 2“: 2000 Komparsen gesucht! 90er-Kultfilm kommt zurück"
-    },
-    {
-      "title": "Unwetter-Drama bei Fliegertreffen : Windböe reißt zwei Motorgleiter in den Tod",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/paragleiter-abgestuerzt-zwei-gleitschirmflieger-toedlich-verunglueckt-80150296.bild.html",
-      "image_title": "Unwetter-Drama! Paragleiter von Windböe erfasst – zwei Tote"
-    },
-    {
-      "title": "Zwei Verletzte : Leipziger Ring-Radweg fordert erste Opfer",
-      "teaser": "Der neue und gefährliche Radweg auf dem Leipziger Ring forderte seine ersten Opfer.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-ring-radweg-fordert-erste-opfer-80153154.bild.html",
-      "image_title": "Leipzig: Ring-Radweg fordert erste Opfer"
-    },
-    {
-      "title": "Trotz viel Lob! : Lieselotte ist raus bei GNTM",
-      "teaser": "Lieselotte Reznicek (66) aus Salzwedel schaffte es ins Halbfinale – aber dann kam das Aus.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/germanys-next-topmodel-lieselotte-ist-raus-bei-gntm-80144658.bild.html",
-      "image_title": "Germany's Next Topmodel: Lieselotte ist raus bei GNTM"
-    },
-    {
-      "title": "Meck-Pomm : Spaziergänger mit Luftgewehr beschossen",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mit-luftgewehr-jugendlicher-schiesst-auf-spaziergaenger-in-meck-pomm-80153858.bild.html",
-      "image_title": "Polizei: Jugendlicher schießt auf Spaziergänger in Meck-Pomm"
-    },
-    {
-      "title": "Paderborns Pröger da : So plant Hansa die neue Saison",
-      "teaser": "Hansa holt Mittelfeldmann Kai Pröger (30) aus Paderborn.",
-      "url": "https://www.bild.de/sport/fussball/fussball/2-liga-paderborns-proeger-da-so-plant-hansa-die-neue-saison-80154818.bild.html",
-      "image_title": "2. Liga! Paderborns Pröger da: So plant Hansa die neue Saison"
-    },
-    {
-      "title": "Keine Straftat? : Stückel-Leiche aus Fluss identifiziert",
-      "teaser": "Die Identität der Stückel-Leiche, die ein Angler Anfang Mai in Mecklenburg-Vorpommern entdeckte, ist geklärt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/gruselfund-stueckel-leiche-aus-fluss-identifiziert-80145750.bild.html",
-      "image_title": "Gruselfund: Stückel-Leiche aus Fluss identifiziert"
-    },
-    {
-      "title": "Er wollte Konkurrenten ausschalten : Bauer als Mais-Terrorist verurteilt!",
-      "url": "https://www.bild.de/news/inland/news-inland/terror-im-maisfeld-irrer-bauern-zoff-landet-im-gerichtssaal-80136712.bild.html",
-      "image_title": "Terror im Maisfeld: Irrer Bauern-Zoff landet im Gerichtssaal"
-    },
-    {
-      "title": "Bei Pfaffenhofen : Fass mit Phosphor explodiert – Mann (58) verletzt",
-      "teaser": "Schwerer Unfall in einer Sonderabfall-Entsorgung in Baar-Ebenhausen!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bei-pfaffenhofen-fass-mit-phosphor-explodiert-mann-verletzt-80154182.bild.html",
-      "image_title": "Bei Pfaffenhofen: Fass mit Phosphor explodiert – Mann verletzt"
-    },
-    {
-      "title": "Münchner Norden : BMW brennt im Aubinger Tunnel",
-      "teaser": "Die Feuerwehr musste einen brennenden BMW löschen – es kam zu langen Staus.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchner-norden-bmw-brennt-im-aubinger-tunnel-80151388.bild.html",
-      "image_title": "Münchner Norden: BMW brennt im Aubinger Tunnel"
-    },
-    {
-      "title": "Club-Abgang Tom Krauß : Liebeserklärung zum Abschied",
-      "url": "https://www.bild.de/sport/fussball/fussball/fcn-abgang-tom-krauss-liebeserklaerung-zum-abschied-80156292.bild.html",
-      "image_title": "FCN-Abgang Tom Krauß: Liebeserklärung zum Abschied"
-    },
-    {
-      "title": "Wetterdienst erklärt : Hier gewittert es in Bayern",
-      "teaser": "Der Mai-Sommer ist vorbei – jetzt kommen Blitz, Donner und kühlere Luft nach Bayern.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/wetterdienst-hier-gewittert-es-in-bayern-80149766.bild.html",
-      "image_title": "Wetterdienst: Hier gewittert es in Bayern"
-    },
-    {
-      "title": "Mysteriöser Fall : Polizei sucht nach vermisster Frau (28) im See",
-      "teaser": "Was geschah am Blässhuhnsee in Franken? Seit Tagen wird dort eine Frau vermisst.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mysterioeser-fall-in-coburg-polizei-sucht-nach-vermisster-frau-28-im-see-80149246.bild.html",
-      "image_title": "Mysteriöser Fall in Coburg: Polizei sucht nach vermisster Frau (28) im See"
-    },
-    {
-      "title": "Arzt angeklagt : Tötete sein Fehler den 14-jährigen Kevin?",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/arzt-in-guetersloh-vor-gericht-toetete-sein-fehler-kevin-14-80155244.bild.html",
-      "image_title": "Arzt in Gütersloh vor Gericht: Tötete sein Fehler Kevin (14)?"
-    },
-    {
-      "title": "Verdächtiger in Klinik : Polizeikugel stoppt Automaten-Sprenger (23)",
-      "teaser": "Auf frischer Tat haben Polizisten Geldautomaten-Sprenger erwischt – einer wurde angeschossen!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/castrop-rauxel-polizeikugel-stoppt-automaten-sprenger-80135866.bild.html",
-      "image_title": "Castrop-Rauxel: Polizeikugel stoppt Automaten-Sprenger"
-    },
-    {
-      "title": "In Ibbenbüren (NRW) : Polizist schießt auf Automaten-Gangster",
-      "teaser": "Erneut sind nach der Explosion eines Geldautomaten in NRW Schüsse gefallen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/ibbenbueren-polizist-schiesst-auf-automaten-gangster-80150022.bild.html",
-      "image_title": "Ibbenbüren: Polizist schießt auf Automaten-Gangster"
-    },
-    {
-      "title": "Nach Abstieg mit Aue! : Kommt auch Ballas zurück zum FCS?",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-kommt-auch-ballas-nach-aue-abstieg-zurueck-80142134.bild.html",
-      "image_title": "1. FC Saarbrücken: Kommt auch Ballas nach Aue-Abstieg zurück?"
-    },
-    {
-      "title": "Nach Rehlingers Besuch : Ford-Bosse lassen Saarlouis weiter zittern",
-      "teaser": "Es war eine Reise der Hoffnung, aber leider ohne konkrete Ergebnisse...",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/nach-rehlingers-besuch-ford-bosse-lassen-saarlouis-weiter-zittern-80142236.bild.html",
-      "image_title": "Nach Rehlingers Besuch: Ford-Bosse lassen Saarlouis weiter zittern"
-    },
-    {
-      "title": "TV-Moderator wettert : Klaas fordert Fleischkäs'-Rabatt",
-      "teaser": "Da wird doch der Fleischkäs' im Weck verrückt!...",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/tv-moderator-wettert-klaas-fordert-fleischkaes-rabatt-80141964.bild.html",
-      "image_title": "TV-Moderator wettert: Klaas fordert Fleischkäs'-Rabatt"
-    },
-    {
-      "title": "HFC auf Spielersuche : Darum hakt es bei El-Jindaoui",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-hfc-auf-spielersuche-darum-hakt-es-bei-nader-el-jindaoui-80148104.bild.html",
-      "image_title": "3. Liga: HFC auf Spielersuche – Darum hakt es bei Nader El-Jindaoui"
-    },
-    {
-      "title": "38:20! : SC Magdeburg überrollt Schlusslicht",
-      "teaser": "Der SC Magdeburg steht ganz kurz vorm Gewinn der Deutschen Meisterschaft.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/handball-bundesliga-38-20-sc-magdeburg-ueberrollt-schlusslicht-80146212.bild.html",
-      "image_title": "Handball-Bundesliga: 38:20! SC Magdeburg überrollt Schlusslicht"
-    },
-    {
-      "title": "Prozess um Blutbad in Erfurt : „Mein Mann ist kein Killer!“",
-      "teaser": "Die Bluttat am 05. Oktober erschütterte die Stadt: Mitten auf dem Anger war am helllichten Tag ein Tunesier (28) niedergestochen worden.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/prozess-um-blutbad-in-erfurt-mein-mann-ist-kein-killer-80145590.bild.html",
-      "image_title": "Prozess um Blutbad in Erfurt: „Mein Mann ist kein Killer!“"
-    },
-    {
-      "title": "Mitten in Mannheim : Betrunkener zersägt Baum – nachts!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/mitten-in-mannheim-betrunkener-zersaegt-baum-nachts-80150192.bild.html",
-      "image_title": "Mitten in Mannheim: Betrunkener zersägt Baum – nachts!"
-    },
-    {
-      "title": "Knall in Baden-Württemberg : Gaskartusche explodiert in Wohnung",
-      "teaser": "Explosion im Haus einer Familie in Welzheim am Donnerstag.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/knall-in-welzheim-gaskartusche-explodiert-in-wohnung-80148376.bild.html",
-      "image_title": "Knall in Baden-Württemberg: Gaskartusche explodiert in Wohnung"
-    },
-    {
-      "title": "Anders als Sie denken : Diese Frau flüstert Sie zum Orgasmus",
-      "teaser": "Die Ingolstädterin Silva Schwabe ist Deutschlands einzige „Orgasmusflüsterin“.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/silva-schwabe-42-sie-ist-deutschlands-einzige-orgasmusfluesterin-80035722.bild.html",
-      "image_title": "Orgasmusflüsterin: Silva Schwabe (42) ist Deutschlands einzige"
-    },
-    {
-      "title": "Jena-Torjäger geht : Drei Klubs jagen Fabian Eisele",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/jena-torjaeger-geht-drei-klubs-jagen-fabian-eisele-80156904.bild.html",
-      "image_title": "Jena-Torjäger geht: Drei Klubs jagen Fabian Eisele"
-    },
-    {
-      "title": "Mit 1,6 Promille : Betrunkener BMW-Fahrer (25) überschlägt sich",
-      "teaser": "Der Fahrer dieses BMW hatte ein paar Gläser zu viel intus, als er sich ans Steuer setzte.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-in-thueringen-betrunkener-bmw-fahrer-25-ueberschlaegt-sich-80149504.bild.html",
-      "image_title": "Unfall in Thüringen: Betrunkener BMW-Fahrer (25) überschlägt sich"
-    },
-    {
-      "title": "Buh, der Helge : Corona-Comedian kommt ins Kino",
-      "teaser": "Der Corona-Lockdown machte Ingo Weiß (55) zum Comedian – nun kommt er sogar ins Kino.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/buh-der-helge-corona-comedian-kommt-ins-kino-80142112.bild.html",
-      "image_title": "Buh, der Helge: Corona-Comedian kommt ins Kino"
-    }
-  ]
+  "articles": []
 }
