@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-20T06:27:41",
+  "timestamp": "2022-05-20T07:21:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "BIND",
+      "url": "https://www.heise.de/news/Angreifer-koennten-mit-DNS-Software-BIND-erstellte-TLS-Sessions-zerstoeren-7101032.html"
+    },
+    {
       "title": "Sonicwall SMA-100",
       "url": "https://www.heise.de/news/Nutzer-koennten-Sonicwall-SMA-100-beliebigen-Code-unterjubeln-7099955.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Admin-Luecke-bedroht-WordPress-Websites-mit-Jupiter-Theme-7099655.html"
     },
     {
-      "title": "VMware",
-      "url": "https://www.heise.de/news/Attacken-auf-VMware-Sicherheitsluecken-Jetzt-updaten-7099531.html"
+      "title": "Angreifer könnten mit DNS-Software BIND erstellte TLS-Sessions \"zerstören\"",
+      "teaser": "Es gibt ein wichtiges Sicherheitsupdate für BIND, welches Admins zeitnah installieren sollten.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-mit-DNS-Software-BIND-erstellte-TLS-Sessions-zerstoeren-7101032.html"
     },
     {
       "title": "Nutzer könnten Sonicwall SMA-100 beliebigen Code unterjubeln",
@@ -66,14 +71,14 @@
       "image_title": "Update-Symbolbild"
     },
     {
-      "title": "Finale der Cyber Security Challenge 2022 im Verbund mit IT Job kompakt",
-      "teaser": "Parallel zum finalen Hacking-Wettbewerb für junge Menschen wird es in München eine Ausgabe der Fachkonferenz und Recruiting-Messe IT Job kompakt geben.",
-      "url": "https://www.heise.de/news/Finale-der-Cyber-Security-Challenge-2022-im-Verbund-mit-IT-Job-kompakt-7098357.html"
-    },
-    {
       "title": "Energiebilanz von Rechenzentren: Besser als Sie denken!",
       "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
       "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
+    },
+    {
+      "title": "Finale der Cyber Security Challenge 2022 im Verbund mit IT Job kompakt",
+      "teaser": "Parallel zum finalen Hacking-Wettbewerb für junge Menschen wird es in München eine Ausgabe der Fachkonferenz und Recruiting-Messe IT Job kompakt geben.",
+      "url": "https://www.heise.de/news/Finale-der-Cyber-Security-Challenge-2022-im-Verbund-mit-IT-Job-kompakt-7098357.html"
     },
     {
       "title": "iPhone aus, Funk bleibt an: Sicherheitsforscher sehen neue Angriffsfläche",
@@ -162,12 +167,6 @@
       "image_title": "iOS 15"
     },
     {
-      "title": "Microsoft warnt vor Sysrv-Botnet",
-      "teaser": "Eine neue Variante des Sysrv-Botnets hat Microsoft beobachtet, die Windows- und Linux-Systeme befällt, um Kryptowährungen zu schürfen.",
-      "url": "https://www.heise.de/news/Microsoft-warnt-vor-Sysrv-Botnet-7095053.html",
-      "image_title": "Aufmacher MS warnt vor Sysrv-Botnet"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Die eintägige heise Security Tour liefert Security- und Datenschutzverantwortlichen den Überblick, das Hintergrundwissen und praktisch relevante Informationen, die eigene IT richtig abzusichern.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -191,7 +190,7 @@
     {
       "title": "Re: WeTransfer und gefährliche Ratschläge",
       "teaser": "Forum: Diverses",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Diverses/Re-WeTransfer-und-gefaehrliche-Ratschlaege/posting-41019669/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Diverses/Re-WeTransfer-und-gefaehrliche-Ratschlaege/posting-41023533/show/"
     },
     {
       "title": "Re: sudo apt-get update: Signatur abgelaufen",
