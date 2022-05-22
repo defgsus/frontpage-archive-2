@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-22T05:20:42",
+  "timestamp": "2022-05-22T06:27:30",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Fitness: Der Ausfallschritt",
+      "teaser": "Eine der Lieblingsübungen unseres Trainers. Der Ausfallschritt ist einfach, effektiv und man wird nicht nur kräftiger, sondern schult auch das Balancegefühl.",
+      "url": "https://www.zeit.de/sport/2022-05/fitnessuebung-ausfallschritt-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2022-05/wochenende21-fitnessuebung-ausfallschritt-personal-trainer-01/cinema__980x420"
+    },
+    {
       "title": "Uefa Women's Champions League: Olympique Lyon gewinnt Finale gegen Barcelona",
       "teaser": "Die Fußballerinnen von Olympique Lyon haben 3:1 gegen den FC Barcelona gewonnen. Damit geht der Titel in der weiblichen Champions League zum achten Mal nach Lyon.",
       "url": "https://www.zeit.de/sport/2022-05/uefa-women-s-champions-league-finale-frauenteam-olympique-lyon-fc-barcelona",
-      "image_url": "https://img.zeit.de/sport/2022-05/uefa-women-s-champions-league-finale-frauenteam-olympique-lyon-fc-barcelona-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-05/uefa-women-s-champions-league-finale-frauenteam-olympique-lyon-fc-barcelona-bild/wide__822x462",
+      "image_title": "Uefa Women's Champions League: Olympique Lyon gewinnt Finale gegen Barcelona"
     },
     {
       "title": "Eintracht Frankfurt: Die Sehnsucht nach den Neunzigern",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/sport/2022-05/eintracht-frankfurt-europa-league-kritik",
       "image_url": "https://img.zeit.de/sport/2022-05/eintracht-frankfurt-europa-league-pokal-bild/wide__822x462",
       "image_title": "Eintracht Frankfurt: Die Sehnsucht nach den Neunzigern"
-    },
-    {
-      "title": "DFB-Pokalfinale: RB-Leipzig-Kritik für Anfänger",
-      "teaser": "Kein Verein wird von Fußballfans so hart angegangen wie RB Leipzig. Dabei geht argumentativ einiges durcheinander. Eine Anleitung zur korrekten Kritik",
-      "url": "https://www.zeit.de/sport/2022-05/rb-leipzig-kritik-konstrukt",
-      "image_url": "https://img.zeit.de/sport/2022-05/rb-leipzig-2/wide__822x462",
-      "image_title": "DFB-Pokalfinale: RB-Leipzig-Kritik für Anfänger"
     },
     {
       "title": "Bundesliga: Hier stimmt was nicht!",
@@ -96,6 +96,13 @@
       "image_title": "BFC Dynamo: Der Mythos des Schiebermeisters"
     },
     {
+      "title": "DFB-Pokalfinale: RB-Leipzig-Kritik für Anfänger",
+      "teaser": "Kein Verein wird von Fußballfans so hart angegangen wie RB Leipzig. Dabei geht argumentativ einiges durcheinander. Eine Anleitung zur korrekten Kritik",
+      "url": "https://www.zeit.de/sport/2022-05/rb-leipzig-kritik-konstrukt",
+      "image_url": "https://img.zeit.de/sport/2022-05/rb-leipzig-2/wide__822x462",
+      "image_title": "DFB-Pokalfinale: RB-Leipzig-Kritik für Anfänger"
+    },
+    {
       "title": "RB Leipzig: Die Gründe für das Nichtfreuen sind vielfältig",
       "teaser": "38 Prozent der Deutschen sagen, dass sie sich freuen würden, wenn RB Leipzig das Pokalfinale gewinnt. Wer aber Leipzig den Sieg nicht gönnt, hat keine Ahnung von Fußball.",
       "url": "https://www.zeit.de/2022/21/rb-leipzig-dfb-pokalfinale-red-bull",
@@ -110,13 +117,6 @@
       "image_title": "DFB-Pokalfinale: Das Leipziger Fanproblem"
     },
     {
-      "title": "Fußball-Bundesliga: Borussia Dortmund trennt sich von Trainer Marco Rose",
-      "teaser": "Trainerwechsel beim deutschen Spitzenclub: Borussia Dortmund hat Marco Rose nach nur einer gemeinsamen Saison beurlaubt. Nachfolger soll offenbar Edin Terzic werden.",
-      "url": "https://www.zeit.de/sport/2022-05/bvb-rose-trennung-fussball-bundesliga",
-      "image_url": "https://img.zeit.de/sport/2022-05/borussia-dortmund-trainer-rose/wide__822x462",
-      "image_title": "Fußball-Bundesliga: Borussia Dortmund trennt sich von Trainer Marco Rose"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -124,11 +124,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Relegation: Ein Tor so krumm wie das Spiel",
-      "teaser": "Die beiden Großgescheiterten Hertha und HSV liefern sich einen engen Wettstreit, wer der Schlechtere ist. Dennoch ist das Stadion voll. Eindrücke vom Relegationshinspiel",
-      "url": "https://www.zeit.de/sport/2022-05/hertha-bsc-hambuger-sv-relegation",
-      "image_url": "https://img.zeit.de/sport/2022-05/bundesliga-relegation-hertha-bsc-hamburger-sv/wide__822x462",
-      "image_title": "Relegation: Ein Tor so krumm wie das Spiel"
+      "title": "Fußball-Bundesliga: Borussia Dortmund trennt sich von Trainer Marco Rose",
+      "teaser": "Trainerwechsel beim deutschen Spitzenclub: Borussia Dortmund hat Marco Rose nach nur einer gemeinsamen Saison beurlaubt. Nachfolger soll offenbar Edin Terzic werden.",
+      "url": "https://www.zeit.de/sport/2022-05/bvb-rose-trennung-fussball-bundesliga",
+      "image_url": "https://img.zeit.de/sport/2022-05/borussia-dortmund-trainer-rose/wide__822x462",
+      "image_title": "Fußball-Bundesliga: Borussia Dortmund trennt sich von Trainer Marco Rose"
     },
     {
       "title": "Elena Semechin: \"Ich will nicht, dass diese Krankheit über mein Leben bestimmt\"",
@@ -145,6 +145,13 @@
       "image_title": "Union Berlin: Sie können es selbst nicht fassen"
     },
     {
+      "title": "Relegation: Ein Tor so krumm wie das Spiel",
+      "teaser": "Die beiden Großgescheiterten Hertha und HSV liefern sich einen engen Wettstreit, wer der Schlechtere ist. Dennoch ist das Stadion voll. Eindrücke vom Relegationshinspiel",
+      "url": "https://www.zeit.de/sport/2022-05/hertha-bsc-hambuger-sv-relegation",
+      "image_url": "https://img.zeit.de/sport/2022-05/bundesliga-relegation-hertha-bsc-hamburger-sv/wide__822x462",
+      "image_title": "Relegation: Ein Tor so krumm wie das Spiel"
+    },
+    {
       "title": "Bundesliga-Relegation: Hamburger SV gewinnt gegen Hertha BSC",
       "teaser": "Nach dem 0:1-Sieg des Hamburger SV geraten die Berliner weiter in Bedrängnis. Den Hamburgern reicht am Montag ein Remis für den Aufstieg.",
       "url": "https://www.zeit.de/sport/2022-05/bundesliga-relegation-hamburger-sv-hertha-bsc",
@@ -157,13 +164,6 @@
       "url": "https://www.zeit.de/sport/2022-05/eintracht-frankfurt-europa-league-sieger",
       "image_url": "https://img.zeit.de/sport/2022-05/eintracht-frankfurt-3/wide__822x462",
       "image_title": "Eintracht Frankfurt: Endlich gewinnt mal ein anderer"
-    },
-    {
-      "title": "Europa League: Das Unikat eines Finales",
-      "teaser": "Eintracht Frankfurt gewinnt gegen die Glasgow Rangers den Europacup. Im Gedächtnis wird weniger das Spiel bleiben, sondern vielmehr die Einzigartigkeit des Abends.",
-      "url": "https://www.zeit.de/sport/2022-05/europa-league-europacup-eintracht-frankfurt-sevilla",
-      "image_url": "https://img.zeit.de/sport/2022-05/europa-league-europacup-eintracht-frankfurt-sevilla-bild/wide__822x462",
-      "image_title": "Europa League: Das Unikat eines Finales"
     },
     {
       "title": "Europa League: Das Unikat eines Finales",
