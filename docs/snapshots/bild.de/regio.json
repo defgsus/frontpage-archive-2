@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-23T07:23:02",
+  "timestamp": "2022-05-23T08:28:00",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Es war ihre letzte Folge : Das dramatische Ende von „Tatort“-Star Meret Becker",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/meret-becker-letzte-tatort-folge-so-dramatisch-war-das-ende-80174378.bild.html",
-      "image_title": "Meret Becker: Letzte „Tatort“-Folge! So dramatisch war das Ende"
-    },
-    {
-      "title": "Mordkommission ermittelt : Kirmesbesucher (40) nach Rangelei erschossen",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/luedenscheid-kirmesbesucher-40-nach-rangelei-erschossen-80171590.bild.html",
-      "image_title": "Lüdenscheid: Kirmesbesucher (40) nach Rangelei erschossen"
-    },
-    {
-      "title": "Shitstorm im Netz : Leipzig-Star Kampl kippt Red Bull in DFB-Pokal",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/dfb-pokal-shitstorm-im-netz-leipzig-star-kampl-kippt-red-bull-in-den-pott-80171428.bild.html",
-      "image_title": "DFB-Pokal: Shitstorm im Netz! Leipzig-Star Kampl kippt Red Bull in den Pott"
-    },
-    {
-      "title": "Vor 80 Jahren in Berlin : Der vergessene Mord an 250 jüdischen Männern",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/vor-80-jahren-in-berlin-der-vergessene-mord-an-250-juedischen-maennern-80162918.bild.html",
-      "image_title": "Vor 80 Jahren in Berlin: Der vergessene Mord an 250 jüdischen Männern"
-    },
-    {
-      "title": "Kontaktpersonen gesucht : Zwei Fälle von Affenpocken in Berlin",
-      "teaser": "In Berlin sind zwei Fälle von Affenpocken bestätigt worden.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/zwei-faelle-von-affenpocken-in-berlin-kontaktpersonen-gesucht-80163170.bild.html",
-      "image_title": "Zwei Fälle von Affenpocken in Berlin – Kontaktpersonen gesucht"
-    },
-    {
-      "title": "Juristen kritisieren Pläne : Darf Senat Herkunft von Schülern verschweigen?",
-      "teaser": "Diese eine Information will der Berliner Senat aus dem Schulverzeichnis streichen.",
-      "url": "https://www.bild.de/regional/berlin/berlin-regional-politik-und-wirtschaft/berliner-plaene-darf-der-senat-die-herkunft-von-schuelern-verschweigen-80157990.bild.html",
-      "image_title": "Berliner Pläne: Darf der Senat die Herkunft von Schülern verschweigen?"
-    },
-    {
-      "title": "Bruder Marco wurde bestialisch zerstückelt : Schwester klagt: „Die Justiz hat komplett versagt“",
-      "url": "https://www.bild.de/bild-plus/regional/hannover/hannover-aktuell/bruder-marco-w-zerstueckelt-schwester-des-opfers-die-justiz-hat-versagt-80167220.bild.html",
-      "image_title": "Bruder Marco W. zerstückelt – Schwester des Opfers: „Die Justiz hat versagt“"
-    },
-    {
-      "title": "Jubiläum der Kult-Kneipe : Wir gehen weiter in die Vollen",
-      "teaser": "Am 21. Mai feiert die Kult-Kneipe „Grüner Jäger“ in Farge ihren 100. Geburtstag.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/kult-kegel-kneipe-feiert-100-geburtstag-wir-gehen-weiter-in-die-vollen-80167224.bild.html",
-      "image_title": "Kult-Kegel-Kneipe feiert 100. Geburtstag: Wir gehen weiter in die Vollen"
-    },
-    {
-      "title": "EXKLUSIV MIT BILDPLUS : Gewinnen Sie VIP-Tickets für die Derby-Dressur",
-      "teaser": "Es wird aufgesattelt in Hamburg Klein-Flottbek! Die Reit-Elite kommt in die Hansestadt",
-      "url": "https://www.bild.de/bild-plus/sport/mehr-sport/mehrsport/reiten-mit-bild-idee-kaffee-gewinne-vip-tickets-fuer-die-dressur-in-flottbek-80137276.bild.html",
-      "image_title": "Reiten: Mit BILD & IDEE Kaffee! Gewinne VIP-Tickets für die Dressur in Flottbek"
-    },
-    {
-      "title": "Die Enttäuschungen in Sachsens kenia-Koalition : Halbzeit, bitte auswechseln!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dulig-meier-schmidt-die-groessten-enttaeuschungen-in-der-kenia-koalition-80172714.bild.html",
-      "image_title": "Dulig, Meier, Schmidt: Die größten Enttäuschungen in der Kenia-Koalition"
-    },
-    {
-      "title": "Technischer Defekt : Rapsöl-Laster auf der A 2 abgefackelt",
-      "teaser": "Auf der A 2 bei Theeßen brannte eine mit 21 Tonnen Rapsöl beladener Sattelzug ab.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-rapsoel-laster-auf-der-a-2-abgefackelt-80169226.bild.html",
-      "image_title": "Unfall: Rapsöl-Laster auf der A 2 abgefackelt"
-    },
-    {
-      "title": "Eichenprozessionsspinner : Probleme mit haarigen Raupen werden größer",
-      "teaser": "In vielen Regionen Deutschlands laufen bereits Maßnahmen zur Bekämpfung des Eichenprozessionsspinners.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/eichenprozessionsspinner-probleme-mit-haarigen-raupen-werden-groesser-80166656.bild.html",
-      "image_title": "Eichenprozessionsspinner: Probleme mit haarigen Raupen werden größer"
-    },
-    {
-      "title": "Wo spielt jetzt die Musik? : Schlese macht Schluss nach 50 Jahren Dixieland",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-schlese-macht-schluss-nach-50-jahren-dixieland-80173208.bild.html",
-      "image_title": "Dresden: Schlese macht Schluss nach 50 Jahren Dixieland"
-    },
-    {
-      "title": "Zum Verwechseln verdächtig : Welcher Zwilling stach Ex an der Autobahn nieder?",
-      "teaser": "Zwillinge machen alles zusammen, heißt es. Haben Nancy und Kathy S. (42) aus Halle/Saale sogar versucht, gemeinsam einen Mann umzubringen?",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/polizei-welcher-zwilling-stach-ex-an-der-autobahn-nieder-80156676.bild.html",
-      "image_title": "Polizei: Welcher Zwilling stach Ex an der Autobahn nieder?"
-    },
-    {
-      "title": "Immer mehr Schafsrisse : Verbände fordern Schieß-Befehl auf Wölfe!",
-      "teaser": "Schäfer Gerhard Schmidt (63) hütet schon 40 Jahre seine Schäfchen. Doch nie hatte er so viele Sorgen und Mühe mit den Weidezäunen wie heute.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/wegen-schafsrisse-verbaende-fordern-schiess-befehl-auf-woelfe-80161948.bild.html",
-      "image_title": "Wegen Schafsrisse: Verbände fordern Schieß-Befehl auf Wölfe!"
-    },
-    {
-      "title": "Meier macht Fortuna heiß auf die Bundesliga : „Aufstieg ist geiler als ein Orgasmus“",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-norbert-meier-aufstieg-geiler-als-orgasmus-80173168.bild.html",
-      "image_title": "Fortuna Düsseldorf: Norbert Meier: „Aufstieg geiler als Orgasmus“"
-    },
-    {
-      "title": "Richtig Kohle versenkt : Düsseldorf hat ein 10,5 Mio-Euro-Problem!",
-      "teaser": "Die Vergangenheit holt Fortuna aktuell ein. Düsseldorf hat ein 10,5 Mio-Euro-Problem.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fortuna-duesseldorf-das-10-5-mio-euro-problem-80170250.bild.html",
-      "image_title": "Fortuna Düsseldorf: Das 10,5 Mio-Euro-Problem!"
-    },
-    {
-      "title": "Anruf vom Boss : Favre wird zum Königs-Transfer",
-      "teaser": "Die Rückkehr von Lucien Favre wird zur „Chef-Sache” – Boss Rolf Königs mischt kräftig mit",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-lucien-favre-wird-zum-koenigs-transfer-80175286.bild.html",
-      "image_title": "Borussia Mönchengladbach: Lucien Favre wird zum Königs-Transfer"
-    },
-    {
-      "title": "Sieben Verletzte : Massen-Karambolage im Saukopftunnel",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/sieben-verletzte-massenkarambolage-im-saukopftunnel-80175218.bild.html",
-      "image_title": "Sieben Verletzte: Massenkarambolage im Saukopftunnel"
-    },
-    {
-      "title": "Hochzeits-Queen Meike : Verheiratet sie bald auch Hunde?",
-      "teaser": "Der „Tüll und Tränen“-Star hat jetzt ein Hündchen an seiner Seite.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/hochzeits-queen-meike-kaffenberger-verheiratet-sie-bald-auch-hunde-80174358.bild.html",
-      "image_title": "Hochzeits-Queen Meike Kaffenberger: Verheiratet sie bald auch Hunde?"
-    },
-    {
-      "title": "Schock in Heppenheim : Teenager laufen mit Fleischerbeil durch die Stadt",
-      "teaser": "Schock am Sonntag: Jugendliche liefen vermummt und bewaffnet durch die Innenstadt.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/grosseinsatz-jugendliche-laufen-mit-fleischerbeil-durch-die-heppenheim-80173302.bild.html",
-      "image_title": "Großeinsatz: Jugendliche laufen mit Fleischerbeil durch Heppenheim"
-    },
-    {
-      "title": "Die Akte Osmani! : Die Jagd auf „Albaner-Toni“ beginnt",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/die-akte-osmani-auf-den-spuren-des-kokain-kartells-die-jagd-auf-albaner-toni-beg-80168074.bild.html",
-      "image_title": "Die Akte Osmani! Auf den Spuren des Kokain-Kartells: Die Jagd auf „Albaner-Toni“ beginnt"
-    },
-    {
-      "title": "2-Mio.-Spritze : Großes Glück für kleine Karine",
-      "teaser": "Eine Spritze kann das Leben von Karine (1) retten – doch der Kampf zieht sich seit Monaten.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/todkrankes-maedchen-bekommt-die-2-mio-spritze-grosses-glueck-fuer-kleine-karine-80167228.bild.html",
-      "image_title": "Todkrankes Mädchen bekommt die 2-Mio.-Spritze: Großes Glück für kleine Karine"
-    },
-    {
-      "title": "Heute gilt es! : Nur der HSV!",
-      "teaser": "Heute steht der Norden zusammen! Heute schießt sich der HSV wieder in die 1. Bundesliga!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/heute-gilt-es-nur-der-hsv-80168472.bild.html",
-      "image_title": "Heute gilt es: Nur der HSV!"
-    },
-    {
-      "title": "Landtagswahl im Oktober : Wird jetzt der Landtag zum Frauentag?",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/landtagswahl-platz-2-fuer-spd-ministerin-behrens-otte-kinast-cdu-spitze-wird-jet-80167244.bild.html",
-      "image_title": "Landtagswahl: Platz 2 für SPD-Ministerin Behrens, Otte-Kinast CDU-Spitze : Wird jetzt der Landtag zum Frauentag?"
-    },
-    {
-      "title": "Das wäre überraschend : Neue Chance für diesen 96-Flop?",
-      "teaser": "Die Erwartungen waren groß, die Leistungen klein. Der Abschied schien beschlossen.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/hannover-96-das-waere-ueberraschend-neue-chance-fuer-diesen-96-flop-80169290.bild.html",
-      "image_title": "Hannover 96: Das wäre überraschend! Neue Chance für diesen 96-Flop?"
-    },
-    {
-      "title": "96-Start ohne Leitl? : So reagiert Fürth-Boss Azzouzi",
-      "teaser": "Stefan Leitl droht weiterhin das Aus für den Trainingsstart bei Hannover 96.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/hannover-96-einigung-mit-fuerth-boss-rachid-azzouzi-wegen-stefan-leitl-80168506.bild.html",
-      "image_title": "Hannover 96: Einigung mit Fürth-Boss Rachid Azzouzi wegen Stefan Leitl?"
-    },
-    {
-      "title": "Internationaler Werbespot : Influencer zeigt, dass Jungs sich schminken dürfen",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/pinterest-werbespot-zeigt-die-schoenheit-von-make-up-maennern-80167592.bild.html",
-      "image_title": "Pinterest: Werbespot zeigt die Schönheit von Make-up-Männern"
-    },
-    {
-      "title": "Birgit von Bentzel trauert um Hengst : So lange hat es noch kein Mann mit mir ausgehalten",
-      "teaser": "Dieser Nachwuchs der Gräfin ist nicht blau- sondern warmblütig!",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/birgit-von-bentzel-trauert-um-hengst-so-lange-hat-es-kein-mann-mit-mir-ausgehalt-80170226.bild.html",
-      "image_title": "Birgit von Bentzel trauert um Hengst: „So lange hat es kein Mann mit mir ausgehalten“"
-    },
-    {
-      "title": "Überraschende Namen : Diese Stars stehen auf Kölns Einkaufsliste",
-      "teaser": "Köln auf Shopping-Tour. Mindestens 3 Neue sollen her. BILD weiß, wen der FC auf dem Zettel hat",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fc-koeln-ueberraschende-namen-diese-stars-stehen-auf-koelns-einkaufsliste-80170592.bild.html",
-      "image_title": "1. FC Köln: Überraschende Namen: Diese Stars stehen auf Kölns Einkaufsliste"
-    },
-    {
-      "title": "Mitarbeiter sollen Zuhause bleiben : Gigantisches Feuer wütet in Großbäckerei",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/bleicherode-sperrung-bis-zur-a38-grossbrand-in-thueringer-baeckerei-80173702.bild.html",
-      "image_title": "Bleicherode: Sperrung bis zur A38! Großbrand in Thüringer Bäckerei"
-    },
-    {
-      "title": "Zehntausende feiern die Bullen : Leipzigs wilde Pokal-Party",
-      "teaser": "ENDLICH gewann RB den 1. Titel – fast auf den Tag genau 13 Jahre nach der Vereinsgründung!",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/dfb-pokal-zehntausende-feiern-die-bullen-leipzigs-wilde-pokal-party-80172230.bild.html",
-      "image_title": "DFB-Pokal: Zehntausende feiern die Bullen – Leipzigs wilde Pokal-Party"
-    },
-    {
-      "title": "DHfK verliert 22:26 : Die Krisen-Serie setzt sich fort",
-      "teaser": "Die Krisen-Serie der DHfK-Handballer setzte sich fort. Das 22:26 daheim gegen den Bergischen HC war bereits die 5. Niederlage in Fol...",
-      "url": "https://www.bild.de/sport/regional-sport/regiosport-leipzig/sc-dhfk-verliert-22-26-die-krisen-serie-setzt-sich-fort-80170404.bild.html",
-      "image_title": "SC DHfK verliert 22:26: Die Krisen-Serie setzt sich fort"
-    },
-    {
-      "title": "Jetzt sind wir am Zug : DDR-ICE soll zurück aufs Gleis",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/eisenbhan-diese-maenner-bringen-den-ddr-ice-zurueck-aufs-gleis-80157774.bild.html",
-      "image_title": "Eisenbhan: Diese Männer bringen den DDR-ICE zurück aufs Gleis"
-    },
-    {
-      "title": "Polizei-Job aufgegeben : Ex-Kommissar macht als Berufstaucher Karriere",
-      "teaser": "Früher jagte er als Polizist kleine Fische, jetzt taucht er hinab zu gewaltigen Haien.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/tauchen-ex-kommissar-macht-als-berufstaucher-karriere-80161186.bild.html",
-      "image_title": "Tauchen: Ex-Kommissar macht als Berufstaucher Karriere"
-    },
-    {
-      "title": "Meck-Pomm : Spaziergänger mit Luftgewehr beschossen",
-      "teaser": "Bei einem Spaziergang wurde ein Mann im Park in Meck-Pomm mit einem Luftgewehr beschossen.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mit-luftgewehr-jugendlicher-schiesst-auf-spaziergaenger-in-meck-pomm-80153858.bild.html",
-      "image_title": "Polizei: Jugendlicher schießt auf Spaziergänger in Meck-Pomm"
-    },
-    {
-      "title": "Piloten überleben unverletzt : Crash mit Leichtflugzeugen aus Bayern",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/piloten-ueberleben-unverletzt-crash-mit-leichtflugzeugen-aus-bayern-80173460.bild.html",
-      "image_title": "Piloten überleben unverletzt: Crash mit Leichtflugzeugen aus Bayern"
-    },
-    {
-      "title": "Stürmischer Wochenstart : Regen und Gewitter in Bayern",
-      "teaser": "Es wird ungemütlich",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/stuermischer-wochenstart-regen-und-gewitter-in-bayern-80175160.bild.html",
-      "image_title": "Stürmischer Wochenstart: Regen und Gewitter in Bayern"
-    },
-    {
-      "title": "200-Kilometer-Korridor : Flugbeschränkungen bei G7-Gipfel",
-      "teaser": "Bayern bekommt während des G7-Gipfels auf Schloss Elmau Flugverbote.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/200-kilometer-korridor-flugbeschraenkungen-bei-g7-gipfel-80175082.bild.html",
-      "image_title": "200-Kilometer-Korridor: Flugbeschränkungen bei G7-Gipfel"
-    },
-    {
-      "title": "Mit Hunden und Heli : Suche nach Natalia Smolinska (28) geht weiter",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/suche-erfolglos-natalia-smolinska-28-vermisst-80126258.bild.html",
-      "image_title": "Mit Hunden und Heli: Suche nach Natalia Smolinska (28) geht weiter"
-    },
-    {
-      "title": "Unfall beim Klettern : Kletterer aus Bismarckgrotte gerettet",
-      "teaser": "Die Bergwacht hat am Wochenende einen Kletterer (29) aus der Bismarckgrotte gerettet.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/unfall-beim-klettern-kletterer-aus-bismarckgrotte-gerettet-80175432.bild.html",
-      "image_title": "Unfall beim Klettern: Kletterer aus Bismarckgrotte gerettet"
-    },
-    {
-      "title": "Charity-Tennis mit vielen Promis : „Brazzo“ spendet für Wiesn-Wirt Steinberg",
-      "teaser": "München – Eine echte Herzensangelegenheit! Wiesn-Wirt Günter Steinberg gründete vor elf Jahren seine Stiftung „s Münchner Herz\".",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/charity-tennis-mit-promis-brazzo-spendet-fuer-wiesn-wirt-steinberg-80173832.bild.html",
-      "image_title": "Charity-Tennis mit Promis: „Brazzo“ spendet für Wiesn-Wirt Steinberg"
-    },
-    {
-      "title": "In Paderborn und Lippstadt : Tornadofrei in Schulen und Kitas",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/paderborn-und-lippstadt-tornadofrei-in-schulen-und-kitas-80175250.bild.html",
-      "image_title": "Paderborn und Lippstadt: Tornadofrei in Schulen und Kitas"
-    },
-    {
-      "title": "Paar aus Marl : Unser Gartenhäuschen war ein Weltkriegs-Bunker",
-      "teaser": "Bei Monika und Bernhard Franzen gibt’s Geschichte mitten im Grünen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/marl-das-gartenhaeuschen-von-familie-franzen-war-ein-weltkriegs-bunker-80173364.bild.html",
-      "image_title": "Marl: Das Gartenhäuschen von Familie Franzen war ein Weltkriegs-Bunker"
-    },
-    {
-      "title": "Turnier 2023 : Essen bekommt (kleine) Fußball-WM",
-      "teaser": "In Essen steigt vom 9. bis 18. Juni 2023 die Weltmeisterschaft im Kleinfeld-Fußball.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/turnier-2023-essen-bekommt-kleine-fussball-wm-80174616.bild.html",
-      "image_title": "Turnier 2023: Essen bekommt (kleine) Fußball-WM"
-    },
-    {
-      "title": "Zoo-Direktor begeistert : Drei Hennen für Hahn Solo",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/zoo-direktor-begeistert-drei-hennen-fuer-hahn-solo-80170034.bild.html",
-      "image_title": "Zoo-Direktor begeistert: Drei Hennen für Hahn Solo"
-    },
-    {
-      "title": "Verboten! : Hände weg von diesen Urlaubs-Souvenirs",
-      "teaser": "Wenn jemand eine Reise tut, hat er viel zu erzählen. Manches Souvenir kann teuer werden.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/verboten-haende-weg-von-diesen-urlaubs-souvenirs-80169896.bild.html",
-      "image_title": "Verboten!: Hände weg von diesen Urlaubs-Souvenirs"
-    },
-    {
-      "title": "22 Anträge im Saarland : Landesregierung bläst zur Windenergie",
-      "teaser": "Die Landesregierung im Saarland setzt auf Windkraft. 22 neue Anlagen sind aktuell geplant.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/aktuell-22-antraege-landesregierung-blaest-zur-windenergie-80153058.bild.html",
-      "image_title": "22 Anträge im Saarland: Landesregierung bläst zur Windenergie"
-    },
-    {
-      "title": "Double & Doppelpack : Contehs Traum-Abschied beim 1. FC Magdeburg",
-      "url": "https://www.bild.de/sport/fussball/fussball/double-doppelpack-contehs-traum-abschied-beim-1-fc-magdeburg-80172108.bild.html",
-      "image_title": "Double & Doppelpack: Contehs Traum-Abschied beim 1. FC Magdeburg"
-    },
-    {
-      "title": "Weil er ihn als Klostein beschimpfte : Sherlock Holmes verklagt Trabi-Rolf",
-      "teaser": "Der Ex-Polizist, ein fast so bunter Vogel wie das hallesche Original, liefert sich mit diesem nun eine Justiz-Schlacht.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-sherlock-holmes-verklagt-trabi-rolf-80173038.bild.html",
-      "image_title": "Sachsen-Anhalt: Sherlock Holmes verklagt Trabi-Rolf"
-    },
-    {
-      "title": "32:22 in Hamburg : SCM hat drei Meister-Matchbälle",
-      "teaser": "Jetzt ist der Deutsche Meistertitel für die Handballer vom SC Magdeburg zum Greifen nah.",
-      "url": "https://www.bild.de/sport/mehr-sport/handball/32-22-in-hamburg-scm-hat-drei-meister-matchbaelle-80171322.bild.html",
-      "image_title": "32:22 in Hamburg: SCM hat drei Meister-Matchbälle"
-    },
-    {
-      "title": "AOK-Umfrage : Jede zweite Familie leidet unter Corona-Pandemie",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/aok-umfrage-jede-zweite-familie-leidet-unter-corona-pandemie-80175370.bild.html",
-      "image_title": "AOK-Umfrage: Jede zweite Familie leidet unter Corona-Pandemie"
-    },
-    {
-      "title": "Es wird ungemütlich : Gewitter zum Wochenstart in Ba-Wü",
-      "teaser": "Bis in den Vormittag soll es in Baden-Württemberg Starkregen geben.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/es-wird-ungemuetlich-gewitter-zum-wochenstart-in-ba-wue-80175264.bild.html",
-      "image_title": "Es wird ungemütlich: Gewitter zum Wochenstart in Ba-Wü"
-    },
-    {
-      "title": "Medizinischer Notfall : Sieben Verletzte bei Verkehrsunfall in Tunnel",
-      "teaser": "ieben Menschen sind bei einem Unfall im Saukopftunnel verletzt worden",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/medizinischer-notfall-sieben-verletzte-bei-verkehrsunfall-in-tunnel-80175128.bild.html",
-      "image_title": "Medizinischer Notfall: Sieben Verletzte bei Verkehrsunfall in Tunnel"
-    },
-    {
-      "title": "Herr Buchholz hebt ab! : Rentner startet Thüringens erstes Telefon-Museum",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/jena-rentner-startet-thueringens-erstes-telefon-museum-80173128.bild.html",
-      "image_title": "Jena: Rentner startet Thüringens erstes Telefon-Museum"
-    },
-    {
-      "title": "Einige Baustellen : Beim Pokalsieger stockt die Kaderplanung",
-      "teaser": "Carl Zeiss ist Landespokalsieger! Das Finale gegen Meuselwitz gewann man 1:0.",
-      "url": "https://www.bild.de/sport/fussball/fussball/carl-zeiss-jena-beim-pokalsieger-stockt-die-kaderplanung-80171092.bild.html",
-      "image_title": "Carl Zeiss Jena: Beim Pokalsieger stockt die Kaderplanung"
-    },
-    {
-      "title": "Sammlermarkt : Start für Puppenfestival in Neustadt",
-      "teaser": "An diesem Sonntag beginnt in Neustadt bei Coburg das internationale Puppenfestival.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/sammlermarkt-start-fuer-puppenfestival-in-neustadt-80166430.bild.html",
-      "image_title": "Sammlermarkt: Start für Puppenfestival in Neustadt"
-    }
-  ]
+  "articles": []
 }
