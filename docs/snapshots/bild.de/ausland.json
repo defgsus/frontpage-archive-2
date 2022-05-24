@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-24T16:33:52",
+  "timestamp": "2022-05-24T17:27:40",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Neugeborenes lag zwischen Fässern : Mutter setzt Baby in Industriegebiet aus",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mutter-setzt-baby-in-spanien-einfach-aus-80195520.bild.html",
-      "image_url": "https://images.bild.de/628cf4cfc166364f54f9ab3a/bf3d885967e57f178b02f9df9b1ca6e1/2/2?w=656",
-      "image_title": "Mutter setzt Baby in Spanien einfach aus"
-    },
-    {
-      "title": "Kopfüber in Mini-Becken : Brite (19) bei Pool-Sprung auf Malle schwer verletzt",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-unfall-in-magaluf-brite-19-springt-kopfueber-in-50-zentimeter-tiefen-po-80191596.bild.html",
-      "image_url": "https://images.bild.de/628cca5c277f7042b71a7644/a774eb7b79d9f5ae62089b21f94613d1-miniSquare/Kennung_Symbolfoto,a48fb0ac?w=320",
-      "image_title": "Mallorca: Unfall in Magaluf! Brite (19) springt kopfüber in 50 Zentimeter tiefen Pool"
-    },
-    {
-      "title": "Kegelbrüder fackelten Bar ab : Die Malle-Zündler haben unseren Traum zerstört",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-bar-abgefackelt-die-zuendler-haben-unseren-traum-zerstoert-80188256.bild.html",
-      "image_url": "https://images.bild.de/628c9d2ac166364f54f9aa11/f884f6ea9250c09e23c7761c58846045-miniSquare/1/2?w=320",
-      "image_title": "Feuer in Mallorca-Bar: Die Kegelbrüder haben unseren Traum zerstört"
-    },
-    {
-      "title": "Weltpremiere mit Deepfake-Video : Mordopfer sucht selbst nach seinem Mörder",
-      "url": "https://www.bild.de/news/ausland/news-ausland/weltpremiere-mit-deepfake-video-mordopfer-sucht-selbst-nach-seinem-moerder-80187570.bild.html",
-      "image_url": "https://images.bild.de/628c8afc6211895750ca4bee/ac368c249bb8936aa5f8678320156524-miniSquare/2/2?w=320",
-      "image_title": "Weltpremiere mit Deepfake-Video: Mordopfer sucht selbst nach seinem Mörder"
-    },
-    {
-      "title": "Käfigkämpfer ohne Käfig : BILD beim verbotenen Fight Club vor den Toren Roms",
-      "url": "https://www.bild.de/bild-plus/news/ausland/muenchen-aktuell/bild-war-dabei-groesster-fight-club-der-welt-trifft-sich-in-rom-80167686.bild.html",
-      "image_title": "Käfigkämpfer ohne Käfig : BILD beim verbotenen Fight Club vor den Toren Roms"
-    },
-    {
-      "title": "Ballermann-Bar abgefackelt : 13 Kegelbrüder sitzen und schweigen – Was ihnen droht",
-      "teaser": "Herausgeputzt im Shirt ihres Kegelclubs und mit Dosenbier in der Hand posierte die Sufftruppe für ein Gruppenbild an der Playa",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/ballermann-bar-abgefackelt-hobby-keglern-drohen-bis-zu-10-jahre-haft-80185620.bild.html",
-      "image_title": "Mallorca-Bar abgefackelt ++ Kegelbrüder weiter in Haft – Was ihnen droht"
-    },
-    {
-      "title": "Mit mehreren Schüssen : US-Yogalehrerin tötet Liebes-Rivalin",
-      "teaser": "Eine Yoga-Lehrerin aus den USA soll Moriah Wilson (†25) mit mehreren Schüssen getötet haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-yoga-lehrerin-toetet-liebes-rivalin-mit-mehreren-schuessen-80184662.bild.html",
-      "image_title": "USA: Yogalehrerin tötet Liebes-Rivalin mit mehreren Schüssen"
-    },
-    {
-      "title": "„Wollten am Samstag eröffnen“ : Sauf-Kegelbrüder haben meinen Malle-Puff zerstört",
-      "teaser": "Silverio Mendo ist am Boden zerstört: Sein Bordell auf Mallorca ist zerstört. 13 Deutsche sind in U-Haft.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-feuer-zerstoerte-seine-existenz-wollten-am-samstag-eroeffnen-80181088.bild.html",
-      "image_title": "Mallorca-Feuer zerstörte seine Existenz: „Wollten am Samstag eröffnen“"
-    },
-    {
-      "title": "Scherben eingesteckt : Berliner im irakischen Horror-Knast",
-      "teaser": "Ein deutscher Tourist steckte antike Keramikscherben ein und könnte mit dem Leben bezahlen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/er-steckte-scherben-und-steine-ein-berliner-im-irakischen-horror-knast-80184344.bild.html",
-      "image_title": "Er steckte Scherben und Steine ein: Berliner im irakischen Horror-Knast"
-    },
-    {
-      "title": "Dutzende verschüttet : Mindestens 4 Tote nach Hochhaus-Einsturz im Iran",
-      "teaser": "Mindestens vier Tote und dutzende Verschüttete nach einem Hochhaus-Einsturz im Iran.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hochhaus-bricht-im-iran-zusammen-mindestens-vier-tote-80180166.bild.html",
-      "image_title": "Hochhaus stürzt im Iran ein – mindestens vier Tote"
-    },
-    {
-      "title": "Kegel-Brüder auf Mallorca : Gerade gelandet – da brannte schon die Bar",
-      "teaser": "Sie wollten feiern und landeten im Knast von Mallorca.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/kegel-brueder-waren-erst-wenige-stunden-auf-mallorca-gerade-erst-gelandet-da-bra-80176432.bild.html",
-      "image_title": "Mallorca: Kegelbrüder gerade erst im Hotel, da brannte die Bar schon"
-    },
-    {
-      "title": "13 Deutsche in U-Haft : Schnippten Malle-Touris Kippen von diesem Balkon?",
-      "teaser": "Sie feierten ihren Urlaub – und sollen dabei eine Bar auf Mallorca abgefackelt haben!",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/bar-abgefackelt-von-diesem-balkon-sollen-die-kippen-geflogen-sein-80170692.bild.html",
-      "image_title": "Bar abgefackelt: Von diesem Balkon sollen die Kippen geflogen sein"
-    },
-    {
-      "title": "30 Jahre Knast drohen : Polizistin quält ihre Kinder mit Elektroschocker",
-      "teaser": "Dem Ex-Cop Xochitl Ortiz drohen bis zu 30 Jahre Gefängnis in den USA.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/polizistin-aus-den-usa-quaelt-ihre-drei-kinder-mit-elektroschocker-80171282.bild.html",
-      "image_title": "Polizistin aus den USA quält ihre drei Kinder mit Elektroschocker"
-    },
-    {
-      "title": "Unfall in Österreich : Auto fliegt in 1. Stock – ein Toter!",
-      "teaser": "Der vollbesetzte Wagen war wohl mit erhöhter Geschwindigkeit unterwegs.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unfall-in-oesterreich-auto-fliegt-in-1-stock-ein-toter-80171254.bild.html",
-      "image_title": "Unfall in Österreich: Auto fliegt in 1. Stock – ein Toter!"
-    },
-    {
-      "title": "Er hing im Baum fest : Bienenschwarm fällt über Familienvater her – tot!",
-      "teaser": "In den USA hat ein wütender Bienenschwarm einen Zweifach-Vater tot gestochen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bienen-stechen-familienvater-in-den-usa-tot-80169408.bild.html",
-      "image_title": "Bienen stechen Familienvater in den USA tot"
-    },
-    {
-      "title": "Sieben Tage verschollen : Deutsche Oma (75) aus Thai-Dschungel gerettet",
-      "teaser": "Eine deutsche Thailand-Touristin ist nach siebentägiger Suche lebend gefunden worden.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/thailand-deutsche-touristin-75-war-sieben-tage-verschollen-lebend-gerettet-80102792.bild.html",
-      "image_title": "Thailand: Deutsche Touristin (75) aus Urwald gerettet"
-    },
-    {
-      "title": "Ältester Mann verrät : Das sind meine Geheimnisse für ein langes Leben",
-      "teaser": "Pérez hat 11 Kinder, 41 Enkel, 18 Urenkel, 12 Ururenkel – und kann sich alle Namen merken.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/aeltester-mann-der-welt-verraet-das-sind-meine-geheimnisse-fuer-ein-langes-leben-80166352.bild.html",
-      "image_title": "Ältester Mann der Welt verrät: Das sind meine Geheimnisse für ein langes Leben"
-    },
-    {
-      "title": "Unfall bei Probe : Tribüne eingestürzt! Verletzte bei Queen-Parade",
-      "teaser": "Auf einem der Zuschauerränge soll plötzlich der Boden eingebrochen sein.",
-      "url": "https://www.bild.de/unterhaltung/royals/news-ausland/unfall-in-london-verletzte-bei-queen-parade-tribuene-eingestuerzt-80162806.bild.html",
-      "image_title": "Unfall in London: Verletzte bei Queen-Parade – Tribüne eingestürzt"
-    },
-    {
-      "title": "Er könnte im Knast sterben : Horror-Fanatiker erschlägt Studentin mit Hammer",
-      "teaser": "Das Gericht hat den Täter zu einer lebenslangen Haftstrafe verurteilt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mord-in-england-horror-fanatiker-erschlaegt-studentin-18-mit-hammer-80154478.bild.html",
-      "image_title": "Mord in England: Horror-Fanatiker erschlägt Studentin (†18) mit Hammer"
-    },
-    {
-      "title": "Ehemann verriet sie : Lehrerin nach Sex mit Schülerin (17) im Knast",
-      "teaser": "In den USA ist eine 26 Jahre alte Lehrerin festgenommen worden, weil sie Sex mit einer 17-jährigen Schülerin gehabt haben soll. Das ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-chorleiterin-sitzt-nach-sex-mit-schuelerin-17-im-gefaengnis-80155282.bild.html",
-      "image_title": "USA: Chorleiterin sitzt nach Sex mit Schülerin (17) im Gefängnis"
-    },
-    {
-      "title": "Heute 106 Mio-Jackpot! : So happy können Zufalls-Zahlen machen",
-      "teaser": "Diese Eurojackpot-Ziehung wird historisch: Heute gehts in der Gewinnklasse 1 um rund 106 Mio. Euro.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/heute-106-mio-jackpot-so-happy-koennen-zufalls-zahlen-machen-80148324.bild.html",
-      "image_title": "Heute 106 Mio.-Jackpot! So happy können Zufalls-Zahlen machen"
-    },
-    {
-      "title": "Geburt im Flugzeug : Die kleine Sky kam über den Wolken zur Welt",
-      "teaser": "Friedlich schläft die kleine Sky – und weiß gar nicht, für was für einen Wirbel sie verursacht hat.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-die-kleine-sky-kam-im-flugzeug-zur-welt-80153628.bild.html",
-      "image_title": "USA: Die kleine Sky kam im Flugzeug zur Welt"
-    },
-    {
-      "title": "Tragödie in Frankreich : Familie von Welle weggespült – drei Tote",
-      "teaser": "Ein Elternpaar ist mit seinem Sohn am Donnerstag von einer Welle erfasst worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/tragoedie-in-frankreich-familie-von-welle-weggespuelt-eltern-und-sohn-12-tot-80148782.bild.html",
-      "image_title": "Tragödie in Frankreich: Familie von Welle weggespült – Eltern und Sohn (12) tot"
-    },
-    {
-      "title": "Türkei-Tragödie : Mann (23) ertrinkt, als er „Titanic“-Szene nachspielt",
-      "teaser": "In der Türkei ist ein junger Mann ertrunken, weil er eine Filmszene nachspielen wollte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/tuerkei-mann-23-ertrinkt-weil-er-titanic-szene-nachspielen-wollte-80123016.bild.html",
-      "image_title": "Türkei: Mann (23) ertrinkt, weil er „Titanic“-Szene nachspielen wollte"
-    },
-    {
-      "title": "Sprung ins Publikum : Rodeo-Bulle verletzt Zuschauer",
-      "url": "https://www.bild.de/video/clip/video/sprung-ins-publikum-rodeo-bulle-verletzt-zuschauer-80195746,auto=true.bild.html",
-      "image_title": "Sprung ins Publikum: Rodeo-Bulle verletzt Zuschauer"
-    },
-    {
-      "title": "Heftige Kämpfe im Donbass : Ukrainische Artillerie zerstört russischen Munitions-Lkw",
-      "url": "https://www.bild.de/video/clip/video/heftige-kaempfe-im-donbass-ukrainische-artillerie-zerstoert-russischen-munitions-80189440,auto=true.bild.html",
-      "image_title": "Heftige Kämpfe im Donbass: Ukrainische Artillerie zerstört russischen Munitions-Lkw"
-    },
-    {
-      "title": "Mit Deepfake-Video : Mordopfer sucht selbst nach seinem Mörder",
-      "url": "https://www.bild.de/video/clip/video/mit-deepfake-video-mordopfer-sucht-selbst-nach-seinem-moerder-80187926,auto=true.bild.html",
-      "image_title": "Mit Deepfake-Video: Mordopfer sucht selbst nach seinem Mörder"
-    }
-  ]
+  "articles": []
 }
