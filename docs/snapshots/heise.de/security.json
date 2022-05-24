@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-24T09:27:32",
+  "timestamp": "2022-05-24T10:24:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zyxel",
+      "url": "https://www.heise.de/news/Zyxel-Luecken-in-Access-Points-Access-Point-Controllern-und-Firewalls-7108626.html"
+    },
+    {
       "title": "Firefox, Thunderbird",
       "url": "https://www.heise.de/news/Firefox-Thunderbird-Kritische-Luecken-aus-Hacker-Wettbewerb-Pwn2Own-geschlossen-7104037.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Oracle-warnt-vor-Sicherheitsluecke-in-E-Business-Suite-7102875.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Cisco-8000-Series-Router-7102828.html"
+      "title": "Cybercrime: Ransomware-Gruppe Conti löst sich auf und erfindet sich neu",
+      "teaser": "Die \"zerstörerischste Ransomware\" soll verschwinden; der Angriff auf Costa Rica ist offenbar nur das Grande Finale. Doch im Hintergrund wird weiter erpresst.",
+      "url": "https://www.heise.de/news/Cybercrime-Ransomware-Gruppe-Conti-loest-sich-auf-und-erfindet-sich-neu-7103998.html"
+    },
+    {
+      "title": "Zyxel: Lücken in Access-Points, Access-Point-Controllern und Firewalls",
+      "teaser": "Der Netzwerkausrüster Zyxel warnt vor mehreren Sicherheitslücken in den Access-Points, Access-Point-Controllern sowie Firewalls. Updates sind verfügbar.",
+      "url": "https://www.heise.de/news/Zyxel-Luecken-in-Access-Points-Access-Point-Controllern-und-Firewalls-7108626.html",
+      "image_title": "Aufmacher Zyxel Sicherheitsupdates"
     },
     {
       "title": "Außer der Reihe: Microsoft behebt Authentifizierungsfehler mit neuen Updates",
@@ -60,6 +71,11 @@
       "image_title": "Aufmacher Oracle-SIcherheitslücke E-Business-Suite"
     },
     {
+      "title": "Energiebilanz von Rechenzentren: Besser als Sie denken!",
+      "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
+    },
+    {
       "title": "Jetzt patchen! Angreifer attackieren Cisco 8000 Series Router",
       "teaser": "Der Netzwerkausrüster Cisco hat Sicherheitsupdates für verschiedene Netzwerk-Komponenten veröffentlicht.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Cisco-8000-Series-Router-7102828.html"
@@ -68,11 +84,6 @@
       "title": "Schweiz will Bundesamt für Cybersicherheit etablieren",
       "teaser": "Die Schweizer Regierung will die Kräfte gegen Cyberangriffe stärken und bündeln. Aus dem Nationalen Zentrum für Cybersicherheit soll ein Bundesamt werden.",
       "url": "https://www.heise.de/news/Schweiz-will-Bundesamt-fuer-Cybersicherheit-etablieren-7102433.html"
-    },
-    {
-      "title": "Energiebilanz von Rechenzentren: Besser als Sie denken!",
-      "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
     },
     {
       "title": "Putin: Mehr Cyberattacken gegen Russland beklagt",
@@ -151,17 +162,6 @@
       "teaser": "Bei einem Cyberangriff auf die TU Berlin kam es im vergangenen Jahr zu monatelangen IT-Ausfällen. Hunderte Dateien mit vertraulichen Inhalten wurden gestohlen.",
       "url": "https://www.heise.de/news/Zahlreiche-persoenliche-Daten-bei-Hackerangriff-auf-TU-Berlin-in-2021-gestohlen-7098997.html",
       "image_title": "Aufmacher Resumeé Hackerangriff TU Berlin 2021"
-    },
-    {
-      "title": "Cyber-Sicherheitsbehörden sammeln regelmäßig ausgenutzte Fehler in IT-Sicherheit",
-      "teaser": "Internationale IT-Sicherheitsbehörden listen die am häufigsten missbrauchten Fehler bei der Umsetzung von IT-Sicherheit. Sie benennen aber auch Lösungen.",
-      "url": "https://www.heise.de/news/Cyber-Sicherheitsbehoerden-sammeln-regelmaessig-ausgenutzte-Fehler-in-IT-Sicherheit-7098636.html",
-      "image_title": "Aufmacher IT-Behörden listen meistmissbrauchste Sicherheits-Schwächen"
-    },
-    {
-      "title": "Assured OSS: Google verspricht sichere Open-Source-Software",
-      "teaser": "Der neue Service Assured Open Source Software liefert Pakete, die Google ausgiebig getestet hat und im eigenen Entwicklungsprozess verwendet.",
-      "url": "https://www.heise.de/news/Google-verspricht-sichere-Open-Source-Software-7098205.html"
     },
     {
       "title": "heise Security Tour 2022",
