@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-24T15:24:21",
+  "timestamp": "2022-05-24T16:34:00",
   "url": "https://www.bild.de/unterhaltung/kino/kino/home-15697512.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Hollywood-Star bei den Filmfestspielen : Cannes im Cruise-Fieber!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/75-internationale-filmfestspiele-cannes-im-cruise-fieber-80133370.bild.html",
-      "image_url": "https://images.bild.de/628531a46211895750ca435d/d87653add7e10186c58b0e984e8b3e8f/1/2?w=656",
-      "image_title": "75. Internationale Filmfestspiele: Cannes im Cruise-Fieber!"
-    },
-    {
-      "title": "„Dog – Das Glück hat vier Pfoten“ : Auf den Hund gekommen",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/dog-das-glueck-hat-vier-pfoten-auf-den-hund-gekommen-80125014.bild.html",
-      "image_url": "https://images.bild.de/6284b358277f7042b71a6bbc/8ee08df0a158eaa76b891a74f66d9ad7-miniSquare/1/2?w=320",
-      "image_title": "„Dog – Das Glück hat vier Pfoten“: Auf den Hund gekommen"
-    },
-    {
-      "title": "„X“ : Massaker beim Pornodreh",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/x-massaker-beim-pornodreh-80125144.bild.html",
-      "image_url": "https://images.bild.de/6284b55bf85e37084d184042/9264ce08401021c8962f6fb6bda3722a-miniSquare/1/3?w=320",
-      "image_title": "„X“: Massaker beim Pornodreh"
-    },
-    {
-      "title": "„Leander Haussmanns Stasikomödie“ : Die Stasi, ein Witzverein",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/leander-haussmanns-stasikomoedie-die-stasi-ein-witzverein-80125258.bild.html",
-      "image_url": "https://images.bild.de/6284b82af85e37084d18404a/389db53193ccb6dce52c46d5f56ae115-miniSquare/1/2?w=320",
-      "image_title": "„Leander Haussmanns Stasikomödie“: Die Stasi, ein Witzverein"
-    },
-    {
-      "title": "„Gladiator“-Star : Ralf Moeller trauert um seinen Vater († 93)",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/trauer-beim-gladiator-star-ralf-moellers-vater-93-ist-tot-80129848.bild.html",
-      "image_url": "https://images.bild.de/6284f2fe6211895750ca42bc/82df55c19ada00210ce05c069148054f-miniSquare/1/2?w=320",
-      "image_title": "Trauer beim „Gladiator“-Star: Ralf Moellers Vater († 93) ist tot"
-    },
-    {
-      "title": "Filmfestspiele von Cannes eröffnet : Glanz und Glamour sind zurück!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/filmfestspiele-von-cannes-eroeffnet-glanz-und-glamour-sind-zurueck-80120730.bild.html",
-      "image_title": "Filmfestspiele von Cannes eröffnet: Glanz und Glamour sind zurück!"
-    },
-    {
-      "title": "KING RICHARD : Tolles Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Heimkino-Start von KING RICHARD ein tolles Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/king-richard-tolles-fan-paket-ersteigern-80097120.bild.html",
-      "image_title": "KING RICHARD: Tolles Fan-Paket ersteigern"
-    },
-    {
-      "title": "DIE GANGSTER GANG : Kuscheliges Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Heimkino-Start von DIE GANGSTER GANG ein tolles Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/die-gangster-gang-kuscheliges-fan-paket-ersteigern-80097530.bild.html",
-      "image_title": "DIE GANGSTER GANG: Kuscheliges Fan-Paket ersteigern"
-    },
-    {
-      "title": "Im Kino: „Firebird“ : Eine verbotene Liebe unter russischen Soldaten",
-      "teaser": "Mit seinem Spielfilmdebüt ist Regisseur Peeter Rebane ein packendes Melodrama gelungen.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/im-kino-firebird-eine-verbotene-liebe-unter-russischen-soldaten-80099906.bild.html",
-      "image_title": "Im Kino: „Firebird“: Eine verbotene Liebe unter russischen Soldaten"
-    },
-    {
-      "title": "Neuer Jet, neue Kniffe : Die 5 Top-Geheimnisse von „Top Gun“",
-      "teaser": "Die „Top Gun“-Fortsetzung „Maverick“ ist der Kino-Kracher des Jahres!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/top-gun-die-5-top-geheimnisse-neuer-jet-neue-kniffe-und-ein-ewig-junger-cruise-80078824.bild.html",
-      "image_title": "„Top Gun“ – die 5 Top-Geheimnisse: Neuer Jet, neue Kniffe und ein ewig-junger Cruise..."
-    },
-    {
-      "title": "Deutscher Filmpreis : „Große Freiheit“ räumt acht Nominierungen ab",
-      "teaser": "Das Homosexuellen-Drama von Sebastian Meise ist damit einer der Favoriten.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/deutscher-filmpreis-grosse-freiheit-raeumt-acht-nominierungen-ab-80080734.bild.html",
-      "image_title": "Deutscher Filmpreis: „Große Freiheit“ räumt acht Nominierungen ab"
-    },
-    {
-      "title": "3. Staffel „Das Boot“ : Neues Boot, alte Probleme",
-      "teaser": "Die Fahrt geht weiter. „Das Boot“ kehrt zurück. Eintauchen, abtauchen in eine tolle Serie.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/3-staffel-das-boot-sky-neues-boot-alte-probleme-80049648.bild.html",
-      "image_title": "3. Staffel „Das Boot“ (Sky): Neues Boot, alte Probleme"
-    },
-    {
-      "title": "„Heinrich Vogeler“ : Hommage an einen verirrten Künstler",
-      "teaser": "Heinrich Vogeler (1872–1942) war Maler, Landschaftsarchitekt und noch viel mehr.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/heinrich-vogeler-aus-dem-leben-eines-traeumers-hommage-an-einen-kuenstler-80049864.bild.html",
-      "image_title": "„Heinrich Vogeler – Aus dem Leben eines Träumers“: Hommage an einen Künstler"
-    },
-    {
-      "title": "„Meine schrecklich verwöhnte Familie“ : Sucht euch endlich Arbeit!",
-      "teaser": "Fans französischer Gesellschaftssatiren bekommen mit diesem Film neue Kino-Kost.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/meine-schrecklich-verwoehnte-familie-sucht-euch-endlich-arbeit-80049956.bild.html",
-      "image_title": "„Meine schrecklich verwöhnte Familie“: Sucht euch endlich Arbeit!"
-    },
-    {
-      "title": "Jack Kehler stirbt mit 75 : Der Vermieter aus „The Big Lebowski“ ist tot",
-      "teaser": "Der US-Schauspieler Jack Kehler ist an den Folgen einer Leukämie-Erkrankung gestorben.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/us-schauspieler-jack-kehler-ist-tot-trauer-um-vermieter-marty-aus-the-big-lebows-80033738.bild.html",
-      "image_title": "US-Schauspieler Jack Kehler ist tot: Trauer um Vermieter Marty aus „The Big Lebowski“"
-    },
-    {
-      "title": "„Avatar 2“-Trailer : So geil sah Kino noch nie aus",
-      "teaser": "Endlich: Der erste Trailer zur „Avatar“-Forsetzung „Der Weg des Wassers“ ist da.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/avatar-2-so-geil-sah-kino-noch-nie-aus-80030258.bild.html",
-      "image_title": "„Avatar 2“-Trailer nach 13 Jahren Warten: So geil sah Kino noch nie aus"
-    },
-    {
-      "title": "Im Musikvideo zum Film : „Top Gun“-Stunt völlig GAGA",
-      "teaser": "Lady Gaga singt nicht nur für „Top Gun“, sie bringt sich fürs Musikvideo auch in Gefahr.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/lady-gaga-ihr-top-gun-stunt-ist-voellig-irre-80016116.bild.html",
-      "image_title": "Lady Gaga: Ihr „Top Gun“-Stunt ist völlig irre"
-    },
-    {
-      "title": "„Die Biene Maja: Das geheime Königreich“ : Da summt sich was zusammen",
-      "teaser": "Seit 110 Jahren summt Biene Maja nun schon durch Bücher, Comics und Filme.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/die-biene-maja-das-geheime-koenigreich-da-summt-sich-was-zusammen-79974868.bild.html",
-      "image_title": "„Die Biene Maja: Das geheime Königreich“: Da summt sich was zusammen"
-    },
-    {
-      "title": "„Dr. Strange 2“ : Ein Universum ist nicht genug",
-      "teaser": "Fünf Jahre nach seinem Einstand kehrt Benedict Cumberbatch (45) als Dr. Strange zurück.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/dr-strange-in-the-universe-of-madness-ein-universum-ist-nicht-genug-79974560.bild.html",
-      "image_title": "„Dr. Strange in the Universe of Madness“: Ein Universum ist nicht genug"
-    },
-    {
-      "title": "„Liftoff – Mit dir zum Mars“ : Verliebt im Weltraum",
-      "teaser": "In dieser Sci-Fi-Romanze verlieben sich Cole Sprouse (29) und Lana Condor (24) ineinander.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/liftoff-mit-dir-zum-mars-verliebt-im-weltraum-79974682.bild.html",
-      "image_title": "„Liftoff – Mit dir zum Mars“: Verliebt im Weltraum"
-    },
-    {
-      "title": "DOCTOR STRANGE 2 : Einmaliges Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Kino-Start von DOCTOR STRANGE 2 ein tolles Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/doctor-strange-2-einmaliges-fan-paket-ersteigern-79955782.bild.html",
-      "image_title": "DOCTOR STRANGE 2: Einmaliges Fan-Paket ersteigern"
-    },
-    {
-      "title": "Geheimnisse vom Set : SO endet „Downton Abbey 2“!",
-      "teaser": "Hier geht’s um die laut Guinness-Buch „bestbewertete Serie der Welt“.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/kino/kino/downton-abbey-2-hugh-bonneville-michelle-dockery-lueften-geheimnisse-79927544.bild.html",
-      "image_title": "Downton Abbey 2: Hugh Bonneville & Michelle Dockery lüften Geheimnisse"
-    },
-    {
-      "title": "In Saudi Arabien : Disney soll „LGBT-Hinweise“ im Marvel-Film canceln",
-      "teaser": "Marvels neuester Superheldenfilm „Dr. Strange 2“ sorgt im Wüstenstaat für Aufregung.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/saudi-arabien-disney-soll-lgbt-hinweise-in-marvel-film-canceln-79926556.bild.html",
-      "image_title": "Saudi Arabien: Disney soll „LGBT-Hinweise“ in Marvel-Film canceln"
-    },
-    {
-      "title": "Wasser marsch! : Darauf haben „Avatar“-Fans 13 Jahre gewartet!",
-      "teaser": "2009 eroberte „Avatar“ die Kinos im Sturm. Jetzt kommt endlich der zweite Teil.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/avatar-2-darauf-haben-film-fans-13-jahre-gewartet-79910014.bild.html",
-      "image_title": "„Avatar 2“: DARAUF haben Film-Fans 13 Jahre gewartet!"
-    },
-    {
-      "title": "Bullock über Radcliffe : „Ich hätte Daniel umgebracht, wenn er…“",
-      "teaser": "Daniel Radcliffe und Sandra Bullock standen für „The Lost City“ gemeinsam vor der Kamera.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/sandra-bullock-ueber-daniel-radcliffe-ich-haette-ihn-umgebracht-wenn-er-79896092.bild.html",
-      "image_title": "Sandra Bullock über Daniel Radcliffe: „Ich hätte ihn umgebracht, wenn er …“"
-    },
-    {
-      "title": "Der Filmtrailer : „Top Gun Maverick“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-top-gun-maverick-80136530,auto=true.bild.html",
-      "image_title": "Der Filmtrailer: „Top Gun Maverick“"
-    },
-    {
-      "title": "Der Filmtrailer : „Die Täuschung“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-die-taeuschung-80136694,auto=true.bild.html",
-      "image_title": "Der Filmtrailer: „Die Täuschung“"
-    },
-    {
-      "title": "Der Filmtrailer : „Alles in bester Ordnung “",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-alles-in-bester-ordnung-80136750,auto=true.bild.html",
-      "image_title": "Der Filmtrailer: „Alles in bester Ordnung “"
-    }
-  ]
+  "articles": []
 }
