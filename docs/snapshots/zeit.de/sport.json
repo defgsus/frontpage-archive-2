@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-24T11:19:04",
+  "timestamp": "2022-05-24T12:45:10",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Fußball-Bundesliga: Niko Kovač wird Trainer beim VfL Wolfsburg",
+      "teaser": "Der ehemalige Bayern-Trainer kehrt in die Fußball-Bundesliga zurück. Die Mannschaft des VfL Wolfsburg verfüge über \"enormes Potenzial\", sagt Kovač.",
+      "url": "https://www.zeit.de/sport/2022-05/niko-kovac-vfl-wolfsburg-bundesliga",
+      "image_url": "https://img.zeit.de/sport/2022-05/niko-kovac-wolfsburg/cinema__980x420"
+    },
+    {
       "title": "Asylrecht: Bis Ende des Monats muss er raus",
       "teaser": "Juma Hamisi verlor als Schüler ein Bein, wurde Rollstuhltennisspieler und floh nach Deutschland. Nun droht ihm die Abschiebung in ein Land, in dem er noch nie war.",
       "url": "https://www.zeit.de/sport/2022-05/kirchenasyl-abschiebung-deutschland-rollstuhltennisspieler",
-      "image_url": "https://img.zeit.de/sport/2022-05/kirchenasyl-abschiebung-deutschland-16/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-05/kirchenasyl-abschiebung-deutschland-16/wide__822x462",
+      "image_title": "Asylrecht: Bis Ende des Monats muss er raus"
     },
     {
       "title": "Bundesliga: Hertha-Präsident Werner Gegenbauer tritt zurück",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/sport/2022-05/hertha-bsc-werner-gegenbauer-ruecktritt",
       "image_url": "https://img.zeit.de/sport/2022-05/hertha-bsc-werner-gegenbauer-ruecktritt-2/wide__822x462",
       "image_title": "Bundesliga: Hertha-Präsident Werner Gegenbauer tritt zurück"
-    },
-    {
-      "title": "Bundesligarelegation: Wenig Fußball, viel Leidenschaft",
-      "teaser": "Was genügt heute, um von Fans überschwänglich gefeiert zu werden? Eine große Blamage zu verhindern. Über den sportlich dürftigen Klassenerhalt der Hertha gegen den HSV",
-      "url": "https://www.zeit.de/sport/2022-05/hsv-hertha-bsc-relegation-felix-magath",
-      "image_url": "https://img.zeit.de/sport/2022-05/hsv-hertha-bsc-relegation-felix-magath-bild/wide__822x462",
-      "image_title": "Bundesligarelegation: Wenig Fußball, viel Leidenschaft"
     },
     {
       "title": "Bundesliga: Hier stimmt was nicht!",
@@ -96,6 +96,13 @@
       "image_title": "BFC Dynamo: Der Mythos des Schiebermeisters"
     },
     {
+      "title": "Bundesligarelegation: Wenig Fußball, viel Leidenschaft",
+      "teaser": "Was genügt heute, um von Fans überschwänglich gefeiert zu werden? Eine große Blamage zu verhindern. Über den sportlich dürftigen Klassenerhalt der Hertha gegen den HSV",
+      "url": "https://www.zeit.de/sport/2022-05/hsv-hertha-bsc-relegation-felix-magath",
+      "image_url": "https://img.zeit.de/sport/2022-05/hsv-hertha-bsc-relegation-felix-magath-bild/wide__822x462",
+      "image_title": "Bundesligarelegation: Wenig Fußball, viel Leidenschaft"
+    },
+    {
       "title": "Relegation: Hertha BSC bleibt in der Bundesliga, HSV verpasst Aufstieg",
       "teaser": "Mit einem 2:0 beim Hamburger SV kann Hertha BSC die Hinspielniederlage wettmachen und bleibt erstklassig. Trainer Felix Magath wird die Berliner trotzdem verlassen.",
       "url": "https://www.zeit.de/sport/2022-05/hertha-bsc-bleibt-in-der-bundesliga-hsv-verpasst-aufstieg",
@@ -110,13 +117,6 @@
       "image_title": "Fußballbundesliga: Edin Terzić wird erneut Trainer von Borussia Dortmund"
     },
     {
-      "title": "Premier League: Der einmalige Guardiola",
-      "teaser": "Das dramatische Meisterrennen der Premier League zeigt: Geld und Fußball, das kann gut funktionieren. Und wieder heißt der Sieger Pep Guardiola.",
-      "url": "https://www.zeit.de/sport/2022-05/premier-league-pep-guardiola-manchester-city",
-      "image_url": "https://img.zeit.de/sport/2022-05/pep-guardiola/wide__822x462",
-      "image_title": "Premier League: Der einmalige Guardiola"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -124,11 +124,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Premier League: Manchester City ist erneut englischer Fußballmeister",
-      "teaser": "Dank zweier Tore von İlkay Gündoğan holt Manchester City zum vierten Mal in fünf Jahren den Meistertitel. Die Spannung war noch am letzten Spieltag groß.",
-      "url": "https://www.zeit.de/sport/2022-05/premier-league-meister-manchester-city-fc-liverpool",
-      "image_url": "https://img.zeit.de/sport/2022-05/manchester-city-fussball-englischer-meister/wide__822x462",
-      "image_title": "Premier League: Manchester City ist erneut englischer Fußballmeister"
+      "title": "Premier League: Der einmalige Guardiola",
+      "teaser": "Das dramatische Meisterrennen der Premier League zeigt: Geld und Fußball, das kann gut funktionieren. Und wieder heißt der Sieger Pep Guardiola.",
+      "url": "https://www.zeit.de/sport/2022-05/premier-league-pep-guardiola-manchester-city",
+      "image_url": "https://img.zeit.de/sport/2022-05/pep-guardiola/wide__822x462",
+      "image_title": "Premier League: Der einmalige Guardiola"
     },
     {
       "title": "Elena Semechin: \"Ich will nicht, dass diese Krankheit über mein Leben bestimmt\"",
@@ -145,6 +145,13 @@
       "image_title": "Union Berlin: Sie können es selbst nicht fassen"
     },
     {
+      "title": "Premier League: Manchester City ist erneut englischer Fußballmeister",
+      "teaser": "Dank zweier Tore von İlkay Gündoğan holt Manchester City zum vierten Mal in fünf Jahren den Meistertitel. Die Spannung war noch am letzten Spieltag groß.",
+      "url": "https://www.zeit.de/sport/2022-05/premier-league-meister-manchester-city-fc-liverpool",
+      "image_url": "https://img.zeit.de/sport/2022-05/manchester-city-fussball-englischer-meister/wide__822x462",
+      "image_title": "Premier League: Manchester City ist erneut englischer Fußballmeister"
+    },
+    {
       "title": "DFB-Pokal: Kein Märchen, eine Businessstory",
       "teaser": "RB Leipzig entdeckt das Außenseitergefühl der etwas anderen Art und gewinnt erstmals den DFB-Pokal. Der SC Freiburg holt dagegen viele Herzen.",
       "url": "https://www.zeit.de/sport/2022-05/dfb-pokal-finale-rb-leipzig-sc-freiburg",
@@ -157,13 +164,6 @@
       "url": "https://www.zeit.de/sport/2022-05/fitnessuebung-ausfallschritt-personal-trainer",
       "image_url": "https://img.zeit.de/sport/2022-05/wochenende21-fitnessuebung-ausfallschritt-personal-trainer-01/wide__822x462",
       "image_title": "Fitness: Der Ausfallschritt"
-    },
-    {
-      "title": "Uefa Women's Champions League: Olympique Lyon gewinnt Finale gegen Barcelona",
-      "teaser": "Die Fußballerinnen von Olympique Lyon haben 3:1 gegen den FC Barcelona gewonnen. Damit geht der Titel in der weiblichen Champions League zum achten Mal nach Lyon.",
-      "url": "https://www.zeit.de/sport/2022-05/uefa-women-s-champions-league-finale-frauenteam-olympique-lyon-fc-barcelona",
-      "image_url": "https://img.zeit.de/sport/2022-05/uefa-women-s-champions-league-finale-frauenteam-olympique-lyon-fc-barcelona-bild/wide__822x462",
-      "image_title": "Uefa Women's Champions League: Olympique Lyon gewinnt Finale gegen Barcelona"
     },
     {
       "title": "Europa League: Das Unikat eines Finales",
