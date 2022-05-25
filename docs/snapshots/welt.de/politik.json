@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-25T05:24:17",
+  "timestamp": "2022-05-25T06:28:08",
   "url": "https://www.welt.de/politik/",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile238977667/1422503217-ci102l-w1024/126-Deutscher-Aerztetag-Pressekonferenz-zu-Affenpocken.jpg",
+      "image_title": "Bundesgesundheitsminister Karl Lauterbach will angesichts der sinkenden Corona-Inzidenz die Einreiseregeln lockern",
+      "topic": "Bundesgesundheitsminister"
+    },
     {
       "title": "EU hat zehn Milliarden Euro von russischen Oligarchen eingefroren",
       "url": "https://www.welt.de/politik/ausland/article238976917/Ukraine-Wiederaufbau-EU-hat-zehn-Milliarden-Euro-von-russischen-Oligarchen-eingefroren.html",
@@ -31,25 +38,33 @@
     {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile238967089/4192505177-ci102l-w1024/BILD-Alice-Weidel.jpg",
+      "image_title": "Лидер фракции «Альтернатива для Германии» Алис Вайдель",
+      "topic": "ДЕМОНСТРАЦИЯ ПРОПАГАНДЫ",
+      "author": "АННА РОУЗ И БЕНЕДИКТ ВЕЙМЕР"
+    },
+    {
+      "title": "Ausland",
+      "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/politik/mobile238977173/3242504437-ci102l-w1024/TEXAS-SHOOTING-BIDEN.jpg",
       "image_title": "US-Präsident bei seinem Statement im Weißen Haus nach dem Massaker von Texas",
       "topic": "Blutbad an Grundschule in Texas",
       "author": "Daniel Friedrich Sturm"
     },
     {
-      "title": "Ausland",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile238977077/0532508757-ci102l-w1024/A-howitzer-of-pro-Russian-troops-fires-in-the-Luhansk-region.jpg",
-      "image_title": "A howitzer of pro-Russian troops fires in the Luhansk region",
-      "topic": "Ukraine-Krieg",
-      "author": "Klaus Geiger"
+      "title": "Emotionaler Basketballtrainer – „Wann tun wir endlich etwas?“",
+      "url": "https://www.welt.de/sport/video238977413/Amoklauf-an-Schule-in-Texas-Basketballtrainer-Steve-Kerr-mit-emotionalem-Auftritt.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile238977483/3022506147-ci102l-w1024/trainer-jpg.jpg",
+      "topic": "Amoklauf an US-Schule",
+      "author": "2 Min"
     },
     {
-      "title": "Ausland",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/vermischtes/weltgeschehen/mobile238976401/9382506777-ci102l-w1024/Texas-School-Shooting.jpg",
-      "image_title": "Rettungskräfte vor der Schule in Texas",
-      "topic": "USA"
+      "title": "„Allein in 2022 gab es 30 Schießereien an US-Schulen“",
+      "url": "https://www.welt.de/politik/ausland/video238977321/Amoklauf-in-Texas-Steffen-Schwarzkopf-zu-Amerikas-Waffenrecht.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile238977397/5932505437-ci102l-w1024/Shooting-at-a-Texas-elementary-school-in-Uvalde.jpg",
+      "image_title": "Shooting at a Texas elementary school, in Uvalde",
+      "topic": "Amoklauf in Texas",
+      "author": "2 Min"
     },
     {
       "title": "„Selenskyj spricht von einer pathetischen Lüge“",
@@ -71,21 +86,6 @@
       "image_url": "https://img.welt.de/img/videos/mobile238976047/4402505967-ci102l-w1024/20220524-194600-ONL-MAZ-deutsch-ponische-Waffen-Di-1845-oL-2000-jpg.jpg",
       "topic": "Waffen-Ringtausch an Ukraine",
       "author": "2 Min"
-    },
-    {
-      "title": "„Man kann länger Menschen anstecken als beim Coronavirus“",
-      "url": "https://www.welt.de/politik/deutschland/video238974275/Affenpocken-Dr-Gerald-Gass-DKG-erklaert-bei-WELT-die-lange-Quarantaene.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile238974879/1272507397-ci102l-w1024/Europa-Affenpocken.jpg",
-      "image_title": "Europa - Affenpocken",
-      "topic": "Affenpocken in Deutschland",
-      "author": "4 Min"
-    },
-    {
-      "title": "„Deutschland war immer schweigsam – spätestens jetzt wäre der Zeitpunkt für Sanktionen“",
-      "url": "https://www.welt.de/politik/ausland/video238973797/Jennifer-Wilton-Chefredakteurin-WELT-ueber-Beweise-zur-Internierung-von-Uiguren-in-China.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile238974585/0992502767-ci102l-w1024/jennifer-wilton-2405-01-jpg.jpg",
-      "topic": "Internierte Uiguren in China",
-      "author": "5 Min"
     },
     {
       "title": "Eignung wichtig – Parteibuch wichtiger",
@@ -133,6 +133,21 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Bundestagswahl - Feature",
       "topic": "Zahlreiche Pannen"
+    },
+    {
+      "title": "Ausland",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "A howitzer of pro-Russian troops fires in the Luhansk region",
+      "topic": "Ukraine-Krieg",
+      "author": "Viola Ulrich"
+    },
+    {
+      "title": "Ausland",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Rettungskräfte vor der Schule in Texas",
+      "topic": "USA"
     },
     {
       "title": "Ausland",
@@ -344,21 +359,6 @@
       "image_title": "Die frühere österreichische Außenministerin Karin Kneissl tanzte 2018 mit Wladimir Putin",
       "topic": "Österreichs Ex-Außenministerin",
       "author": "Stefan Schocher"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Das Institut für Mikrobiologie der Bundeswehr in München hatte den ersten Fall von Affenpocken in Deutschland nachgewiesen",
-      "topic": "Gesundheitsministerium"
-    },
-    {
-      "title": "Ausland",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "US-Präsident Joe Biden",
-      "topic": "US-Präsident Biden",
-      "author": "Daniel Friedrich Sturm"
     },
     {
       "title": "„In unserem Wohnzimmer lief den ganzen Tag Netflix auf Russisch“",
