@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-25T18:27:08",
+  "timestamp": "2022-05-25T19:18:17",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,385 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Polizei-Großeinsatz : Amok-Alarm an Dinslakener Schule – Festnahmen!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/amok-alarm-in-dinslaken-polizei-grosseinsatz-an-schule-80205908.bild.html",
-      "image_title": "Amok-Alarm in Dinslaken: Polizei-Großeinsatz an Schule!"
-    },
-    {
-      "title": "EC- und Kreditkarten : Bundesweite Probleme bei Kartenzahlungen",
-      "url": "https://www.bild.de/digital/multimedia/multimedia/ec-und-kreditkarten-kartenzahlung-bundesweit-gestoert-80204000.bild.html",
-      "image_title": "EC- und Kreditkarten: Bundesweite Probleme bei Kartenzahlungen"
-    },
-    {
-      "title": "Eine Million 9-Euro-Tickets verkauft : Polizei soll überfüllte Züge räumen!",
-      "url": "https://www.bild.de/politik/inland/politik-inland/schon-eine-million-9-euro-tickets-verkauft-polizei-soll-ueberfuellte-zuege-raeum-80197970.bild.html",
-      "image_title": "Schon eine Million 9-Euro-Tickets verkauft: Polizei soll überfüllte Züge räumen!"
-    },
-    {
-      "title": "Corona! : Grönemeyer sagt komplette Tour ab",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/herbert-hat-corona-groenemeyer-sagt-komplette-tour-ab-80201406.bild.html",
-      "image_title": "Herbert Grönemeyer sagt komplette Tour ab: Corona!"
-    },
-    {
-      "title": "Auf Suche nach partnern : Trans-Soldatin wegen Tinder vor Gericht",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/bundeswehr-trans-kommandeurin-wegen-sex-dating-vor-gericht-80202556.bild.html",
-      "image_title": "Bundeswehr: Trans-Kommandeurin wegen Sex-Dating vor Gericht"
-    },
-    {
-      "title": "Paul Brandenburg : Razzia bei Mediziner – Waffen beschlagnahmt!",
-      "teaser": "Er ist Mediziner und Publizist – und offenbar Besitzer von Waffen: Dr. Paul Brandenburg.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/paul-brandenburger-razzia-bei-berliner-mediziner-waffen-beschlagnahmt-80204364.bild.html",
-      "image_title": "Paul Brandenburg: Razzia bei Berliner Mediziner – Waffen beschlagnahmt!"
-    },
-    {
-      "title": "SEK-Einsatz in Berlin : Mann zerlegt Wohnung, weil er ausziehen soll",
-      "teaser": "Er war „gekommen, um zu bleiben“. In Berlin löste ein Mitbewohner einen Polizeieinsatz aus.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/sek-einsatz-in-berlin-mann-zerlgt-wohnung-weil-er-ausziehen-soll-80199916.bild.html",
-      "image_title": "Kurioser SEK-Einsatz in Berlin: Mann zerlegt Wohnung, weil er ausziehen soll"
-    },
-    {
-      "title": "Aufstiegsheld will bleiben : Warum Füllkrug sich bei Werder so wohlfühlt",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-aufstiegsheld-niclas-fuellkrug-erklaert-warum-er-sich-so-wohlfuehl-80202852.bild.html",
-      "image_title": "Werder Bremen: Aufstiegsheld Niclas Füllkrug erklärt, warum er sich so wohlfühlt"
-    },
-    {
-      "title": "Mutmaßliche Mörder frei : Kostet ihre Überwachung jede Woche 100 000 Euro?",
-      "teaser": "Die Nachlässigkeit des Landgerichts geht wohl richtig ins Geld ...",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/drei-mutmassliche-moerder-nach-justizpanne-frei-kostet-ihre-ueberwachung-jede-wo-80189826.bild.html",
-      "image_title": "Justizpanne: Kostet ihre Überwachung jede Woche 100.000 Euro?"
-    },
-    {
-      "title": "Amore beim Boxen : Mister Adriaan verliebt in Miss Hamburg",
-      "teaser": "Adriaan van Veen (32) traf beim großen Box-Event, die Ewig-„Miss Hamburg“ Laura-Sophie Hering (22).",
-      "url": "https://www.bild.de/regional/bremen/hannover-aktuell/mister-adriaan-verliebt-in-miss-hamburg-amore-beim-boxen-80189480.bild.html",
-      "image_title": "Mister Adriaan verliebt in Miss Hamburg: Amore beim Boxen"
-    },
-    {
-      "title": "Caggtus kommt 2023 : Neues Computerspiel-Festival in Leipzig",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/caggtus-leipzig-bekommt-neues-computerspiel-festival-80206638.bild.html",
-      "image_title": "Caggtus: Leipzig bekommt neues Computerspiel-Festival"
-    },
-    {
-      "title": "Kretschmer & Ministerium : Sachsens Politik blamiert sich bei Dynamo-Abstieg",
-      "teaser": "Sachsens Politik hat sich mit zwei Tweets am Rande des Relegationsspiels von Dynamo Dresden mal so richtig blamiert.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dynamo-dresden-sachsens-politik-blamiert-sich-bei-abstieg-80200496.bild.html",
-      "image_title": "Dynamo Dresden: Sachsens Politik blamiert sich bei Abstieg"
-    },
-    {
-      "title": "German-RaceWars : Fast & Furious-Star kommt nach Eisenach",
-      "teaser": "Promi-Alarm! Ein echter Hollywood-Star reist zum Tuning-Festival German-RaceWars an.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/german-racewars-fast-furious-star-kommt-an-den-hainich-80198204.bild.html",
-      "image_title": "German-RaceWars: Fast & Furious-Star kommt nach Eisenach"
-    },
-    {
-      "title": "Zum 60. Geburtstag des TV-Stars : Pittiplatsch wird Keramik-Kobold",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/pittiplatsch-ddr-kultfigur-wird-keramik-kobold-80195654.bild.html",
-      "image_title": "Pittiplatsch: DDR-Kultfigur wird Keramik-Kobold"
-    },
-    {
-      "title": "Putins angeblicher Waffenlieferant : Wird ihm seine NVA-Vergangenheit zum Verhängnis?",
-      "teaser": "Jetzt verhandelt das Dresdner Oberlandesgericht im Kriegswaffen-Krimi gegen Alexander S. (57).",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/leipzig-prozess-gegen-putins-angeblichen-waffenlieferant-80198290.bild.html",
-      "image_title": "Leipzig: Prozess gegen Putins angeblichen Waffenlieferant"
-    },
-    {
-      "title": "DDR-Krimireihe : Ich hab den letzten Lada aus dem Polizeiruf!",
-      "teaser": "Ralf von Hagen (70) aus Seehausen besitzt den letzten Vopo-Lada aus dem „Polizeiruf 110“.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/polizeiruf-110-der-letzte-tv-lada-steht-im-museum-in-sachsen-anhalt-80197704.bild.html",
-      "image_title": "Polizeiruf 110: Der letzte TV-Lada steht im Museum in Sachsen-Anhalt"
-    },
-    {
-      "title": "Falls Favre doch noch abspringt : Gladbachs Not-Plan mit DIESEM Trainer!",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-gladbachs-not-plan-mit-diesem-trainer-80202746.bild.html",
-      "image_title": "Borussia Mönchengladbachs Plan mit diesem Trainer, falls Favre abspringt"
-    },
-    {
-      "title": "Manager als Co-Trainer : Mit diesem Team will Favre zurück nach Europa",
-      "teaser": "Die Rückkehr von Lucien Favre ist immer noch nicht offiziell – sein Team steht schon",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-das-team-von-lucien-favre-steht-80199518.bild.html",
-      "image_title": "Borussia Mönchengladbach: Das Team von Lucien Favre steht"
-    },
-    {
-      "title": "Polizei geht von Verbrechen aus : Frau aus Solingen tot in Holland-Kanal gefunden",
-      "teaser": "Acht Monate nach dem Fund einer Leiche in den Niederlanden ist klar: Die Tote (57) stammte aus Solingen.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/polizei-glaubt-an-verbrechen-solingerin-tot-in-holland-kanal-gefunden-80191076.bild.html",
-      "image_title": "Polizei glaubt an Verbrechen: Solingerin tot in Holland-Kanal gefunden"
-    },
-    {
-      "title": "Skandal-OB klebt am Stuhl : Reaktionen auf „Pattex-Peter“",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/ob-feldmann-klebt-am-stuhl-er-hat-den-knall-nicht-gehoert-80203368.bild.html",
-      "image_title": "Kein Rücktritt! Reaktionen auf Pattex-Peter"
-    },
-    {
-      "title": "Falsche Narkose-Ärztin : Lebenslänglich für Dr. Dr. Tod",
-      "teaser": "Eine Frau, die sich als Ärztin ausgegeben hat, ist zu lebenslanger Haft verurteilt worden.",
-      "url": "https://www.bild.de/regional/frankfurt/news/kassel-lebenslange-haft-fuer-falsche-narkoseaerztin-80201610.bild.html",
-      "image_title": "3 Todesopfer: Lebenslange Haft für falsche Narkoseärztin"
-    },
-    {
-      "title": "25 % weniger Umsatz : Hessen sparen am Spargel",
-      "teaser": "Harte Zeiten für das liebste Gemüse der Deutschen.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/25-prozent-weniger-umsatz-fuer-die-bauern-hessen-sparen-am-spargel-80193268.bild.html",
-      "image_title": "25 Prozent weniger Umsatz für die Bauern: Hessen sparen am Spargel"
-    },
-    {
-      "title": "Erste Quali fürs Deutsche Derby : Elisa jagt auf Platz fünf",
-      "url": "https://www.bild.de/sport/mehr-sport/mehrsport/deutsches-derby-in-hamburg-elisa-von-hacht-jagt-in-der-ersten-quali-auf-platz-5-80202684.bild.html",
-      "image_title": "Deutsches Derby in Hamburg: Elisa von Hacht jagt in der ersten Quali auf Platz 5"
-    },
-    {
-      "title": "Illegales Abwracken? : Ermittlungen gegen Hamburger Reederei",
-      "teaser": "Im Zusammenhang mit der illegalen Entsorgung eines Schiffes ermittelt die Kieler Staatsanwaltschaft.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/illegales-abwracken-ermittlungen-gegen-hamburger-reederei-80204456.bild.html",
-      "image_title": "Illegales Abwracken? Ermittlungen gegen Hamburger Reederei"
-    },
-    {
-      "title": "Die Akte Osmani : Machte der Pate sogar seine Putzfrau zur Geldwäscherin?",
-      "teaser": "Wie das System Osmani in der Realität aussah, zeigen BILD-Recherchen auf Mallorca.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/er-spannte-familie-und-angestellte-fuer-sein-kartell-ein-machte-der-pate-sogar-s-80187908.bild.html",
-      "image_title": "Die Akte Osmani: Machte der Pate sogar seine Putzfrau zur Geldwäscherin?"
-    },
-    {
-      "title": "Prozess um Schüsse an Kreuzung : Ampel-Killer muss zehn Jahre in Haft",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/prozess-um-schuesse-an-kreuzung-ampel-killer-wegen-totschlags-10-jahre-in-haft-80200488.bild.html",
-      "image_title": "Hannover: Prozess um Schüsse an Kreuzung – Ampel-Killer muss 10 Jahre in Haft"
-    },
-    {
-      "title": "Test negativ : Affenpocken-Entwarnung in Hannover",
-      "teaser": "Der angebliche Affenpocken-Fall erwies sich als Fehlalarm",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/patient-in-mhh-erster-affenpocken-fall-in-hannover-80201382.bild.html",
-      "image_title": "Test negativ: Affenpocken-Entwarnung in Hannover"
-    },
-    {
-      "title": "Toter Säugling : Obduktion bei Babyleiche angeordnet",
-      "teaser": "Nach dem Fund eines toten Säuglings in einer Mülltonne soll der Leichnam obduziert werden.",
-      "url": "https://www.bild.de/regional/hannover/hamburg-aktuell/saeugling-in-muelltonne-entdeckt-obduktion-bei-babyleiche-angeordnet-80200946.bild.html",
-      "image_title": "Säugling in Mülltonne entdeckt: Obduktion bei Babyleiche angeordnet"
-    },
-    {
-      "title": "Manuel H. soll zwei Frauen vergiftet haben : Thallium-Mörder bald vor Gericht",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/manuel-h-soll-zwei-frauen-vergiftet-haben-thallium-moerder-angeklagt-80204302.bild.html",
-      "image_title": "Köln: Manuel H. soll zwei Frauen mit Thallium vergiftet haben – Anklage!"
-    },
-    {
-      "title": "Suche nach Gestank : Dieser Mann ist ein Berufs-Schnüffler",
-      "teaser": "Martin Kretzschmar sucht nach üblen Gerüchten. Für den Job ist keine Supernase nötig.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/auf-der-suche-nach-gestank-dieser-mann-ist-ein-berufs-schnueffler-80191020.bild.html",
-      "image_title": "Auf der Suche nach Gestank: Dieser Mann ist ein Berufs-Schnüffler"
-    },
-    {
-      "title": "Motiv: Geld : Familie soll Rollstuhlfahrer eingesperrt haben",
-      "teaser": "Die Siegburger haben offenbar ihren Nachbarn einen Monat gefangengehalten und misshandelt.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/siegburg-familie-soll-aus-geldgier-rollstuhlfahrer-eingesperrt-haben-80207044.bild.html",
-      "image_title": "Siegburg: Familie soll aus Geldgier Rollstuhlfahrer eingesperrt haben"
-    },
-    {
-      "title": "Polizei ermittelt nach Pokal-Finale : Chemie-Fans beim Einlass schikaniert",
-      "url": "https://www.bild.de/sport/fussball/fussball/chemie-leipzig-fans-beim-pokal-einlass-schikaniert-80193048.bild.html",
-      "image_title": "Chemie Leipzig: Fans beim Pokal-Einlass schikaniert"
-    },
-    {
-      "title": "Für Lern-Oscar nominiert : Ist das Deutschlands beste Schule?",
-      "teaser": "Die Schule „Gotthold Ephraim Lessing“ in Salzwedel gehört zu den besten in ganz Deutschland. Dabei liegt sie im Brennpunkt-Viertel, ringsum sind Plattenbauten.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-ist-diese-schule-in-salzwedel-die-beste-deutschlands-80192970.bild.html",
-      "image_title": "Sachsen-Anhalt: Ist diese Schule in Salzwedel die beste Deutschlands?"
-    },
-    {
-      "title": "Biker schwer verletzt : Transporter rammt frontal in Motorrad",
-      "teaser": "Im Leipziger Norden stieß ein Mercedestransporter frontal mit einem Motorrad zusammen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/unfall-in-leipzig-transporter-rammt-frontal-in-motorrad-80199492.bild.html",
-      "image_title": "Unfall in Leipzig: Transporter rammt frontal in Motorrad"
-    },
-    {
-      "title": "Selbst gemacht? Nur selbst gebracht! : Wende in „Backblech-Affäre“",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-politik-und-wirtschaft/schwesigs-erdbeerkuchen-zum-geburtstag-er-kam-doch-aus-der-baeckerei-80206590.bild.html",
-      "image_title": "Schwesigs Erdbeerkuchen zum Geburtstag: Er kam DOCH aus der Bäckerei"
-    },
-    {
-      "title": "Wirklich selbst gemacht? : Aufregung um Erdbeerkuchen für Manuela Schwesig",
-      "teaser": "Zum Geburtstag bekam Meck-Pomm-Chefin Schwesig einen Kuchen vom Landwirtschaftsminister...",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-politik-und-wirtschaft/mecklenburg-aufregung-um-erdbeerkuchen-fuer-manuela-schwesig-80199094.bild.html",
-      "image_title": "Mecklenburg: Aufregung um Erdbeerkuchen für Manuela Schwesig"
-    },
-    {
-      "title": "Nach Streit auf Sportplatz : 15-Jähriger sticht 17-Jährigen nieder",
-      "teaser": "Blutiger Streit auf dem Sportplatz. Zwei Jugendliche (15, 17) gerieten nachmittags in Sachsen-Anhalt aneinander.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-15-jaehriger-sticht-17-jaehrigen-nieder-80197090.bild.html",
-      "image_title": "Sachsen-Anhalt: 15-Jähriger sticht 17-Jährigen nieder"
-    },
-    {
-      "title": "Auftakt des Gerichtsstreits vor dem VGH : Söders Kreuzerlass – Entscheidung erst im Juni",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/auftakt-vor-dem-vgh-soeders-kreuzerlass-entscheidung-erst-im-juni-80207830.bild.html",
-      "image_title": "Auftakt vor dem VGH: Söders Kreuzerlass – Entscheidung erst im Juni"
-    },
-    {
-      "title": "Fixer Deal : Nächster Bayern-Transfer im Anflug!",
-      "teaser": "Gute Nachrichten für Julian Nagelsmann! Deal ist fix! Der nächste Neuzugang ist im Anflug.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fc-bayern-muenchen-deal-mit-ryan-gravenberch-fix-naechster-ajax-star-im-anflug-80206034.bild.html",
-      "image_title": "FC Bayern München: Deal ist fix! Nagelsmann freut sich über nächsten Transfer"
-    },
-    {
-      "title": "Fans verwundert : Lewandowski nimmt Bayern-Foto aus Twitter-Profil",
-      "teaser": "Robert Lewandowski (33) hat neue Fotos auf Twitter",
-      "url": "https://www.bild.de/sport/fussball/fussball/fc-bayern-muenchen-robert-lewandowski-nimmt-bayern-foto-aus-twitter-profil-80191928.bild.html",
-      "image_title": "FC Bayern München: Robert Lewandowski nimmt Bayern-Foto aus Twitter-Profil"
-    },
-    {
-      "title": "Drei Kinder verletzt : Bagger rammt Wasser-Rutsche in Freibad",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/drei-kinder-verletzt-bagger-rammt-wasser-rutsche-in-freibad-80204882.bild.html",
-      "image_title": "Drei Kinder verletzt: Bagger rammt Wasser-Rutsche in Freibad"
-    },
-    {
-      "title": "Auch in Kliniken : Bayern hebt FFP2-Maskenpflicht in Arztpraxen auf",
-      "teaser": "München – Ab Samstag gilt in Bayerns Arztpraxen, Pflegeeinrichtungen und Krankenhäusern eine gelockerte Maskenpflicht.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/auch-in-kliniken-bayern-hebt-ffp2-maskenpflicht-in-arztpraxen-auf-80204620.bild.html",
-      "image_title": "Auch in Kliniken: Bayern hebt FFP2-Maskenpflicht in Arztpraxen auf"
-    },
-    {
-      "title": "Täter auf der Flucht : Geldautomat in Schwaben gesprengt",
-      "teaser": "Woringen – Sie sprengten einen Geldautomaten einer Raiffeisenbank auf, räumten ihn aus und flüchteten.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/taeter-auf-der-flucht-geldautomat-in-schwaben-gesprengt-80201240.bild.html",
-      "image_title": "Täter auf der Flucht: Geldautomat in Schwaben gesprengt"
-    },
-    {
-      "title": "Ehemann unter Tatverdacht : Erstochene Frau in Hagener Wohnung entdeckt",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hagen-erstochene-frau-in-wohnung-entdeckt-ehemann-tatverdaechtig-80201370.bild.html",
-      "image_title": "Hagen: Erstochene Frau in Wohnung entdeckt – Ehemann tatverdächtig"
-    },
-    {
-      "title": "Vor Brücken-Abriss : Bund baut Fake-Pfeiler für Fledermäuse",
-      "teaser": "Der Neubau der A45-Talbrücke Rahmede stellt die Autobahn GmbH vor tierische Probleme.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/luedenscheid-abriss-der-rahmede-bruecke-bund-baut-fake-pfeiler-fuer-fledermaeuse-80197812.bild.html",
-      "image_title": "Lüdenscheid – Für Abriss: Bund baut Fake-Pfeiler für Fledermäuse"
-    },
-    {
-      "title": "Polizei rückt mit Brecheisen an : Hier steckt ein Doof-Dieb im Fenster fest",
-      "teaser": "Beim Einbruch in ein Altenwohnheim in Dortmund blieb ein Mann mit dem Fuß hängen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-einbrecher-bleibt-mit-fuss-in-fenster-stecken-80203736.bild.html",
-      "image_title": "Dortmund: Einbrecher bleibt mit Fuß in Fenster stecken"
-    },
-    {
-      "title": "Nach Weltraum-Mission : Wie fit ist unser SAARstronaut?",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/nach-weltraum-mission-wie-fit-ist-unser-saarstronaut-80195268.bild.html",
-      "image_title": "Nach Weltraum-Mission: Wie fit ist unser SAARstronaut?"
-    },
-    {
-      "title": "Anzeige erstattet : Zoff um Tauben-Netz in Ottweiler",
-      "teaser": "Das Netz unter der Ottweiler Brücke wird für die Tauben zur tödlichen Falle.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/anzeige-von-tierschuetzer-zoff-um-tauben-netz-in-ottweiler-80195954.bild.html",
-      "image_title": "Anzeige von Tierschützer: Zoff um Tauben-Netz in Ottweiler"
-    },
-    {
-      "title": "Vor Parteitag : CDU-Kreisvorsitzende wirft hin",
-      "teaser": "Anja Wagner-Scheid (47) wird nicht für den Landesvorstand der Saar-CDU kandidieren.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/vor-parteitag-cdu-kreisvorsitzende-wirft-hin-80195600.bild.html",
-      "image_title": "Vor Parteitag: CDU-Kreisvorsitzende wirft hin"
-    },
-    {
-      "title": "Verdächtiger in Haft : Kind (11) in Magdeburg missbraucht",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/verdaechtiger-in-haft-kind-11-in-magdeburg-missbraucht-80203480.bild.html",
-      "image_title": "Sexueller Missbrauch: Kind (11) in Magdeburg missbraucht"
-    },
-    {
-      "title": "Atik nicht unverkäuflich : Darum bleibt der FCM trotzdem gelassen",
-      "teaser": "Baris Atik hat beim FCM einen Zweitliga-Vertrag. Doch was passiert bei einem Angebot?",
-      "url": "https://www.bild.de/sport/fussball/fussball/atik-nicht-unverkaeuflich-darum-bleibt-der-fcm-trotzdem-gelassen-80194470.bild.html",
-      "image_title": "Atik nicht unverkäuflich: Darum bleibt der FCM trotzdem gelassen"
-    },
-    {
-      "title": "Sie wollte nach Mainz : Patricia H. wird seit zwei Wochen vermisst",
-      "teaser": "Patricia H. (23) wird seit zwei Wochen vermisst. Eigentlich wollte die Leipzigern nach Mainz umziehen. Doch dort kam sie nicht an.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-patricia-h-wird-seit-zwei-wochen-vermisst-80194512.bild.html",
-      "image_title": "Leipzig: Patricia H. wird seit zwei Wochen vermisst"
-    },
-    {
-      "title": "Bundespräsident in Stuttgart : Steinmeier eröffnet Katholikentag",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/bundespraesident-in-stuttgart-steinmeier-eroeffnet-katholikentag-80207366.bild.html",
-      "image_title": "Bundespräsident in Stuttgart: Steinmeier eröffnet Katholikentag"
-    },
-    {
-      "title": "Nach Geiselnahme in Heidelberg : Täter in Tschechien gefasst – Frau wohlauf",
-      "teaser": "Heidelberg/Schwandorf – Die Flucht eines mutmaßlichen Geiselnehmers aus Heidelberg ist von der Polizei in Tschechien beendet worden.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/nach-geiselnahme-in-heidelberg-taeter-in-tschechien-gefasst-frau-wohlauf-80204514.bild.html",
-      "image_title": "Nach Geiselnahme in Heidelberg: Täter in Tschechien gefasst – Frau wohlauf"
-    },
-    {
-      "title": "Crash an Bahnübergang : War der Busfahrer schuld am Horror-Unfall?",
-      "teaser": "Blaustein – Nach der Kollision von einem Bus mit einem Zug bei Ulm prüft die Polizei, ob sich der Busfahrer strafbar gemacht hat.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/crash-an-bahnuebergang-war-der-busfahrer-schuld-am-horror-unfall-80203724.bild.html",
-      "image_title": "Crash an Bahnübergang: War der Busfahrer schuld am Horror-Unfall?"
-    },
-    {
-      "title": "Prozess gegen Busfahrer : Er forderte Schüler auf, ihre Masken abzusetzen",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-busfahrer-forderte-schueler-auf-ihre-masken-abzusetzen-80206346.bild.html",
-      "image_title": "Thüringen: Busfahrer forderte Schüler auf, ihre Masken abzusetzen"
-    },
-    {
-      "title": "Känguru, wo bist du? : Immer wieder büxt Skippy aus",
-      "teaser": "Hüpf und weg! Das freche Kanguru büxt immer wieder aus dem Tiergarten in Sonneberg aus.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/kaenguru-skippy-in-sonneberg-immer-wieder-buext-es-aus-80197938.bild.html",
-      "image_title": "Känguru Skippy in Sonneberg: Immer wieder büxt es aus"
-    },
-    {
-      "title": "Dutzende verschwunden : Vermisst gemeldet – wo sind unsere Kinder?",
-      "teaser": "Derzeit werden 148 Kinder aus Mitteldeutschland vermisst. Die meisten aus Sachsen-Anhalt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/vermisste-kinder-158-faelle-in-thueringen-sachsen-und-sachsen-anhalt-80196330.bild.html",
-      "image_title": "Vermisste Kinder: 148 Fälle in Thüringen, Sachsen und Sachsen-Anhalt"
-    }
-  ]
+  "articles": []
 }
