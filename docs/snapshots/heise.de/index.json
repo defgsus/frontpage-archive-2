@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-25T08:28:06",
+  "timestamp": "2022-05-25T09:22:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -92,7 +92,7 @@
     },
     {
       "title": "Fotorealistische KI-BildsyntheseGoogle macht DALL-E-2 Konkurrenz – mit Imagen",
-      "teaser": "Nach OpenAI schickt auch Google ein neues KI-System ins Rennen, das mit tiefem Sprachverständnis durch Bild-zu-Text-Synthese fotorealistische Bilder erzeugt.",
+      "teaser": "Nach OpenAI schickt auch Google ein neues KI-System ins Rennen, das mit tiefem Sprachverständnis durch Text-zu-Bild-Synthese fotorealistische Bilder erzeugt.",
       "url": "https://www.heise.de/news/Fotorealistische-KI-Bildsynthese-Google-macht-DALL-E-2-Konkurrenz-mit-Imagen-7121826.html",
       "image_title": "\"An Alpaca is smiling and under water in a swimming pool.\" #imagen by Zoubin Ghahramani @ZoubinGhahrama1"
     },
@@ -136,19 +136,71 @@
       "url": "https://www.heise.de/hintergrund/Energiespeicher-Eisen-Redox-Flow-Batterien-speichern-Strom-containerweise-6660050.html"
     },
     {
-      "title": "Steam Deck: iFixit lobt Reparierbarkeit und verkauft Ersatzteile",
-      "teaser": "Die Reparatur-Experten von iFixit finden lobende Worte für Valves Mobil-PC Steam Deck. Zahlreiche Ersatzteile werden verkauft, unter anderem auch das Display.",
-      "url": "https://www.heise.de/news/Steam-Deck-iFixit-lobt-Reparierbarkeit-und-verkauft-Ersatzteile-7121937.html"
+      "title": "Bundesweite Störung von Kartenzahlungen sorgt für Ärger",
+      "teaser": "Frust bei Händlern und Kunden: Seit Dienstag sind EC- und Kreditkartenzahlungen in Deutschland gestört.",
+      "url": "https://www.heise.de/news/Bundesweite-Stoerung-von-Kartenzahlungen-sorgt-fuer-Aerger-7122125.html",
+      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
     },
     {
-      "title": "Live-Webinar am 31. Mai: iPhone und iPad im Firmeneinsatz",
-      "teaser": "Bereitstellungsprogramme, Geräteverwaltung, User Enrollment, BYOD: Das Live-Webinar erklärt, wie iOS sich richtig im Unternehmen nutzen lässt.",
-      "url": "https://www.heise.de/news/Live-Webinar-am-31-Mai-iPhone-und-iPad-im-Firmeneinsatz-7121707.html"
+      "title": "SQL Server im Unternehmen: 5 Tickets im Wert von je 595 Euro zu gewinnen",
+      "teaser": "In fünf digitalen Live-Trainings lernen Interessierte, wie sie ihre Arbeit mit dem SQL Server meistern. Jetzt verlosen wir 5 Tickets für die Webinar-Serie.",
+      "url": "https://www.heise.de/news/Microsoft-SQL-Server-fuer-Entwickler-Die-Webinar-Serie-von-Heise-7089655.html"
     },
     {
       "title": "Verblüffendes zur Energiebilanz von Rechenzentren",
       "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
       "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
+    },
+    {
+      "title": "WordPress 6.0: Ausbau von Full Site Editing & automatische Alt-Texte für Bilder",
+      "teaser": "Die neue Version bringt untere anderem weitere Funktionen für das Full Site Editing, mehr Blöcke sowie Optimierung von Performance und Barrierefreiheit.",
+      "url": "https://www.heise.de/news/WordPress-6-0-Ausbau-von-Full-Site-Editing-automatische-Alt-Texte-fuer-Bilder-7121941.html",
+      "image_title": "Wordpress 6.0"
+    },
+    {
+      "title": "AlertWebbrowser: Google Chrome 102 schließt 32 Sicherheitslücken",
+      "teaser": "Der Webbrowser Google Chrome ist in Version 102 erschienen, die eine große Zahl an Sicherheitslücken abdichtet. Sie soll ungenannte neue Features enthalten.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-102-schliesst-32-Sicherheitsluecken-7122031.html",
+      "image_title": "Aufmacher Google Chrome 102"
+    },
+    {
+      "title": "WWDC: Apple verschärft wegen Corona Vorsichtsmaßnahmen des öffentlichen Viewings",
+      "teaser": "Seit 2020 gab's beim iPhone-Hersteller nur noch virtuelle Entwicklertreffen. Nun wurden die Hygienemaßnahmen für ein \"Viewing Event\" im Apple Park intensiviert.",
+      "url": "https://www.heise.de/news/WWDC-Apple-verschaerft-wegen-Corona-Vorsichtsmassnahmen-des-oeffentlichen-Viewings-7122088.html"
+    },
+    {
+      "title": "UpdateProtect Mail Activity: Aktives VPN stört Apples E-Mail-Datenschutz",
+      "teaser": "Apples neue Privatsphärenfunktionen Protect Mail Activity und Private Relay schalten sich ohne Nachfrage ab, wenn Wireguard & Co. aktiv werden.",
+      "url": "https://www.heise.de/news/Protect-Mail-Activity-Aktives-VPN-stoert-Apples-E-Mail-Datenschutz-7121118.html"
+    },
+    {
+      "title": "AirPods helfen Rennfahrer Vettel bei der Suche nach Dieben",
+      "teaser": "Dem Formel-1-Fahrer wurde der Rucksack geklaut, doch er konnte die Ohrstöpsel darin über \"Wo ist?\" tracken. Allerdings erwiesen sich die Kriminellen als clever.",
+      "url": "https://www.heise.de/news/AirPods-helfen-Rennfahrer-Vettel-bei-der-Suche-nach-Dieben-7121307.html",
+      "image_title": "AirPods Pro"
+    },
+    {
+      "title": "Steam Deck: iFixit lobt Reparierbarkeit und verkauft Ersatzteile",
+      "teaser": "Die Reparatur-Experten von iFixit finden lobende Worte für Valves Mobil-PC Steam Deck. Zahlreiche Ersatzteile werden verkauft, unter anderem auch das Display.",
+      "url": "https://www.heise.de/news/Steam-Deck-iFixit-lobt-Reparierbarkeit-und-verkauft-Ersatzteile-7121937.html"
+    },
+    {
+      "title": "Smart GardenGarten mit smarter Wasserpipeline bewässern",
+      "url": "https://www.heise.de/ratgeber/Anleitung-Wie-Sie-Ihren-Garten-mit-Gardenas-smarter-Wasserpipeline-bewaessern-7089230.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Smart HomeSechs smarte Türschlösser im Test",
+      "url": "https://www.heise.de/tests/Smart-Home-Sechs-smarte-Tuerschloesser-im-Test-7096830.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ","
+    },
+    {
+      "title": "Fritzbox-KaufberatungPassende Router für schnelles Internet, WLAN & Smart Home",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-Kaufberatung-Passende-Router-fuer-schnelles-Internet-WLAN-Smart-Home-6592574.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Live-Webinar am 31. Mai: iPhone und iPad im Firmeneinsatz",
+      "teaser": "Bereitstellungsprogramme, Geräteverwaltung, User Enrollment, BYOD: Das Live-Webinar erklärt, wie iOS sich richtig im Unternehmen nutzen lässt.",
+      "url": "https://www.heise.de/news/Live-Webinar-am-31-Mai-iPhone-und-iPad-im-Firmeneinsatz-7121707.html"
     },
     {
       "title": "Nachhaltiges Business-Notebook: PrimeBook Circular im Test",
@@ -173,7 +225,7 @@
     },
     {
       "title": "Fotorealistische KI-Bildsynthese: Google macht DALL-E-2 Konkurrenz – mit Imagen",
-      "teaser": "Nach OpenAI schickt auch Google ein neues KI-System ins Rennen, das mit tiefem Sprachverständnis durch Bild-zu-Text-Synthese fotorealistische Bilder erzeugt.",
+      "teaser": "Nach OpenAI schickt auch Google ein neues KI-System ins Rennen, das mit tiefem Sprachverständnis durch Text-zu-Bild-Synthese fotorealistische Bilder erzeugt.",
       "url": "https://www.heise.de/news/Fotorealistische-KI-Bildsynthese-Google-macht-DALL-E-2-Konkurrenz-mit-Imagen-7121826.html",
       "image_title": "\"An Alpaca is smiling and under water in a swimming pool.\" #imagen by Zoubin Ghahramani @ZoubinGhahrama1"
     },
@@ -181,19 +233,6 @@
       "title": "Kommentar: Mobilitätswende – Vergesst die Leichtfahrzeuge nicht!",
       "teaser": "Elektrische Leichtfahrzeuge sind für viele Anwendungen sinnvoller als ausgewachsene E-Autos. Trotzdem werden sie kaum gefördert.",
       "url": "https://www.heise.de/meinung/Kommentar-Mobilitaetswende-Vergesst-die-Leichtfahrzeuge-nicht-7103065.html"
-    },
-    {
-      "title": "Smart GardenGarten mit smarter Wasserpipeline bewässern",
-      "url": "https://www.heise.de/ratgeber/Anleitung-Wie-Sie-Ihren-Garten-mit-Gardenas-smarter-Wasserpipeline-bewaessern-7089230.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Smart HomeSechs smarte Türschlösser im Test",
-      "url": "https://www.heise.de/tests/Smart-Home-Sechs-smarte-Tuerschloesser-im-Test-7096830.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ","
-    },
-    {
-      "title": "Fritzbox-KaufberatungPassende Router für schnelles Internet, WLAN & Smart Home",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-Kaufberatung-Passende-Router-fuer-schnelles-Internet-WLAN-Smart-Home-6592574.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
     },
     {
       "title": "Dyson entwickelt Haushaltsroboter mit mechanischen Händen",
@@ -227,6 +266,11 @@
       "url": "https://www.heise.de/news/Unser-Muell-ihre-Umwelt-Nur-wenige-Reedereien-stoppen-den-Muell-Export-7121859.html"
     },
     {
+      "title": "Moderne Softwareentwicklung: Sicher durch das Open-Source-Universum",
+      "teaser": "Open-Source-Bibliotheken sind in der modernen Softwareentwicklung nicht mehr wegzudenken. Doch auch hier können Sicherheitslücken wie „Log4Shell“ auftauchen und Schäden ermöglichen. Aber wie kann man mit regelmäßigen Scans und Updates das Sicherheitsrisiko von Open-Source-Bibliotheken minimieren?",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/moderne-softwareentwicklung-sicher-durch-das-open-source-universum-4261/?source=hbsad-ersatz"
+    },
+    {
       "title": "Digitale Bildung: Warum iPads an deutschen Schulen so weit verbreitet sind",
       "teaser": "Apples iPads sind als Lehrmittel in Schulen häufig anzutreffen. Doch woran liegt das? Welche Vorteile bieten sie für die Lehre? Und welche Nachteile gibt es?",
       "url": "https://www.heise.de/hintergrund/Digitale-Bildung-Warum-iPads-an-deutschen-Schulen-so-weit-verbreitet-sind-7121719.html",
@@ -258,48 +302,6 @@
       "title": "Solar-Strom, LTE-Router, Akku-Kameras: Gadgets für Schrebergarten und Gartenhaus",
       "teaser": "Strom, Internet, Sicherheit – fertig ist die perfekte Ausstattung für Gartenhaus oder Schrebergarten. TechStage zeigt, wie man diese Funktionen nachrüstet.",
       "url": "https://www.techstage.de/ratgeber/autark-in-gartenhaus-oder-schrebergarten-mit-lte-photovoltaik-and-co-so-bekommt-ihr/htth557?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "China lässt autonomes Trägerschiff für Drohnen vom Stapel",
-      "teaser": "China will ein autonomes Schiff zur Meeresbeobachtung einsetzen. Mit an Bord sind Drohnen sowie Boote und U-Boote, die im Verbund selbstständig agieren.",
-      "url": "https://www.heise.de/news/China-laesst-autonomes-Traegerschiff-fuer-Drohnen-vom-Stapel-7121602.html"
-    },
-    {
-      "title": "Moderne Softwareentwicklung: Sicher durch das Open-Source-Universum",
-      "teaser": "Open-Source-Bibliotheken sind in der modernen Softwareentwicklung nicht mehr wegzudenken. Doch auch hier können Sicherheitslücken wie „Log4Shell“ auftauchen und Schäden ermöglichen. Aber wie kann man mit regelmäßigen Scans und Updates das Sicherheitsrisiko von Open-Source-Bibliotheken minimieren?",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/moderne-softwareentwicklung-sicher-durch-das-open-source-universum-4261/?source=hbsad-ersatz"
-    },
-    {
-      "title": "Elektroauto: Continental nimmt zwei neue Batteriesensoren in sein Programm",
-      "teaser": "Der Zulieferer Continental kündigt zwei neue Sensoren zum Schutz der Traktionsbatterie im E-Auto an, ein Stromsensormodul und einen zur Beschädigungserkennung.",
-      "url": "https://www.heise.de/news/Elektroauto-Continental-nimmt-zwei-neue-Batteriesensoren-in-sein-Programm-7121556.html"
-    },
-    {
-      "title": "Synthetische Biologie: Junge Disziplin programmiert das Leben neu",
-      "teaser": "Der Name ist ein Paradoxon: Synthetische Biologie. In ihr verbinden sich Natur und Ingenieurwissenschaften. Sie schafft neue Lebensformen – und sogar Leben.",
-      "url": "https://www.heise.de/hintergrund/Synthetische-Biologie-Junge-Disziplin-programmiert-das-Leben-neu-7097643.html"
-    },
-    {
-      "title": "Hackerangriff: Landesverwaltung von Kärnten wurde komplett lahmgelegt",
-      "teaser": "Der Angriff war am frühen Morgen bemerkt worden. Experten versuchen, herauszufinden, wer dahintersteckt. Auch Mittwoch bleiben viele Ämter geschlossen.",
-      "url": "https://www.heise.de/news/Hackerangriff-Landesverwaltung-von-Kaernten-wurde-komplett-lahmgelegt-7121628.html"
-    },
-    {
-      "title": "Hannover Messe: Zwischen Digitalisierung und Nachhaltigkeit",
-      "teaser": "Die HMI 2022 startet am 30. Mai, Partnerland ist Portugal. Im Spannungsfeld von Klimaschutz und Versorgungssicherheit ist die Messe relevanter denn je.",
-      "url": "https://www.heise.de/news/Hannover-Messe-Zwischen-Digitalisierung-und-Nachhaltigkeit-7121590.html",
-      "image_title": "Circular,Economy,Concept.,Energy,Consumption,And,Co2,Emissions,Are,Increasing."
-    },
-    {
-      "title": ".NET MAUI: Microsofts neue GUI-Bibliothek für Windows, Android, iOS und macOS",
-      "teaser": "Mit der .NET Multi-Platform App UI führt Microsoft Xamarin und .NET nun endlich zur einer Cross-Plattform-Bibliothek zusammen. Linux geht dabei leer aus.",
-      "url": "https://www.heise.de/news/NET-MAUI-Microsofts-neue-GUI-Bibliothek-fuer-Windows-Android-iOS-und-macOS-7121152.html"
-    },
-    {
-      "title": "Bitkom: Einsparpotenzial von 64 Megatonnen CO₂ in Deutschland",
-      "teaser": "Laut Bitkom setzen über 50 Prozent der Unternehmen auf KI, IoT und digitale Zwillinge. Viele Firmen bemängeln aber die Regierungs-Bemühungen in diesen Sektoren.",
-      "url": "https://www.heise.de/news/Industrie-4-0-Einsparungspotenzial-von-64-Mio-Megatonnen-CO-in-Deutschland-7121443.html",
-      "image_title": "Hannover Messe"
     },
     {
       "title": "NASA-Sonde im interstellaren Raum: Daten von Voyager 1 geben Rätsel auf",
