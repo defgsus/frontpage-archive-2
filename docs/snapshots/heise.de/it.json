@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-25T11:19:52",
+  "timestamp": "2022-05-25T12:43:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.9dad9961508853f12a50",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.899a38de9442d266c95e",
       "id": null,
       "text": null
     }
@@ -42,14 +42,55 @@
       "image_title": "Aufmacher Ransomware-Angriffe auf Qnap"
     },
     {
+      "title": "Push-Benachrichtigung bei günstigen Spritpreisen: Alarm mit Node-Red einrichten",
+      "teaser": "Mit Node-Red erhalten Sie genau dann eine Push-Nachricht aufs Handy, sobald der Spritpreis einen bestimmten Wert unterschreitet. Wir zeigen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Push-Benachrichtigungen-mit-Node-Red-Alarm-fuer-guenstige-Spritpreise-einrichten-7121238.html"
+    },
+    {
       "title": "Mesh-System im Test: Plume Superpods locken mit modernem WLAN",
       "teaser": "Plumes Mesh-System bekommt man nicht beim Elektronikversender, sondern demnächst eventuell beim Provider. Die kleinen Superpods sind einfach einzurichten.",
       "url": "https://www.heise.de/tests/Mesh-System-im-Test-Plume-Superpods-locken-mit-modernem-WLAN-7101681.html"
     },
     {
-      "title": "Softwareentwicklung: Web-Apps deployen mit Microsoft Azure",
-      "teaser": "Eine Continuous-Deployment-Strategie bringt neue Features schnell zu den Nutzern. Der Web-Apps-Dienst in Azure erledigt das schnell für Webanwendungen.",
-      "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Web-Apps-deployen-mit-Microsoft-Azure-7096997.html"
+      "title": "Microsoft Build 2022: Entwickeln auf ARM64-PC oder direkt in der Cloud",
+      "teaser": "Speziell für Entwickler präsentierte Microsoft auf der Build-Konferenz unter anderem einen ARM64-basierten PC sowie einen Arbeitsplatz in der Cloud.",
+      "url": "https://www.heise.de/news/Microsoft-Build-2022-Entwickeln-auf-ARM64-PC-oder-direkt-in-der-Cloud-7122382.html"
+    },
+    {
+      "title": "ProtonMail wird zu Proton: Ein Software-Ökoystem mit Schwerpunkt auf Datenschutz",
+      "teaser": "Der E-Mail-Anbieter ProtonMail hat seine Geschäftszweige unter dem Namen Proton gebündelt. Dazu gehören Protons E-Mail-, VPN-, Cloud- und Kalenderdienst.",
+      "url": "https://www.heise.de/news/ProtonMail-wird-zu-Proton-Ein-Software-Oekoystem-mit-Fokus-auf-Datenschutz-7122364.html"
+    },
+    {
+      "title": "Cross-Plattform-Framework Electron 19 kehrt zum alten Releasezyklus zurück",
+      "teaser": "Den mit Version 15 eingeführten 8-wöchigen Rhythmus verlängert das Electron-Team wieder auf 12 Wochen, um Releases besser auf Chromium-Milestones abzustimmen.",
+      "url": "https://www.heise.de/news/Cross-Plattform-Framework-Electron-19-kehrt-zum-alten-Releasezyklus-zurueck-7122302.html"
+    },
+    {
+      "title": "Für den Datenkatastrophenfall: Veeam integriert Disaster-Recovery-as-a-Service",
+      "teaser": "Veeam spendiert seinem Datenmanagement-Tool Backup & Replication in Version 12 unter anderem einen neuen Notfall-Backup-Dienst.",
+      "url": "https://www.heise.de/news/Fuer-den-Datenkatastrophenfall-Veeam-integriert-Disaster-Recovery-as-a-Service-7122141.html"
+    },
+    {
+      "title": "MX Mechanical: Die ersten mechanischen Büro-Tastaturen von Logitech",
+      "teaser": "Zwei neue MX-Tastaturen von Logitech verwenden mechanische Switches. Zudem erscheint die spieletaugliche Maus MX Master 3S mit neuem optischem Sensor.",
+      "url": "https://www.heise.de/news/MX-Mechanical-Logitech-bringt-seine-ersten-mechanischen-Buero-Tastaturen-7122430.html"
+    },
+    {
+      "title": "Cisco Catalyst IW9167: Access Point für den rauen Industrieeinsatz",
+      "teaser": "Kurz vor der Eröffnung der Hannover Messe bringt Cisco Systems einen neuen Access Point mit Wi-Fi 6E für raue Umgebungen.",
+      "url": "https://www.heise.de/news/Cisco-bringt-neuen-Access-Point-fuer-den-rauen-Industrieeinsatz-7122282.html"
+    },
+    {
+      "title": "Visual Studio 2022 für Mac v17.0 arbeitet auf Apple Silicon und setzt auf .NET 6",
+      "teaser": "Parallel zum jüngsten Release der Mac-Variante von Microsofts Entwicklungsumgebung ist eine Preview der Version 17.3 erschienen.",
+      "url": "https://www.heise.de/news/Visual-Studio-2022-fuer-Mac-v17-0-arbeitet-auf-Apple-Silicon-und-setzt-auf-NET-6-7121100.html"
+    },
+    {
+      "title": "Programmiersprache TypeScript 4.7 erweitert das Modulsystem",
+      "teaser": "Die Sprache kann neuerdings neben CommonJS- auch ECMAScript-Module verarbeiten und bekommt dafür neue Dateiendungen.",
+      "url": "https://www.heise.de/news/Programmiersprache-TypeScript-4-7-erweitert-das-Modulsystem-7121916.html",
+      "image_title": "Schreibmaschine, Tastatur, Keyboard, Digitalisierung"
     },
     {
       "title": "WordPress 6.0: Ausbau von Full Site Editing & automatische Alt-Texte für Bilder",
@@ -88,48 +129,6 @@
       "teaser": "Auf der Microsoft Build 2022 hat das Unternehmen Verbesserungen für den Store angekündigt. So lassen sich installierte Apps auf neuen Rechnern wiederherstellen.",
       "url": "https://www.heise.de/news/MS-Build-2022-Microsoft-Store-deutlich-verbessert-und-aufgebohrt-7121881.html",
       "image_title": "Aufmacher MS Build 2022 Microsoft Store verbessert"
-    },
-    {
-      "title": "Fotorealistische KI-Bildsynthese: Google macht DALL-E-2 Konkurrenz – mit Imagen",
-      "teaser": "Nach OpenAI schickt auch Google ein neues KI-System ins Rennen, das mit tiefem Sprachverständnis durch Text-zu-Bild-Synthese fotorealistische Bilder erzeugt.",
-      "url": "https://www.heise.de/news/Fotorealistische-KI-Bildsynthese-Google-macht-DALL-E-2-Konkurrenz-mit-Imagen-7121826.html"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Neue Chips auf der Computex 2022",
-      "teaser": "Ryzen-Generation mit Zen 4, schnelle SSDs und mehr: Wir analysieren die Neuigkeiten von der Computermesse im Audio-Podcast Bit-Rauschen, Folge 2022/11.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Neue-Chips-auf-der-Computex-2022-6533225.html"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher und datenschutzfreundlich konfigurieren",
-      "teaser": "Wie lässt sich Microsofts Office-Paket aus der Cloud sicher und in Übereinstimmung mit den unternehmenseigenen Compliance-Regeln einsetzen? 10% Rabatt bis 8.6.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-und-datenschutzfreundlich-konfigurieren-7103224.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "WLAN-Router mit Wi-Fi 6: Synology RT6600ax im Test",
-      "teaser": "Das Spannende am Mesh-fähigen Router ist seine Firmware: Darin findet man sich sofort zurecht und richtet mit wenigen Klicks bis zu fünf Netzwerkzonen ein.",
-      "url": "https://www.heise.de/tests/WLAN-Router-mit-Wi-Fi-6-Synology-RT6600ax-im-Test-7101289.html",
-      "image_title": ","
-    },
-    {
-      "title": "c’t-WIMage: Dateien aus Image holen",
-      "teaser": "Kann sich Windows 10 beim Downgrade von Windows 11 die nötigen Treiber auch aus einem Windows-11-Image holen, das ich mit c’t-WIMage erzeugt habe?",
-      "url": "https://www.heise.de/ratgeber/c-t-WIMage-Dateien-aus-Image-holen-7099402.html"
-    },
-    {
-      "title": "Microsoft Build 2022: Erste öffentliche Version von SQL Server 2022 erschienen",
-      "teaser": "SQL Server 2022 erlaubt ein Failover lokaler Datenbankinstanzen zu Azure SQL. Die Cloud-Datenbank wird so zum Replikat, das im Notfall die Führung übernimmt.",
-      "url": "https://www.heise.de/news/Microsoft-Build-2022-Erste-oeffentliche-Version-von-SQL-Server-2022-erschienen-7121755.html"
-    },
-    {
-      "title": "Hackerangriff: Landesverwaltung von Kärnten wurde komplett lahmgelegt",
-      "teaser": "Der Angriff war am frühen Morgen bemerkt worden. Experten versuchen, herauszufinden, wer dahintersteckt. Auch Mittwoch bleiben viele Ämter geschlossen.",
-      "url": "https://www.heise.de/news/Hackerangriff-Landesverwaltung-von-Kaernten-wurde-komplett-lahmgelegt-7121628.html"
-    },
-    {
-      "title": ".NET MAUI: Microsofts neue GUI-Bibliothek für Windows, Android, iOS und macOS",
-      "teaser": "Mit der .NET Multi-Platform App UI führt Microsoft Xamarin und .NET nun endlich zur einer Cross-Plattform-Bibliothek zusammen. Linux geht dabei leer aus.",
-      "url": "https://www.heise.de/news/NET-MAUI-Microsofts-neue-GUI-Bibliothek-fuer-Windows-Android-iOS-und-macOS-7121152.html"
     },
     {
       "title": "Trendstudie",
