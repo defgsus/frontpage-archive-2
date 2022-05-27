@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-05-27T15:24:31",
+  "timestamp": "2022-05-27T16:33:12",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +25,223 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Texas-Killer chattete mit Deutscher (15) : „Sie hatte scheinbar spielerischen Kontakt mit ihm“",
+      "url": "https://www.bild.de/news/ausland/news-ausland/21-tote-bei-amoklauf-psychologe-zu-bild-es-wird-sie-sehr-lange-beschaeftigen-80220116.bild.html",
+      "image_url": "https://images.bild.de/62908a12277f7042b71a7af2/549722f256b93fd6392101ffc8ff03ba/1/3?w=656",
+      "image_title": "21 Tote bei Amoklauf – Psychologe zu BILD: „Es wird sie sehr lange beschäftigen“"
+    },
+    {
+      "title": "13 Deutsche in U-Haft : Lösen Videos das Feuer-Rätsel von Malle?",
+      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/13-kegel-brueder-auf-mallorca-in-u-haft-loesen-videos-das-feuer-raetsel-80223564.bild.html",
+      "image_url": "https://images.bild.de/6290b5616211895750ca511a/c0bfcc3f58714d22bfcde7f8e4f9db02-miniSquare/1/5?w=320",
+      "image_title": "13 Kegel-Brüder auf Mallorca in U-Haft: Lösen Videos das Feuer-Rätsel?"
+    },
+    {
+      "title": "Mallorca : Zwei Deutsche wegen Vergewaltigung in U-Haft",
+      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-urlauberin-22-am-ballermann-vergewaltigt-zwei-deutsche-in-u-haft-80223108.bild.html",
+      "image_url": "https://images.bild.de/6290bd93c166364f54f9afa8/6505f848a970eaf0da7360fa5c83ef6f-miniSquare/1/3?w=320",
+      "image_title": "Mallorca: Urlauberin (22) am Ballermann vergewaltigt? Zwei Deutsche in U-Haft"
+    },
+    {
+      "title": "Ballermann-Bar abgebrannt : Was passierte in Zimmer 1202?",
+      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/ballermann-bar-abgebrannt-auf-diesem-balkon-feierten-die-kegelfreunde-80209520.bild.html",
+      "image_url": "https://images.bild.de/628f07c6c166364f54f9ad3f/829ba44688c76c828c4c6942126d3c9d-miniSquare/1/2?w=320",
+      "image_title": "Ballermann-Bar abgebrannt: Auf diesem Balkon feierten die Kegelfreunde"
+    },
+    {
+      "title": "Polizeigewalt in Brasilien : Gefesselt, in Kofferraum gesperrt, erstickt!",
+      "url": "https://www.bild.de/news/ausland/news-ausland/mann-stirbt-in-brasilien-durch-polizeigewalt-gefesselt-in-kofferraum-gesperrt-er-80218256.bild.html",
+      "image_url": "https://images.bild.de/628ffce2277f7042b71a7aa4/78908ef35526d56522bdb266f708c8e1-miniSquare/1/3?w=320",
+      "image_title": "Mann stirbt in Brasilien durch Polizeigewalt: Gefesselt, in Kofferraum gesperrt, erstickt!"
+    },
+    {
+      "title": "Eltern klagen nach Amoklauf an : Polizei hat nicht rechtzeitig eingegriffen",
+      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-eltern-die-polizei-hat-nicht-rechtzeitig-eingegriffen-80220390.bild.html",
+      "image_title": "Amoklauf in Texas – Eltern: Die Polizei hat nicht rechtzeitig eingegriffen"
+    },
+    {
+      "title": "Amok-Killer von Texas erschoss Lehrerin : Herz-Attacke! 2 Tage später ist auch ihr Mann tot",
+      "teaser": "Eine Hinterbliebenen-Familie des Amoklaufs muss den nächsten Schicksalsschlag verkraften.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-lehrerin-erschossen-2-tage-spaeter-stirbt-ihr-mann-an-herzatta-80217414.bild.html",
+      "image_title": "Amoklauf in Texas: Lehrerin erschossen – 2 Tage später stirbt ihr Mann an Herzattacke"
+    },
+    {
+      "title": "Belästigungs-Vorwurf : Schaute Microsoft-Manager Pornos vor Mitarbeitern?",
+      "teaser": "Der US-Top-Manager von Microsoft Alex Kipman soll Gaga-Pornos geschaut haben.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/microsoft-manager-alex-kipman-soll-pornos-vor-mitarbeitern-geschaut-haben-80218918.bild.html",
+      "image_title": "Microsoft-Manager Alex Kipman soll Pornos vor Mitarbeitern geschaut haben"
+    },
+    {
+      "title": "Väter der Kegel-Brüder : „Lasst unsere Söhne frei!“",
+      "teaser": "Diese Väter sind verzweifelt: Ihre Söhne sitzen mit 11 Freunden im Knast auf Mallorca.",
+      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/vaeter-der-kegel-brueder-von-mallorca-flehen-in-bild-lasst-unsere-soehne-frei-80216420.bild.html",
+      "image_title": "Väter der Kegel-Brüder von Mallorca flehen in BILD: „Lasst unsere Söhne frei!“"
+    },
+    {
+      "title": "Treffen in Nah-Ost : OB Königs Schlüssel zum Erfolg in Israel",
+      "teaser": "Auf seiner Delegations-Reise nach Israel trifft OB Marcus König (41, CSU) auf Amtskollegen.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/treffen-mit-kollegen-in-nah-ost-ob-koenigs-schluessel-zum-erfolg-in-israel-80217366.bild.html",
+      "image_title": "Treffen mit Kollegen in Nah-Ost: OB Königs Schlüssel zum Erfolg in Israel"
+    },
+    {
+      "title": "Mutter des Amokläufers : Zum 18. Geburtstag schenkte sie ihm ein Kuscheltier",
+      "teaser": "Salvador R. beging einen der schlimmsten Schul-Amokläufe der USA. Jetzt spricht die Mutter",
+      "url": "https://www.bild.de/news/ausland/news-ausland/texas-killer-toetete-19-kinder-mutter-des-killers-er-hatte-kaum-freunde-80209000.bild.html",
+      "image_title": "Texas-Killer tötete 19 Kinder – Mutter des Killers: Er hatte kaum Freunde"
+    },
+    {
+      "title": "Einsatz an US-Schule : Sheriff-Tochter (10) bei Amoklauf getötet",
+      "teaser": "Er rückte als Sheriff aus und erfuhr, dass seine Lexi vom Texas-Killer getötet wurde.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/einsatz-an-us-grundschule-sheriff-tochter-10-bei-amoklauf-getoetet-80212416.bild.html",
+      "image_title": "Einsatz an US-Grundschule: Sheriff-Tochter (10) bei Amoklauf getötet"
+    },
+    {
+      "title": "Feuer in Krankenhaus : Elf Neugeborene tot! Baby-Tragödie im Senegal",
+      "teaser": "Bei einem Brand in einem senegalesischen Krankenhaus sind elf Babys gestorben.",
+      "url": "https://www.bild.de/news/ausland/wirtschaft/senegal-krankenhaus-brand-elf-babys-sterben-auf-neugeborenen-station-80212444.bild.html",
+      "image_title": "Senegal: Krankenhaus-Brand! Elf Babys sterben auf Neugeborenen-Station"
+    },
+    {
+      "title": "Highschool-Maulkorb : So clever umgeht dieser Teenager das Wort „schwul“",
+      "teaser": "Locker-lockig stemmt ER sich gegen das „Don’t Say Gay“-Gesetz im US-Bundesstaat Florida.",
+      "url": "https://www.bild.de/lgbt/2022/lgbt/highschool-maulkorb-so-clever-umgeht-dieser-teenager-das-wort-schwul-80210940.bild.html",
+      "image_title": "Highschool-Maulkorb: So clever umgeht dieser Teenager das Wort „schwul“"
+    },
+    {
+      "title": "Tragischer Unfalltod : Influencer und sein Hund sterben in Hippie-Käfer",
+      "teaser": "Ein brasilianischer Influencer und sein Hund sind auf ihrem US-Roadtrip ums Leben gekommen",
+      "url": "https://www.bild.de/news/ausland/news-ausland/usa-instagram-star-jesse-kozechen-und-sein-hund-sterben-bei-unfall-auf-us-highwa-80210608.bild.html",
+      "image_title": "USA: Instagram-Star Jesse Kozechen und sein Hund sterben bei Unfall auf US-Highway"
+    },
+    {
+      "title": "21 Tote bei Amoklauf : Killer kündigte Mädchen in Frankfurt Massaker an",
+      "teaser": "Der Amokläufer hatte vor seiner Tat Kontakt zu einer Deutschen (15) übers Internet.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/uvalde-texas-killer-kuendigte-maedchen-in-frankfurt-das-massaker-an-21-tote-80208530.bild.html",
+      "image_title": "Uvalde (USA): Texas-Killer kündigte Mädchen in Frankfurt das Massaker an – 21 Tote!"
+    },
+    {
+      "title": "19 Kinder tot in Texas : Als Amerie den Notruf wählte, drückte der Killer ab",
+      "teaser": "In Texas erschoss ein Mann 19 Grundschüler. Wie sich Eltern und Angehörige verabschiedeten.",
+      "url": "https://www.bild.de/bild-plus/news/2022/news/amoklauf-in-texas-usa-mit-19-toten-schuelern-das-sind-die-opfer-80199982.bild.html",
+      "image_title": "Amoklauf in Texas (USA) mit 19 toten Kindern: Diese Schüler leben nicht mehr"
+    },
+    {
+      "title": "In der Schweiz : 500 Kilo Kokain in Nespresso-Werk gefunden",
+      "teaser": "Zürich – In einem Nespresso-Werk in der Schweiz sind 500 Kilogramm Kokain mit einem geschätzten Wert von rund 50 Millionen Schweizer...",
+      "url": "https://www.bild.de/news/ausland/news-ausland/in-der-schweiz-500-kilo-kokain-in-nespresso-werk-gefunden-79994064.bild.html",
+      "image_title": "In der Schweiz: 500 Kilo Kokain in Nespresso-Werk gefunden"
+    },
+    {
+      "title": "Ballermann-Bar abgefackelt : Zweifel an Kippen-Theorie",
+      "teaser": "13 Kegelbrüder aus NRW feiern auf Mallorca. Plötzlich brennt eine Bar. Jetzt zweifelt ein Feuer-Professor in BILD die wichtigste Theorie an",
+      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-bar-abgefackelt-waren-es-wirklich-nur-zigaretten-kippen-der-kegler-80189280.bild.html",
+      "image_title": "Brand in Mallorca-Bar: Waren es wirklich nur Zigaretten-Kippen der Kegelbrüder?"
+    },
+    {
+      "title": "„Ich bin kurz davor“ : Amok-Schütze schrieb fremder Frau bei Instagram",
+      "teaser": "Der Schul-Killer von Texas kontaktierte vor seiner Tat offenbar eine wildfremde Frau bei Instagram.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/usa-schul-massaker-in-texas-amok-schuetze-schrieb-fremde-frau-bei-instagram-an-80199564.bild.html",
+      "image_title": "USA: Schul-Massaker in Texas – Amok-Schütze schrieb fremde Frau bei Instagram an"
+    },
+    {
+      "title": "Er erschoss 19 Kinder : Die Waffen kaufte der Schul-Killer am 18. Geburtstag",
+      "teaser": "Trauer und Entsetzen nach dem Amoklauf von Salvador Ramos an einer US-Grundschule.",
+      "url": "https://www.bild.de/news/ausland/politik-ausland/19-kinder-in-texas-erschossen-die-waffen-kaufte-der-schul-killer-am-18-geburtsta-80199302.bild.html",
+      "image_title": "Texas: Amoklauf an Grundschule: Die Waffen kaufte der Killer am 18. Geburtstag"
+    },
+    {
+      "title": "Kind lag zwischen Fässern : Horror-Mutter setzt Baby in Industriegebiet aus",
+      "teaser": "In Spanien hat eine Frau ihr Kind in einem Industriegebiet geboren und liegen gelassen.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/mutter-setzt-baby-in-spanien-einfach-aus-80195520.bild.html",
+      "image_title": "Mutter setzt Baby in Spanien einfach aus"
+    },
+    {
+      "title": "Kopfüber in Mini-Becken : Brite (19) bei Pool-Sprung auf Malle schwer verletzt",
+      "teaser": "Der junge Mann sprang nachts kopfüber in einen nur 50 Zentimeter tiefen Pool.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-unfall-in-magaluf-brite-19-springt-kopfueber-in-50-zentimeter-tiefen-po-80191596.bild.html",
+      "image_title": "Mallorca: Unfall in Magaluf! Brite (19) springt kopfüber in 50 Zentimeter tiefen Pool"
+    },
+    {
+      "title": "Ballermann-Bar abgefackelt : Ein schlimmer Verdacht lastet auf den Malle-Zündlern",
+      "teaser": "Palma de Mallorca/Münster - Die 13 Jungs (24-29) vom Kegelclub „Stramm am Tisch“ wollte...",
+      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-bar-abgebrannt-sechs-malle-zuendler-sind-feuerwehrmaenner-80186548.bild.html",
+      "image_title": "Mallorca-Bar abgebrannt: Sechs Malle-Zündler sind Feuerwehrmänner"
+    },
+    {
+      "title": "Käfigkämpfer ohne Käfig : BILD beim verbotenen Fight Club vor den Toren Roms",
+      "teaser": "Rom – Vor den Toren Roms steht der idyllische Bauernhof „Casa della Vaccereccia“, erbau...",
+      "url": "https://www.bild.de/bild-plus/news/ausland/muenchen-aktuell/bild-war-dabei-groesster-fight-club-der-welt-trifft-sich-in-rom-80167686.bild.html",
+      "image_title": "Käfigkämpfer ohne Käfig : BILD beim verbotenen Fight Club vor den Toren Roms"
+    },
+    {
+      "title": "Kostüm täuschend echt! : Japaner lebt als Hund",
+      "url": "https://www.bild.de/video/clip/video/kostuem-taeuschend-echt-japaner-lebt-als-hund-80221028,auto=true.bild.html",
+      "image_title": "Kostüm täuschend echt!: Japaner lebt als Hund"
+    },
+    {
+      "title": "Dicke Wolken über der Bucht : Sydney versinkt im Nebel",
+      "url": "https://www.bild.de/video/clip/video/dicke-wolken-ueber-der-bucht-sydney-versinkt-im-nebel-80224522,auto=true.bild.html",
+      "image_title": "Dicke Wolken über der Bucht: Sydney versinkt im Nebel"
+    },
+    {
+      "title": "Nach Amoklauf in Texas : Kritik an Polizei-Einsatz wächst",
+      "url": "https://www.bild.de/video/clip/video/nach-amoklauf-in-texas-kritik-an-polizei-einsatz-waechst-80223858,auto=true.bild.html",
+      "image_title": "Nach Amoklauf in Texas: Kritik an Polizei-Einsatz wächst"
+    }
+  ]
 }
