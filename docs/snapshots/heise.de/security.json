@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-27T07:21:09",
+  "timestamp": "2022-05-27T08:27:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Tails, Tor Browser",
+      "url": "https://www.heise.de/news/Warten-auf-abgesicherte-Version-Anonymes-Surfen-unter-Tails-gefaehrdet-7123771.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-102-schliesst-32-Sicherheitsluecken-7122031.html"
     },
@@ -44,20 +48,21 @@
       "url": "https://www.heise.de/news/Zyxel-Luecken-in-Access-Points-Access-Point-Controllern-und-Firewalls-7108626.html"
     },
     {
-      "title": "Firefox, Thunderbird",
-      "url": "https://www.heise.de/news/Firefox-Thunderbird-Kritische-Luecken-aus-Hacker-Wettbewerb-Pwn2Own-geschlossen-7104037.html"
-    },
-    {
-      "title": "BSI: Aktualisierte Analysen von sicherheitskritischen Windows-Funktionen",
-      "teaser": "Das BSI meldet, dass es seine Sicherheits-Analysen aus dem SiSyPHuS-Projekt aktualisiert hat. Diese sind nun auf dem Stand von Windows 10 Version 1809.",
-      "url": "https://www.heise.de/news/BSI-Aktualisierte-Analysen-von-sicherheitskritischen-Windows-Funktionen-7122437.html",
-      "image_title": "Aufmacher BSI aktualisiert SISyPHuS-Dokumentation"
-    },
-    {
       "title": "Webbrowser: Google Chrome 102 schließt 32 Sicherheitslücken",
       "teaser": "Der Webbrowser Google Chrome ist in Version 102 erschienen, die eine große Zahl an Sicherheitslücken abdichtet. Sie soll ungenannte neue Features enthalten.",
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-102-schliesst-32-Sicherheitsluecken-7122031.html",
       "image_title": "Aufmacher Google Chrome 102"
+    },
+    {
+      "title": "Sicherheitsupdate: Angreifer könnten Zoom-Chats belauschen",
+      "teaser": "Jetzt aktualisieren: Der Zoom-Client ist unter Android, iOS, Linux, macOS und Windows verwundbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennten-Zoom-Chats-belauschen-7121961.html"
+    },
+    {
+      "title": "BSI: Erste IT-Sicherheitskennzeichen für Internetrouter vergeben",
+      "teaser": "Das BSI will Sicherheit und Qualität von Geräten mit dem IT-Sicherheitskennzeichen belohnen. Es hat nun die ersten Formulare von Routern fertig geprüft.",
+      "url": "https://www.heise.de/news/BSI-Erste-IT-Sicherheitskennzeichen-fuer-Internetrouter-vergeben-7121094.html",
+      "image_title": "Aufmacher Erste IT-Sicherheitskennzeichen für Router"
     },
     {
       "title": "l+f: Ein Erpressungstrojaner macht auf Robin Hood",
@@ -65,14 +70,14 @@
       "url": "https://www.heise.de/news/l-f-Ein-Erpressungstrojaner-macht-auf-Robin-Hood-7121350.html"
     },
     {
+      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
+      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
+    },
+    {
       "title": "Cybercrime: Ransomware-Gruppe Conti löst sich auf und erfindet sich neu",
       "teaser": "Die \"zerstörerischste Ransomware\" soll verschwinden; der Angriff auf Costa Rica ist offenbar nur das Grande Finale. Doch im Hintergrund wird weiter erpresst.",
       "url": "https://www.heise.de/news/Cybercrime-Ransomware-Gruppe-Conti-loest-sich-auf-und-erfindet-sich-neu-7103998.html"
-    },
-    {
-      "title": "Verblüffendes zur Energiebilanz von Rechenzentren",
-      "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
     },
     {
       "title": "Zyxel: Lücken in Access-Points, Access-Point-Controllern und Firewalls",
@@ -155,12 +160,6 @@
       "teaser": "Microsofts Sicherheitsteams warnen vor Angriffen auf MSSQL, die nach initialem Einbruch nicht mehr Powershell zur weiteren Ausbreitung nutzen.",
       "url": "https://www.heise.de/news/Microsoft-Neue-Masche-zur-Erkennungsumgehung-bei-MSSQL-Angriffen-7099811.html",
       "image_title": "Aufmacher SQL-Angreifer umgehen Powershell-Erkennung"
-    },
-    {
-      "title": "Qnap warnt vor Ransomware-Angriffen auf Netzwerkspeicher",
-      "teaser": "Der Hersteller Qnap warnt vor neuen Angriffen mit Ransomware auf die Netzwerkspeicher des Unternehmens. Admins sollen bereitstehende Updates zügig installieren.",
-      "url": "https://www.heise.de/news/Qnap-warnt-vor-Ransomware-Angriffen-auf-Netzwerkspeicher-7099676.html",
-      "image_title": "Aufmacher Ransomware-Angriffe auf Qnap"
     },
     {
       "title": "heise Security Tour 2022",
