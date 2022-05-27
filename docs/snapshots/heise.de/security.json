@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-27T09:22:44",
+  "timestamp": "2022-05-27T10:26:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
+    },
+    {
       "title": "Tails, Tor Browser",
       "url": "https://www.heise.de/news/Warten-auf-abgesicherte-Version-Anonymes-Surfen-unter-Tails-gefaehrdet-7123771.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennten-Zoom-Chats-belauschen-7121961.html"
     },
     {
-      "title": "Zyxel",
-      "url": "https://www.heise.de/news/Zyxel-Luecken-in-Access-Points-Access-Point-Controllern-und-Firewalls-7108626.html"
+      "title": "Sicherheitsupdates: Angreifer könnten Netzwerk-Hardware von Citrix lahmlegen",
+      "teaser": "Es gibt wichtige Sicherheitspatches für Citritx ADC und Citrix Gateway. Angreifer könnten die Netzwerk-Hardware lahmlegen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
     },
     {
       "title": "Webbrowser: Google Chrome 102 schließt 32 Sicherheitslücken",
@@ -65,14 +70,14 @@
       "image_title": "Aufmacher Erste IT-Sicherheitskennzeichen für Router"
     },
     {
+      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
+      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
+    },
+    {
       "title": "l+f: Ein Erpressungstrojaner macht auf Robin Hood",
       "teaser": "Bei der GoodWill-Ransomware ist der Name Programm.",
       "url": "https://www.heise.de/news/l-f-Ein-Erpressungstrojaner-macht-auf-Robin-Hood-7121350.html"
-    },
-    {
-      "title": "Verblüffendes zur Energiebilanz von Rechenzentren",
-      "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
     },
     {
       "title": "Cybercrime: Ransomware-Gruppe Conti löst sich auf und erfindet sich neu",
@@ -154,12 +159,6 @@
       "teaser": "In den Zugangssicherungsgeräten der SMA-100-Reihe von Sonicwall könnten Nutzer eigene Befehle als root ausführen. Ein Firmware-Update steht bereit.",
       "url": "https://www.heise.de/news/Nutzer-koennten-Sonicwall-SMA-100-beliebigen-Code-unterjubeln-7099955.html",
       "image_title": "Aufmacher Sonicwall SMA-100 Sicherheitslücke RCE"
-    },
-    {
-      "title": "Microsoft: Neue Masche zur Erkennungsumgehung bei MSSQL-Angriffen",
-      "teaser": "Microsofts Sicherheitsteams warnen vor Angriffen auf MSSQL, die nach initialem Einbruch nicht mehr Powershell zur weiteren Ausbreitung nutzen.",
-      "url": "https://www.heise.de/news/Microsoft-Neue-Masche-zur-Erkennungsumgehung-bei-MSSQL-Angriffen-7099811.html",
-      "image_title": "Aufmacher SQL-Angreifer umgehen Powershell-Erkennung"
     },
     {
       "title": "heise Security Tour 2022",
