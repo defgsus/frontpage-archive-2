@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-29T04:36:42",
+  "timestamp": "2022-05-29T05:23:52",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,211 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.1b56b5e5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.41eafa07.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4d77654b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3df20b9b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.558b2065.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d53e87bd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Während 19 Polizisten Killer gewähren ließen : Mutter rettet ihre Kinder vor Texas-Amokläufer",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-mutter-rettet-ihre-kinder-waehrend-polizisten-killer-gewaehren-80232488.bild.html",
-      "image_url": "https://images.bild.de/62923ac9c166364f54f9b12e/69325d0bf5a2833e01207de7523e99a7/1/2?w=656",
-      "image_title": "Amoklauf in Texas: Mutter rettet ihre Kinder, während Polizisten Killer gewähren ließen"
-    },
-    {
-      "title": "Nach Instagram-Post : Rapper (†16) bei Videodreh erschossen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/rapper-16-postet-seinen-standort-bei-instagram-dann-wird-er-erschossen-80231164.bild.html",
-      "image_url": "https://images.bild.de/6292141fc166364f54f9b0f5/d149dc3773a1b52c070d377700918a6f-miniSquare/3/2?w=320",
-      "image_title": "Rapper (†16) postet seinen Standort bei Instagram, dann wird er erschossen"
-    },
-    {
-      "title": "Wegen Drogen und Gewalt : Neue Maßnahmen! So wird auf Malle durchgegriffen",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/drogen-gewalt-illegale-strandpartys-mehr-polizei-und-deftige-strafen-am-ballerma-80230410.bild.html",
-      "image_url": "https://images.bild.de/6291fbd76211895750ca526f/d7ae10a346ba9fef65ef71ed7ea821c4-miniSquare/2/2?w=320",
-      "image_title": "Drogen, Gewalt, illegale Strandpartys: Neue Maßnahmen! So wird auf Malle jetzt durchgegriffen"
-    },
-    {
-      "title": "57 Jahre Unterschied : 19-Jähriger will 76-Jährige heiraten",
-      "url": "https://www.bild.de/news/ausland/news-ausland/tiktok-fake-19-jaehriger-will-76-jaehrige-heiraten-80230388.bild.html",
-      "image_url": "https://images.bild.de/6291f96a6211895750ca526c/67d5d89a6cdbc3704142e63bc19ff7c6-miniSquare/1/2?w=320",
-      "image_title": "TikTok-Fake? 19-Jähriger will 76-Jährige heiraten"
-    },
-    {
-      "title": "See der Mafia-Leichen : „Wir starrten fassungslos auf den Totenkopf“",
-      "teaser": "Die Klima-Zukunft enthüllt die Mafia-Vergangenheit – zumindest in Las Vegas!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bild-am-us-see-der-mafia-leichen-wir-starrten-fassungslos-auf-den-totenkopf-80190066.bild.html",
-      "image_title": "BILD am US-See der Mafia-Leichen: „Wir starrten fassungslos auf den Totenkopf“"
-    },
-    {
-      "title": "NACH FEUER IN MALLE-BAR : Knast-Geschenke für Kegel-Brüder",
-      "teaser": "Die Eltern der 13 Kegel-Brüder sind verzweifelt: Ihre Söhne sitzen auf Malle in U-Haft.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/u-haft-in-mallorca-nach-bar-brand-eltern-brachten-den-kegel-bruedern-geld-in-kna-80225652.bild.html",
-      "image_title": "U-Haft in Mallorca nach Bar-Brand: Eltern brachten den Kegel-Brüdern Geld in Knast"
-    },
-    {
-      "title": "In den USA : Frau lässt 4 Hunde bei Hitze im Auto – alle tot!",
-      "teaser": "Tesia White (25) soll ihre Hunde bei mehr als 30 Grad im Auto eingesperrt haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-frau-laesst-vier-hunde-bei-hitze-im-auto-alle-tot-80229672.bild.html",
-      "image_title": "USA: Frau lässt vier Hunde bei Hitze im Auto – alle tot"
-    },
-    {
-      "title": "Texas-Killer + 15-Jährige : „Sie hatte scheinbar spielerischen Kontakt mit ihm“",
-      "teaser": "Hätte eine Teenagerin die Behörden warnen können? BILD sprach mit einem Psychologen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/21-tote-bei-amoklauf-psychologe-zu-bild-es-wird-sie-sehr-lange-beschaeftigen-80220116.bild.html",
-      "image_title": "21 Tote bei Amoklauf – Psychologe zu BILD: „Es wird sie sehr lange beschäftigen“"
-    },
-    {
-      "title": "13 Deutsche in U-Haft : Lösen Videos das Feuer-Rätsel von Malle?",
-      "teaser": "Videos sollen die brennende Ballermann-Bar zeigen, für das 13 Deutsche in U-Haft sitzen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/13-kegel-brueder-auf-mallorca-in-u-haft-loesen-videos-das-feuer-raetsel-80223564.bild.html",
-      "image_title": "13 Kegel-Brüder auf Mallorca in U-Haft: Lösen Videos das Feuer-Rätsel?"
-    },
-    {
-      "title": "Mallorca : Zwei Deutsche wegen Vergewaltigung in U-Haft",
-      "teaser": "Erneut sind auf Mallorca zwei Deutsche ins Gefängnis gewandert.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-urlauberin-22-am-ballermann-vergewaltigt-zwei-deutsche-in-u-haft-80223108.bild.html",
-      "image_title": "Mallorca: Urlauberin (22) am Ballermann vergewaltigt? Zwei Deutsche in U-Haft"
-    },
-    {
-      "title": "Ballermann-Bar abgebrannt : Was passierte in Zimmer 1202?",
-      "teaser": "Die 13 Kegelbrüder sitzen im Knast, ihr Hotelzimmer wurde an drei Frauen vermietet.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/ballermann-bar-abgebrannt-auf-diesem-balkon-feierten-die-kegelfreunde-80209520.bild.html",
-      "image_title": "Ballermann-Bar abgebrannt: Auf diesem Balkon feierten die Kegelfreunde"
-    },
-    {
-      "title": "Polizeigewalt in Brasilien : Gefesselt, in Kofferraum gesperrt, erstickt – Mann tot",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mann-stirbt-in-brasilien-durch-polizeigewalt-gefesselt-in-kofferraum-gesperrt-er-80218256.bild.html",
-      "image_title": "Mann stirbt in Brasilien durch Polizeigewalt: Gefesselt, in Kofferraum gesperrt, erstickt!"
-    },
-    {
-      "title": "Texas-Killer : Eltern: Polizei griff nicht rechtzeitig ein",
-      "teaser": "Die Polizei gerät nach dem Blutbad in einer Grundschule in Texas in Kritik.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-eltern-die-polizei-hat-nicht-rechtzeitig-eingegriffen-80220390.bild.html",
-      "image_title": "Amoklauf in Texas – Eltern: Die Polizei hat nicht rechtzeitig eingegriffen"
-    },
-    {
-      "title": "Amok-Killer von Texas erschoss Lehrerin : Herz-Attacke! 2 Tage später ist auch ihr Mann tot",
-      "teaser": "Eine Hinterbliebenen-Familie des Amoklaufs muss den nächsten Schicksalsschlag verkraften.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-lehrerin-erschossen-2-tage-spaeter-stirbt-ihr-mann-an-herzatta-80217414.bild.html",
-      "image_title": "Amoklauf in Texas: Lehrerin erschossen – 2 Tage später stirbt ihr Mann an Herzattacke"
-    },
-    {
-      "title": "Belästigungs-Vorwurf : Schaute Microsoft-Manager Pornos vor Mitarbeitern?",
-      "teaser": "Der US-Top-Manager von Microsoft Alex Kipman soll Gaga-Pornos geschaut haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/microsoft-manager-alex-kipman-soll-pornos-vor-mitarbeitern-geschaut-haben-80218918.bild.html",
-      "image_title": "Microsoft-Manager Alex Kipman soll Pornos vor Mitarbeitern geschaut haben"
-    },
-    {
-      "title": "Väter der Kegel-Brüder : „Lasst unsere Söhne frei!“",
-      "teaser": "Diese Väter sind verzweifelt: Ihre Söhne sitzen mit 11 Freunden im Knast auf Mallorca.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/vaeter-der-kegel-brueder-von-mallorca-flehen-in-bild-lasst-unsere-soehne-frei-80216420.bild.html",
-      "image_title": "Väter der Kegel-Brüder von Mallorca flehen in BILD: „Lasst unsere Söhne frei!“"
-    },
-    {
-      "title": "Treffen in Nah-Ost : OB Königs Schlüssel zum Erfolg in Israel",
-      "teaser": "Auf seiner Delegations-Reise nach Israel trifft OB Marcus König (41, CSU) auf Amtskollegen.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/treffen-mit-kollegen-in-nah-ost-ob-koenigs-schluessel-zum-erfolg-in-israel-80217366.bild.html",
-      "image_title": "Treffen mit Kollegen in Nah-Ost: OB Königs Schlüssel zum Erfolg in Israel"
-    },
-    {
-      "title": "Mutter des Amokläufers : Zum 18. Geburtstag schenkte sie ihm ein Kuscheltier",
-      "teaser": "Salvador R. beging einen der schlimmsten Schul-Amokläufe der USA. Jetzt spricht die Mutter",
-      "url": "https://www.bild.de/news/ausland/news-ausland/texas-killer-toetete-19-kinder-mutter-des-killers-er-hatte-kaum-freunde-80209000.bild.html",
-      "image_title": "Texas-Killer tötete 19 Kinder – Mutter des Killers: Er hatte kaum Freunde"
-    },
-    {
-      "title": "Einsatz an US-Schule : Sheriff-Tochter (10) bei Amoklauf getötet",
-      "teaser": "Er rückte als Sheriff aus und erfuhr, dass seine Lexi vom Texas-Killer getötet wurde.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/einsatz-an-us-grundschule-sheriff-tochter-10-bei-amoklauf-getoetet-80212416.bild.html",
-      "image_title": "Einsatz an US-Grundschule: Sheriff-Tochter (10) bei Amoklauf getötet"
-    },
-    {
-      "title": "Feuer in Krankenhaus : Elf Neugeborene tot! Baby-Tragödie im Senegal",
-      "teaser": "Bei einem Brand in einem senegalesischen Krankenhaus sind elf Babys gestorben.",
-      "url": "https://www.bild.de/news/ausland/wirtschaft/senegal-krankenhaus-brand-elf-babys-sterben-auf-neugeborenen-station-80212444.bild.html",
-      "image_title": "Senegal: Krankenhaus-Brand! Elf Babys sterben auf Neugeborenen-Station"
-    },
-    {
-      "title": "Highschool-Maulkorb : So clever umgeht dieser Teenager das Wort „schwul“",
-      "teaser": "Locker-lockig stemmt ER sich gegen das „Don’t Say Gay“-Gesetz im US-Bundesstaat Florida.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/highschool-maulkorb-so-clever-umgeht-dieser-teenager-das-wort-schwul-80210940.bild.html",
-      "image_title": "Highschool-Maulkorb: So clever umgeht dieser Teenager das Wort „schwul“"
-    },
-    {
-      "title": "Tragischer Unfalltod : Influencer und sein Hund sterben in Hippie-Käfer",
-      "teaser": "Ein brasilianischer Influencer und sein Hund sind auf ihrem US-Roadtrip ums Leben gekommen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-instagram-star-jesse-kozechen-und-sein-hund-sterben-bei-unfall-auf-us-highwa-80210608.bild.html",
-      "image_title": "USA: Instagram-Star Jesse Kozechen und sein Hund sterben bei Unfall auf US-Highway"
-    },
-    {
-      "title": "21 Tote bei Amoklauf : Killer kündigte Mädchen in Frankfurt Massaker an",
-      "teaser": "Der Amokläufer hatte vor seiner Tat Kontakt zu einer Deutschen (15) übers Internet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/uvalde-texas-killer-kuendigte-maedchen-in-frankfurt-das-massaker-an-21-tote-80208530.bild.html",
-      "image_title": "Uvalde (USA): Texas-Killer kündigte Mädchen in Frankfurt das Massaker an – 21 Tote!"
-    },
-    {
-      "title": "Unveröffentlichte Videos : Dokumentation zeigt die junge Queen",
-      "url": "https://www.bild.de/video/clip/video/queen-als-junges-maedchen-zum-thronjubilaeum-oeffnet-elizabeth-ii-archiv-80234170,auto=true.bild.html",
-      "image_title": "Queen als junges Mädchen: Zum Thronjubiläum öffnet Elizabeth II Archiv"
-    },
-    {
-      "title": "Auto kracht in Geschäft : Bremsen!!!! Nicht Gas geben!",
-      "url": "https://www.bild.de/video/clip/video/auto-kracht-in-geschaeft-bremsen-nicht-gas-geben-80233270,auto=true.bild.html",
-      "image_title": "Auto kracht in Geschäft: Bremsen!!!! Nicht Gas geben!"
-    },
-    {
-      "title": "Kein Sex, aber richtig viel Kohle : Das Geld wächst unter ihren Armen",
-      "url": "https://www.bild.de/video/clip/video/kein-sex-aber-richtig-viel-kohle-das-geld-waechst-unter-ihren-armen-80229460,auto=true.bild.html",
-      "image_title": "Kein Sex, aber richtig viel Kohle: Das Geld wächst unter ihren Armen"
-    }
-  ]
+  "articles": []
 }
