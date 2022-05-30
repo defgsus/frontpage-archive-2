@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-30T07:23:11",
+  "timestamp": "2022-05-30T08:29:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.95ec00fb40d174920d01",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d0951b75d54d0e383909",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Microsoft Office",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Microsoft-Office-erlaubt-Codeschmuggel-7125635.html"
+    },
     {
       "title": "Citrix",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-102-schliesst-32-Sicherheitsluecken-7122031.html"
     },
     {
-      "title": "Zoom",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennten-Zoom-Chats-belauschen-7121961.html"
+      "title": "Zero-Day-Lücke in Microsoft Office ermöglicht Codeschmuggel",
+      "teaser": "Sicherheitsforscher haben ein Word-Dokument entdeckt, das beim Öffnen Schadcode nachladen und ausführen kann. Aktuelle Software scheint davor zu schützen.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Microsoft-Office-erlaubt-Codeschmuggel-7125635.html",
+      "image_title": "Aufmacher MS Office Zero-Day"
     },
     {
       "title": "Sicherheitsupdates: Angreifer könnten Netzwerk-Hardware von Citrix lahmlegen",
@@ -64,15 +70,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennten-Zoom-Chats-belauschen-7121961.html"
     },
     {
+      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
+      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
+    },
+    {
       "title": "BSI: Erste IT-Sicherheitskennzeichen für Internetrouter vergeben",
       "teaser": "Das BSI will Sicherheit und Qualität von Geräten mit dem IT-Sicherheitskennzeichen belohnen. Es hat nun die ersten Formulare von Routern fertig geprüft.",
       "url": "https://www.heise.de/news/BSI-Erste-IT-Sicherheitskennzeichen-fuer-Internetrouter-vergeben-7121094.html",
       "image_title": "Aufmacher Erste IT-Sicherheitskennzeichen für Router"
-    },
-    {
-      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
-      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
     },
     {
       "title": "l+f: Ein Erpressungstrojaner macht auf Robin Hood",
@@ -153,12 +159,6 @@
       "title": "Angreifer könnten mit DNS-Software BIND erstellte TLS-Sessions \"zerstören\"",
       "teaser": "Es gibt ein wichtiges Sicherheitsupdate für BIND, welches Admins zeitnah installieren sollten.",
       "url": "https://www.heise.de/news/Angreifer-koennten-mit-DNS-Software-BIND-erstellte-TLS-Sessions-zerstoeren-7101032.html"
-    },
-    {
-      "title": "Nutzer könnten Sonicwall SMA-100 beliebigen Code unterjubeln",
-      "teaser": "In den Zugangssicherungsgeräten der SMA-100-Reihe von Sonicwall könnten Nutzer eigene Befehle als root ausführen. Ein Firmware-Update steht bereit.",
-      "url": "https://www.heise.de/news/Nutzer-koennten-Sonicwall-SMA-100-beliebigen-Code-unterjubeln-7099955.html",
-      "image_title": "Aufmacher Sonicwall SMA-100 Sicherheitslücke RCE"
     },
     {
       "title": "heise Security Tour 2022",
