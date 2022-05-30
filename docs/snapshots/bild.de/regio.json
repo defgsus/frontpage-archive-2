@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-05-30T16:32:16",
+  "timestamp": "2022-05-30T17:26:32",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.2b4f9179.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.3a50bbb8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.58d93500.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.625e84b9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0c78efd0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9cc2f67a.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Vorfall in Halle : Tramfahrer prügelt Jugendlichen brutal zusammen",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/halle-fahrer-schlaegt-jugendlichen-in-strassenbahn-brutal-zusammen-80246244.bild.html",
-      "image_title": "Video: Fahrer schlägt Jugendlichen in Straßenbahn brutal zusammen"
-    },
-    {
-      "title": "3000 Euro Abmahnung : Ich geriet in die „Frida“-Falle",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/3000-euro-abmahnung-wegen-einer-tasche-die-frida-falle-80237364.bild.html",
-      "image_title": "3000 Euro Abmahnung wegen einer Tasche: Die „Frida“-Falle!"
-    },
-    {
-      "title": "Unglück mit Cessna 182 : Deutsche stürzen über Kroatien ab – tot!",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/alle-vier-insassen-tot-flieger-aus-leverkusen-in-kroatien-abgestuerzt-80247706.bild.html",
-      "image_title": "Alle vier Insassen tot: Flieger aus Leverkusen in Kroatien abgestürzt"
-    },
-    {
-      "title": "Rentner (76) in Berlin überfallen : Luxusuhren Räuber in Dresden gefasst",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/bandenkriminalitaet-mutmassliche-luxusuhren-raeuber-in-dresden-gefasst-80249826.bild.html",
-      "image_title": "Bandenkriminalität: Mutmaßliche Luxusuhren-Räuber in Dresden gefasst"
-    },
-    {
-      "title": "Nächstes Wohn-Debakel in Berlin? : Giffey will Miete an Gehalt koppeln!",
-      "teaser": "Berliner sollen einen Maximal-Prozentsatz ihres Haushalts-Nettoeinkommens als Miete zahlen müssen.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-regional-politik-und-wirtschaft/berlins-buergermeisterin-giffey-will-miete-an-gehalt-koppeln-80239290.bild.html",
-      "image_title": "Berlin-Bürgermeisterin Franziska Giffey will Miete an Gehalt koppeln"
-    },
-    {
-      "title": "Bei Jugend-Fußballspiel : Vater würgt 14-Jährigen nach Foul",
-      "teaser": "Schock-Szenen bei einem C-Jugendspiel in Berlin.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/schande-bei-jugend-fussballspiel-vater-wuergt-14-jaehrigen-droht-eltern-mit-mess-80240804.bild.html",
-      "image_title": "Schande bei Jugend-Fußballspiel: Vater würgt 14-Jährigen, droht Eltern mit Messer!"
-    },
-    {
-      "title": "Ex-Boss ist jetzt Buch-Autor : Bode „Wir haben weniger Panik vor der Zukunft“",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-buch-autor-marco-bode-wir-haben-jetzt-weniger-panik-vor-der-zukunf-80250152.bild.html",
-      "image_title": "Werder Bremen: Buch-Autor Marco Bode: „Wir haben jetzt weniger Panik vor der Zukunft“"
-    },
-    {
-      "title": "Schaf-Massaker : Wolfsangst am Gartenzaun",
-      "teaser": "Schafe lagen leblos mit verdrehtem Kopf im Gras, an der Kehle klafften Wunden. Wolfsangst!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/schaf-massaker-in-osterholzer-wohngebiet-wolfs-angst-am-gartenzaun-80246920.bild.html",
-      "image_title": "Schaf-Massaker in Osterholzer Wohngebiet: Wolfsangst am Gartenzaun"
-    },
-    {
-      "title": "Fehlverhalten liegt nicht vor : Todes-Crash auf den Matjestagen war „Unglück“!",
-      "teaser": "Die Polizei geht von einem „tragischen Unglücksfall“ aus, ein Fehlverhalten würde nicht vorliegen.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/fehlverhalten-und-technische-maengel-liegen-nicht-vor-todes-crash-auf-den-matjes-80246926.bild.html",
-      "image_title": "Fehlverhalten und technische Mängel liegen nicht vor : Todes-Crash auf den Matjestagen war „Unglück“!"
-    },
-    {
-      "title": "Tierischer Einsatz in Sachsen : Rindvieh sorgt für Sperrung der A 72",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-kuh-blockiert-eine-stunde-die-autobahn-80249294.bild.html",
-      "image_title": "Sachsen: Kuh blockiert eine Stunde die Autobahn"
-    },
-    {
-      "title": "Wer macht denn so was? : Kalb in den Kopf geschossen",
-      "teaser": "Als das verletzte Kälbchen auf der Weide gefunden wurde, steckte der Pfeil noch im Kopf!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/tierquaelerei-in-sachsen-kalb-in-den-kopf-geschossen-wer-war-das-80251710.bild.html",
-      "image_title": "Tierquälerei in Sachsen: Kalb in den Kopf geschossen – Wer war das?"
-    },
-    {
-      "title": "Chemnitz : Bärenjungen bald wieder da",
-      "teaser": "Bildhauer Jochen Müller zeigt erste Fotos der Figuren für den Chemnitzer Bärenbrunnen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitzer-baerenjungen-uns-gibs-bald-wieder-80250992.bild.html",
-      "image_title": "Chemnitzer Bärenjungen: Uns Gibs bald wieder"
-    },
-    {
-      "title": "Neuzugang in Dresden erwischt : Dynamo holt diesen Drittliga-Star!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/dynamo-dresden-neuzugang-erwischt-dynamo-holt-diesen-drittliga-star-80251742.bild.html",
-      "image_title": "Dynamo Dresden: Neuzugang erwischt! Dynamo holt diesen Drittliga-Star"
-    },
-    {
-      "title": "Innenverteidiger kommt aus Freiburg : Dynamo holt Kammerknecht",
-      "teaser": "Dynamo hat Claudio Kammerknecht (22) verpflichtet. Der Innenverteidiger kommt von Drittligist SC Freiburg U23.",
-      "url": "https://www.bild.de/sport/fussball/fussball/innenverteidiger-kommt-aus-freiburg-dynamo-holt-kammerknecht-80248814.bild.html",
-      "image_title": "Innenverteidiger kommt aus Freiburg: Dynamo holt Kammerknecht"
-    },
-    {
-      "title": "Viele kräne, große Pläne : Was wo in Dresden gebaut wird",
-      "teaser": "2,6 Milliarden Euro wurden laut Gutachterausschuss der Landeshauptstadt letztes Jahr auf dem Dresdner Immobilienmarkt umgesetzt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-viele-kraene-grosse-plaene-was-wo-in-dresden-gebaut-wird-80249010.bild.html",
-      "image_title": "Dresden: viele Kräne, große Pläne - was wo in Dresden gebaut wird"
-    },
-    {
-      "title": "Sportdirektor im Interview - Teil 1 : So plant Weber die neue Fortuna",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fortuna-duesseldorf-so-plant-christian-weber-die-neue-fortuna-80239542.bild.html",
-      "image_title": "Fortuna Düsseldorf: So plant Christian Weber die neue Fortuna - Teil 1"
-    },
-    {
-      "title": "Weber legt sich fest – Teil 2 : Appelkamp wird der neue Chef!",
-      "teaser": "Christian Weber (38), zuvor Spieler und Scout bei Fortuna, ist seit Februar Sportdirektor. Teil 2 des BILD-Interviews. BILD: Shinta ...",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/weber-legt-sich-fest-teil-2-appelkamp-wird-der-neue-chef-80249958.bild.html",
-      "image_title": "Weber legt sich fest – Teil 2: Appelkamp wird der neue Chef!"
-    },
-    {
-      "title": "Härtester Feuerwehrmann der Welt : Ralf Sikorra hat die 112 im Blut",
-      "teaser": "Bei den „World Firefighter Games“ in Lissabon wurde Sikorra gleich zweimal Weltmeister.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/ralf-sikorra-ist-der-haerteste-feuerwehrmann-der-welt-er-hat-die-112-im-blut-80249202.bild.html",
-      "image_title": "Ralf Sikorra ist der härteste Feuerwehrmann der Welt: Er hat die 112 im Blut"
-    },
-    {
-      "title": "Opfer erstochen und erstickt, 500 Euro Beute : Prozess um Raubmord von 1994",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/opfer-erstochen-und-erstickt-prozess-um-raubmord-von-1994-80249412.bild.html",
-      "image_title": "Opfer erstochen und erstickt: Prozess um Raubmord von 1994"
-    },
-    {
-      "title": "Schild-Bürger-Streich? : Rätsel um fiese Feldmann-Plakate",
-      "teaser": "Fiese Feldmann-Feinde haben in Frankfurt verunglimpfende Plakate aufgehängt.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-schild-buerger-streich-raetsel-um-fiese-feldmann-plakate-80246470.bild.html",
-      "image_title": "Frankfurt: Schild-Bürger-Streich: Rätsel um fiese Feldmann-Plakate"
-    },
-    {
-      "title": "Vorteilsannahme : Anklage gegen Frankfurts OB zugelassen",
-      "teaser": "Jetzt wird's ernst für Peter Feldmann: Anklage zugelassen!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/vorteilsannahme-anklage-gegen-frankfurts-ob-peter-feldmann-zugelassen-80249596.bild.html",
-      "image_title": "Vorteilsannahme: Anklage gegen Frankfurts OB Peter Feldmann zugelassen"
-    },
-    {
-      "title": "Brand im Asklepios-Klinikum Rissen : Feuer-Schreck in der geschlossenen Psychiatrie",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/brand-im-asklepios-klinikum-rissen-feuer-schreck-in-der-geschlossenen-psychiatri-80252696.bild.html",
-      "image_title": "Brand im Asklepios-Klinikum Rissen: Feuer-Schreck in der geschlossenen Psychiatrie"
-    },
-    {
-      "title": "175 Jahre Hapag-Lloyd : Meer Tradition geht nicht",
-      "teaser": "Bei Hapag-Lloyd, fünftgrößte Containerreederei der Welt mit Sitz am Ballindamm, wird kräftig gefeiert.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/175-jahre-hapag-lloyd-auf-388-seiten-meer-tradition-geht-nicht-80246708.bild.html",
-      "image_title": "175 Jahre Hapag-Lloyd auf 388 Seiten: Meer Tradition geht nicht"
-    },
-    {
-      "title": "5.12 Uhr mit 1,3 Promille : Mode-Millionär betrunken auf E-Roller erwischt",
-      "teaser": "Der Mann auf dem E-Scooter, den die Polizei um 5.12 Uhr stoppte, hatte 1,3 Promille – und hieß Müller ...",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/um-5-12-uhr-mit-1-3-promille-mode-millionaer-betrunken-auf-e-roller-erwischt-80246482.bild.html",
-      "image_title": "Um 5.12 Uhr mit 1,3 Promille: Mode-Millionär betrunken auf E-Roller erwischt"
-    },
-    {
-      "title": "CDU-Minister durften doch mit Kanzler Scholz auf Messe-Rundgang : Treffen der Ausgeladenen",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/cdu-minister-durften-doch-mit-kanzler-scholz-auf-messe-rundgang-treffen-der-ausg-80247012.bild.html",
-      "image_title": "CDU-Minister durften doch mit Kanzler Scholz auf Messe-Rundgang: Treffen der Ausgeladenen"
-    },
-    {
-      "title": "Männersache – dann kam Vanessa : Die TRADITIONS- BRUCHmeisterin",
-      "teaser": "Einmal im langen wallenden Kleid am Schützenausmarsch teilnehmen – das war ihr Traum!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schluss-mit-einer-tradition-nach-720-jahren-vanessa-hat-die-maennerbande-weggeba-80237052.bild.html",
-      "image_title": "Schluss mit einer Tradition nach 720 Jahren: Vanessa hat die Männerbande weggeballert"
-    },
-    {
-      "title": "Vermisste wieder da : Laura (13) schlich sich raus und kam nicht zurück",
-      "teaser": "Sie schlich sich heimlich aus der elterlichen Wohnung und kehrte seitdem nicht zurück!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/seit-9-tagen-vermisst-13-jaehrige-laura-schlich-sich-raus-und-kehrte-nicht-zurue-80247036.bild.html",
-      "image_title": "Seit 9 Tagen vermisst - nun wieder da: 13-jährige Laura schlich sich raus und kehrte nicht zurück"
-    },
-    {
-      "title": "Mit Machete und Baseballschläger : Prügelei unter Zirkus-Familien",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/mit-machete-schausteller-familien-gehen-in-koeln-aufeinander-los-80251748.bild.html",
-      "image_title": "Mit Machete: Zirkus-Familien gehen in Köln aufeinander los"
-    },
-    {
-      "title": "Von halal bis Husten : Das liefern Kölner Kuriere fix mit wenigen Klicks",
-      "teaser": "Flotter Service: Elektro-Vans, Räder und Lieferwagen bringen fast alles in wenigen Minuten",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-lieferdienste-bringen-auch-dildos-nach-hause-80240338.bild.html",
-      "image_title": "Von halal bis Husten: Das liefern Kölner Lieferdienste ganz fix"
-    },
-    {
-      "title": "Kommen schneller als du : Lieferdienste bringen jetzt auch Dildos",
-      "teaser": "Der Kurier klingelt oft schon nach wenigen Minuten. Der neueste Liefertrend: Sextoys!",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/kommen-schneller-als-du-lieferdienst-in-koeln-bringt-jetzt-auch-dildos-80249640.bild.html",
-      "image_title": "Kommen schneller als du: Lieferdienst in Köln bringt jetzt auch Dildos"
-    },
-    {
-      "title": "Auf dem Weg in den Familienurlaub : Vater (39) stirbt bei Crash mit Lkw",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-bei-stendal-familienvater-39-stirbt-bei-crash-mit-lkw-80245856.bild.html",
-      "image_title": "Unfall bei Stendal: Familienvater (39) stirbt bei Crash mit Lkw"
-    },
-    {
-      "title": "Kurz vor Tankrabatt-Start : Spritpreis-Sauerei!",
-      "teaser": "Den Tankrabatt könnte sich die Industrie in die Tasche stecken, indem sie Preise erhöht.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/kurz-vor-tankrabatt-start-spritpreis-sauerei-und-teuer-schock-80238038.bild.html",
-      "image_title": "Kurz vor Tankrabatt-Start: Spritpreis-Sauerei und Teuer-Schock!"
-    },
-    {
-      "title": "Drama auf der A4 : Familie nach Autopanne erfasst – Mädchen (6) tot!",
-      "teaser": "Furchtbarer Unfall am Sonntag auf der A4 in Thüringen. Ein sechsjähriges Mädchen ist ums Leben gekommen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-auf-a4-familie-nach-autopanne-erfasst-maedchen-6-tot-80239708.bild.html",
-      "image_title": "Unfall auf A4: Familie nach Autopanne erfasst – Mädchen (6) tot!"
-    },
-    {
-      "title": "Energydrink-Riese geht auf die Brust : Hansa Rostock mit neuem Hauptsponsor",
-      "url": "https://www.bild.de/sport/fussball/fussball/2-liga-ueberraschender-deal-hansa-rostock-mit-neuem-hauptsponsor-80240128.bild.html",
-      "image_title": "2. Liga! Energydrink-Riese: Hansa Rostock mit neuem Hauptsponsor"
-    },
-    {
-      "title": "Angst vor Affenpocken! : Kann ich mich im Tierpark anstecken?",
-      "teaser": "Weil sich immer mehr Menschen vor Affenpocken fürchten, meiden einige jetzt sogar Tierparkbesuche.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/affenpocken-besucherflaute-in-tierpark-kann-ich-mich-im-zoo-anstecken-80227420.bild.html",
-      "image_title": "Affenpocken: Besucherflaute in Tierpark! Kann ich mich im Zoo anstecken?"
-    },
-    {
-      "title": "Druck für Kapitän Kolke : Hansa will diesen Bundesliga-Torwart",
-      "teaser": "Zweitligist Rostock hat beide Ersatztorhüter abgegeben, will nun echten Konkurrenzkampf!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/konkurrenz-fuer-kapitaen-kolke-hansa-will-diesen-bundesliga-torwart-80239802.bild.html",
-      "image_title": "Konkurrenz für Kapitän Kolke: Hansa will diesen Bundesliga-Torwart"
-    },
-    {
-      "title": "15 Verletzte auf der A9 : Rentner-Rumms mit Tempo 200",
-      "teaser": "Ein 71-Jähriger verursachte mit seinem Mercedes eine Massenkarambolage auf der A9.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/15-verletzte-auf-der-a9-rentner-rast-mit-tempo-200-in-autos-80245188.bild.html",
-      "image_title": "15 Verletzte auf der A9: Rentner-Rumms mit Tempo 200"
-    },
-    {
-      "title": "Spannende Akku-Fakten : Schnell geladene Handys sind schneller wieder leer",
-      "teaser": "Moderne Smartphones können sehr schnell geladen werden. Dabei gilt es einiges zu beachten.",
-      "url": "https://www.bild.de/bild-plus/digital/smartphone-und-tablet/handy-und-telefon/smartphone-akku-schnell-geladene-handys-sind-schneller-wieder-leer-80238182.bild.html",
-      "image_title": "Smartphone-Akku: Schnell geladene Handys sind schneller wieder leer"
-    },
-    {
-      "title": "Wechselt er jetzt? : Millionen-Rabatt für diesen Nürnberg-Star",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fcn-wechselt-er-jetzt-millionen-rabatt-fuer-diesen-nuernberg-star-80251686.bild.html",
-      "image_title": "FCN: Wechselt er jetzt? Millionen-Rabatt für diesen Nürnberg-Star"
-    },
-    {
-      "title": "Neuzugänge : Auf diesen Positionen sucht Fürth",
-      "teaser": "Kleeblatt-Manager Rachid Azzouzi (51) bastelt am Kader für die neue Zweitliga-Saison.",
-      "url": "https://www.bild.de/sport/fussball/fussball/neuzugaenge-auf-diesen-positionen-sucht-greuther-fuerth-80250400.bild.html",
-      "image_title": "Neuzugänge: Auf diesen Positionen sucht Greuther Fürth"
-    },
-    {
-      "title": "Räuberische Erpressung : Vier Täter rauben drei Jugendliche aus",
-      "teaser": "Dreister Überfall auf drei Jugendliche in Augsburg vor dem Schwaben-Center.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/raeuberische-erpressung-in-augsburg-vier-taeter-rauben-drei-jugendliche-aus-80249886.bild.html",
-      "image_title": "Räuberische Erpressung in Augsburg: Vier Täter rauben drei Jugendliche aus"
-    },
-    {
-      "title": "Mysteriöses Verbrechen in Moers : Angeschossener Mann schleppte sich in Supermarkt",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/moers-mann-angeschossen-polizei-fahndet-nach-taeter-80252538.bild.html",
-      "image_title": "Moers: Mann angeschossen – Polizei fahndet nach Täter"
-    },
-    {
-      "title": "Fass ausgelaufen : Gift-Alarm auf der Autobahn",
-      "teaser": "Ein defektes und stark qualmendes Fass hat einen Großeinsatz auf der A43 ausgelöst.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/fass-in-gefahrgut-transporter-ausgelaufen-gift-alarm-auf-der-autobahn-80252308.bild.html",
-      "image_title": "Fass in Gefahrgut-Transporter ausgelaufen: Gift-Alarm auf der Autobahn"
-    },
-    {
-      "title": "Nach Paraguay entführt : Hilferuf von Laras Papa: „Es geht ihr nicht gut“",
-      "teaser": "Jetzt wendet sich auch Filip Blank aus Gauting, der leibliche Vater von Lara, an die Entführer",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/maedchen-in-paraguay-entfuehrt-laras-papa-ich-weiss-dass-es-ihr-nicht-gut-geht-80245292.bild.html",
-      "image_title": "Mädchen in Paraguay entführt– Laras Papa: „Ich weiß, dass es ihr nicht gut geht“"
-    },
-    {
-      "title": "Politiker mit Torriecher : Luksic schießt FC Bundestag zum EM-Titel",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/politiker-mit-torriecher-luksic-schiesst-fc-bundestag-zum-em-titel-80250348.bild.html",
-      "image_title": "Politiker mit Torriecher: Luksic schießt FC Bundestag zum EM-Titel"
-    },
-    {
-      "title": "Outlet-Erweiterung : Saar-Händler befürchten Umsatz-Einbußen",
-      "teaser": "Saar-Einzelhandel ist wegen geplanter Outlet-Erweiterung in Zweibrücken in großer Sorge.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/outlet-erweiterung-saar-haendler-befuerchten-umsatz-einbussen-80249430.bild.html",
-      "image_title": "Outlet-Erweiterung: Saar-Händler befürchten Umsatz-Einbußen"
-    },
-    {
-      "title": "Fahndung nach Flüchtigem : Polizei findet Auto – nur der Fahrer fehlt!",
-      "teaser": "Unfall mit Suchaktion im Saarland: Auto in Böschung, Fahrer spurlos verschwunden!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/fahndung-laeuft-auto-in-boeschung-fahrer-spurlos-verschwunden-80246036.bild.html",
-      "image_title": "Fahndung nach Flüchtigem: Polizei findet Auto – nur der Fahrer fehlt!"
-    },
-    {
-      "title": "Frust nach Video-Skandal : SC Magdeburg im Finale verschaukelt",
-      "url": "https://www.bild.de/bild-plus/sport/regional-sport/regiosport-magdeburg/sc-magdeburg-bundesliga-spitzenreiter-im-ehf-finale-verschaukelt-80250528.bild.html",
-      "image_title": "SC Magdeburg: Bundesliga-Spitzenreiter im EHF-Finale verschaukelt"
-    },
-    {
-      "title": "Über 100 Lieferautos lahmgelegt : Attacke auf Amazon!",
-      "teaser": "Anschlag auf den Online-Versandhandel Amazon! Dutzenden Lieferungen droht nun Verzögerung.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/anschlag-auf-online-riesen-amazon-80240544.bild.html",
-      "image_title": "Anschlag auf Amazon: Mehr als 100 Lieferfahrzeuge lahmgelegt!"
-    },
-    {
-      "title": "Gut fürs Kino : Hier wird der neue Immenhof-Film gedreht",
-      "teaser": "Im Film „Immenhof – Das große Versprechen“ haben Lou (Leia Holtwick) und Emmie (Ella Paffgen) es nicht weit vom Wohnhaus zu den Ställen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-hier-wird-der-neue-immenhof-film-gedreht-80243572.bild.html",
-      "image_title": "Sachsen-Anhalt: Hier wird der neue Immenhof-Film gedreht"
-    },
-    {
-      "title": "Tödliches Drama in Tamm : Frau (54) stirbt nach Verpuffung an Sauerstoffgerät",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/toedliches-drama-in-tamm-frau-54-stirbt-nach-verpuffung-an-sauerstoffgeraet-80251978.bild.html",
-      "image_title": "Tödliches Drama in Tamm: Frau (54) stirbt nach Verpuffung an Sauerstoffgerät"
-    },
-    {
-      "title": "Familie Özdemir : Er ist Vegetarier, sie liebt Rindfleisch",
-      "teaser": "Als Vegetarier und Agrarminister will Cem Özdemir, dass Deutsche weniger Fleisch essen.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/familie-oezdemir-er-ist-vegetarier-sie-liebt-rindfleisch-80243416.bild.html",
-      "image_title": "Familie Özdemir: Er ist Vegetarier, sie liebt Rindfleisch"
-    },
-    {
-      "title": "Stadtgarten Karlsruhe : Vermutlich älteste Zoo-Löwin Europas gestorben",
-      "teaser": "Die vermutlich älteste in einem europäischen Zoo gehaltene Löwin ist tot.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/karlsruhe-vermutlich-aelteste-zoo-loewin-europas-gestorben-80249458.bild.html",
-      "image_title": "Karlsruhe: Vermutlich älteste Zoo-Löwin Europas gestorben"
-    },
-    {
-      "title": "Bombendrohung : Bessere Noten, sonst Bombe – Polizei räumt Schule",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/bombendrohung-an-schule-im-eichsfeld-bessere-noten-sonst-bombe-80246996.bild.html",
-      "image_title": "Bombendrohung an Schule im Eichsfeld: Bessere Noten, sonst Bombe"
-    },
-    {
-      "title": "Landgericht entscheidet : Die Mauer muss weg",
-      "teaser": "Nach jahrelangem Zoff ums Wegerecht auf der Rückseite der Vilnius-Passage hat Freiflächen-Besitzer Hubert Werner die 1,65 m hohe Barriere errichtet.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-die-mauer-muss-weg-80249996.bild.html",
-      "image_title": "Thüringen: Die Mauer muss weg"
-    },
-    {
-      "title": "Jubel über Pokallos : Wolfsburg kommt ins Paradies",
-      "teaser": "Carl Zeiss bekommt in der ersten Runde des DFB-Pokals Besuch von einem Bundesligisten!",
-      "url": "https://www.bild.de/sport/fussball/fussball/carl-zeiss-jubelt-ueber-pokallos-wolfsburg-kommt-ins-paradies-80243314.bild.html",
-      "image_title": "Carl Zeiss jubelt über Pokallos: Wolfsburg kommt ins Paradies"
-    }
-  ]
+  "articles": []
 }
