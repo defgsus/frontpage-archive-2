@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-31T10:26:34",
+  "timestamp": "2022-05-31T11:19:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Drupal",
+      "url": "https://www.heise.de/news/Content-Management-System-CISA-warnt-vor-Sicherheitsluecke-in-Drupal-7127268.html"
+    },
+    {
       "title": "Microsoft Office (MSDT)",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-in-MS-Office-Microsoft-gibt-Empfehlungen-7126993.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Microsoft-Office-erlaubt-Codeschmuggel-7125635.html"
     },
     {
-      "title": "Citrix",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
+      "title": "Content Management System: CISA warnt vor Sicherheitslücke in Drupal",
+      "teaser": "Eine Drittherstellerbibliothek reißt Sicherheitslücken in das CMS Drupal. Die US-amerikanische Cyber-Sicherheitsbehörde CISA rät zur Aktualisierung.",
+      "url": "https://www.heise.de/news/Content-Management-System-CISA-warnt-vor-Sicherheitsluecke-in-Drupal-7127268.html",
+      "image_title": "Aufmacher CISA empfiehlt Drupal Sicherheitsupdate"
+    },
+    {
+      "title": "Multi-Faktor-Authentifizierung: Microsoft will 60 Millionen Accounts absichern",
+      "teaser": "Um Angreifern die Zugriffe auf Azure-AD- und Microsoft-365-Konten zu erschweren, rührt der Konzern die Trommel für ein erweitertes Anmeldeverfahren.",
+      "url": "https://www.heise.de/news/Multi-Faktor-Authentifizierung-Microsoft-will-60-Millionen-Accounts-absichern-7127241.html"
     },
     {
       "title": "GitHub: Log-in-Details von 100k npm-Konten gestohlen",
@@ -59,6 +70,11 @@
       "image_title": "Aufmacher Bösrtige Browsererweiterung ChromeLoader kommt als ISO"
     },
     {
+      "title": "Verblüffendes zur Energiebilanz von Rechenzentren",
+      "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
+    },
+    {
       "title": "Open Automation Software: Anmeldung ohne Nutzernamen und Kennwort möglich",
       "teaser": "Admins und Entwickler, die Open Automation Software Platform einsetzen, sollten sie aus Sicherheitsgründen aktualisieren.",
       "url": "https://www.heise.de/news/Open-Automation-Software-Anmeldung-ohne-Nutzernamen-und-Kennwort-moeglich-7125683.html"
@@ -68,11 +84,6 @@
       "teaser": "Sicherheitsforscher haben ein Word-Dokument entdeckt, das beim Öffnen Schadcode nachladen und ausführen kann. Aktuelle Software scheint davor zu schützen.",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Microsoft-Office-erlaubt-Codeschmuggel-7125635.html",
       "image_title": "Aufmacher MS Office Zero-Day"
-    },
-    {
-      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
-      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
     },
     {
       "title": "Sicherheitsupdates: Angreifer könnten Netzwerk-Hardware von Citrix lahmlegen",
@@ -150,16 +161,6 @@
       "title": "Jetzt patchen! Angreifer attackieren Cisco 8000 Series Router",
       "teaser": "Der Netzwerkausrüster Cisco hat Sicherheitsupdates für verschiedene Netzwerk-Komponenten veröffentlicht.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Cisco-8000-Series-Router-7102828.html"
-    },
-    {
-      "title": "Schweiz will Bundesamt für Cybersicherheit etablieren",
-      "teaser": "Die Schweizer Regierung will die Kräfte gegen Cyberangriffe stärken und bündeln. Aus dem Nationalen Zentrum für Cybersicherheit soll ein Bundesamt werden.",
-      "url": "https://www.heise.de/news/Schweiz-will-Bundesamt-fuer-Cybersicherheit-etablieren-7102433.html"
-    },
-    {
-      "title": "Putin: Mehr Cyberattacken gegen Russland beklagt",
-      "teaser": "Der russische Präsident sieht einen \"echten Krieg in der IT-Sphäre\" gegen sein Land im Gang. Doch Russland sei dagegen gut gerüstet und ergreife Gegenmaßnahmen.",
-      "url": "https://www.heise.de/news/Putin-Mehr-Cyberattacken-gegen-Russland-beklagt-7102261.html"
     },
     {
       "title": "heise Security Tour 2022",
