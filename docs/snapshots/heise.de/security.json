@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-31T06:27:30",
+  "timestamp": "2022-05-31T07:21:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Office (MSDT)",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-MS-Office-Microsoft-gibt-Empfehlungen-7126993.html"
+    },
+    {
       "title": "Open Automation Platform",
       "url": "https://www.heise.de/news/Open-Automation-Software-Anmeldung-ohne-Nutzernamen-und-Kennwort-moeglich-7125683.html"
     },
@@ -44,19 +48,35 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
     },
     {
-      "title": "Tails, Tor Browser",
-      "url": "https://www.heise.de/news/Warten-auf-abgesicherte-Version-Anonymes-Surfen-unter-Tails-gefaehrdet-7123771.html"
+      "title": "Mit Schwerpunkt Cybercrime: Programm der Internet Security Days 2022 online",
+      "teaser": "Rund 40 Vorträge, Panels und Workshops präsentiert die 12. Auflage der sich an IT-Security-Experten richtenden Veranstaltung am 29. und 30. September.",
+      "url": "https://www.heise.de/news/Mit-Schwerpunkt-Cybercrime-Programm-der-Internet-Security-Days-2022-online-7125571.html"
     },
     {
-      "title": "Schädliche Browser-Erweiterung: ChromeLoader kommt als ISO getarnt",
-      "teaser": "Eine Chrome-Erweiterung kann allen Browserverkehr über unerwünschte Server leiten und so Daten abschöpfen. ChromeLoader geht dabei trickreich vor.",
-      "url": "https://www.heise.de/news/Boesartige-Browser-Erweiterung-ChromeLoader-kommt-als-ISO-getarnt-7126317.html",
-      "image_title": "Aufmacher Bösrtige Browsererweiterung ChromeLoader kommt als ISO"
+      "title": "GitHub: Log-in-Details von 100k npm-Konten gestohlen",
+      "teaser": "Wie GitHub aktuell bekanntgab, konnten Angreifer mit Hilfe gestohlener OAuth-App-Tokens die Anmeldedaten von etwa 100.000 npm-Konten stehlen.",
+      "url": "https://www.heise.de/news/GitHub-Log-in-Details-von-100k-npm-Konten-gestohlen-7126341.html"
     },
     {
       "title": "Open Automation Software: Anmeldung ohne Nutzernamen und Kennwort möglich",
       "teaser": "Admins und Entwickler, die Open Automation Software Platform einsetzen, sollten sie aus Sicherheitsgründen aktualisieren.",
       "url": "https://www.heise.de/news/Open-Automation-Software-Anmeldung-ohne-Nutzernamen-und-Kennwort-moeglich-7125683.html"
+    },
+    {
+      "title": "Zero-Day-Lücke in Microsoft Office ermöglicht Codeschmuggel",
+      "teaser": "Sicherheitsforscher haben ein Word-Dokument entdeckt, das beim Öffnen Schadcode nachladen und ausführen kann. Aktuelle Software scheint davor zu schützen.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Microsoft-Office-erlaubt-Codeschmuggel-7125635.html",
+      "image_title": "Aufmacher MS Office Zero-Day"
+    },
+    {
+      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
+      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
+    },
+    {
+      "title": "Sicherheitsupdates: Angreifer könnten Netzwerk-Hardware von Citrix lahmlegen",
+      "teaser": "Es gibt wichtige Sicherheitspatches für Citritx ADC und Citrix Gateway. Angreifer könnten die Netzwerk-Hardware lahmlegen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
     },
     {
       "title": "Warten auf abgesicherte Version: Anonymes Surfen unter Tails gefährdet",
@@ -68,11 +88,6 @@
       "teaser": "Das BSI meldet, dass es seine Sicherheits-Analysen aus dem SiSyPHuS-Projekt aktualisiert hat. Diese sind nun auf dem Stand von Windows 10 Version 1809.",
       "url": "https://www.heise.de/news/BSI-Aktualisierte-Analysen-von-sicherheitskritischen-Windows-Funktionen-7122437.html",
       "image_title": "Aufmacher BSI aktualisiert SISyPHuS-Dokumentation"
-    },
-    {
-      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
-      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
     },
     {
       "title": "Webbrowser: Google Chrome 102 schließt 32 Sicherheitslücken",
@@ -144,22 +159,6 @@
       "title": "Putin: Mehr Cyberattacken gegen Russland beklagt",
       "teaser": "Der russische Präsident sieht einen \"echten Krieg in der IT-Sphäre\" gegen sein Land im Gang. Doch Russland sei dagegen gut gerüstet und ergreife Gegenmaßnahmen.",
       "url": "https://www.heise.de/news/Putin-Mehr-Cyberattacken-gegen-Russland-beklagt-7102261.html"
-    },
-    {
-      "title": "Weiterbildungskurs zum Datenschutzmanagement verbindet Theorie und Praxis",
-      "teaser": "Der Hochschulzertifikatskurs über das Datenschutzmanagement qualifiziert Teilnehmende zum Datenschutzbeauftragten. Am 23. Mai gibt es einen Infoabend.",
-      "url": "https://www.heise.de/news/Weiterbildungskurs-zum-Datenschutzmanagement-verbindet-Theorie-und-Praxis-7101798.html"
-    },
-    {
-      "title": "Googles PSP wird Open Source: Das Security Protocol soll neuer Standard werden",
-      "teaser": "Das an TLS orientierte PSP Security Protocol für Datacenter-Traffic ist frei verfügbar. PSP setzt beim Verschlüsseln auf skalierbare Hardwareauslagerung.",
-      "url": "https://www.heise.de/news/Googles-PSP-wird-Open-Source-Das-Security-Protocol-soll-neuer-Standard-werden-7101788.html",
-      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
-    },
-    {
-      "title": "l+f: Dickpics für Cyber-Gangster",
-      "teaser": "Eine afrikanische Zentralbank trollt offenbar eine Ransomware-Gang.",
-      "url": "https://www.heise.de/news/l-f-Dickpics-fuer-Cyber-Gangster-7101373.html"
     },
     {
       "title": "heise Security Tour 2022",
