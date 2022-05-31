@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-05-31T12:42:46",
+  "timestamp": "2022-05-31T13:43:06",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -14,9 +14,14 @@
   ],
   "articles": [
     {
-      "title": "Bundeskartellamt zweifelt an Preissenkung für Verbraucher durch Tankrabatt",
-      "url": "https://www.welt.de/politik/deutschland/plus239078733/Tankrabatt-Bundeskartellamt-zweifelt-an-Spritpreissenkung.html",
-      "topic": "Steuerentlastung ab 1. Juni"
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Forsa-Umfrage"
+    },
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "topic": "EU-Statistikbehörde"
     },
     {
       "title": "Internationale Energieagentur warnt vor Mangel an Benzin und Diesel im Sommer",
@@ -26,7 +31,7 @@
     {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
-      "topic": "Russische Offensive"
+      "topic": "Schlacht im Donbass"
     },
     {
       "title": "Deutschland",
@@ -37,11 +42,6 @@
       "title": "Fußball",
       "url": "https://www.welt.de/sport/fussball/",
       "topic": "Champions League"
-    },
-    {
-      "title": "Baden-Württemberg",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/",
-      "topic": "Freiburg"
     },
     {
       "title": "Kick-off Politik",
@@ -72,10 +72,28 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
     },
     {
+      "title": "„Die Einnahme des Donbass ist nur noch eine Frage von Tagen“",
+      "url": "https://www.welt.de/politik/ausland/video239095403/Krieg-in-der-Ukraine-Die-Einnahme-des-Donbass-ist-eine-Frage-von-Tagen.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Krieg in der Ukraine"
+    },
+    {
       "title": "„Alles, was die Nachfrage steigert, wie der Tankrabatt, wird die Inflation nur anheizen“",
       "url": "https://www.welt.de/wirtschaft/video239095487/Inflation-in-Deutschland-Teuerung-steigt-im-Mai-auf-7-9-Prozent.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Teuerung in Deutschland"
+    },
+    {
+      "title": "„Für die ukrainischen Truppen im Osten wird es doch sehr kritisch“",
+      "url": "https://www.welt.de/politik/ausland/video239087373/Ukraine-Krieg-Russland-hat-maximale-Kampfkraft-in-Ostukraine-versammelt.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Putins Krieg"
+    },
+    {
+      "title": "„Ein schrecklicher Tag für alle Journalisten, die hier im Einsatz sind“",
+      "url": "https://www.welt.de/politik/ausland/video239085899/Trauer-um-Kriegsreporter-Franzoesischer-Journalist-bei-Angriff-in-der-Ukraine-getoetet.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Trauer um Kriegsreporter"
     },
     {
       "title": "„Der Befehl, nichts zu liefern, muss von ganz oben kommen“",
@@ -85,24 +103,6 @@
       "topic": "Jan Fleischhauer"
     },
     {
-      "title": "„Für die ukrainischen Truppen im Osten wird es doch sehr kritisch“",
-      "url": "https://www.welt.de/politik/ausland/video239087373/Ukraine-Krieg-Russland-hat-maximale-Kampfkraft-in-Ostukraine-versammelt.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Putins Krieg"
-    },
-    {
-      "title": "„Die Drohne ist relativ klein und kann sehr schwer bewaffnet werden“",
-      "url": "https://www.welt.de/politik/ausland/video239074599/Militaerexperte-Guido-Schmidtke-erklaert-die-tuerkische-Bayraktar-TB2-Drohne.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Bayraktar-TB2"
-    },
-    {
-      "title": "„Ein schrecklicher Tag für alle Journalisten, die hier im Einsatz sind“",
-      "url": "https://www.welt.de/politik/ausland/video239085899/Trauer-um-Kriegsreporter-Franzoesischer-Journalist-bei-Angriff-in-der-Ukraine-getoetet.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Trauer um Kriegsreporter"
-    },
-    {
       "title": "„Die Senkung der Mineralölsteuer ist die falsche Maßnahme gegen die Inflation“",
       "url": "https://www.welt.de/politik/deutschland/video239082637/Inflation-Ifo-Praesident-Fuest-ueber-das-Entlastungspaket-der-Ampel-Koalition.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -110,23 +110,10 @@
       "topic": "Ifo-Präsident Fuest"
     },
     {
-      "title": "„Die Worte des Kanzlers stimmen nicht mit seinen Taten überein“",
-      "url": "https://www.welt.de/politik/deutschland/video239066401/Deutsche-Waffen-erreichen-die-Ukraine-wohl-nur-sehr-spaerlich.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Deutsche Waffen für die Ukraine"
-    },
-    {
       "title": "„Es hätte auch uns treffen können“",
       "url": "https://www.welt.de/politik/ausland/video239080539/Ukraine-Krieg-Franzoesischer-Kameramann-in-Ostukraine-getoetet.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Kameramann in Ukraine getötet"
-    },
-    {
-      "title": "„Man muss ein Fragezeichen machen, ob bei der Beschaffung alles richtig gelaufen ist“",
-      "url": "https://www.welt.de/politik/deutschland/video239073881/Sondervermoegen-fuer-die-Bundeswehr-Hofreiter-sieht-dringenden-Handlungsbedarf.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Anton Hofreiter (Die Gruenen) - hier vor der russischen Botschaft, Unter-den-Linden, Berlin.",
-      "topic": "Hofreiter zur Bundeswehr"
     }
   ]
 }
