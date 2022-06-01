@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-01T07:23:16",
+  "timestamp": "2022-06-01T08:32:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft MSDT",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-Erste-Cybergangs-greifen-MSDT-Sicherheitsluecke-an-7128265.html"
+    },
+    {
       "title": "Drupal",
       "url": "https://www.heise.de/news/Content-Management-System-CISA-warnt-vor-Sicherheitsluecke-in-Drupal-7127268.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Open-Automation-Software-Anmeldung-ohne-Nutzernamen-und-Kennwort-moeglich-7125683.html"
     },
     {
-      "title": "Microsoft Office",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-Microsoft-Office-erlaubt-Codeschmuggel-7125635.html"
+      "title": "Sicherheitsforscher stoßen weltweit auf 3,6 Millionen exponierte MySQL-Server",
+      "teaser": "Jetzt absichern! Angreifer könnten unter anderem in Deutschland an mehr als 170.000 über das Internet erreichbaren MySQL-Servern ansetzen.",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-stossen-weltweit-auf-3-6-Millionen-exponierte-MySQL-Server-7128356.html"
     },
     {
       "title": "Content Management System: Sicherheitslücke in Drupal erlaubt Website-Übernahme",
@@ -64,14 +69,20 @@
       "url": "https://www.heise.de/news/Mit-Schwerpunkt-Cybercrime-Programm-der-Internet-Security-Days-2022-online-7125571.html"
     },
     {
+      "title": "Verblüffendes zur Energiebilanz von Rechenzentren",
+      "teaser": "Rechenzentren gelten als Energiefresser. Was übersehen wird: Cloud-Rechenzentren sind effizient und können dazu beitragen, den CO2-Ausstoß eines Unternehmens an anderer Stelle zu reduzieren. Wie das geht, welche Faktoren den Energieverbrauch beeinflussen und wie die Energiebilanz tatsächlich aussieht, erfahren Sie im Webcast am 9.6. um 11:00 Uhr.",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/energiebilanz-von-rechenzentren-besser-als-sie-denken-4289?source=hbsad-ersatz"
+    },
+    {
+      "title": "Zero-Day-Lücke in MS Office: Microsoft gibt Empfehlungen",
+      "teaser": "Microsoft gibt Handlungsempfehlungen gegen die Zero-Day-Schwachstelle in Office. Angreifer könnten diese zum Einschleusen von Schadcode missbrauchen.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-MS-Office-Microsoft-gibt-Empfehlungen-7126993.html",
+      "image_title": "Aufmacher Microsoft gibt Handlungsempfehlungen zum Abwenden von 0-Day-Lücke"
+    },
+    {
       "title": "GitHub: Log-in-Details von 100k npm-Konten gestohlen",
       "teaser": "Wie GitHub aktuell bekanntgab, konnten Angreifer mit Hilfe gestohlener OAuth-App-Tokens die Anmeldedaten von etwa 100.000 npm-Konten stehlen.",
       "url": "https://www.heise.de/news/GitHub-Log-in-Details-von-100k-npm-Konten-gestohlen-7126341.html"
-    },
-    {
-      "title": "Wie man Datensouveränität durch Verschlüsselung in Hyperscalern technisch umsetzt",
-      "teaser": "Verschlüsselung schützt Daten vor unberechtigten Zugriffen. Sie kann jedoch auch dabei helfen, unabhängig von einer bestimmten Cloud-Plattform zu werden. Wie das in der Praxis funktioniert, und welche Vorteile es bringt, zeigen wir im Live-Webcast am 23.6. um 11:00 Uhr anhand einer ausführlichen Demo.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/wie-man-datensouveraenitaet-durch-verschluesselung-in-hyperscalern-technisch-umsetzt-4296/?source=HBSadersatz"
     },
     {
       "title": "Schädliche Browser-Erweiterung: ChromeLoader kommt als ISO getarnt",
@@ -149,18 +160,6 @@
       "teaser": "Auf WhatsApp sind derzeit offenbar zahlreiche Betrüger unterwegs. Sie versuchen, direkt an Geld oder per Phishing etwa an Zugangsdaten zu gelangen.",
       "url": "https://www.heise.de/news/WhatsApp-Betrug-mit-falschen-Gewinnspielen-sowie-Enkeltrick-hat-Konjunktur-7103377.html",
       "image_title": "Aufmacher WhatsApp Betrugsmaschen"
-    },
-    {
-      "title": "Außer der Reihe: Microsoft behebt Authentifizierungsfehler mit neuen Updates",
-      "teaser": "Die Aktualisierungen zum Mai-Patchday führten zu Authentifizierungsfehlern von Diensten im Active Directory. Neue Patches ohne den Fehler stehen jetzt bereit.",
-      "url": "https://www.heise.de/news/Microsoft-Updates-ausser-der-Reihe-beheben-Authentifizierungsfehler-7102984.html",
-      "image_title": "Aufmacher Mai-Updates für Windows gefixt"
-    },
-    {
-      "title": "Oracle warnt vor Sicherheitslücke in E-Business Suite",
-      "teaser": "Oracle veröffentlicht Updates eigentlich quartalsweise zum Critical-Patch-Update-Termin. Ein Patch schließt bereits jetzt eine Lücke in der E-Business-Suite.",
-      "url": "https://www.heise.de/news/Oracle-warnt-vor-Sicherheitsluecke-in-E-Business-Suite-7102875.html",
-      "image_title": "Aufmacher Oracle-SIcherheitslücke E-Business-Suite"
     },
     {
       "title": "heise Security Tour 2022",
