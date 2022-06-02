@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-02T11:20:34",
+  "timestamp": "2022-06-02T12:49:49",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.52e17eba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e90b126f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.cc55ee8c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0464a710.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Regeln, Kandidaten, Highlights : Alle Infos zu „Kampf der Realitystars“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-alle-infos-zur-dritten-staffel--kandidaten-regeln-highlights-79693132.bild.html",
-      "image_url": "https://images.bild.de/624da30829e37c79421fde33/658b686e7780efda63bddf098dc7673d,abda37ca?w=656",
-      "image_title": "„Kampf der Realitystars“: Alle Sala-Bewohner, Regeln und Highlights der Show"
-    },
-    {
-      "title": "Hanna sucht die Liebe : 19 Ladys buhlen um die neue „Princess Charming“",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/hanna-sucht-die-grosse-liebe-im-tv-diese-19-ladys-buhlen-um-princess-charming-80278094.bild.html",
-      "image_url": "https://images.bild.de/62979ea4331a165bca77092f/2d287c8c3f8debd24831cc6fff159f0e-miniSquare,c0c88d49?w=320",
-      "image_title": "Hanna sucht die große Liebe im TV: Diese 19 Ladys buhlen um „Princess Charming“"
-    },
-    {
-      "title": "Ab dem 30. Mai : Diese Filme starten bei Amazon Prime",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-diese-woche-80220036.bild.html",
-      "image_url": "https://images.bild.de/62908768f85e37084d184e63/5a2b71e2cc38608744d01a249c891c5a-miniSquare/1/2?w=320",
-      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "Ab dem 30. Mai : Diese Filme & Serien sind neu bei Netflix",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-diese-filme-und-serien-starten-diese-woche-80220020.bild.html",
-      "image_url": "https://images.bild.de/62908765c166364f54f9af0b/def96bd3f1b29e01dcd908363d32819d-miniSquare/1/3?w=320",
-      "image_title": "Neu auf Netflix: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "Batic, Leitmayr und Hammermann : Alle Infos zum Tatort in München",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-muenchen-miroslav-nemec-und-udo-wachtveil-ermitteln-seit-ueber-30-jahren-80048252.bild.html",
-      "image_url": "https://images.bild.de/627b7b035be80c2769af003c/703931cdf4a083c9c74b1ac3c6ccae2a-miniSquare/1/2?w=320",
-      "image_title": "Tatort München: Miroslav Nemec und Udo Wachtveil ermitteln seit über 30 Jahren"
-    },
-    {
-      "title": "„Nightwish“-Sängerin bei „Sing meinen Song“ : Mein skurrilstes Fan-Geschenk kann krabbeln",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sing-meinen-song-mit-floor-jansen-nightwish-star-ueber-skurrile-fan-geschenke-80262338.bild.html",
-      "image_title": "„Sing meinen Song“ mit Floor Jansen: „Nightwish“-Star über skurrile Fan-Geschenke"
-    },
-    {
-      "title": "Tatort Köln : Alle Infos zum Ermittler-Team Ballauf und Schenk",
-      "teaser": "Die Hauptkommissare Max Ballauf und Freddy Schenk ermitteln Fälle im Kölner-Tatort",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-koeln-alle-infos-zum-krimi-mit-dietmar-baer-und-klaus-j-behrendt-80038902.bild.html",
-      "image_title": "Tatort Köln: Alle Infos zum Krimi mit Dietmar Bär und Klaus J. Behrendt"
-    },
-    {
-      "title": "„Jauch gegen Welke“ : Einer kniff im Fußball-Finale",
-      "teaser": "Bei der RTL-Show „Jauch gegen Welke“ bekam es Günther Jauch mit Oliver Welke zu tun.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/jauch-gegen-welke-einer-kniff-im-fussball-finale-80255298.bild.html",
-      "image_title": "„Jauch gegen Welke“: Einer kniff im Fußball-Finale"
-    },
-    {
-      "title": "Duft von Hardrocker : Wacken-Hammer bei „Höhle der Löwen“",
-      "teaser": "Staffelfinale in der „Höhle der Löwen“! Von Rocker Axel gab's was für die Nase ...",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/duftmarke-vom-hardrock-star-wacken-hammer-bei-hoehle-der-loewen-80252996.bild.html",
-      "image_title": "„Höhle der Löwen“: Wacken-Hammer! Hardrocker stellt Metal-Parfüm vor"
-    },
-    {
-      "title": "Ava (6) und Ella (11) : Hattet ihr keine Angst vor dem Düster-„Tatort“?",
-      "teaser": "Sie drehen in „Liebeswut“ schwierige Szenen, werden in einen dunklen Keller gesperrt.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/tatort-liebeswut-die-drei-maedchen-im-interview-hattet-ihr-keine-angst-80236384.bild.html",
-      "image_title": "Tatort „Liebeswut“: Die drei Mädchen im Interview! Hattet ihr keine Angst?"
-    },
-    {
-      "title": "Sonntag, 29. Mai 2022 : Alle Infos zum neuen Tatort in Bremen",
-      "teaser": "Inhaltsvorschau und alles, was bisher bekannt ist über den Tatort „Liebeswut“ am Sonntag.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-alles-zum-bremer-fall-mit-luise-wolfram-und-jasna-fritzi-bauer-80137122.bild.html",
-      "image_title": "Tatort heute: Alles zum Bremer-Fall mit Luise Wolfram und Jasna Fritzi Bauer"
-    },
-    {
-      "title": "Sat.1-Show „All Together Now“ : Warum bei Moderatorin Melissa Khalaj Tränen flossen",
-      "teaser": "Am Freitagabend startete Sat.1 seine neue Show „All Together Now“. So funktioniert sie.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sat-1-show-all-together-now-bei-melissa-khalaj-flossen-sogar-traenen-80228688.bild.html",
-      "image_title": "Sat.1-Show „All Together Now“: Bei Melissa Khalaj flossen sogar Tränen"
-    },
-    {
-      "title": "Hingucker beim GNTM-Finale : Ja, DAS ist ein Kleid",
-      "teaser": "HEIDIwitzka, dieses Outfit stellte sogar die Kleider der Finalistinnen in den Schatten!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/nikeata-thompsons-hingucker-beim-gntm-finale-ja-das-ist-ein-kleid-80223290.bild.html",
-      "image_title": "Nikeata Thompsons Hingucker beim GNTM-Finale: Ja, DAS ist ein Kleid"
-    },
-    {
-      "title": "Tatort Bremen : Alle Infos zu den Ermittlern Moormann, Selb und Andersen",
-      "teaser": "Seit 2020 ermittelt im Bremer Tatort ein Trio: Mads Andersen, Linda Selb und Liv Moormann.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-bremen-alle-infos-ueber-die-besetzung-und-die-kommissare-80222046.bild.html",
-      "image_title": "Tatort Bremen: Alle Infos über die Besetzung und die Kommissare"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80221338.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "GNTM-After-Show-Party : Heidi und Tom feierten mit Blondinen durch die Nacht",
-      "teaser": "DAS passierte hinter den Kulissen nach dem GNTM-Finale in den Kölner Studios.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/gntm-finale-heidi-klum-feierte-mit-tom-und-blondinen-wilde-after-show-80219820.bild.html",
-      "image_title": "GNTM-Finale: Heidi Klum feierte mit Tom und Blondinen wilde After-Show"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80221322.bild.html",
-      "image_title": "Netflix: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Ex-Moderator bei Jauch : Job-Abmahnung wegen „Penis-Pumpe“!",
-      "teaser": "Ex-9Live-Moderator Lars Hermes plauderte bei Günther Jauch ein Geheimnis aus.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/ex-9live-moderator-bei-jauch-job-abmahnung-wegen-penis-pumpe-80218328.bild.html",
-      "image_title": "Ex-9Live-Moderator bei Jauch: Job-Abmahnung wegen „Penis-Pumpe“!"
-    },
-    {
-      "title": "Nachwuchst-Sängerin Ceci : Ihr Opa ist eine Fußball-Legende",
-      "teaser": "In der Show „All Together now“ zeigt Ceci ihr Gesangstalent. Ihr Opa ist schon ein Star.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/all-together-now-gesangstalent-mein-opa-ist-eine-fussball-legende-80213772.bild.html",
-      "image_title": "„All Together now“-Gesangstalent: Mein Opa ist eine Fußball-Legende"
-    },
-    {
-      "title": "Samira & Serkan : Baby von „Bachelor in Paradise“-Paar ist da",
-      "teaser": "Das „Bachelor in Paradise“-Paar Samira Klampfl und Serkan Yavuz (beide 28) gab gestern die Geburt ihrer Tochter bekannt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bachelor-in-paradise-paar-baby-von-samira-und-serkan-ist-da-80218238.bild.html",
-      "image_title": "„Bachelor in Paradise“-Paar: Baby von Samira und Serkan ist da"
-    },
-    {
-      "title": "Gisele sitzt am Buzzer : Wiesn-Sängerin jetzt in TV-Jury",
-      "teaser": "Gisele Abramoff (44) entscheidet beim Nachwuchs über Sieg oder Niederlage.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/gisele-sitzt-am-buzzer-wiesn-saengerin-jetzt-in-tv-jury-79959298.bild.html",
-      "image_title": "Gisele sitzt am Buzzer!: Wiesn-Sängerin jetzt in TV-Jury"
-    },
-    {
-      "title": "GNTM-Siegerin : So setzte sich Lou-Anne gegen ihre Mutter durch",
-      "teaser": "SIE bekam das letzte Foto im Finale von „Germany’s Next Topmodel“ 2022.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/germanys-next-topmodel-finale-so-setzte-sich-lou-anne-gegen-ihre-mutter-durch-80218270.bild.html",
-      "image_title": "„Germany’s Next Topmodel“-Finale: So setzte sich Lou-Anne gegen ihre Mutter durch"
-    },
-    {
-      "title": "Live-Ticker zum GNTM-Finale : Lou-Anne ist Heidis neues Topmodel!",
-      "teaser": "Heidi Klum hat die 19-jährige Lou-Anne zum neuen Topmodel gekürt. Der Live-Ticker zum Nachlesen.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-finale-2020-im-live-ticker-wen-kuert-heidi-klum-zum-topmodel-80215654.bild.html",
-      "image_title": "GNTM-Finale 2022 im Live-Ticker: Lou-Anne ist Heidis neues Topmodel!"
-    },
-    {
-      "title": "Van-Party bei GNTM : Heidis Models im Final-Wahn",
-      "teaser": "Nur noch wenige Stunden bis zum GNTM-Finale – und die Mädels drehen langsam durch.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gntm-finale-macht-heidis-maedels-verrueckt-herzklopfen-und-spacko-tanz-80209432.bild.html",
-      "image_title": "Gntm-Finale macht Heidis Mädels verrückt: Herzklopfen und Spacko-Tanz"
-    },
-    {
-      "title": "Suff-Auftritt : Jenny Elvers: „Ich war brettervoll!“",
-      "teaser": "Schauspielerin Jenny Elvers (50) spricht über ihren Skandal-Auftritt beim NDR im Jahr 2012.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/jenny-elvers-gesteht-im-club-der-guten-laune-ich-war-brettervoll-80206620.bild.html",
-      "image_title": "Jenny Elvers im „Club der guten Laune“: „Ich war brettervoll!“"
-    },
-    {
-      "title": "Mandy Capristo packt aus : Popstar litt unter quälenden Panikattacken",
-      "url": "https://www.bild.de/video/clip/glomex/mandy-capristo-packt-aus-popstar-litt-unter-quaelenden-panikattacken-v-ckali89k67lt-80255412,auto=true.bild.html",
-      "image_title": "Mandy Capristo packt aus: Popstar litt unter quälenden Panikattacken"
-    },
-    {
-      "title": "Ösi-Sieg bei GNTM-Finale : Lou-Anne ist Heidis neues Topmodel",
-      "url": "https://www.bild.de/video/clip/glomex/oesi-sieg-bei-gntm-finale-lou-anne-ist-heidis-neues-topmodel-v-cka0050mqdfd-80218132,auto=true.bild.html",
-      "image_title": "„Germany‘s Next Topmodel“: Lou-Anne ist Heidis neues Topmodel"
-    },
-    {
-      "title": "Sensation bei GNTM-Finale : Heidi „singt“ – Tom spielt Klavier!",
-      "url": "https://www.bild.de/video/clip/glomex/sensation-bei-gntm-finale-heidi-singt-tom-spielt-klavier-v-ck9x1oskz5xl-80217118,auto=true.bild.html",
-      "image_title": "Sensation bei GNTM-Finale: Heidi „singt“ – Tom spielt Klavier!"
-    }
-  ]
+  "articles": []
 }
