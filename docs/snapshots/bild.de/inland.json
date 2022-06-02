@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-02T19:17:45",
+  "timestamp": "2022-06-02T20:22:43",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6ec48e5e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.b47371c7.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0464a710.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Erst Teenie-Mord, dann Todessprung : Nicola (17) vom Freund erstochen",
-      "url": "https://www.bild.de/news/inland/news-inland/haengebruecken-tragoedie-nicola-17-vom-ex-freund-mit-messer-erstochen-80280724.bild.html",
-      "image_url": "https://images.bild.de/62986b4b5f52923039fe89fc/68129f2d02b2faed772f8b2b48a6a3d7,99a51e63?w=656",
-      "image_title": "Hängebrücken-Tragödie: Nicola (17) vom Ex-Freund mit Messer erstochen"
-    },
-    {
-      "title": "Rechtsextremer Verlag : Leipzigs Ex-NPD-Stadtrat Enrico Böhm festgenommen",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/verlag-der-schelm-leipzigs-ex-npd-stadtrat-enrico-boehm-festgenommen-80287896.bild.html",
-      "image_url": "https://images.bild.de/6298ca716f6eec18589948b5/8a7100aca877056192eb522d130dd14a-miniSquare,eb4fe803?w=320",
-      "image_title": "Fall „Der Schelm“: Leipzigs Ex-NPD-Stadtrat Enrico Böhm festgenommen"
-    },
-    {
-      "title": "ÖPNV unter Strom : Diesel-Heizung für neue E-Busse in Dresden",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dvb-neue-e-busse-in-dresden-mit-diesel-heizung-ausgestattet-80288142.bild.html",
-      "image_url": "https://images.bild.de/6298cafdb278ac30b55978e7/3829dec62fe3356d0fcc80b3b3f4c893-miniSquare,59e8e513?w=320",
-      "image_title": "DVB: Neue E-Busse in Dresden mit Diesel-Heizung ausgestattet"
-    },
-    {
-      "title": "Nach Masken-Urteil 2021 : Staatsanwaltschaft klagt Weimarer Familienrichter an",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/nach-masken-urteil-2021-weimarer-familienrichter-angeklagt-80286314.bild.html",
-      "image_url": "https://images.bild.de/6298b7eab278ac30b55978ad/60a98b184e1794b3f4010611acf09847-miniSquare,c3b813e6?w=320",
-      "image_title": "Nach Masken-Urteil 2021: Weimarer Familienrichter angeklagt"
-    },
-    {
-      "title": "Park-Fehler : SUV-Rentner (86) rast in Rossmann",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/park-problemein-wuppertal-rentner-86-rast-mit-suv-in-rossmann-80288310.bild.html",
-      "image_url": "https://images.bild.de/6298ca7cb278ac30b55978e3/6c0cd2e7db5f4477b125e78e5d9ce8f0-miniSquare,737c5039?w=320",
-      "image_title": "Park-Probleme in NRW: Rentner (86) rast mit SUV in Rossmann"
-    },
-    {
-      "title": "Saftige Preiserhöhung : Das kostet die Maß 2022",
-      "teaser": "O’zapft is no ned – aber die die Wiesn-Bierpreise sind da!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wiesn-chef-preiserhoehung-ganz-schoen-saftig-das-kostet-die-mass-2022-80283894.bild.html",
-      "image_title": "Wiesn-Chef: „Saftige Preiserhöhung“: Das kostet die Maß 2022"
-    },
-    {
-      "title": "Balkon falsch begrünt : Wütender Mann stößt Freundin vom Balkon",
-      "teaser": "Die Begrünung des Balkons verärgerte ihn so sehr, dass er seine Freundin herunter stieß.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/falsch-bepflanzt-wuetender-mann-stoesst-freundin-in-erfurt-vom-balkon-80287352.bild.html",
-      "image_title": "Falsch Bepflanzt: Wütender Mann stößt Freundin in Erfurt vom Balkon"
-    },
-    {
-      "title": "Kindsmörderin oder unschuldig? : Der Fall Monika Weimar",
-      "teaser": "Ist eine Mutter in der Lage, ihre Töchter zu ermorden? Der Fall spaltet noch immer ganz Deutschland. BILD war im Dorf der toten Kinder.",
-      "url": "https://www.bild.de/news/inland/news/kindsmoerderin-oder-unschuldig-der-fall-monika-weimar-76356858.bild.html",
-      "image_title": "Kindsmörderin oder unschuldig?: Der Fall Monika Weimar"
-    },
-    {
-      "title": "Erste Punks schon da : 9-Euro-Stresstest für Sylt",
-      "teaser": "Deutschlands beliebteste Insel wappnet sich für zusätzliche Besucher an Pfingsten.",
-      "url": "https://www.bild.de/news/inland/news-inland/sylt-9-euro-ticket-bedeutet-stresstest-fuer-die-insel-die-ersten-punker-sind-sch-80280360.bild.html",
-      "image_title": "Sylt: 9-Euro-Ticket bedeutet Stresstest für die Insel – die ersten Punker sind schon da"
-    },
-    {
-      "title": "Staatsanwaltschaft : Ermittlungen gegen Ku-Klux-Klan eingestellt",
-      "teaser": "Als Zweck der Gruppierung konnte die Begehung von Straftaten nicht festgestellt werden.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/staatsanwaltschaft-stuttgart-ermittelt-nicht-mehr-gegen-ku-klux-klan-80282160.bild.html",
-      "image_title": "Staatsanwaltschaft Stuttgart ermittelt nicht mehr gegen Ku-Klux-Klan"
-    },
-    {
-      "title": "Autobahnen dicht? : ADAC warnt vor Pfingststaus in Sachsen",
-      "teaser": "Der ADAC rechnet über Pfingsten mit Staus auf den Autobahnen in Sachsen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/verkehr-adac-warnt-vor-staus-ueber-pfingsten-in-sachsen-80281942.bild.html",
-      "image_title": "Pfingsten: ADAC warnt vor Staus in Sachsen"
-    },
-    {
-      "title": "Youtuber „Drachenlord“ : Jetzt standen seine „Hater“ vor Gericht",
-      "teaser": "Der Streit zwischen dem „Drachenlord“ und seinen Gegner beschäftigt erneut die Justiz.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/youtuber-drachenlord-jetzt-standen-seine-hater-vor-gericht-80282084.bild.html",
-      "image_title": "Youtuber „Drachenlord“: Jetzt standen seine „Hater“ vor Gericht"
-    },
-    {
-      "title": "„Rock im Park“ : Zelte werden schon aufgebaut",
-      "teaser": "Die Musikfans können es nach der langen Corona-Pause anscheinend kaum erwarten.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/vorfreude-auf-rock-im-park-zelte-werden-schon-aufgebaut-80281320.bild.html",
-      "image_title": "Vorfreude auf „Rock im Park“: Zelte werden schon aufgebaut"
-    },
-    {
-      "title": "Kleiner trainiert keiner : So funktioniert Sachsens erstes „Micro-Gym“",
-      "teaser": "Viele Unternehmen mit Publikumsverkehr hatten es während der Corona-Monate schwer. Besonders hart traf es die Betreiber von Fitnessstudios.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-so-funktioniert-sachsens-erstes-micro-gym-fuer-solo-sportler-80278318.bild.html",
-      "image_title": "Dresden: So funktioniert Sachsens erstes „Micro-Gym“ für Solo-Sportler"
-    },
-    {
-      "title": "Baden-Württemberg : Schweinepest überwunden?",
-      "teaser": "Es sind erst einmal keine weiteren Fälle der Krankheit in Baden-Württemberg aufgetreten.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/ist-die-schweinepest-in-baden-wuerttemberg-ueberwunden-80280426.bild.html",
-      "image_title": "Ist die Schweinepest in Baden-Württemberg überwunden?"
-    },
-    {
-      "title": "Die Missbrauchs-Monster : Warum die Kinderschänder so lange unerkannt blieben",
-      "teaser": "Immer mehr Details werden über die Kinderschänder bekannt, die sich als Babysitter tarnten.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/die-missbrauchs-monster-darum-blieben-die-kinderschaender-so-lange-unerkannt-80276958.bild.html",
-      "image_title": "Die Missbrauchs-Monster: Darum blieben die Kinderschänder so lange unerkannt"
-    },
-    {
-      "title": "Unfassbare Tat : Tierquäler schießt Kater mit Luftgewehr Auge aus",
-      "teaser": "Ein Tierquäler schoss in Wasserburg a. Inn auf einen Kater, der verlor sein Auge.",
-      "url": "https://www.bild.de/regional/muenchen/stuttgart-aktuell/unfassbare-tat-tierquaeler-schiesst-kater-mit-luftgewehr-auge-aus-80274848.bild.html",
-      "image_title": "Unfassbare Tat: Tierquäler schießt Kater mit Luftgewehr Auge aus"
-    },
-    {
-      "title": "Nach Knieverletzung : Die Muli-Wanderin wandert nicht mehr",
-      "teaser": "Aus und vorbei – der Traum platzte ausgerechnet in Mittelfranken!",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/knieverletzung-muli-wanderin-aus-erlangen-wandert-nicht-mehr-80273738.bild.html",
-      "image_title": "Knieverletzung: Muli-Wanderin aus Erlangen wandert nicht mehr"
-    },
-    {
-      "title": "Rabbiner-Tagung in KZ-Gedenkstätte : „Hass und Gewalt gegen Juden dürfen wir niemals dulden“",
-      "teaser": "München/Dachau – Seit Montag hatten 250 Rabbiner aus Europa, Israel und den USA in München getagt.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/rabbiner-tagung-in-kz-gedenkstaette-hass-gegen-juden-duerfen-wir-nie-dulden-80274472.bild.html",
-      "image_title": "Rabbiner-Tagung in KZ-Gedenkstätte: „Hass gegen Juden dürfen wir nie dulden“"
-    },
-    {
-      "title": "Surf-Park & Mega-Gebäude : Hallbergmoos reitet auf der 200-Mio-Welle",
-      "teaser": "Es sieht aus wie ein futuristischer Traum. 2025 soll „Bayerisch Hawaii\" Wirklichkeit sein.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/surf-park-mega-gebaeude-hallbergmoos-reitet-auf-der-200-mio-welle-80278136.bild.html",
-      "image_title": "Surf-Park & Mega-Gebäude: Hallbergmoos reitet auf der 200-Mio-Welle"
-    },
-    {
-      "title": "Soldat niedergestochen : Die Blut-Zwillinge wollten sein Kind entführen",
-      "teaser": "Ausgerechnet zu Hause gerät er in einen lebensgefährlichen Hinterhalt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/soldat-niedergestochen-die-blut-zwillinge-wollten-sein-kind-entfuehren-80277238.bild.html",
-      "image_title": "Soldat niedergestochen: Die Blut-Zwillinge wollten sein Kind entführen"
-    },
-    {
-      "title": "Nach Brücken-Crash : Abflug in die Warnow – Opel landet neben Bootssteg",
-      "teaser": "Ein 74-jähriger Opel-Fahrer landete nach einem Crash auf der Vorpommernbrücke in der Warnow - direkt neben einem Bootssteg.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-abflug-in-die-warnow-opel-landet-neben-bootssteg-80276416.bild.html",
-      "image_title": "Unfall: Abflug in die Warnow – Opel landet neben Bootssteg"
-    },
-    {
-      "title": "Obduktion beantragt : Vermisste Patientin (53) tot in Abrisshaus gefunden",
-      "teaser": "Grusel-Fund in Chemnitz! In einem leerstehenden Mehrfamilienhaus wurde dort eine Frauenleiche gefunden.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-vermisste-patientin-53-tot-in-abrisshaus-gefunden-80278212.bild.html",
-      "image_title": "Chemnitz: Vermisste Patientin (53) tot in Abrisshaus gefunden"
-    },
-    {
-      "title": "Er beteuert seine Unschuld : Haus abgebrannt, um Stiefsohn zu töten?",
-      "teaser": "Die Staatsanwaltschaft wirft Detlev B. (71) vor, im Juni 2019 im Haus seiner Lebensgefährtin Feuer gelegt und den Tod ihres Sohnes verursacht zu haben.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-haus-abgebrannt-um-stiefsohn-zu-toeten-80277522.bild.html",
-      "image_title": "Leipzig: Haus abgebrannt, um Stiefsohn zu töten?"
-    },
-    {
-      "title": "9€-Ansturm zu Pfingsten? : Erste Punker schon auf Sylt",
-      "url": "https://www.bild.de/video/clip/video/9-ansturm-auf-sylt-die-punker-kommen-80280136,auto=true.bild.html",
-      "image_title": "9€-Ansturm zu Pfingsten?: Erste Punker schon auf Sylt"
-    },
-    {
-      "title": "„Was willst du von mir?“ : Tramfahrer verprügelt betrunkenen Fahrgast",
-      "url": "https://www.bild.de/video/clip/video/skandal-in-der-strassenbahn-tramfahrer-rastet-voellig-aus-80247162,auto=true.bild.html",
-      "image_title": "„Was willst du von mir?“: Tramfahrer verprügelt betrunkenen Fahrgast"
-    },
-    {
-      "title": "Tank Sheriff Hamburg : Langsam kommen hier die Staus",
-      "url": "https://www.bild.de/video/clip/video/tank-sheriff-hamburg-langsam-kommen-hier-die-staus-80272450,auto=true.bild.html",
-      "image_title": "Tank Sheriff Hamburg: Langsam kommen hier die Staus"
-    }
-  ]
+  "articles": []
 }
