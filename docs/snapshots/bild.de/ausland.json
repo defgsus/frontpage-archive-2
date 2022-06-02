@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-02T21:18:54",
+  "timestamp": "2022-06-02T22:20:37",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6ec48e5e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.b47371c7.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0464a710.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Dusch-Alibi nach Ballermann-Brand : Erster Kegel-Bruder frei",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-was-die-kegel-brueder-aus-deutschland-in-palma-aussagten-80289912.bild.html",
-      "image_url": "https://images.bild.de/6298f82f5f52923039fe8b9e/c4b76f34931bf1882c99c1ca4f34b124,81bcb233?w=656",
-      "image_title": "Entscheidung auf Mallorca: Erster Kegel-Bruder soll frei sein"
-    },
-    {
-      "title": "Mord, dann Todessprung : Nicola (17) vom Freund (18) erstochen",
-      "url": "https://www.bild.de/news/inland/news-inland/haengebruecken-tragoedie-nicola-17-vom-ex-freund-mit-messer-erstochen-80280724.bild.html",
-      "image_url": "https://images.bild.de/62986b4b5f52923039fe89fc/b928f15a6d9fd13d74d50f8df3704b44-miniSquare,a661015c?w=320",
-      "image_title": "Hängebrücken-Tragödie: Nicola (17) vom Ex-Freund mit Messer erstochen"
-    },
-    {
-      "title": "Besonderer Grund : Richter erklären Bienen und Hummeln zu Fischen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/urteil-richter-erklaeren-bienen-und-hummeln-zu-fischen-80283446.bild.html",
-      "image_url": "https://images.bild.de/629890bb6f6eec18589947ff/ba30d9d8cdb1358badeca3dcd3ccedf5-miniSquare,43860b2c?w=320",
-      "image_title": "Urteil: Richter erklären Bienen und Hummeln zu Fischen"
-    },
-    {
-      "title": "Vier Menschen getötet : Schüsse in US-Krankenhaus",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-angreifer-toetet-drei-menschen-schuesse-in-krankenhaus-in-tulsa-80279036.bild.html",
-      "image_url": "https://images.bild.de/6297f5ec5f52923039fe89b2/3ea192e853e81fefcf98b79a9f078961-miniSquare,2f094556?w=320",
-      "image_title": "USA: Angreifer tötet vier Menschen – Schüsse in Krankenhaus in Tulsa"
-    },
-    {
-      "title": "Viel zu nahe gekommen : Wut-Bison spießt Frau (25) in US-Nationalpark auf",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-junge-frau-25-im-yellowstone-nationalpark-von-bison-aufgespiesst-80272886.bild.html",
-      "image_url": "https://images.bild.de/629758e1b278ac30b5597695/52e3ec703e952fd4094c8aa957f133c5-miniSquare/Kennung_Archivfoto,f6be5cc2?w=320",
-      "image_title": "USA: Junge Frau (25) im Yellowstone-Nationalpark von Bison aufgespießt"
-    },
-    {
-      "title": "Dokuserie „Rogue Earth“ : Wenn die Natur zum Schlachtfeld wird",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bild-doku-serie-ueber-naturkatastrophen-wenn-die-natur-zum-schlachtfeld-wird-73080170.bild.html",
-      "image_title": "BILD-Doku-Serie über Naturkatastrophen: Wenn die Natur zum Schlachtfeld wird"
-    },
-    {
-      "title": "Drinnen fröhlich – draußen traurig : So leben Menschen neben den Toren von Disney World",
-      "teaser": "Im Schatten der schillernden Welt leben Tausende Obdachlose.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/arm-und-obdachlos-so-leben-menschen-neben-den-toren-von-disney-world-80268608.bild.html",
-      "image_title": "Arm und obdachlos: So leben Menschen neben den Toren von Disney World"
-    },
-    {
-      "title": "Brand von Malle-Bar : Die seltsame Balkon-Theorie der spanischen Polizei",
-      "teaser": "Die Guardia Civil in Palma de Mallorca legt mit ei­nem neuen Vorwurf nach …",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news/kegelbrueder-in-u-haft-auf-mallorca-augen-zeugin-widerspricht-polizei-80260400.bild.html",
-      "image_title": "Kegelbrüder auf Mallorca in U-Haft: Laut Polizei seien sie über Balkone geklettert"
-    },
-    {
-      "title": "Erste Beerdigung : Uvalde trauert um Amoklauf-Opfer Amerie",
-      "teaser": "Hunderte Menschen nahmen an der Trauerfeier teil, forderten die Verschärfungen der Waffengesetze.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/erstes-amoklauf-opfer-10-begraben-uvalde-trauert-um-die-kleine-amerie-80267246.bild.html",
-      "image_title": "Erstes Amoklauf-Opfer (10) begraben: Uvalde trauert um die kleine Amerie"
-    },
-    {
-      "title": "Mädchen entführt : Warum Paraguay ein Paradies für Querdenker ist",
-      "teaser": "Ein Ex-Profifußballer entführt seine Tochter nach Südamerika. Ein Experte erklärt, warum.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/ex-profi-fussballer-entfuehrt-tochter-warum-paraguay-ein-paradies-fuer-querdenke-80255508.bild.html",
-      "image_title": "Ex-Profi-Fußballer entführt Tochter: Warum Paraguay ein Paradies für Querdenker ist"
-    },
-    {
-      "title": "Anschlag auf „Mona Lisa“ : Polizei steckt Tortenwerfer in Psycho-Zelle",
-      "teaser": "Bei dem Täter handelt es sich laut Medienberichten um einen 36-Jährigen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mona-lisa-torten-anschlag-im-louvre-polizei-steckt-taeter-in-die-psycho-zelle-80257524.bild.html",
-      "image_title": "„Mona Lisa“: Torten-Anschlag im Louvre! Polizei steckt Täter in die Psycho-Zelle"
-    },
-    {
-      "title": "Er kam im Rollstuhl : Umwelt-Aktivist wirft Torte auf die „Mona Lisa“",
-      "teaser": "Ein als Oma verkleideter Umwelt-Aktivist hat einen Torten-Anschlag auf die „Mona Lisa“ verübt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mona-lisa-umwelt-aktivist-wirft-torte-auf-beruehmtestes-gemaelde-der-welt-im-lou-80248768.bild.html",
-      "image_title": "„Mona Lisa“: Umwelt-Aktivist wirft Torte auf berühmtestes Gemälde der Welt im Louvre"
-    },
-    {
-      "title": "Ballermann-Brand : BILD kennt die WhatsApp-Nachrichten der Kegelbrüder",
-      "teaser": "13 Kegelbrüder in U-Haft auf Malle. Kurz nach dem Brand chatteten sie mit ihren Familien.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/nach-brand-auf-mallorca-bild-kennt-whatsapp-protokolle-der-kegel-brueder-80253116.bild.html",
-      "image_title": "Nach Brand auf Mallorca: BILD kennt WhatsApp-Protokolle der Kegel-Brüder"
-    },
-    {
-      "title": "Skandal! Airline sicher: : Beide Piloten im Flug eingeschlafen",
-      "teaser": "Kampfjets waren schon in der Luft, um die Maschine im Fall von Terror abzuschießen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/skandal-bei-ita-airways-piloten-im-cockpit-eingeschlafen-kapitaen-gefeuert-80254028.bild.html",
-      "image_title": "Skandal bei ITA Airways: Piloten im Cockpit eingeschlafen? Kapitän gefeuert!"
-    },
-    {
-      "title": "Nach Paraguay entführt : Hilferuf von Laras Papa: „Es geht ihr nicht gut“",
-      "teaser": "Jetzt wendet sich auch Filip Blank aus Gauting, der leibliche Vater von Lara, an die Entführer",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/maedchen-in-paraguay-entfuehrt-laras-papa-ich-weiss-dass-es-ihr-nicht-gut-geht-80245292.bild.html",
-      "image_title": "Mädchen in Paraguay entführt– Laras Papa: „Ich weiß, dass es ihr nicht gut geht“"
-    },
-    {
-      "title": "Widerliche Tierhändler : Ehepaar beim Zerteilen von Tiger erwischt",
-      "teaser": "Ein Mann und eine Frau sind in Vietnam ertappt worden, als sie einen Tiger zerteilen wollten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/vietnam-ehepaar-beim-zerteilen-von-tiger-erwischt-sie-wollten-knochenpaste-mache-80247040.bild.html",
-      "image_title": "Vietnam: Ehepaar beim Zerteilen von Tiger erwischt – sie wollten Knochenpaste machen"
-    },
-    {
-      "title": "Absturz in Nepal : Zwei Deutsche unter den Todesopfern",
-      "teaser": "Nach dem Verschwinden eines Flugzeugs im Himalaya ist das Wrack entdeckt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nepal-flugzeugabsturz-im-himalaya-wrack-und-14-leichen-gefunden-80244642.bild.html",
-      "image_title": "Nepal: Flugzeugabsturz im Himalaya! Zwei Deutsche aus Hessen unter den Todesopfern"
-    },
-    {
-      "title": "Kegelbrüder im Malle-Knast : Ihnen bleiben nur 90 Sekunden zum Telefonieren",
-      "teaser": "1,5 Minuten. Das sind 90 Sekunden, oder auch die Länge von Telefonaten in Gefängnissen",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/kegelbrueder-im-malle-knast-ihnen-bleiben-nur-90-sekunden-zum-telefonieren-80242168.bild.html",
-      "image_title": "Mallorca: Kegelbrüdern bleiben 90 Sekunden zum Telefonieren im Gefängnis"
-    },
-    {
-      "title": "Waren auch Deutsche an Bord? : Flugzeug-Wrack im Himalaya gefunden",
-      "teaser": "Nun ist der Absturz Gewissheit. Das Wrack einer vom Radar verschwunden Maschine wurde in Nepal entdeckt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/auch-deutsche-an-bord-flugzeug-wrack-im-himalaya-gefunden-80244562.bild.html",
-      "image_title": "Auch Deutsche an Bord? Flugzeug-Wrack im Himalaya gefunden"
-    },
-    {
-      "title": "Grundschul-Amoklauf in Texas : Biden besucht den Ort des Grauens",
-      "teaser": "Fünf Tage nach dem zweitblutigsten Amoklauf der US-Geschichte reist Biden nach Texas.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-biden-besucht-den-ort-des-grauens-80242436.bild.html",
-      "image_title": "Amoklauf in Texas: Biden besucht den Ort des Grauens"
-    },
-    {
-      "title": "Wegen Brandstiftung : Kegelbrüder sitzen im Knast der Unterweltgrößen",
-      "teaser": "Es gibt Pool, Fit­nessstudio, Friseur und Sprachkurse.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/article-629345466211895750ca53a5-80238230.bild.html",
-      "image_title": "Ballermann-Bar angezündet? Kegel-Brüder sitzen im Knast der Unterweltgrößen"
-    },
-    {
-      "title": "Wegen Drogen und Gewalt : Neue Maßnahmen! So wird auf Malle jetzt durchgegriffen",
-      "teaser": "Immer mehr Drogen, Gewalt und illegale Strandpartys – damit soll jetzt Schluss sein.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/drogen-gewalt-illegale-strandpartys-mehr-polizei-und-deftige-strafen-am-ballerma-80230410.bild.html",
-      "image_title": "Drogen, Gewalt, illegale Strandpartys: Neue Maßnahmen! So wird auf Malle jetzt durchgegriffen"
-    },
-    {
-      "title": "62 Schüler betroffen : Als UFOs vor einer Schule in Afrika landeten",
-      "teaser": "Zeugen sprechen über ihre Begegnung mit Aliens im Jahr 1994.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/62-kinder-erlebten-das-ariel-phaenomen-als-ufos-vor-einer-schule-in-afrika-lande-80227572.bild.html",
-      "image_title": "62 Kinder erlebten das „Ariel-Phänomen“: Als UFOs vor einer Schule in Afrika landeten"
-    },
-    {
-      "title": "In Nigeria : 31 Tote bei Massenpanik vor Kirchen-Veranstaltung",
-      "teaser": "Den Ärmsten der Armen sollte geholfen werden. Jetzt sind 31 Menschen tot, auch viele Kinder",
-      "url": "https://www.bild.de/news/ausland/news-ausland/31-tote-bei-massenpanik-vor-kirchen-veranstaltung-80235882.bild.html",
-      "image_title": "31 Tote bei Massenpanik vor Kirchen-Veranstaltung"
-    },
-    {
-      "title": "Polizei ließ Killer gewähren : Mutter rettet ihre Kinder vor Texas-Amokläufer",
-      "teaser": "Angeli Rose Gomez’ Geschichte zeigt, wie groß das Polizei-Versagen in Uvalde war.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-mutter-rettet-ihre-kinder-waehrend-polizisten-killer-gewaehren-80232488.bild.html",
-      "image_title": "Amoklauf in Texas: Mutter rettet ihre Kinder, während Polizisten Killer gewähren ließen"
-    },
-    {
-      "title": "Heißer Unterricht im Internet : SEX statt SECHS in Mathe",
-      "url": "https://www.bild.de/video/clip/video/mathe-mit-tafel-strip-willkommen-in-der-busen-schule-80273352,auto=true.bild.html",
-      "image_title": "Heißer Unterricht im Internet: SEX statt SECHS in Mathe"
-    },
-    {
-      "title": "BILD Lagezentrum : Straßenschlachten um Ukraine-Großstadt",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/bild-lagezentrum-strassenschlachten-um-ukraine-grossstadt-80284866,auto=true.bild.html",
-      "image_title": "BILD Lagezentrum: Straßenschlachten um Ukraine-Großstadt"
-    },
-    {
-      "title": "Kampf im Ozean : Schildkröte gegen Tigerhai",
-      "url": "https://www.bild.de/video/clip/video/kampf-im-ozean-schildkroete-gegen-tigerhai-80288280,auto=true.bild.html",
-      "image_title": "Kampf im Ozean: Schildkröte gegen Tigerhai"
-    }
-  ]
+  "articles": []
 }
