@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-03T07:19:22",
+  "timestamp": "2022-06-03T08:25:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "0day in Confluence",
+      "url": "https://www.heise.de/news/Angriffe-auf-Code-Execution-Luecke-bedrohen-Confluence-Installationen-7131081.html"
+    },
+    {
       "title": "Firefox, Thunderbird",
       "url": "https://www.heise.de/news/Schwachstellen-in-Firefox-und-Thunderbird-abgedichtet-7129671.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Content-Management-System-CISA-warnt-vor-Sicherheitsluecke-in-Drupal-7127268.html"
     },
     {
-      "title": "Microsoft Office (MSDT)",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-in-MS-Office-Microsoft-gibt-Empfehlungen-7126993.html"
+      "title": "Ausbildung zum Virenjäger: Trojaner mit Desinfec't 2022 jagen und erledigen",
+      "teaser": "Die neue Version des c't-Sicherheitstools Desinfec't 2022 ist da. Das System startet direkt von einem USB-Stick und spürt Schädlinge unter Windows auf.",
+      "url": "https://www.heise.de/news/Ausbildung-zum-Virenjaeger-Trojaner-mit-Desinfec-t-2022-jagen-und-erledigen-7127056.html"
+    },
+    {
+      "title": "Angriffe auf Code-Execution-Lücke bedrohen Confluence-Installationen​",
+      "teaser": "Seit Anfang der Woche installieren Angreifer Backdoors über eine neue Lücke in Confluence. Admins sollten noch vor dem langen Wochenende Maßnahmen ergreifen.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Code-Execution-Luecke-bedrohen-Confluence-Installationen-7131081.html"
     },
     {
       "title": "Europol: FluBot-Infrastruktur unter Kontrolle von Strafverfolgern",
@@ -59,6 +69,11 @@
       "url": "https://www.heise.de/news/heise-devSec-Konferenz-zu-sicherer-Softwareentwicklung-wieder-vor-Ort-7127767.html"
     },
     {
+      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
+      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
+    },
+    {
       "title": "Apples Argumente gegen Sideloading: 1,6 Millionen \"riskante Apps\" gestoppt",
       "teaser": "Laut Angaben des iPhone-Konzerns sollen betrügerische Transaktionen in Höhe von nahezu 1,4 Milliarden Euro verhindert worden sein. Und das nur im Jahr 2021.",
       "url": "https://www.heise.de/news/Apples-Argumente-gegen-Sideloading-1-6-Millionen-riskante-Apps-gestoppt-7129475.html",
@@ -69,11 +84,6 @@
       "teaser": "In Firefox, Firefox ESR und Thunderbird klafften Schwachstellen. Angreifer hätten dadurch betroffene Systeme übernehmen können, warnt die CISA.",
       "url": "https://www.heise.de/news/Schwachstellen-in-Firefox-und-Thunderbird-abgedichtet-7129671.html",
       "image_title": "Aufmacher Sicherheitslücken in Firefox und Thunderbird geschlossen"
-    },
-    {
-      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
-      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
     },
     {
       "title": "Cyber-Angriffe: BaFin warnt vor erhöhter Gefahr im Finanzsektor",
@@ -91,6 +101,12 @@
       "title": "Sicherheitsforscher stoßen weltweit auf 3,6 Millionen exponierte MySQL-Server",
       "teaser": "Jetzt absichern! Angreifer könnten unter anderem in Deutschland an mehr als 170.000 über das Internet erreichbaren MySQL-Servern ansetzen.",
       "url": "https://www.heise.de/news/Sicherheitsforscher-stossen-weltweit-auf-3-6-Millionen-exponierte-MySQL-Server-7128356.html"
+    },
+    {
+      "title": "Schwache RSA-Schlüssel mit 380 Jahre altem Faktorisierungsalgorithmus knacken",
+      "teaser": "Drucker von Canon und Fujifilm benutzten eine fehlerhafte Krypto-Bibliothek: Deren Schlüssel waren verwundbar gegenüber einem 380 Jahre alten Verfahren.",
+      "url": "https://www.heise.de/hintergrund/Schwache-RSA-Schluessel-mit-380-Jahre-altem-Faktorisierungsalgorithmus-knacken-7096427.html",
+      "image_title": "Aufmacher bei uwei bestellt: Drucker der zerbrechliche Schlüssel ausdruckt., Thomas Kuhlenbeck"
     },
     {
       "title": "Content Management System: Sicherheitslücke in Drupal erlaubt Website-Übernahme",
@@ -147,23 +163,6 @@
       "url": "https://www.heise.de/news/Warten-auf-abgesicherte-Version-Anonymes-Surfen-unter-Tails-gefaehrdet-7123771.html"
     },
     {
-      "title": "BSI: Aktualisierte Analysen von sicherheitskritischen Windows-Funktionen",
-      "teaser": "Das BSI meldet, dass es seine Sicherheits-Analysen aus dem SiSyPHuS-Projekt aktualisiert hat. Diese sind nun auf dem Stand von Windows 10 Version 1809.",
-      "url": "https://www.heise.de/news/BSI-Aktualisierte-Analysen-von-sicherheitskritischen-Windows-Funktionen-7122437.html",
-      "image_title": "Aufmacher BSI aktualisiert SISyPHuS-Dokumentation"
-    },
-    {
-      "title": "Webbrowser: Google Chrome 102 schließt 32 Sicherheitslücken",
-      "teaser": "Der Webbrowser Google Chrome ist in Version 102 erschienen, die eine große Zahl an Sicherheitslücken abdichtet. Sie soll ungenannte neue Features enthalten.",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-102-schliesst-32-Sicherheitsluecken-7122031.html",
-      "image_title": "Aufmacher Google Chrome 102"
-    },
-    {
-      "title": "Sicherheitsupdate: Angreifer könnten Zoom-Chats belauschen",
-      "teaser": "Jetzt aktualisieren: Der Zoom-Client ist unter Android, iOS, Linux, macOS und Windows verwundbar.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennten-Zoom-Chats-belauschen-7121961.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -185,6 +184,11 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Desinfec't auf Ventoy-SSD im Notebook (+Secure Boot)",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfec-t-auf-Ventoy-SSD-im-Notebook-Secure-Boot/posting-41088251/show/"
+    },
+    {
       "title": "Re: Danke, werde das machen",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Danke-werde-das-machen/posting-41088095/show/"
@@ -193,11 +197,6 @@
       "title": "Re: Muss das frustrierend für die KGB Spione gewesen sein,",
       "teaser": "Forum: 00000000: Passwort für US-Atomraketen",
       "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/00000000-Passwort-fuer-US-Atomraketen/Re-Muss-das-frustrierend-fuer-die-KGB-Spione-gewesen-sein/posting-41068060/show/"
-    },
-    {
-      "title": "Re: Desinfect 2021-p2 erkennt Ethernet Verbindung in Bauvorschlag 9-2022 nicht",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2021-p2-erkennt-Ethernet-Verbindung-in-Bauvorschlag-9-2022-nicht/posting-41060232/show/"
     }
   ]
 }
