@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-04T10:20:57",
+  "timestamp": "2022-06-04T11:17:39",
   "url": "https://www.volksstimme.de/",
   "response": {
     "status": 200
@@ -38,6 +38,12 @@
   ],
   "articles": [
     {
+      "title": "Einkaufen in Magdeburg: So geht es im Flora-Park weiter",
+      "image_url": "https://bmg-images.imgix.net/2022/06/03/9f35faf7-5723-4cd3-8680-c286bd27239a.jpeg?rect=0%2C209%2C4000%2C2250&width=100",
+      "image_title": "Der Parkplatz am Magdeburger Einkaufszentrum Flora-Park wird saniert.",
+      "topic": "Shoppingzentrum"
+    },
+    {
       "title": "Debatte um Magdeburgs Tauben geht weiter",
       "image_url": "https://bmg-images.imgix.net/2022/06/03/fccecdc4-2abe-4e7d-8077-feabaaeae78b.jpeg?rect=0%2C801%2C2060%2C1159&width=100",
       "image_title": "Ein Mann an einem Taubenschlag. Die Stadtverwaltung Magdeburg soll nach dem Willen einiger Ratsfraktionen ein Konzept erstellen, wie die Zahl der Stadttauben reduziert werden kann.",
@@ -50,24 +56,18 @@
       "topic": "Rettungshubschrauber im Einsatz"
     },
     {
-      "title": "Baustellen in Magdeburg: Heumarkt-Freigabe verzögert sich erneut",
-      "image_url": "https://bmg-images.imgix.net/2022/06/04/cb17c07c-c9e6-48f7-b0b7-e8fb255ecf77.jpeg?rect=0%2C60%2C1149%2C646&width=100",
-      "image_title": "Freie Fahrt über den Heumarkt in Magdeburg weiter nur für Baufahrzeuge.",
-      "topic": "Infrastruktur"
-    },
-    {
-      "title": "Vandalismus: Magdeburger Domgemeinde ist entsetzt über Graffiti-Attacke",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/vandalismus-magdeburger-domgemeinde-ist-entsetzt-uber-graffiti-attacke-3387898",
-      "image_url": "https://bmg-images.imgix.net/2022/06/03/bf5c43e5-fe89-441f-8826-e384619c69fc.jpeg?rect=0%2C209%2C4000%2C2250&width=100",
-      "image_title": "Über diese Baustelle gelangten die Täter auf den Magdeburger Dom und verunstalteten ihn mit Graffiti.",
-      "topic": "Baudenkmal"
-    },
-    {
       "title": "Wie Magdeburg den Verkehr zur Intel-Baustelle bewältigen möchte",
       "url": "https://www.volksstimme.de/lokal/magdeburg/wie-magdeburg-den-verkehr-zur-intel-baustelle-bewaltigen-mochte-3387903",
       "image_url": "https://bmg-images.imgix.net/2022/06/03/ea28e61d-9ff7-40a8-8a04-8abd916ffd54.jpeg?rect=0%2C204%2C4000%2C2250&width=100",
       "image_title": "In Magdeburg wird Intel an der A14 mehrere Chipfabriken bauen.",
       "topic": "Wirtschaft"
+    },
+    {
+      "title": "Schockanruf und Enkeltrick - wie die Betrugsmaschen in Gardelegen funktionieren und was die Polizei rät",
+      "url": "https://www.volksstimme.de/lokal/gardelegen/schockanruf-und-enkeltrick-wie-in-gardelegen-die-betrugsmaschen-funktionieren-und-was-die-polizei-rat-3387817",
+      "image_url": "https://bmg-images.imgix.net/2022/06/03/e9d1990a-8a3b-4712-9aef-ce9e739b1552.jpeg?rect=0%2C283%2C3153%2C1774&width=100",
+      "image_title": "Die Kontaktaufnahme der Gauner mit ihren potenziellen Opfern erfolgt in jüngster Zeit auch per WhatsApp.",
+      "topic": "Millionen-Geschäft"
     },
     {
       "title": "Großes Logistikzentrum soll bei Wolmirstedt gebaut werden",
@@ -147,6 +147,27 @@
       "topic": "Kriminalität"
     },
     {
+      "title": "Das Feuer: Der Verdacht fällt auf Falkenberg",
+      "url": "https://www.volksstimme.de/lokal/stendal/das-feuer-der-verdacht-fallt-auf-falkenberg-3388051",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/a8a26c2a-c253-4a0d-9276-8ade16744d34.jpeg?rect=0%2C308%2C4000%2C2250&width=100",
+      "image_title": "Nach dem großen Feuer in Vissum nahm die Kriminalpolizei dieses Foto vom Brandobjekt auf.",
+      "topic": "Heimatgeschichte"
+    },
+    {
+      "title": "Der Mümmelmann hat seine eigene Apotheke",
+      "url": "https://www.volksstimme.de/lokal/stendal/der-mummelmann-hat-seine-eigene-apotheke-3388052",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/7f0567a0-b3b1-432c-bf33-d31c7020adc4.jpeg?rect=47%2C0%2C2268%2C1276&width=100",
+      "image_title": "Ein Feldhase.",
+      "topic": "Natur"
+    },
+    {
+      "title": "Baustellen in Magdeburg: Heumarkt-Freigabe verzögert sich erneut",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/baustellen-in-magdeburg-heumarkt-freigabe-verzogert-sich-erneut-3388004",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/cb17c07c-c9e6-48f7-b0b7-e8fb255ecf77.jpeg?rect=0%2C60%2C1149%2C646&width=100",
+      "image_title": "Freie Fahrt über den Heumarkt in Magdeburg weiter nur für Baufahrzeuge.",
+      "topic": "Infrastruktur"
+    },
+    {
       "title": "Wie in Gutenswegen Musikgeschichte geschrieben wird",
       "url": "https://www.volksstimme.de/lokal/wolmirstedt/wie-in-gutenswegen-musikgeschichte-geschrieben-wird-3387885",
       "image_url": "https://bmg-images.imgix.net/2022/06/03/510ef723-e1da-411d-aef7-2076d5f0ed2c.jpeg?rect=0%2C51%2C1403%2C789&width=100",
@@ -161,45 +182,24 @@
       "topic": "Tierhaltung"
     },
     {
-      "title": "Wernigerode ohne Schwerlastverkehr: Wann kommt Ortsumfahrung?",
-      "url": "https://www.volksstimme.de/lokal/wernigerode/wernigerode-ohne-schwerlastverkehr-wann-kommt-ortsumfahrung-3387930",
-      "image_url": "https://bmg-images.imgix.net/2022/06/03/b7a2ff70-07cd-40e2-b2f8-8cc2bb483d9e.jpeg?rect=0%2C265%2C2823%2C1588&width=100",
-      "image_title": "Immer wieder brettern tonnenschwere Laster auf der B 244 durch Wernigerode. Aber: Bis zur Ortsumfahrung ist es noch ein langer Weg.",
+      "title": "Das Feuer: Der Verdacht fällt auf Falkenberg",
+      "url": "https://www.volksstimme.de/lokal/stendal/das-feuer-der-verdacht-fallt-auf-falkenberg-3388051",
+      "topic": "Heimatgeschichte"
+    },
+    {
+      "title": "Der Mümmelmann hat seine eigene Apotheke",
+      "url": "https://www.volksstimme.de/lokal/stendal/der-mummelmann-hat-seine-eigene-apotheke-3388052",
+      "topic": "Natur"
+    },
+    {
+      "title": "Reisewelle zu Pfingsten - Dichtes Gedränge",
+      "url": "https://www.volksstimme.de/panorama/reisewelle-zu-pfingsten-dichtes-gedrange-3388048",
       "topic": "Verkehr"
     },
     {
-      "title": "Calbe: Neugebauter Radweg eingeweiht",
-      "url": "https://www.volksstimme.de/lokal/schoenebeck/calbe-neugebauter-radweg-eingeweiht-3387778",
-      "image_url": "https://bmg-images.imgix.net/2022/06/03/9ca80790-82ab-403c-b81b-e78a0efb0bf1.jpeg?rect=205%2C0%2C3074%2C1729&width=100",
-      "image_title": "Zusammen mit den Stadträten Torsten Göhr (2. von links) und Peter Müller (3. von links) eröffnet Bürgermeister Sven Hause nach dem Abschluss der Arbeiten den rund 1,6 Kilometer langen Radweg vom Brotsack bis zum Ortsausgang für die Bürger. Der Weg ist Teil des Saaleradweges.",
-      "topic": "Verkehr"
-    },
-    {
-      "title": "Sket-Passage in Magdeburg: Linken-Politiker pocht auf Antworten zur Schließung",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/sket-passage-in-magdeburg-linken-politiker-pocht-auf-antworten-zur-schliessung-3388003",
-      "image_url": "https://bmg-images.imgix.net/2022/06/04/3658ae23-a20b-42c3-bb93-5ca4215dc36a.jpeg?rect=0%2C209%2C4000%2C2250&width=100",
-      "image_title": "Norma und Rossmann mussten ihre Filialen in der Sket-Passage in Magdeburg-Buckau vorübergehend wieder schließen.",
-      "topic": "Einkaufen"
-    },
-    {
-      "title": "Durchsuchung und Festnahme nach tödlichem Schuss bei Kirmes",
-      "url": "https://www.volksstimme.de/panorama/durchsuchung-und-festnahme-nach-todlichem-schuss-bei-kirmes-3388041",
-      "topic": "Kriminalität"
-    },
-    {
-      "title": "Großbrand in Apenburger Kunststoffunternehmen FraPa-Plast: Anwohner zittern um ihre Häuser",
-      "url": "https://www.volksstimme.de/blaulicht/salzwedel/grossbrand-in-apenburger-kunststoffunternehmen-frapa-plast-anwohner-zittern-um-ihre-hauser-3387908",
-      "topic": "Feuer"
-    },
-    {
-      "title": "Slowakische Polizei ermittelt nach Zugunglück mit Verletzten",
-      "url": "https://www.volksstimme.de/panorama/slowakische-polizei-ermittelt-nach-zugungluck-mit-verletzten-3388039",
-      "topic": "Unfall"
-    },
-    {
-      "title": "Happy Birthday, Lilibet - Palast gratuliert Queen-Urenkelin",
-      "url": "https://www.volksstimme.de/panorama/stars/happy-birthday-lilibet-palast-gratuliert-queen-urenkelin-3388035",
-      "topic": "Royals"
+      "title": "Schockanruf und Enkeltrick - wie die Betrugsmaschen in Gardelegen funktionieren und was die Polizei rät",
+      "url": "https://www.volksstimme.de/lokal/gardelegen/schockanruf-und-enkeltrick-wie-in-gardelegen-die-betrugsmaschen-funktionieren-und-was-die-polizei-rat-3387817",
+      "topic": "Millionen-Geschäft"
     },
     {
       "title": "15-Jährige durch Stiche lebensgefährlich verletzt – Tatverdächtiger festgenommen",
@@ -244,6 +244,13 @@
       "topic": "Krieg in der Ukraine"
     },
     {
+      "title": "Sexvideo-Affäre: Benzema verzichtet auf Berufung",
+      "url": "https://www.volksstimme.de/sport/fussball/sexvideo-affare-benzema-verzichtet-auf-berufung-3388054",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/00875ed1-230a-4234-9f37-33c761dbe030.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "War fast sechs Jahre nicht mehr für die französische Nationalmannschaft nominiert worden: Karim Benzema.",
+      "topic": "Französischer Starstürmer"
+    },
+    {
       "title": "Präsident Macron riet Mbappé zum Verbleib in Frankreich",
       "url": "https://www.volksstimme.de/sport/fussball/prasident-macron-riet-mbappe-zum-verbleib-in-frankreich-3388037",
       "image_url": "https://bmg-images.imgix.net/2022/06/04/2d640475-af72-49aa-a702-0cda42f1c6a1.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
@@ -272,11 +279,11 @@
       "topic": "EM-Qualifikation"
     },
     {
-      "title": "Nina Schroth gewinnt EM-Bronze im Reißen",
-      "url": "https://www.volksstimme.de/sport/nina-schroth-gewinnt-em-bronze-im-reissen-3387989",
-      "image_url": "https://bmg-images.imgix.net/2022/06/04/cfbcf5b0-ca88-403b-9705-894e504bef1e.jpeg?rect=0%2C652%2C1323%2C744&width=100",
-      "image_title": "Hat bei der EM in Tirana Bronze im Reißen geholt: Nina Schroth.",
-      "topic": "Gewichtheben"
+      "title": "Özdemir wirbt für Finanzierung zum Umbau der Tierhaltung",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/ozdemir-wirbt-fur-finanzierung-zum-umbau-der-tierhaltung-3388057",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/d60f8d37-9cc0-4287-8f72-eea1eb01c643.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
+      "image_title": "Schweine stehen in einem Schweinestall. Die Ampel-Koalition ringt seit Wochen um eine Finanzierung für den geplanten Umbau der Tierhaltung hin zu höheren Standards.",
+      "topic": "Agrar"
     },
     {
       "title": "Hongkongs Polizei unterbindet Gedenken für Tian'anmen-Opfer",
@@ -307,11 +314,18 @@
       "topic": "Steuern"
     },
     {
-      "title": "Dobrindt fordert 20 Milliarden Euro mehr für Verteidigung",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/dobrindt-fordert-20-milliarden-euro-mehr-fur-verteidigung-3387991",
-      "image_url": "https://bmg-images.imgix.net/2022/06/04/cca55733-efde-48dc-9104-4fb6acc9887b.jpeg?rect=0%2C177%2C2048%2C1152&width=100",
-      "image_title": "Alexander Dobrindt, Vorsitzender der CSU-Landesgruppe, spricht im Deutschen Bundestag.",
-      "topic": "Finanzen"
+      "title": "Reisewelle zu Pfingsten - Dichtes Gedränge",
+      "url": "https://www.volksstimme.de/panorama/reisewelle-zu-pfingsten-dichtes-gedrange-3388048",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/31a31839-c288-4f1c-bc14-3360aeed9be0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Menschen, zum Teil mit Fahrrädern, wollen am Hauptbahnhof Berlin in einen Regionalzug der Linie RE5 nach Rostock.",
+      "topic": "Verkehr"
+    },
+    {
+      "title": "Für jeden Geschmack etwas dabei - Pfingst-Unwetter Sonntag",
+      "url": "https://www.volksstimme.de/panorama/fur-jeden-geschmack-etwas-dabei-pfingst-unwetter-sonntag-3388047",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/72036c67-bc4b-48a8-800b-876e885cab64.jpeg?rect=0%2C79%2C2048%2C1152&width=100",
+      "image_title": "Goldene Stunde In Brandenburg: Kurz vor dem Sonnenaufgang drehen sich die Rotorblätter von Windenergieanlagen im Wind.",
+      "topic": "Aussichten"
     },
     {
       "title": "Durchsuchung und Festnahme nach tödlichem Schuss bei Kirmes",
@@ -335,18 +349,11 @@
       "topic": "Royals"
     },
     {
-      "title": "Martin Brambach macht täglich Yoga light",
-      "url": "https://www.volksstimme.de/panorama/stars/martin-brambach-macht-taglich-yoga-light-3388020",
-      "image_url": "https://bmg-images.imgix.net/2022/06/04/d22e4b0d-256b-45b1-afbb-c267f05703ab.jpeg?rect=0%2C143%2C2048%2C1152&width=100",
-      "image_title": "Martin Brambach übt sich täglich in Achtsamkeit.",
-      "topic": "Schauspieler"
-    },
-    {
-      "title": "83-jähriger Japaner überquert solo auf Jacht den Pazifik",
-      "url": "https://www.volksstimme.de/panorama/83-jahriger-japaner-uberquert-solo-auf-jacht-den-pazifik-3388013",
-      "image_url": "https://bmg-images.imgix.net/2022/06/04/11d3c58a-4980-4d62-9388-0b8a76fe65b7.jpeg?rect=0%2C277%2C2048%2C1152&width=100",
-      "image_title": "Einmal über den Pazifik: Der 83-jährige Japaner Kenichi Horie erreichte auf seiner Segeljacht Suntory Mermaid III den Kii-Kanal.",
-      "topic": "Segler"
+      "title": "Weniger Notfalleinsätze bei „Rock im Park“",
+      "url": "https://www.volksstimme.de/kultur/musik/weniger-notfalleinsatze-bei-rock-im-park-3388055",
+      "image_url": "https://bmg-images.imgix.net/2022/06/04/61c6f611-a651-47b8-be4f-9d477748cb1c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Polizisten gehen über das „Rock im Park“-Gelände in Nürnberg.",
+      "topic": "Zwischenbilanz"
     },
     {
       "title": "„Borgen“: Die Zukunft ist weiblich - die Intrige auch",
@@ -375,13 +382,6 @@
       "image_url": "https://bmg-images.imgix.net/2022/06/03/f6e2ce85-d067-4548-a404-57679ec606a7.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
       "image_title": "Sängerin Jennifer Lopez.",
       "topic": "MTV-Awards"
-    },
-    {
-      "title": "Harry Wijnvoord: Bin in Hollywood entdeckt worden",
-      "url": "https://www.volksstimme.de/kultur/tv-und-streaming/harry-wijnvoord-bin-in-hollywood-entdeckt-worden-3387758",
-      "image_url": "https://bmg-images.imgix.net/2022/06/03/e974113f-6e73-4691-97bb-f17b840a083e.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
-      "image_title": "Der Moderator Harry Wijnvoord war offenbar zur richtigen Zeit am richtigen Ort.",
-      "topic": "Moderator"
     },
     {
       "title": "Soziale Medien: Mehrheit wünscht sich Offline-Zonen",
