@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-04T19:15:54",
+  "timestamp": "2022-06-04T20:20:33",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,206 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e10bebe4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6f232cb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0464a710.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-4-juni-80294524.bild.html",
-      "image_url": "https://images.bild.de/6299dbce331a165bca770bae/af207ff24af4c80a708dbd8a70e570e9-miniSquare,80a95009?w=320",
-      "image_title": "Lotto am Samstag: Die Lottozahlen vom 4. Juni"
-    },
-    {
-      "title": "Bei Waffen-Razzia : Rechtsanwalt schießt auf Polizisten",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/saarbruecken-bei-waffen-razzia-rechtsanwalt-schiesst-auf-polizisten-80295196.bild.html",
-      "image_url": "https://images.bild.de/6299dedf5f52923039fe8c80/d9cc2df63c3648fd6d49412bf7d12a36-miniSquare,2fb4acc8?w=320",
-      "image_title": "Saarbrücken: Bei Waffen-Razzia: Rechtsanwalt schießt auf Polizisten"
-    },
-    {
-      "title": "9-Euro-Chaos : Viele Züge und Bahnhöfe heillos überfüllt",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/9-euro-chaos-zu-pfingsten-radfahrer-muessen-draussen-bleiben-80303476.bild.html",
-      "image_url": "https://images.bild.de/629b2223b278ac30b5597b60/bca705180644b299820ab9fb08debc9c-miniSquare/Video_MitVideo,366c0ef?w=320",
-      "image_title": "9-Euro-Chaos zu Pfingsten: Viele Züge und Bahnhöfe heillos überfüllt"
-    },
-    {
-      "title": "Hier sucht die Polizei nach der Waffe : Mann (32) sticht Freundin (15) nieder",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-32-jaehriger-sticht-minderjaehrige-freundin-15-nieder-80303802.bild.html",
-      "image_title": "Messer-Attacke in Sachsen: 32-Jähriger sticht minderjährige Freundin (15) nieder"
-    },
-    {
-      "title": "Mordversuch in Schwerin : Rapper sticht 16-Jährigen nieder",
-      "teaser": "Mitten auf dem Schweriner Marienplatz rammte er seinem Kumpel unvermittelt ein langes Messer in den Leib.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/schwerin-rap-musiker-sticht-16-jaehrigen-nieder-80298508.bild.html",
-      "image_title": "Schwerin: Rap-Musiker sticht 16-Jährigen nieder"
-    },
-    {
-      "title": "„Wave-Gotik-Treffen“ : Schaurig-schönes Grufti-Comeback in Leipzig",
-      "teaser": "Nach zwei Jahren coronabedingter Pause begann Freitag in Leipzig endlich wieder das WGT.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/wave-gotik-treffen-in-leipzig-der-tod-steht-euch-endlich-wieder-gut-80294860.bild.html",
-      "image_title": "Wave Gotik Treffen in Leipzig: Der Tod steht euch endlich wieder gut"
-    },
-    {
-      "title": "Todesschuss in Lüdenscheid : Freund (16) des Kirmes-Schützen festgenommen",
-      "teaser": "Nach dem tödlichen Schuss auf der Lüdenscheider Kirmes stürmte das SEK nun vier Wohnungen.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/nach-toedlichem-schuss-in-luedenscheid-freund-von-kirmes-schuetzen-festgenommen-80303510.bild.html",
-      "image_title": "Nach tödlichem Schuss in Lüdenscheid: Freund von Kirmes-Schützen festgenommen"
-    },
-    {
-      "title": "Ärger mit dem Nebenbuhler : DAS hat mir der Neue meiner Ex angetan",
-      "teaser": "Zunächst sah es aus wie ein normaler Auffahrunfall. Bis der Autofahrer auf den Biker einschlug ...",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/nebenbuhler-rammt-37-jaehrigen-von-der-harley-zertruemmert-ihm-das-gesicht-das-h-80293778.bild.html",
-      "image_title": "Nebenbuhler rammt 37-Jährigen von der Harley, zertrümmert ihm das Gesicht: DAS hat mir der Neue meiner Ex angetan"
-    },
-    {
-      "title": "Deutschlands älteste Bademeisterin : Herma (76) pfeift auf ihre Rente",
-      "teaser": "Bad Schmiedeberg (Sachsen-Anhalt) – Herma Klapproth (76) pfeift auf ein ruhiges Dasein als Rentnerin – und pfeift heute lieber die n...",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/freibad-deutschlands-aelteste-bademeisterin-76-pfeift-auf-ihre-rente-80299806.bild.html",
-      "image_title": "Deutschlands älteste Bademeisterin: Herma (76) pfeift auf ihre Rente"
-    },
-    {
-      "title": "Eurojackpot am Freitag : Haben Sie den 17 Millionen Euro Jackpot geknackt?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 3. Juni 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-3-juni-80270116.bild.html",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 3. Juni"
-    },
-    {
-      "title": "Rind sucht Reiter : Landwirt will seine Kuh auf Trab bringen",
-      "teaser": "Ein Landwirt (51) aus Geringswalde (Kreis Mittelsachsen) sucht hier einen Reiter – nicht für eines seiner Pferde, sondern für eine Kuh namens Annabelle (13 Monate).",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-landwirt-will-seine-kuh-auf-trab-bringen-80299356.bild.html",
-      "image_title": "Sachsen: Landwirt will seine Kuh auf Trab bringen"
-    },
-    {
-      "title": "Ab ins Gemüse : Kommt ein Opel in den Aldi ...",
-      "teaser": "Fahrt ins Grüne! Ein Senior (91) ist am Freitag mit seinem Opel in einen Aldi gebrettert.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/reken-senior-brettert-mit-opel-in-den-aldi-80301230.bild.html",
-      "image_title": "Reken: Senior brettert mit Opel in den Aldi"
-    },
-    {
-      "title": "Betrüger festgenommen : Wurden auch Sie mit Fake-Goldmünzen reingelegt?",
-      "teaser": "Drei Männer sollen Kapitalanleger mit gefälschten Goldmünzen um viel Geld betrogen haben.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/betrueger-festgenommen-anleger-mit-gefaelschten-goldmuenzen-reingelegt-80298384.bild.html",
-      "image_title": "Betrüger festgenommen: Anleger mit gefälschten Goldmünzen reingelegt"
-    },
-    {
-      "title": "Es ist angerichtet : Erfurts neues Messehotel eröffnet",
-      "teaser": "Von der Konzerthalle ins Bauhaus-Bett sind es nur noch ein paar Schritte durch die Drehtür. Willkommen in Erfurts neuem Messe-Hotel!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-neues-messehotel-eroeffnet-80298064.bild.html",
-      "image_title": "Erfurt: Neues Messehotel eröffnet"
-    },
-    {
-      "title": "Killer-Trio verurteilt : Lebenslänglich nach Messermord an Ehefrau",
-      "teaser": "Die Ehefrau war ihrer Liebe im Weg. Deshalb musste Heike G. (52) sterben. Für diesen Mord sitzen Ehemann Holm G. (56), seine junge Geliebte Bianka D. (28) und ihr Bekannter Stefan H. (43) nun lebenslang in Haft.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/prozess-lebenslaenglich-nach-messermord-an-ehefrau-80300090.bild.html",
-      "image_title": "Prozess: Lebenslänglich nach Messermord an Ehefrau"
-    },
-    {
-      "title": "Motorrad neu gekauft : Biker (43) reißt sich bei Unfall den Arm ab",
-      "teaser": "Der Mann (34) hatte sich die Yamaha gerade erst gekauft und verunglückte auf der Heimfahrt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-biker-34-reisst-sich-bei-unfall-den-arm-ab-80297266.bild.html",
-      "image_title": "Unfall: Biker (34) reißt sich bei Unfall den Arm ab"
-    },
-    {
-      "title": "Missbrauchskomplex Wermelskirchen : Marcus R. (44) sagte vier Tage lang aus",
-      "teaser": "Der Hauptverdächtige im Missbrauchskomplex von Wermelskirchen soll sich kooperativ zeigen",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/missbrauchskomplex-wermelskirchen-marcusr-44-sagte-4-tage-lang-aus-80298224.bild.html",
-      "image_title": "Missbrauchskomplex Wermelskirchen: Marcus R. (44) sagte 4 Tage lang aus"
-    },
-    {
-      "title": "Maß bis 13,80 Euro : Das kostet die Maß 2022",
-      "teaser": "O’zapft is no ned – aber die Wiesn-Bierpreise sind da!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wiesn-chef-preiserhoehung-ganz-schoen-saftig-das-kostet-die-mass-2022-80283894.bild.html",
-      "image_title": "Wiesn-Bierpreise: Das kostet die Maß 2022 - „Preiserhöhung ganz schön saftig!“"
-    },
-    {
-      "title": "Mann (67) schoss aus Fenster : Rentner nach Schüssen auf Polizei tot aufgefunden",
-      "teaser": "Alarm im Saarland: In Klarenthal ist ein Polizeibeamter durch Schüsse verletzt worden.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/klarenthal-schuesse-aus-fenster-polizist-im-saarland-angeschossen-80292388.bild.html",
-      "image_title": "Rentner nach Schüssen auf Polizei tot aufgefunden - Polizist schwer verletzt"
-    },
-    {
-      "title": "Elektronik im Eimer : Blitz legt 10 Autos auf Karls Erlebnis-Dorf lahm",
-      "teaser": "Ein schwarzes Loch im Asphalt und zehn kaputte Autos! Das ist die Folge eines Blitzeinschlages auf dem Parkplatz von „Karls Erlbenis-Dorf“.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/karls-erlebnis-dorf-blitzschlag-legt-10-autos-auf-parkplatz-lahm-80296716.bild.html",
-      "image_title": "Karls Erlebnis-Dorf: Blitzschlag legt 10 Autos auf Parkplatz lahm"
-    },
-    {
-      "title": "Fristlose Kündigung! : Unser Sohn klagt uns aus dem Haus",
-      "teaser": "Vor 40 Jahren baute Manfred Nau (82) für seine Familie ein Haus. Sein Sohn klagt ihn raus.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/familienstreit-unser-sohn-klagt-uns-aus-dem-haus-80291166.bild.html",
-      "image_title": "Fristlose Kündigung nach Familienstreit: Unser Sohn klagt uns aus dem Haus"
-    },
-    {
-      "title": "Kusel : Prozess um Polizisten-Morde am 21. Juni",
-      "teaser": "Am 31. Januar starben Polizeianwärterin Yasmin B. und Oberkommissar Alexander K.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/kusel-prozess-um-polizisten-morde-am-21-juni-80295492.bild.html",
-      "image_title": "Kusel: Prozess um Polizisten-Morde am 21. Juni"
-    },
-    {
-      "title": "Zum Wave-Gotik-Treffen : Leipzig sperrt Grabkammern auf Südfriedhof",
-      "teaser": "Die Veranstaltung kollidiert mit der Trauerbewältigung der Grabstätten-Besucher.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/zum-wave-gotik-treffen-stadt-sperrt-grabkammern-auf-suedfriedhof-80291068.bild.html",
-      "image_title": "Zum Wave-Gotik-Treffen: Stadt sperrt Grabkammern auf Südfriedhof"
-    },
-    {
-      "title": "Bahn bei Garmisch entgleist! : Fünfter Toter unter den Zug-Trümmern geborgen",
-      "url": "https://www.bild.de/video/clip/video/bahn-bei-garmisch-entgleist-fuenfter-toter-unter-den-truemmern-geborgen-80305672,auto=true.bild.html",
-      "image_title": "Bahn bei Garmisch entgleist: Fünfter Toter unter den Trümmern geborgen"
-    },
-    {
-      "title": "9€-Bahn-Ticket-Wahnsinn : Volle Züge Richtung Küste",
-      "url": "https://www.bild.de/video/clip/video/9-chaos-volle-zuege-richtung-kueste-80305452,auto=true.bild.html",
-      "image_title": "9€-Chaos: Volle Züge Richtung Küste"
-    }
-  ]
+  "articles": []
 }
