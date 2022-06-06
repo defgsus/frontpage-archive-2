@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-06T08:24:15",
+  "timestamp": "2022-06-06T09:19:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Confluence",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html"
+    },
+    {
       "title": "0day in Confluence",
       "url": "https://www.heise.de/news/Angriffe-auf-Code-Execution-Luecke-bedrohen-Confluence-Installationen-7131081.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Zero-Day-Luecke-Erste-Cybergangs-greifen-MSDT-Sicherheitsluecke-an-7128265.html"
     },
     {
-      "title": "Drupal",
-      "url": "https://www.heise.de/news/Content-Management-System-CISA-warnt-vor-Sicherheitsluecke-in-Drupal-7127268.html"
+      "title": "Jetzt patchen! Lage um Attacken auf Atlassian Confluence spitzt sich zu",
+      "teaser": "Aufgrund von öffentlich verfügbarem Exploit-Code steigen die Attacken auf Confluence-Instanzen. Patches sind jetzt verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html"
     },
     {
       "title": "Die Fähigkeiten von Desinfec't 2022 im Überblick",
@@ -65,14 +70,14 @@
       "image_title": "Aufmacher Eurpol legt FluBot lahm"
     },
     {
-      "title": "heise devSec: Konferenz zu sicherer Softwareentwicklung wieder vor Ort",
-      "teaser": "Im Oktober 2022 stehen in Karlsruhe Themen von Software Supply Chain über Security in Rust und Go bis zu Post-Quantum Cryptography auf dem Programm der devSec.",
-      "url": "https://www.heise.de/news/heise-devSec-Konferenz-zu-sicherer-Softwareentwicklung-wieder-vor-Ort-7127767.html"
-    },
-    {
       "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
       "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
       "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
+    },
+    {
+      "title": "heise devSec: Konferenz zu sicherer Softwareentwicklung wieder vor Ort",
+      "teaser": "Im Oktober 2022 stehen in Karlsruhe Themen von Software Supply Chain über Security in Rust und Go bis zu Post-Quantum Cryptography auf dem Programm der devSec.",
+      "url": "https://www.heise.de/news/heise-devSec-Konferenz-zu-sicherer-Softwareentwicklung-wieder-vor-Ort-7127767.html"
     },
     {
       "title": "Apples Argumente gegen Sideloading: 1,6 Millionen \"riskante Apps\" gestoppt",
@@ -160,11 +165,6 @@
       "image_title": "Aufmacher MS Office Zero-Day"
     },
     {
-      "title": "Sicherheitsupdates: Angreifer könnten Netzwerk-Hardware von Citrix lahmlegen",
-      "teaser": "Es gibt wichtige Sicherheitspatches für Citritx ADC und Citrix Gateway. Angreifer könnten die Netzwerk-Hardware lahmlegen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerk-Hardware-von-Citrix-lahmlegen-7123795.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -186,19 +186,19 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
-      "title": "Re: udiskctl - verschlüsselte cryptsetup-luks-Partition öffnen",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-udiskctl-verschluesselte-cryptsetup-luks-Partition-oeffnen/posting-41098462/show/"
-    },
-    {
       "title": "Re: ESET: unsupported message",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-unsupported-message/posting-41098380/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-unsupported-message/posting-41098729/show/"
     },
     {
-      "title": "Re: 2022: Error 5: Zugriff verweigert-",
+      "title": "Re: Desinfec´t Installation",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-2022-Error-5-Zugriff-verweigert/posting-41098377/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-Installation/posting-41098701/show/"
+    },
+    {
+      "title": "Re: desinfec't und Dell Inspiron 5570",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfec-t-und-Dell-Inspiron-5570/posting-41098681/show/"
     }
   ]
 }
