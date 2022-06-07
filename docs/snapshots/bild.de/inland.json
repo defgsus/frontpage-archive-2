@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-07T03:21:41",
+  "timestamp": "2022-06-07T04:31:17",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e10bebe4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6f232cb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0464a710.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Der selbsternannte König von Deutschland : Mit diesen Tricks sicherte er sich ein Millionen-Schloss",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/reichsbuerger-fitzek-mit-welchen-tricks-er-sich-jetzt-millionen-schloesser-siche-80320568.bild.html",
-      "image_url": "https://images.bild.de/629e4f5fb278ac30b5597e12/84b29b17965edc09cf364cb623f1820d,532a632e?w=656",
-      "image_title": "Reichsbürger Fitzek: Mit welchen Tricks er sich ein Millionen-Schloss sicherte"
-    },
-    {
-      "title": "Grausame Bluttat im Erzgebirge : Ein Stalker (32) hat unsere Sarah (15) niedergestochen",
-      "url": "https://www.bild.de/bild-plus/regional/chemnitz/leipzig-news/annaberg-buchholz-ein-stalker-hat-unsere-tochter-15-niedergestochen-80319584.bild.html",
-      "image_url": "https://images.bild.de/629e1501b278ac30b5597dc3/85ccb8399230f95d65572de07c820203-miniSquare,db2a6351?w=320",
-      "image_title": "Annaberg-Buchholz: Ein Stalker hat unsere Tochter (15) niedergestochen"
-    },
-    {
-      "title": "Prozess gegen Landesvorstand : AfD-Politiker soll Ausländer in JVA misshandelt haben!",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/prozess-in-sachsen-afd-politiker-soll-auslaendische-haeftlinge-misshandelt-haben-80320360.bild.html",
-      "image_url": "https://images.bild.de/629e47796f6eec1858994d84/d8d2d2cd4bd2d1a5ae5bebcf36da5301-miniSquare,aeb229f3?w=320",
-      "image_title": "Prozess in Sachsen: AfD-Politiker soll ausländische Häftlinge misshandelt haben!"
-    },
-    {
-      "title": "5 Tote in Regionalzug : War das Gleisbett schuld am Horror-Unfall?",
-      "url": "https://www.bild.de/news/inland/news-inland/fuenf-tote-passagiere-in-regionalzug-war-das-gleisbett-schuld-am-horror-unfall-80318710.bild.html",
-      "image_url": "https://images.bild.de/629e1b815f52923039fe9073/5f4032f71bf55240e346a3f90f10ff1b-miniSquare,91553973?w=320",
-      "image_title": "Fünf tote Passagiere in Regionalzug: War das Gleisbett schuld am Horror-Unfall?"
-    },
-    {
-      "title": "Erich Mielke († 92) : Geheimer Frühstücksplan von Stasi-Chef aufgetaucht",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/erich-mielke-der-geheime-fruehstuecksplan-des-stasi-chefs-80319836.bild.html",
-      "image_url": "https://images.bild.de/629e3f556f6eec1858994d6b/97fa17b93e7d2f622c843c475a46d0d1-miniSquare,1f5b2519?w=320",
-      "image_title": "Erich Mielke: Der geheime Frühstücksplan des Stasi-Chefs"
-    },
-    {
-      "title": "„Es waren Freudentränen“ : Deutscher aus Irak-Knast entlassen",
-      "url": "https://www.bild.de/news/inland/news-inland/wegen-steinen-verhaftet-deutscher-endlich-aus-irak-knast-entlassen-80315678.bild.html",
-      "image_title": "Wegen Steinen verhaftet: Deutscher endlich aus Irak-Knast entlassen!"
-    },
-    {
-      "title": "Pfingstfazit : 9-Euro-Chaos und übervolle Züge in Sachsen",
-      "teaser": "Der Ansturm kam mit Ansage! Viele Züge in Sachsen sind übervoll durchs Land gerollt.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/9-euro-chaos-zu-pfingsten-uebervolle-zuege-in-sachsen-80316348.bild.html",
-      "image_title": "9-Euro-Chaos zu Pfingsten: Übervolle Züge in Sachsen"
-    },
-    {
-      "title": "Tragische Unfälle : Zwei Badetote am Pfingst-Wochenende",
-      "teaser": "Zwei junge Männer (18 und 22) sind am langen Wochen beim Baden tödlich verunglückt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/tragischer-badeunfall-bei-goerlitz-mann-21-ertrinkt-in-see-80313738.bild.html",
-      "image_title": "Tödliche Badeunfälle in Görlitz und Zossen: Zwei junge Männer ertrunken"
-    },
-    {
-      "title": "Hoffnung für krebskrankes Kind : Dianas kleines Glück ist eine Perücke",
-      "teaser": "Die Chemotherapie ließ ihre Haare ausfallen, doch eine Spende macht Diana neuen Mut.",
-      "url": "https://www.bild.de/news/inland/news-inland/hoffnung-fuer-krebskrankes-kind-dianas-kleines-glueck-ist-eine-peruecke-80305568.bild.html",
-      "image_title": "Hoffnung für krebskrankes Kind: Dianas kleines Glück ist eine Perücke"
-    },
-    {
-      "title": "Passau : Posse um Dackelmuseum",
-      "teaser": "Ein Tisch, zwei Stühle, ein Sonnenschirm, zwei Dackel-Liebhaber – und jede Menge Ärger!",
-      "url": "https://www.bild.de/news/inland/news-inland/es-geht-um-eine-sitzecke-posse-um-dackelmuseum-in-passau-80305274.bild.html",
-      "image_title": "Es geht um eine Sitzecke: Posse um Dackelmuseum in Passau"
-    },
-    {
-      "title": "Pfingst-Urlaub geht zu Ende : Wer bleibt heute auf der Strecke?",
-      "teaser": "Ein langes Wochenende und das neue 9-Euro-Ticket: So voll wird der Pfingst-Abreisetag.",
-      "url": "https://www.bild.de/news/inland/news-inland/der-grosse-pfingst-rueckreise-report-wer-bleibt-heute-auf-der-strecke-80314026.bild.html",
-      "image_title": "Pfingst-Urlaub geht zu Ende: Wer bleibt heute auf der Strecke?"
-    },
-    {
-      "title": "Betrug am Telefon : Ich gab dieser falschen Polizistin 35 000 Euro",
-      "teaser": "Von falschen Polizisten betrogen: Jolanta Czaja wurde überredet, eine „Kaution“ zu zahlen.",
-      "url": "https://www.bild.de/regional/koeln/news-inland/eschweiler-betrug-am-telefon-ich-gab-dieser-falschen-polizistin-35-000-euro-80305180.bild.html",
-      "image_title": "Eschweiler: Betrug am Telefon: Ich gab dieser falschen Polizistin 35.000 Euro"
-    },
-    {
-      "title": "Wache an Drogen-Platz : Dealer freuen sich auf Polizei, Anwohner nicht",
-      "teaser": "Anwohner ärgern sich über eine geplante Wache am Kottbusser Tor. Was dahintersteckt.",
-      "url": "https://www.bild.de/news/inland/news-inland/berlin-kottbusser-tor-bekommt-polizei-wache-dealer-freuen-sich-anwohner-nicht-80226304.bild.html",
-      "image_title": "Berlin: Kottbusser Tor bekommt Polizei-Wache - Dealer freuen sich, Anwohner nicht"
-    },
-    {
-      "title": "Allergische Reaktion : Fan bei „Rock im Park“ fast gestorben",
-      "teaser": "Das Sanitätspersonal rettete ihn im Schockraum und brachte ihn ins Krankenhaus.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nuernberg-allergische-reaktion-fan-bei-rock-im-park-fast-gestorben-80316414.bild.html",
-      "image_title": "Nürnberg: Allergische Reaktion: Fan bei „Rock im Park“ fast gestorben"
-    },
-    {
-      "title": "Mordverdacht : Haftbefehl nach Leichenfund bei Brand erlassen",
-      "teaser": "Die Feuerwehr fand nach einem Brand in einer Wohnung eine Leiche, die ermordet wurde.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/haftbefehl-erlassen-mordopfer-nach-wohnungsbrand-entdeckt-80315290.bild.html",
-      "image_title": "Haftbefehl erlassen: Mordopfer nach Wohnungsbrand entdeckt"
-    },
-    {
-      "title": "Auch Munition dabei : Mann (18) mit Waffe in Regio-Bahn festgenommen",
-      "teaser": "Nachdem der Mann in einem Regio-Express mit einer Waffe hantierte, rückte die Polizei an.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/guestrow-mann-18-mit-waffe-in-regionalbahn-festgenommen-80314318.bild.html",
-      "image_title": "Güstrow: Mann (18) mit Waffe in Regionalbahn festgenommen"
-    },
-    {
-      "title": "In Bayern : Eine Waffe auf elf Einwohner",
-      "teaser": "Nicht nur die Polizei im Freistaat kann Schusswaffen ihr Eigen nennen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/1-2-millionen-schiesseisen-in-bayern-eine-waffe-auf-elf-einwohner-80314134.bild.html",
-      "image_title": "1,2 Millionen Schießeisen in Bayern: Eine Waffe auf elf Einwohner"
-    },
-    {
-      "title": "Rekord von 25 Tagen : Er will durch den ganzen Rhein schwimmen",
-      "teaser": "Von der Quelle bis zur Mündung. Am Samstag springt Joseph Hess (34) in den Rhein.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/rekord-von-25-tagen-er-will-durch-den-ganzen-rhein-schwimmen-80313678.bild.html",
-      "image_title": "Rekord von 25 Tagen: Er will durch den ganzen Rhein schwimmen"
-    },
-    {
-      "title": "Flugzeugabsturz : In Nepal fand Meike ihr neues Leben und den Tod",
-      "teaser": "Als Meike G. († 56) ihren Job verlor und in einer Krise steckte, war es dieser Ort, der ihr Leben veränderte.",
-      "url": "https://www.bild.de/news/inland/news-inland/zwei-deutsche-sterben-bei-flugzeugabsturz-in-nepal-fand-meike-ihr-neues-leben-un-80305324.bild.html",
-      "image_title": "Zwei Deutsche sterben bei Flugzeugabsturz: In Nepal fand Meike ihr neues Leben und den Tod"
-    },
-    {
-      "title": "Zugunglück in Bayern : Heute gehen Aufräumarbeiten weiter",
-      "teaser": "Nach dem Bahnunglück mit fünf Toten gehen die Arbeiten heute weiter.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/zugunglueck-in-oberbayern-aufraeumarbeiten-gehen-montag-weiter-80312380.bild.html",
-      "image_title": "Zugunglück in Oberbayern : Aufräumarbeiten gehen Montag weiter"
-    },
-    {
-      "title": "Prügel, Hunger, Ratten : Das Horror- Kinderheim",
-      "teaser": "Rumäniens Diktator wollte behinderte Kinder sterben lassen. BILD besuchte Überlebende.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/pruegel-hunger-ratten-das-horror-kinderheim-80305404.bild.html",
-      "image_title": "Prügel, Hunger, Ratten : Das Horror-Kinderheim"
-    },
-    {
-      "title": "Julia wurde zu Julian : „Ich wollte so gerne eine normale Tochter sein“",
-      "teaser": "Es ist eine Entscheidung fürs Leben, ein Weg zwischen Hoffnung, Freude und Zweifel.",
-      "url": "https://www.bild.de/news/inland/news-inland/julia-wurde-zu-julian-ich-wollte-so-gerne-eine-normale-tochter-sein-80304946.bild.html",
-      "image_title": "Julia wurde zu Julian: „Ich wollte so gerne eine normale Tochter sein“"
-    },
-    {
-      "title": "Zug-Opfer aus Ukraine : Vor dem Krieg geflüchtet, im Regio gestorben",
-      "teaser": "Beim Zugunglück in Garmisch-Partenkirchen starben zwei Frauen, die vor dem Krieg flohen.",
-      "url": "https://www.bild.de/news/inland/news-inland/zugunglueck-bei-garmisch-ukrainerinnen-unter-5-den-toten-80308588.bild.html",
-      "image_title": "Zugunglück bei Garmisch: Ukrainerinnen unter 5 den Toten"
-    },
-    {
-      "title": "Bahnen Samstag überfüllt : 9-Euro-Chaos vor Pfingsten",
-      "teaser": "Volle Bahnsteige, gesperrte Gleise, umgeleitete Züge. Derzeit gibt es Chaos auf der Schiene.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/9-euro-chaos-zu-pfingsten-radfahrer-muessen-draussen-bleiben-80303476.bild.html",
-      "image_title": "Bahnen am Samstag heillos überfüllt!: 9-Euro-Chaos vor Pfingsten"
-    },
-    {
-      "title": "Im Comer See ertrunken : Das tragische Ende einer Klassenfahrt",
-      "teaser": "Bei einer Schulfahrt nach Italien verunglückte ein Schüler (17) aus NRW.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/news-inland/akif-17-im-comer-see-ertrunken-das-tragische-ende-einer-klassenfahrt-80306750.bild.html",
-      "image_title": "Akif (17) im Comer See ertrunken: Das tragische Ende einer Klassenfahrt"
-    },
-    {
-      "title": "Hagelberge, überschwemmte Straßen : Pfingst-Unwetter im Allgäu",
-      "url": "https://www.bild.de/video/clip/video/allgaeu-unwetter-und-hagel-an-pfingsten-in-bayern-80311752,auto=true.bild.html",
-      "image_title": "Allgäu: Unwetter und Hagel an Pfingsten in Bayern"
-    },
-    {
-      "title": "OrkanbÖen, Sturzregen, Hagel : Hier drohen extreme Unwetter",
-      "url": "https://www.bild.de/video/clip/news-inland/orkanboen-sturzregen-hagel-extreme-unwetter-drohen-wetternet-80308454,auto=true.bild.html",
-      "image_title": "Orkanboen, Sturzregen, Hagel: Extreme Unwetter drohen"
-    },
-    {
-      "title": "Bahn bei Garmisch entgleist! : Fünfter Toter unter den Zug-Trümmern geborgen",
-      "url": "https://www.bild.de/video/clip/video/bahn-bei-garmisch-entgleist-fuenfter-toter-unter-den-truemmern-geborgen-80305672,auto=true.bild.html",
-      "image_title": "Bahn bei Garmisch entgleist: Fünfter Toter unter den Trümmern geborgen"
-    }
-  ]
+  "articles": []
 }
