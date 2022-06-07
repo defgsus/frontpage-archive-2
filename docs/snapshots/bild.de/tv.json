@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-07T22:20:08",
+  "timestamp": "2022-06-07T23:20:20",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e10bebe4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6f232cb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.70bc7477.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Johannes Oerding bei „Sing meinen Song“ : Sein peinliches Erlebnis mit Tokio Hotel",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sing-meinen-song-johannes-oerdings-peinliches-erlebnis-mit-tokio-hotel-80328992.bild.html",
-      "image_url": "https://images.bild.de/629f64d1b278ac30b5597f7b/d87951324c8f465c9d077c6d9842cf7a,ff07cbe0?w=656",
-      "image_title": "„Sing meinen Song“: Johannes Oerdings peinliches Erlebnis mit Tokio Hotel"
-    },
-    {
-      "title": "Tatort Hamburg und Umgebung : Alle Infos zum Ermittler-DuoFalke und Grosz",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-hamburg-infos-zu-den-ermittlern-stadt-und-schauspielern-80200012.bild.html",
-      "image_url": "https://images.bild.de/628dd7eb277f7042b71a77a3/ac3c43980fcefe5f65520e227038d39a-miniSquare,74026c53?w=320",
-      "image_title": "Tatort Hamburg: Infos zu den Ermittlern, Stadt und Schauspielern"
-    },
-    {
-      "title": "„Jauch gegen Lichter“ : Bei dieser Dessert-Frage patzte der TV-Koch",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/jauch-gegen-lichter-bei-dieser-dessert-frage-patzte-der-tv-koch-80321364.bild.html",
-      "image_url": "https://images.bild.de/629e73a1b278ac30b5597e33/75b595d12d16aa84ea0615056ec5fa50-miniSquare,db6e1624?w=320",
-      "image_title": "„Jauch gegen Lichter“: Bei dieser Dessert-Frage patzte der TV-Koch"
-    },
-    {
-      "title": "„Sommerhaus der Stars“ : Wer gewinnt, wer freiwillig dieShow verlässt",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/sommerhaus-der-stars-2022-dieses-paar-gewinnt-die-rtl-show-80314296.bild.html",
-      "image_url": "https://images.bild.de/629db7dcb278ac30b5597d2d/dc40b564afd1918aeaf7d992cc83c967-miniSquare,d49c1e3e?w=320",
-      "image_title": "„Sommerhaus der Stars“ 2022: DIESES Paar gewinnt die RTL-Show"
-    },
-    {
-      "title": "Ab dem 6. Juni : Diese Filme starten bei Amazon Prime",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-ab-dem-6-juni-80293868.bild.html",
-      "image_url": "https://images.bild.de/6299d0e0b278ac30b55979ec/5a2b71e2cc38608744d01a249c891c5a-miniSquare,7a344da0?w=320",
-      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten ab dem 6. Juni"
-    },
-    {
-      "title": "Nicht nur Netflix zeigt die Nackedeis : Die heißesten Sexszenen bei Sky und Apple TV+",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/leute/netflix-hat-alle-nackedeis-nein-heisse-sexszenen-bei-sky-und-apple-tv-80257824.bild.html",
-      "image_title": "Netflix hat alle Nackedeis? Nein! Heiße Sexszenen bei Sky und Apple TV+"
-    },
-    {
-      "title": "Ab dem 6. Juni : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-am-pfingstmontag-starten-diese-filme-und-serien-80293886.bild.html",
-      "image_title": "Neu auf Netflix: Am Pfingstmontag starten diese Filme und Serien"
-    },
-    {
-      "title": "Am Montag, den 06. Juni 2022 : Alle Infos zum neuen Tatort in Dresden",
-      "teaser": "Der neue Tatort läuft am Montag, den 06. Juni 2022. Lesen Sie hier alle Infos zum Fall in Dresden.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-dresdner-fall-laeuft-erst-am-pfingstmontag-im-tv-80263820.bild.html",
-      "image_title": "Tatort heute: Dresdner-Fall läuft erst am Pfingstmontag im TV"
-    },
-    {
-      "title": "Schreie im Publikum! : Schrecksekunde bei „Schlag den Star“",
-      "teaser": "Moderatorinnen-Duell bei „Schlag den Star“ am Samstagabend! Mit einem bösen Aua.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/schlag-den-star-schrecksekunde-bei-jeannine-michaelsen-vs-charlotte-wuerdig-80308050.bild.html",
-      "image_title": "„Schlag den Star“: Schrecksekunde bei Jeannine Michaelsen vs. Charlotte Würdig"
-    },
-    {
-      "title": "Folge 3 entschlüsselt : Warum Vader so viel stärker ist als Obi-Wan",
-      "teaser": "ER IST WIEDER DA! Er bringt nicht nur Probleme, sondern zahlreiche versteckte Hinweise …",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/obi-wan-kenobi-warum-darth-vader-das-universum-jetzt-durchwirbelt-80300378.bild.html",
-      "image_title": "Obi-Wan Kenobi? Warum Darth Vader das Universum jetzt durchwirbelt"
-    },
-    {
-      "title": "Sonntag, 05. Juni 2022 : Alle Infos zum neuen Tatort in München",
-      "teaser": "Die Tatort-Wiederholung läuft am Sonntag, den 05. Juni 2022. Lesen Sie hier alle Infos zum Fall.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-muenchner-team-ermittelt-im-fall-unklare-lage-80261474.bild.html",
-      "image_title": "Tatort heute: Münchner-Team ermittelt im Fall „Unklare Lage“"
-    },
-    {
-      "title": "„RTL Turmspringen“ : Was war mit Paul Janke los?",
-      "teaser": "Der Bachelor überraschte beim RTL-Event mit Piepsstimme.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/rtl-turmspringen-was-war-mit-paul-janke-los-80303332.bild.html",
-      "image_title": "„RTL Turmspringen“: Was war mit Paul Janke los?"
-    },
-    {
-      "title": "„Obi-Wan Kenobi“ : Haben wir HIER etwa Boba Fett gesehen?",
-      "teaser": "In der zweiten Obi-Folge steckt ein ganz besonderer Gast-Auftritt. Was dahintersteckt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/obi-wan-kenobi-haben-wir-hier-etwa-boba-fett-gesehen-80249098.bild.html",
-      "image_title": "„Obi-Wan Kenobi“ Haben wir HIER etwa Boba Fett gesehen?"
-    },
-    {
-      "title": "Beim „RTL Turmspringen“ : Super-Ninjas holen sich den Sieg",
-      "teaser": "Gleich drei ehemalige „Ninja Warrior“-Kandidaten, räumten ab.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/rtl-turmspringen-super-ninjas-holen-sich-den-sieg-80302522.bild.html",
-      "image_title": "RTL Turmspringen: Super-Ninjas holen sich den Sieg"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/resident-evil-und-die-zehn-beliebtesten-filme-serien-fuers-wochenende-80293008.bild.html",
-      "image_title": "Resident Evil und die zehn beliebtesten Filme & Serien fürs Wochenende!"
-    },
-    {
-      "title": "„Dahoam is Dahoam“ : Lesbische Hochzeit in Lansing!",
-      "teaser": "Sie sagen Ja – zu mehr Toleranz! Die TV-Serie „Dahoam is Dahoam“ feiert lesbische Liebe.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/dahoam-is-dahoam-lesbische-hochzeit-in-lansing-80297818.bild.html",
-      "image_title": "„Dahoam is Dahoam“: Lesbische Hochzeit in Lansing!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80292988.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende!"
-    },
-    {
-      "title": "Tatort Dresden : Infos zum Ermittler-Trio Gorniak, Schnabel und Winkler",
-      "teaser": "Zwei junge Frauen und ein konservativer Chef ermitteln in der sächsischen Landeshauptstadt",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-dresden-alle-infos-zum-ermittler-trio-gorniak-schnabel-und-winkler-80257942.bild.html",
-      "image_title": "Tatort Dresden: Alle Infos zum Ermittler-Trio Gorniak, Schnabel und Winkler"
-    },
-    {
-      "title": "Hanna sucht die Liebe : 19 Ladys buhlen um die neue „Princess Charming“",
-      "teaser": "Deutschlands lesbische Dating-Show geht in die zweite Runde! BILD zeigt alle 19 Kandidatinnen.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/hanna-sucht-die-grosse-liebe-im-tv-diese-19-ladys-buhlen-um-princess-charming-80278094.bild.html",
-      "image_title": "Hanna sucht die große Liebe im TV: Diese 19 Ladys buhlen um „Princess Charming“"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-alle-infos-zur-dritten-staffel--kandidaten-regeln-highlights-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Alle Sala-Bewohner, Regeln und Highlights der Show"
-    },
-    {
-      "title": "Ab dem 30. Mai : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme und Serien der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-diese-woche-80220036.bild.html",
-      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "Ab dem 30. Mai : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-diese-filme-und-serien-starten-diese-woche-80220020.bild.html",
-      "image_title": "Neu auf Netflix: Diese Filme und Serien starten diese Woche"
-    },
-    {
-      "title": "Batic, Leitmayr und Hammermann : Alle Infos zum Tatort in München",
-      "teaser": "Lesen Sie hier alle wichtigen Infos über den Tatort München und die Kommissare.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-muenchen-miroslav-nemec-und-udo-wachtveil-ermitteln-seit-ueber-30-jahren-80048252.bild.html",
-      "image_title": "Tatort München: Miroslav Nemec und Udo Wachtveil ermitteln seit über 30 Jahren"
-    },
-    {
-      "title": "„Sing meinen Song“ : Mein skurrilstes Fan-Geschenk kann krabbeln",
-      "teaser": "Es war IHR Abend: „Nightwish“-Sängerin Floor Jansen führte durch „Sing meinen Song“.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sing-meinen-song-mit-floor-jansen-nightwish-star-ueber-skurrile-fan-geschenke-80262338.bild.html",
-      "image_title": "„Sing meinen Song“ mit Floor Jansen: „Nightwish“-Star über skurrile Fan-Geschenke"
-    },
-    {
-      "title": "Tatort Köln : Alle Infos zum Ermittler-Team Ballauf und Schenk",
-      "teaser": "Die Hauptkommissare Max Ballauf und Freddy Schenk ermitteln Fälle im Kölner-Tatort",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-koeln-alle-infos-zum-krimi-mit-dietmar-baer-und-klaus-j-behrendt-80038902.bild.html",
-      "image_title": "Tatort Köln: Alle Infos zum Krimi mit Dietmar Bär und Klaus J. Behrendt"
-    },
-    {
-      "title": "Mandy Capristo packt aus : Popstar litt unter quälenden Panikattacken",
-      "url": "https://www.bild.de/video/clip/glomex/mandy-capristo-packt-aus-popstar-litt-unter-quaelenden-panikattacken-v-ckali89k67lt-80255412,auto=true.bild.html",
-      "image_title": "Mandy Capristo packt aus: Popstar litt unter quälenden Panikattacken"
-    },
-    {
-      "title": "Ösi-Sieg bei GNTM-Finale : Lou-Anne ist Heidis neues Topmodel",
-      "url": "https://www.bild.de/video/clip/glomex/oesi-sieg-bei-gntm-finale-lou-anne-ist-heidis-neues-topmodel-v-cka0050mqdfd-80218132,auto=true.bild.html",
-      "image_title": "„Germany‘s Next Topmodel“: Lou-Anne ist Heidis neues Topmodel"
-    },
-    {
-      "title": "Sensation bei GNTM-Finale : Heidi „singt“ – Tom spielt Klavier!",
-      "url": "https://www.bild.de/video/clip/glomex/sensation-bei-gntm-finale-heidi-singt-tom-spielt-klavier-v-ck9x1oskz5xl-80217118,auto=true.bild.html",
-      "image_title": "Sensation bei GNTM-Finale: Heidi „singt“ – Tom spielt Klavier!"
-    }
-  ]
+  "articles": []
 }
