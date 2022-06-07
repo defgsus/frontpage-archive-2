@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-07T08:27:38",
+  "timestamp": "2022-06-07T09:20:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.592cc09ef2a83764fc66",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.b185abc3c3e47072be85",
       "id": null,
       "text": null
     }
@@ -42,15 +42,33 @@
       "url": "https://www.heise.de/news/Starlink-Chinas-Militaer-prueft-Zerstoerung-des-Satelliteninternets-von-SpaceX-7125714.html"
     },
     {
+      "title": "Reverse Engineering: Fallblattanzeige mit Arduino",
+      "teaser": "Fallblattanzeigen sind aus Bahnhöfen verschwunden. Um die Technik mit einem Arduino zum Leben zu erwecken, machten wir uns auf eine Reverse-Engineering-Reise.",
+      "url": "https://www.heise.de/hintergrund/Reverse-Engineering-Fallblattanzeige-mit-Arduino-7129918.html",
+      "image_title": ","
+    },
+    {
       "title": "Raspberry-Pi-Gehäuse mit FreeCAD fertigstellen, Teil 5",
       "teaser": "In diesem Teil der Serie drucken wir das Gehäuse und montieren alles.",
       "url": "https://www.heise.de/ratgeber/Raspberry-Pi-Gehaeuse-mit-FreeCAD-fertigstellen-Teil-5-7130912.html",
       "image_title": ","
     },
     {
-      "title": "Marktübersicht: Flexible Netzanbindung mit SD-WAN",
-      "teaser": "Der weltweite Markt für SD-WAN-Produkte und -Dienstleistungen boomt. Wir stellen die wichtigsten Mitspieler im deutschsprachigen Raum und ihre Produkte vor.",
-      "url": "https://www.heise.de/hintergrund/Marktuebersicht-Flexible-Netzanbindung-mit-SD-WAN-7129888.html"
+      "title": "CarPlay: Diese neuen Funktionen gibt es bereits mit iOS 16 im Herbst",
+      "teaser": "Apple hat eine große Erweiterung von CarPlay angekündigt, die das gesamte Armaturenbrett von Autos verändern soll. Doch für bisherige Nutzer gibt es auch Neues.",
+      "url": "https://www.heise.de/news/CarPlay-Diese-neuen-Funktionen-gibt-es-bereits-mit-iOS-16-im-Herbst-7133433.html",
+      "image_title": "CarPlay"
+    },
+    {
+      "title": "Python: Richtige JIT-Optimierung – damit nichts schiefgeht",
+      "teaser": "JIT-optimierter Code beschleunigt Python-Programme auf GPUs rasant. Doch wer nicht aufpasst, zerstört schnell den Performancegewinn oder rechnet sogar falsch.",
+      "url": "https://www.heise.de/hintergrund/Python-Richtige-JIT-Optimierung-damit-nichts-schiefgeht-7127649.html"
+    },
+    {
+      "title": "Versionsverwaltung: GitLab-Update schließt kritische Sicherheitslücke",
+      "teaser": "Aktualisierte Pakete der Versionsverwaltung schließen Sicherheitslücken in GitLab CE und EE. Eine Schwachstelle erhält die Risiko-Einstufung \"kritisch\".",
+      "url": "https://www.heise.de/news/Versionsverwaltung-GitLab-Update-schliesst-kritische-Sicherheitsluecke-7133286.html",
+      "image_title": "Aufmacher GitLab Sicherheitsupdate"
     },
     {
       "title": "IT Job kompakt: Recruiting-Messe findet am 13. und 14. Juli in München statt",
@@ -67,6 +85,11 @@
       "title": "Sentinels und Concepts mit Ranges",
       "teaser": "Die Ranges-Bibliothek in C++20 unterstützt Sentinels. Sie stehen für das Ende eines Ranges und können als verallgemeinerte End-Iteratoren betrachtet werden.",
       "url": "https://www.heise.de/blog/Sentinels-und-Concepts-mit-Ranges-7129479.html"
+    },
+    {
+      "title": "Marktübersicht: Flexible Netzanbindung mit SD-WAN",
+      "teaser": "Der weltweite Markt für SD-WAN-Produkte und -Dienstleistungen boomt. Wir stellen die wichtigsten Mitspieler im deutschsprachigen Raum und ihre Produkte vor.",
+      "url": "https://www.heise.de/hintergrund/Marktuebersicht-Flexible-Netzanbindung-mit-SD-WAN-7129888.html"
     },
     {
       "title": "Online-Workshop: iPhone- und Android-Apps mit Flutter entwickeln",
@@ -110,29 +133,6 @@
       "title": "iOS 16: Apple präsentiert neue Version auf der WWDC 2022",
       "teaser": "iOS 16 bringt viel mehr Informationen auf den iPhone-Sperrbildschirm und eine lange Liste an weiteren Neuerungen – von iMessage bis Health.",
       "url": "https://www.heise.de/news/WWDC-2022-Apple-enthuellt-iOS-16-7132835.html"
-    },
-    {
-      "title": "Recht auf Reparatur für Elektronik im US-Bundesstaat New York verabschiedet",
-      "teaser": "Kunden und freie Werkstätten sollen künftig Zugang zu Ersatzteilen und Anleitungen erhalten. Das erste Gesetz seiner Art, das sich mit Elektronik befasst.",
-      "url": "https://www.heise.de/news/Recht-auf-Reparatur-fuer-Elektronik-im-US-Bundesstaat-New-York-verabschiedet-7132713.html",
-      "image_title": "iPhone Reparatur"
-    },
-    {
-      "title": "E-Rezept-App: Erste Krankenkassen ermöglichen \"kartenlose\" Anmeldung",
-      "teaser": "Statt mit Smartphone, elektronischer Gesundheitskarte und PIN können sich nun Versicherte \"kartenlos\" in der E-Rezept-App mit ihrer Krankenkassen-App anmelden.",
-      "url": "https://www.heise.de/news/E-Rezept-App-Erste-Krankenkassen-ermoeglichen-kartenlose-Anmeldung-7131956.html",
-      "image_title": "E-Rezept-App der Gematik"
-    },
-    {
-      "title": "Schadcode-Lücke bedroht Horde Webmail – Kein Sicherheitspatch in Sicht",
-      "teaser": "Angreifer könnten auf Server mit dem Framework Horde zum Umgang mit E-Mails zugreifen und im schlimmsten Fall eigenen Code ausführen.",
-      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-Horde-Webmail-Kein-Sicherheitspatch-in-Sicht-7132674.html",
-      "image_title": "Netzwerkkabel"
-    },
-    {
-      "title": "Phishing-Betrüger erbeuten erneut Bored Ape Yacht Club NFTs und Krypto-Währung",
-      "teaser": "Unbekannte Täter hatten Zugriff auf Discord-Server und haben mit Fake-Gewinnspielen 357.000 US-Dollar in NTFs und Kryptowährung gemacht.",
-      "url": "https://www.heise.de/news/Phishing-Betrueger-erbeuten-erneut-Bored-Ape-Yacht-Club-NFTs-und-Krypto-Waehrung-7132649.html"
     },
     {
       "title": "Machine Learning in der Produktion",
