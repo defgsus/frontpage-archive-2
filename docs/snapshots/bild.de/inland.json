@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-07T20:23:39",
+  "timestamp": "2022-06-07T21:18:47",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.4-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e10bebe4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6f232cb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.70bc7477.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Soldat (†23) rast in Mähdrescher : Krimi um Todes-Crash im getunten Sportwagen",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/soldat-23-rast-in-maehdrescher-krimi-um-todes-crash-im-tuning-auto-80330352.bild.html",
-      "image_url": "https://images.bild.de/629f774bb278ac30b5597fb4/af7841d83f1c24d68a15299bf1446190,366a41fc?w=656",
-      "image_title": "Soldat (†23) rast in Mähdrescher: Krimi um Todes-Crash im Tuning-Auto"
-    },
-    {
-      "title": "Strompreis um 500 Prozent rauf! : Wie ein Unternehmer um seine Existenz kämpft",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/strompreis-500-prozent-rauf-wie-ein-unternehmer-um-seine-existenz-kaempft-80330584.bild.html",
-      "image_url": "https://images.bild.de/629f7f0b331a165bca77116c/b392cf8fa4cc01251959759cbfa0a278-miniSquare,fddd41fd?w=320",
-      "image_title": "Strompreis 500 Prozent rauf! Wie ein Unternehmer um seine Existenz kämpft"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 20 Millionen Euro gewonnen?",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-7-juni-80219868.bild.html",
-      "image_url": "https://images.bild.de/629083276211895750ca50a9/2ec6dfa0fb330fdafad9638a54f261a6-miniSquare,dc48b40a?w=320",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 7. Juni"
-    },
-    {
-      "title": "18 Tage in U-Haft : 2 Geistliche besuchten die Kegel-Brüder im Knast",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/18-tage-im-malle-knast-zwei-geistliche-besuchten-die-kegel-brueder-80319012.bild.html",
-      "image_url": "https://images.bild.de/629e22206f6eec1858994d50/299dbeade923ff1c6cd70f150145c210-miniSquare,334c48c9?w=320",
-      "image_title": "18 Tage im Malle-Knast: Zwei Geistliche besuchten die Kegel-Brüder"
-    },
-    {
-      "title": "Selbsternannte König Fitzek : Mit diesen Tricks sicherte er sich ein Millionen-Schloss",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/reichsbuerger-fitzek-mit-welchen-tricks-er-sich-jetzt-millionen-schloesser-siche-80320568.bild.html",
-      "image_url": "https://images.bild.de/629e4f5fb278ac30b5597e12/6af84588612691562b6384902bd1c8ae-miniSquare,54326b84?w=320",
-      "image_title": "Reichsbürger Fitzek: Mit welchen Tricks er sich ein Millionen-Schloss sicherte"
-    },
-    {
-      "title": "Auf der Straße festgeklebt! : Klima-Chaoten blockieren Verkehr",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/letzte-generation-klima-chaoten-sorgen-fuer-stau-in-leipzig-dresden-80321842.bild.html",
-      "image_title": "Letzte Generation: Klima-Chaoten sorgen für Stau in Leipzig & Dresden"
-    },
-    {
-      "title": "ERICH MIELKE († 92) : Geheimer Frühstücksplan von Stasi-Chef aufgetaucht",
-      "teaser": "Der herrische Tschekist überließ nichts dem Zufall – selbst beim Frühstück.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/erich-mielke-der-geheime-fruehstuecksplan-des-stasi-chefs-80319836.bild.html",
-      "image_title": "Erich Mielke: Der geheime Frühstücksplan des Stasi-Chefs"
-    },
-    {
-      "title": "Sie schrie um Hilfe : Mann erschießt Frau in Aldi-Supermarkt",
-      "teaser": "In Schwalmstadt-Treysa fielen am Dienstag Schüsse – die Polizei meldete zwei Tote.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/tatort-lebensmittelladen-zwei-menschen-in-nordhessen-erschossen-80326782.bild.html",
-      "image_title": "Schwalmstadt (Hessen): Schüsse in Supermarkt: Zwei Menschen tot"
-    },
-    {
-      "title": "Mord-Prozess startet : Mutmaßlicher Killer schweigt über Auftraggeber",
-      "teaser": "Star-Reporter Peter de Vries wurde 2021 hingerichtet. Jetzt startet der Prozess.",
-      "url": "https://www.bild.de/news/inland/news-inland/amsterdam-mord-an-star-reporter-peter-de-vries-killer-vor-gericht-80323824.bild.html",
-      "image_title": "Amsterdam: Mord an Star-Reporter Peter de Vries: Killer vor Gericht"
-    },
-    {
-      "title": "Monster tötete Kinder : Haus von Mädchen-Mörder Dutroux wird abgerissen",
-      "teaser": "Marc Dutroux sitzt seit 1996 in Haft. Seine Taten sorgten weltweit für Entsetzen.",
-      "url": "https://www.bild.de/news/inland/news-inland/maedchen-moerder-seit-1996-in-haft-haus-von-dutroux-wird-abgerissen-80328222.bild.html",
-      "image_title": "Mädchen-Mörder seit 1996 in Haft: Haus von Dutroux wird abgerissen"
-    },
-    {
-      "title": "Auf Lost-Places-Tour : Mann stürzt durch Hallendach auf Betonboden",
-      "teaser": "Die Jagd nach Fotos an Orten, die kaum einer kennt („Lost Places“), endete im Unfall.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/lost-places-tour-mann-stuerzt-durch-hallendach-auf-betonboden-80327902.bild.html",
-      "image_title": "Lost-Places-Tour: Mann stürzt in Ottweiler durch Hallendach"
-    },
-    {
-      "title": "Prostituierte ausgeraubt? : Nach dem Liebesspiel wurde es böse",
-      "teaser": "Yasar K. soll nach dem Sex zwei Prostituierte ausgeraubt haben. Jetzt der Prozess in Dortmund.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-freier-soll-nach-dem-sex-zwei-prostituierte-ausgeraubt-haben-80327940.bild.html",
-      "image_title": "Dortmund: Freier soll nach dem Sex zwei Prostituierte ausgeraubt haben"
-    },
-    {
-      "title": "40 Kilometer lang : Mega-Stau auf A4 bei Bautzen",
-      "teaser": "Autofahrer auf der Autobahn 4 zwischen Görlitz und Bautzen brauchen starke Nerven.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/40-kilometer-lang-mega-stau-auf-a4-bei-bautzen-80324982.bild.html",
-      "image_title": "40 Kilometer lang: Mega-Stau auf A4 bei Bautzen"
-    },
-    {
-      "title": "Nach Leichenfund : Tatverdächtiger gesteht Angriff mit Messer",
-      "teaser": "Die Feuerwehr fand nach einem Brand eine ermordete Leiche. Nun hat der Verdächtige gestanden.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/haftbefehl-erlassen-mordopfer-nach-wohnungsbrand-entdeckt-80315290.bild.html",
-      "image_title": "Mordopfer bei Brand entdeckt: Verdächtiger aus Neustrelitz gesteht"
-    },
-    {
-      "title": "Attacke auf Marktplatz : Rockergewalt eskaliert in Urlaubsort an der Ostsee",
-      "teaser": "In Ueckermünde kam es am Pfingstsonntag zu einem Angriff auf zwei Männer in einem Lokal.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/attacke-in-ueckermuende-schlaegerei-unter-motorradclub-mitgliedern-80325634.bild.html",
-      "image_title": "Attacke in Ueckermünde: Schlägerei unter Motorradclub-Mitgliedern"
-    },
-    {
-      "title": "Mit Plüsch-Einhorn gelockt : U-Bahn-Fahrer missbrauchte Jungen in der Fahrerkabine",
-      "teaser": "Über sein Anwälte legte der U-Bahn-Fahrer ein Geständnis ab. Urteil am",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/in-muenchen-u-bahn-fahrer-hatte-sex-mit-jungen-in-u-bahn-80324226.bild.html",
-      "image_title": "München: U-Bahn-Fahrer missbrauchte Jungen in der Fahrerkabine"
-    },
-    {
-      "title": "Groß wie Fussballfeld : Historischer Bunker entdeckt",
-      "teaser": "Im Nürnberger Untergrund schlummern geheimnisvolle Orte. Ein Verein will sie aufdecken.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/gross-wie-fussballfeld-historischer-bunker-entdeckt-80318010.bild.html",
-      "image_title": "Groß wie Fussballfeld: Historischer Bunker entdeckt"
-    },
-    {
-      "title": "Kryptodienst Anom : Drogendealer aus Sachsen durch FBI-Hinweis festgenommen",
-      "teaser": "Das FBI lieferte Hinweise zu einen Dealer aus Sachsen. Er kaufte 22 Kilo Crystal über Anom!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/drogendealer-aus-dresden-durch-fbi-hinweis-festgenommen-80323022.bild.html",
-      "image_title": "Dresden: Drogendealer durch FBI-Hinweis festgenommen"
-    },
-    {
-      "title": "Prozess gegen Landesvorstand : AfD-Politiker soll Ausländer im Knast misshandelt haben",
-      "teaser": "Die Taten liegen bereits fast vier Jahre zurück. Die Polizei stieß bei ihren Ermittlungen in einer Chat-Gruppe auf Hinweise.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-in-sachsen-afd-politiker-soll-auslaendische-haeftlinge-misshandelt-haben-80320360.bild.html",
-      "image_title": "Prozess in Sachsen: AfD-Politiker soll ausländische Häftlinge misshandelt haben!"
-    },
-    {
-      "title": "5 Tote in Regionalzug : War das Gleisbett schuld am Horror-Unfall?",
-      "teaser": "Die Trauer um die fünf Toten der Zug-Katastrophe von Garmisch-Partenkirchen ist groß, die Ursache für die Katastrophe noch immer unklar.",
-      "url": "https://www.bild.de/news/inland/news-inland/fuenf-tote-passagiere-in-regionalzug-war-das-gleisbett-schuld-am-horror-unfall-80318710.bild.html",
-      "image_title": "Fünf tote Passagiere in Regionalzug: War das Gleisbett schuld am Horror-Unfall?"
-    },
-    {
-      "title": "Krimi um Kegelbrüder : Kaution gezahlt – und trotzdem noch im Knast",
-      "teaser": "Die Freilassung weiterer Kegelbrüder wird zum Justiz-Krimi – trotz gezahlter Kaution.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/kegelbrueder-im-malle-knast-warum-sind-vier-von-ihnen-noch-immer-nicht-frei-80321504.bild.html",
-      "image_title": "Kegelbrüder im Malle-Knast: Warum sind vier von ihnen noch immer nicht frei?"
-    },
-    {
-      "title": "Drei Einsatzkräfte verletzt : Feuerwehr löscht Brand bei der Feuerwehr",
-      "teaser": "Die Feuerwehr in Hennef-Söven musste ihr eigenes Gerätehaus löschen. Ursache: noch unklar.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/hennef-feuerwehr-loescht-brand-bei-der-feuerwehr-80321560.bild.html",
-      "image_title": "Hennef: Feuerwehr löscht Brand bei der Feuerwehr"
-    },
-    {
-      "title": "Grausame Bluttat im Erzgebirge : Ein Stalker (32) hat unsere Sarah (15) niedergestochen",
-      "teaser": "Jetzt muss Sarah um ihr Leben kämpfen. Weil ein Stalker die Achtklässlerin mit einem Messer niedergemetzelt hat!",
-      "url": "https://www.bild.de/bild-plus/regional/chemnitz/leipzig-news/annaberg-buchholz-ein-stalker-hat-unsere-tochter-15-niedergestochen-80319584.bild.html",
-      "image_title": "Annaberg-Buchholz: Ein Stalker hat unsere Tochter (15) niedergestochen"
-    },
-    {
-      "title": "„Es waren Freudentränen“ : Deutscher aus Irak-Knast entlassen",
-      "teaser": "Ein Deutscher (60) steckte Keramikscherben ein, landete im Irak-Knast. Jetzt der Freispruch.",
-      "url": "https://www.bild.de/news/inland/news-inland/wegen-steinen-verhaftet-deutscher-endlich-aus-irak-knast-entlassen-80315678.bild.html",
-      "image_title": "Wegen Steinen verhaftet: Deutscher endlich aus Irak-Knast entlassen!"
-    },
-    {
-      "title": "Pfingstfazit : 9-Euro-Chaos und übervolle Züge in Sachsen",
-      "teaser": "Der Ansturm kam mit Ansage! Viele Züge in Sachsen sind übervoll durchs Land gerollt.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/9-euro-chaos-zu-pfingsten-uebervolle-zuege-in-sachsen-80316348.bild.html",
-      "image_title": "9-Euro-Chaos zu Pfingsten: Übervolle Züge in Sachsen"
-    },
-    {
-      "title": "Der Aufstieg der Abou-Chakers : „Entweder gibts auf die Fresse oder es wird mit Geld geregelt“",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/der-aufstieg-der-abou-chakers-entweder-gibts-auf-die-fresse-oder-es-wird-mit-gel-80203626,auto=true.bild.html",
-      "image_title": "Der Aufstieg der Abou-Chakers: „Entweder gibts auf die Fresse oder es wird mit Geld geregelt“"
-    },
-    {
-      "title": "Musik, Macht, Millionen : „Arafat hatte das Sagen, Bushido war der Zurückhaltende“",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/musik-macht-millionen-arafat-hatte-das-sagen-bushido-war-der-zurueckhaltende-80203632,auto=true.bild.html",
-      "image_title": "Musik, Macht, Millionen: „Arafat hatte das Sagen, Bushido war der Zurückhaltende“"
-    },
-    {
-      "title": "„Kein Schritt ohne meine Waffe“ : Die brutalen „Vollstrecker“ hinter den Abou-Chakers",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/kein-schritt-ohne-meine-waffe-die-brutalen-vollstrecker-hinter-den-abou-chakers-80203642,auto=true.bild.html",
-      "image_title": "„Kein Schritt ohne meine Waffe“: Die brutalen „Vollstrecker“ hinter den Abou-Chakers"
-    }
-  ]
+  "articles": []
 }
