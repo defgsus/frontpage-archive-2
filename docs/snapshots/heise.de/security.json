@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-08T13:42:01",
+  "timestamp": "2022-06-08T14:18:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,26 +32,48 @@
   ],
   "articles": [
     {
+      "title": "Zero-Day-Lücke in MSDT",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-Cybergangs-missbrauchen-MSDT-Leck-fuer-Qakbot-Infektionen-7134949.html"
+    },
+    {
+      "title": "Linux-Kernel",
+      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html"
+    },
+    {
+      "title": "U-Boot",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Universal-Boot-Loader-U-Boot-7134785.html"
+    },
+    {
       "title": "GitLab",
       "url": "https://www.heise.de/news/Versionsverwaltung-GitLab-Update-schliesst-kritische-Sicherheitsluecke-7133286.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Google-schliesst-Kernel-und-Software-Luecken-in-Android-7133294.html"
+      "title": "Zero-Day-Lücke: Cybergangs missbrauchen MSDT-Leck für Qakbot-Infektionen",
+      "teaser": "Die Cybergang hinter der Malware Quakbot missbraucht in Phishing-Kampagnen die MSDT-Zero-Day-Lücke. Infizierte Rechner verkauft sie meist an Ransomware-Banden.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-Cybergangs-missbrauchen-MSDT-Leck-fuer-Qakbot-Infektionen-7134949.html",
+      "image_title": "Aufmacher Qakbot missbraucht MSDT-Zero-Day-Lücke"
     },
     {
-      "title": "Atlassian Confluence",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html"
+      "title": "Fehler in Linux-Kernel ermöglicht Rechteausweitung",
+      "teaser": "Ein Fehler im Firewall-Code des Linux-Kernels ermöglicht es Nutzern, Befehle als Root auszuführen. Administratoren können einen Workaround anwenden.",
+      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html",
+      "image_title": "Aufmacher Rechteausweitung durch nftables-Lücke in Linux"
     },
     {
-      "title": "0day in Confluence",
-      "url": "https://www.heise.de/news/Angriffe-auf-Code-Execution-Luecke-bedrohen-Confluence-Installationen-7131081.html"
+      "title": "Kritische Schadcode-Lücke bedroht Universal Boot Loader U-Boot",
+      "teaser": "Die Entwickler von U-Boot haben zwei gefährliche Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Universal-Boot-Loader-U-Boot-7134785.html"
     },
     {
       "title": "Angriff auf Sixt: Hacker griffen auf Kundendaten der Autovermietung zu",
       "teaser": "Wie eine Untersuchung des IT-Sicherheitsvorfalls bei Sixt zeigt, hatten Hacker Zugriff unter anderem auf die Adressen von Kunden.",
       "url": "https://www.heise.de/news/Hacker-der-Automvermietung-Sixt-griffen-auf-Kundendaten-zu-7134712.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
+      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
     },
     {
       "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
@@ -69,11 +91,6 @@
       "teaser": "Noch immer fehlt ein Patch für die Zero-Day-Lücke in Microsofts Diagnostic Tool (MSDT). Cyberkriminelle verfeinern derweil ihre Angriffe auf die Schwachstelle.",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-Optimierte-Angriffe-auf-Microsofts-Diagnostic-Tool-MSDT-7133489.html",
       "image_title": "Aufmacher Verfeinerte Angriffe auf Zero-Day-Lücke in MSDT"
-    },
-    {
-      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
-      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
     },
     {
       "title": "Versionsverwaltung: GitLab-Update schließt kritische Sicherheitslücke",
@@ -144,24 +161,6 @@
       "title": "heise devSec: Konferenz zu sicherer Softwareentwicklung wieder vor Ort",
       "teaser": "Im Oktober 2022 stehen in Karlsruhe Themen von Software Supply Chain über Security in Rust und Go bis zu Post-Quantum Cryptography auf dem Programm der devSec.",
       "url": "https://www.heise.de/news/heise-devSec-Konferenz-zu-sicherer-Softwareentwicklung-wieder-vor-Ort-7127767.html"
-    },
-    {
-      "title": "Apples Argumente gegen Sideloading: 1,6 Millionen \"riskante Apps\" gestoppt",
-      "teaser": "Laut Angaben des iPhone-Konzerns sollen betrügerische Transaktionen in Höhe von nahezu 1,4 Milliarden Euro verhindert worden sein. Und das nur im Jahr 2021.",
-      "url": "https://www.heise.de/news/Apples-Argumente-gegen-Sideloading-1-6-Millionen-riskante-Apps-gestoppt-7129475.html",
-      "image_title": "App-Store-Icon"
-    },
-    {
-      "title": "Sicherheitslücken in Firefox und Thunderbird abgedichtet",
-      "teaser": "In Firefox, Firefox ESR und Thunderbird klafften Schwachstellen. Angreifer hätten dadurch betroffene Systeme übernehmen können, warnt die CISA.",
-      "url": "https://www.heise.de/news/Schwachstellen-in-Firefox-und-Thunderbird-abgedichtet-7129671.html",
-      "image_title": "Aufmacher Sicherheitslücken in Firefox und Thunderbird geschlossen"
-    },
-    {
-      "title": "Cyber-Angriffe: BaFin warnt vor erhöhter Gefahr im Finanzsektor",
-      "teaser": "Die BaFin warnt erneut vor erhöhten Gefahren durch Cyber-Attacken auf die deutsche Finanzwirtschaft. Im Zuge des Ukraine-Krieges komme es vermehrt zu Angriffen.",
-      "url": "https://www.heise.de/news/Cyber-Angriffe-BaFin-warnt-vor-erhoehter-Gefahr-im-Finanzsektor-7128953.html",
-      "image_title": "Aufmacher BaFin warnt vor Cyberattacken im Ukrainekrieg"
     },
     {
       "title": "heise Security Tour 2022",

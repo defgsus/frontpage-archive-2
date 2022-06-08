@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-08T13:41:58",
+  "timestamp": "2022-06-08T14:18:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -52,6 +52,39 @@
       "url": "https://www.heise.de/tests/Kurztests-In-Ear-Headset-ANC-Kopfhoerer-und-Fingerabdruckscanner-7133307.html"
     },
     {
+      "title": "Zero-Day-Lücke: Cybergangs missbrauchen MSDT-Leck für Qakbot-Infektionen",
+      "teaser": "Die Cybergang hinter der Malware Quakbot missbraucht in Phishing-Kampagnen die MSDT-Zero-Day-Lücke. Infizierte Rechner verkauft sie meist an Ransomware-Banden.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-Cybergangs-missbrauchen-MSDT-Leck-fuer-Qakbot-Infektionen-7134949.html",
+      "image_title": "Aufmacher Qakbot missbraucht MSDT-Zero-Day-Lücke"
+    },
+    {
+      "title": "Nvidia-System DGX H100: Von AMD-Prozessoren zurück zu Intel",
+      "teaser": "In Nvidias Hopper-Server DGX H100 stecken anders als beim Vorgänger keine Epyc-Prozessoren mehr. Stattdessen gibt es PCIe-5.0-fähige CPUs von Intel.",
+      "url": "https://www.heise.de/news/Nvidia-System-DGX-H100-Von-AMD-Prozessoren-zurueck-zu-Intel-7134927.html"
+    },
+    {
+      "title": "Fehler in Linux-Kernel ermöglicht Rechteausweitung",
+      "teaser": "Ein Fehler im Firewall-Code des Linux-Kernels ermöglicht es Nutzern, Befehle als Root auszuführen. Administratoren können einen Workaround anwenden.",
+      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html",
+      "image_title": "Aufmacher Rechteausweitung durch nftables-Lücke in Linux"
+    },
+    {
+      "title": "Apple öffnet iPadOS für Gerätetreiber von Drittherstellern",
+      "teaser": "Hersteller sind erstmals in der Lage, iPadOS-Treiber für ihre Hardware zu schreiben. Das ermöglicht etwa die Anbindung von Thunderbolt-Audio-Interfaces.",
+      "url": "https://www.heise.de/news/Apple-oeffnet-iPadOS-fuer-Geraetetreiber-von-Drittherstellern-7134898.html",
+      "image_title": "iPad Pro 2021 mit Magic Keyboard"
+    },
+    {
+      "title": "Kritische Schadcode-Lücke bedroht Universal Boot Loader U-Boot",
+      "teaser": "Die Entwickler von U-Boot haben zwei gefährliche Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Universal-Boot-Loader-U-Boot-7134785.html"
+    },
+    {
+      "title": "Apache Flink Kubernetes Operator erreicht mit Version 1.0.0 Produktionsreife",
+      "teaser": "Das Major Release des Flink-Operators ermöglicht umfassendes und natives Lifecycle Management von Flink-Clustern auf Kubernetes – auch in Produktivumgebungen.",
+      "url": "https://www.heise.de/news/Apache-Flink-Kubernetes-Operator-erreicht-mit-Version-1-0-0-Produktionsreife-7134661.html"
+    },
+    {
       "title": "Apple öffnet Chromecast und anderen die Tür zum iPhone, iPad und Mac",
       "teaser": "Bislang hatten andere Hersteller gegenüber AirPlay das Nachsehen. Künftig können Nutzer sich vielleicht Inhalte etwas komfortabler über Streamingsticks ansehen.",
       "url": "https://www.heise.de/news/Apple-oeffnet-Chromecast-und-anderen-die-Tuer-zum-iPhone-iPad-und-Mac-7134682.html",
@@ -100,39 +133,6 @@
       "teaser": "Im Jahr 2023 endet der Support für Windows Server 2012 R2. Mit Windows Server 2022 steht ein Nachfolger mit neuen Funktionen und Cloud bereit. Ein Überblick.",
       "url": "https://www.heise.de/hintergrund/Windows-Server-2022-Mit-grossen-Schritten-in-Microsofts-Cloud-7130346.html",
       "image_title": ", Thorsten Hübner"
-    },
-    {
-      "title": "Angular 14 entschlackt und bringt mehr Typsicherheit",
-      "teaser": "Die neue Angular-Hauptversion bringt Standalone Components und Typed Forms. Das verringert die Notwendigkeit für NgModules und bringt mehr Typsicherheit.",
-      "url": "https://www.heise.de/hintergrund/Angular-14-entschlackt-und-bringt-mehr-Typsicherheit-7134406.html"
-    },
-    {
-      "title": "Apple verabschiedet sich vom Passwort: So sehen Logins in Zukunft aus",
-      "teaser": "Passkey folgt dem Fido-Standard, um Passwörter zu ersetzen. Für Nutzer soll das Einloggen ab Herbst einfacher und sicherer werden.",
-      "url": "https://www.heise.de/news/Apple-verabschiedet-sich-vom-Passwort-So-sehen-Logins-in-Zukunft-aus-7134475.html",
-      "image_title": "Verwalte-deine-Passwörter-Tag: Make Passwords Great Again!"
-    },
-    {
-      "title": "Online-Workshop: iOS-Apps vor Reverse Engineering schützen",
-      "teaser": "Der Workshop erklärt Ende Juni praxisnah, wie Entwickler ihren Quellcode besser absichern können, um so Reverse-Engineering-Angriffe zu erschweren.",
-      "url": "https://www.heise.de/news/Online-Workshop-iOS-Apps-vor-Reverse-Engineering-schuetzen-7129839.html",
-      "image_title": "Reverse-Engineering-Workshop"
-    },
-    {
-      "title": "SD-WAN-Standard: Grundlagen und Anwendungsfälle von MEF 70",
-      "teaser": "SD-WAN senkt Verbindungskosten und bringt die Standortvernetzung ins Cloud-Zeitalter. Die Eigenschaften und Funktionsweisen spezifiziert der Standard MEF 70.",
-      "url": "https://www.heise.de/hintergrund/SD-WAN-Standard-Grundlagen-und-Anwendungsfaelle-von-MEF-70-7129623.html"
-    },
-    {
-      "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
-      "teaser": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt. 10 % Rabatt bis 21.6.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-7133429.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Docker Desktop für Linux: Wichtige Einstellungen und Funktionen im Überblick",
-      "teaser": "Reichlich verspätet kommt Docker Desktop. Wir zeigen, wie Sie das Container-GUI in Betrieb nehmen und Docker Desktop um praktische Entwickler-Tools ergänzen.",
-      "url": "https://www.heise.de/ratgeber/Docker-Desktop-fuer-Linux-Wichtige-Einstellungen-und-Funktionen-im-Ueberblick-7130926.html"
     },
     {
       "title": "Machine Learning in der Produktion",
