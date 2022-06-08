@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-08T09:20:47",
+  "timestamp": "2022-06-08T10:23:46",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e10bebe4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6f232cb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.70bc7477.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.550c0e4d.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Zug-Katastrophe von Garmisch : „Die Bahn spielt mit Menschenleben!“",
-      "url": "https://www.bild.de/news/2022/news/zug-katastrophe-von-garmisch-die-bahn-spielt-mit-menschenleben-80331496.bild.html",
-      "image_title": "Zug-Katastrophe von Garmisch : „Die Bahn spielt mit Menschenleben!“"
-    },
-    {
-      "title": "Soldat (†23) rast in Mähdrescher : Krimi um Todes-Crash im roten Tuning-Sportwagen",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/soldat-23-rast-in-maehdrescher-krimi-um-todes-crash-im-tuning-auto-80330352.bild.html",
-      "image_title": "Soldat (†23) rast in Mähdrescher: Krimi um Todes-Crash im Tuning-Auto"
-    },
-    {
-      "title": "Botschaft im Bikini : Neue Liebe? Cathy: „Ja, hab ich“",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/cathy-hummels-gluecks-botschaft-im-bikini-neue-liebe-ja-hab-ich-80323344.bild.html",
-      "image_title": "Cathy Hummels - Glücks-Botschaft im Bikini: Neue Liebe? „Ja, hab ich“"
-    },
-    {
-      "title": "Mehrere Festnahmen : Drogen-Razzia in Berlin",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/drogen-razzia-in-berlin-nach-encrochat-auswertung-mehrere-festnahmen-80333572.bild.html",
-      "image_title": "Drogen-Razzia in Berlin nach EncroChat-Auswertung – mehrere Festnahmen"
-    },
-    {
-      "title": "„Clans von Berlin 3“ : Die Macht der Abou-Chakers",
-      "teaser": "Wie ticken Clans? Das sehen Sie in „Clans von Berlin 3 – Die Macht der Abou-Chakers“.",
-      "url": "https://www.bild.de/news/2022/news/clans-von-berlin-3-die-macht-der-abou-chakers-80205698.bild.html",
-      "image_title": "„Clans von Berlin 3“: Die Macht der Abou-Chakers"
-    },
-    {
-      "title": "In Szene-Bezirk : Auf Nachtschicht mit der Berliner Polizei",
-      "teaser": "Sommer in Berlin. Es pulsiert in den Parks, auf Plätzen und Straßen. Auch in der Nacht.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/in-szene-bezirk-auf-nachtschicht-mit-der-berliner-polizei-80318314.bild.html",
-      "image_title": "In Szene-Bezirk: Auf Nachtschicht mit der Berliner Polizei"
-    },
-    {
-      "title": "150 000 Container hängen fest : Schiffs-Stau wird zu Super-GAU",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/150-000-container-haengen-in-der-deutschen-bucht-fest-schiffs-stau-wird-zu-super-80323762.bild.html",
-      "image_title": "150 000 Container hängen in der Deutschen Bucht fest: Schiffs-Stau wird zu Super-GAU"
-    },
-    {
-      "title": "Kosten verdoppelt : Millionen-Schock bei Fahrrad-Route",
-      "teaser": "Während der Park-Hammer noch auf sich warten lässt, wird das Fahrradfahren teurer.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/wallring-kosten-verdoppelt-millionen-schock-bei-fahrrad-route-80323934.bild.html",
-      "image_title": "Wallring-Kosten verdoppelt : Millionen-Schock bei Fahrrad-Route"
-    },
-    {
-      "title": "Er passt ins Profil : Werder hat diesen Stürmer im Visier",
-      "teaser": "Werder hat einen Angreifer im Visier, der schon seine Bundesliga-Qualität gezeigt hat.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/werder-bremen-er-passt-perfekt-ins-profil-bundesliga-stuermer-im-visier-80326624.bild.html",
-      "image_title": "Werder Bremen: Er passt perfekt ins Profil – Bundesliga-Stürmer im Visier"
-    },
-    {
-      "title": "Moped-Kult : Gastwirt sammelt verrückte Simsons",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/moped-kult-gastwirt-sammelt-verrueckte-simsons-80334594.bild.html",
-      "image_title": "Moped-Kult: Gastwirt sammelt verrückte Simsons"
-    },
-    {
-      "title": "Strompreis um 500 Prozent rauf! : Wie ein Unternehmer um seine Existenz kämpft",
-      "teaser": "500 Prozent mehr soll Unternehmer Maik Biedermann für jede Strom-Kilowattstunde bezahlen.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/strompreis-500-prozent-rauf-wie-ein-unternehmer-um-seine-existenz-kaempft-80330584.bild.html",
-      "image_title": "Strompreis 500 Prozent rauf! Wie ein Unternehmer um seine Existenz kämpft"
-    },
-    {
-      "title": "Aktivisten blockieren Straßen : Die Klima-Kleber mit der Kroko-Tasche",
-      "teaser": "Autofahrer fürchten sie, die Klima-Kleber des Bündnisses „Letzte Generation“.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/aktivisten-blockieren-strassen-die-klima-kleber-mit-der-kroko-tasche-80332314.bild.html",
-      "image_title": "Aktivisten blockieren Straßen: Die Klima-Kleber mit der Kroko-Tasche"
-    },
-    {
-      "title": "7 Monate nach Impfpass-Affäre : Neuer Trainer-Job für Anfang!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/7-monate-nach-impfpass-affaere-neuer-job-fuer-anfang-80329976.bild.html",
-      "image_title": "7 Monate nach Impfpass-Affäre: Neuer Trainer-Job für Anfang!"
-    },
-    {
-      "title": "BILD-Kommentar : Anfang hat zweite Chance verdient",
-      "teaser": "Die Entscheidung von Dynamo Dresden, Markus Anfang als neuen Cheftrainer zu verpflichten, ist mutig. Aber sie ist gerechtfertigt!",
-      "url": "https://www.bild.de/sport/fussball/fussball/bild-kommentar-anfang-hat-zweite-chance-verdient-80331476.bild.html",
-      "image_title": "BILD-Kommentar: Anfang hat zweite Chance verdient!"
-    },
-    {
-      "title": "Ungewöhnliches Corona-Symptom : Sorge um Dschungel-Star Nico Schwanz",
-      "teaser": "Nico Schwanz (44) hat Corona – er leidet und kämpft mit einem ungewöhnlichen Symptom.",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/ungewoehnliche-corona-symptome-sorge-um-dschungel-star-nico-schwanz-80330618.bild.html",
-      "image_title": "Ungewöhnliche Corona-Symptome: Sorge um Dschungel-Star Nico Schwanz"
-    },
-    {
-      "title": "Eine Regel ist Trainer Farke besonders wichtig! : Kabinen-Revolution in Gladbach!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/borussia-moenchengladbach-kabinen-revolution-in-gladbach-80322618.bild.html",
-      "image_title": "Borussia Mönchengladbach: Kabinen-Revolution in Gladbach!"
-    },
-    {
-      "title": "Jetzt könnte es schnell gehen : Neue NRW-Regierung noch vor den Sommerferien?",
-      "teaser": "CDU und Grüne stehen aktuell in Koalitionsverhandlungen miteinander. Geht es nun schnell?",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/nrw-schwarz-gruene-landesregierung-noch-vor-den-sommerferien-80330306.bild.html",
-      "image_title": "NRW: Schwarz-grüne Landesregierung noch vor den Sommerferien?"
-    },
-    {
-      "title": "Skandal-Rapperin : Schwesta Ewa plant Comeback nach dem Knast",
-      "teaser": "Die Düsseldorfer Skandal-Rapperin Schwesta Ewa (37) bereitet anscheinend ihr Comeback vor.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-leute/skandal-rapperin-schwesta-ewa-plant-comeback-nach-dem-knast-80331642.bild.html",
-      "image_title": "Skandal-Rapperin Schwesta Ewa plant Comeback nach dem Knast"
-    },
-    {
-      "title": "Von wegen „klasse Feierabendrunde“ : Panik am Berg! 100 deutsche Schüler gerettet",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/im-kleinwalsertal-mehr-als-100-deutsche-schueler-und-lehrer-in-bergnot-80334270.bild.html",
-      "image_title": "Von wegen „klasse Feierabendrunde“: Panik am Berg! Knapp 100 deutsche Schüler gerettet"
-    },
-    {
-      "title": "Kindesmissbrauch : Perfide Snapchat-Masche des Jugendtrainers",
-      "teaser": "Laut Anklage soll Fußball-Jugendtrainer Sven B. Minderjährige sexuell missbraucht haben.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kindesmissbrauch-die-perfide-snapchat-masche-des-jugendtrainers-80335238.bild.html",
-      "image_title": "Kindesmissbrauch in Wiesbaden: Perfide Snapchat-Masche des Jugendtrainers"
-    },
-    {
-      "title": "Jeff aus Werbung : Indira lässt sich's schön kacheln",
-      "teaser": "Die ehemalige Pop-Sängerin Indira Weis macht Immobilien, baut aktuell drei Häuser um.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-leute/fliesenleger-dating-werbung-legende-indira-laesst-sichs-schoen-kacheln-80328288.bild.html",
-      "image_title": "Fliesenleger Dating-Werbung-Legende: Indira lässt sich's schön kacheln"
-    },
-    {
-      "title": "Nach tödlichem Sturz vor Zug : Polizei sucht mutmaßlichen Rempler mit Brille",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/nach-toedlichem-sturz-vor-zug-polizei-sucht-mutmasslichen-rempler-mit-brille-80335128.bild.html",
-      "image_title": "Nach tödlichem Sturz vor Zug: Polizei sucht mutmaßlichen Rempler mit Brille"
-    },
-    {
-      "title": "Morddrohungen : Schamlippen-Chirurgin im Gericht verhaftet",
-      "teaser": "Eben war sie noch das Opfer, doch dann wurde sie plötzlich verhaftet.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/morddrohungen-gegen-mutmasslichen-pruegel-ex-schamlippen-chirurgin-im-gerichtssa-80323070.bild.html",
-      "image_title": "Hamburg: Morddrohungen gegen Ex: Schamlippen-Chirurgin verhaftet"
-    },
-    {
-      "title": "Kampfhund-Tragödie : Pitbull Rocky zerfleischt kleine Nisa (2)",
-      "teaser": "Die kleine Nisa wird ihr Leben lang entstellt sein. Der Hund, der ihr das antat, ist tot!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kampfhund-tragoedie-in-rahlstedt-pitbull-rocky-zerfleischt-kleine-nisa-2-80323412.bild.html",
-      "image_title": "Kampfhund-Tragödie in Rahlstedt: Pitbull Rocky zerfleischt kleine Nisa (2)"
-    },
-    {
-      "title": "Schlägerei auf offener Straße : Erst Streit zwischen zwei Gruppen - dann: Schuss!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schlaegerei-auf-offener-strasse-erst-streit-zwischen-zwei-gruppen-dann-schuss-80334232.bild.html",
-      "image_title": "Schlägerei auf offener Straße: Erst Streit zwischen zwei Gruppen - dann: Schuss!"
-    },
-    {
-      "title": "Drei Tage Party : Volles Programm zum Tag der Niedersachsen",
-      "teaser": "Zum Tag der Niedersachsen wird Hannover am Wochenende drei Tage lang zur Partymeile!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/drei-tage-party-volles-programm-zum-tag-der-niedersachsen-80334990.bild.html",
-      "image_title": "Drei Tage Party: Volles Programm zum Tag der Niedersachsen"
-    },
-    {
-      "title": "1. Landtagspräsidentin : Darum brauchen wir die Frauenquote",
-      "teaser": "Landtagspräsidentin Gabriele Andretta spricht bei BILD über Gleichberechtigung und Corona.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/erste-landtagspraesidentin-darum-brauchen-wir-die-frauenquote-80324042.bild.html",
-      "image_title": "Erste Landtagspräsidentin : Darum brauchen wir die Frauenquote"
-    },
-    {
-      "title": "Mit Teppichbetrug halbe Million Euro erbeutet : Goman-Clan nimmt erneut Senioren aus",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/leverkusen-goman-clan-nimmt-erneut-senioren-aus-80334478.bild.html",
-      "image_title": "Leverkusen: Goman-Clan nimmt erneut Senioren aus"
-    },
-    {
-      "title": "Nachwuchsstar Ella (16) : „Ich möchte zu James Bond“",
-      "teaser": "Die Kölner Nachwuchsschauspielerin Ella Päffgen (16) hat große Kino-Ziele.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koelner-nachwuchs-schauspielerin-ella-paeffgen-16-hat-grosse-kino-ziele-80328614.bild.html",
-      "image_title": "Kölner Nachwuchs-Schauspielerin Ella Päffgen (16) hat große Kino-Ziele"
-    },
-    {
-      "title": "Fotos mit Depressiven : Wer traurig ist, hat das Glück verloren",
-      "teaser": "Für ein Foto-Projekt von Manfred Jasmund haben sich 15 Depressive vor die Kamera getraut.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/fotograf-zeigt-depressive-menschen-wer-traurig-ist-hat-das-glueck-verloren-80328828.bild.html",
-      "image_title": "Fotograf zeigt depressive Menschen: Wer traurig ist, hat das Glück verloren"
-    },
-    {
-      "title": "Technischer Defekt : Polizeiauto im Einsatz auf A 36 abgefackelt",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-polizeiauto-im-einsatz-auf-der-a-36-abgefackelt-80333720.bild.html",
-      "image_title": "Unfall: Polizeiauto im Einsatz auf der A 36 abgefackelt"
-    },
-    {
-      "title": "DHfK-Kapitän Milosevic : Das Derby kommt nun zum Schluss",
-      "teaser": "Noch hält es der Klub streng geheim. Wahrscheinlich jedoch, dass ein XXL-Trikot von Alen Milosevic (32) künftig in der Ahnen-Galerie...",
-      "url": "https://www.bild.de/sport/regional-sport/regiosport-leipzig/sc-dhfk-das-macht-kapitaen-milosevic-nach-seinem-abschied-80329498.bild.html",
-      "image_title": "SC DHfK: Das macht Kapitän Milosevic nach seinem Abschied"
-    },
-    {
-      "title": "Entscheidung vertagt : Darum muss Laimer noch bis Juli warten",
-      "teaser": "Nach einer Top-Saison denkt Konrad Laimer an Wechsel. Der FC Bayern ist interessiert.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/rb-leipzig-entscheidung-aufgeschoben-laimer-muss-bis-juli-warten-80327978.bild.html",
-      "image_title": "RB Leipzig: Entscheidung aufgeschoben! Laimer muss bis Juli warten"
-    },
-    {
-      "title": "Attacke auf Marktplatz : Rockergewalt eskaliert in Urlaubsort an der Ostsee",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/attacke-in-ueckermuende-schlaegerei-unter-motorradclub-mitgliedern-80325634.bild.html",
-      "image_title": "Attacke in Ueckermünde: Schlägerei unter Motorradclub-Mitgliedern"
-    },
-    {
-      "title": "Schwesigs Kreml-Stiftung : Neuer Lügen-Verdacht!",
-      "teaser": "Übles Spiel mit der Wahrheit beim Skandal um die Kreml-Stiftung von Manuela Schwesig.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/schwesigs-kreml-stiftung-neuer-luegen-verdacht-80321078.bild.html",
-      "image_title": "Schwesigs Kreml-Stiftung: Neuer Lügen-Verdacht!"
-    },
-    {
-      "title": "ERICH MIELKE († 92) : Geheimer Frühstücksplan von Stasi-Chef aufgetaucht",
-      "teaser": "Der herrische Tschekist überließ nichts dem Zufall – selbst beim Frühstück.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/erich-mielke-der-geheime-fruehstuecksplan-des-stasi-chefs-80319836.bild.html",
-      "image_title": "Erich Mielke: Der geheime Frühstücksplan des Stasi-Chefs"
-    },
-    {
-      "title": "Dresscode Schwarz : Alexander Höllers Traumhochzeit",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/dresscode-schwarz-kuenstler-alexander-hoeller-feiert-traumhochzeit-80331274.bild.html",
-      "image_title": "Künstler Alexander Höller feiert in Rom Traumhochzeit"
-    },
-    {
-      "title": "In Bayern : DAS sind die fünf beliebtesten Hundenamen",
-      "teaser": "Wie heißen eigentlich die Vierbeiner im Freistaat? Dazu gibt es jetzt eine Untersuchung.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/in-bayern-das-sind-die-fuenf-beliebtesten-hundenamen-80335136.bild.html",
-      "image_title": "In Bayern: DAS sind die fünf beliebtesten Hundenamen"
-    },
-    {
-      "title": "Playmate des Jahres : Vanessa ist noch Single",
-      "teaser": "Vanessa Teske ist das neue Playmate des Jahres. Bei BILD verrät sie ihr größtes Geheimnis.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/playmate-des-jahres-vanessa-teske-ist-noch-single-80323494.bild.html",
-      "image_title": "Playmate des Jahres: Vanessa Teske ist noch Single"
-    },
-    {
-      "title": "Streit ums Kind : Schießerei mit Schreckschusswaffe",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/streit-ums-kind-schiesserei-mit-schreckschusswaffe-80335686.bild.html",
-      "image_title": "Streit ums Kind: Schießerei mit Schreckschusswaffe"
-    },
-    {
-      "title": "Laster verliert Anhänger : Drei Verletzte bei LKW-Unfall auf A9",
-      "teaser": "Drei Männer wurden bei einem Unfall auf der Autobahn 9 bei Schnaittach schwer verletzt.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/laster-verliert-anhaenger-drei-verletzte-bei-lkw-unfall-auf-a9-80334602.bild.html",
-      "image_title": "Laster verliert Anhänger: Drei Verletzte bei LKW-Unfall auf A9"
-    },
-    {
-      "title": "So kann's klappen : Aufstiegs-Einmaleins für den Club",
-      "teaser": "In der abgelaufenen Saison spielte der FCN lange Zeit um den Aufstieg mit.",
-      "url": "https://www.bild.de/sport/fussball/fussball/so-kanns-klappen-aufstiegs-einmaleins-fuer-den-fcn-80334416.bild.html",
-      "image_title": "So kann's klappen: Aufstiegs-Einmaleins für den FCN"
-    },
-    {
-      "title": "Mann in Dortmund erstochen : Festnahme ein Jahr nach Hausflur-Bluttat",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/mann-in-dortmund-erstochen-festnahme-ein-jahr-nach-hausflur-bluttat-80334748.bild.html",
-      "image_title": "Mann in Dortmund erstochen: Festnahme ein Jahr nach Hausflur-Bluttat"
-    },
-    {
-      "title": "5 Talente für Terzic : Wer der nächste BVB-Star wird",
-      "teaser": "Sancho, Reyna, Moukoko – drei Top-Spieler, die zuletzt den Karriere-Startschuss",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/bvb-5-talente-fuer-terzic-wer-der-naechste-bvb-star-wird-80335226.bild.html",
-      "image_title": "BVB: 5 Talente für Terzic: Wer der nächste BVB-Star wird"
-    },
-    {
-      "title": "Hardrocker entwickelt Parfüms : Axel Rudi Pell ist ‘ne echte Duft-Marke",
-      "teaser": "Axel Rudi Pell ist eine Marke im Hardrock, jetzt hat der Gitarris eine Duft-Marke hinterlassen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/bochum-hardrocker-axel-rudi-pell-ist-ne-echte-duft-marke-80325054.bild.html",
-      "image_title": "Bochum: Hardrocker Axel Rudi Pell ist ‘ne echte Duft-Marke"
-    },
-    {
-      "title": "FCS-Offensivmann über die neue saison : GÜNNI Habe keinen Bock mehr auf Platz 7",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-guenni-habe-keinen-bock-mehr-auf-platz-7-80330266.bild.html",
-      "image_title": "1. FC Saarbrücken: GÜNNI Habe keinen Bock mehr auf Platz 7"
-    },
-    {
-      "title": "Schild-Schreibfehler : Bitte mal genau lesen...",
-      "teaser": "Diesen Erfolg in den sozialen Netzwerken hätte sich die Stadt wohl lieber erspart...",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/schild-schreibfehler-bitte-mal-genau-lesen-80328380.bild.html",
-      "image_title": "Schild-Schreibfehler: Bitte mal genau lesen..."
-    },
-    {
-      "title": "Toter Rechtsanwalt : Er rühmte sich als „bester Kampfschütze Europas“",
-      "teaser": "Die Staatsanwaltschaft geht aktuell davon aus, dass sich Michael E. selbst erschossen hat.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/toter-rechtsanwalt-er-ruehmte-sich-als-bester-kampfschuetze-europas-80328540.bild.html",
-      "image_title": "Toter Rechtsanwalt: Er rühmte sich als „bester Kampfschütze Europas“"
-    },
-    {
-      "title": "Zwei Gebäude zerstört : 700 000 Euro Schaden bei Feuer",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/thueringen-aktuell/feuer-700000-euro-schaden-durch-grossbrand-80334302.bild.html",
-      "image_title": "Feuer: 700 000 Euro Schaden durch Großbrand"
-    },
-    {
-      "title": "Anonym verpfiffen : Hilfskoch rüstete Keller zum Drogen-Shop um",
-      "teaser": "Hannes L. (33) rüstete seinen Abstellraum zum Drogen-Shop um, lagerte dort u. a. Kokain und Cannabis.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/prozess-hilfskoch-ruestete-keller-zum-drogen-shop-um-80334168.bild.html",
-      "image_title": "Prozess: Hilfskoch rüstete Keller zum Drogen-Shop um"
-    },
-    {
-      "title": "Selbsternannte König Deutschlands : Mit diesen Tricks sicherte er sich ein Millionen-Schloss",
-      "teaser": "So erwarb er jetzt trickreich das Schloss Bärwalde (Kreis Görlitz) und das Schlößchen Wolfsgrün im Erzgebirgskreis.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/reichsbuerger-fitzek-mit-welchen-tricks-er-sich-jetzt-millionen-schloesser-siche-80320568.bild.html",
-      "image_title": "Reichsbürger Fitzek: Mit welchen Tricks er sich ein Millionen-Schloss sicherte"
-    },
-    {
-      "title": "Schwer verletzt : Frau wird aus Karussell geschleudert",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/vaihingen-an-der-enz-frau-schleudert-aus-karussell-schwer-verletzt-80335508.bild.html",
-      "image_title": "Vaihingen an der Enz: Frau schleudert aus Karussell – schwer verletzt"
-    },
-    {
-      "title": "Bei Verkehrskontrolle : Reichsbürger überfährt Polizist",
-      "teaser": "Eine Woche nach dem Vorfall in Kusel ermittelt die Kripo erneut einem Mordanschlag.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news/reichsbuerger-ueberfaehrt-polizist-schuesse-bei-verkehrskontrolle-79128252.bild.html",
-      "image_title": "Reichsbürger überfährt Polizist: Schüsse bei Verkehrskontrolle"
-    },
-    {
-      "title": "Kultusministerin Schopper : Streit um schwangere Lehrerinnen",
-      "teaser": "Ministerium und Schulbehörden sind sich uneinig über den Schutz schwangerer Lehrerinnen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/kultusministerin-schopper-streit-um-schwangere-lehrerinnen-80334082.bild.html",
-      "image_title": "Kultusministerin Schopper: Streit um schwangere Lehrerinnen"
-    },
-    {
-      "title": "Weil seine Frau (66) die Scheidung wollte : Ex-Polizist (70) sticht Nebenbuhler nieder",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/prozess-ex-polizist-70-sticht-nebenbuhler-65-nieder-80332222.bild.html",
-      "image_title": "Prozess: Ex-Polizist (70) sticht Nebenbuhler (65) nieder"
-    },
-    {
-      "title": "40 Kilometer lang : Mega-Stau auf A4 bei Bautzen",
-      "teaser": "Autofahrer auf der Autobahn 4 zwischen Görlitz und Bautzen brauchen starke Nerven.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/40-kilometer-lang-mega-stau-auf-a4-bei-bautzen-80324982.bild.html",
-      "image_title": "40 Kilometer lang: Mega-Stau auf A4 bei Bautzen"
-    },
-    {
-      "title": "Tierische Kunst : Ein echter PIGcasso rettet den Gnadenhof",
-      "teaser": "Grunzend steckt Dylan seinen Rüssel in eine Schale mit Beeren und malt auf eine Leinwand.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/tierschutz-in-weilrode-ein-echter-pigcasso-rettet-den-gnadenhof-80322656.bild.html",
-      "image_title": "Tierschutz in Weilrode: Ein echter PIGcasso rettet den Gnadenhof"
-    }
-  ]
+  "articles": []
 }
