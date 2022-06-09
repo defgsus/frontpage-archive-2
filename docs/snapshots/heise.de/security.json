@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-09T05:19:24",
+  "timestamp": "2022-06-09T06:26:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,9 +48,9 @@
       "url": "https://www.heise.de/news/Versionsverwaltung-GitLab-Update-schliesst-kritische-Sicherheitsluecke-7133286.html"
     },
     {
-      "title": "Verschlüsselnder USB-Stick von Verbatim unsicher: Experte zeigt Schwachstellen",
-      "teaser": "Gleich vier Sicherheitslücken hat der USB-Stick \"Verbatim Keypad Secure\" mit eingebauter PIN-Tastatur und der Hersteller reagiert nicht auf die Probleme.",
-      "url": "https://www.heise.de/news/Verschluesselnder-USB-Stick-von-Verbatim-unsicher-Experte-zeigt-Schwachstellen-7134990.html"
+      "title": "heise Security Tour 2022: Wissen schützt!",
+      "teaser": "Die jährliche Konferenz der heise-Security-Redaktion liefert praxisrelevantes Wissen für IT-Sicherheitsverantwortliche und Datenschützer.",
+      "url": "https://www.heise.de/news/heise-Security-Tour-2022-Wissen-schuetzt-7127587.html"
     },
     {
       "title": "Zero-Day-Lücke: Cybergangs missbrauchen MSDT-Leck für Qakbot-Infektionen",
@@ -59,15 +59,15 @@
       "image_title": "Aufmacher Qakbot missbraucht MSDT-Zero-Day-Lücke"
     },
     {
-      "title": "Fehler in Linux-Kernel ermöglicht Rechteausweitung",
-      "teaser": "Ein Fehler im Firewall-Code des Linux-Kernels ermöglicht es Nutzern, Befehle als Root auszuführen. Administratoren können einen Workaround anwenden.",
-      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html",
-      "image_title": "Aufmacher Rechteausweitung durch nftables-Lücke in Linux"
-    },
-    {
       "title": "Kritische Schadcode-Lücke bedroht Universal Boot Loader U-Boot",
       "teaser": "Die Entwickler von U-Boot haben zwei gefährliche Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Universal-Boot-Loader-U-Boot-7134785.html"
+    },
+    {
+      "title": "Angriff auf Sixt: Hacker griffen auf Kundendaten der Autovermietung zu",
+      "teaser": "Wie eine Untersuchung des IT-Sicherheitsvorfalls bei Sixt zeigt, hatten Hacker Zugriff unter anderem auf die Adressen von Kunden.",
+      "url": "https://www.heise.de/news/Hacker-der-Automvermietung-Sixt-griffen-auf-Kundendaten-zu-7134712.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
@@ -75,10 +75,10 @@
       "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
     },
     {
-      "title": "Angriff auf Sixt: Hacker griffen auf Kundendaten der Autovermietung zu",
-      "teaser": "Wie eine Untersuchung des IT-Sicherheitsvorfalls bei Sixt zeigt, hatten Hacker Zugriff unter anderem auf die Adressen von Kunden.",
-      "url": "https://www.heise.de/news/Hacker-der-Automvermietung-Sixt-griffen-auf-Kundendaten-zu-7134712.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+      "title": "Kein Passwort mehr für Passwortmanager LastPass",
+      "teaser": "Der Passwortmanager LastPass ermöglicht Desktop-Nutzern, sich über Authenticator-App per Gesichtserkennung oder Fingerabdruck zu authentifizieren.",
+      "url": "https://www.heise.de/news/Kein-Passwort-mehr-fuer-LastPass-7134607.html",
+      "image_title": "Aufmacher Lastpass Anmeldung ohne Passwort"
     },
     {
       "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
@@ -90,6 +90,12 @@
       "title": "Neu in iOS 16 & Co: Schnellere Patches, persönlicher Sicherheitscheck",
       "teaser": "Apple will Sicherheitsverbesserungen unabhängig von großen System-Updates ausliefern. Ein Sicherheitscheck soll Nutzern in missbräuchlichen Beziehungen helfen.",
       "url": "https://www.heise.de/news/Neu-in-iOS-16-Co-Schnellere-Patches-persoenlicher-Sicherheitscheck-7134177.html"
+    },
+    {
+      "title": "Forscher demonstriert Tesla-Klau mit heimlich eingeschleustem Nachschlüssel",
+      "teaser": "Teslas drahtlose Schlüssel bergen Risiken. Nach den Relay-Angriffen auf Bluetooth LE demonstriert ein Forscher nun Missbrauchspotential der NFC-Karten.",
+      "url": "https://www.heise.de/news/Forscher-demonstriert-Tesla-Klau-mit-heimlich-eingeschleustem-Nachschluessel-7133766.html",
+      "image_title": "Tesla"
     },
     {
       "title": "Zero-Day-Lücke: Optimierte Angriffe auf Microsofts Diagnostic Tool (MSDT)",
@@ -155,12 +161,6 @@
       "teaser": "Sicheres Online-Banking, sogar auf infizierten Rechnern: Das klingt unmöglich? Nicht weniger versprechen Sparkassen mit ihrem Banking-Browser S-Protect.",
       "url": "https://www.heise.de/news/c-t-entdeckt-Sicherheitsmaengel-in-Banking-Software-der-Sparkasse-7126688.html",
       "image_title": ","
-    },
-    {
-      "title": "Europol: FluBot-Infrastruktur unter Kontrolle von Strafverfolgern",
-      "teaser": "Internationale Strafverfolger konnten die SMS-basierte Android-Spyware FluBot einbremsen. Dies gelang durch die Übernahme der FluBot-Infrastruktur.",
-      "url": "https://www.heise.de/news/Europol-FluBot-Infrastruktur-unter-Kontrolle-von-Strafverfolgern-7130270.html",
-      "image_title": "Aufmacher Eurpol legt FluBot lahm"
     },
     {
       "title": "heise Security Tour 2022",
