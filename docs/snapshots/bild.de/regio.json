@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-06-09T09:21:22",
+  "timestamp": "2022-06-09T10:25:19",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +25,370 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.e10bebe4.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.a6f232cb.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.2f666cb0.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.a4568248.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.70bc7477.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.550c0e4d.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Wegen Regenbogenfahne : Hetzjagd auf drei Schülerinnen an Realschule",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-hetzjagd-auf-drei-schuelerinnen-wegen-regenbogenfahne-80342540.bild.html",
+      "image_title": "Dortmund: Hetzjagd auf drei Schülerinnen wegen Regenbogenfahne"
+    },
+    {
+      "title": "Wilde Verfolgung in Berlin : VW-Fahrer rammt Polizeiautos, verletzt Beamte",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-vw-fahrer-rammt-polizeiautos-und-verletzt-mehrere-beamte-80346440.bild.html",
+      "image_title": "Berlin: VW-Fahrer rammt Polizeiautos und verletzt mehrere Beamte"
+    },
+    {
+      "title": "Amok-Fahrt in Berlin : Warum standen hier keine Poller?",
+      "teaser": "Nach dem Terroranschlag von 2016 gibt es Poller am Breitscheidplatz, aber nicht gegenüber.",
+      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/amok-fahrt-in-berlin-trotz-poller-gelang-auto-auf-den-gehweg-80344494.bild.html",
+      "image_title": "Amok-Fahrt in Berlin: Warum gelang das Auto auf den Gehweg? Warum keine Poller?"
+    },
+    {
+      "title": "Amokfahrt in Berlin : Das steckt hinter dem Spezialteam „QIT“",
+      "teaser": "In der Hauptstadt waren Polizisten mit Armbinden im Einsatz. BILD erklärt deren Aufgabe.",
+      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/auffaellige-ermittler-nach-amokfahrt-in-berlin-das-steckt-hinter-dem-spezialteam-80342626.bild.html",
+      "image_title": "Besondere Ermittlungseinheit untersucht Amokfahrt: Die Experten des Spezialteams „QIT“"
+    },
+    {
+      "title": "Neue Details zum Doppelmord von Fischerhude : Er tötete sein Opfer im Schlaf",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/neue-details-zum-doppelmord-von-fischerhude-er-toetete-sein-opfer-73-im-schlaf-80336224.bild.html",
+      "image_title": "Neue Details zum Doppelmord von Fischerhude: Er tötete sein Opfer (73) im Schlaf"
+    },
+    {
+      "title": "Jugend-Forscht-Preis : Hendrik (16) macht Raketen-Karriere",
+      "teaser": "Hendrik Ridder aus Bremen räumte beim Bundesfinale von „Jugend forscht“ ab.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/super-tueftler-bei-jugend-forscht-hendrik-16-macht-raketen-karriere-80336158.bild.html",
+      "image_title": "Super-Tüftler bei Jugend forscht: Hendrik (16) macht Raketen-Karriere"
+    },
+    {
+      "title": "Werder-Wechsel : So soll der Deal mit Singh laufen",
+      "teaser": "Sarpreet Singh steht kurz vor einem Werder-Wechsel. BILD weiß, wie der Deal laufen soll.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/werder-bremen-so-soll-der-deal-mit-sarpreet-singh-laufen-80344982.bild.html",
+      "image_title": "Werder Bremen: So soll der Deal mit Sarpreet Singh laufen"
+    },
+    {
+      "title": "E-Trabant selbst gebaut : Diese Rennpappe tankt jetzt Strom",
+      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/umbau-hat-7000-euro-gekostet-dieser-trabi-tankt-jetzt-strom-80345908.bild.html",
+      "image_title": "Auto: Dieser Trabant tankt jetzt Strom"
+    },
+    {
+      "title": "Zur Landratswahl in Sachsen : Welche Macht die Extremisten bei einem Sieg hätten",
+      "teaser": "Seit 2008 sind alle Kreise in Sachsen fest in CDU-Hand. Das könnte sich nun ändern!",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/landtagswahl-sachsen-wie-rechtsextreme-die-cdu-unter-druck-setzen-80342948.bild.html",
+      "image_title": "Landratswahl in Sachsen: Wie Rechtsextreme die CDU unter Druck setzen"
+    },
+    {
+      "title": "„Sachsen-Botschaft“ in Berlin angegriffen : Antifa bekennt sich zu Anschlag auf Landesvertretung",
+      "teaser": "Zu dem Angriff auf die sächsische Landesvertretung in Berlin bekannte sich die Antifa.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/antifa-bekennt-sich-zu-attacke-auf-saechsische-landesvertretung-80346482.bild.html",
+      "image_title": "Antifa bekennt sich zu Attacke auf sächsische Landesvertretung"
+    },
+    {
+      "title": "Großeinsatz der Polizei in Halle : Hauptbahnhof nach Drohung teilweise gesperrt",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/polizei-im-einsatz-hauptbahnhof-halle-nach-drohung-teils-gesperrt-80345152.bild.html",
+      "image_title": "Polizei: Hauptbahnhof Halle nach Drohung teils gesperrt"
+    },
+    {
+      "title": "Verdächtiger frei! : Vernichtet ER jetzt Beweise vom Juwelendiebstahl?",
+      "teaser": "Jihad R. soll beim Juwelen-Diebstahl Beihilfe geleistet haben. Jetzt wurde er freigelassen.",
+      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/juwelenklau-im-gruenen-gewoelbe-darum-ist-ein-clan-mitglied-ploetzlich-wieder-fr-80338832.bild.html",
+      "image_title": "Grünes Gewölbe Dresden: Vernichtet ER jetzt Beweise vom Juwelendiebstahl?"
+    },
+    {
+      "title": "Sachsens höchste Herberge : Wirt vom Fichtelberghaus wirft hin",
+      "teaser": "Bereits im Frühjahr mussten Hotel und Restaurant wegen Sanierungen für sechs Wochen schließen. Jetzt kommt das endgültige Aus.",
+      "url": "https://www.bild.de/bild-plus/regional/chemnitz/chemnitz-news/sachsen-wirt-vom-fichtelberghaus-wirft-hin-80344600.bild.html",
+      "image_title": "Sachsen: Wirt vom Fichtelberghaus wirft hin"
+    },
+    {
+      "title": "Gladbach-Rumms : Farke muss richtig aufräumen!",
+      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-daniel-farke-muss-knallhart-aufraeumen-80344368.bild.html",
+      "image_title": "Borussia Mönchengladbach: Daniel Farke muss knallhart aufräumen!"
+    },
+    {
+      "title": "Neue Farke-Regel : Kabinen-Revolution in Gladbach!",
+      "teaser": "Der neue Gladbach-Coach Daniel Farke hat genaue Vorstellungen – auch für das Kabinen-Leben",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/borussia-moenchengladbach-kabinen-revolution-in-gladbach-80322618.bild.html",
+      "image_title": "Borussia Mönchengladbach: Kabinen-Revolution in Gladbach!"
+    },
+    {
+      "title": "Bürokratie-Ärger in NRW : Tagesmutter darf Flüchtling (14) NICHT aufnehmen",
+      "teaser": "Tanja F. (50) möchte Ukraine-Flüchtling Arseniy (14) aufnehmen. Doch es gibt Einwände.",
+      "url": "https://www.bild.de/bild-plus/regional/duesseldorf/duesseldorf-aktuell/buerokratie-aerger-tagesmutter-darf-ukraine-fluechtling-14-nicht-aufnehmen-80330524.bild.html",
+      "image_title": "Bürokratie-Ärger: Tagesmutter darf Ukraine-Flüchtling (14) nicht aufnehmen"
+    },
+    {
+      "title": "Frau erschossen : Supermarkt-Killer hatte keine Waffenerlaubnis",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frau-erschossen-supermarkt-killer-hatte-keine-waffenerlaubnis-80346694.bild.html",
+      "image_title": "Schwalmstadt: Frau in Aldi-Supermarkt erschossen: Killer hatte keine Waffenerlaubnis"
+    },
+    {
+      "title": "Amok-Fahrer raste in Schulklasse : Abschlussfahrt in den Tod",
+      "teaser": "Die bei der Amok-Fahrt getötete Lehrerin und ihre Schüler kommen aus Bad Arolsen (Hessen).",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/bad-arolsen-amok-fahrer-rast-in-schueler-es-war-ihre-abschlussfahrt-80343174.bild.html",
+      "image_title": "Amok-Fahrer rast in Schüler aus Bad Arolsen: Es war ihre Abschlussfahrt"
+    },
+    {
+      "title": "Raubüberfall : Rentner gefesselt und in Kofferraum gesteckt",
+      "teaser": "Als ein Rentner einen Ast von der Straße schieben wollte, kam ein Räuber aus dem Nichts.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/fahndung-nach-raub-rentner-gefesselt-und-in-kofferraum-gesteckt-80344562.bild.html",
+      "image_title": "Fahndung nach Raub: Rentner gefesselt und in Kofferraum gesteckt"
+    },
+    {
+      "title": "Schamlippen-Chirurgin festgenommen : Heuerte sie einen Auftragskiller an?",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/schamlippen-chirurgin-im-gericht-festgenommen-heuerte-sie-einen-auftragskiller-a-80337854.bild.html",
+      "image_title": "Schamlippen-Chirurgin im Gericht festgenommen: Heuerte sie einen Auftragskiller an?"
+    },
+    {
+      "title": "War es Brandstiftung? : Feuer in Mehrfamilienhaus - Zwölf Verletzte!",
+      "teaser": "Bei einem Hausbrand sind am Mittwoch zwölf Menschen verletzt worden.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/war-es-brandstiftung-feuer-in-mehrfamilienhaus-zwoelf-verletzte-80345206.bild.html",
+      "image_title": "War es Brandstiftung?: Feuer in Mehrfamilienhaus - Zwölf Verletzte!"
+    },
+    {
+      "title": "Striptease vor Hochzeit : Hose runter, ich heirate!",
+      "teaser": "Ex-Box-Weltmeisterin Alicia Melina Kummer (33) ließ es vor ihrer Hochzeit mächtig krachen!",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/boxweltmeisterin-goennt-sich-stripper-hose-runter-ich-heirate-80337892.bild.html",
+      "image_title": "Boxweltmeisterin gönnt sich Stripper: Hose runter, ich heirate!"
+    },
+    {
+      "title": "Mobiles Gartenhaus : Einsteigen und wachsen",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/kestner-gesellschaft-schafft-mobiles-gartenhaus-einsteigen-und-wachsen-80336214.bild.html",
+      "image_title": "Kestner Gesellschaft schafft mobiles Gartenhaus: Einsteigen und wachsen"
+    },
+    {
+      "title": "83-Jährige überfallen : Fahndung nach Oma-Räubern",
+      "teaser": "Heidrun L. (83) lässt sich nicht fotografieren. Sie hat Angst!",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/83-jaehrige-im-bad-ueberfallen-fahndung-nach-oma-raeubern-in-neubau-siedlung-80336206.bild.html",
+      "image_title": "83-Jährige im Bad überfallen: Fahndung nach Oma-Räubern in Neubau-Siedlung"
+    },
+    {
+      "title": "Tag der Niedersachsen : „Dimension, die Hannover alle zehn Jahre erlebt“",
+      "teaser": "Freitag startet der „Tag der Niedersachsen“. Mehr als 400.000 Besucher werden erwartet",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/tag-der-niedersachsen-dimension-die-hannover-alle-10-jahre-erlebt-80336210.bild.html",
+      "image_title": "Tag der Niedersachsen: „Dimension, die Hannover alle 10 Jahre erlebt“"
+    },
+    {
+      "title": "2 Grad kälter, weil das Heizen zu teuer ist : Bibber-Alarm in unseren Bädern",
+      "url": "https://www.bild.de/politik/inland/politik-inland/wegen-hoher-energiekosten-schwimmbaeder-werden-immer-kaelter-80339992.bild.html",
+      "image_title": "Wegen hoher Energiekosten: Schwimmbäder werden immer kälter"
+    },
+    {
+      "title": "Brutalo-Streit im Hotel : Er soll ihm einen Finger abgeschnitten haben",
+      "teaser": "Köln – Es müssen brutale Szenen gewesen sein, die sich in dem Kölner Hotelzimmer abgespielt haben! Der Prozess zu der unfassbaren Ta...",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/streit-im-hotelzimmer-mann-soll-kontrahent-finger-abgeschnitten-haben-80341148.bild.html",
+      "image_title": "Streit im Hotelzimmer: Mann soll Kontrahent Finger abgeschnitten haben"
+    },
+    {
+      "title": "Als Babysitter getarnt : Kölner (33) soll Kinder missbraucht haben",
+      "teaser": "Ein Kölner (33) soll als Babysitter getarnt vier Kinder sexuell missbraucht haben.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/als-babysitter-getarnt-koelner-33-soll-kinder-missbraucht-haben-80341056.bild.html",
+      "image_title": "Als Babysitter getarnt: Kölner (33) soll Kinder missbraucht haben"
+    },
+    {
+      "title": "Tierischer Einsatz auf der A72 in Sachsen : Oh Gott, meine Ponys!",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-ponys-nach-lkw-crash-gerettet-80345680.bild.html",
+      "image_title": "Unfall: Ponys nach Lkw-Crash gerettet"
+    },
+    {
+      "title": "2 Körperverletzungen : Polizei jagt Corona-Wächterin mit Kinderwagen",
+      "teaser": "Zweimal schlug die Unbekannte in einem Bus und einer Straßenbahn zu.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-polizei-jagt-corona-waechterin-mit-kinderwagen-80344866.bild.html",
+      "image_title": "Leipzig: Polizei jagt Corona-Wächterin mit Kinderwagen"
+    },
+    {
+      "title": "Lok Leipzig : Das Geheimnis der Bagger-Wette",
+      "teaser": "Baggerwetten gibt es beim TV-Klassiker „Wetten, dass..?“ – und nun auch beim FC Lok zu bestaunen.",
+      "url": "https://www.bild.de/sport/fussball/fussball/lok-leipzig-das-geheimnis-der-bagger-wette-80339864.bild.html",
+      "image_title": "Lok Leipzig: Das Geheimnis der Bagger-Wette"
+    },
+    {
+      "title": "Sie passt auf Küken auf : Elisa, die Nandu-Nanny",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/dessau-elisa-die-nandu-nanny-80337008.bild.html",
+      "image_title": "Dessau: Elisa, die Nandu-Nanny"
+    },
+    {
+      "title": "Fast 200 Jobs weg : Oettinger macht Brauerei im Osten dicht",
+      "teaser": "Der Bier-Riese Oettinger will seinen Thüringer Standort in Gotha am Jahresende dichtmachen.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/gotha-oettinger-schliesst-brauerei-in-thueringen-80337582.bild.html",
+      "image_title": "Gotha: Oettinger schließt Brauerei in Thüringen"
+    },
+    {
+      "title": "Moped-Kult : Gastwirt sammelt verrückte Simsons",
+      "teaser": "Die kultigen „Essis“ aus Suhl haben es ihm angetan – Gastwirt Jürgen Hartmann (69) aus Worbis.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/moped-kult-gastwirt-sammelt-verrueckte-simsons-80334594.bild.html",
+      "image_title": "Moped-Kult: Gastwirt sammelt verrückte Simsons"
+    },
+    {
+      "title": "Richter verdonnert Benjamin Spiehs zu 2240 Euro : Sohn von Film-Mogul vorbestraft!",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/sohn-von-film-mogul-karl-spiehs-verurteilt-und-vorbestraft-80347168.bild.html",
+      "image_title": "Sohn von Film-Mogul Karl Spiehs verurteilt und vorbestraft!"
+    },
+    {
+      "title": "Tierpark in Österreich : „Pele“ endlich im neuen Heim angekommen",
+      "teaser": "Der aus einer Holzkiste befreite Puma ist jetzt endlich im neuen Zuhause angekommen.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/tierpark-in-oesterreich-aus-kiste-befreiter-puma-im-neuen-zuhause-80346582.bild.html",
+      "image_title": "Tierpark in Österreich: Aus Kiste befreiter Puma im neuen Zuhause"
+    },
+    {
+      "title": "Nanga Parbat : Zweiter Schuh von Messners totem Bruder gefunden",
+      "teaser": "Günther Messner starb 1970 auf dem Nanga Parbat. Einer seiner Schuhe wurde schon entdeckt.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nanga-parbat-zweiter-schuh-von-messners-totem-bruder-gefunden-80346890.bild.html",
+      "image_title": "Nanga Parbat: Zweiter Schuh von Messners totem Bruder gefunden"
+    },
+    {
+      "title": "Milan, Weihe und Rabenkrähe : Acht Greifvögel sterben an Gift-Hühnern",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/milan-weihe-und-rabenkraehe-acht-greifvoegel-sterben-an-gift-huehnern-80346350.bild.html",
+      "image_title": "Milan, Weihe und Rabenkrähe: Acht Greifvögel sterben an Gift-Hühnern"
+    },
+    {
+      "title": "A3 bei Erlangen : Stau-Ende: Laster zerstört, Fahrer tot",
+      "teaser": "Eine Panne führte zu einem Stau. Den übersah der Fahrer eines Sattelschleppers.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/a3-bei-erlangen-stau-ende-laster-zerstoert-fahrer-tot-80345056.bild.html",
+      "image_title": "A3 bei Erlangen: Stau-Ende: Laster zerstört, Fahrer tot"
+    },
+    {
+      "title": "Hofgarten Ansbach : Enten sind die Schnecken-Jäger der Grafen",
+      "teaser": "Der Hofgarten in Ansbach hat ein Schneckenproblem. Die Lösung quakt.",
+      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/hofgarten-ansbach-enten-sind-die-schnecken-jaeger-der-grafen-80344760.bild.html",
+      "image_title": "Hofgarten Ansbach: Enten sind die Schnecken-Jäger der Grafen"
+    },
+    {
+      "title": "2. Neuzugang : Bochum schnappt sich diesen Bundesliga-Star!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/zweiter-neuzugang-der-vfl-bochum-schnappt-sich-diesen-bundesliga-star-80341186.bild.html",
+      "image_title": "Zweiter Neuzugang: Der VfL Bochum schnappt sich diesen Bundesliga-Star!"
+    },
+    {
+      "title": "Trotz Corona-Pandemie : Jagen ist der Mega-Trend",
+      "teaser": "Noch bis Sonntag läuft in Dortmund die größte europäische Jagdmesse „Jagd & Hund“.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-trotz-corona-pandemie-bleibt-jagen-der-mega-trend-80342264.bild.html",
+      "image_title": "Dortmund: Trotz Corona-Pandemie bleibt Jagen der Mega-Trend"
+    },
+    {
+      "title": "Vier Kegelbrüder frei : Mit Plastiktüten in die Freiheit!",
+      "teaser": "Nach fast drei Wochen Knast sind vier weitere Kegel-Brüder auf Mallorca frei.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/kegel-brueder-auf-mallorca-barbrand-hier-kommen-vier-von-ihnen-frei-80342202.bild.html",
+      "image_title": "Kegel-Brüder auf Mallorca: Barbrand! Hier kommen vier von ihnen frei"
+    },
+    {
+      "title": "Travestie-Künstler Nico Heib : Meine Verwandlung dauert zwei Stunden",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/travestie-kuenstler-nico-heib-meine-verwandlung-dauert-zwei-stunden-80338950.bild.html",
+      "image_title": "Travestie-Künstler Nico Heib: Meine Verwandlung dauert zwei Stunden"
+    },
+    {
+      "title": "Nach 5 Jahren in Haft : Totschläger will Aufenthaltserlaubnis einklagen",
+      "teaser": "Heute vergießt Ashwani T. (42) keine Tränen im Sitzungssaal 1 des Verwaltungsgerichts. Anders als vor vier Jahren...",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/nach-5-jahren-in-haft-totschlaeger-will-aufenthaltserlaubnis-einklagen-80338862.bild.html",
+      "image_title": "Nach 5 Jahren in Haft: Totschläger will Aufenthaltserlaubnis einklagen"
+    },
+    {
+      "title": "FCS-Offensivmann über die neue saison : GÜNNI Habe keinen Bock mehr auf Platz 7",
+      "teaser": "Am Sonntag knallt Saarbrücken wieder los. Vorher spricht „Günni“ in BILD über seine Ziele",
+      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-guenni-habe-keinen-bock-mehr-auf-platz-7-80330266.bild.html",
+      "image_title": "1. FC Saarbrücken: GÜNNI Habe keinen Bock mehr auf Platz 7"
+    },
+    {
+      "title": "1. FC Magdeburg : Bayern-Juwel Lawrence kommt",
+      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-magdeburg-bayern-juwel-lawrence-kommt-80340674.bild.html",
+      "image_title": "1. FC Magdeburg: Bayern-Juwel Lawrence kommt"
+    },
+    {
+      "title": "Hallescher FC : Mesenhöler vor der Unterschrift",
+      "teaser": "Das Personalkarussell beim Halleschen FC dürfte in den nächsten Tagen Fahrt aufnehmen.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hallescher-fc-mesenhoeler-vor-der-unterschrift-80340922.bild.html",
+      "image_title": "Hallescher FC: Mesenhöler vor der Unterschrift"
+    },
+    {
+      "title": "Strompreis um 500 Prozent rauf! : Wie ein Unternehmer um seine Existenz kämpft",
+      "teaser": "500 Prozent mehr soll Unternehmer Maik Biedermann für jede Strom-Kilowattstunde bezahlen.",
+      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/strompreis-500-prozent-rauf-wie-ein-unternehmer-um-seine-existenz-kaempft-80330584.bild.html",
+      "image_title": "Strompreis 500 Prozent rauf! Wie ein Unternehmer um seine Existenz kämpft"
+    },
+    {
+      "title": "EU-Votum : Mercedes begrüßt Verbrenner-Aus",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/eu-votum-mercedes-begruesst-verbrenner-aus-80347660.bild.html",
+      "image_title": "EU-Votum: Mercedes begrüßt Verbrenner-Aus"
+    },
+    {
+      "title": "Schwer verletzt : Arbeiter von Stapler überfahren",
+      "teaser": "Ein Arbeiter (52) ist von einem Teleskopstapler überfahren und schwer verletzt worden.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/schwer-verletzt-mann-in-aalen-von-teleskopstapler-ueberfahren-80345742.bild.html",
+      "image_title": "Schwer verletzt: Mann in Aalen von Teleskopstapler überfahren"
+    },
+    {
+      "title": "Villingen-Schwenningen : Brennende Häuser waren Flüchtlingsunterkünfte",
+      "teaser": "Drei Wohnhäuser haben im Stadtzentrum von Villingen-Schwenningen gebrannt.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/in-villingen-schwenningen-drei-wohnhaeuser-brennen-80340636.bild.html",
+      "image_title": "Villingen-Schwenningen: Brennende Häuser waren Flüchtlingsunterkünfte"
+    },
+    {
+      "title": "Ungewöhnliches Corona-Symptom : Sorge um Dschungel-Star Nico Schwanz",
+      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/ungewoehnliche-corona-symptome-sorge-um-dschungel-star-nico-schwanz-80330618.bild.html",
+      "image_title": "Ungewöhnliche Corona-Symptome: Sorge um Dschungel-Star Nico Schwanz"
+    },
+    {
+      "title": "Technischer Defekt : Polizeiauto im Einsatz auf A 36 abgefackelt",
+      "teaser": "Ein Einsatz der Polizei auf der Autobahn bei Quedlinburg endete im Flammeninferno.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-polizeiauto-im-einsatz-auf-der-a-36-abgefackelt-80333720.bild.html",
+      "image_title": "Unfall: Polizeiauto im Einsatz auf der A 36 abgefackelt"
+    },
+    {
+      "title": "Frau wollte die Scheidung : Ex-Polizist (70) sticht Nebenbuhler (65) nieder",
+      "teaser": "Die Anklage gegen den Ex-Polizisten lautet auf versuchten Mord und gefährliche Körperverletzung.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/prozess-ex-polizist-70-sticht-nebenbuhler-65-nieder-80332222.bild.html",
+      "image_title": "Prozess: Ex-Polizist (70) sticht Nebenbuhler (65) nieder"
+    }
+  ]
 }
