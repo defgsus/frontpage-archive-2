@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-10T11:18:13",
+  "timestamp": "2022-06-10T12:42:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PHP",
+      "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html"
+    },
+    {
       "title": "Fortinet",
       "url": "https://www.heise.de/news/Fortinet-entfernt-hartcodierten-Schluessel-und-verhindert-unberechtigte-Zugriffe-7136620.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Videokonferenz-Hardware-Meeting-Owl-Pro-wird-sicherer-bleibt-aber-noch-unsicher-7135941.html"
     },
     {
-      "title": "Zyxel Firewalls",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-veralteten-Zyxel-Firewalls-Neukauf-als-Fix-7135405.html"
+      "title": "PHP: Updates verhindern Einschleusen von Schadcode",
+      "teaser": "Fehler in PHP-Modulen zur Verbindung mit SQL-Datenbanken erlauben die Ausführung beliebigen Codes. Admins von Shared-Hosting-Servern sollten schnell updaten.",
+      "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html",
+      "image_title": "Aufmacher PHP-Update schließt RCE-Lücken"
+    },
+    {
+      "title": "Azure Firewall: Cloud-Service um Auto-Zertifikate und Web-Filter erweitert",
+      "teaser": "Microsoft schraubt an der Cloud-nativen Azure Firewall. In Zukunft können Admins auch eigene Private-IP-Adressbereiche hinzufügen und verwalten.",
+      "url": "https://www.heise.de/news/Azure-Firewall-Cloud-Service-um-Auto-Zertifikate-und-Web-Filter-erweitert-7136868.html"
     },
     {
       "title": "Webbrowser: Chrome-Update dichtet sieben Sicherheitslücken ab",
@@ -60,6 +71,11 @@
       "image_title": "Aufmacher Tails 5.1 verbessert Verbindungsassistent"
     },
     {
+      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
+      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
+    },
+    {
       "title": "Videokonferenz-Hardware Meeting Owl Pro wird sicherer, bleibt aber noch unsicher",
       "teaser": "Der Hersteller der 360-Grad-Kamera Meeting Owl Pro und Whiteboard Owl beginnt, gefährliche Sicherheitslücken zu schließen.",
       "url": "https://www.heise.de/news/Videokonferenz-Hardware-Meeting-Owl-Pro-wird-sicherer-bleibt-aber-noch-unsicher-7135941.html"
@@ -71,9 +87,9 @@
       "image_title": "Aufmacher Sicherheislücke in alten Zyxel-Firewalls ohne Fix"
     },
     {
-      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
-      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
+      "title": "heise Security Tour 2022: Wissen schützt!",
+      "teaser": "Die jährliche Konferenz der heise-Security-Redaktion liefert praxisrelevantes Wissen für IT-Sicherheitsverantwortliche und Datenschützer.",
+      "url": "https://www.heise.de/news/heise-Security-Tour-2022-Wissen-schuetzt-7127587.html"
     },
     {
       "title": "Verschlüsselnder USB-Stick von Verbatim unsicher: Experte zeigt Schwachstellen",
@@ -147,22 +163,6 @@
       "title": "Patchday: Google schließt Kernel- und Software-Lücken in Android",
       "teaser": "Besitzer von Android-Hardware sollte ihre Geräte aus Sicherheitsgründen auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Patchday-Google-schliesst-Kernel-und-Software-Luecken-in-Android-7133294.html"
-    },
-    {
-      "title": "Sicherheitspatch erschienen: Schadcode-Lücke bedroht Horde Webmail",
-      "teaser": "Angreifer könnten auf Server mit dem Framework Horde zum Umgang mit E-Mails zugreifen und im schlimmsten Fall eigenen Code ausführen.",
-      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-Horde-Webmail-Kein-Sicherheitspatch-in-Sicht-7132674.html",
-      "image_title": "Netzwerkkabel"
-    },
-    {
-      "title": "Phishing-Betrüger erbeuten erneut Bored Ape Yacht Club NFTs und Krypto-Währung",
-      "teaser": "Unbekannte Täter hatten Zugriff auf Discord-Server und haben mit Fake-Gewinnspielen 357.000 US-Dollar in NTFs und Kryptowährung gemacht.",
-      "url": "https://www.heise.de/news/Phishing-Betrueger-erbeuten-erneut-Bored-Ape-Yacht-Club-NFTs-und-Krypto-Waehrung-7132649.html"
-    },
-    {
-      "title": "Jetzt patchen! Lage um Attacken auf Atlassian Confluence spitzt sich zu",
-      "teaser": "Aufgrund von öffentlich verfügbarem Exploit-Code steigen die Attacken auf Confluence-Instanzen. Patches sind jetzt verfügbar.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html"
     },
     {
       "title": "heise Security Tour 2022",

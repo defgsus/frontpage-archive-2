@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-10T11:18:08",
+  "timestamp": "2022-06-10T12:42:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "AMD Ryzen 7000 und 8000: Zen 4 bringt 10 Prozent IPC-Plus, Zen 5 ab 2024",
+      "teaser": "Bisherige Performance-Angaben zu AMDs nächster Prozessorbaureihe Ryzen 7000 sollen eine Untertreibung gewesen sein. Nun gibt es neue Details.",
+      "url": "https://www.heise.de/news/AMD-Ryzen-7000-und-8000-Zen-4-bringt-10-Prozent-IPC-Plus-Zen-5-ab-2024-7136362.html"
+    },
+    {
       "title": "AMD Radeon RX 7000: Effizienz soll mit 5-nm-Chiplets stark ansteigen",
       "teaser": "Die RDNA3-Grafikarchitektur der nächsten Grafikkartenbaureihe Radeon RX 7000 erfährt größere Neuerungen. Dazu gehört ein Aufbau mit mehreren Chiplets.",
       "url": "https://www.heise.de/news/AMD-Radeon-RX-7000-Effizienz-steigt-mit-5-nm-Chiplets-stark-an-7136374.html"
@@ -36,10 +41,9 @@
       "url": "https://www.heise.de/news/Bericht-Microsoft-will-Boot-Festplatten-in-Komplett-PCs-abschaffen-7135576.html"
     },
     {
-      "title": "Fehler in Linux-Kernel ermöglicht Rechteausweitung",
-      "teaser": "Ein Fehler im Firewall-Code des Linux-Kernels ermöglicht es Nutzern, Befehle als Root auszuführen. Administratoren können einen Workaround anwenden.",
-      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html",
-      "image_title": "Aufmacher Rechteausweitung durch nftables-Lücke in Linux"
+      "title": "Recht: Vorschriften zu einer nachhaltigeren IT",
+      "teaser": "Energie- und Ressourcenschonung sind Grundpfeiler einer nachhaltigen IT. Auf deutscher und EU-Ebene sind weitere Vorgaben geplant.",
+      "url": "https://www.heise.de/hintergrund/Recht-Vorschriften-zu-einer-nachhaltigeren-IT-7134594.html"
     },
     {
       "title": "Ressourcennutzung: Elektroschrott vermeiden",
@@ -47,9 +51,30 @@
       "url": "https://www.heise.de/hintergrund/Ressourcennutzung-Elektroschrott-vermeiden-7134355.html"
     },
     {
-      "title": "Lieferabhängigkeiten: Knappe Rohstoffe als Richtungsweiser der Green IT",
-      "teaser": "Wie sich die IT weiterentwickeln wird, hängt auch vom Umgang der Hightechbranchen mit den von ihnen benötigten Rohstoffen ab.",
-      "url": "https://www.heise.de/hintergrund/Lieferabhaengigkeiten-Knappe-Rohstoffe-als-Richtungsweiser-der-Green-IT-7133240.html"
+      "title": "Firefox 101.0.1 mit kleineren Bug-Fixes",
+      "teaser": "Mozilla hat Version 101.0.1 von Firefox veröffentlicht. Mit der neuen Browser-Version wurden einige kleine Fehler behoben, darunter ein Kompatibilitätsproblem.",
+      "url": "https://www.heise.de/news/Firefox-101-0-1-mit-kleineren-Bug-Fixes-7137064.html"
+    },
+    {
+      "title": "PHP: Updates verhindern Einschleusen von Schadcode",
+      "teaser": "Fehler in PHP-Modulen zur Verbindung mit SQL-Datenbanken erlauben die Ausführung beliebigen Codes. Admins von Shared-Hosting-Servern sollten schnell updaten.",
+      "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html",
+      "image_title": "Aufmacher PHP-Update schließt RCE-Lücken"
+    },
+    {
+      "title": "c't <webdev>: Referenten gesucht",
+      "teaser": "Im November startet die Konferenz der c't für Frontend-Entwickler wieder in Präsenz. Die Redaktion sucht Referenten für Vorträge und Workshops.",
+      "url": "https://www.heise.de/news/c-t-webdev-Referenten-gesucht-7136200.html"
+    },
+    {
+      "title": "Azure Firewall: Cloud-Service um Auto-Zertifikate und Web-Filter erweitert",
+      "teaser": "Microsoft schraubt an der Cloud-nativen Azure Firewall. In Zukunft können Admins auch eigene Private-IP-Adressbereiche hinzufügen und verwalten.",
+      "url": "https://www.heise.de/news/Azure-Firewall-Cloud-Service-um-Auto-Zertifikate-und-Web-Filter-erweitert-7136868.html"
+    },
+    {
+      "title": "Funkwellen-Alarmanlage gegen Hardware-Attacken",
+      "teaser": "Forscher des Bochumer Max-Planck-Instituts für Sicherheit und Privatsphäre stellen einen neuartigen Schutz-Ansatz vor, um Hardware-Manipulationen aufzudecken.",
+      "url": "https://www.heise.de/news/Funkwellen-Alarmanlage-gegen-Hardware-Attacken-7136806.html"
     },
     {
       "title": "Apples neue Entwicklerwerkzeuge: Wo sich das Headset doch blicken lässt",
@@ -106,34 +131,6 @@
       "teaser": "Für robustere Rust-Objekte wagt die Kolumne einen Spagat: die Kombination eines alten Entwurfsmusters (Builder Pattern) mit der Mainstream-Technik Typestate.",
       "url": "https://www.heise.de/hintergrund/Ferris-Talk-9-Vom-Builder-Pattern-und-anderen-Typestate-Abenteuern-7134143.html",
       "image_title": "Ferris Talk – Neuigkeiten zu Rust. Eine Heise-Kolumne von Rainer Stropek und Stefan Baumgartner für Rustaceans"
-    },
-    {
-      "title": "Neuer Dell XPS 13 2-in-1 greift Apple iPad Pro und Microsoft Surface Pro an",
-      "teaser": "Das bisherige Modell des Convertible-Notebooks mit umklappbarem Bildschirm wird zum Tablet mit Tastatur. Dazu wird das traditionelle Dell XPS 13 modernisiert.",
-      "url": "https://www.heise.de/news/Neuer-Dell-XPS-13-2-in-1-greift-Apple-iPad-Pro-und-Microsoft-Surface-Pro-an-7136453.html",
-      "image_title": "Dell XPS 13 2-in-1 auf Tisch"
-    },
-    {
-      "title": "AMD Ryzen 7000 und 8000: Zen 4 bringt 10 Prozent IPC-Plus, Zen 5 ab 2024",
-      "teaser": "Bisherige Performance-Angaben zu AMDs nächster Prozessorbaureihe Ryzen 7000 sollen eine Untertreibung gewesen sein. Nun gibt es neue Details.",
-      "url": "https://www.heise.de/news/AMD-Ryzen-7000-und-8000-Zen-4-bringt-10-Prozent-IPC-Plus-Zen-5-ab-2024-7136362.html"
-    },
-    {
-      "title": "Smart Lights: Günstige Alternativen zu Philips Hue von Ikea, Ledvance und Co.",
-      "teaser": "Mit einer smarten Beleuchtung können Anwender ganz besondere Lichterlebnisse schaffen. Und wer dabei nicht auf Philips Hue setzt, spart viel Geld.",
-      "url": "https://www.techstage.de/ratgeber/bis-zu-40-gunstiger-philips-hue-alternativen-von-ikea-ledvance-paulmann-tint-and-co/rw2g1kw?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "3D-Software: Blender 3.2 schneidet alte Zöpfe ab",
-      "teaser": "Die Entwickler der quelloffenen 3D-Software Blender räumen mit dem Proxysystem und Geometry Nodes auf. Dadurch soll die Software effizienter werden.",
-      "url": "https://www.heise.de/news/Blender-3-2-schneidet-alte-Zoepfe-ab-7136294.html"
-    },
-    {
-      "title": "WeAreDevelopers World Congress 2022: in Präsenz in Berlin",
-      "teaser": "Der große Entwicklerkongress von WeAreDevelopers findet in Präsenz statt – vom 14. bis 15. Juni 2022 versammeln sich über 8000 Softwareentwickler in Berlin.",
-      "url": "https://www.heise.de/news/WeAreDevelopers-World-Congress-2022-steht-vor-der-Tuer-in-Praesenz-in-Berlin-7135746.html",
-      "image_title": "WeAreDevelopers World Congress 2021: erneut in digitaler Form -- diesmal mit einer Keynote von Tim Berners-Lee, dem Erfinder des World Wide Web"
     },
     {
       "title": "Champion in IT-Operations",
