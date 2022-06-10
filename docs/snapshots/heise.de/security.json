@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-10T07:21:09",
+  "timestamp": "2022-06-10T08:25:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Fortinet-entfernt-hartcodierten-Schluessel-und-verhindert-unberechtigte-Zugriffe-7136620.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-sieben-Sicherheitsluecken-ab-7136533.html"
     },
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-veralteten-Zyxel-Firewalls-Neukauf-als-Fix-7135405.html"
     },
     {
-      "title": "Zero-Day-Lücke in MSDT",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-Cybergangs-missbrauchen-MSDT-Leck-fuer-Qakbot-Infektionen-7134949.html"
-    },
-    {
-      "title": "Webbrowser: Chrome-Update dichtet sieben Sicherheitslücken ab",
-      "teaser": "Im Webbrowser Chrome finden sich mehrere Sicherheitslücken mit dem Schweregrad \"hoch\". Google schließt sie mit aktualisierten Versionen des Browsers.",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-sieben-Sicherheitsluecken-ab-7136533.html",
-      "image_title": "Aufmacher Google Chrome Sicherheitsupdate"
+      "title": "Fortinet entfernt hartcodierten Schlüssel und verhindert unberechtigte Zugriffe",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für mehrere Produkte von Fortinet. Einige Lücken gelten als kritisch.",
+      "url": "https://www.heise.de/news/Fortinet-entfernt-hartcodierten-Schluessel-und-verhindert-unberechtigte-Zugriffe-7136620.html"
     },
     {
       "title": "Anonymisierendes Linux: Tails 5.1 verbessert Verbindungsassistent",
@@ -85,6 +84,12 @@
       "teaser": "Die Cybergang hinter der Malware Quakbot missbraucht in Phishing-Kampagnen die MSDT-Zero-Day-Lücke. Infizierte Rechner verkauft sie meist an Ransomware-Banden.",
       "url": "https://www.heise.de/news/Zero-Day-Luecke-Cybergangs-missbrauchen-MSDT-Leck-fuer-Qakbot-Infektionen-7134949.html",
       "image_title": "Aufmacher Qakbot missbraucht MSDT-Zero-Day-Lücke"
+    },
+    {
+      "title": "Fehler in Linux-Kernel ermöglicht Rechteausweitung",
+      "teaser": "Ein Fehler im Firewall-Code des Linux-Kernels ermöglicht es Nutzern, Befehle als Root auszuführen. Administratoren können einen Workaround anwenden.",
+      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html",
+      "image_title": "Aufmacher Rechteausweitung durch nftables-Lücke in Linux"
     },
     {
       "title": "Kritische Schadcode-Lücke bedroht Universal Boot Loader U-Boot",
@@ -159,12 +164,6 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Lage-um-Attacken-auf-Atlassian-Confluence-spitzt-sich-zu-7132633.html"
     },
     {
-      "title": "Die Fähigkeiten von Desinfec't 2022 im Überblick",
-      "teaser": "Das Sicherheitstool der c’t-Redaktion ist in einer neuen Fassung erschienen. Damit jagen Sie Windows-Trojaner und erlegen sie – auch Einsteiger schaffen das.",
-      "url": "https://www.heise.de/hintergrund/Die-Faehigkeiten-von-Desinfec-t-2022-im-Ueberblick-7126692.html",
-      "image_title": ", Andreas Martini"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -186,6 +185,11 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Re: Desinfect 2022",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2022/posting-41121100/show/"
+    },
+    {
       "title": "Re: Totaler Absturz des Ubuntu unter Desinfect2022",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Totaler-Absturz-des-Ubuntu-unter-Desinfect2022/posting-41120649/show/"
@@ -194,11 +198,6 @@
       "title": "Re: Eset akualisiert die Signaturen nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Eset-akualisiert-die-Signaturen-nicht/posting-41120638/show/"
-    },
-    {
-      "title": "Re: Desinfect 2022",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2022/posting-41120596/show/"
     }
   ]
 }
