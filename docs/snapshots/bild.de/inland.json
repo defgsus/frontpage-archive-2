@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-10T19:17:01",
+  "timestamp": "2022-06-10T20:20:18",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.8efd092b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.c347d9db.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Eurojackpot Am Freitag : Haben Sie den 26 Millionen Euro Jackpot geknackt?",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-10-juni-80365288.bild.html",
-      "image_url": "https://images.bild.de/62a394ca008cb101ef2ef95f/c220ab152c600eada56b08d7f307a1dc,dc48b40a?w=656",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 10. Juni"
-    },
-    {
-      "title": "Sogar Pedale blockiert : Polizei stoppt Messie-Mercedes voller Müll",
-      "url": "https://www.bild.de/news/inland/news-inland/polizei-stoppt-messi-mercedes-voller-muell-80359192.bild.html",
-      "image_url": "https://images.bild.de/62a30d6f9471d247b32ab6b5/e70b9bf1eeddc8b3c29e17b1d9e2a2a7-miniSquare,bb792763?w=320",
-      "image_title": "Polizei stoppt Messi-Mercedes voller Müll"
-    },
-    {
-      "title": "aus hamburg angeliefert : 840 Kilo Kokain zwischen Supermarkt-Bananen entdeckt",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/tschechien-840-kilo-kokain-in-supermarkt-bananen-aus-hamburg-entdeckt-80364264.bild.html",
-      "image_url": "https://images.bild.de/62a377af008cb101ef2ef93c/0c0dabd90a47501c7b9bd23122abde26-miniSquare,666ea8d4?w=320",
-      "image_title": "Tschechien: 840 Kilo Kokain zwischen Supermarkt-Bananen aus Hamburg entdeckt"
-    },
-    {
-      "title": "Zwei Täter auf der Flucht : Mann (34) in Leipzig zu Tode geprügelt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/polizei-mann-34-in-leipzig-brutal-verpruegelt-lebensgefahr-80348720.bild.html",
-      "image_url": "https://images.bild.de/62a1d852783d1871d27a351d/4b5f9d452eb170e9964600e56fb537bb-miniSquare,878eb641?w=320",
-      "image_title": "Leipzig: Zwei Täter auf der Flucht – Mann zu Tode geprügelt!"
-    },
-    {
-      "title": "Hotel-Dynastie : Hier gräbt Felix Adlon Hotel-Königin Hedda aus",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/grosse-liebesgeschichte-hier-graebt-felix-adlon-eine-hotel-legende-aus--80329780.bild.html",
-      "image_url": "https://images.bild.de/629f6d096f6eec1858994eee/070e642ea9ae3ce6219d40175914378d-miniSquare,90af472b?w=320",
-      "image_title": "Große Liebesgeschichte: Hier gräbt Felix Adlon eine Hotel-Legende aus"
-    },
-    {
-      "title": "Rekord-Fund! : Warum Solarstrom bald günstiger werden könnte",
-      "teaser": "Ein Chemiestudent aus Deutschland entdeckt durch Zufall einen neuen Leuchtstoff!",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/strom-warum-solarzellen-bald-guenstiger-werden-koennten-80353820.bild.html",
-      "image_title": "Strom: Warum Solarzellen bald günstiger werden könnten"
-    },
-    {
-      "title": "Massencrash auf der A14 : Feuerwehr selbst in Unfall verwickelt",
-      "teaser": "Am Donnerstag starben bei einem Massencrash drei Menschen, 19 wurden verletzt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-feuerwehr-auf-weg-zum-todes-crash-verunglueckt-80360204.bild.html",
-      "image_title": "Unfall: Feuerwehr auf Weg zum Todes-Crash verunglückt"
-    },
-    {
-      "title": "Jugend-Fußballmannschaft verwickelt : 3 Tote, 19 Verletze bei Massencrash auf A14",
-      "teaser": "Am Donnerstag sind bei einem Massencrash drei Menschen getötet und 19 weitere verletzt worden.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/dresden-aktuell/unfall-auf-a14-bei-halle-3-tote-19-verletze-bei-massencrash-auf-a14-80353466.bild.html",
-      "image_title": "Unfall auf A14 bei Halle: 3 Tote, 19 Verletze bei Massencrash auf A14"
-    },
-    {
-      "title": "Easyjet-Streik Berlin : Mitarbeiter melden sich aus Frust krank!",
-      "teaser": "Seit Wochen fallen täglich etwa acht Easyjet-Flüge am BER aus. Der Grund: Sparmaßnahmen.",
-      "url": "https://www.bild.de/news/inland/news-inland/easyjet-streik-am-ber-in-berlin-mitarbeiter-melden-sich-aus-frust-krank-80356386.bild.html",
-      "image_title": "Easyjet-Streik am BER in Berlin: Mitarbeiter melden sich aus Frust krank!"
-    },
-    {
-      "title": "Sexueller Missbrauch : Pfleger drehten Vibrator-Video mit 89-Jähriger",
-      "teaser": "Zwei Pfleger erniedrigten eine wehrlose alte Dame (89), missbrauchten sie sexuell und filmten alles.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sexueller-missbrauch-pfleger-drehten-vibrator-video-mit-89-jaehriger-80356412.bild.html",
-      "image_title": "Sexueller Missbrauch: Pfleger drehten Vibrator-Video mit 89-Jähriger"
-    },
-    {
-      "title": "Auch Mann (77) schwerverletzt : 85-Jährige fährt Frau (92) beim Ausparken tot",
-      "teaser": "Die Autofahrerin raste unkontrolliert rückwärts und kollidierte dabei mit zwei Passanten.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/toedlicher-ausparkunfall-85-jaehrige-faehrt-frau-92-tot-80358016.bild.html",
-      "image_title": "Unfall: 85-Jährige fährt Frau (92) tot"
-    },
-    {
-      "title": "Jüdische Reporterin : Meine 48 Stunden mit einem Neonazi",
-      "teaser": "Tommy Frenck ist Neonazi. Jetzt will der ehemalige NPD-Politiker Bürgermeister werden.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/juedische-chefreporterin-trifft-rechtsextremen-frenck-48-stunden-mit-einem-neona-80353462.bild.html",
-      "image_title": "Jüdische Chefreporterin trifft Rechtsextremen Frenck: 48 Stunden mit einem Neonazi"
-    },
-    {
-      "title": "Freiburg : Erster Affenpocken-Patient verlässt Klinik",
-      "teaser": "Der erste Affenpocken-Patient in BaWü infizierte sich mit der westafrikanischen Variante .",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/baden-wuerttemberg-erster-affenpocken-patient-verlaesst-klinik-80357424.bild.html",
-      "image_title": "Baden-Württemberg: Erster Affenpocken-Patient verlässt Klinik"
-    },
-    {
-      "title": "Sie passt auf Küken auf : Elisa, die Nandu-Nanny",
-      "teaser": "Wenn Elisa Heubner (19) das Gehege der Nandus betritt, schaut sie nicht auf die Tiere, sondern in den Himmel.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/dessau-elisa-die-nandu-nanny-80337008.bild.html",
-      "image_title": "Elisa Huebner (19) hütet Nandu-Küken"
-    },
-    {
-      "title": "E-Trabant selbst gebaut : Diese Rennpappe tankt jetzt Strom",
-      "teaser": "Für seinen E-Trabi besorgte sich der Rentner 32 Tesla-Batterien, schaltet sie hintereinander.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/umbau-hat-7000-euro-gekostet-dieser-trabi-tankt-jetzt-strom-80345908.bild.html",
-      "image_title": "Rentner baut Tesla-Batterien in Trabant - Rennpappe fährt jetzt mit Strom"
-    },
-    {
-      "title": "Großeinsatz der Polizei : Razzien wegen Schleuser-Verdacht",
-      "teaser": "300 Polizisten führen Razzien in mehreren Objekten rund um ein Hotel durch.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/schleuser-verdacht-polizei-grosseinsatz-in-bitterfeld-wolfen-80348330.bild.html",
-      "image_title": "Schleuser-Verdacht: Polizei-Großeinsatz in Bitterfeld-Wolfen"
-    },
-    {
-      "title": "Fast 200 Jobs weg : Oettinger macht Brauerei im Osten dicht",
-      "teaser": "Der Bier-Riese Oettinger will seinen Thüringer Standort in Gotha am Jahresende dichtmachen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/gotha-oettinger-schliesst-brauerei-in-thueringen-80337582.bild.html",
-      "image_title": "Gotha: Oettinger schließt Brauerei in Thüringen"
-    },
-    {
-      "title": "In Tirol : Deutscher (30) unter Steinbrocken begraben",
-      "teaser": "Ein deutscher Kletterer ist bei einem Felssturz im Tiroler Kaisergebirge verschüttet worden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/unglueck-im-kaisergebirge-kletterer-in-tirol-unter-steinbrocken-begraben-80352962.bild.html",
-      "image_title": "Bei Abseilübungen in Tirol: Deutscher (30) unter Felsbrocken begraben"
-    },
-    {
-      "title": "Bürokratie-Ärger in NRW : Tagesmutter darf Flüchtling (14) NICHT aufnehmen",
-      "teaser": "Tanja F. (50) möchte Ukraine-Flüchtling Arseniy (14) aufnehmen. Doch es gibt Einwände.",
-      "url": "https://www.bild.de/bild-plus/regional/duesseldorf/duesseldorf-aktuell/buerokratie-aerger-tagesmutter-darf-ukraine-fluechtling-14-nicht-aufnehmen-80330524.bild.html",
-      "image_title": "Bürokratie-Ärger: Tagesmutter darf Ukraine-Flüchtling (14) nicht aufnehmen"
-    },
-    {
-      "title": "Auf Landesvertretung Sachsen : Linksextreme bekennen sich zu Anschlag",
-      "teaser": "Zu dem Angriff auf die sächsische Landesvertretung in Berlin bekannte sich die Antifa.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/linksextreme-bekennt-sich-zu-attacke-auf-saechsische-landesvertretung-80346482.bild.html",
-      "image_title": "Linksextreme bekennen sich zu Attacke auf sächsische Landesvertretung"
-    },
-    {
-      "title": "Todesfahrt in Berlin : „Sie war sehr beliebt – nicht nur als Lehrerin“",
-      "teaser": "Es sollte eine wunderschöne Abschlussfahrt werden. Sie endete in einer Tragödie.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/bad-arolsen-amokfahrt-in-berlin-trauer-um-diese-lehrerin-80346060.bild.html",
-      "image_title": "Nach Amokfahrt in Berlin Trauer um diese Lehrerin in Bad Arolsen"
-    },
-    {
-      "title": "Tierpark in Österreich : „Pele“ endlich im neuen Heim angekommen",
-      "teaser": "Der aus einer Holzkiste befreite Puma ist jetzt endlich im neuen Zuhause angekommen.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/tierpark-in-oesterreich-aus-kiste-befreiter-puma-im-neuen-zuhause-80346582.bild.html",
-      "image_title": "Tierpark in Österreich: Aus Kiste befreiter Puma im neuen Zuhause"
-    },
-    {
-      "title": "Großeinsatz der Polizei : Hauptbahnhof Halle nach Drohung teilweise gesperrt",
-      "teaser": "Mehrere Gleise sind derzeit in Halle gesperrt. Es liegt ein Drohung für den Hauptbahnhof vor.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/polizei-im-einsatz-hauptbahnhof-halle-nach-drohung-teils-gesperrt-80345152.bild.html",
-      "image_title": "Polizei: Hauptbahnhof Halle nach Drohung teils gesperrt"
-    },
-    {
-      "title": "EU-Votum : Mercedes begrüßt Verbrenner-Aus",
-      "teaser": "Mercedes-Benz hat den EU-Parlamentsbeschluss zum Aus für Verbrenner ab 2lich begrüßt.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/eu-votum-mercedes-begruesst-verbrenner-aus-80347660.bild.html",
-      "image_title": "EU-Votum: Mercedes begrüßt Verbrenner-Aus"
-    },
-    {
-      "title": "AMOKLAUF IN HAMM (NRW) : Messer-Attacke in Hochschule – vier Verletzte",
-      "url": "https://www.bild.de/video/clip/video/amok-alarm-in-hamm-nrw-messer-attacke-in-hochschule-vier-verletzte-80363858,auto=true.bild.html",
-      "image_title": "AMOKLAUF IN HAMM (NRW): Messer-Attacke in Hochschule – vier Verletzte"
-    },
-    {
-      "title": "Frau und Kind verletzt : Messer-Attacke an Grundschule in Esslingen",
-      "url": "https://www.bild.de/video/clip/video/frau-und-kind-verletzt-messer-attacke-an-grundschule-in-esslingen-80357298,auto=true.bild.html",
-      "image_title": "Frau und Kind verletzt: Messer-Attacke an Grundschule in Esslingen"
-    },
-    {
-      "title": "Doku: Clans von Berlin 3 : Die Macht der Abou-Chakers",
-      "url": "https://www.bild.de/video/clip/video/doku-clans-von-berlin-3-die-macht-der-abou-chakers-80246806,auto=true.bild.html",
-      "image_title": "Doku: Clans von Berlin 3: Die Macht der Abou-Chakers"
-    }
-  ]
+  "articles": []
 }
