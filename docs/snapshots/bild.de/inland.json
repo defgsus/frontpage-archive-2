@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-11T21:17:21",
+  "timestamp": "2022-06-11T22:19:11",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,212 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.8efd092b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.c347d9db.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Schon wieder Ecstasy : Warnung vor tödlichem Champagner",
-      "url": "https://www.bild.de/news/inland/news-inland/ecstasy-in-weiteren-flaschen-verbraucherzentrale-warnt-vor-champagner-80372414.bild.html",
-      "image_url": "https://images.bild.de/62a4ed78783d1871d27a3981/7af0d22197097b13a2d9fc3058580b26,810a956d?w=656",
-      "image_title": "Ecstasy in weiteren Flaschen? Verbraucherzentrale warnt vor Champagner"
-    },
-    {
-      "title": "Zwei Täter auf der Flucht : Mann (34) in Leipzig zu Tode geprügelt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/polizei-mann-34-in-leipzig-brutal-verpruegelt-lebensgefahr-80348720.bild.html",
-      "image_url": "https://images.bild.de/62a1d852783d1871d27a351d/4b5f9d452eb170e9964600e56fb537bb-miniSquare,878eb641?w=320",
-      "image_title": "Leipzig: Zwei Täter auf der Flucht – Mann zu Tode geprügelt!"
-    },
-    {
-      "title": "Die Kinder waren dabei : Mann erschlägt seine Frau und springt in den Tod",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-mann-erschlaegt-seine-frau-und-springt-in-den-tod-80370468.bild.html",
-      "image_url": "https://images.bild.de/62a4b159c940d21cd11b2cae/06858379997b4a6fc13889ad881dfc72-miniSquare,c6fa5cee?w=320",
-      "image_title": "Dortmund: Mann erschlägt Ehefrau, springt in den Tod – Kinder dabei"
-    },
-    {
-      "title": "Messer-Attacke an Hochschule : Festnahme nur sechs Minuten nach dem Notruf",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/messer-amok-an-hochschule-in-hamm-nrw-ermittler-nennen-neue-details-80368614.bild.html",
-      "image_url": "https://images.bild.de/62a47c97783d1871d27a38bd/b14fcb3a49c2f90d17c33863b2f700ca-miniSquare,603b210f?w=320",
-      "image_title": "Messer-Amok an Hochschule in Hamm (NRW): Ermittler nennen neue Details"
-    },
-    {
-      "title": "Helfer retten Insassen : Getunter Luxus-Mercedes verbrennt beim Driften",
-      "teaser": "DAS war mal ein Sportwagen! Beim Driften verlor der Fahrer (34) die Kontrolle – Feuer!",
-      "url": "https://www.bild.de/regional/thueringen/leipzig-news/unfall-in-thueringen-getunter-luxus-mercedes-verbrennt-beim-driften-80366914.bild.html",
-      "image_title": "Unfall in Thüringen: Getunter Luxus-Mercedes verbrennt beim Driften"
-    },
-    {
-      "title": "9-Euro-Ticket-Ärger : Polizei räumt Ostsee-Express",
-      "teaser": "Weil zu viele Menschen an die Ostsee wollten, konnte der Zug nicht wie geplant starten.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/9-euro-ticket-aerger-in-berlin-regionalzug-muss-geraeumt-werden-80368908.bild.html",
-      "image_title": "9-Euro-Ticket-Ärger in Berlin: Regionalzug muss geräumt werden"
-    },
-    {
-      "title": "Rätsel um Flaschen-Inhalt : Den fünf kollabierten Schülern geht es besser!",
-      "teaser": "Gute Nachricht nach dem Schul-Drama in Essen. Den verletzten Kindern geht es besser.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/realschule-essen-fuenf-kollabierten-kindern-geht-es-besser-80368390.bild.html",
-      "image_title": "Realschule Essen: Fünf kollabierten Kindern geht es besser!"
-    },
-    {
-      "title": "Spielsüchtig? : LKA-Beamter soll 200 000 Euro abgezockt haben",
-      "teaser": "Untreue-Vorwürfe gegen Berliner Beamten! War der LKA-Mann spielsüchtig und zweigte Geld ab?",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/war-der-lka-beamte-spielsuechtig-berliner-polizist-soll-200000-euro-abgezockt-ha-80363330.bild.html",
-      "image_title": "War der LKA-Beamte spielsüchtig?: Berliner Polizist soll 200 000 Euro abgezockt haben"
-    },
-    {
-      "title": "Badetote in Bayern : 90-Jährige stirbt im Starnberger See",
-      "teaser": "Eine 90-Jährige ist beim Baden im Starnberger See in Oberbayern gestorben.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/badetod-90-jaehrige-stirbt-im-starnberger-see-80367924.bild.html",
-      "image_title": "Badetote in Bayern: 90-Jährige ertrinkt im Starnberger See"
-    },
-    {
-      "title": "Behörden umgehen Regeln : Pflege-Impfpflicht in erstem Bundesland vor dem Aus",
-      "teaser": "Ein Bundesland geht jetzt einen anderen Weg – dort steht die Impfpflicht de facto vor dem Aus!",
-      "url": "https://www.bild.de/bild-plus/regional/chemnitz/chemnitz-news/corona-pflege-impfpflicht-in-erstem-bundesland-vor-dem-aus-80362370.bild.html",
-      "image_title": "Corona: Pflege-Impfpflicht in erstem Bundesland vor dem Aus"
-    },
-    {
-      "title": "Suche nach Festival : Vermisster Matthias S. (22) wieder daheim",
-      "teaser": "Matthias S. ist Freitag nach Hause (Kreis Günzburg) zurückgegehrt.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/wo-ist-der-22-jaehrige-matthias-s-verschwand-bei-rock-im-park-80360186.bild.html",
-      "image_title": "„Rock im Park“ in Nürnberg: Vermisster Matthias S. (22) wieder da"
-    },
-    {
-      "title": "Angriff an Grundschule : Polizei nimmt mutmaßlichen Messerstecher fest",
-      "teaser": "Freitagabend nahm die Polizei einen tatverdächtigen Niederländer fest.",
-      "url": "https://www.bild.de/news/inland/news-inland/esslingen-messerangriff-an-grundschule-tatverdaechtiger-gefasst-80366404.bild.html",
-      "image_title": "Esslingen: Messerangriff an Grundschule – Tatverdächtiger gefasst"
-    },
-    {
-      "title": "SAG! DIE! PIN! : Gier-Domina und ihre Tochter foltern Mann bei SM-Spielen",
-      "teaser": "Angeklagt wegen schwerer räuberischer Erpressung in Essen: Monika I. (56) und Tochter Celine (19).",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/essen-mutter-und-tochter-foltern-und-berauben-mann-bei-sm-spielen-80358166.bild.html",
-      "image_title": "Essen: Mutter und Tochter foltern und berauben Mann bei SM-Spielen"
-    },
-    {
-      "title": "FW-Politiker angeklagt : Hat Bürgermeister mit Masken betrogen?",
-      "teaser": "Matthias Penkala (31) und sein Partner sollen das LGL übers Ohr gehauen haben.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/fw-politiker-in-bayern-anklage-wegen-masken-betrugs-80359748.bild.html",
-      "image_title": "FW-Politiker in Bayern: Anklage wegen Masken-Betrugs"
-    },
-    {
-      "title": "Lieferung kam aus Hamburg : 840 Kilo Kokain zwischen Supermarkt-Bananen entdeckt",
-      "teaser": "Die Polizei in Tschechien hat in Bananenkisten insgesamt 840 Kilo Kokain entdeckt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/tschechien-840-kilo-kokain-in-supermarkt-bananen-aus-hamburg-entdeckt-80364264.bild.html",
-      "image_title": "Tschechien: 840 Kilo Kokain zwischen Supermarkt-Bananen aus Hamburg entdeckt"
-    },
-    {
-      "title": "Eurojackpot am Freitag : Haben Sie den 26 Millionen Euro Jackpot geknackt?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 10. Juni 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-10-juni-80365288.bild.html",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 10. Juni"
-    },
-    {
-      "title": "Sogar Pedale blockiert : Polizei stoppt Messie-Mercedes voller Müll",
-      "teaser": "Die Polizei hat auf der B54 in NRW den Fahrer eines Messi-Mercedes voller Müll angehalten.",
-      "url": "https://www.bild.de/news/inland/news-inland/polizei-stoppt-messi-mercedes-voller-muell-80359192.bild.html",
-      "image_title": "Polizei stoppt Messi-Mercedes voller Müll"
-    },
-    {
-      "title": "Mutter (†88) im Keller eingemauert! : So kam die Polizei Sohn Ulrich (62) auf die Spur",
-      "teaser": "Die Fassade grau, die Jalousien geschlossen. Vor dem Kellerfenster ein rotes Gitter, dahinter ein gruseliges Geheimnis.",
-      "url": "https://www.bild.de/bild-plus/regional/chemnitz/chemnitz-news/riesa-mutter-eingemauert-so-kam-die-polizei-sohn-ulrich-62-auf-die-spur-80365126.bild.html",
-      "image_title": "Riesa: Mutter eingemauert! So kam die Polizei Sohn Ulrich auf die Spur"
-    },
-    {
-      "title": "Hotel-Dynastie : Hier gräbt Felix Adlon Hotel-Königin Hedda aus",
-      "teaser": "Hedda Adlon war Teil der Familiendynastie. Nun wurde ihre Rolle für die Geschichte bekannt.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/grosse-liebesgeschichte-hier-graebt-felix-adlon-eine-hotel-legende-aus--80329780.bild.html",
-      "image_title": "Große Liebesgeschichte: Hier gräbt Felix Adlon eine Hotel-Legende aus"
-    },
-    {
-      "title": "Horror im Hauskeller : Mann (62) mauert seine Mutter (88) ein",
-      "teaser": "Beamte fanden im Haus eines 62-Jährigen die Leiche seiner Mutter – eingemauert im Keller.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/riesa-88-jaehrige-im-keller-eingemauert-80357286.bild.html",
-      "image_title": "Riesa: 88-Jährige in Keller eingemauert"
-    },
-    {
-      "title": "Rekord-Fund! : Warum Solarstrom bald günstiger werden könnte",
-      "teaser": "Ein Chemiestudent aus Deutschland entdeckt durch Zufall einen neuen Leuchtstoff!",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/strom-warum-solarzellen-bald-guenstiger-werden-koennten-80353820.bild.html",
-      "image_title": "Strom: Warum Solarzellen bald günstiger werden könnten"
-    },
-    {
-      "title": "Massencrash auf der A14 : Feuerwehr selbst in Unfall verwickelt",
-      "teaser": "Am Donnerstag starben bei einem Massencrash drei Menschen, 19 wurden verletzt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-feuerwehr-auf-weg-zum-todes-crash-verunglueckt-80360204.bild.html",
-      "image_title": "Unfall: Feuerwehr auf Weg zum Todes-Crash verunglückt"
-    },
-    {
-      "title": "Jugend-Fußballmannschaft verwickelt : 3 Tote, 19 Verletze bei Massencrash auf A14",
-      "teaser": "Am Donnerstag sind bei einem Massencrash drei Menschen getötet und 19 weitere verletzt worden.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/dresden-aktuell/unfall-auf-a14-bei-halle-3-tote-19-verletze-bei-massencrash-auf-a14-80353466.bild.html",
-      "image_title": "Unfall auf A14 bei Halle: 3 Tote, 19 Verletze bei Massencrash auf A14"
-    },
-    {
-      "title": "Studenten überwältigen Angreifer : Vier Verletzte bei Amoklauf in Hamm",
-      "url": "https://www.bild.de/video/clip/video/studenten-ueberwaeltigen-angreifer-vier-verletzte-bei-amoklauf-in-hamm-80369302,auto=true.bild.html",
-      "image_title": "Studenten überwältigen Angreifer: Vier Verletzte bei Amoklauf in Hamm"
-    },
-    {
-      "title": "AMOKLAUF IN HAMM (NRW) : Messer-Attacke in Hochschule – vier Verletzte",
-      "url": "https://www.bild.de/video/clip/video/amok-alarm-in-hamm-nrw-messer-attacke-in-hochschule-vier-verletzte-80363858,auto=true.bild.html",
-      "image_title": "AMOKLAUF IN HAMM (NRW): Messer-Attacke in Hochschule – vier Verletzte"
-    },
-    {
-      "title": "Frau und Kind verletzt : Messer-Attacke an Grundschule in Esslingen",
-      "url": "https://www.bild.de/video/clip/video/frau-und-kind-verletzt-messer-attacke-an-grundschule-in-esslingen-80357298,auto=true.bild.html",
-      "image_title": "Frau und Kind verletzt: Messer-Attacke an Grundschule in Esslingen"
-    }
-  ]
+  "articles": []
 }
