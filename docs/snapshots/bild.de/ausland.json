@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-12T13:25:54",
+  "timestamp": "2022-06-12T14:17:49",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.5-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.8efd092b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.c347d9db.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Nach Drama in Paraguay : Kinder und Eltern kommen nach Deutschland",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nach-drama-in-paraguay-kinder-und-eltern-kommen-nach-deutschland-80369764.bild.html",
-      "image_url": "https://images.bild.de/62a4a2a270b7f56f265bb810/ba8537ec44d1c1de319af93345733303,e1b12f0a?w=656",
-      "image_title": "Nach Drama in Paraguay: Kinder und Eltern kommen nach Deutschland"
-    },
-    {
-      "title": "„Vergesst uns nicht!“ : Das Flehen der Kegelbrüder aus dem Malle-Knast",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/dramatische-botschaft-der-kegelbrueder-aus-mallorca-haft-vergesst-uns-nicht-80366998.bild.html",
-      "image_url": "https://images.bild.de/62a44e7f783d1871d27a386f/4b2ee876f5d26f69a915f83221578ac6-miniSquare,1e8ba6d9?w=320",
-      "image_title": "Dramatische Botschaft der Kegelbrüder aus Mallorca-Haft: „Vergesst uns nicht!“"
-    },
-    {
-      "title": "Hollys Eltern wurden ermordet : Verschwundenes Baby nach 40 Jahren gefunden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hollys-eltern-wurden-ermordet-verschwundenes-baby-nach-40-jahren-gefunden-80364402.bild.html",
-      "image_url": "https://images.bild.de/62a37a40783d1871d27a37a9/f92c52f708ffa6e3592ad6d0331bf0ba-miniSquare,c0357aea?w=320",
-      "image_title": "Hollys Eltern wurden ermordet: Verschwundenes Baby nach 40 Jahren gefunden"
-    },
-    {
-      "title": "Kurz nach mysteriösem Post : TikTok-Star (†19) tot in Parkhaus gefunden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/tiktok-star-cooper-noriega-19-tot-in-parkhaus-gefunden-80366850.bild.html",
-      "image_url": "https://images.bild.de/62a4476af6200055a6a310f6/560437a29890b399906daa60ebba380b-miniSquare,337341e1?w=320",
-      "image_title": "TikTok-Star Cooper Noriega (†19) tot in Parkhaus gefunden"
-    },
-    {
-      "title": "Er saß im Cadillac : US-Rapper bei Schießerei getötet",
-      "url": "https://www.bild.de/news/ausland/news-ausland/us-rapper-fbg-cash-bei-schiesserei-getoetet-80366568.bild.html",
-      "image_url": "https://images.bild.de/62a43927783d1871d27a384f/ecc6cdfc07aab54c58b59d256acb59ec-miniSquare,25566108?w=320",
-      "image_title": "US-Rapper FBG Cash bei Schießerei getötet"
-    },
-    {
-      "title": "Hand in Hand zum Richter in Paraguay : Das droht jetzt den Entführer-Eltern",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/article-62a21de76e2c5053c14e8842-80352620.bild.html",
-      "image_title": "Essen/Paraguay: Entführer-Eltern gehen Hand in Hand zum Richter"
-    },
-    {
-      "title": "8 Kegelbrüder im Knast : In diesen Zellen weinen sie nachts in ihre Kissen",
-      "teaser": "Für die 8 verbliebenen Kegelbrüder ist die Zeit im Malle-Knast ein unerträglicher Zustand.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/kegelbrueder-im-mallorca-knast-in-diesen-zellen-weinen-sie-nachts-in-ihre-kissen-80366082.bild.html",
-      "image_title": "Kegelbrüder im Mallorca-Knast: In diesen Zellen weinen sie nachts in ihre Kissen"
-    },
-    {
-      "title": "An Bord überlebte ein künftiger König : Taucher entdecken Wrack aus dem 17. Jahrhundert",
-      "teaser": "Das Schiff hatte einen späteren König Englands an Bord. Er überlebte den Untergang nur knapp …",
-      "url": "https://www.bild.de/news/ausland/news-ausland/wrack-der-hms-gloucester-in-england-entdeckt-es-hatte-den-spaeteren-koenig-an-bo-80355948.bild.html",
-      "image_title": "Wrack der „HMS Gloucester“ in England entdeckt: Es hatte den späteren König an Bord"
-    },
-    {
-      "title": "Junge mit falschen Beinen : Er kann wieder gehen!",
-      "teaser": "Seit seiner Geburt litt Ulrich (12) aus Afrika an einer seltenen Quadrizeps-Kontraktur.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/der-junge-mit-den-falschen-beinen-er-kann-wieder-gehen-80354734.bild.html",
-      "image_title": "Der Junge mit den falschen Beinen: Er kann wieder gehen!"
-    },
-    {
-      "title": "Acht noch im Knast : Wovon das Schicksal der Kegelbrüder jetzt abhängt",
-      "teaser": "Fünf Kegelbrüder sind frei – was wird aus den anderen im Knast?",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/acht-bleiben-weiter-im-knast-davon-haengt-das-schicksal-der-kegelbrueder-jetzt-n-80354392.bild.html",
-      "image_title": "Acht bleiben weiter im Knast: Davon hängt das Schicksal der Kegelbrüder jetzt noch ab"
-    },
-    {
-      "title": "Beweis oder geniale Fälschung? : Rätsel um UFO-Papier im US-Kongress",
-      "teaser": "Es geht um abgestürzte UFOs und ihre mysteriöse Technologie",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/beweist-dieses-dokument-dass-die-usa-truemmer-von-ufos-besitzen-80308326.bild.html",
-      "image_title": "Rätsel um dieses UFO-Papier im US-Kongress: Experimente mit außerirdischer Technologie?"
-    },
-    {
-      "title": "Kaisergebirge : Rettungskrimi um verschütteten Elite-Soldaten",
-      "teaser": "Ein deutscher Kletterer ist bei einem Felssturz im Tiroler Kaisergebirge verschüttet worden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/deutscher-von-felsen-verschuettet-war-es-eine-bundeswehr-uebung-80355890.bild.html",
-      "image_title": "Kaisergebirge: Rettungskrimi um verschütteten Elite-Soldaten"
-    },
-    {
-      "title": "Blut-Tat in Florida : Streit eskaliert! Zehnjährige erschießt Nachbarin",
-      "teaser": "Das Kind ist nach dem mutmaßlichen Mord verhaftet worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/florida-usa-streit-eskaliert-zehnjaehrige-erschiesst-nachbarin-80357200.bild.html",
-      "image_title": "Florida (USA): Streit eskaliert! Zehnjährige erschießt Nachbarin"
-    },
-    {
-      "title": "Aufnahmeritual in USA : Student (19) nach Mutprobe blind und gelähmt",
-      "teaser": "Danny Santulli ist seit der Mutprobe für eine Studentenverbindung ein Pflegefall.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-student-nach-mutprobe-fuer-studentenverbindung-blind-und-gelaehmt-80347916.bild.html",
-      "image_title": "USA: Student nach Mutprobe für Studentenverbindung blind und gelähmt"
-    },
-    {
-      "title": "Messer steckte noch im Nacken : 14-Jährige in Frankreich von Gleichaltrigem erstochen",
-      "teaser": "Der Junge schlug ihr die Nase ein, stach zu und ließ die Klinge im Nacken stecken.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/brutaler-messermord-in-frankreich-14-jaehrige-von-gleichaltrigem-freund-erstoche-80353782.bild.html",
-      "image_title": "Brutaler Messermord in Frankreich: 14-Jährige von gleichaltrigem Freund erstochen"
-    },
-    {
-      "title": "Nach Mallorca-Brand : Noch immer keine Entlastung für acht Kegelbrüder",
-      "teaser": "5 von 13 Kegelbrüdern sind frei. 8 sitzen noch ein. Eine Freilassung ist nicht in Sicht.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/nach-mallorca-brand-noch-immer-keine-entlastung-fuer-acht-kegelbrueder-80335140.bild.html",
-      "image_title": "Nach Mallorca-Brand: Noch immer keine Entlastung für acht Kegelbrüder"
-    },
-    {
-      "title": "Mädchen entführt : Warum Paraguay ein Paradies für Querdenker ist",
-      "teaser": "Ein Ex-Profifußballer entführt seine Tochter nach Südamerika. Ein Experte erklärt, warum.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/ex-profi-fussballer-entfuehrt-tochter-warum-paraguay-ein-paradies-fuer-querdenke-80255508.bild.html",
-      "image_title": "Ex-Profi-Fußballer entführt Tochter: Warum Paraguay ein Paradies für Querdenker ist"
-    },
-    {
-      "title": "Nach Paraguay entführt : Hilferuf von Laras Papa: „Es geht ihr nicht gut“",
-      "teaser": "Jetzt wendet sich auch Filip Blank aus Gauting, der leibliche Vater von Lara, an die Entführer",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/maedchen-in-paraguay-entfuehrt-laras-papa-ich-weiss-dass-es-ihr-nicht-gut-geht-80245292.bild.html",
-      "image_title": "Mädchen in Paraguay entführt– Laras Papa: „Ich weiß, dass es ihr nicht gut geht“"
-    },
-    {
-      "title": "217 Mio. Euro abgeräumt : DAS haben sich die Lotto-Gewinner als Erstes gekauft",
-      "teaser": "Das Ehepaar Thwaite aus Großbritannien bleibt trotz Mega-Vermögens bodenständig.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/lotto-in-grossbritannien-ehepaar-gewann-217-mio-euro-das-haben-sie-als-erstes-ge-80351066.bild.html",
-      "image_title": "Lotto in Großbritannien: Ehepaar gewann 217 Mio. Euro – DAS haben sie als Erstes gekauft"
-    },
-    {
-      "title": "Sie verdienen Millionen : Diese Zwillinge können nicht nur Basketball",
-      "teaser": "Diese Power-Frauen glänzen nicht nur auf dem Parkett.",
-      "url": "https://www.bild.de/sport/mehr-sport/news-ausland/usa-basketball-zwillinge-machen-millionen-vermoegen-im-netz-80348752.bild.html",
-      "image_title": "USA: Basketball-Zwillinge machen Millionen-Vermögen im Netz"
-    },
-    {
-      "title": "52 Jahre nach Unglück : Zweiter Schuh von Messners Bruder gefunden",
-      "teaser": "Oben zerfetzt, an den Ösen verrostet, aber sonst sehr gut erhalten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/52-jahre-nach-toedlichem-unglueck-zweiter-schuh-von-messners-bruder-gefunden-80344632.bild.html",
-      "image_title": "52 Jahre nach tödlichem Unglück: Zweiter Schuh von Messners Bruder gefunden"
-    },
-    {
-      "title": "Corona auf Schiff : Marokko lässt deutsche Touristen nicht an Land",
-      "teaser": "Marokkanische Behörden haben deutschem Kreuzfahrtschiff untersagt, im Hafen von Tanger Station zu machen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/corona-auf-der-mein-schiff-herz-marokko-laesst-deutsche-touristen-nicht-an-land-80342758.bild.html",
-      "image_title": "Corona auf der \"Mein Schiff Herz\": Marokko lässt deutsche Touristen nicht an Land"
-    },
-    {
-      "title": "Vier Kegelbrüder frei : Mit Plastiktüten in die Freiheit!",
-      "teaser": "Nach fast drei Wochen Knast sind vier weitere Kegel-Brüder auf Mallorca frei.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kegel-brueder-auf-mallorca-barbrand-hier-kommen-vier-von-ihnen-frei-80342202.bild.html",
-      "image_title": "Kegel-Brüder auf Mallorca: Barbrand! Hier kommen vier von ihnen frei"
-    },
-    {
-      "title": "Nach fünf Monaten Krankenhaus : Frau erwacht aus Koma, ihr Verlobter hat eine Neue",
-      "teaser": "Brie Duval lag im Koma – und als sie wieder aufwachte, hatte ihr Verlobter schon eine Neue.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kanada-brie-duval-erwacht-aus-koma-und-ihr-verlobter-hat-schon-eine-neue-80337112.bild.html",
-      "image_title": "Kanada: Brie Duval erwacht aus Koma – und ihr Verlobter hat schon eine Neue"
-    },
-    {
-      "title": "USA : Junge (4) überlebt zwei Tage allein in der Wildnis",
-      "teaser": "Im US-Bundesstaat Montana hat ein Vierjähriger zwei Tage allein in der Wildnis überlebt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-junge-4-ueberlebt-zwei-tage-in-wildnis-80334274.bild.html",
-      "image_title": "USA: Junge (4) überlebt zwei Tage in Wildnis"
-    },
-    {
-      "title": "Kampf gegen organisiertes Verbrechen : Drogen-Tunnel von Mexiko in die USA entdeckt",
-      "url": "https://www.bild.de/video/clip/video/kampf-gegen-organisiertes-verbrechen-drogen-tunnel-von-mexiko-in-die-usa-entdeck-80350146,auto=true.bild.html",
-      "image_title": "Kampf gegen organisiertes Verbrechen: Drogen-Tunnel von Mexiko in die USA entdeckt"
-    },
-    {
-      "title": "Energiespar-Wunder : Dieses Boot kann schweben!",
-      "url": "https://www.bild.de/video/clip/video/umweltfreundlich-und-schnell-arbeits-schiff-mit-e-foiling-antrieb-80359910,auto=true.bild.html",
-      "image_title": "Umweltfreundlich und schnell: Arbeits-Schiff mit E-Foiling Antrieb"
-    },
-    {
-      "title": "Sie fahren auf dem Zug! : Wahnsinnige Aktion in New York",
-      "url": "https://www.bild.de/video/clip/video/sie-fahren-auf-dem-zug-wahnsinnige-aktion-in-new-york-80376220,auto=true.bild.html",
-      "image_title": "Sie fahren auf dem Zug! : Wahnsinnige Aktion in New York"
-    }
-  ]
+  "articles": []
 }
