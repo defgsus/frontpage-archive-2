@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-12T07:18:38",
+  "timestamp": "2022-06-12T08:23:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Know-How: Backup-Strategien für Linux-Desktops",
+      "teaser": "Backup-Programme für Linux eignen sich nicht für ein komplettes Systembackup. Wir zeigen, wie Sie dennoch ihren Linux-Desktop sichern.",
+      "url": "https://www.heise.de/ratgeber/Know-How-Backup-Strategien-fuer-Linux-Desktops-7136788.html"
+    },
+    {
       "title": "Quantencomputer-Experte: \"Deutschland Weltspitze in Grundlagenforschung\"",
       "teaser": "IBM, Google & Co. haben mit Quantencomputern Aufsehen erregt, aber europäische Forscher und Start-ups machen den USA die Vorrangstellung streitig.",
       "url": "https://www.heise.de/hintergrund/Interview-Tommaso-Calarco-ueber-den-Stand-der-Quantencomputer-in-Deutschland-7126779.html",
@@ -35,11 +40,6 @@
       "title": "AMD Ryzen 7000 und 8000: Zen 4 bringt 10 Prozent IPC-Plus, Zen 5 ab 2024",
       "teaser": "Bisherige Performance-Angaben zu AMDs nächster Prozessorbaureihe Ryzen 7000 sollen eine Untertreibung gewesen sein. Nun gibt es neue Details.",
       "url": "https://www.heise.de/news/AMD-Ryzen-7000-und-8000-Zen-4-bringt-10-Prozent-IPC-Plus-Zen-5-ab-2024-7136362.html"
-    },
-    {
-      "title": "AMD Radeon RX 7000: Effizienz soll mit 5-nm-Chiplets stark ansteigen",
-      "teaser": "Die RDNA3-Grafikarchitektur der nächsten Grafikkartenbaureihe Radeon RX 7000 erfährt größere Neuerungen. Dazu gehört ein Aufbau mit mehreren Chiplets.",
-      "url": "https://www.heise.de/news/AMD-Radeon-RX-7000-Effizienz-steigt-mit-5-nm-Chiplets-stark-an-7136374.html"
     },
     {
       "title": "Smarter Gießen: Fünf Bewässerungssysteme mit App-Steuerung im Test",
@@ -121,14 +121,15 @@
       "image_title": "Telefon"
     },
     {
-      "title": "Know-How: Backup-Strategien für Linux-Desktops",
-      "teaser": "Backup-Programme für Linux eignen sich nicht für ein komplettes Systembackup. Wir zeigen, wie Sie dennoch ihren Linux-Desktop sichern.",
-      "url": "https://www.heise.de/ratgeber/Know-How-Backup-Strategien-fuer-Linux-Desktops-7136788.html"
-    },
-    {
       "title": "Neue Version: Firefox 101.0.1 mit kleineren Bug-Fixes",
       "teaser": "Mozilla hat Version 101.0.1 von Firefox veröffentlicht. Mit der neuen Browser-Version wurden einige kleine Fehler behoben, darunter ein Kompatibilitätsproblem.",
       "url": "https://www.heise.de/news/Firefox-101-0-1-mit-kleineren-Bug-Fixes-7137064.html"
+    },
+    {
+      "title": "PHP: Updates verhindern Einschleusen von Schadcode",
+      "teaser": "Fehler in PHP-Modulen zur Verbindung mit SQL-Datenbanken erlauben die Ausführung beliebigen Codes. Admins von Shared-Hosting-Servern sollten schnell updaten.",
+      "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html",
+      "image_title": "Aufmacher PHP-Update schließt RCE-Lücken"
     },
     {
       "title": "Champion in IT-Operations",
