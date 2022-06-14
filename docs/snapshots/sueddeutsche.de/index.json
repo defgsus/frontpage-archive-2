@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-14T15:22:43",
+  "timestamp": "2022-06-14T16:33:01",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -122,10 +128,12 @@
   ],
   "articles": [
     {
-      "title": "Bundesregierung stützt Gazprom Germania mit Milliardenbetrag",
-      "teaser": "Der Schritt soll die Pleite des Unternehmens verhindern und so die Versorgungssicherheit in Deutschland gewährleisten, heißt es als Begründung.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/gazprom-germania-staatshilfen-1.5603153",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603165/1000x420"
+      "title": "Jens Spahns 540-Millionen-Deal",
+      "teaser": "Bei einem der teuersten Verträge des Bundesgesundheitsministeriums im Kampf gegen Corona häufen sich Ungereimtheiten. Die Staatsanwaltschaft Berlin ermittelt wegen Schmiergeldverdacht. Nicht gegen Ex-Minister Spahn - aber er ist politisch verantwortlich.",
+      "url": "https://www.sueddeutsche.de/politik/corona-maskengeschaeft-jens-spahn-1.5602791",
+      "author": "Markus Grill und Klaus Ott, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603218/1000x420",
+      "image_title": "Health Authorities Hold Coronavirus Media Update"
     },
     {
       "title": "Ukraine legt Liste nötiger Waffen vor",
@@ -141,17 +149,17 @@
       "author": "Alle Entwicklungen im Liveblog"
     },
     {
+      "title": "Bundesregierung stützt Gazprom Germania mit Milliardenbetrag",
+      "teaser": "Der Schritt soll die Pleite des Unternehmens verhindern und so die Versorgungssicherheit in Deutschland gewährleisten, heißt es als Begründung.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/gazprom-germania-staatshilfen-1.5603153",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603165/600x337"
+    },
+    {
       "title": "EU-Parlamentarier wollen Ökosiegel für Atommeiler stoppen",
       "teaser": "Wichtige Ausschüsse stimmen gegen das umstrittene Gesetz, das Investitionen in Kern- und Gaskraftwerke für nachhaltig erklärt. Kritiker müssen nun noch eine Hürde überwinden.",
       "url": "https://www.sueddeutsche.de/wirtschaft/taxonomie-eu-parlament-atom-gas-ausschuss-1.5602947",
       "author": "Björn Finke, Brüssel",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.2631996/208x156"
-    },
-    {
-      "title": "WHO beruft wegen Affenpocken Notfallausschuss ein",
-      "teaser": "Der Expertenrat entscheidet, ob es sich - wie beim Coronavirus - um eine \"gesundheitliche Notlage von internationaler Tragweite\" handelt. Die EU hat sich mit Impfstoff eingedeckt.",
-      "url": "https://www.sueddeutsche.de/gesundheit/affenpocken-who-notfallaussschuss-1.5603105",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603106/208x156"
     },
     {
       "title": "Bürger sollten den Wettbewerbsdruck auf Tankstellen selbst erhöhen",
@@ -176,20 +184,6 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5603178/208x156"
     },
     {
-      "title": "Michelle Bachelet hat genug",
-      "teaser": "Die UN-Menschenrechtskommissarin erklärt, nicht für eine zweite Amtszeit zur Verfügung zu stehen. Dass der Rücktritt mit ihrer heftig kritisierten China-Reise zu tun habe, streitet die Chilenin ab.",
-      "url": "https://www.sueddeutsche.de/politik/un-menschenrechtskommissarin-china-michelle-bachelet-1.5602950",
-      "author": "Isabel Pfaff, Bern",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602951/208x156"
-    },
-    {
-      "title": "\"Inflation tut weh\"",
-      "teaser": "Viele Menschen fühlen sich angesichts der Geldentwertung ohnmächtig. Die Inflation könnte ihr Vertrauen in politische Institutionen erschüttern. Ein Gespräch mit dem Historiker Martin H. Geyer über eine Zeit der Unsicherheit.",
-      "url": "https://www.sueddeutsche.de/politik/inflation-geldentwertung-interview-1.5601863",
-      "author": "Interview von Johan Schloemann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5601864/208x156"
-    },
-    {
       "title": "Warten auf die Beweisführung",
       "teaser": "Stuttgarts Profi Atakan Karazor sitzt auf Ibiza weiterhin in Untersuchungshaft. Nun gibt es offenbar neue Erkenntnisse zum Fall - eine schnelle Klärung ist scheinbar nicht in Sicht.",
       "url": "https://www.sueddeutsche.de/sport/karazor-ibiza-untersuchungshaft-stuttgart-1.5603141",
@@ -204,39 +198,32 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5602310/208x156"
     },
     {
-      "title": "Liebhaber aller Widersprüche",
-      "teaser": "Er scheute den Konflikt nicht, mit keiner israelischen Regierung und auch nicht mit der jüdischen Diaspora: Der israelische Schriftsteller Abraham B. Yehoshua ist gestorben.",
-      "url": "https://www.sueddeutsche.de/kultur/abraham-b-yehoshua-nachruf-israel-hebraeische-literatur-1.5603017",
-      "author": "Peter Münch",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603018/208x156"
+      "title": "Fällt bald die FFP2-Maskenpflicht in Bayerns Bussen und Bahnen?",
+      "teaser": "Gesundheitsminister Holetschek kann sich den Wechsel zum OP-Mund-Nasen-Schutz jedenfalls vorstellen. Angesichts steigender Corona-Zahlen warnt er aber vor zu großer Unbekümmertheit.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-maskenpflicht-corona-ffp2-bus-bahn-holetschek-1.5603076",
+      "author": "Andreas Glas und Johann Osel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5516098/208x156"
     },
     {
-      "title": "In aller Kürze",
-      "teaser": "Thomas Gottschalk hat sich von seinen Locken verabschiedet, Campino betet zum Fußballgott und Lizzo möchte diskriminierungsfreie Texte schreiben.",
-      "url": "https://www.sueddeutsche.de/panorama/promis-promi-news-thomas-gottschalk-lizzo-campino-dwayne-johnson-1.5602851",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602853/208x156"
+      "title": "\"Ich habe mehrere Quellen, die ihren Beziehungsstatus bestätigen\"",
+      "teaser": "Wie der australische \"Sydney Morning Herald\" die Schauspielerin Rebel Wilson zwang, über ihr Liebesleben auszupacken.",
+      "url": "https://www.sueddeutsche.de/medien/rebel-wilson-outing-1.5603051",
+      "author": "Christiane Lutz",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603052/208x156"
     },
     {
-      "title": "Möglicherweise legendär",
-      "teaser": "\"How I Met Your Mother\" war eine verspielte Liebeserklärung an das Leben Mitte 20 und an New York. Und wer versucht, diesen Serienhit fortzusetzen, muss scheitern. Oder etwa nicht?",
-      "url": "https://www.sueddeutsche.de/medien/how-i-met-your-father-hilary-duff-1.5602782",
-      "author": "Jürgen Schmieder",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602784/600x337"
+      "title": "Über Stock und über Stein",
+      "teaser": "Beim \"Man versus Horse\"-Marathon in Wales messen sich Mensch und Pferd auf langer Distanz. Aber schneller als ein Pferd zu sein - geht das überhaupt?",
+      "url": "https://www.sueddeutsche.de/panorama/man-versus-horse-marathon-gelaendelauf-rennpferd-pferderennen-wales-1.5602898",
+      "author": "Moritz Geier",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602900/208x156"
     },
     {
-      "title": "\"Man muss aufhören, die andere Person zu idealisieren\"",
-      "teaser": "Toxische Beziehungen können der Psyche nachhaltig schaden - auch wenn man schon längst getrennt ist. Wie heilt man die hinterlassenen Wunden? Ein Gespräch mit Paartherapeutin Sharon Brehm.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/service/was-nach-einer-toxischen-beziehung-hilft-e600635/",
-      "author": "Interview von Lisa Miethke",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602910/208x156",
-      "image_title": "jetzt Service_heilen_nach_toxischer_Beziehung / Foto: Julie Zimmermann / Grafik: jetzt"
-    },
-    {
-      "title": "Gipfelgegner rufen zur Teilnahme an Demos auf",
-      "teaser": "In wenigen Tagen reisen Staats- und Regierungschefs zum G-7-Gipfel nach Elmau. Kritiker wappnen sich bereits für den mehrtägigen Protest und kündigen Aktionen von München bis in die Berge an. Auch die Polizei geht in Stellung.",
-      "url": "https://www.sueddeutsche.de/bayern/g7-gipfel-elmau-proteste-demos-polizei-1.5602921",
-      "author": "Thomas Anlauf",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602923/600x337"
+      "title": "Ein Hoch auf die Palme!",
+      "teaser": "Kein Gewächs ist in Mode, Werbung, Kunst und natürlich auf Instagram immer wieder so allgegenwärtig. Obwohl es in der Realität manchmal ganz schön mitgenommen aussieht. Was hat es mit dem Trend auf sich - und was erzählt das über uns?",
+      "url": "https://www.sueddeutsche.de/stil/palmen-paradies-kalifornien-trend-urlaub-1.5600246",
+      "author": "Silke Wichert",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5600254/600x337"
     },
     {
       "title": "Die Würde des Schweins",
@@ -254,11 +241,11 @@
       "image_title": "MOSCOW, RUSSIA - JUNE 12, 2022: Russia s President Vladimir Putin (L) is seen during a ceremony to present government a"
     },
     {
-      "title": "Als München zu \"neuyorkeln\" begann",
-      "teaser": "Im Jahr 1500 galt die Stadt bereits als überbevölkert. Seither ist die Zahl der Einwohner um mehr als das Hundertfache angestiegen. Schon immer wurde geklagt, dass das gute alte München gehörig verschandelt werde.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-geschichte-wachstum-wohnungsnot-1.5602311",
-      "author": "Wolfgang Görl",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.4294537/208x156"
+      "title": "Wie es um die Sicherheit auf der Wiesn bestellt ist",
+      "teaser": "Das Puls-Open-Air-Festival musste abgebrochen werden, weil Ordner fehlten. Wie sieht es bei den Vorbereitungen auf das Oktoberfest aus? Schließlich ist der Bedarf an Sicherheitspersonal hier enorm.",
+      "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-2022-sicherheit-security-puls-open-air-1.5603107",
+      "author": "Sarah Maderer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603110/208x156"
     },
     {
       "title": "Raubüberfall im Englischen Garten",
@@ -268,9 +255,11 @@
       "image_title": "Sonne in München"
     },
     {
-      "title": "Unbekannte stehlen Trinkgeld aus Autohaus-Tresor",
-      "teaser": "Weil sie keine Einbruchsspuren hinterlassen haben, geht die Polizei davon aus, dass die Tür der Renault-Niederlassung in Milbertshofen manipuliert wurde. Die Diebesbeute beläuft sich auf mehrere hundert Euro.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-einbruch-autohaus-tresor-renault-1.5602879"
+      "title": "Als München zu \"neuyorkeln\" begann",
+      "teaser": "Im Jahr 1500 galt die Stadt bereits als überbevölkert. Seither ist die Zahl der Einwohner um mehr als das Hundertfache angestiegen. Schon immer wurde geklagt, dass das gute alte München gehörig verschandelt werde.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-geschichte-wachstum-wohnungsnot-1.5602311",
+      "author": "Wolfgang Görl",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.4294537/208x156"
     },
     {
       "title": "Wenn Äcker zu Stadtvierteln werden",
@@ -300,17 +289,24 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5600786/208x156"
     },
     {
-      "title": "Fällt bald die FFP2-Maskenpflicht in Bayerns Bussen und Bahnen?",
-      "teaser": "Gesundheitsminister Holetschek kann sich den Wechsel zum OP-Mund-Nasen-Schutz jedenfalls vorstellen. Angesichts steigender Corona-Zahlen warnt er aber vor zu großer Unbekümmertheit.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-maskenpflicht-corona-ffp2-bus-bahn-holetschek-1.5603076",
-      "author": "Andreas Glas und Johann Osel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5516098/208x156"
-    },
-    {
       "title": "Bayerns Häftlinge sollen bald mehr telefonieren dürfen",
       "teaser": "Anrufe waren in Gefängnissen bislang nur in Ausnahmefällen erlaubt. In der Corona-Pandemie hat sich die Praxis jedoch etabliert - mit positiven Effekten.",
       "url": "https://www.sueddeutsche.de/bayern/gefaengnisse-bayern-telefonieren-haft-justiz-1.5603068",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.2708400/208x156"
+    },
+    {
+      "title": "Gipfelgegner rufen zur Teilnahme an Demos auf",
+      "teaser": "In wenigen Tagen reisen Staats- und Regierungschefs zum G-7-Gipfel nach Elmau. Kritiker wappnen sich bereits für den mehrtägigen Protest und kündigen Aktionen von München bis in die Berge an. Auch die Polizei geht in Stellung.",
+      "url": "https://www.sueddeutsche.de/bayern/g7-gipfel-elmau-proteste-demos-polizei-1.5602921",
+      "author": "Thomas Anlauf",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602923/208x156"
+    },
+    {
+      "title": "Michelle Bachelet hat genug",
+      "teaser": "Die UN-Menschenrechtskommissarin erklärt, nicht für eine zweite Amtszeit zur Verfügung zu stehen. Dass der Rücktritt mit ihrer heftig kritisierten China-Reise zu tun habe, streitet die Chilenin ab.",
+      "url": "https://www.sueddeutsche.de/politik/un-menschenrechtskommissarin-china-michelle-bachelet-1.5602950",
+      "author": "Isabel Pfaff, Bern",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602951/208x156"
     },
     {
       "title": "Antijüdische Schmähplastik darf bleiben",
@@ -321,18 +317,10 @@
       "image_title": "Stadtkirche von Wittenberg"
     },
     {
-      "title": "Das neue Selbstbewusstsein der Rüstungsindustrie",
-      "teaser": "Nur nicht auffallen, das war für die Rüstungskonzerne lange das Wichtigste. Aber jetzt, wo die Welt gar nicht genug Panzer bekommen kann, wird diese Branche wieder selbstbewusster. Schwere Waffen? Können wir liefern.",
-      "url": "https://www.sueddeutsche.de/politik/rheinmetall-panzer-ukraine-1.5602298",
-      "author": "Caspar Busse und Thomas Fromm, Allach/Taufkirchen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5592917/208x156"
-    },
-    {
-      "title": "Über Stock und über Stein",
-      "teaser": "Beim \"Man versus Horse\"-Marathon in Wales messen sich Mensch und Pferd auf langer Distanz. Aber schneller als ein Pferd zu sein - geht das überhaupt?",
-      "url": "https://www.sueddeutsche.de/panorama/man-versus-horse-marathon-gelaendelauf-rennpferd-pferderennen-wales-1.5602898",
-      "author": "Moritz Geier",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602900/208x156"
+      "title": "In aller Kürze",
+      "teaser": "Thomas Gottschalk hat sich von seinen Locken verabschiedet, Campino betet zum Fußballgott und Lizzo möchte diskriminierungsfreie Texte schreiben.",
+      "url": "https://www.sueddeutsche.de/panorama/promis-promi-news-thomas-gottschalk-lizzo-campino-dwayne-johnson-1.5602851",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602853/208x156"
     },
     {
       "title": "\"Was ich über Mord weiß, ist, dass jeder von uns es in sich hat\"",
@@ -349,6 +337,20 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5602317/208x156"
     },
     {
+      "title": "Wie man morgens gut in den Tag startet",
+      "teaser": "Nicht immer ist es leicht, sich gleich nach dem Aufstehen zu motivieren. Ein paar Tricks können aber dabei helfen, besser gelaunt mit der Arbeit zu beginnen.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/der-perfekte-morgen-welche-hacks-helfen-gut-in-den-tag-zu-starten-e175890/",
+      "author": "Elisa von Grafenstein",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602939/208x156"
+    },
+    {
+      "title": "Warum der Tankrabatt nicht wirkt",
+      "teaser": "Die Preise an den Tankstellen steigen, trotz Spritpreisbremse. Anders als die Mineralölindustrie behauptet, liegt das nicht nur am teuren Rohöl, auch die Gewinne sind gewachsen. Eine Analyse in Grafiken.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/tankrabatt-wie-die-oelindustrie-an-der-krise-verdient-e343303/",
+      "author": "Felix Hartmann und Sören Müller-Hansen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5595718/208x156"
+    },
+    {
       "title": "\"Wir sind nicht mehr und nicht länger die Ausnahme der Euro-Zone\"",
       "teaser": "Griechenlands Wirtschaft läuft wieder besser. Im Sommer will die EU die verschärfte Finanzkontrolle beenden. Finanzminister Christian Lindner sieht dennoch \"große Herausforderungen\".",
       "url": "https://www.sueddeutsche.de/wirtschaft/christian-lindner-griechenland-christos-staikouras-finanzminister-1.5602811",
@@ -356,23 +358,10 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5602895/208x156"
     },
     {
-      "title": "Berlin blockiert Einlagensicherung der EU",
-      "teaser": "Die Finanzminister der Euro-Staaten können sich nicht auf ein System zum Schutz der Sparer einigen. Dabei geht es erneut um die Frage, wer im Ernstfall für wen haften soll.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/edis-einlagensicherung-donohoe-lindner-eu-1.5603132",
-      "author": "Björn Finke, Brüssel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603133/208x156"
-    },
-    {
-      "title": "Vier Klos für 8,8 Millionen Menschen",
-      "teaser": "Starbucks will seine Strategie überdenken, dass auch Nicht-Kunden die Toiletten der Filialen benutzen dürfen. Dabei hat sich der Staat zu lange darauf verlassen, dass der Markt auch das regelt.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/oeffentliche-toiletten-in-den-usa-vier-klos-fuer-8-8-millionen-menschen-1.5602690",
-      "author": "Jürgen Schmieder, Los Angeles",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602982/208x156"
-    },
-    {
       "title": "DIW-Ökonom: \"Der Tankrabatt kostet mehr als er nützt\"",
       "teaser": "Der Tankrabatt entwickelt sich zum Flop. Warum die hohen Preise trotzdem richtig sind, erklärt der Wettbewerbs-Ökonom Tomaso Duso vom DIW.",
       "url": "https://www.sueddeutsche.de/wirtschaft/podcast-nachrichten-tankrabatt-diw-enzin-1.5602367",
+      "author": "Lars Langenau",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.4051509/208x156",
       "image_title": "Auf den Punkt Teaserbild"
     },
@@ -430,11 +419,10 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5602919/208x156"
     },
     {
-      "title": "Nur mal nachgefragt",
-      "teaser": "Wie der australische \"Sydney Morning Herald\" die Schauspielerin Rebel Wilson zwang, über ihr Liebesleben auszupacken.",
-      "url": "https://www.sueddeutsche.de/medien/rebel-wilson-outing-1.5603051",
-      "author": "Christiane Lutz",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603052/208x156"
+      "title": "Einnahmen höher",
+      "teaser": "Nach der Erhöhung des Rundfunkbeitrags sind die Erträge für die öffentlich-rechtlichen Rundfunkanstalten 2021 auf 8,4 Milliarden Euro gestiegen.",
+      "url": "https://www.sueddeutsche.de/medien/rundfunkbeitrag-einnahmen-2021-1.5603015",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603016/208x156"
     },
     {
       "title": "Drei Mopeds, nur bedingt fahrtüchtig",
@@ -460,18 +448,17 @@
       "image_title": "Andrew Redmayne"
     },
     {
+      "title": "WHO beruft wegen Affenpocken Notfallausschuss ein",
+      "teaser": "Der Expertenrat entscheidet, ob es sich - wie beim Coronavirus - um eine \"gesundheitliche Notlage von internationaler Tragweite\" handelt. Die EU hat sich mit Impfstoff eingedeckt.",
+      "url": "https://www.sueddeutsche.de/gesundheit/affenpocken-who-notfallaussschuss-1.5603105",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603106/208x156"
+    },
+    {
       "title": "Mutiertes Virus bedroht Honigbienen",
       "teaser": "Eine neue Variante des Flügeldeformationsvirus breitet sich rasant aus. Der Erreger ist aggressiver als sein Vorgänger. Ist er auch für Wildbienen gefährlich?",
       "url": "https://www.sueddeutsche.de/wissen/artensterben-bienen-fluegeldeformationsvirus-varroamilbe-1.5602855",
       "author": "Tina Baier",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5602877/208x156"
-    },
-    {
-      "title": "Windstrom aus dem Drachenkraftwerk",
-      "teaser": "Mehrere Unternehmen wollen Strom erzeugen, indem sie Drachen durch die Luft kreisen lassen. Die Anlagen sind kaum sichtbar und leicht zu transportieren - könnten aber an der Bürokratie scheitern.",
-      "url": "https://www.sueddeutsche.de/wissen/windkraft-drachen-skysails-hoehenwind-1.5601994",
-      "author": "Ralph Diermann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5601995/208x156"
     },
     {
       "title": "Corona-Neuinfektionen steigen deutlich an",
