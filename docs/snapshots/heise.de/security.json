@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-14T10:26:26",
+  "timestamp": "2022-06-14T11:17:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Drupal",
+      "url": "https://www.heise.de/news/Update-installieren-Drupal-Luecke-erlaubt-abermals-Website-Uebernahme-7140306.html"
+    },
+    {
       "title": "Confluence Server und Data Center",
       "url": "https://www.heise.de/news/Krypto-Miner-und-Verschluesselungstrojaner-schluepfen-durch-Confluence-Luecke-7138563.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Fortinet-entfernt-hartcodierten-Schluessel-und-verhindert-unberechtigte-Zugriffe-7136620.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-sieben-Sicherheitsluecken-ab-7136533.html"
+      "title": "Update installieren: Drupal-Lücke erlaubt abermals Website-Übernahme",
+      "teaser": "Weitere Sicherheitslecks in der Guzzle-Bibliothek ermöglichen Angreifern, verwundbare Drupal-Installationen zu kompromittieren. Updates dichten die Lücken ab.",
+      "url": "https://www.heise.de/news/Update-installieren-Drupal-Luecke-erlaubt-abermals-Website-Uebernahme-7140306.html",
+      "image_title": "Aufmacher Drupal-Updte schließt Sicherheitslücken"
     },
     {
       "title": "Paketmanager: PyPI-Pakete wurden versehentlich mit Malware ausgeliefert",
@@ -63,15 +69,15 @@
       "url": "https://www.heise.de/news/Cyberangriff-beim-Darmstaedter-Energieversorger-Entega-7138161.html"
     },
     {
+      "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
+      "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
+      "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
+    },
+    {
       "title": "PHP: Updates verhindern Einschleusen von Schadcode",
       "teaser": "Fehler in PHP-Modulen zur Verbindung mit SQL-Datenbanken erlauben die Ausführung beliebigen Codes. Admins von Shared-Hosting-Servern sollten schnell updaten.",
       "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html",
       "image_title": "Aufmacher PHP-Update schließt RCE-Lücken"
-    },
-    {
-      "title": "Diese Methoden und Tools verhindern schwache Passwörter",
-      "teaser": "Starke Passwörter müssen bestimmten Anforderungen genügen. Um Firmen-Accounts wirksam abzusichern, gibt es eine ganze Reihe von Methoden, die nur umgesetzt werden müssen. Bei der praktischen Einführung unterstützen Passwort-Tools.",
-      "url": "https://www.heise.de/solutions/specops/diese-methoden-und-tools-verhindern-schwache-passwoerter/?source=nat_teas"
     },
     {
       "title": "Azure Firewall: Cloud-Service um Auto-Zertifikate und Web-Filter erweitert",
@@ -155,11 +161,6 @@
       "teaser": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt. 10 % Rabatt bis 21.6.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-7133429.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Neu in iOS 16 & Co: Schnellere Patches, persönlicher Sicherheitscheck",
-      "teaser": "Apple will Sicherheitsverbesserungen unabhängig von großen System-Updates ausliefern. Ein Sicherheitscheck soll Nutzern in missbräuchlichen Beziehungen helfen.",
-      "url": "https://www.heise.de/news/Neu-in-iOS-16-Co-Schnellere-Patches-persoenlicher-Sicherheitscheck-7134177.html"
     },
     {
       "title": "heise Security Tour 2022",
