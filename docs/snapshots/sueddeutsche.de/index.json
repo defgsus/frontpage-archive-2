@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-14T18:26:33",
+  "timestamp": "2022-06-14T19:17:28",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,12 +78,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -128,11 +122,18 @@
   ],
   "articles": [
     {
+      "title": "Warum der Tankrabatt nicht wirkt",
+      "teaser": "Die Preise an den Tankstellen steigen, trotz Spritpreisbremse. Anders als die Mineralölindustrie behauptet, liegt das nicht nur am teuren Rohöl, auch die Gewinne sind gewachsen. Eine Analyse in Grafiken.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/tankrabatt-wie-die-oelindustrie-an-der-krise-verdient-e343303/",
+      "author": "Felix Hartmann und Sören Müller-Hansen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5595718/1000x420"
+    },
+    {
       "title": "Mit welchen Waffen Deutschland die Ukraine unterstützen will",
       "teaser": "Bundeskanzler Olaf Scholz will nicht mit leeren Händen in die Ukraine reisen. Trotzdem ist offen, ob er die hohen Erwartungen von Präsident Wolodimir Selenskij vollständig erfüllen kann.",
       "url": "https://www.sueddeutsche.de/politik/scholz-kiew-besuch-waffen-1.5603189",
       "author": "Daniel Brössler und Paul-Anton Krüger, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603190/1000x420"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603190/208x156"
     },
     {
       "title": "Rätselraten um Gazprom",
@@ -143,27 +144,39 @@
       "image_title": "Mehr Gas-Pipelines gen Westen"
     },
     {
-      "title": "Jens Spahns 540-Millionen-Deal",
-      "teaser": "Bei einem der teuersten Verträge des Bundesgesundheitsministeriums im Kampf gegen Corona häufen sich Ungereimtheiten. Die Staatsanwaltschaft Berlin ermittelt wegen Schmiergeldverdacht. Nicht gegen Ex-Minister Spahn - aber er ist politisch verantwortlich.",
-      "url": "https://www.sueddeutsche.de/politik/corona-maskengeschaeft-jens-spahn-1.5602791",
-      "author": "Markus Grill und Klaus Ott, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603218/208x156",
-      "image_title": "Health Authorities Hold Coronavirus Media Update"
+      "title": "Wenn Essen zu teuer wird",
+      "teaser": "Der Bauernverband und Landwirtschaftsminister Özdemir sind sich einig: Die Politik sollte etwas gegen steigende Lebensmittelpreise tun. Doch ihre Lösungswege unterscheiden sich.",
+      "url": "https://www.sueddeutsche.de/politik/lebensmittel-teuer-bauern-1.5603175",
+      "author": "Jens Schneider",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603176/208x156"
     },
     {
-      "title": "Was für eine Chance für den Einzelnen und die Gesellschaft",
-      "teaser": "Der Bundespräsident möchte eine \"Soziale Pflichtzeit\", nicht nur für Junge. Eine wertvolle Idee - wenn sie ohne Zwang auskommt. Und anständig bezahlt wird.",
+      "title": "Was für eine Chance",
+      "teaser": "Bundespräsident Steinmeier möchte eine \"Soziale Pflichtzeit\". Eine schöne Idee, unter ein paar Bedingungen könnte sie die Arbeitswelt revolutionieren.",
       "url": "https://www.sueddeutsche.de/kultur/steinmeier-wehrpflicht-pflegenotstand-care-arbeit-degrowth-1.5603229",
       "author": "Philipp Bovermann",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5437681/600x337"
     },
     {
-      "title": "Merz und die Frauen, mal wieder",
-      "teaser": "Für den CDU-Chef könnte es gerade kaum besser laufen. Doch nun kommt das Thema Frauenquote wieder auf. Bislang drückt sich Merz vor einer Entscheidung. Kommt er damit durch?",
-      "url": "https://www.sueddeutsche.de/politik/frauenquote-cdu-friedrich-merz-1.5602340",
-      "author": "Robert Roßmann, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602548/600x337",
-      "image_title": "Wahlveranstaltung für Oberbürgermeister Hilbert"
+      "title": "Jens Spahns 540-Millionen-Deal",
+      "teaser": "Bei einem der teuersten Verträge des Bundesgesundheitsministeriums im Kampf gegen Corona häufen sich Ungereimtheiten. Die Staatsanwaltschaft Berlin ermittelt wegen Schmiergeldverdacht. Nicht gegen Ex-Minister Spahn - aber er ist politisch verantwortlich.",
+      "url": "https://www.sueddeutsche.de/politik/corona-maskengeschaeft-jens-spahn-1.5602791",
+      "author": "Markus Grill und Klaus Ott, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603218/600x337",
+      "image_title": "Health Authorities Hold Coronavirus Media Update"
+    },
+    {
+      "title": "Putin-Gegner Nawalny ist wohl an unbekannten Ort gebracht worden",
+      "teaser": "\"Alexej ist verschwunden, es gibt keine Angaben dazu, wo er sich befindet\", sagt seine Sprecherin. Ob er in ein anderes Straflager verlegt wurde, ist unklar.",
+      "url": "https://www.sueddeutsche.de/politik/nawalny-russland-straflager-1.5603248",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5539672/208x156"
+    },
+    {
+      "title": "Darf der Bundestag in der EU-Außenpolitik ausgeschlossen bleiben?",
+      "teaser": "Ob Schleuser auf dem Mittelmeer oder europäische Verteidigung: Inwieweit die Bundesregierung das Parlament informieren muss, bevor sie Wichtiges in der EU-Außenpolitik mitentscheidet - darüber denken Karlsruher Richter nun gründlich nach.",
+      "url": "https://www.sueddeutsche.de/politik/bundesverfassungsgericht-eu-aussenpolitik-bundesregierung-bundestag-1.5603120",
+      "author": "Wolfgang Janisch, Karlsruhe",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.4299111/208x156"
     },
     {
       "title": "Grünes Siegel für Atomkraft? Nein, danke!",
@@ -174,11 +187,26 @@
       "image_title": "AKW Isar Copyright JOKER ErichxHäfele JOKER110205560806"
     },
     {
+      "title": "Fällt bald die FFP2-Maskenpflicht in Bayerns Bussen und Bahnen?",
+      "teaser": "Gesundheitsminister Holetschek kann sich den Wechsel zum OP-Mund-Nasen-Schutz jedenfalls vorstellen. Angesichts steigender Corona-Zahlen warnt er aber vor zu großer Unbekümmertheit.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-maskenpflicht-corona-ffp2-bus-bahn-holetschek-1.5603076",
+      "author": "Andreas Glas und Johann Osel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5516098/208x156"
+    },
+    {
+      "title": "Neuer rettet spektakulär - Kimmich trifft zur Führung",
+      "teaser": "Nach nicht mal zehn Minuten zeigt der Torhüter gegen Italien die nächste Weltklasseparade. Nur ein paar Momente später verwerte Joshua Kimmich eine Hereingabe von David Raum zum 1:0.",
+      "url": "https://liveticker.sueddeutsche.de/fussball/uefa-nations-league/deutschland/italien/2022-06-14.html",
+      "author": "Das Spiel im Liveticker",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603249/600x337",
+      "image_title": "Germany v Italy: UEFA Nations League - League Path Group 3"
+    },
+    {
       "title": "Warten auf die Beweisführung",
       "teaser": "Stuttgarts Profi Atakan Karazor sitzt auf Ibiza weiterhin in Untersuchungshaft. Nun gibt es offenbar neue Erkenntnisse zum Fall - eine schnelle Klärung ist scheinbar nicht in Sicht.",
       "url": "https://www.sueddeutsche.de/sport/karazor-ibiza-untersuchungshaft-stuttgart-1.5603141",
       "author": "Christof Kneer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603142/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603142/208x156"
     },
     {
       "title": "Vieles spricht für die skandalträchtige These",
@@ -188,18 +216,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5603195/208x156"
     },
     {
-      "title": "Ein Nobody verblüfft die Weltspitze",
-      "teaser": "Erst einmal stand Tim van Rijthoven in der ersten Runde eines ATP-Turniers - das war vor sechs Jahren. Jetzt besiegt er all seine Topgegner, sogar den neuen Weltranglisten-Ersten. Und findet eine einfache Erklärung dafür.",
-      "url": "https://www.sueddeutsche.de/sport/tennis-tim-van-rijthoven-daniil-medwedew-1.5602307",
-      "author": "Gerald Kleffmann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602310/208x156"
-    },
-    {
-      "title": "Fällt bald die FFP2-Maskenpflicht in Bayerns Bussen und Bahnen?",
-      "teaser": "Gesundheitsminister Holetschek kann sich den Wechsel zum OP-Mund-Nasen-Schutz jedenfalls vorstellen. Angesichts steigender Corona-Zahlen warnt er aber vor zu großer Unbekümmertheit.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-maskenpflicht-corona-ffp2-bus-bahn-holetschek-1.5603076",
-      "author": "Andreas Glas und Johann Osel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5516098/208x156"
+      "title": "Der Juni, ein Schicksalsmonat",
+      "teaser": "Der Sommermonat bildet den Wandel im Verhältnis von Mensch und Umwelt schärfer ab als jede andere Jahreszeit. Längst entscheidet er nicht mehr über Leben und Tod. Doch der Zauber alter Mythen ist noch zu spüren, zum Beispiel im Kalender.",
+      "url": "https://www.sueddeutsche.de/bayern/juni-bayern-brauchtum-fronleichnam-siebenschlaefer-johannisfeuer-1.5602976",
+      "author": "Hans Kratzer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602977/600x337"
     },
     {
       "title": "\"Ich habe mehrere Quellen, die ihren Beziehungsstatus bestätigen\"",
@@ -306,11 +327,12 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5603098/208x156"
     },
     {
-      "title": "Nachrichten am 14. Juni 2022",
-      "teaser": "Was heute wichtig war - und was Sie auf SZ.de am meisten interessiert hat.",
-      "url": "https://www.sueddeutsche.de/politik/news-nachrichten-ukraine-lebensmittelpreise-bgh-oekosiegel-1.5603217",
-      "author": "Ayça Balcı",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603176/208x156"
+      "title": "Merz und die Frauen, mal wieder",
+      "teaser": "Für den CDU-Chef könnte es gerade kaum besser laufen. Doch nun kommt das Thema Frauenquote wieder auf. Bislang drückt sich Merz vor einer Entscheidung. Kommt er damit durch?",
+      "url": "https://www.sueddeutsche.de/politik/frauenquote-cdu-friedrich-merz-1.5602340",
+      "author": "Robert Roßmann, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602548/208x156",
+      "image_title": "Wahlveranstaltung für Oberbürgermeister Hilbert"
     },
     {
       "title": "In aller Kürze",
@@ -340,17 +362,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5602939/208x156"
     },
     {
-      "title": "Warum der Tankrabatt nicht wirkt",
-      "teaser": "Die Preise an den Tankstellen steigen, trotz Spritpreisbremse. Anders als die Mineralölindustrie behauptet, liegt das nicht nur am teuren Rohöl, auch die Gewinne sind gewachsen. Eine Analyse in Grafiken.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/tankrabatt-wie-die-oelindustrie-an-der-krise-verdient-e343303/",
-      "author": "Felix Hartmann und Sören Müller-Hansen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5595718/208x156"
-    },
-    {
       "title": "Bundesregierung stützt Gazprom Germania mit Milliardenbetrag",
       "teaser": "Der Schritt soll die Pleite des Unternehmens verhindern und so die Versorgungssicherheit in Deutschland gewährleisten, heißt es als Begründung.",
       "url": "https://www.sueddeutsche.de/wirtschaft/gazprom-germania-staatshilfen-1.5603153",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5603165/208x156"
+    },
+    {
+      "title": "\"Wir sind nicht mehr und nicht länger die Ausnahme der Euro-Zone\"",
+      "teaser": "Griechenlands Wirtschaft läuft wieder besser. Im Sommer will die EU die verschärfte Finanzkontrolle beenden. Finanzminister Christian Lindner sieht dennoch \"große Herausforderungen\".",
+      "url": "https://www.sueddeutsche.de/wirtschaft/christian-lindner-griechenland-christos-staikouras-finanzminister-1.5602811",
+      "author": "Henrike Roßbach, Athen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602895/208x156"
     },
     {
       "title": "DIW-Ökonom: \"Der Tankrabatt kostet mehr als er nützt\"",
@@ -420,12 +442,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5603016/208x156"
     },
     {
-      "title": "Flick setzt wieder auf Sané",
-      "teaser": "Gibt es das nächste 1:1? Um das in Mönchengladbach zu verhindern, bringt Bundestrainer Hansi Flick gegen Italien wieder den zuletzt kritisierten Flügelspieler.",
-      "url": "https://liveticker.sueddeutsche.de/fussball/uefa-nations-league/deutschland/italien/2022-06-14.html",
-      "author": "Das Spiel im Liveticker",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5603239/208x156",
-      "image_title": "UEFA Nations League - Group C - Germany v Italy"
+      "title": "Ein Nobody verblüfft die Weltspitze",
+      "teaser": "Erst einmal stand Tim van Rijthoven in der ersten Runde eines ATP-Turniers - das war vor sechs Jahren. Jetzt besiegt er all seine Topgegner, sogar den neuen Weltranglisten-Ersten. Und findet eine einfache Erklärung dafür.",
+      "url": "https://www.sueddeutsche.de/sport/tennis-tim-van-rijthoven-daniil-medwedew-1.5602307",
+      "author": "Gerald Kleffmann",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5602310/208x156"
     },
     {
       "title": "Drei Mopeds, nur bedingt fahrtüchtig",
