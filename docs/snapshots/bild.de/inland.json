@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-15T10:27:15",
+  "timestamp": "2022-06-15T11:19:05",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.20c82d40.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.c347d9db.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Nachbarn nach Doppelmord in Angst : Schlich der Killer nachmittags in die Idylle?",
-      "url": "https://www.bild.de/bild-plus/regional/hannover/hannover-aktuell/nachbarn-nach-doppelmord-in-angst-schlich-der-killer-nachmittags-in-die-idylle-80396536.bild.html",
-      "image_url": "https://images.bild.de/62a866500e43da6f9f2c5438/27ce46aeed159aa5e547a8f908c68b8c,90dc4f95?w=656",
-      "image_title": "Nachbarn nach Doppelmord in Angst: Schlich der Killer nachmittags in die Idylle?"
-    },
-    {
-      "title": "Vom FBI überführt : Die Krypto-Bande von Limbach-Oberfrohna",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/vom-fbi-ueberfuehrt-die-krypto-bande-von-limbach-oberfrohna-80405664.bild.html",
-      "image_url": "https://images.bild.de/62a9819f783d1871d27a3fe8/cd2f3f3803cc0840f31c42a601725413-miniSquare,8228e6d?w=320",
-      "image_title": "Vom FBI überführt: Die Krypto-Bande von Limbach-Oberfrohna"
-    },
-    {
-      "title": "US-Botschafterin emotional : Besuch im Haus, das die Nazis der Familie nahmen",
-      "url": "https://www.bild.de/news/inland/news-inland/us-botschafterin-emotional-besuch-im-haus-dass-die-nazis-der-familie-nahmen-80387596.bild.html",
-      "image_url": "https://images.bild.de/62a73c494c1b430d62ff043f/0e9bb4e6ff8e0940981a7fed979564bb-miniSquare,daa2c591?w=320",
-      "image_title": "US-Botschafterin Amy Gutmann: Besuch im Haus, das die Nazis der Familie nahmen"
-    },
-    {
-      "title": "Panzer & Scharfschützen : Spektakuläre Razzia gegen Drogenhändler",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/mit-panzer-und-scharfschuetzen-razzia-gegen-drogenhaendler-80403428.bild.html",
-      "image_url": "https://images.bild.de/62a8cacc0e43da6f9f2c5554/2d310eac19de5fa36858f0a9869ddcfa-miniSquare,acf9d155?w=320",
-      "image_title": "Mit Panzer und Scharfschützen!: Spektakuläre Razzia gegen Drogenhändler"
-    },
-    {
-      "title": "Zwangsversteigerung der Villen : Schickt Clan-Boss Abou-Chaker Strohmänner?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/kleinmachnow-clan-villen-versteigert-ermittler-arafat-bietet-wohl-ueber-strohleu-80406182.bild.html",
-      "image_url": "https://images.bild.de/62a98a60783d1871d27a400d/8390cc31099859be6ee03f9e269aa2ad-miniSquare,1e4fd0ec?w=320",
-      "image_title": "Kleinmachnow: Clan-Villen versteigert! Ermittler: Arafat bietet wohl über Strohleute mit"
-    },
-    {
-      "title": "Drama in Gera : Junge (10) ertrinkt in Strandbad",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/drama-in-gera-junge-10-ertrinkt-in-strandbad-80404310.bild.html",
-      "image_title": "Drama in Gera: Junge (10) ertrinkt in Strandbad"
-    },
-    {
-      "title": "Täter filmte sich selbst : Spanner-Panne im Schlafzimmer!",
-      "teaser": "Hier hat es ein Spanner der Justiz einfach gemacht: Er liefert den Video-Beweis gleich mit.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/prozess-um-spanner-panne-im-schlafzimmer-hier-filmt-sich-der-taeter-selbst-80404128.bild.html",
-      "image_title": "Prozess um Spanner-Panne im Schlafzimmer: Hier filmt sich der Täter selbst!"
-    },
-    {
-      "title": "Dauerstau : So kaputt sind unsere Straßen und Brücken",
-      "teaser": "346 000 Stunden standen die Deutschen im letzten Jahr in einem der 685 000 Staus herum.",
-      "url": "https://www.bild.de/news/inland/news-inland/stau-in-deutschland-so-kaputt-sind-unsere-strassen-und-bruecken-80402260.bild.html",
-      "image_title": "Stau in Deutschland: So kaputt sind unsere Straßen und Brücken"
-    },
-    {
-      "title": "Garmisch-Partenkirchen : Heute soll Unglücks-Lok geborgen werden",
-      "teaser": "Garmisch-Partenkirchen – Nach dem verheerenden Zugunglück sollen heute die Lokomotive sowie der letzte Waggon geborgen werden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/garmisch-partenkirchen-heute-soll-ungluecks-lok-geborgen-werden-80404532.bild.html",
-      "image_title": "Garmisch-Partenkirchen: Heute soll Unglücks-Lok geborgen werden"
-    },
-    {
-      "title": "Experte erklärt : Darum fallen unsere Autobahnbrücken auseinander",
-      "teaser": "Konzipiert waren sie für 80 Jahre, doch viele Autobahnbrücken fallen schon auseinander.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/verkehrsexperte-erklaert-darum-fallen-unsere-autobahnbruecken-auseinander-80403810.bild.html",
-      "image_title": "Verkehrsexperte erklärt: Darum fallen unsere Autobahnbrücken auseinander"
-    },
-    {
-      "title": "Perlen-Diebe jagen ihn : Geheimer Muschel-Schatz in deutschem Bach versteckt",
-      "teaser": "Ein Gebirgsbach, irgendwo in Deutschland. Das Versteck der Flussperlmuscheln ist geheim!",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/perlen-diebe-jagen-ihn-streng-geheimer-muschel-schatz-in-bach-versteckt-80402356.bild.html",
-      "image_title": "Perlen-Diebe jagen ihn: Streng geheimer Muschel-Schatz in Bach versteckt"
-    },
-    {
-      "title": "Inzidenzen schießen rauf : Verdirbt uns die neue Corona-Variante den Sommer?",
-      "teaser": "Eine neue Corona-Virusvariante ist auf dem Vormarsch und droht, uns den Sommerurlaub zu vermiesen.",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/corona-inzidenzen-rauf-verdirbt-die-neue-virusvariante-uns-den-sommer-80377990.bild.html",
-      "image_title": "Corona: Inzidenzen rauf! Verdirbt die neue Virusvariante uns den Sommer?"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 30 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 14. Juni 2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-14-juni-80334662.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 14. Juni"
-    },
-    {
-      "title": "War es doch Mord? : Todesrätsel um Lenkas (†50) Fenstersturz",
-      "teaser": "Auf den ersten Blick sah alles nach einer Verzweiflungstat – nach Suizid – aus. Doch der Tod von Lenka S. (†50) weitet sich zum Kriminalfall aus.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/war-es-doch-mord-todesraetsel-um-lenkas-50-fenstersturz-80399818.bild.html",
-      "image_title": "War es doch Mord? Todesrätsel um Lenkas (†50) Fenstersturz"
-    },
-    {
-      "title": "Motiv gebrochenes Herz? : Mann soll Gattin erstickt und Haus gesprengt haben",
-      "teaser": "Mit den Händen soll er seiner Frau so lange Mund und Nase zugehalten haben, bis sie tot war.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/prozess-mann-soll-gattin-erstickt-und-haus-gesprengt-haben-80401698.bild.html",
-      "image_title": "Prozess: Mann soll Gattin erstickt und Haus gesprengt haben"
-    },
-    {
-      "title": "Fluppen-Fahndung : Zoll findet 1 Mio. Schmuggel-Zigaretten in Lkw",
-      "teaser": "Statt Duftkerzen hatte der Lastwagen unversteuerte Zigaretten und Shisha-Tabak geladen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-zoll-findet-1-mio-schmuggel-zigaretten-in-lkw-80400454.bild.html",
-      "image_title": "Dresden: Zoll findet 1 Mio. Schmuggel-Zigaretten in Lkw"
-    },
-    {
-      "title": "Beim Wandern mit den Eltern : Junge (13) von Lkw erfasst und getötet",
-      "teaser": "Kollnburg – Tragödie in Niederbayern – die Eltern mussten wohl alles mit ansehen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/beim-wandern-mit-den-eltern-bub-13-von-lkw-erfasst-und-getoetet-80401362.bild.html",
-      "image_title": "Beim Wandern mit den Eltern: Junge (13) von Lkw erfasst und getötet"
-    },
-    {
-      "title": "Vater und Frau getötet : Haftrichter schickt Tatverdächtigen in Psychiatrie",
-      "teaser": "Verdacht des Totschlags, des dreifachen versuchten Mordes und eines vollendeten Mordes.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mannheim-vater-und-frau-getoetet-festgenommener-nicht-ansprechbar-80396386.bild.html",
-      "image_title": "Mannheim: Vater und Frau getötet: Tatverdächtiger in Psychiatrie"
-    },
-    {
-      "title": "Antisemitisches Relief : Wittenberger „Judensau“ darf bleiben",
-      "teaser": "Das als „Judensau“ bezeichnetes Sandsteinrelief darf nun endgültig bleiben.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/judensau-urteil-antisemitisches-relief-darf-an-wittenberger-kirche-bleiben-80396066.bild.html",
-      "image_title": "Wittenberg: „Judensau“ darf bleiben – BGH entscheidet für Kirchengemeinde"
-    },
-    {
-      "title": "Mutmaßlicher Killer : Vergewaltigte Arztsohn nach dem Mord eine Frau?",
-      "teaser": "Ab 1. Juli steht Max D. wegen Mordes an Jesse L. vor Gericht. Ihm wird aber mehr vorgeworfen.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-vergewaltigte-arztsohn-nach-dem-dem-mord-eine-20-jaehrige-80389944.bild.html",
-      "image_title": "Leipzig: Vergewaltigte Arztsohn nach dem Mord eine 20-Jährige?"
-    },
-    {
-      "title": "Comeback der Billig-Airline : Ryanair fliegt wieder ab Leipzig",
-      "teaser": "Dublin und London stehen im Winter auf dem Flugplan der irischen Fluggesellschaft.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/billig-airline-ryanair-fliegt-wieder-ab-flughafen-leipzig-halle-80396774.bild.html",
-      "image_title": "Leipzig-Flughafen: Ryanair fliegt nach Dublin und London"
-    },
-    {
-      "title": "Bluttat in Niedersachsen : Ehepaar im eigenen Keller ermordet",
-      "teaser": "Die Polizei hat in einem Haus in Wennigsen am Deister zwei Tote entdeckt.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/wenningsen-mann-und-frau-am-deister-tot-gefunden-80383454.bild.html",
-      "image_title": "Wennigsen: Ehepaar im eigenen Keller ermordet"
-    },
-    {
-      "title": "Polizei ermittelt : Tierquäler warfen Katzen-Baby in Tüte ins Wasser",
-      "teaser": "Die unterkühlte Katze wurde von einer Passantin",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/freiburg-tierquaeler-warfen-katzen-baby-in-tuete-ins-wasser-80396274.bild.html",
-      "image_title": "Freiburg: Tierquäler warfen Katzen-Baby in Tüte ins Wasser"
-    },
-    {
-      "title": "Neue Serie in BILD: Das gelähmte Land : Ist Sicherheit bei uns nur noch ein Wort?",
-      "teaser": "Täglich kommt es in Deutschland zu 82 Raub-Überfällen, zu 27 schweren Sexualverbrechen,...",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/serie-in-bild-das-gelaehmte-land-ist-sicherheit-bei-uns-nur-noch-ein-wort-80391962.bild.html",
-      "image_title": "Deutschland: Das gelähmte Land. Ist Sicherheit bei uns nur noch ein Wort?"
-    },
-    {
-      "title": "Drei Laster beteiligt : Schwerer Lkw-Crash auf A14 bei Leipzig",
-      "teaser": "Die Fahrerkabine zerstört, das Blech zertrümmert. LKW-Unfall auf der A14 bei Leipzig.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/schwer-verletzter-fahrer-schwerer-lkw-crash-auf-a14-bei-leipzig-80394108.bild.html",
-      "image_title": "Unfall auf A 14: Schwerer Lkw-Crash bei Leipzig/ Schkeuditzer Kreuz"
-    },
-    {
-      "title": "Weltweites Phänomen : „Erdbeermond“ raubt den Schlaf",
-      "url": "https://www.bild.de/video/clip/video/weltweites-phaenomen-supermond-raubt-den-schlaf-80406968,auto=true.bild.html",
-      "image_title": "Weltweites Phänomen: „Erdbeermond“ raubt den Schlaf"
-    },
-    {
-      "title": "Bushido, Bordelle, Berlin : So mächtig ist der Abou-Chaker-Clan",
-      "url": "https://www.bild.de/video/clip/video/doku-clans-von-berlin-3-die-macht-der-abou-chakers-80246806,auto=true.bild.html",
-      "image_title": "Bushido, Bordelle, Berlin: So mächtig ist der Abou-Chaker-Clan"
-    },
-    {
-      "title": "Clans von Berlin – Staffel 3 : Der Aufstieg der Abou-Chakers",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/clans-von-berlin-staffel-3-der-aufstieg-der-abou-chakers-80394304,auto=true.bild.html",
-      "image_title": "Clans von Berlin Staffel 3: Der Aufstieg der Abou-Chakers"
-    }
-  ]
+  "articles": []
 }
