@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-06-15T20:22:34",
+  "timestamp": "2022-06-15T21:18:38",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +25,223 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.dbaac831.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.d0843cfd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Hier filmt sich der Täter aus Versehen selbst : Spanner-Panne im Schlafzimmer!",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-um-spanner-panne-im-schlafzimmer-hier-filmt-sich-der-taeter-selbst-80404128.bild.html",
+      "image_url": "https://images.bild.de/62a8dd5b783d1871d27a3f61/b221c7048c5b63be65edc57f1c724c30,c0daeb7?w=656",
+      "image_title": "Prozess um Spanner-Panne im Schlafzimmer: Hier filmt sich der Täter selbst!"
+    },
+    {
+      "title": "Sie fühlen sich schärfer denn je : Studie verrät unser geilstes Alter!",
+      "url": "https://www.bild.de/news/inland/news-inland/umfrage-zeigt-ue-50er-fuehlen-sich-schaerfer-denn-je-80412852.bild.html",
+      "image_url": "https://images.bild.de/62a9ff621f3f027461ff5a03/8e7e2fe9403726147fe62de2a335193f-miniSquare,e1ae9582?w=320",
+      "image_title": "Umfrage zeigt: Ü-50er fühlen sich schärfer denn je"
+    },
+    {
+      "title": "Skandal um Homosexualität? : „Tatort“-Schauspieler erhebt schwere Vorwürfe gegen ARD",
+      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/nicht-schwul-kein-job-ard-diskriminiert-heterosexuellen-schauspieler-80411192.bild.html",
+      "image_url": "https://images.bild.de/62a9e40102a857123c27490c/76cda1fb0ebf8a97f6a500081757073d-miniSquare,dcf79516?w=320",
+      "image_title": "„Tatort“-Schauspieler erhebt schwere Vorwürfe gegen ARD"
+    },
+    {
+      "title": "Energie-Preise explodieren : Inflation! Unsere Firma kann sich Gas nicht mehr leisten",
+      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/energiepreis-inflation-unsere-firma-kann-sich-gas-nicht-mehr-leisten-80414130.bild.html",
+      "image_url": "https://images.bild.de/62aa2808aecff1544d896901/b3072d2fdf6ab501377ee816d5f2d56d-miniSquare,3abc2cd7?w=320",
+      "image_title": "Energiepreis: Inflation! Unsere Firma kann sich Gas nicht mehr leisten"
+    },
+    {
+      "title": "Verbrechen in Köln : Mann (23) in eigener Wohnung erstochen",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/horror-in-koeln-kalk-23-jaehriger-in-wohnung-erstochen-80413232.bild.html",
+      "image_url": "https://images.bild.de/62aa044c21bbe36cb2211497/144c147045c04f761746d13ee866bde9-miniSquare,f12849ab?w=320",
+      "image_title": "Köln: Mann (23) in eigener Wohnung erstochen"
+    },
+    {
+      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
+      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-15-juni-80334818.bild.html",
+      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen vom 15. Juni"
+    },
+    {
+      "title": "Perlen-Diebe jagen ihn : Geheimer Muschel-Schatz in deutschem Bach versteckt",
+      "teaser": "Ein Gebirgsbach, irgendwo in Deutschland. Das Versteck der Flussperlmuscheln ist geheim!",
+      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/perlen-diebe-jagen-ihn-streng-geheimer-muschel-schatz-in-bach-versteckt-80402356.bild.html",
+      "image_title": "Perlen-Diebe jagen ihn: Streng geheimer Muschel-Schatz in Bach versteckt"
+    },
+    {
+      "title": "Inzidenzen schießen rauf : Verdirbt uns die neue Corona-Variante den Sommer?",
+      "teaser": "Eine neue Corona-Virusvariante ist auf dem Vormarsch und droht, uns den Sommerurlaub zu vermiesen.",
+      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/corona-inzidenzen-rauf-verdirbt-die-neue-virusvariante-uns-den-sommer-80377990.bild.html",
+      "image_title": "Corona: Inzidenzen rauf! Verdirbt die neue Virusvariante uns den Sommer?"
+    },
+    {
+      "title": "Hund vor Supermarkt geklaut : Polizist lässt nicht locker und findet „Buddy“",
+      "teaser": "Greifswald – Die Polizei, dein Freund und Helfer! Und in dieser Geschichte sogar noch mit Spürnase und Tierliebe... Eine Hundebesitz...",
+      "url": "https://www.bild.de/news/inland/news-inland/hund-vor-supermarkt-geklaut-polizist-laesst-nicht-locker-und-findet-buddy-80411658.bild.html",
+      "image_title": "Hund vor Supermarkt geklaut: Polizist lässt nicht locker und findet „Buddy“"
+    },
+    {
+      "title": "Bushido-Arafat-Villen : Wer ist der Sohn, der das Anwesen gekauft hat?",
+      "teaser": "„Ahmed Abou-Chaker (...) erhält den Zuschlag“ – Rechtspflegerin Silke Tischbein, Amtsgericht Potsdam, bei der Zwangsvollstreckung.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/villen-von-bushido-und-arafat-abou-chaker-wer-ist-der-sohn-der-alles-kauft-80410706.bild.html",
+      "image_title": "Villen von Bushido und Arafat Abou-Chaker: Wer ist der Sohn, der alles kauft?"
+    },
+    {
+      "title": "Haftbefehl : Oma bewahrt Enkel in letzter Minute vor Knast",
+      "teaser": "Die Polizei hat am Dienstag einen Mann (39) festgenommen. Seine Oma rettete ihn vor dem Knast.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/bitterfeld-oma-rettet-per-haftbefehl-gesuchten-enkel-vor-knast-80409718.bild.html",
+      "image_title": "Bitterfeld: Oma rettet per Haftbefehl gesuchten Enkel vor Knast"
+    },
+    {
+      "title": "Vier Verletzte : Falschfahrer (82) baut Massen-Crash und haut ab",
+      "teaser": "Ein Falschfahrer verursachte auf Bundesstraße 93 bei Zwickau-Crossen einen Unfall und haute ab. Vier Personen wurden verletzt.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-falschfahrer-verursacht-massen-crash-und-haut-an-80409970.bild.html",
+      "image_title": "Unfall: Falschfahrer verursacht Massen-Crash und haut ab"
+    },
+    {
+      "title": "BILD-Serie – Das gelähmte Land : 850 000 Kilometer Stau!",
+      "teaser": "346 000 Stunden standen die Deutschen im letzten Jahr in einem der 685 000 Staus herum.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/stau-in-deutschland-so-kaputt-sind-unsere-strassen-und-bruecken-80402260.bild.html",
+      "image_title": "Stau in Deutschland: So kaputt sind unsere Straßen und Brücken"
+    },
+    {
+      "title": "US-Botschafterin emotional : Besuch im Haus, das die Nazis der Familie nahmen",
+      "teaser": "Es ist wie eine Rückkehr an einen Ort, an dem sie noch nie war. Aber es ist der Platz i...",
+      "url": "https://www.bild.de/news/inland/news-inland/us-botschafterin-emotional-besuch-im-haus-dass-die-nazis-der-familie-nahmen-80387596.bild.html",
+      "image_title": "US-Botschafterin Amy Gutmann: Besuch im Haus, das die Nazis der Familie nahmen"
+    },
+    {
+      "title": "Drama in Gera : Junge (10) ertrinkt in Strandbad",
+      "teaser": "Beim Badeausflug mit Verwandten ist am Dienstag in Gera ein Junge (10) ertrunken.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/drama-in-gera-junge-10-ertrinkt-in-strandbad-80404310.bild.html",
+      "image_title": "Drama in Gera: Junge (10) ertrinkt in Strandbad"
+    },
+    {
+      "title": "Nachbarn in Angst : Schlich der Killer nachmittags in die Idylle?",
+      "teaser": "Doch Karsten (59) und Sabine U. (60) aus Holtensen sind tot, brutal ermordet. Die Leichen lagen im Keller.",
+      "url": "https://www.bild.de/bild-plus/regional/hannover/hannover-aktuell/nachbarn-nach-doppelmord-in-angst-schlich-der-killer-nachmittags-in-die-idylle-80396536.bild.html",
+      "image_title": "Nachbarn nach Doppelmord in Angst: Schlich der Killer nachmittags in die Idylle?"
+    },
+    {
+      "title": "Vom FBI überführt : Die Krypto-Bande von Limbach-Oberfrohna",
+      "teaser": "In Zwickau sind fünf Männer angeklagt, die über 90 Kilo Rauschgift nach Sachsen brachten.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/vom-fbi-ueberfuehrt-die-krypto-bande-von-limbach-oberfrohna-80405664.bild.html",
+      "image_title": "Vom FBI überführt: Die Krypto-Bande von Limbach-Oberfrohna"
+    },
+    {
+      "title": "Panzer & Scharfschützen : Spektakuläre Razzia gegen Drogenhändler",
+      "teaser": "Spektakulärer Einsatz gegen mutmaßliche Waffen- und Drogenhändler im Ruhrgebiet!",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/mit-panzer-und-scharfschuetzen-razzia-gegen-drogenhaendler-80403428.bild.html",
+      "image_title": "Mit Panzer und Scharfschützen!: Spektakuläre Razzia gegen Drogenhändler"
+    },
+    {
+      "title": "Zwangsversteigerung der Villen : Schickt Clan-Boss Abou-Chaker Strohmänner?",
+      "teaser": "Das Mega-Anwesen von Bushido und Clan-Boss Arafat Abou-Chaker (46) wird zwangsversteigert.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/kleinmachnow-clan-villen-versteigert-ermittler-arafat-bietet-wohl-ueber-strohleu-80406182.bild.html",
+      "image_title": "Kleinmachnow: Clan-Villen versteigert! Ermittler: Arafat bietet wohl über Strohleute mit"
+    },
+    {
+      "title": "Garmisch-Partenkirchen : Heute soll Unglücks-Lok geborgen werden",
+      "teaser": "Garmisch-Partenkirchen – Nach dem verheerenden Zugunglück sollen heute die Lokomotive sowie der letzte Waggon geborgen werden.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/garmisch-partenkirchen-heute-soll-ungluecks-lok-geborgen-werden-80404532.bild.html",
+      "image_title": "Garmisch-Partenkirchen: Heute soll Unglücks-Lok geborgen werden"
+    },
+    {
+      "title": "Experte erklärt : Darum fallen unsere Autobahnbrücken auseinander",
+      "teaser": "Konzipiert waren sie für 80 Jahre, doch viele Autobahnbrücken fallen schon auseinander.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/verkehrsexperte-erklaert-darum-fallen-unsere-autobahnbruecken-auseinander-80403810.bild.html",
+      "image_title": "Verkehrsexperte erklärt: Darum fallen unsere Autobahnbrücken auseinander"
+    },
+    {
+      "title": "Eurojackpot am Dienstag : Haben Sie die 30 Millionen Euro gewonnen?",
+      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 14. Juni 2022.",
+      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-14-juni-80334662.bild.html",
+      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 14. Juni"
+    },
+    {
+      "title": "War es doch Mord? : Todesrätsel um Lenkas (†50) Fenstersturz",
+      "teaser": "Auf den ersten Blick sah alles nach einer Verzweiflungstat – nach Suizid – aus. Doch der Tod von Lenka S. (†50) weitet sich zum Kriminalfall aus.",
+      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/war-es-doch-mord-todesraetsel-um-lenkas-50-fenstersturz-80399818.bild.html",
+      "image_title": "War es doch Mord? Todesrätsel um Lenkas (†50) Fenstersturz"
+    },
+    {
+      "title": "Motiv gebrochenes Herz? : Mann soll Gattin erstickt und Haus gesprengt haben",
+      "teaser": "Mit den Händen soll er seiner Frau so lange Mund und Nase zugehalten haben, bis sie tot war.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/prozess-mann-soll-gattin-erstickt-und-haus-gesprengt-haben-80401698.bild.html",
+      "image_title": "Prozess: Mann soll Gattin erstickt und Haus gesprengt haben"
+    },
+    {
+      "title": "Fluppen-Fahndung : Zoll findet 1 Mio. Schmuggel-Zigaretten in Lkw",
+      "teaser": "Statt Duftkerzen hatte der Lastwagen unversteuerte Zigaretten und Shisha-Tabak geladen.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-zoll-findet-1-mio-schmuggel-zigaretten-in-lkw-80400454.bild.html",
+      "image_title": "Dresden: Zoll findet 1 Mio. Schmuggel-Zigaretten in Lkw"
+    },
+    {
+      "title": "Auto rast in Sattelzug : Lkw-Inferno auf A24",
+      "url": "https://www.bild.de/video/clip/video/feuer-unfall-auf-der-a24-mir-ist-hinten-einer-raufgeknallt-nonstopnews-80409922,auto=true.bild.html",
+      "image_title": "Auto rast in Sattelzug: Lkw-Inferno auf A24"
+    },
+    {
+      "title": "Weltweites Phänomen : „Erdbeermond“ raubt den Schlaf",
+      "url": "https://www.bild.de/video/clip/video/weltweites-phaenomen-supermond-raubt-den-schlaf-80406968,auto=true.bild.html",
+      "image_title": "Weltweites Phänomen: „Erdbeermond“ raubt den Schlaf"
+    },
+    {
+      "title": "Bushido, Bordelle, Berlin : So mächtig ist der Abou-Chaker-Clan",
+      "url": "https://www.bild.de/video/clip/video/doku-clans-von-berlin-3-die-macht-der-abou-chakers-80246806,auto=true.bild.html",
+      "image_title": "Bushido, Bordelle, Berlin: So mächtig ist der Abou-Chaker-Clan"
+    }
+  ]
 }
