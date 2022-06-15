@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-15T08:28:42",
+  "timestamp": "2022-06-15T09:20:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-InDesign-Illustrator-Co-geschlossen-7141175.html"
+    },
+    {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-MSDT-Luecke-die-auch-ohne-Makros-funktioniert-7141070.html"
     },
@@ -44,18 +48,9 @@
       "url": "https://www.heise.de/news/Krypto-Miner-und-Verschluesselungstrojaner-schluepfen-durch-Confluence-Luecke-7138563.html"
     },
     {
-      "title": "PHP",
-      "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html"
-    },
-    {
       "title": "Sicherheitslücke Hertzbleed: x86-Prozessortaktung verrät Geheimnisse",
-      "teaser": "Ein Forscherteam belauscht kryptografische Berechnungen auf modernen x86-CPUs anhand charakteristicher Taktfrequenzänderungen.",
+      "teaser": "Ein Forscherteam belauscht kryptografische Berechnungen auf modernen x86-CPUs anhand charakteristischer Taktfrequenzänderungen.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Hertzbleed-x86-Prozessortaktung-verraet-Geheimnisse-7141221.html"
-    },
-    {
-      "title": "Patchday: Microsoft schließt MSDT-Lücke, die auch ohne Makros funktioniert",
-      "teaser": "Windows ist unter anderem über Word verwundbar, wobei auch RTF-Formate genutzt werden können. Aber auch Azure, Edge & Co. bekommen wichtige Sicherheitsupdates.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-MSDT-Luecke-die-auch-ohne-Makros-funktioniert-7141070.html"
     },
     {
       "title": "Sparkassen-Browser S-Protect: Hersteller behebt einige Fehler",
@@ -70,20 +65,32 @@
       "image_title": "Handschellen auf Notebook-Tastatur"
     },
     {
+      "title": "Ransomware-Angriff auf hessischen IT-Dienstleister mit weitreichenden Folgen",
+      "teaser": "Eine Cyber-Attacke auf eine IT-Firma lähmt seit Tagen einige Unternehmen im Rhein-Main-Gebiet. Experten arbeiten an einer Lösung, doch das kann dauern.",
+      "url": "https://www.heise.de/news/Ransomware-Angriff-auf-hessischen-IT-Dienstleister-mit-weitreichenden-Folgen-7140974.html"
+    },
+    {
       "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
       "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
       "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
     },
     {
-      "title": "Ransomware-Angriff auf hessischen IT-Dienstleister mit weitreichenden Folgen",
-      "teaser": "Eine Cyber-Attacke auf eine IT-Firma lähmt seit Tagen einige Unternehmen im Rhein-Main-Gebiet. Experten arbeiten an einer Lösung, doch das kann dauern.",
-      "url": "https://www.heise.de/news/Ransomware-Angriff-auf-hessischen-IT-Dienstleister-mit-weitreichenden-Folgen-7140974.html"
+      "title": "Exploit-Baukasten Metasploit 6.2 bringt viele neue Module mit",
+      "teaser": "Die Entwickler des Exploit-Frameworks Metasploit haben der neuen Version 6.2 zahlreiche neue Module mitgegeben. Zudem gibt es viele Fehlerbehebungen.",
+      "url": "https://www.heise.de/news/Exploit-Baukasten-Metasploit-6-2-bringt-viele-neue-Module-mit-7140574.html",
+      "image_title": "Aufmacher Metasploit 6.2 veröffentlicht"
     },
     {
       "title": "Sicherheitslücke im Apple M1 Chip: Pacman-Attacke umgeht Schutzschicht",
       "teaser": "Angriffe auf den M1-Prozessor sind durch ein Zusammenspiel von Hard- und Software möglich. Apple sieht allerdings keine unmittelbare Gefahr.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-im-Apple-M1-Chip-Pacman-Attacke-umgeht-Schutzschicht-7140316.html",
       "image_title": "Apple M1"
+    },
+    {
+      "title": "Update installieren: Drupal-Lücke erlaubt abermals Website-Übernahme",
+      "teaser": "Weitere Sicherheitslecks in der Guzzle-Bibliothek ermöglichen Angreifern, verwundbare Drupal-Installationen zu kompromittieren. Updates dichten die Lücken ab.",
+      "url": "https://www.heise.de/news/Update-installieren-Drupal-Luecke-erlaubt-abermals-Website-Uebernahme-7140306.html",
+      "image_title": "Aufmacher Drupal-Updte schließt Sicherheitslücken"
     },
     {
       "title": "Paketmanager: PyPI-Pakete wurden versehentlich mit Malware ausgeliefert",
@@ -154,11 +161,6 @@
       "teaser": "Der Netzwerkausrüster Zyxel warnt vor Sicherheitslücken in älteren Firewalls, deren Support ausgelaufen ist. Abhilfe schaffe der Austausch mit neueren Geräten.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-veralteten-Zyxel-Firewalls-Neukauf-als-Fix-7135405.html",
       "image_title": "Aufmacher Sicherheislücke in alten Zyxel-Firewalls ohne Fix"
-    },
-    {
-      "title": "heise Security Tour 2022: Wissen schützt!",
-      "teaser": "Die jährliche Konferenz der heise-Security-Redaktion liefert praxisrelevantes Wissen für IT-Sicherheitsverantwortliche und Datenschützer.",
-      "url": "https://www.heise.de/news/heise-Security-Tour-2022-Wissen-schuetzt-7127587.html"
     },
     {
       "title": "heise Security Tour 2022",
