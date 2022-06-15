@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-15T07:20:30",
+  "timestamp": "2022-06-15T08:28:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-MSDT-Luecke-die-auch-ohne-Makros-funktioniert-7141070.html"
+    },
+    {
       "title": "Drupal",
       "url": "https://www.heise.de/news/Update-installieren-Drupal-Luecke-erlaubt-abermals-Website-Uebernahme-7140306.html"
     },
@@ -44,14 +48,36 @@
       "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html"
     },
     {
-      "title": "Fortinet",
-      "url": "https://www.heise.de/news/Fortinet-entfernt-hartcodierten-Schluessel-und-verhindert-unberechtigte-Zugriffe-7136620.html"
+      "title": "Sicherheitslücke Hertzbleed: x86-Prozessortaktung verrät Geheimnisse",
+      "teaser": "Ein Forscherteam belauscht kryptografische Berechnungen auf modernen x86-CPUs anhand charakteristicher Taktfrequenzänderungen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Hertzbleed-x86-Prozessortaktung-verraet-Geheimnisse-7141221.html"
+    },
+    {
+      "title": "Patchday: Microsoft schließt MSDT-Lücke, die auch ohne Makros funktioniert",
+      "teaser": "Windows ist unter anderem über Word verwundbar, wobei auch RTF-Formate genutzt werden können. Aber auch Azure, Edge & Co. bekommen wichtige Sicherheitsupdates.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-MSDT-Luecke-die-auch-ohne-Makros-funktioniert-7141070.html"
     },
     {
       "title": "Sparkassen-Browser S-Protect: Hersteller behebt einige Fehler",
       "teaser": "S-Protect soll das Online-Banking sicherer machen, sogar auf infizierten Rechnern. Einige der von c't gefundenen Schwachstellen hat der Hersteller ausgebessert.",
       "url": "https://www.heise.de/news/Sparkassen-Browser-S-Protect-Hersteller-behebt-einige-Fehler-7136701.html",
       "image_title": "Aufmacher S-Protect schließt paar Lücken"
+    },
+    {
+      "title": "Straftaten im Netz: Polizei setzt neue Software gegen Cybercrime ein",
+      "teaser": "Längst findet Diebstahl verstärkt im Netz statt. Um der Entwicklung nicht hinterherzulaufen, arbeiten Ermittler in Niedersachsen mit dem neuen \"Cyberguide\".",
+      "url": "https://www.heise.de/news/Straftaten-im-Netz-Polizei-setzt-neue-Software-gegen-Cybercrime-ein-7140982.html",
+      "image_title": "Handschellen auf Notebook-Tastatur"
+    },
+    {
+      "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
+      "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
+      "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
+    },
+    {
+      "title": "Ransomware-Angriff auf hessischen IT-Dienstleister mit weitreichenden Folgen",
+      "teaser": "Eine Cyber-Attacke auf eine IT-Firma lähmt seit Tagen einige Unternehmen im Rhein-Main-Gebiet. Experten arbeiten an einer Lösung, doch das kann dauern.",
+      "url": "https://www.heise.de/news/Ransomware-Angriff-auf-hessischen-IT-Dienstleister-mit-weitreichenden-Folgen-7140974.html"
     },
     {
       "title": "Sicherheitslücke im Apple M1 Chip: Pacman-Attacke umgeht Schutzschicht",
@@ -68,11 +94,6 @@
       "title": "Smartphones können mit Bluetooth-Signalen identifiziert und verfolgt werden",
       "teaser": "Bluetooth-Signale stellen eine Gefahr für die Standortverfolgung von Mobilgeräten dar, haben Forscher herausgefunden. Angriffe aber sind eine Herausforderung.",
       "url": "https://www.heise.de/news/Smartphones-koennen-mit-Bluetooth-Signalen-identifiziert-und-verfolgt-werden-7139849.html"
-    },
-    {
-      "title": "Diese Methoden und Tools verhindern schwache Passwörter",
-      "teaser": "Starke Passwörter müssen bestimmten Anforderungen genügen. Um Firmen-Accounts wirksam abzusichern, gibt es eine ganze Reihe von Methoden, die nur umgesetzt werden müssen. Bei der praktischen Einführung unterstützen Passwort-Tools.",
-      "url": "https://www.heise.de/solutions/specops/diese-methoden-und-tools-verhindern-schwache-passwoerter/?source=nat_teas"
     },
     {
       "title": "Krypto-Miner und Verschlüsselungstrojaner schlüpfen durch Confluence-Lücke",
@@ -140,28 +161,6 @@
       "url": "https://www.heise.de/news/heise-Security-Tour-2022-Wissen-schuetzt-7127587.html"
     },
     {
-      "title": "Verschlüsselnder USB-Stick von Verbatim unsicher: Experte zeigt Schwachstellen",
-      "teaser": "Gleich vier Sicherheitslücken hat der USB-Stick \"Verbatim Keypad Secure\" mit eingebauter PIN-Tastatur und der Hersteller reagiert nicht auf die Probleme.",
-      "url": "https://www.heise.de/news/Verschluesselnder-USB-Stick-von-Verbatim-unsicher-Experte-zeigt-Schwachstellen-7134990.html"
-    },
-    {
-      "title": "Zero-Day-Lücke: Cybergangs missbrauchen MSDT-Leck für Qakbot-Infektionen",
-      "teaser": "Die Cybergang hinter der Malware Quakbot missbraucht in Phishing-Kampagnen die MSDT-Zero-Day-Lücke. Infizierte Rechner verkauft sie meist an Ransomware-Banden.",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-Cybergangs-missbrauchen-MSDT-Leck-fuer-Qakbot-Infektionen-7134949.html",
-      "image_title": "Aufmacher Qakbot missbraucht MSDT-Zero-Day-Lücke"
-    },
-    {
-      "title": "Fehler in Linux-Kernel ermöglicht Rechteausweitung",
-      "teaser": "Ein Fehler im Firewall-Code des Linux-Kernels ermöglicht es Nutzern, Befehle als Root auszuführen. Administratoren können einen Workaround anwenden.",
-      "url": "https://www.heise.de/news/Fehler-in-Linux-Kernel-ermoeglicht-Rechteausweitung-7134791.html",
-      "image_title": "Aufmacher Rechteausweitung durch nftables-Lücke in Linux"
-    },
-    {
-      "title": "Kritische Schadcode-Lücke bedroht Universal Boot Loader U-Boot",
-      "teaser": "Die Entwickler von U-Boot haben zwei gefährliche Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Universal-Boot-Loader-U-Boot-7134785.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -183,19 +182,19 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
-      "title": "Re: Wie kann ich mit Kernel 5.17 starten (Im Menu 5.13)? MIt 5.13 ;-))",
+      "title": "Re: Wie kann ich mit Kernel 5.17 starten (Im Menu 5.13)",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Wie-kann-ich-mit-Kernel-5-17-starten-Im-Menu-5-13-MIt-5-13/posting-41141887/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Wie-kann-ich-mit-Kernel-5-17-starten-Im-Menu-5-13/posting-41143280/show/"
+    },
+    {
+      "title": "Re: Virenscan Log - Signatur Informationen fehlen",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Virenscan-Log-Signatur-Informationen-fehlen/posting-41143261/show/"
     },
     {
       "title": "Re: PXE/TFTP Boot möglich?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-TFTP-Boot-moeglich/posting-41141032/show/"
-    },
-    {
-      "title": "Re: Desinfect2USB-Installation von iso auf USB-Stick - Stick vorher gelöscht?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect2USB-Installation-von-iso-auf-USB-Stick-Stick-vorher-geloescht/posting-41140963/show/"
     }
   ]
 }
