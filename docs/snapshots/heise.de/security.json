@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-15T11:18:48",
+  "timestamp": "2022-06-15T12:42:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.be0dd26fe7132ee614b0",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.19103db6c1f2e44aef18",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/Patchday-Updates-bessern-zehn-SAP-Schwachstellen-aus-7141579.html"
+    },
     {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-InDesign-Illustrator-Co-geschlossen-7141175.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Update-installieren-Drupal-Luecke-erlaubt-abermals-Website-Uebernahme-7140306.html"
     },
     {
-      "title": "Confluence Server und Data Center",
-      "url": "https://www.heise.de/news/Krypto-Miner-und-Verschluesselungstrojaner-schluepfen-durch-Confluence-Luecke-7138563.html"
+      "title": "Patchday: Updates bessern zehn SAP-Schwachstellen aus",
+      "teaser": "Am Juni-Patchday hat SAP zehn Sicherheitslücken geschlossen. Für zwei ältere Sicherheitsmeldungen aktualisiert der Hersteller die Sicherheitsmeldungen.",
+      "url": "https://www.heise.de/news/Patchday-Updates-bessern-zehn-SAP-Schwachstellen-aus-7141579.html",
+      "image_title": "Aufmacher SAP Patchday"
+    },
+    {
+      "title": "l+f: Rauswurf bei Bug-Bounty-Plattform wegen Veröffentlichung",
+      "teaser": "Weil er keinen Proof-of-Concept lieferte, nahm Bugcrowd den Report einews Krypto-Experten nicht an. Auf seine Veröffentlichung folgte der Rauswurf.",
+      "url": "https://www.heise.de/news/l-f-Rauswurf-bei-Bug-Bounty-Plattform-wegen-Veroeffentlichung-7141488.html"
     },
     {
       "title": "Sicherheitslücke Hertzbleed: x86-Prozessortaktung verrät Geheimnisse",
@@ -59,6 +70,11 @@
       "image_title": "Aufmacher S-Protect schließt paar Lücken"
     },
     {
+      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
+      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
+    },
+    {
       "title": "Straftaten im Netz: Polizei setzt neue Software gegen Cybercrime ein",
       "teaser": "Längst findet Diebstahl verstärkt im Netz statt. Um der Entwicklung nicht hinterherzulaufen, arbeiten Ermittler in Niedersachsen mit dem neuen \"Cyberguide\".",
       "url": "https://www.heise.de/news/Straftaten-im-Netz-Polizei-setzt-neue-Software-gegen-Cybercrime-ein-7140982.html",
@@ -68,11 +84,6 @@
       "title": "Ransomware-Angriff auf hessischen IT-Dienstleister mit weitreichenden Folgen",
       "teaser": "Eine Cyber-Attacke auf eine IT-Firma lähmt seit Tagen einige Unternehmen im Rhein-Main-Gebiet. Experten arbeiten an einer Lösung, doch das kann dauern.",
       "url": "https://www.heise.de/news/Ransomware-Angriff-auf-hessischen-IT-Dienstleister-mit-weitreichenden-Folgen-7140974.html"
-    },
-    {
-      "title": "Diese Methoden und Tools verhindern schwache Passwörter",
-      "teaser": "Starke Passwörter müssen bestimmten Anforderungen genügen. Um Firmen-Accounts wirksam abzusichern, gibt es eine ganze Reihe von Methoden, die nur umgesetzt werden müssen. Bei der praktischen Einführung unterstützen Passwort-Tools.",
-      "url": "https://www.heise.de/solutions/specops/diese-methoden-und-tools-verhindern-schwache-passwoerter/?source=nat_teas"
     },
     {
       "title": "Exploit-Baukasten Metasploit 6.2 bringt viele neue Module mit",
@@ -152,17 +163,6 @@
       "image_title": "Aufmacher Tails 5.1 verbessert Verbindungsassistent"
     },
     {
-      "title": "Videokonferenz-Hardware Meeting Owl Pro wird sicherer, bleibt aber noch unsicher",
-      "teaser": "Der Hersteller der 360-Grad-Kamera Meeting Owl Pro und Whiteboard Owl beginnt, gefährliche Sicherheitslücken zu schließen.",
-      "url": "https://www.heise.de/news/Videokonferenz-Hardware-Meeting-Owl-Pro-wird-sicherer-bleibt-aber-noch-unsicher-7135941.html"
-    },
-    {
-      "title": "Sicherheitslücken in veralteten Zyxel-Firewalls: Neukauf als Fix",
-      "teaser": "Der Netzwerkausrüster Zyxel warnt vor Sicherheitslücken in älteren Firewalls, deren Support ausgelaufen ist. Abhilfe schaffe der Austausch mit neueren Geräten.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-veralteten-Zyxel-Firewalls-Neukauf-als-Fix-7135405.html",
-      "image_title": "Aufmacher Sicherheislücke in alten Zyxel-Firewalls ohne Fix"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -184,6 +184,11 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Re: Desinfect Update endet mit Nichts wurde aktualisiert",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-Update-endet-mit-Nichts-wurde-aktualisiert/posting-41144957/show/"
+    },
+    {
       "title": "Re: Wie kann ich mit Kernel 5.17 starten (Im Menu 5.13)",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Wie-kann-ich-mit-Kernel-5-17-starten-Im-Menu-5-13/posting-41143280/show/"
@@ -192,11 +197,6 @@
       "title": "Re: Virenscan Log - Signatur Informationen fehlen",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Virenscan-Log-Signatur-Informationen-fehlen/posting-41143261/show/"
-    },
-    {
-      "title": "Re: PXE/TFTP Boot möglich?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-TFTP-Boot-moeglich/posting-41141032/show/"
     }
   ]
 }
