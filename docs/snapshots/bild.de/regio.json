@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-16T21:17:55",
+  "timestamp": "2022-06-16T22:20:56",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,385 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dbaac831.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d0843cfd.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Stephanie Stumphs Baby ist da : „Kleiner Mann, wir sind ganz verliebt in dich“",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/stephanie-stumph-ist-mama-geworden-kleiner-mann-und-wir-sind-ganz-verliebt-in-di-80424826.bild.html",
-      "image_title": "Stephanie Stumph ist Mama geworden: „Kleiner Mann, wir sind ganz verliebt in dich“"
-    },
-    {
-      "title": "Cathy Hummels : Hochzeitstag mit Mats",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/cathy-und-mats-hummels-hochzeitstag-mit-dem-ex-80417104.bild.html",
-      "image_title": "Cathy und Mats Hummels: Hochzeitstag mit dem Ex"
-    },
-    {
-      "title": "Strand gesperrt! : Erstmals Walross auf Rügen",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/strand-gesperrt-erstmals-walross-auf-ruegen-gesichtet-80424546.bild.html",
-      "image_title": "Strand gesperrt! Erstmals Walross auf Rügen gesichtet"
-    },
-    {
-      "title": "Totalschaden! : Neuer Löschwagen bei Überführung zerstört",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/brandenburg-nagelneuer-loeschwagen-bei-ueberfuehrung-zerstoert-80424410.bild.html",
-      "image_title": "Brandenburg: Nagelneuer Löschwagen bei Überführung zerstört"
-    },
-    {
-      "title": "Zoll, LKA und Berliner Polizei : Kontrolle in Shisha-Bar von Rapper Massiv",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-shisha-bar-kontrolle-beim-al-massiva-caf-80419614.bild.html",
-      "image_title": "Berlin: Shisha-Bar-Kontrolle in Rapper-Café"
-    },
-    {
-      "title": "Ihr seid Helden! : Radfahrerin umgefahren! Diese Beiden stellten den Raser",
-      "teaser": "Abdul Ismilo und Dzalav Magomedov stellten den Raser, der eine Radfahrerin überfuhr und flüchtete.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-radfahrerin-umgefahren-diese-beiden-maenner-stellten-den-raser-80423794.bild.html",
-      "image_title": "Berlin: Radfahrerin umgefahren! Diese beiden Männer stellten den Raser"
-    },
-    {
-      "title": "Todesfahrt in Berlin : Für einige Opfer war es schon der 2. Amok-Lauf!",
-      "teaser": "Mehrere verletzte Schüler vom Ku'damm waren Augenzeugen, als 2020 ein Mann in einen Karnevalszug raste.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/todesfahrt-in-berlin-fuer-einige-opfer-war-es-schon-der-2-amok-lauf-80423938.bild.html",
-      "image_title": "Todesfahrt in Berlin: Für einige Opfer war es schon der 2. Amok-Lauf!"
-    },
-    {
-      "title": "Er machte es vor : Klasnic rät Kyereh zum Werder-Wechsel",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-legende-ivan-klasnic-raet-daniel-kofi-kyereh-zum-werder-wechsel-80420928.bild.html",
-      "image_title": "Werder Bremen: Legende Ivan Klasnic rät Daniel-Kofi Kyereh zum Werder-Wechsel"
-    },
-    {
-      "title": "Wegen Relegation : Extra-Urlaub für Neuzugang Stark",
-      "teaser": "Am Sonntag beginnt Werders Saisonvorbereitung. Neuzugang Stark wird noch nicht dabei sein.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-extra-urlaub-fuer-neuzugang-niklas-stark-80419956.bild.html",
-      "image_title": "Werder Bremen: Extra-Urlaub für Neuzugang Niklas Stark"
-    },
-    {
-      "title": "Nach Attacke auf Ex : Polizei nimmt Axt-Angreifer fest",
-      "teaser": "Nach der Axt-Attacke auf seine Ex-Freundin nahm die Polizei einen Tatverdächtigen fest.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/axt-angriff-auf-ex-polizei-nimmt-mann-fest-80415848.bild.html",
-      "image_title": "Hamburg: Nach Angriff auf Ex – Polizei nimmt Axt-Angreifer fest"
-    },
-    {
-      "title": "16-Jähriger tötete Mädchen mit Messer : Wiktorias (†16) Killer verurteilt!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/grossroehrsdorf-maedchen-erstochen-wiktorias-16-killer-verurteilt-80421478.bild.html",
-      "image_title": "Großröhrsdorf: Mädchen erstochen – Wiktorias (†16) Killer verurteilt!"
-    },
-    {
-      "title": "Letzter Sachsenring-Sieger : Cortese: Unsere GP-Zukunft ist düster",
-      "teaser": "Ein Rennen der Superlative. 2012 wurde der Sachsenring für Sandro Cortese zum Mythos.",
-      "url": "https://www.bild.de/sport/motorsport/motorsport/letzter-sachsenring-sieger-cortese-unsere-gp-zukunft-ist-duester-80423744.bild.html",
-      "image_title": "Letzter Sachsenring-Sieger Cortese: Unsere GP-Zukunft ist düster"
-    },
-    {
-      "title": "Darum bleibt Nazarov : „Aue war stärker als das Geld“",
-      "teaser": "Dimitrij Nazarov (32) und Aue gehen in die siebente gemeinsame Saison.",
-      "url": "https://www.bild.de/sport/fussball/fussball/nazarov-erklaert-seinen-verbleib-aue-war-staerker-als-das-geld-80420540.bild.html",
-      "image_title": "Nazarov erklärt seinen Verbleib: „Aue war stärker als das Geld“"
-    },
-    {
-      "title": "Auftakt mit Königsdörffer & Daferner : Dynamo legt wieder los!",
-      "url": "https://www.bild.de/sport/fussball/fussball/auftakt-mit-koenigsdoerffer-daferner-dynamo-legt-wieder-los-80420704.bild.html",
-      "image_title": "Auftakt mit Königsdörffer & Daferner: Dynamo legt wieder los!"
-    },
-    {
-      "title": "CSI: Sachsen : Das neue 60-Mio.-Geheimlabor des LKA",
-      "teaser": "Das LKA Sachsen hat ein neues hochmodernes Geheimlabor zur Verbrecherjagd.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-das-neue-geheimlabor-des-landeskriminalamts-80423620.bild.html",
-      "image_title": "Sachsen: Das neue Geheimlabor des Landeskriminalamts"
-    },
-    {
-      "title": "Staatsanwalt ermittelt : Beklauten Polizisten einen Kriminellen?",
-      "teaser": "Klauten kriminelle Beamte auf dem Plauener Revier einem Dieb 1000 Euro?",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/im-polizei-revier-plauen-klauten-polizisten-einem-dieb-1000-euro-80417468.bild.html",
-      "image_title": "Im Polizei-Revier Plauen: Klauten Polizisten einem Dieb 1000 Euro?"
-    },
-    {
-      "title": "Ex-Schützling erklärt den neuen Coach : DAS macht Farke richtig sauer!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/borussia-moenchengladbach-das-macht-daniel-farke-richtig-sauer-80417350.bild.html",
-      "image_title": "Borussia Mönchengladbach: DAS macht Daniel Farke richtig sauer!"
-    },
-    {
-      "title": "Bö zerstörte Vorgänger : Der Windrad-Prototyp steht wieder",
-      "teaser": "„Agile Wind Power“ hat auf dem Testfeld bei Grevenbroich ein neues Windrad aufgebaut.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/nach-boe-in-grevenbroich-der-windrad-prototyp-steht-wieder-80420072.bild.html",
-      "image_title": "Nach Bö in Grevenbroich: Der Windrad-Prototyp steht wieder"
-    },
-    {
-      "title": "Lumpi, Bodzek & Freier : U23 wird zur „Ü1000“",
-      "teaser": "Auch Fortunas Regionalliga-Team hat wieder losgelegt. Mit viel Prominenz auf dem Rasen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-u23-wird-zur-ue1000-80420884.bild.html",
-      "image_title": "Fortuna Düsseldorf: U23 wird zur „Ü1000“"
-    },
-    {
-      "title": "Auf Hessisch! Ex-MP spielt einen Polizisten : Bouffi macht Theater",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/auf-hessisch-ex-mp-spielt-einen-polizisten-bouffi-macht-theater-80421678.bild.html",
-      "image_title": "Auf Hessisch! Ex-MP spielt einen Polizisten: Bouffi macht Theater"
-    },
-    {
-      "title": "Science-Fiction-Schau : Riesen-Robos am Ratsweg",
-      "teaser": "Hier können Kids gegen Darth Vader kämpfen oder Selfies mit Transformers machen!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/science-fiction-schau-in-frankfurt-riesen-robos-am-ratsweg-80421888.bild.html",
-      "image_title": "Science-Fiction-Schau in Frankfurt: Riesen-Robos am Ratsweg"
-    },
-    {
-      "title": "Nachts ins Wasser : Taucher bergen toten 22-Jährigen",
-      "teaser": "Er feierte mit Freunden, ging nachts noch einmal schwimmen. Und kam nicht zurück.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/driedorf-nachts-ins-wasser-gegangen-taucher-bergen-toten-22-jaehrigen-80421552.bild.html",
-      "image_title": "Driedorf: Nachts ins Wasser gegangen: Taucher bergen toten 22-Jährigen"
-    },
-    {
-      "title": "im Hamburger Park : Kinder entdecken Handgranate",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/beim-spielen-im-park-kinder-entdecken-handgranate-80415784.bild.html",
-      "image_title": "Hamburg: Beim Spielen im Park – Kinder entdecken Handgranate"
-    },
-    {
-      "title": "Beach-Volleyball-WM : Schlimmer Finger, super Sieg!",
-      "teaser": "Cinja Tillmann & Svenja Müller stehen bei der WM in Rom im Viertelfinale. Trotz Handicap!",
-      "url": "https://www.bild.de/sport/mehr-sport/sport-mix/beachvolleyball-wm-in-rom-cinja-tillmann-svenja-mueller-im-viertelfinale-80423656.bild.html",
-      "image_title": "Beachvolleyball-WM in Rom: Cinja Tillmann/Svenja Müller im Viertelfinale"
-    },
-    {
-      "title": "Dramatische Rettung : Feuerwehr holt verschütteten Arbeiter aus Baugrube",
-      "teaser": "Unfalldrama auf einer Baustelle im Hamburger Stadtteil Lehmsal-Mellingstedt!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/dramatische-rettung-feuerwehr-holt-verschuetteten-arbeiter-aus-baugrube-80419234.bild.html",
-      "image_title": "Dramatische Rettung: Feuerwehr holt verschütteten Arbeiter aus Baugrube"
-    },
-    {
-      "title": "Hannover-Leihe bis 2024 : Top-Talent Foti schon da",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover96-leihe-bis-2024-top-talent-antonio-foti-ist-schon-da-80424322.bild.html",
-      "image_title": "Hannover 96: Leihe bis 2024! Top-Talent Antonio Foti ist schon da"
-    },
-    {
-      "title": "96-Neuzugang : Neumann singt Helene Fischer",
-      "teaser": "Hannovers Neuzugang Phil Neumann hat sich für seinen 96-Einstand schon etwas überlegt.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-kein-witz-phil-neumann-singt-helene-fischer-80420782.bild.html",
-      "image_title": "Hannover 96: Kein Witz! Phil Neumann singt Helene Fischer"
-    },
-    {
-      "title": "Karsten (†59) und Sabine (†60) : Rätsel um Doppelmord in der Dorf-Idylle",
-      "teaser": "Zwischen weiten Kornfeldern entdeckten Polizisten am Sonntag die Leichen von Karsten und Sabine U.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/warum-mussten-karsten-59-und-sabine-60-u-sterben-raetsel-um-doppelmord-in-der-do-80411168.bild.html",
-      "image_title": "Karsten (†59) und Sabine (†60) : Rätsel um Doppelmord in der Dorf-Idylle"
-    },
-    {
-      "title": "Schockierender Jahresbericht : 55 antisemitische Taten in Köln",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/schockierender-jahresbericht-55-antisemitische-taten-in-koeln-80420400.bild.html",
-      "image_title": "Schockierender Jahresbericht: 55 antisemitische Taten in Köln"
-    },
-    {
-      "title": "„Bachelorette“-Auftakt : Für DIESEN Spruch vergab Sharon ihre erste Rose",
-      "teaser": "Für ihre Männer-Suche hat sich Sharon viel vorgenommen. Mit einem Kandidaten funkte es sofort.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bachelorette-auftakt-fuer-diesen-spruch-vergab-sharon-ihre-erste-rose-80414506.bild.html",
-      "image_title": "„Bachelorette“-Auftakt: Für DIESEN Spruch vergab Sharon ihre erste Rose"
-    },
-    {
-      "title": "„Unter Uns“-Ausstieg : SEINE Beerdigung wurde schon gedreht!",
-      "teaser": "Es wird einsam in der „Schillerallee“: Bald verabschiedet sich wieder ein Star der Soap.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/unter-uns-schock-dieses-serien-urgestein-steigt-aus-80418860.bild.html",
-      "image_title": "„Unter uns“-Star steigt aus: SEINE Beerdigung wurde schon gedreht!"
-    },
-    {
-      "title": "RB Leipzig : Pokalspiel gegen Ottensen wohl nun in Dessau",
-      "url": "https://www.bild.de/sport/fussball/fussball/rb-leipzig-pokalspiel-gegen-ottensen-wohl-in-dessau-80422370.bild.html",
-      "image_title": "RB Leipzig: Pokalspiel gegen Ottensen wohl in Dessau"
-    },
-    {
-      "title": "Stadtrat einig : Hier baut Leipzig sein Einheitsdenkmal",
-      "teaser": "Im zweiten Anlauf für ein Freiheits- und Einheitsdenkmal in Leipzig hat der Stadtrat am Donnerstag über einen Standort abgestimmt.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/stadtrat-einig-hier-baut-leipzig-sein-einheitsdenkmal-80425142.bild.html",
-      "image_title": "Stadtrat einig: Hier baut Leipzig sein Einheitsdenkmal"
-    },
-    {
-      "title": "Sie kostet 24 Millionen Euro : Die Turnhalle der Zukunft",
-      "teaser": "Das erste Bauprojekt im Riesen-Quartier Bayerischer Bahnhof ist Leipzigs teuerster und auch größter Schulneubau.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-sie-kostet-24-millionen-euro-die-turnhalle-der-zukunft-80424710.bild.html",
-      "image_title": "Leipzig: Sie kostet 24 Millionen Euro – Die Turnhalle der Zukunft"
-    },
-    {
-      "title": "Bei Branchenkonferenz in Rostock : Impfgegner protestieren gegen Lauterbach",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/rostock-impfgegner-protestieren-gegen-lauterbach-80422192.bild.html",
-      "image_title": "Rostock: Impfgegner protestieren gegen Lauterbach"
-    },
-    {
-      "title": "Skandal um Homosexualität? : „Tatort“-Schauspieler erhebt schwere Vorwürfe gegen ARD",
-      "teaser": "Matthias Brenner (64) macht die Vorwürfe eines Kollegen öffentlich, die Redakteure und Produzenten belasten.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/tatort-schauspieler-matthias-brenner-erhebt-schwere-vorwuerfe-gegen-ard-80411192.bild.html",
-      "image_title": "„Tatort“-Schauspieler erhebt schwere Vorwürfe gegen ARD"
-    },
-    {
-      "title": "Neuzugang aus Aue : Strauß lässt für Hansa die Nationalelf sausen",
-      "teaser": "Neue Stadt, alte Bekannte: Hansa verpflichtete für den Klassenerhalt John Patrick Strauß.",
-      "url": "https://www.bild.de/sport/fussball/fussball/2-liga-riedel-laesst-fuer-hansa-die-nationalelf-sausen-80412956.bild.html",
-      "image_title": "2. Liga! Strauß lässt für Hansa die Nationalelf sausen"
-    },
-    {
-      "title": "Olivia (28) aus Bayern : Ich wollte eine Prada-Tasche und bekam drei Kühe",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/olivia-28-aus-bayern-ich-wollte-eine-prada-tasche-und-bekam-drei-kuehe-80421360.bild.html",
-      "image_title": "Olivia (28) aus Bayern: Ich wollte eine Prada-Tasche und bekam drei Kühe"
-    },
-    {
-      "title": "Löwen legen los : Wein und Willsch machen Köllner froh",
-      "teaser": "Am Freitag starten die Löwen ihre nächste Mission Aufstieg! Zunächst mit Leistungstests...",
-      "url": "https://www.bild.de/sport/fussball/fussball/1860-muenchen-michael-koellner-hat-alle-an-bord-80425424.bild.html",
-      "image_title": "1860 München: Michael Köllner hat alle an Bord"
-    },
-    {
-      "title": "32 Tage Musik und Kultur : Münchner Sommer-Tollwood gestartet",
-      "teaser": "München – 32 Tage lang bietet das Münchner Tollwood-Sommerfestival Kultur zum Nulltarif.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/32-tage-musik-und-kultur-muenchner-sommer-tollwood-gestartet-80424294.bild.html",
-      "image_title": "32 Tage Musik und Kultur : Münchner Sommer-Tollwood gestartet"
-    },
-    {
-      "title": "Stürmer-Suche : Club hat Krmencik im Blick",
-      "url": "https://www.bild.de/sport/fussball/fussball/stuermer-suche-der-fcn-hat-michael-krmencik-im-blick-80424494.bild.html",
-      "image_title": "Stürmer-Suche: Der FCN hat Michael Krmencik im Blick"
-    },
-    {
-      "title": "Mit Söder und Marx : Fronleichnams-Prozession am Marienplatz",
-      "teaser": "Endlich wieder Fronleichnamsprozession in München!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/mit-soeder-und-marx-fronleichnam-prozession-am-marienplatz-80419660.bild.html",
-      "image_title": "Mit Söder und Marx: Fronleichnams-Prozession am Marienplatz"
-    },
-    {
-      "title": "„Eis wird dünn“ : Rita Falk denkt über „Eberhofer“-Abschied nach",
-      "teaser": "Schock für Eberhofer Fans!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/eis-wird-duenn-rita-falk-denkt-ueber-eberhofer-abschied-nach-80419074.bild.html",
-      "image_title": "„Eis wird dünn“: Rita Falk denkt über „Eberhofer“-Abschied nach"
-    },
-    {
-      "title": "Kurt Knickmeier (59) : Der Mörder, der nicht sterben darf",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/kurt-knickmeier-59-der-moerder-der-nicht-sterben-darf-80426134.bild.html",
-      "image_title": "Kurt Knickmeier (59) : Der Mörder, der nicht sterben darf"
-    },
-    {
-      "title": "Von Impfgegner nach Paraguay entführt : Mädchen (10, 11) wieder in Deutschland!",
-      "teaser": "Nach dem Ende der Kindesentziehung in Paraguay sind die beiden Mädchen wieder in Deutsc...",
-      "url": "https://www.bild.de/news/2022/news/aus-paraguay-zurueck-entfuehrte-maedchen-wieder-in-deutschland-80420750.bild.html",
-      "image_title": "Von Impfgegner nach Paraguay entführt: Mädchen (10, 11) wieder in Deutschland!"
-    },
-    {
-      "title": "Auch wenn Frankfurt nicht klappt : Polter will weg aus Bochum!",
-      "teaser": "Wechselt Polter zu Frankfurt? Selbst, wenn der Wechsel noch platzen sollte, will er weg.",
-      "url": "https://www.bild.de/sport/fussball/fussball/auch-wenn-frankfurt-nicht-klappt-sebastian-polter-will-weg-vom-vfl-bochum-80424630.bild.html",
-      "image_title": "Auch wenn Frankfurt nicht klappt: Sebastian Polter will weg vom VfL Bochum!"
-    },
-    {
-      "title": "Weil die Saar so schön ist : Er läuft 230 Kilometer in drei Tagen",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/immer-an-der-saar-lang-martin-schedler-laeuft-230-kilometer-in-3-tagen-80423100.bild.html",
-      "image_title": "Immer an der Saar lang: Martin Schedler läuft 230 Kilometer in 3 Tagen"
-    },
-    {
-      "title": "Er kommt aus Rostock : Schwede ist Saarbrückens sechster Neuer",
-      "teaser": "Neuzugang Nummer 6 für den 1. FC Saarbrücken. Tobias Schwede (28) kommt aus Rostock.",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-rostocks-tobias-schwede-ist-der-sechste-neue-80421262.bild.html",
-      "image_title": "1. FC Saarbrücken: Rostocks Tobias Schwede ist der sechste Neue"
-    },
-    {
-      "title": "3 Jahre 6 Monate Haft : Rollstuhlfahrer missbrauchte Stieftochter",
-      "teaser": "Jürgen M. hat sich an seiner Stieftochter vergangen, bestritt die Taten bis zuletzt.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/saarbruecken-3-5-jahre-haft-rollstuhlfahrer-missbrauchte-stieftochter-80420510.bild.html",
-      "image_title": "Saarbrücken: 3,5 Jahre Haft: Rollstuhlfahrer missbrauchte Stieftochter"
-    },
-    {
-      "title": "Box-Hoffnung aus Bautzen : Eifert heiß auf Interconti-Gürtel",
-      "url": "https://www.bild.de/sport/mehr-sport/boxen/box-hoffnung-aus-bautzen-eifert-heiss-auf-interconti-guertel-80425102.bild.html",
-      "image_title": "Box-Hoffnung aus Bautzen: Eifert heiß auf Interconti-Gürtel"
-    },
-    {
-      "title": "Neuzugang vom BFC : Bolyki erfüllt sich HFC-Traum",
-      "teaser": "Einer der neuen Hoffnungsträger beim Halleschen FC ist Neuzugang Andor Bolyki.",
-      "url": "https://www.bild.de/sport/fussball/fussball/nach-verpasstem-aufstieg-mit-dem-bfc-bolyki-erfuellt-sich-hfc-traum-80422856.bild.html",
-      "image_title": "Nach verpasstem Aufstieg mit dem BFC: Bolyki erfüllt sich HFC-Traum"
-    },
-    {
-      "title": "Klettergarten in Kirche : Hoch hinaus im Gotteshaus",
-      "teaser": "In dieser Kirche kommen die Besucher dem Himmel ein ganzes Stück näher.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/koethen-sachsen-anhalt-klettergarten-in-kirche-aufgebaut-80423394.bild.html",
-      "image_title": "Köthen (Sachsen-Anhalt): Klettergarten in Kirche aufgebaut"
-    },
-    {
-      "title": "76 Mio. Euro wegen Verbrauchswertangaben : Porsche schließt Vergleich mit US-Klägern",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/76-mio-euro-porsche-schliesst-vergleich-mit-us-klaegern-80426226.bild.html",
-      "image_title": "76 Mio. Euro: Porsche schließt Vergleich mit US-Klägern"
-    },
-    {
-      "title": "Zwei Schwerverletzte : Autofahrerin rammt Mutter und Kind (2) und flieht!",
-      "teaser": "Drama im Landkreis Ludwigsburg!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/fahrerflucht-mutter-und-tochter-2-angefahren-schwer-verletzt-80415878.bild.html",
-      "image_title": "Autofahrerin rammt Mutter und Kind (2) – und fährt weiter!"
-    },
-    {
-      "title": "1,48 Promille : Betrunkener Mofafahrer zeigt sich selbst an",
-      "teaser": "Ein Mann hat am Mittwoch den Notruf gewählt, um sich selbst anzuzeigen",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/1-48-promille-betrunkener-mofafahrer-zeigt-sich-selbst-an-80418894.bild.html",
-      "image_title": "1,48 Promille: Betrunkener Mofafahrer zeigt sich selbst an"
-    },
-    {
-      "title": "Knarren, Kitsch und Handgranaten : Polizei entwaffnet Neonazi-Netzwerk",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/razzia-in-thueringen-mehrere-festnahme-durch-polizei-in-neonazi-szene-80422646.bild.html",
-      "image_title": "Razzia in Thüringen: Mehrere Festnahme durch Polizei in Neonazi-Szene"
-    },
-    {
-      "title": "Happy End! : Verletzter Billy wird Schloss-Schwan",
-      "teaser": "Für „Billy\", den Schwan vom Billeber Bach, hieß Überleben stets kämpfen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-verletzter-billy-wird-schloss-schwan-80423222.bild.html",
-      "image_title": "Thüringen: Verletzter Billy wird Schloss-Schwan"
-    },
-    {
-      "title": "Bier-Wut! : Oettinger-Brauer kämpften gegen Schließung",
-      "teaser": "250 Mitarbeiter des Bier-Riesen Oettinger zogen am Donnerstag vor die Werkstore in Gotha!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/gotha-oettinger-brauer-kaempften-gegen-schliessung-80422786.bild.html",
-      "image_title": "Gotha: Oettinger-Brauer kämpften gegen Schließung"
-    }
-  ]
+  "articles": []
 }
