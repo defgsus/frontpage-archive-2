@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-16T07:19:56",
+  "timestamp": "2022-06-16T08:30:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.19103db6c1f2e44aef18",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.18a970366d65b58a053f",
       "id": null,
       "text": null
     },
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Citrix ADM",
+      "url": "https://www.heise.de/news/Zuegig-aktualisieren-Angreifer-koennten-Citrix-ADM-uebernehmen-7142301.html"
+    },
+    {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-E-Mail-Schutz-von-Cisco-stoeren-7142340.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-Updates-bessern-zehn-SAP-Schwachstellen-aus-7141579.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-InDesign-Illustrator-Co-geschlossen-7141175.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-MSDT-Luecke-die-auch-ohne-Makros-funktioniert-7141070.html"
+      "title": "Zügig aktualisieren: Angreifer könnten Citrix ADM übernehmen",
+      "teaser": "In Citrix' Application Delivery Management-Software könnten Angreifer aus dem Netz eine Sicherheitslücke ausnutzen. Sie können damit volle Kontrolle erlangen.",
+      "url": "https://www.heise.de/news/Zuegig-aktualisieren-Angreifer-koennten-Citrix-ADM-uebernehmen-7142301.html",
+      "image_title": "Aufmacher Citrix ADM Sicherheitsupdate"
     },
     {
-      "title": "Drupal",
-      "url": "https://www.heise.de/news/Update-installieren-Drupal-Luecke-erlaubt-abermals-Website-Uebernahme-7140306.html"
+      "title": "Sicherheitsupdates: Angreifer könnten E-Mail-Schutz von Cisco stören",
+      "teaser": "Der Hersteller von Netzwerk-Hardware und -Software Cisco hat einige Produkte gegen mögliche Attacken abgesichert.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-E-Mail-Schutz-von-Cisco-stoeren-7142340.html"
     },
     {
       "title": "Schwachstelle in der API von Travis CI legt sensible Nutzerdaten offen",
@@ -60,6 +71,11 @@
       "image_title": "Aufmacher SAP Patchday"
     },
     {
+      "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
+      "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
+      "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
+    },
+    {
       "title": "l+f: Rauswurf bei Bug-Bounty-Plattform wegen Veröffentlichung",
       "teaser": "Weil er keinen Proof-of-Concept lieferte, nahm Bugcrowd den Report einews Krypto-Experten nicht an. Auf seine Veröffentlichung folgte der Rauswurf.",
       "url": "https://www.heise.de/news/l-f-Rauswurf-bei-Bug-Bounty-Plattform-wegen-Veroeffentlichung-7141488.html"
@@ -68,11 +84,6 @@
       "title": "Patchday Adobe: Schadcode-Lücken in InDesign, Illustrator & Co. geschlossen",
       "teaser": "Mehrere Adobe-Anwendungen sind über als kritisch eingestufte Schwachstellen attackierbar. Sicherheitsupdates schaffen Abhilfe.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-InDesign-Illustrator-Co-geschlossen-7141175.html"
-    },
-    {
-      "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
-      "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
-      "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
     },
     {
       "title": "Patchday: Microsoft schließt MSDT-Lücke, die auch ohne Makros funktioniert",
@@ -149,17 +160,6 @@
       "title": "Funkwellen-Alarmanlage gegen Hardware-Attacken",
       "teaser": "Forscher des Bochumer Max-Planck-Instituts für Sicherheit und Privatsphäre stellen einen neuartigen Schutz-Ansatz vor, um Hardware-Manipulationen aufzudecken.",
       "url": "https://www.heise.de/news/Funkwellen-Alarmanlage-gegen-Hardware-Attacken-7136806.html"
-    },
-    {
-      "title": "Fortinet entfernt hartcodierten Schlüssel und verhindert unberechtigte Zugriffe",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für mehrere Produkte von Fortinet. Einige Lücken gelten als kritisch.",
-      "url": "https://www.heise.de/news/Fortinet-entfernt-hartcodierten-Schluessel-und-verhindert-unberechtigte-Zugriffe-7136620.html"
-    },
-    {
-      "title": "Webbrowser: Chrome-Update dichtet sieben Sicherheitslücken ab",
-      "teaser": "Im Webbrowser Chrome finden sich mehrere Sicherheitslücken mit dem Schweregrad \"hoch\". Google schließt sie mit aktualisierten Versionen des Browsers.",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-sieben-Sicherheitsluecken-ab-7136533.html",
-      "image_title": "Aufmacher Google Chrome Sicherheitsupdate"
     },
     {
       "title": "heise Security Tour 2022",
