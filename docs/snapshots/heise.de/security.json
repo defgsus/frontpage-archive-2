@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-16T12:41:56",
+  "timestamp": "2022-06-16T13:38:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ZImbra",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-E-Mail-Loesung-Zimbra-kann-Zugangsdaten-leaken-7142998.html"
+    },
+    {
       "title": "Citrix ADM",
       "url": "https://www.heise.de/news/Zuegig-aktualisieren-Angreifer-koennten-Citrix-ADM-uebernehmen-7142301.html"
     },
@@ -44,13 +48,30 @@
       "url": "https://www.heise.de/news/Patchday-Updates-bessern-zehn-SAP-Schwachstellen-aus-7141579.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-InDesign-Illustrator-Co-geschlossen-7141175.html"
+      "title": "Sicherheitslücke in E-Mail-Lösung Zimbra kann Zugangsdaten leaken",
+      "teaser": "Angreifer könnten E-Mail-Traffic der E-Mail-Lösung Zimbra umleiten. Ein Sicherheitsupdate steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-E-Mail-Loesung-Zimbra-kann-Zugangsdaten-leaken-7142998.html"
+    },
+    {
+      "title": "Cyberangriff auf IT-System der Grünen: Hacker attackieren \"Grünes Netz\"",
+      "teaser": "Die Grünen sind zuletzt mehrfach Ziel von Hackerangriffen geworden. Von den Attacken sollen auch führende Persönlichkeiten der Partei betroffen sein.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-IT-System-der-Gruenen-7143010.html"
+    },
+    {
+      "title": "Sicherheitsindex sinkt: DsiN sieht IT-Sicherheitsgefälle in der Bevölkerung",
+      "teaser": "Der Deutschland sicher im Netz e.V hat seinen Sicherheitsindex für das Jahr 2022 vorgelegt. Er ist auf einen neuen Tiefstand gesunken.",
+      "url": "https://www.heise.de/news/Sicherheitslage-DsiN-sieht-IT-Sicherheitsgefaelle-in-der-Bevoelkerung-7142533.html",
+      "image_title": "Aufmacher DsiN Sicherheitsindex 2022"
     },
     {
       "title": "Sicherheitsupdates: Angreifer könnten E-Mail-Schutz von Cisco stören",
       "teaser": "Der Hersteller von Netzwerk-Hardware und -Software Cisco hat einige Produkte gegen mögliche Attacken abgesichert.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-E-Mail-Schutz-von-Cisco-stoeren-7142340.html"
+    },
+    {
+      "title": "Wie Sie Ihr Rechenzentrum mit KI optimieren können",
+      "teaser": "Künstliche Intelligenz dringt in immer neue Bereiche vor, das autonome Fahren wird durch sie bald Realität. Auch im Rechenzentrum ist der vollautomatische Betrieb keine Zukunftsmusik. Erfahren Sie im Live-Webcast am 19. Juli, wie Sie Ihr RZ mit KI-Hilfe krisensicherer, kalkulierbarer und klimafreundlicher machen!",
+      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/wie-sie-ihr-rechenzentrum-mit-ki-optimieren-koennen-4297/?source=hbsad_ersatz"
     },
     {
       "title": "Schwachstelle in der API von Travis CI legt sensible Nutzerdaten offen",
@@ -68,11 +89,6 @@
       "title": "l+f: Rauswurf bei Bug-Bounty-Plattform wegen Veröffentlichung",
       "teaser": "Weil er keinen Proof-of-Concept lieferte, nahm Bugcrowd den Report einews Krypto-Experten nicht an. Auf seine Veröffentlichung folgte der Rauswurf.",
       "url": "https://www.heise.de/news/l-f-Rauswurf-bei-Bug-Bounty-Plattform-wegen-Veroeffentlichung-7141488.html"
-    },
-    {
-      "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
-      "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
-      "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
     },
     {
       "title": "Patchday Adobe: Schadcode-Lücken in InDesign, Illustrator & Co. geschlossen",
@@ -146,22 +162,6 @@
       "image_title": "iX-Workshop Azure Active Directory gegen Angriffe absichern"
     },
     {
-      "title": "Cyberangriff beim Darmstädter Energieversorger Entega",
-      "teaser": "Bei Entega sind E-Mailkonten und die Webseiten einem Angriff zum Opfer gefallen. Die kritische Infrastruktur sei besonders geschützt und nicht betroffen.",
-      "url": "https://www.heise.de/news/Cyberangriff-beim-Darmstaedter-Energieversorger-Entega-7138161.html"
-    },
-    {
-      "title": "PHP: Updates verhindern Einschleusen von Schadcode",
-      "teaser": "Fehler in PHP-Modulen zur Verbindung mit SQL-Datenbanken erlauben die Ausführung beliebigen Codes. Admins von Shared-Hosting-Servern sollten schnell updaten.",
-      "url": "https://www.heise.de/news/PHP-Updates-verhindern-Einschleusen-von-Schadcode-7136766.html",
-      "image_title": "Aufmacher PHP-Update schließt RCE-Lücken"
-    },
-    {
-      "title": "Azure Firewall: Cloud-Service um Auto-Zertifikate und Web-Filter erweitert",
-      "teaser": "Microsoft schraubt an der Cloud-nativen Azure Firewall. In Zukunft können Admins auch eigene Private-IP-Adressbereiche hinzufügen und verwalten.",
-      "url": "https://www.heise.de/news/Azure-Firewall-Cloud-Service-um-Auto-Zertifikate-und-Web-Filter-erweitert-7136868.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -185,7 +185,7 @@
     {
       "title": "Re: Stick lässt sich nicht zurücksetzen",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Stick-laesst-sich-nicht-zuruecksetzen/posting-41149371/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Stick-laesst-sich-nicht-zuruecksetzen/posting-41149629/show/"
     },
     {
       "title": "Re: PXE/TFTP Boot möglich?",
