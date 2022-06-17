@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-17T04:36:27",
+  "timestamp": "2022-06-17T05:21:15",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Venus: Leben kann seltsame Verteilung von Schwefeldioxid nicht erklären",
+      "teaser": "Die ungewöhnliche Verteilung von Schwefeldioxid in der Venus-Atmosphäre kann bislang nicht erklärt werden. Lebensformen sind dafür wohl nicht verantwortlich.",
+      "url": "https://www.heise.de/news/Venus-Leben-kann-seltsame-Verteilung-von-Schwefeldioxid-nicht-erklaeren-7142429.html"
+    },
+    {
       "title": "KI findet bislang unsichtbare Spuren von Nutzung des Feuers vor 800.000 Jahren",
       "teaser": "Die Zähmung des Feuers ist einer der zentralen Meilensteine der Menschwerdung. Wann sie erfolgte, ließ sich bisher schwer erforschen. KI-Technik könnte helfen.",
       "url": "https://www.heise.de/news/KI-findet-bislang-unsichtbare-Spuren-von-Nutzung-des-Feuers-vor-800-000-Jahren-7141351.html",
@@ -37,9 +42,10 @@
       "url": "https://www.heise.de/news/Elektro-Flugzeug-Microliner-soll-9-Passagiere-500-km-weit-transportieren-7141548.html"
     },
     {
-      "title": "Hat Chatbot LaMDA ein Bewusstein entwickelt? Google beurlaubt Angestellten",
-      "teaser": "Seit Herbst arbeitet ein Softwareingenieur bei Google mit dem Chatbot LaMDA. Inzwischen ist er überzeugt, dass der ein Bewusstsein hat. Nun wurde er beurlaubt.",
-      "url": "https://www.heise.de/news/Hat-Chatbot-LaMDA-ein-Bewusstein-entwickelt-Google-beurlaubt-Angestellten-7138314.html"
+      "title": "High-End-Prozessoren: AMD Ryzen 7 5800X3D vs. Intel Core i9-12900KS im Test",
+      "teaser": "AMD und Intel empfehlen ihre teuren Top-CPUs Ryzen 5800X3D und Core i9-12900KS vor allem für Spiele – wir jagten sie dennoch durch einen umfassenderen Test.",
+      "url": "https://www.heise.de/tests/High-End-Prozessoren-AMD-Ryzen-7-5800X3D-vs-Intel-Core-i9-12900KS-im-Test-7140119.html",
+      "image_title": ","
     },
     {
       "title": "Bewerbung: Wenn die KI-Software das Recruiting übernimmt",
@@ -48,10 +54,9 @@
       "image_title": "Unterlagen-Auswertung von Bewerbungen"
     },
     {
-      "title": "Quantencomputer: Eine Einführung",
-      "teaser": "Quantencomputer sind Rechner mit Qubits und Quantengattern statt Bits und logischen Gattern. Klingt wie fast dasselbe, bezeichnet aber Unterschiedliches.",
-      "url": "https://www.heise.de/hintergrund/Quantencomputer-Eine-Einfuehrung-7136523.html",
-      "image_title": ", Albert Hulm"
+      "title": "Die Hupe: Die Rennserie Formel E, alte Porsche und eine neue Royal Enfield",
+      "teaser": "Die Formel E ist langweilig, weil die Werte der Veranstalter nicht stimmen, so unsere These. Außerdem: Porsche 911 Carrera RS 2.7 und Royal Enfield Meteor 350",
+      "url": "https://www.heise.de/meinung/Die-Hupe-Die-Rennserie-Formel-E-alte-Porsche-und-eine-neue-Royal-Enfield-7141752.html"
     },
     {
       "title": "WHO: Starker Anstieg bei psychischen Krankheiten durch Corona",
@@ -72,11 +77,6 @@
       "title": "Gigantische Sprachendatenbank macht verborgene Muster in Wortschätzen sichtbar",
       "teaser": "In einer Datenbank zu den Wortschätzen von mehr als 2000 Sprachen kann man laut den Entwicklern einfach nach Mustern suchen. Sie hoffen auf eine \"Revolution\".",
       "url": "https://www.heise.de/news/Gigantische-Sprachendatenbank-macht-verborgene-Muster-in-Wortschaetzen-sichtbar-7142790.html"
-    },
-    {
-      "title": "Venus: Leben kann seltsame Verteilung von Schwefeldioxid nicht erklären",
-      "teaser": "Die ungewöhnliche Verteilung von Schwefeldioxid in der Venus-Atmosphäre kann bislang nicht erklärt werden. Lebensformen sind dafür wohl nicht verantwortlich.",
-      "url": "https://www.heise.de/news/Venus-Leben-kann-seltsame-Verteilung-von-Schwefeldioxid-nicht-erklaeren-7142429.html"
     },
     {
       "title": "Feinstaub: Bäume können Kunstwerke schützen",
@@ -105,6 +105,12 @@
       "url": "https://www.heise.de/news/KI-Pioniere-erhalten-spanische-Auszeichnung-fuer-wissenschaftliche-Leistungen-7142233.html"
     },
     {
+      "title": "Quantencomputer: Eine Einführung",
+      "teaser": "Quantencomputer sind Rechner mit Qubits und Quantengattern statt Bits und logischen Gattern. Klingt wie fast dasselbe, bezeichnet aber Unterschiedliches.",
+      "url": "https://www.heise.de/hintergrund/Quantencomputer-Eine-Einfuehrung-7136523.html",
+      "image_title": ", Albert Hulm"
+    },
+    {
       "title": "Maker-Spiel \"Mini Maker\" ausprobiert: Kreatives Schrottbasteln",
       "teaser": "Puppenglieder, Wackelaugen, Kloschüsseln: Es gibt nichts, was man nicht in seinen Kreationen verwenden könnte, um im Spiel \"Mini Maker\" reich zu werden.",
       "url": "https://www.heise.de/meinung/Maker-Spiel-Mini-Maker-ausprobiert-Kreatives-Schrottbasteln-7142110.html",
@@ -125,11 +131,6 @@
       "teaser": "Künstliche Intelligenz werde viele Tätigkeiten automatisieren, sagte Ökonom Erik Brynjolfsson vor sieben Jahren vorher. Sieht er das immer noch so?",
       "url": "https://www.heise.de/hintergrund/Interview-zur-Automatisierung-Nahezu-kein-Beruf-faellt-komplett-weg-6121370.html",
       "image_title": "Automatisierung, Roboter"
-    },
-    {
-      "title": "c't Linux-Guide: Distributionen wählen, System einrichten und absichern",
-      "teaser": "Das neue c't Sonderheft führt Sie durch die vielfältige Linux-Welt. Finden Sie das passende Linux für sich und machen Sie sich Ihr System zu eigen.",
-      "url": "https://www.heise.de/news/c-t-Linux-Guide-Distributionen-waehlen-System-einrichten-und-absichern-7139956.html"
     }
   ]
 }
