@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-19T06:25:21",
+  "timestamp": "2022-06-19T07:18:42",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dbaac831.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d0843cfd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "71 Jahre alter Tourist : Deutscher vor Formentera ertrunken",
-      "url": "https://www.bild.de/news/ausland/news-ausland/deutscher-tourist-71-vor-formentera-ertrunken-80440202.bild.html",
-      "image_url": "https://images.bild.de/62add8620d532a77094b92a9/7d51f6f760fffc8ed5227f5e387080d0,5c254917?w=656",
-      "image_title": "Deutscher Tourist (†71) vor Formentera ertrunken"
-    },
-    {
-      "title": "Ziege ins Guinness-Buch : Einmal Ohren MÄÄÄHssen, bitte!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ziege-simba-soll-ins-guinness-buch-einmal-ohren-maeaeaeaehssen-bitte-80441066.bild.html",
-      "image_url": "https://images.bild.de/62adece3783d1871d27a463e/37435ae84e2c424f9d8ed0745b6c6729-miniSquare,55190efb?w=320",
-      "image_title": "Ziege Simba soll ins Guinness-Buch: Einmal Ohren MÄÄÄÄHssen, bitte!"
-    },
-    {
-      "title": "Hunderte Koffer : Gepäck-Lawine überrollt Londoner Flughafen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/gepaeck-lawine-ueberrollt-flughafen-in-london-80439868.bild.html",
-      "image_url": "https://images.bild.de/62add00627337e46ea2cfa90/2be2bc3edbf80e373f66f4fca0f1a2aa-miniSquare,4bdaa9c9?w=320",
-      "image_title": "Gepäck-Lawine überrollt Flughafen in London"
-    },
-    {
-      "title": "Doppelmord im Amazonas : Zweifel an Version der brasilianischen Behörden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amazonas-doppelmord-an-dom-phillips-und-bruno-pereira-zweifel-an-behoerden-versi-80438110.bild.html",
-      "image_url": "https://images.bild.de/62ad93d2783d1871d27a45aa/e071d15a6436f5071c22908bb734a35e-miniSquare,26f69b1f?w=320",
-      "image_title": "Amazonas: Doppelmord an Dom Phillips und Bruno Pereira – Zweifel an Behörden-Version"
-    },
-    {
-      "title": "Anschläge drohen : Israel warnt seine Bürger in Istanbul vor Iran-Killern",
-      "url": "https://www.bild.de/news/ausland/news-ausland/israel-warnt-seine-buerger-in-istanbul-vor-iranischen-killer-kommandos-80436818.bild.html",
-      "image_url": "https://images.bild.de/62acdb82fe9b3f1a57630eb8/6b72d82ffd5e87b63431bf78f21ce881-miniSquare,cd8b094?w=320",
-      "image_title": "Israel warnt seine Bürger in Istanbul vor iranischen Killer-Kommandos"
-    },
-    {
-      "title": "Tragisches Unglück in Gatwick : Easyjet-Passagier (82) stürzt auf Rolltreppe – tot!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/london-gatwick-easyjet-passagier-82-stuerzt-auf-flughafen-rolltreppe-tot-80435834.bild.html",
-      "image_title": "London-Gatwick: Easyjet-Passagier (82) stürzt auf Flughafen-Rolltreppe – tot!"
-    },
-    {
-      "title": "Er schoss auf US-Präsident Reagan : John Hinckley nach 41 Jahren frei!",
-      "teaser": "Nach 41 Jahren, 2 Monaten und 15 Tagen ist der Mann, der auf Reagan schoss, wieder frei",
-      "url": "https://www.bild.de/news/ausland/news-ausland/er-schoss-auf-us-praesident-reagan-john-hinckley-nach-41-jahren-frei-80415400.bild.html",
-      "image_title": "Er schoss auf US-Präsident Reagan: John Hinckley nach 41 Jahren frei!"
-    },
-    {
-      "title": "Deutsche im Malle-Knast : Warum kommen die 8 Kegelbrüder nicht frei?",
-      "teaser": "Seit 28 Tagen sitzen acht Kegelbrüder im Knast. BILD beantwortet die wichtigsten Fragen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/deutsche-auf-mallorca-im-knast-warum-kommen-die-acht-kegelbrueder-nicht-frei-80427188.bild.html",
-      "image_title": "Deutsche auf Mallorca im Knast: Warum kommen die acht Kegelbrüder nicht frei?"
-    },
-    {
-      "title": "Dekret zum Pride Month : US-Präsident Biden stärkt LGBT-Rechte",
-      "teaser": "Während eines Empfangs zum Pride-Monat unterzeichnete Biden ein entsprechendes Dekret.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/dekret-zum-pride-month-us-praesidentbiden-staerkt-lgbt-rechte-im-land-80421168.bild.html",
-      "image_title": "Dekret zum Pride Month: US-Präsident Biden stärkt LGBT-Rechte im Land"
-    },
-    {
-      "title": "Journalist zerstückelt? : Amazonas-Fischer führt Polizei zu Überresten",
-      "teaser": "Im Fall des vermissten britischen Journalisten sind menschliche Überreste entdeckt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amazonas-briten-journalist-dom-phillips-und-begleiter-bruno-pereira-zerstueckelt-80418644.bild.html",
-      "image_title": "Amazonas: Briten-Journalist Dom Phillips und Begleiter Bruno Pereira zerstückelt?"
-    },
-    {
-      "title": "US Ambassador in Bavaria : A visit to the house that Nazis took from her family",
-      "teaser": "It was like a return to a place she had never been before – but where her roots still lie.",
-      "url": "https://www.bild.de/politik/international/news-inland/feuchtwangen-us-ambassador-a-visit-to-the-house-nazis-took-from-her-family-80418078.bild.html",
-      "image_title": "Feuchtwangen: US Ambassador: A visit to the house, Nazis took from her family"
-    },
-    {
-      "title": "Unternehmer verzweifelt : Sauf-Tourismus auf Malle schlimmer als vor Corona",
-      "teaser": "Der Sauf-Tourismus auf Malle ist nach Meinung von Unternehmern noch schlimmer als vor Corona.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-sauf-tourismus-am-ballermann-schlimmer-als-vor-corona-80414468.bild.html",
-      "image_title": "Mallorca: Sauf-Tourismus am Ballermann schlimmer als vor Corona"
-    },
-    {
-      "title": "UN schlagen Alarm : Zahl der Geflüchteten hat sich in 10 Jahren verdoppelt!",
-      "teaser": "Mehr als 100 Millionen Menschen sind weltweit auf der Flucht.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/fluechtlings-krise-zahl-der-gefluechteten-in-10-jahren-verdoppelt-80415420.bild.html",
-      "image_title": "Flüchtlings-Krise: Zahl der Geflüchteten in 10 Jahren verdoppelt!"
-    },
-    {
-      "title": "Schild vor Haustür : Saudi-Botschaft steht jetzt im „Khashoggi Way“",
-      "teaser": "Ein Denkmal gegen das Vergessen eines bestialischen Mordes in Washington.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-saudi-botschaft-steht-jetzt-im-khashoggi-way-80415226.bild.html",
-      "image_title": "USA: Saudi-Botschaft steht jetzt im „Khashoggi Way“"
-    },
-    {
-      "title": "Schwarzes Super-Loch entdeckt : Pro Sekunde verschlingt es eine Erde",
-      "teaser": "Forscher haben ein Schwarzes Loch entdeckt, das alle anderen in den Schatten stellt.",
-      "url": "https://www.bild.de/ratgeber/wissenschaft/ratgeber/schwarzes-super-loch-entdeckt-forscher-finden-im-weltall-die-nadel-im-heuhaufen-80408132.bild.html",
-      "image_title": "Schwarzes Super-Loch entdeckt: Forscher finden im Weltall die „Nadel im Heuhaufen“"
-    },
-    {
-      "title": "Nach technischer Störung : Schweizer Luftraum wieder geöffnet",
-      "teaser": "Nach einer technischen Störung ist der Luftraum über der Schweiz wieder geöffnet worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/schweizer-luftraum-wegen-technik-panne-gesperrt-viele-fluege-mussten-ins-ausland-ausweichen-80405804.bild.html",
-      "image_title": "Schweiz: Luftraum gesperrt nach technischer Störung – jetzt wieder geöffnet"
-    },
-    {
-      "title": "Mord mit Ansage? : US-Autorin tötet Ehemann – lebenslänglich!",
-      "teaser": "Eine US-Autorin ist wegen des Mordes an ihrem Ehemann zu lebenslanger Haft verurteilt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-how-to-murder-your-husband-autorin-ermordet-ehemann-lebenslaenglich-80405542.bild.html",
-      "image_title": "USA: „How to murder your husband“-Autorin ermordet Ehemann – lebenslänglich!"
-    },
-    {
-      "title": "Hochzeit in Usbekistan : Braut gewinnt Spiel – Bräutigam schlägt zu!",
-      "teaser": "Danach steht der Bräutigam mit stolzer Brust da, sein Trauzeuge grinst dümmlich.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/horror-hochzeit-in-usbekistan-braeutigam-schlaegt-seine-braut-weil-sie-spiel-gew-80394148.bild.html",
-      "image_title": "Horror-Hochzeit in Usbekistan: Bräutigam schlägt seine Braut, weil sie Spiel gewinnt"
-    },
-    {
-      "title": "„Das hier ist Afrika“ : Randale-Mob begrapscht Frauen am Gardasee",
-      "teaser": "Etwa 1500 bis 2000 Jugendliche fielen über den beschaulichen Ort Peschiera (Italien) her.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/peschiera-randale-mob-begrapscht-frauen-am-gardasee-80404172.bild.html",
-      "image_title": "Peschiera: Randale-Mob begrapscht Frauen am Gardasee"
-    },
-    {
-      "title": "Friedliche Länder-Einigung : Whisky-„Krieg“ um Insel vorbei",
-      "teaser": "Die Insel ist knapp 1,3 qm groß und nur ein riesiger Felsen zwischen Grönland und Kanada.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/der-friedlichste-krieg-den-es-je-gab-whiskey-krieg-um-insel-vorbei-80394456.bild.html",
-      "image_title": "„Staaten können sich auch ohne Streit einigen“: Whisky-„Krieg“ um Insel vorbei"
-    },
-    {
-      "title": "Energiekosten ade! : Joe (20) brät sich seine Steaks im Auto",
-      "teaser": "Ein 20-Jähriger kocht im Auto – und wird dafür millionenfach gefeiert.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/20-jaehriger-braet-seine-steaks-im-auto-und-wird-zum-internet-hit-80400976.bild.html",
-      "image_title": "20-Jähriger brät seine Steaks im Auto - und wird zum Internet-Hit"
-    },
-    {
-      "title": "Koma nach TikTok-Spiel? : Archie (12) gegen Willen der Mutter für tot erklärt",
-      "teaser": "Ein Urteil erlaubt den Ärzten, die Geräte abzustellen. Doch Archies Mutter will kämpfen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/wegen-tiktok-im-koma-archie-12-gegen-willen-der-mutter-fuer-tot-erklaert-80398144.bild.html",
-      "image_title": "Wegen TikTok im Koma? Archie (12) gegen Willen der Mutter für tot erklärt"
-    },
-    {
-      "title": "Entführung erfunden : Elena (5) von eigener Mutter getötet",
-      "teaser": "Bei der Polizei gab die Mutter an, das Kind sei von drei Vermummten entführt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/catania-frau-erfand-entfuehrung-elena-5-von-eigener-mutter-getoetet-80395110.bild.html",
-      "image_title": "Catania: Frau erfand Entführung: Elena (5) von eigener Mutter getötet"
-    },
-    {
-      "title": "Dschihadisten-Rachepläne : ISIS-Schläfer wollten Wien-Marathon angreifen",
-      "teaser": "Menschen in Europa sollten sterben als Rache für den Tod ihres Terror-Anführers in Syrien.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/wien-marathon-isis-schlaefer-planten-attentat-80393198.bild.html",
-      "image_title": "Wien-Marathon: ISIS-Schläfer planten Attentat"
-    },
-    {
-      "title": "Was Urlauber wissen müssen : Zum Ferien-Beginn! Ryanair-Streik in Spanien",
-      "teaser": "Zehn Flughäfen sollen an sechs Tagen bestreikt werden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ryanair-streik-in-spanien-10-flughaefen-betroffen-was-urlauber-wissen-muessen-80389334.bild.html",
-      "image_title": "Ryanair-Streik in Spanien: 10 Flughäfen betroffen! Was Urlauber wissen müssen"
-    },
-    {
-      "title": "Horror-Hochzeit : Regierung klagt Brautschläger an",
-      "url": "https://www.bild.de/video/clip/video/nach-horror-hochzeit-in-usbekistan-regierung-klagt-brautschlaeger-an-80434320,auto=true.bild.html",
-      "image_title": "Horror-Hochzeit : Regierung klagt Brautschläger an"
-    },
-    {
-      "title": "Widerliche Bestrafung : Männer verprügeln gefesselte Frauen mit Stöcken",
-      "url": "https://www.bild.de/video/clip/video/widerliche-bestrafung-maenner-verpruegeln-frauen-mit-stoecken-80436876,auto=true.bild.html",
-      "image_title": "Widerliche Bestrafung: Männer verprügeln Frauen mit Stöcken"
-    },
-    {
-      "title": "Pärchen ist sich sicher : Sex-Puppe rettete Beziehung",
-      "url": "https://www.bild.de/video/clip/video/paerchen-ist-sich-sicher-sex-puppe-rettete-beziehung-80420222,auto=true.bild.html",
-      "image_title": "Pärchen ist sich sicher: Sex-Puppe rettete Beziehung"
-    }
-  ]
+  "articles": []
 }
