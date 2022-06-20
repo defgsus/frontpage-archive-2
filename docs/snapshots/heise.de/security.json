@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-20T07:20:42",
+  "timestamp": "2022-06-20T08:31:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Amazon AWS",
+      "url": "https://www.heise.de/news/AWS-Amazon-Hotpatch-fuer-log4j-Luecke-ermoeglicht-Rechteausweitung-7145383.html"
+    },
+    {
       "title": "Qnap NAS",
       "url": "https://www.heise.de/news/NAS-Qnap-warnt-vor-Angriffswelle-mit-DeadBolt-Ransomware-7144383.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-WordPress-Plug-in-Ninja-Forms-behoben-7143515.html"
     },
     {
-      "title": "Zimbra",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-E-Mail-Loesung-Zimbra-kann-Zugangsdaten-leaken-7142998.html"
+      "title": "iX-Workshop: Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
+      "teaser": "Angriffsvektoren in der eigenen Unternehmens-IT mit Hacker-Mitteln aufdecken und beseitigen lernen. Zweitagesworkshop (online)",
+      "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-7138610.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "Profilbild, Status und Chatgruppen: WhatsApp mit neuen Privatsphäre-Optionen",
@@ -65,9 +71,20 @@
       "image_title": "Aufmacher OneDrive und SharePoint erleichtern Ransomware-Angriffe"
     },
     {
+      "title": "Diese Methoden und Tools verhindern schwache Passwörter",
+      "teaser": "Starke Passwörter müssen bestimmten Anforderungen genügen. Um Firmen-Accounts wirksam abzusichern, gibt es eine ganze Reihe von Methoden, die nur umgesetzt werden müssen. Bei der praktischen Einführung unterstützen Passwort-Tools.",
+      "url": "https://www.heise.de/solutions/specops/diese-methoden-und-tools-verhindern-schwache-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Microsoft baut Anti-Viren-Lösung Defender für Android, iOS & Co. aus",
       "teaser": "Ab sofort können Familien-Admins verschiedene Geräte in Microsoft Defender registrieren und deren Sicherheit überwachen.",
       "url": "https://www.heise.de/news/Microsoft-baut-Anti-Viren-Loesung-Defender-fuer-Android-iOS-Co-aus-7143979.html"
+    },
+    {
+      "title": "Pfusch, zu langsam, zu intransparent: Kritik an Microsofts Updateverhalten",
+      "teaser": "IT-Sicherheitsunternehmen kritisieren langsame Reaktionen von Microsoft auf Sicherheitslücken. Zudem seien verpfuschte und verschwiegene Updates ein Risiko.",
+      "url": "https://www.heise.de/news/Pfusch-zu-langsam-zu-intransparent-Kritik-an-Microsofts-Updateverhalten-7143718.html",
+      "image_title": "Aufmacher Kritik an Microsofts Update-Verhalten"
     },
     {
       "title": "secIT Digital: Gut gerüstet gegen Supply-Chain-Angriffe",
@@ -147,16 +164,6 @@
       "url": "https://www.heise.de/news/l-f-Rauswurf-bei-Bug-Bounty-Plattform-wegen-Veroeffentlichung-7141488.html"
     },
     {
-      "title": "Patchday Adobe: Schadcode-Lücken in InDesign, Illustrator & Co. geschlossen",
-      "teaser": "Mehrere Adobe-Anwendungen sind über als kritisch eingestufte Schwachstellen attackierbar. Sicherheitsupdates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-InDesign-Illustrator-Co-geschlossen-7141175.html"
-    },
-    {
-      "title": "Sicherheitslücke Hertzbleed: x86-Prozessortaktung verrät Geheimnisse",
-      "teaser": "Ein Forscherteam belauscht kryptografische Berechnungen auf modernen x86-CPUs anhand charakteristischer Taktfrequenzänderungen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Hertzbleed-x86-Prozessortaktung-verraet-Geheimnisse-7141221.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heisec-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -178,19 +185,19 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Re: [gelöst] error 5 Zugriff verweigert",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-geloest-error-5-Zugriff-verweigert/posting-41165891/show/"
+    },
+    {
+      "title": "Re: Die Viren-Scanner in Desinfec't 2022",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Die-Viren-Scanner-in-Desinfec-t-2022/posting-41165762/show/"
+    },
+    {
       "title": "Re: NVME | Re: Wie kann ich mit Kernel 5.17 starten (Im Menu 5.13)",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-NVME-Re-Wie-kann-ich-mit-Kernel-5-17-starten-Im-Menu-5-13/posting-41165291/show/"
-    },
-    {
-      "title": "Defender: in \"Firmenaccount\" nicht verfügbar, mit neuem Account nur 3 Monate?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Defender-in-Firmenaccount-nicht-verfuegbar-mit-neuem-Account-nur-3-Monate/posting-41165172/show/"
-    },
-    {
-      "title": "Manuelle Updates einzelner scanner signaturen funzt nicht",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Manuelle-Updates-einzelner-scanner-signaturen-funzt-nicht/posting-41165068/show/"
     }
   ]
 }
