@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-20T08:31:37",
+  "timestamp": "2022-06-20T09:22:08",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.7.6-cats-release--22.07/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dbaac831.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d0843cfd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Social-Media-Stars beim perfekten Promi Dinner : Vulva oder Auster? IHRE Kunstwerke verwirrten alle!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/das-perfekte-promi-dinner-vulva-oder-auster-sie-verwirrte-alle-80448756.bild.html",
-      "image_url": "https://images.bild.de/62af3bda783d1871d27a47eb/385b7768e0abf8e27b9ce06be040eded,db804662?w=656",
-      "image_title": "„Das perfekte Promi Dinner“: Vulva oder Auster? SIE verwirrte alle!"
-    },
-    {
-      "title": "In RTL-Show : Johannes B. Kerner beim Schummeln erwischt",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/denn-sie-wissen-nicht-was-passiert-kerner-beim-schummeln-erwischt-80451512.bild.html",
-      "image_url": "https://images.bild.de/62afbad3783d1871d27a487b/3897e498cc21a200984bdbee1a8a9f93-miniSquare,8b703e33?w=320",
-      "image_title": "„Denn sie wissen nicht, was passiert“: Kerner beim Schummeln erwischt"
-    },
-    {
-      "title": "Am Sonntag, den 19. Juni 2022 : Alle Infos zum neuen Tatort in München",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-ivo-batic-und-franz-leitmayr-ermitteln-in-muenchen-im-fall-flash-80411184.bild.html",
-      "image_url": "https://images.bild.de/62a9e443783d1871d27a40d4/c719639757ca6ab19aaa2f80cf17711e-miniSquare,98625aa7?w=320",
-      "image_title": "Tatort heute: Ivo Batic und Franz Leitmayr ermitteln in München im Fall „Flash“"
-    },
-    {
-      "title": "„Denn sie wissen nicht, was passiert“ : Diese Sprüche waren nicht ganz jugendfrei",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/denn-sie-wissen-nicht-was-passiert-diese-sprueche-waren-zweideutig-80443310.bild.html",
-      "image_url": "https://images.bild.de/62ae7478783d1871d27a46d6/fad77222274b0d60605342d50e724244-miniSquare,e6b3a59b?w=320",
-      "image_title": "„Denn sie wissen nicht, was passiert“: Diese Sprüche waren zweideutig"
-    },
-    {
-      "title": "Bachelorette-Beef : Wahrsagerin überführt Bad Boy",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bachelorette-sharon-battiste-mega-geschockt-wahrsagerin-ueberfuehrt-ihn-80429562.bild.html",
-      "image_url": "https://images.bild.de/62ac4f84783d1871d27a442e/f7563323d379122ba48d65522498b595-miniSquare,ee8ce03e?w=320",
-      "image_title": "Bachelorette Sharon Battiste mega geschockt: Wahrsagerin überführt IHN!"
-    },
-    {
-      "title": "RTL-Vielfaltswoche : Promis im Fummel und eine schwule „Shopping Queen“",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/pride-bei-rtl-schwule-shopping-queen-und-promis-im-fummel-80432736.bild.html",
-      "image_title": "Pride bei RTL: Schwule „Shopping Queen“ und Promis im Fummel"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-top-10-die-zehn-beliebtesten-filme-serien-fuers-wochenende-80428526.bild.html",
-      "image_title": "Netflix Top 10: Die zehn beliebtesten Filme & Serien fürs Wochenende!"
-    },
-    {
-      "title": "„Game of Thrones“ : Geheimplan für „Staffel 9“!",
-      "teaser": "Was ein Insider der Produktion jetzt in BILD verrät, gleicht einer Sensation.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/game-of-thrones-geheimplan-jon-snow-kommt-zurueck-80428986.bild.html",
-      "image_title": "„Game of Thrones“-Geheimplan: Jon Snow kommt zurück!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80428544.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende"
-    },
-    {
-      "title": "„Bachelorette“-Auftakt : Für DIESEN Spruch vergab Sharon ihre erste Rose",
-      "teaser": "Für ihre Männer-Suche hat sich Sharon viel vorgenommen. Mit einem Kandidaten funkte es sofort.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bachelorette-auftakt-fuer-diesen-spruch-vergab-sharon-ihre-erste-rose-80414506.bild.html",
-      "image_title": "„Bachelorette“-Auftakt: Für DIESEN Spruch vergab Sharon ihre erste Rose"
-    },
-    {
-      "title": "Die „Bachelorette“ : ER steht einfach nicht auf dich!",
-      "teaser": "Tappt Sharon Battiste ausgerechnet bei ihrem Favoriten Max in eine Liebesfalle?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bachelorette-sharon-battiste-er-steht-einfach-nicht-auf-dich-80428210.bild.html",
-      "image_title": "„Bachelorette“ Sharon Battiste: ER steht einfach nicht auf dich!"
-    },
-    {
-      "title": "Schon einiges erlebt : Prügelei auf der Luxusjacht der Geissens!",
-      "teaser": "Eskalation auf der Familienjacht! Carmen und Robert Geiss haben hier eine Menge erlebt.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-geissens-pruegelei-auf-ihrer-luxusjacht-80419636.bild.html",
-      "image_title": "Die Geissens: Prügelei auf ihrer Luxusjacht!"
-    },
-    {
-      "title": "Skandal um Homosexualität? : „Tatort“-Schauspieler erhebt schwere Vorwürfe gegen ARD",
-      "teaser": "Matthias Brenner (64) macht die Vorwürfe eines Kollegen öffentlich, die Redakteure und Produzenten belasten.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/tatort-schauspieler-matthias-brenner-erhebt-schwere-vorwuerfe-gegen-ard-80411192.bild.html",
-      "image_title": "„Tatort“-Schauspieler erhebt schwere Vorwürfe gegen ARD"
-    },
-    {
-      "title": "„Unter Uns“-Ausstieg : SEINE Beerdigung wurde schon gedreht!",
-      "teaser": "Es wird einsam in der „Schillerallee“: Bald verabschiedet sich wieder ein Star der Soap.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/unter-uns-schock-dieses-serien-urgestein-steigt-aus-80418860.bild.html",
-      "image_title": "„Unter uns“-Star steigt aus: SEINE Beerdigung wurde schon gedreht!"
-    },
-    {
-      "title": "„Sommerhaus der Stars“ : Wer gewinnt, wer freiwillig die Show verlässt",
-      "teaser": "BILD kennt alle Details der kommenden Staffel „Sommerhaus der Stars“ – es geht heiß her!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/sommerhaus-der-stars-2022-dieses-paar-gewinnt-die-rtl-show-80314296.bild.html",
-      "image_title": "„Sommerhaus der Stars“ 2022: DIESES Paar gewinnt die RTL-Show"
-    },
-    {
-      "title": "Nach ihrem KDRS-Sieg : DAS gönnt sich Elena Miras von ihrem Preisgeld",
-      "teaser": "Elena Miras gewinnt 50 000 Euro! Im Interview verrät sie, was sie mit der Kohle macht.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realiystars-siegerin-was-elena-miras-mit-ihrer-gage-macht-80364124.bild.html",
-      "image_title": "„Kampf der Realiystars“-Siegerin: DAS gönnt sich Elena Miras vom Preisgeld"
-    },
-    {
-      "title": "„Club der guten Laune“ : Martin Semmelrogge serviert Ekel-Menü",
-      "teaser": "Semmelrogge entfachte eine Menü-Kreativität, die bei Köchen fasziniertes Entsetzen auslösen dürfte.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/club-der-guten-laune-martin-semmelrogge-serviert-ekel-menue-80414846.bild.html",
-      "image_title": "„Club der guten Laune“: Martin Semmelrogge serviert Ekel-Menü"
-    },
-    {
-      "title": "Regeln, Kandidaten & Co. : Alle Infos zur 3. Staffel „Kampf der Realitystars“",
-      "teaser": "„Kampf der Realitystars“ geht in die dritte Runde. Die Kandidaten, Regeln und Highlights!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-elena-miras-gewinnt-die-dritte-staffel-79693132.bild.html",
-      "image_title": "„Kampf der Realitystars“: Elena Miras gewinnt die dritte Staffel"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : So krallte sich Elena Miras den Sieg",
-      "teaser": "Das Finale von „Kampf der Realitystars“ wurde zu einem Kopf-an-Kopf-Rennen.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-so-krallte-sich-elena-miras-den-sieg-80414664.bild.html",
-      "image_title": "Kampf der Realitystars: So krallte sich Elena Miras den Sieg"
-    },
-    {
-      "title": "Sharon ist die Neue : Bachelorette verrät ihr Glatzen-Geheimnis",
-      "teaser": "Die neue „Bachelorette“ Sharon trägt privat eine Glatze und spricht darüber bei BILD.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bachelorette-sharon-battiste-verraet-ihr-glatzen-geheimnis-80394358.bild.html",
-      "image_title": "Bachelorette: Sharon Battiste verrät ihr Glatzen-Geheimnis"
-    },
-    {
-      "title": "„Sing meinen Song“ : Warum das Finale ohne Elif stattfand",
-      "teaser": "„Sing meinen Song“ endete traditionell mit Star-Duetten. Doch ein Platz blieb leer.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sing-meinen-song-aus-elif-konnte-nicht-bis-zum-finale-bleiben-80401440.bild.html",
-      "image_title": "„Sing meinen Song“-Aus: Darum musste Elif vor dem Finale abreisen"
-    },
-    {
-      "title": "Streaming-Überraschung : Diese Deutsche spielt Königin Elizabeth I.",
-      "teaser": "Alicia von Rittberg (28) spielte schon Romy Schneider. Jetzt wird sie zu Elizabeth I.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/becoming-elizabeth-deutsche-adelige-spielt-koenigin-elizabeth-i-80389726.bild.html",
-      "image_title": "„Becoming Elizabeth“: Deutsche Adelige spielt Königin Elizabeth I."
-    },
-    {
-      "title": "Tatort : Alle Schauplätze und Ermittler",
-      "teaser": "Schon seit 1970 gibt es den Tatort. Wer aktuell die Ermittler sind und wo sie arbeiten .",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-alle-schauplaetze-und-alle-ermittler-im-ueberblick-79973860.bild.html",
-      "image_title": "Tatort: Alle Schauplätze und alle Ermittler im Überblick"
-    },
-    {
-      "title": "Ab dem 13. Juni : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme und Serien der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-ab-dem-13-juni-80336382.bild.html",
-      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten ab dem 13. Juni"
-    },
-    {
-      "title": "Tatort Dresden : Infos zum Ermittler-Trio Gorniak, Schnabel und Winkler",
-      "teaser": "Zwei junge Frauen und ein konservativer Chef ermitteln in der sächsischen Landeshauptstadt",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-dresden-alle-infos-zum-ermittler-trio-gorniak-schnabel-und-winkler-80257942.bild.html",
-      "image_title": "Tatort Dresden: Alle Infos zum Ermittler-Trio Gorniak, Schnabel und Winkler"
-    },
-    {
-      "title": "Clan terrorisiert Hauptstadt : „Berlin ist verloren!“",
-      "url": "https://www.bild.de/video/clip/video/clan-terrorisiert-hauptstadt-berlin-ist-verloren-80435024,auto=true.bild.html",
-      "image_title": "Clan terrorisiert Hauptstadt: „Berlin ist verloren!“"
-    },
-    {
-      "title": "Mandy Capristo packt aus : Popstar litt unter quälenden Panikattacken",
-      "url": "https://www.bild.de/video/clip/glomex/mandy-capristo-packt-aus-popstar-litt-unter-quaelenden-panikattacken-v-ckali89k67lt-80255412,auto=true.bild.html",
-      "image_title": "Mandy Capristo packt aus: Popstar litt unter quälenden Panikattacken"
-    },
-    {
-      "title": "Ösi-Sieg bei GNTM-Finale : Lou-Anne ist Heidis neues Topmodel",
-      "url": "https://www.bild.de/video/clip/glomex/oesi-sieg-bei-gntm-finale-lou-anne-ist-heidis-neues-topmodel-v-cka0050mqdfd-80218132,auto=true.bild.html",
-      "image_title": "„Germany‘s Next Topmodel“: Lou-Anne ist Heidis neues Topmodel"
-    }
-  ]
+  "articles": []
 }
