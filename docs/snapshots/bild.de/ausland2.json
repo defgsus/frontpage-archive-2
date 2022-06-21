@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-20T23:20:45",
+  "timestamp": "2022-06-21T01:59:15",
   "url": "https://www.bild.de/politik/ausland/politik-ausland/home-15683414.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0e0b311b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7065df87.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8ef6a882.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dbaac831.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d0843cfd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Musk-Sohn beantragt Namens-Änderung : Er will nicht mehr mit Tesla-Chef verwandt sein",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/namens-aenderung-musk-sohn-will-nicht-mehr-mit-tesla-chef-verwandt-sein-80461692.bild.html",
-      "image_url": "https://images.bild.de/62b0d559c3eabd539bda80f6/e7343dc08c357e39c45251b529c56dd5,a762f07e?w=656",
-      "image_title": "Namens-Änderung: Musk-Sohn will nicht mehr mit Tesla-Chef verwandt sein"
-    },
-    {
-      "title": "Knesset wird aufgelöst : Schon wieder Neuwahlen in Israel!",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/knesset-wird-aufgeloest-schon-wieder-neuwahlen-in-israel-80459366.bild.html",
-      "image_url": "https://images.bild.de/62b0999c095b852855a28ef5/dd54eb3beba758c0708da28f99a66f71-miniSquare,6427970?w=320",
-      "image_title": "Knesset wird aufgelöst: Schon wieder Neuwahlen in Israel!"
-    },
-    {
-      "title": "Kriegsverlauf in der Ukraine : Hat sich Putin WIRKLICH verrechnet?",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/kriegsverlauf-in-der-ukraine-hat-sich-putin-wirklich-verrechnet-80458488.bild.html",
-      "image_url": "https://images.bild.de/62b04156095b852855a28e04/946b30e44fd62db63327e7a84f84e8b5-miniSquare,b031af0?w=320",
-      "image_title": "Kriegsverlauf in der Ukraine: Hat sich Putin WIRKLICH verrechnet?"
-    },
-    {
-      "title": "Warschauer Schlossplatz : Polen plant Ausstellung zerstörter Russen-Panzer",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-polen-plant-ausstellung-zerstoerter-russischer-panzer-in-warschau-80456194.bild.html",
-      "image_url": "https://images.bild.de/62b0691f095b852855a28e5f/bfcd3e7bd9222135e241cc4ae29f31ca-miniSquare/Kennung_Symbolfoto,a48ecbaf?w=320",
-      "image_title": "Ukraine-Krieg: Polen plant Ausstellung zerstörter russischer Panzer in Warschau"
-    },
-    {
-      "title": "энергетический кризис : Перекроет ли Путин газовый кран Германии?",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/energie-krise-dreht-uns-putin-das-gas-jetzt-ganz-ab-80457680.bild.html",
-      "image_title": "энергетический кризис: Перекроет ли Путин газовый кран Германии?"
-    },
-    {
-      "title": "Villa des Gazprom-Chefs : So wohnt der Mann, der uns das Gas abdreht",
-      "teaser": "Dem Team von Kreml-Kritiker Alexej Nawalny gibt Einblicke in die Protz-Villa des Gazprom-Chefs.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/gazprom-chef-alexej-miller-die-villa-des-mannes-der-europa-das-gas-abdreht-80443176.bild.html",
-      "image_title": "Gazprom-Chef Alexej Miller: Die Villa des Mannes, der Europa das Gas abdreht"
-    },
-    {
-      "title": "Kolumbien : Ex-Guerillakämpfer wird Präsident",
-      "teaser": "Früher kämpfte Gustavo Petro (62) gegen die Regierung Kolumbiens, heute führt er sie an.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/kolumbien-ex-guerillakaempfer-gustavo-petro-wird-praesident-80455072.bild.html",
-      "image_title": "Kolumbien: Ex-Guerillakämpfer Gustavo Petro wird Präsident"
-    },
-    {
-      "title": "Wegen EU-Verhandlungen : Selenskyj rechnet mit schwerer Russland-Offensive",
-      "teaser": "Der ukrainische Präsident Wolodymyr Selenskyj geht von schweren russischen Angriffen aus.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-selenskyi-rechnet-wegen-eu-verhandlungen-mit-russischen-angriffen-80451740.bild.html",
-      "image_title": "Ukraine: Selenskyi rechnet wegen EU-Verhandlungen mit russischen Angriffen"
-    },
-    {
-      "title": "Französische Parlamentswahl : Blamage für Macron",
-      "teaser": "Schwere Schlappe für Macron! Frankreichs wiedergewählter Präsident Emmanuel Macron (44)...",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/franzoesische-parlamentswahl-klatsche-fuer-macron-80450600.bild.html",
-      "image_title": "Französische Parlamentswahl: Denkzettel für Macron"
-    },
-    {
-      "title": "Wirbel um Zeitungsbericht : Wollte Johnson seiner Geliebten einen Job verschaffen?",
-      "teaser": "Ein Bericht der britischen „Times“ zu Premier Johnson wurde nach Veröffentlichung gelöscht",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/wirbel-um-bericht-wollte-johnson-seiner-geliebten-einen-job-verschaffen-80446194.bild.html",
-      "image_title": "Wirbel um Bericht: Wollte Johnson seiner Geliebten einen Job verschaffen?"
-    },
-    {
-      "title": "Heute Wahl-Entscheidung in Frankreich : Wie mächtig wird der linke Deutschland-Hasser?",
-      "teaser": "Macron muss wieder zittern – diesmal vor einem alt-linken Populisten, der Deutschland hasst.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/parlamentswahlen-in-frankreich-wie-maechtig-wird-dieser-deutschland-hasser-80446752.bild.html",
-      "image_title": "Heute Wahl-Entscheidung in Frankreich: Wie mächtig wird der linke Deutschland-Hasser?"
-    },
-    {
-      "title": "Container-Krise rollt auf Europa zu : Jetzt droht uns der Mega-Stau!",
-      "teaser": "Schiffsstau vor Chinas Küsten, nun könnte der mega stau nach Europa kommen.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/container-krise-rollt-auf-europa-zu-droht-jetzt-der-mega-stau-in-unseren-haefen-80155008.bild.html",
-      "image_title": "Container-Krise rollt auf Europa zu: Droht jetzt der Mega-Stau in unseren Häfen?"
-    },
-    {
-      "title": "Irpin bei Kiew : Zug-Waggons sind ihr neues Zuhause",
-      "teaser": "Putin hat ihre Heimat zerstört – jetzt organisieren sie sich mit der „Eisenstadt“ ein neues Stadtviertel.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/irpin-bei-kiew-zug-waggons-sind-ihr-neues-zuhause-80445330.bild.html",
-      "image_title": "Irpin bei Kiew: Zug-Waggons sind ihr neues Zuhause"
-    },
-    {
-      "title": "Nato-Chef Stoltenberg : „Der Krieg könnte Jahre dauern“",
-      "teaser": "Ende Juni treffen sich die Chefs der Nato-Staaten zum Gipfel in Madrid.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/nato-chef-jens-stoltenberg-der-krieg-koennte-jahre-dauern-80442594.bild.html",
-      "image_title": "Nato-Chef Jens Stoltenberg: „Der Krieg könnte Jahre dauern“"
-    },
-    {
-      "title": "Olaf Scholz trägt sie immer : Das Geheimnis hinter der Kanzler-Aktentasche",
-      "teaser": "Wenn Olaf Scholz irgendwo auftaucht, dann ist seine alte, verbeulte Aktentasche nicht weit.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/olaf-scholz-traegt-sie-immer-das-geheimnis-hinter-der-kanzler-aktentasche-80442422.bild.html",
-      "image_title": "Olaf Scholz trägt sie immer: Das Geheimnis hinter der Kanzler-Aktentasche"
-    },
-    {
-      "title": "Lawrow ohne Reue : „Wir schämen uns nicht, zu zeigen, wer wir sind“",
-      "teaser": "Allerdings sei Russland auch „nicht blitzblank“, so Putins Außenminister im BBC-Interview.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/putin-aussenminister-lawrow-wir-schaemen-uns-nicht-zu-zeigen-wer-wir-sind-80429816.bild.html",
-      "image_title": "Putin-Außenminister Lawrow: „Wir schämen uns nicht, zu zeigen, wer wir sind“"
-    },
-    {
-      "title": "Gestern noch Raketeneinschlag : Selenskyj an der Front",
-      "teaser": "Der Präsident der Ukraine ist trotz aller Gefahren in die Stadt Mykolajiw gefahren.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-gestern-schlugen-hier-noch-raketen-ein-selenskyj-besucht-die-front-80438954.bild.html",
-      "image_title": "Ukraine-Krieg – Gestern schlugen hier noch Raketen ein: Selenskyj besucht die Front"
-    },
-    {
-      "title": "Russen verschleppten sie aus Mariupol : Helden-Ärztin endlich wieder frei!",
-      "teaser": "Ukraine-Präsident Selenskyj gab bekannt, dass Yuliia Paievska befreit werden konnte.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-helden-aerztin-aus-mariupol-befreit-80437904.bild.html",
-      "image_title": "Ukraine-Krieg: Helden-Ärztin aus Mariupol befreit"
-    },
-    {
-      "title": "Irre Szenen im Staats-TV : Russen missbrauchen US-Gefangene für Propaganda",
-      "teaser": "Die US-Veteranen Alexander D. (39) und Andy H. (27) galten seit dem 9. Juni als in der ...",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-russland-fuehrt-us-gefangene-im-tv-vor-80437224.bild.html",
-      "image_title": "Ukraine: Russland führt US-Gefangene im TV vor"
-    },
-    {
-      "title": "Trump geht auf Ex-Vize los : „Mike hatte nicht den Mut, zu handeln“",
-      "teaser": "Ex-US-Präsident Donald Trump hat seinen damaligen Vize Mike Pence erneut öffentlich attackiert.",
-      "url": "https://www.bild.de/politik/trump/politik-ausland/trump-geht-auf-seinen-ex-vize-los-mike-hatte-nicht-den-mut-zu-handeln-80436994.bild.html",
-      "image_title": "Trump geht auf seinen Ex-Vize los: „Mike hatte nicht den Mut, zu handeln“"
-    },
-    {
-      "title": "Anschläge drohen : Israel warnt seine Bürger in Istanbul vor Killer-Agenten",
-      "teaser": "Israel befürchtet Angriffe auf seine Staatsbürger in der türkischen Metropole Istanbul.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/israel-warnt-seine-buerger-in-istanbul-vor-iranischen-killer-kommandos-80436818.bild.html",
-      "image_title": "Israel warnt seine Bürger in Istanbul vor iranischen Killer-Kommandos"
-    },
-    {
-      "title": "Scholz will weiter telefonieren : „Es ist absolut notwendig, mit Putin zu sprechen“",
-      "teaser": "Kanzler Scholz hat direkte Gespräche mit Putin verteidigt und weitere angekündigt.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/scholz-will-weiter-telefonieren-es-ist-absolut-notwendig-mit-putin-zu-sprechen-80436646.bild.html",
-      "image_title": "Scholz will weiter telefonieren: „Es ist absolut notwendig, mit Putin zu sprechen“"
-    },
-    {
-      "title": "„Rüpelmethoden“ : Russen-Kriegsschiff dringt in dänische Gewässer ein",
-      "teaser": "Eine russische Korvette ist der Nacht zu Freitag in dänische Gewässer eingedrungen.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/russland-kriegsschiff-dringt-bei-bornholm-in-daenische-gewaesser-ein-ruepelmetho-80433696.bild.html",
-      "image_title": "Russland: Kriegsschiff dringt bei Bornholm in dänische Gewässer ein – „Rüpelmethoden!“"
-    },
-    {
-      "title": "Gas-Stopp aus Russland : Warum Frankreich trotzdem keine Panik schiebt",
-      "teaser": "Frankreich bekommt kein Erdgas mehr aus Russland. Für Franzosen kein Grund zur Panik.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/frankreich-kein-gas-aus-russland-kein-grund-zur-panik-80433308.bild.html",
-      "image_title": "Frankreich: Kein Gas aus Russland, kein Grund zur Panik"
-    },
-    {
-      "title": "Nach Fahrrad-Sturz : Aus Biker-Biden wird Joe Jumper",
-      "url": "https://www.bild.de/video/clip/video/nach-biden-bike-sturz-jetzt-huepft-der-praesident-wieder-80452888,auto=true.bild.html",
-      "image_title": "Nach Fahrrad-Sturz: Aus Biker-Biden wird Joe Jumper"
-    },
-    {
-      "title": "US-Präsident fällt plötzlich um : Biden kann nicht biken",
-      "url": "https://www.bild.de/video/clip/video/us-praesident-faellt-ploetzlich-um-biden-kann-nicht-biken-80441800,auto=true.bild.html",
-      "image_title": "US-Präsident fällt plötzlich um: Biden kann nicht biken"
-    },
-    {
-      "title": "PUTIN LOBT SEIN LAND : „Wirtschaftsblitzkrieg gegen Russland ohne Erfolg“",
-      "url": "https://www.bild.de/video/clip/video/putin-lobt-wirtschaftsblitzkrieg-gegen-russland-hatte-keinen-erfolg-80433536,auto=true.bild.html",
-      "image_title": "Putin lobt: „Wirtschaftsblitzkrieg gegen Russland hatte keinen Erfolg“"
-    }
-  ]
+  "articles": []
 }
