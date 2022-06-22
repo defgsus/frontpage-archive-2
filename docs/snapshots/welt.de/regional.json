@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-22T12:41:44",
+  "timestamp": "2022-06-22T13:42:36",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -14,6 +14,28 @@
   ],
   "articles": [
     {
+      "title": "Kriminalität",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
+      "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile239508225/2052509117-ci102l-w1024/Letzte-Generation-Last-Generation-protest-in-Berlin.jpg",
+      "image_title": "\"Letzte Generation\" (Last Generation) protest in Berlin",
+      "topic": "„Letzte Generation“"
+    },
+    {
+      "title": "Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile239509923/4112506277-ci102l-w1024/Elbe.jpg",
+      "image_title": "Elbe",
+      "topic": "Tideelbe",
+      "author": "Stephanie Lettgen"
+    },
+    {
+      "title": "Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile239433569/8822509467-ci102l-w1024/Flughafen-Hamburg-Airport.jpg",
+      "image_title": "Auf einem Aufsteller werden Flugpassagieren Tipps für die Sicherheitskontrolle angezeigt.",
+      "topic": "Chaos am Flughafen"
+    },
+    {
       "title": "Nordrhein-Westfalen",
       "url": "https://www.welt.de/regionales/nrw/",
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile239508469/9002500037-ci102l-w1024/Schwimmen-im-Freibad.jpg",
@@ -26,29 +48,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile239508487/0452507687-ci102l-w1024/Warnstreik-im-Hamburger-Hafen.jpg",
       "image_title": "09.06.2022, Hamburg: Hafenarbeiter gehen an einem Schild mit der Aufschrift \"Warnstreik!\" vorbei zu einer Streikversammlung. Die Gewerkschaft ver.di hat für den Nachmittag zu Warnstreiks in allen wichtigen deutschen Seehäfen aufgerufen, um den Druck auf die Arbeitgeberseite erhöhen. Neben Hamburg sind auch die Häfen Emden, Bremen, Bremerhaven und Wilhelmshaven betroffen. Foto: Markus Scholz/dpa +++ dpa-Bildfunk +++",
       "topic": "Hafenwirtschaft"
-    },
-    {
-      "title": "Nordrhein-Westfalen",
-      "url": "https://www.welt.de/regionales/nrw/",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239508313/9892502137-ci102l-w1024/Milchwirtschaft-erwartet-deutlich-steigende-Preise.jpg",
-      "image_title": "Es wird ein steigender Milchpreis erwartet",
-      "topic": "Höhere Preise"
-    },
-    {
-      "title": "Nordrhein-Westfalen",
-      "url": "https://www.welt.de/regionales/nrw/",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239508095/4542504407-ci102l-w1024/Buergerkoffer-in-Bonndorf.jpg",
-      "image_title": "Neben Notebook, Drucker, Scanner ist auch eine Lesegerät für den digitalen Ausweis in dem Koffer",
-      "topic": "Bürgerkoffer",
-      "author": "Frank Lorentz"
-    },
-    {
-      "title": "Nordrhein-Westfalen",
-      "url": "https://www.welt.de/regionales/nrw/",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239507619/7312508227-ci102l-w1024/Balve-Schloss-Wocklum-Matthias-Alexande.jpg",
-      "image_title": "Dressurreiter: Liselott Marie Linsenhoff und ihr Bruder Matthias Alexander Rath",
-      "topic": "Springreiten",
-      "author": "Frank Lorentz"
     },
     {
       "title": "Hamburg",
@@ -111,31 +110,33 @@
     {
       "title": "Nordrhein-Westfalen",
       "url": "https://www.welt.de/regionales/nrw/",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239508313/9892502137-ci102l-w1024/Milchwirtschaft-erwartet-deutlich-steigende-Preise.jpg",
+      "image_title": "Es wird ein steigender Milchpreis erwartet",
+      "topic": "Höhere Preise"
+    },
+    {
+      "title": "Bürgerbüro to go - Der Koffer der Träume",
+      "url": "https://www.welt.de/regionales/nrw/article239508097/Der-Buergerkoffer-als-Buergerbuero-to-go.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239508095/4542504407-ci102l-w1024/Buergerkoffer-in-Bonndorf.jpg",
+      "image_title": "Neben Notebook, Drucker, Scanner ist auch eine Lesegerät für den digitalen Ausweis in dem Koffer",
+      "topic": "Bürgerkoffer",
+      "author": "Frank Lorentz"
+    },
+    {
+      "title": "Dressurreiten und Eintopf auf der Brücke",
+      "url": "https://www.welt.de/regionales/nrw/article239507633/Springreiten-und-Empfang-im-Schloss-Wocklum-im-Sauerland.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239507619/7312508227-ci102l-w1024/Balve-Schloss-Wocklum-Matthias-Alexande.jpg",
+      "image_title": "Dressurreiter: Liselott Marie Linsenhoff und ihr Bruder Matthias Alexander Rath",
+      "topic": "Springreiten",
+      "author": "Frank Lorentz"
+    },
+    {
+      "title": "Das ignorierte Rotlicht-Milieu in NRW",
+      "url": "https://www.welt.de/regionales/nrw/article239483207/Das-Rotlicht-Milieu-und-die-Verbindung-zu-kriminellen-Clans.html",
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile239483205/4562503537-ci102l-w1024/Kombo-Stoldt-Bordell.jpg",
       "image_title": "Gewalt und Clan-Kriminalität wird im Rotlicht-Milieu verstärkt",
       "topic": "Rotlicht-Milieu",
       "author": "Till-Reimer Stoldt"
-    },
-    {
-      "title": "Verdi will Tarifeinigung noch diese Woche erreichen",
-      "url": "https://www.welt.de/regionales/nrw/article239481353/NRW-Unikliniken-Streik-fuer-bessere-Arbeitsbedingungen-geht-in-die-achte-Woche.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239481351/1632507877-ci102l-w1024/Demonstration-Uni-Klinik-Mitarbeiter-in-Bonn.jpg",
-      "image_title": "Mitarbeiter der Uniklinik gehen während einer Demonstration durch die Stadt",
-      "topic": "Streiks an Unikliniken"
-    },
-    {
-      "title": "Mutmaßlicher türkischer Spion will gestehen",
-      "url": "https://www.welt.de/regionales/nrw/article239480917/NRW-Prozess-gegen-mutmasslichen-tuerkischen-Spion-startet.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239480915/9222508857-ci102l-w1024/Prozess-gegen-mutmasslichen-tuerkischen-Spion.jpg",
-      "image_title": "Der Angeklagte, ein mutmaßlicher türkischer Spion, steht im Hochsicherheitstrakt des Oberlandesgerichts",
-      "topic": "Nordrhein-Westfalen"
-    },
-    {
-      "title": "„Unsere Sägen haben bis zu 70 PS“",
-      "url": "https://www.welt.de/regionales/nrw/article239479719/Mindener-trat-bei-der-Meisterschaft-im-Sportholzfaellen-an.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile239479717/4502509787-ci102l-w1024/Marcel-Steinkamper-of-Germany-performs-d-3.jpg",
-      "image_title": "Marcel Steinkamper bei einem Wettkampf im Sportholzfällen in Wien am 27. Mai 2022",
-      "topic": "Holzfäller"
     },
     {
       "title": "Katastrophen",
