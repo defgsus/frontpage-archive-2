@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-23T08:29:33",
+  "timestamp": "2022-06-23T09:21:04",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.2b7afeeb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.1172a3d3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0a50ed3c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ffdd5a6d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.dbaac831.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.da068409.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Wirbel um „Bachelorette“-Kandidat : ER kam Sharon zu nah",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bachelorette-kandidat-tim-schockt-alle-er-kam-sharon-zu-nah-80484842.bild.html",
-      "image_url": "https://images.bild.de/62b378c2a6debe5900c84e28/10d829c701ff4f542da09c78eaea94dd,96ee83e?w=656",
-      "image_title": "„Bachelorette“-Kandidat Tim schockt alle: Er kam Sharon zu nah"
-    },
-    {
-      "title": "Cora Schumacher packt aus : Ralf würde sie noch mal heiraten, wenn ...",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/cora-schumacher-im-club-der-guten-laune-ralf-wuerde-sie-noch-mal-heiraten-wenn-80477894.bild.html",
-      "image_url": "https://images.bild.de/62b2fcba57f1341f93d0fd68/63df8a85f28774fa5e51622e16294ba8,aca84782?w=320",
-      "image_title": "Cora Schumacher im „Club der guten Laune“: Ralf würde sie noch mal heiraten, wenn …"
-    },
-    {
-      "title": "Daniela Katzenberger verrät im TV : DAS versteckt Lucas in der Socken-Schublade",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/daniela-katzenberger-das-versteckt-lucas-in-der-socken-schublade-80483460.bild.html",
-      "image_url": "https://images.bild.de/62b34ed9a6debe5900c84ddd/6a017b5cecd875a04eb153a7046e7694,e44ce1dc?w=320",
-      "image_title": "Daniela Katzenberger: DAS versteckt Lucas in der Socken-Schublade"
-    },
-    {
-      "title": "Nach IMDb-Bewertung : Die besten Filme & Serien auf Apple TV+",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/apple-tv-die-besten-filme-und-serien-nach-imdb-zum-streamen-79316946.bild.html",
-      "image_url": "https://images.bild.de/621e331424f2ac6754cc693d/639c9013b05aa05243ff3d312b013dbd-miniSquare,b5092397?w=320",
-      "image_title": "Apple TV+: Die besten Filme und Serien nach IMDb zum streamen"
-    },
-    {
-      "title": "Top-Tänzer gesucht : Erinnerst du dich an alle „Let’s Dance“-Sieger?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/quiz-erinnerst-du-dich-an-alle-lets-dance-sieger-75975370.bild.html",
-      "image_url": "https://images.bild.de/606c577aeb64ae0001d21641/000781519657e7a310aca74992d67e71-miniSquare,a153da3a?w=320",
-      "image_title": "Quiz: Erinnerst du dich an alle „Let’s Dance“-Sieger?"
-    },
-    {
-      "title": "Nach IMDb-Bewertung : Die besten Filme und Serien auf Sky",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sky-die-besten-filme-und-serien-nach-imdb-zum-streamen-79314514.bild.html",
-      "image_title": "Sky: Die besten Filme und Serien nach IMDb zum streamen"
-    },
-    {
-      "title": "Influencerin : Das ist Payton Ramolla im Porträt",
-      "teaser": "Insta, TikTok und eine Hauptrolle bei Joyn. Payton zeigt, was sie kann!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/influencerin-reality-tv-star-das-ist-payton-ramolla-im-portraet-77419046.bild.html",
-      "image_title": "Influencerin, Reality-TV-Star: Das ist Payton Ramolla im Porträt"
-    },
-    {
-      "title": "Reality-TV-Star : Das ist Danni Büchner im Porträt",
-      "teaser": "Danni Büchner kennen wir aus „Goodbye Deutschland“ als Frau Von Mallorca-Jens.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-2021-hat-danni-buechner-ein-image-problem-77342830.bild.html",
-      "image_title": "Danni Büchner im Porträt: Der Reality Star im BILD Steckbrief"
-    },
-    {
-      "title": "50 Jahre Ballermann : Feiert Melanie Müller ihr Ballermann-Comeback?",
-      "teaser": "Lesen Sie hier alles über Ballermann-Star und Reality-Sternchen Melanie Müller!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/melanie-mueller-feiert-sie-ihr-ballermann-comenack-alle-infos-77342372.bild.html",
-      "image_title": "Melanie Müller: Feiert sie jetzt ihr Ballermann-Comeback?"
-    },
-    {
-      "title": "Schauspieler & Autor : Eric Stehfest ist auf der Bühne zuhause",
-      "teaser": "Mit „Gute Zeiten, Schlechte Zeiten“ kennt er sich gut aus. Mehr im BILD-Steckbrief.",
-      "url": "https://www.bild.de/unterhaltung/tv/dschungelcamp/eric-stehfest-alter-karriere-privatleben-78851812.bild.html",
-      "image_title": "Eric Stehfest: Sein Weg von der Drogensucht zum Reality-Star"
-    },
-    {
-      "title": "Reality TV Star : Rafi Rachek im Porträt",
-      "teaser": "Von der Bachelorette über Promi Big Brother, er war überall dabei!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-2021-so-tickt-kandidat-rafi-rachek-77295278.bild.html",
-      "image_title": "Alles Infos zu Rafi Rachek - Alter, Karriere, Beziehung"
-    },
-    {
-      "title": "Spielerfrau, Influencerin : Spielerfrau Ina Aogo im Porträt",
-      "teaser": "WAGs in England sind die „Wifes and Girlfriends“ der Fußballprofis Stars. Ina auch.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-2021-spielerfrau-ina-aogo-im-portraet-77296544.bild.html",
-      "image_title": "Spielerfrau und Influencerin: Ina Aogo im Steckbrief"
-    },
-    {
-      "title": "Michael „Bully“ Herbig : Die Geschichte hinter seinem Namen",
-      "teaser": "Was dieser Mann macht, kann nur witzig werden, er ist Dr. Witzig. Jetzt im BILD-Steckbrief",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/michael-bully-herbig-das-ist-der-moderator-von-last-one-laughing-77664652.bild.html",
-      "image_title": "Michael „Bully“ Herbig im Portrait, Karriere und Privat"
-    },
-    {
-      "title": "Das große Quiz : Erinnerst du dich an alle DSDS-Sieger?",
-      "teaser": "„Deutschland sucht den Superstar“ läuft seit 2002 auf RTL. Kennst du alle Sieger?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/deutschland-sucht-den-superstar-kennen-sie-alle-dsds-sieger-75712918.bild.html",
-      "image_title": "„Deutschland sucht den Superstar“: Kennen Sie alle DSDS-Sieger?"
-    },
-    {
-      "title": "Parodist und Komiker : Das ist Max Giermann",
-      "teaser": "Max Giermann parodiert Donald Trump und Oliver Kahn glaubhafter als sie es selber können.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/last-one-laughing-max-giermann-wieder-dabei-und-so-tickt-er-77728540.bild.html",
-      "image_title": "Max Giermann: Das ist der Mann der vielen Gesichter"
-    },
-    {
-      "title": "Stand-Up Star : Das ist Tahnee Schaffarczyk",
-      "teaser": "Nicht nur der Name ist etwas ganz besonderes, Tahnee Schaffarczyk ist wahnsinnig lustig.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/last-one-laughing-comedienne-tahnee-nimmt-kein-blatt-vor-den-mund-77704162.bild.html",
-      "image_title": "Wer ist der Stand-Up Star Tahnee Schaffarczyk?"
-    },
-    {
-      "title": "Streaming Disney+ : Die besten Filme & Serien auf Disney+",
-      "teaser": "Hier bei BILD finden Sie die besten Disney+ Filme & Serien, die Sie sonst leicht übersehen",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/disney-die-besten-filme-serien-streamen-79314184.bild.html",
-      "image_title": "Disney+: Die besten Filme & Serien streamen"
-    },
-    {
-      "title": "Komiker und Tausendsassa : Das ist Bastian Pastewka",
-      "teaser": "Bastian Pastewka ist seit 1996 aus der deutschen Comedy nicht mehr wegzudenken.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/bastian-pastewka-bei-last-one-laughing-um-zu-gewinnen-rasiert-er-sich-den-intimb-77704654.bild.html",
-      "image_title": "Schauspieler, Komiker, Tausendsassa: Bastian Pastewka im Steckbrief"
-    },
-    {
-      "title": "Tatort in Mainz : Alle Infos zum Tatort mit Hauptkommissarin Berlinger",
-      "teaser": "Erst Freiburg und jetzt Mainz: Lesen Sie hier alle wichtigen Infos zum Berlinger-Tatort!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-in-mainz-das-macht-hauptkommissarin-berlinger-aus-80118454.bild.html",
-      "image_title": "Tatort in Mainz: Das macht Hauptkommissarin Berlinger aus"
-    },
-    {
-      "title": "„Last One Laughing“ : Das ist Klaas Heufer-Umlauf",
-      "teaser": "„Last One Laughing“ wurde bereits mit Staffel eins zum absoluten Lacher-Kracher!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/last-one-laughing-klaas-heufer-umlauf-bei-staffel-dabei-77495734.bild.html",
-      "image_title": "Klaas Heufer-Umlauf bei Staffel 2 „Last One Laughing“: Fakten, Karriere und Privat"
-    },
-    {
-      "title": "Streaming Netflix : Die besten Filme & Serien auf Netflix",
-      "teaser": "Hier bei BILD finden Sie die besten Netflix Filme & Serien, die Sie gesehen haben müssen",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-die-besten-filme-und-serien-zum-streamen-79311744.bild.html",
-      "image_title": "Netflix: Die besten Filme und Serien zum streamen"
-    },
-    {
-      "title": "Wie gut kennen Sie Hobbits und Orks? : Das Quiz der Ringe",
-      "teaser": "Die Abenteuer in Mittelerde gehen weiter – testen Sie Ihr Fantasy-Wissen!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/herr-der-ringe-das-quiz-zur-welt-von-mittelerde-die-ringe-der-macht-78973690.bild.html",
-      "image_title": "Herr der Ringe Quiz: Wie gut kennst du Mittelerde?"
-    },
-    {
-      "title": "Gar nicht so leicht : Erinnerst du dich an alle „Love Island“-Sieger?",
-      "teaser": "Flirten, knutschen, couplen – darauf kommt’s bei „Love Island“ an. Aber wer gewann bisher?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/gar-nicht-so-leicht-erinnerst-du-dich-an-alle-love-island-sieger-79614612.bild.html",
-      "image_title": "Gar nicht so leicht: Erinnerst du dich an alle „Love Island“-Sieger?"
-    },
-    {
-      "title": "Schlobbrig oder stabil? : Das „Love Island“-Quiz für richtige Granaten",
-      "teaser": "Geht dir der Schlottermann auf Grundeis oder bleibst du bei den Quiz-Fragen stabil?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/schlobbrig-oder-stabil-das-love-island-quiz-fuer-richtige-granaten-75976216.bild.html",
-      "image_title": "Schlobbrig oder stabil? Das „Love Island“-Quiz für richtige Granaten"
-    },
-    {
-      "title": "Streaming Amazon : Die besten Filme & Serien auf Amazon",
-      "teaser": "Hier bei BILD finden Sie die besten Amazon-Filme & Serien, die Sie sonst leicht übersehen",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-besten-filme-serien-streamen-79313592.bild.html",
-      "image_title": "Amazon Prime: Die besten Filme & Serien streamen"
-    },
-    {
-      "title": "Clan terrorisiert Hauptstadt : „Berlin ist verloren!“",
-      "url": "https://www.bild.de/video/clip/video/clan-terrorisiert-hauptstadt-berlin-ist-verloren-80435024,auto=true.bild.html",
-      "image_title": "Clan terrorisiert Hauptstadt: „Berlin ist verloren!“"
-    },
-    {
-      "title": "Mandy Capristo packt aus : Popstar litt unter quälenden Panikattacken",
-      "url": "https://www.bild.de/video/clip/glomex/mandy-capristo-packt-aus-popstar-litt-unter-quaelenden-panikattacken-v-ckali89k67lt-80255412,auto=true.bild.html",
-      "image_title": "Mandy Capristo packt aus: Popstar litt unter quälenden Panikattacken"
-    }
-  ]
+  "articles": []
 }
