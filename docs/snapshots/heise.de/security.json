@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-24T08:30:36",
+  "timestamp": "2022-06-24T09:20:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Splunk",
+      "url": "https://www.heise.de/news/Sicherheits-Management-Teils-kritische-Luecken-in-Splunk-geschlossen-7152226.html"
+    },
+    {
       "title": "Log4Shell-Lücke VMware Horizon",
       "url": "https://www.heise.de/news/Angreifer-nutzen-kontinuierlich-Log4Shell-Luecke-in-VMware-Horizon-aus-7152258.html"
     },
@@ -44,16 +48,13 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-14-Sicherheitsluecken-in-Chrome-7147522.html"
     },
     {
-      "title": "Amazon AWS",
-      "url": "https://www.heise.de/news/AWS-Amazon-Hotpatch-fuer-log4j-Luecke-ermoeglicht-Rechteausweitung-7145383.html"
+      "title": "Sicherheits-Management: Teils kritische Lücken in Splunk geschlossen",
+      "teaser": "Das Sicherheits-Management-System Splunk enthält teils kritische Sicherheitslücken. Der Hersteller dichtet die mit einer neuen Version ab.",
+      "url": "https://www.heise.de/news/Sicherheits-Management-Teils-kritische-Luecken-in-Splunk-geschlossen-7152226.html",
+      "image_title": "Aufmacher Splunk Sicherheitsupdate"
     },
     {
-      "title": "Angreifer nutzen kontinuierlich Log4Shell-Lücke in VMware Horizon aus",
-      "teaser": "Die Cybersecurity & Infrastructure Security Agency warnt vor Attacken auf die Virtualisierungslösung VMware Horizon. Admins sollten zügig handeln.",
-      "url": "https://www.heise.de/news/Angreifer-nutzen-kontinuierlich-Log4Shell-Luecke-in-VMware-Horizon-aus-7152258.html"
-    },
-    {
-      "title": "Windows-Update-Vorschau: Microsoft behebt Hotspot-Fehler",
+      "title": "Microsoft: Windows-Update-Vorschau ermöglicht wieder Hotspot-Nutzung",
       "teaser": "Die Update-Vorschau für Windows 11 bringt viele kleine Verbesserungen. Microsoft behebt darin auch das Problem, dass der WLAN-Hotspot nicht nutzbar ist.",
       "url": "https://www.heise.de/news/Windows-Update-Vorschau-Microsoft-behebt-Hotspot-Fehler-7152114.html",
       "image_title": "Aufmacher Win11 Update Preview fixt Hotspot, TLS1.3 für LDAP"
@@ -74,6 +75,12 @@
       "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
       "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
       "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
+    },
+    {
+      "title": "BSI-Chef Schönbohm: Kaspersky als Gefahr für die nationale Sicherheit",
+      "teaser": "\"Die Produktwarnung vor Kaspersky meine ich absolut ernst\", betont BSI-Chef Schönbohm. Wer die russische Virenschutzsoftware nutzt, handle teils fahrlässig.",
+      "url": "https://www.heise.de/news/BSI-Chef-Schoenbohm-Kaspersky-als-Gefahr-fuer-die-nationale-Sicherheit-7151518.html",
+      "image_title": "Warsaw,,Poland,-,July,,2019:,Kaspersky,Lab,Logotype,On,The"
     },
     {
       "title": "l+f: Ein Whirlpool voller Admins",
@@ -159,12 +166,6 @@
       "teaser": "Internationale Strafverfolger haben die Infrastruktur hinter dem russischen RSOCKS-Botnet zerlegt. Auch deutsche Behörden halfen mit, das Botnet zu stoppen.",
       "url": "https://www.heise.de/news/Internationaler-Schlag-gegen-russisches-RSOCKS-Botnet-7145550.html",
       "image_title": "Aufmacher Russisches RSOCKS-Botnet zerschlagen"
-    },
-    {
-      "title": "iX-Workshop: Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
-      "teaser": "Angriffsvektoren in der eigenen Unternehmens-IT mit Hacker-Mitteln aufdecken und beseitigen lernen. Zweitagesworkshop (online)",
-      "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-7138610.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "heise Security Tour 2022",
