@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-24T16:32:05",
+  "timestamp": "2022-06-24T17:24:19",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.df45e295.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.341b0b73.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.695ea104.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.a790081c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9d2dea66.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Tipps vom Biologen : So wird Ihr Garten zum Natur-Hotspot",
-      "url": "https://www.bild.de/news/inland/news-inland/tipps-vom-biologen-so-machen-sie-ihren-garten-zum-natur-hotspot-79245906.bild.html",
-      "image_url": "https://images.bild.de/6215d7e2ea63d148ab030184/04bf5bb8176daeada011f750a7262b96,966ada45?w=320",
-      "image_title": "Es blüht, summt und geht ganz einfach: So machen Sie Ihren Garten zum Natur-Hotspot"
-    },
-    {
-      "title": "Schreckliches Unglück bei Reutlingen : Mädchen (5) stirbt nach Badeunfall",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/schreckliches-unglueck-bei-reutlingen-maedchen-5-stirbt-nach-badeunfall-80504270.bild.html",
-      "image_url": "https://images.bild.de/62b5d7aeeb9858193f4eea8e/0cc5fdc8e3bcf31035b19e07afe7dbed-miniSquare,18553781?w=320",
-      "image_title": "Schreckliches Unglück bei Reutlingen: Mädchen (5) stirbt nach Badeunfall"
-    },
-    {
-      "title": "Horrortat in NRW : Radler findet brennende Tote in Naturschutzgebiet",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hamm-radler-findet-tote-frau-in-naturschutzgebiet-80497574.bild.html",
-      "image_url": "https://images.bild.de/62b56dfceb9858193f4ee98c/aba1a948a77ce235b4958e4c00857186,76f66a79?w=320",
-      "image_title": "Hamm: Radler findet brennende Frau in Naturschutzgebiet"
-    },
-    {
-      "title": "Einmalig in Deutschland : Auto-Roboter mixt jetzt Mojitos in einer Bar",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/einmalig-in-deutschland-im-sausalitos-mixt-jetzt-ein-roboter-mojitos-80469966.bild.html",
-      "image_url": "https://images.bild.de/62b1de46a21483602ed1738f/e474f7e5acbcd2fb4c63e25ba57c3397/Video_MitVideo,366c0ef?w=320",
-      "image_title": "Einmalig in Deutschland: Im Sausalitos mixt jetzt ein Roboter Mojitos"
-    },
-    {
-      "title": "An Berliner S-Bahnhof : Bewaffnete Männer entführen Jungen (14)",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-streit-unter-grossfamilien-bewaffnete-entfuehrten-jungen-80499202.bild.html",
-      "image_title": "Berlin: Streit unter Großfamilien? Bewaffnete entführten Jungen"
-    },
-    {
-      "title": "In 2000 Meter gab es keine Grenze : Ballon-Flucht vor 42 Jahren",
-      "teaser": "Thüringen schlief fest, als sich zwei Familien auf den Weg in die Freiheit machten.",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/ddr-ballon-flucht-vor-42-jahren-80495726.bild.html",
-      "image_title": "DDR: Ballon-Flucht vor 42 Jahren"
-    },
-    {
-      "title": "Nackte Tatsachen : Unsere BILD-Girls würden es wieder tun",
-      "teaser": "1984 brach BILD alle ­Tabus, druckte das Foto einer nackten Frau auf der ersten Seite.",
-      "url": "https://www.bild.de/news/inland/news-inland/nackte-tatsachen-unsere-bild-girls-wuerden-es-wieder-tun-80495048.bild.html",
-      "image_title": "Nackte Tatsachen: Diese BILD-Girls würden es wieder tun"
-    },
-    {
-      "title": "Marc Wallert wurde entführt : Wir zitterten um ihn, heute ist er Krisen-Trainer",
-      "teaser": "Es war einer der ersten Akte islamistischen Terrors. Und ein groteskes Medienspektakel.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/marc-wallert-wurde-von-der-terror-gruppe-abou-sayyav-entfuehrt-80494704.bild.html",
-      "image_title": "Marc Wallert wurde von der Terror-Gruppe Abou Sayyav entführt"
-    },
-    {
-      "title": "30 000 Teilnehmer am Samstag : G7-Großdemo legt München lahm",
-      "teaser": "Samstag geht nix mehr! 30 000 Menschen werden am Samstag bei einer G7-Demo erwartet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/30-000-teilnehmer-am-samstag-g7-grossdemo-legt-muenchen-lahm-80489412.bild.html",
-      "image_title": "30 000 Teilnehmer am Samstag: G7-Großdemo legt München lahm"
-    },
-    {
-      "title": "Gleich macht er unerwartet Beute : Hier lümmelt ein Gelegenheitsdieb",
-      "teaser": "Gelegenheit macht Diebe! Der Typ in der Sparkasse wird gleich zum Ganoven.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/fahndung-im-harz-hier-luemmelt-ein-gelegenheitsdieb-80497210.bild.html",
-      "image_title": "Fahndung im harz: Hier lümmelt ein Gelegenheitsdieb"
-    },
-    {
-      "title": "Trotz Konjunktursorgen : Porsche setzt auf Börsengang",
-      "teaser": "Die Vorbereitungen laufen auf Hochtouren, sagt Vorstandschef Oliver Blume.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/trotz-konjunktursorgen-porsche-setzt-auf-boersengang-80497046.bild.html",
-      "image_title": "Trotz Konjunktursorgen: Porsche setzt auf Börsengang"
-    },
-    {
-      "title": "Tschechische Kunst in Sachsen : Riesiger Trabi parkt in Dresdner Altstadt",
-      "teaser": "Ein riesiger Trabant auf vier Beinen sorgte Donnerstagabend für einiges Aufsehen auf der Brühlschen Terrasse.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-riesiger-trabi-parkt-auf-der-bruehlschen-terrasse-80495776.bild.html",
-      "image_title": "Dresden: Riesiger Trabi parkt auf der Brühlschen Terrasse"
-    },
-    {
-      "title": "Überall Personalmangel! : Uns droht ein Chaos-Sommer",
-      "teaser": "Statt Fliegen, Faulenzen und Feiern drohen Flugausfälle, Flops und gaaanz viel Frust!",
-      "url": "https://www.bild.de/news/inland/news-inland/ueberall-personalmangel-uns-droht-ein-chaos-sommer-80484006.bild.html",
-      "image_title": "Überall Personalmangel!: Uns droht ein Chaos-Sommer"
-    },
-    {
-      "title": "Bei CORONA-DEMO : Reichsbürgerin beißt Polizisten in den Arm",
-      "teaser": "Prozessauftakt gegen Polizei-Beißerin und Reichsbürgerin Margitta Böttcher aus Sachsen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/bei-corona-demo-ex-stadtraetin-biss-polizisten-in-arm-80486894.bild.html",
-      "image_title": "Bei Corona-Demo: Ex-Stadträtin biss Polizisten in Arm"
-    },
-    {
-      "title": "Ingolstadt bis Italien : Ab Samstag Flugbeschränkungen für G7-Gipfel",
-      "teaser": "Hier müssen Hobbyflieger am Wochenende am Boden bleiben.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/g7-gipfel-ab-samstag-flugbeschraenkungen-von-ingolstadt-bis-italien-80494516.bild.html",
-      "image_title": "G7-Gipfel: Ab Samstag Flugbeschränkungen von Ingolstadt bis Italien"
-    },
-    {
-      "title": "Das Zwillings-Rätsel : Messerstecherin (42) als eigene Schwester auf der Flucht?",
-      "teaser": "Seit fünf Wochen fahndet die Polizei europaweit nach Diplom-Betriebswirtin Kathy S. (42).",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/fahndung-messerstecherin-42-als-eigene-schwester-auf-der-flucht-80484628.bild.html",
-      "image_title": "Fahndung: Messerstecherin (42) als eigene Schwester auf der Flucht?"
-    },
-    {
-      "title": "Unfallbericht vom Bahnhof Schäftlarn : Tödlicher S-Bahn-Crash – war ein Lokführer schuld?",
-      "teaser": "Der furchtbare S-Bahn-Crash von Schäftlarn: ein Unfallbericht beschreibt mögliche Ursachen",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/unfallbericht-vom-toedlichen-s-bahn-crash-erste-details-liegen-vor-80492600.bild.html",
-      "image_title": "Unfallbericht vom tödlichen S-Bahn-Crash: Erste Details liegen vor"
-    },
-    {
-      "title": "Anastasia (15) tot – Verdächtige (13/14) : Warum Kinder Kinder töten",
-      "teaser": "Anastasia wurde erstickt. Die Verdächtigen sind 13 und 14. Das sagt eine Psychologin!",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/anastasia-15-erstickt-verdaechtige-sind-kinder-das-sagt-eine-expertin-80485346.bild.html",
-      "image_title": "Anastasia (15) erstickt – Verdächtige sind Kinder: Das sagt eine Psychotherapeutin"
-    },
-    {
-      "title": "Feuer-Drama an der Ampel : Zwei Oldtimer beim Transport abgefackelt",
-      "teaser": "Auf der B101 verbrannten 2 Oldtimer der Marke Adler (Bj. 1930) im Wert von 150 000 Euro!",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-oldtimer-in-sachsen-abgefackelt-80490538.bild.html",
-      "image_title": "Unfall: Oldtimer in Sachsen abgefackelt"
-    },
-    {
-      "title": "UnFASSbar! : Münchner schmuggelt dieses Fass ins Deutsche Museum",
-      "teaser": "Lustige Fass-Farce in München: Zwei Jahre lang war es als Exponat zu sehen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-mann-schmuggelt-fass-ins-deutsche-museum-80488680.bild.html",
-      "image_title": "München: Mann schmuggelt Fass ins Deutsche Museum"
-    },
-    {
-      "title": "MOTIV: FEINDSCHAFT : Anastasias (15) Killer sind selbst noch Kinder",
-      "teaser": "Die vermisste Schülerin Anastasia (15) aus Salzgitter (Niedersachsen) wurde getötet.",
-      "url": "https://www.bild.de/bild-plus/regional/hannover/hannover-aktuell/leiche-lag-hinter-dem-supermarkt-polizei-sicher-anastasias-15-moerder-sind-selbs-80478438.bild.html",
-      "image_title": "Salzgitter: Leiche hinterm Supermarkt +++ Motiv: Feindschaft"
-    },
-    {
-      "title": "Rudi, der Rathaus-Rabe : Herr Bürgermeister hat einen Vogel",
-      "teaser": "Martin Friedrich (37, CDU) liebt seinen Job als Bürgermeister – und Rabe Rudi.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-herr-buergermeister-hat-einen-vogel-80483898.bild.html",
-      "image_title": "Sitzendorf: Dieser Bürgermeister hat einen Vogel"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie einen 6er im Lotto? Gehört der Jackpot bald Ihnen? Erfahren Sie es hier",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-22-juni-80474980.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen und Quoten vom 22. Juni"
-    },
-    {
-      "title": "Skandal in der katholischen Kirche : Missbrauchsopfer verklagt Papst Benedikt",
-      "teaser": "Am Landgericht Traunstein wurde Klage gegen Papst Benedikt XVI. eingereicht.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/landgericht-traunstein-missbrauchsopfer-verklagt-papst-benedikt-xvi-80474694.bild.html",
-      "image_title": "Landgericht Traunstein: Missbrauchsopfer verklagt Papst Benedikt XVI"
-    },
-    {
-      "title": "Warte-Horror in Köln : Ein Kilometer Anstehen im Flughafen",
-      "url": "https://www.bild.de/video/clip/video/warte-horror-in-koeln-ein-kilometer-anstehen-im-flughafen-80503506,auto=true.bild.html",
-      "image_title": "Warte-Horror in Köln: Ein Kilometer Anstehen im Flughafen"
-    },
-    {
-      "title": "Marc Wallert wurde entführt : Wir zitterten um ihn, heute ist er Krisen-Trainer",
-      "url": "https://www.bild.de/video/clip/video/marc-wallert-wurde-entfuehrt-wir-zitterten-um-ihn-heute-ist-er-krisen-trainer-80495150,auto=true.bild.html",
-      "image_title": "Marc Wallert wurde entführt: Wir zitterten um ihn, heute ist er Krisen-Trainer"
-    },
-    {
-      "title": "Frau (19) in Hamburg niedergestochen : Schock am frühen Donnerstagmorgen!",
-      "url": "https://www.bild.de/video/clip/video/hamburg-billstedt-als-sie-in-den-bus-stieg-frau-20-niedergestochen-80488456,auto=true.bild.html",
-      "image_title": "Hamburg-Billstedt: Als sie in den Bus stieg: Frau (19) niedergestochen"
-    }
-  ]
+  "articles": []
 }
