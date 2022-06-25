@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-25T11:17:31",
+  "timestamp": "2022-06-25T12:34:28",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.df45e295.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.341b0b73.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.695ea104.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.a790081c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9d2dea66.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Burger-King-Mitarbeiter : Sein Geschenk nach 27 Jahren ohne Fehltag",
-      "url": "https://www.bild.de/news/ausland/news-ausland/burger-king-mitarbeiter-bekommt-dieses-geschenk-nach-27-jahren-ohne-fehltag-80488878.bild.html",
-      "image_url": "https://images.bild.de/62b434ac1ff85538dd4974f7/df0c3d1f24c2a509563b07ab5dbb2d77,bdb1bbbf?w=320",
-      "image_title": "Burger-King-Mitarbeiter bekommt DIESES Geschenk nach 27 Jahren ohne Fehltag"
-    },
-    {
-      "title": "Malta verbietet Abbruch : US-Touristin reist aus, damit sie abtreiben kann",
-      "url": "https://www.bild.de/news/ausland/news-ausland/malta-schwangere-us-touristin-reist-wegen-verbot-fuer-abtreibung-nach-mallorca-80500152.bild.html",
-      "image_url": "https://images.bild.de/62b5951deb9858193f4ee9f3/042f8204326899df233107c2c49df0e9,11a0906f?w=320",
-      "image_title": "Malta: Schwangere US-Touristin reist wegen Verbot für Abtreibung nach Mallorca"
-    },
-    {
-      "title": "Scotland Yard sicher : Paar hat Kind für Organhandel geschmuggelt",
-      "url": "https://www.bild.de/news/ausland/news-ausland/scotland-yard-paar-wollte-kind-fuer-organhandel-nach-england-schmuggeln-80490166.bild.html",
-      "image_url": "https://images.bild.de/62b450891ff85538dd49753f/2e1dbf03d5a75309812c214295119331,53d4ddd4?w=320",
-      "image_title": "Scotland Yard: Paar hat Kind für Organhandel nach England geschmuggelt"
-    },
-    {
-      "title": "Die Stadt, die niemals schläft : In New York explodiert die Gewalt",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/bild-in-der-stadt-die-nie-schlaeft-in-new-york-explodiert-die-gewalt-80430460.bild.html",
-      "image_url": "https://images.bild.de/62ac5bdf1af9e22b6c978b4f/15129eee670b7ecf011d06b21f6bb145-miniSquare,cc1d150c?w=320",
-      "image_title": "BILD in der Stadt, die nie schläft: In New York explodiert die Gewalt"
-    },
-    {
-      "title": "75 Jahre „fliegende Untertasse“ : BILD erklärt die bekanntesten UFO-Theorien",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/75-jahre-fliegende-untertasse-das-sind-die-bekanntesten-ufo-theorien-80485918.bild.html",
-      "image_title": "75 Jahre „fliegende Untertasse“: Das sind die bekanntesten UFO-Theorien"
-    },
-    {
-      "title": "Ihr Ex-Freund ermordete sie : Model (23) sagte an Hotel-Rezeption eigenen Tod voraus",
-      "teaser": "Es ist ein dramatisches Zeugnis einer verzweifelten jungen Frau, die auf Hilfe pocht.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russland-model-gretta-vedler-23-sagt-an-hotel-rezeption-eigenen-tod-voraus-80492024.bild.html",
-      "image_title": "Russland: Model Gretta Vedler (23) sagte an Hotel-Rezeption eigenen Tod voraus"
-    },
-    {
-      "title": "Frauchen und Hunde tot : Beim Gassigehen vom Blitz getroffen",
-      "teaser": "Eine Amerikanerin ging mit ihren Hunden Gassi, dann zog ein Gewitter auf.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/beim-gassigehen-vom-blitz-getroffen-frauchen-und-hunde-tot-80492340.bild.html",
-      "image_title": "Beim Gassigehen vom Blitz getroffen – Frauchen und Hunde tot"
-    },
-    {
-      "title": "Behörden werten Amoklauf in Texas aus : Schulmassaker: Polizei versagte kläglich in Uvalde",
-      "teaser": "19 Kinder wurden in einem der schlimmsten Schulmassaker der US-Geschichte erschossen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-texas-polizei-versagte-klaeglich-bei-massaker-in-uvalde-80485244.bild.html",
-      "image_title": "Amoklauf in Texas: Polizei versagte „kläglich“ bei Massaker in Uvalde"
-    },
-    {
-      "title": "Abtreibungsdrama auf Malta : Urlauberin muss hoffen, dass ihr Baby stirbt",
-      "teaser": "Der Fötus ist nicht überlebensfähig, doch Andrea darf auf Malta nicht abtreiben lassen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/malta-keine-abtreibung-trotz-komplikationen-us-touristin-bangt-um-ihr-leben-80485422.bild.html",
-      "image_title": "Malta: Keine Abtreibung trotz Komplikationen! US-Touristin bangt um ihr Leben"
-    },
-    {
-      "title": "Erdbeben in Afghanistan : Opfer werden in Massengräbern beerdigt",
-      "teaser": "Nach dem Erdbeben am Mittwochmorgen dauern die Rettungsarbeiten an.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/erdbeben-in-afghanistan-opfer-in-massengraebern-beerdigt-80485752.bild.html",
-      "image_title": "Erdbeben in Afghanistan: Opfer in Massengräbern beerdigt"
-    },
-    {
-      "title": "Hälfte der Flüge müssen stattfinden : Spanischer Minister fliegt bei Malle-Streik dazwischen",
-      "teaser": "56 Prozent internationale Flüge und 73 Prozent innerspanische Flüge sollen stattfinden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/easyjet-spanischer-minister-fliegt-bei-malle-streik-dazwischen-80490936.bild.html",
-      "image_title": "Easyjet: Spanischer Minister fliegt bei Malle-Streik dazwischen"
-    },
-    {
-      "title": "Mallorca : Deutsche Teenager sollen Frau vergewaltigt haben",
-      "teaser": "Die 17- und 18-Jährigen stehen im Verdacht, eine Urlauberin vergewaltigt zu haben!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-deutsche-teenager-sollen-frau-in-hotel-vergewaltigt-haben-80488134.bild.html",
-      "image_title": "Mallorca: Deutsche Teenager sollen Frau in Hotel vergewaltigt haben"
-    },
-    {
-      "title": "Von US-Mutter vergessen : Junge (5) stirbt in glühend heißem Porsche",
-      "teaser": "Er wollte den Geburtstag seiner Schwester feiern. Nun ist ein Fünfjähriger aus Houston tot",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mutter-vergass-ihn-junge-5-stirbt-in-heissem-porsche-80472280.bild.html",
-      "image_title": "Mutter aus den USA vergaß ihn: Junge (5) stirbt in glühend heißem Porsche"
-    },
-    {
-      "title": "Mehr als 1000 Tote und 1500 Verletzte : Horror-Erdbeben in Afghanistan",
-      "teaser": "Fürchterliche Bilanz nach einem heftigen Erdbeben in Afghanistan!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/afghanistan-erdbeben-mit-staerke-5-9-mindestens-250-tote-an-der-grenze-zu-pakist-80473926.bild.html",
-      "image_title": "Afghanistan: Erdbeben mit Stärke 5,9 – mindestens 1000 Tote an der Grenze zu Pakistan"
-    },
-    {
-      "title": "Streiks bei drei Airlines gleichzeitig : Jetzt droht Malle-Chaos",
-      "teaser": "Zum Start in die Feriensaison droht Streik-Chaos bei Easyjet, Ryanair und Lauda Air.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-droht-streik-chaos-zum-ferienstart-easyjet-ryanair-und-lauda-air-betrof-80473646.bild.html",
-      "image_title": "Mallorca: Streiks bei Easyjet, Ryanair und Lauda Air: Wann Flüge ausfallen - mit Kalender"
-    },
-    {
-      "title": "Wegen Dürre : Dorf in Frankreich verbietet Zähneputzen",
-      "teaser": "Das Wasser aus dem Hahn dürfe auch nicht zum Kochen verwendet werden, hieß es weiter.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/wegen-duerre-dorf-in-frankreich-verbietet-zaehneputzen-80475414.bild.html",
-      "image_title": "Wegen Dürre: Dorf in Frankreich verbietet Zähneputzen mit Wasser"
-    },
-    {
-      "title": "In Russland : Bär zertrümmert Schädel von Jäger (†62)",
-      "teaser": "In Russland tötete ein Braunbär einen Jäger, nachdem dieser auf ihn geschossen hatte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russland-baer-zertruemmert-schaedel-von-jaeger-nach-schuss-beide-tot-80470580.bild.html",
-      "image_title": "Russland: Bär zertrümmert Schädel von Jäger nach Schuss – beide tot"
-    },
-    {
-      "title": "Sexueller Missbrauch an Mädchen (16) : Bill Cosby schuldig gesprochen!",
-      "teaser": "Schauspieler Bill Cosby wurde im Vergewaltigungsprozess für schuldig gesprochen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/jugendliche-sexuell-missbraucht-bill-cosby-schuldig-ge-80473530.bild.html",
-      "image_title": "Mädchen (16) sexuell missbraucht: Bill Cosby schuldig gesprochen"
-    },
-    {
-      "title": "Zoff um Parkplatz : Ex-Soldat ersticht zwei Nachbarn – 38 Jahre Knast",
-      "teaser": "15 Jahre hatte Collin Reeves seinem Land gedient. Mehr als doppelt so lang muss er in den Knast.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/zoff-um-parkplatz-ex-soldat-ersticht-zwei-nachbarn-38jahre-knast-80468652.bild.html",
-      "image_title": "Zoff um Parkplatz: Ex-Soldat ersticht zwei Nachbarn – 38 Jahre Knast"
-    },
-    {
-      "title": "„X Factor“-Star Tom Mann : Verlobte (34) stirbt am Morgen ihrer Hochzeit",
-      "teaser": "Ihr Glück schien perfekt – doch dann schlug das Schicksal unerbittlich zu ...",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/x-factor-star-tom-mann-28-verlobte-34-von-briten-saenger-stirbt-am-morgen-ihrer-80463544.bild.html",
-      "image_title": "„X Factor“-Star Tom Mann (28): Verlobte (34) von Briten-Sänger stirbt am Morgen ihrer Hochzeit"
-    },
-    {
-      "title": "Größter Bahnstreik seit 30 Jahren : Großbritannien wieder im Lockdown",
-      "teaser": "Nur zwanzig Prozent aller Züge fuhren am Dienstag. Tausende Pendler waren gestrandet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/grossbritannien-groesster-bahnstreik-seit-30-jahren-80-prozent-aller-zuege-ausge-80463340.bild.html",
-      "image_title": "Großbritannien: Größter Bahnstreik seit 30 Jahren – 80 Prozent aller Züge ausgefallen"
-    },
-    {
-      "title": "Erlös für Ukraine-Flüchtlinge : 98 Mio. Euro! Russe versteigert seinen Friedensnobelpreis",
-      "teaser": "New York – Millionengebote für den Frieden!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/erloes-fuer-ukraine-friedensnobelpreis-fuer-98-mio-euro-versteigert-80462136.bild.html",
-      "image_title": "98 Mio. Euro! Russischer Journalist versteigert seinen Friedensnobelpreis"
-    },
-    {
-      "title": "In Kambodscha : Größter Rochen der Welt gefangen!",
-      "teaser": "Ein Fischer hat den größten jemals registrierten Süßwasserfisch der Welt gefangen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/in-kambodscha-groesster-rochen-der-welt-gefangen-80462182.bild.html",
-      "image_title": "In Kambodscha: Größter Rochen der Welt gefangen!"
-    },
-    {
-      "title": "Mit Kopf auf Felsen geprallt : Deutscher Urlauber stirbt im Meer vor Mallorca",
-      "teaser": "Ein deutscher Bade-Urlauber ist auf Mallorca bei einem Badeunfall gestorben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-schwerer-badeunfall-deutscher-tourist-prallt-mit-kopf-auf-felsen-tot-80462608.bild.html",
-      "image_title": "Mallorca: Schwerer Badeunfall! Deutscher Tourist prallt mit Kopf auf Felsen – tot!"
-    },
-    {
-      "title": "In US-Gerichtssaal : Vater greift mutmaßlichen Mörder seines Sohnes an",
-      "url": "https://www.bild.de/video/clip/video/im-gerichtssaal-mann-greift-moerder-seines-sohnes-an-80497728,auto=true.bild.html",
-      "image_title": "In US-Gerichtssaal: Vater greift mutmaßlichen Mörder seines Sohnes an"
-    },
-    {
-      "title": "Voll auf die Nase : Bar-Chef vertreibt Kroko mit Pfanne",
-      "url": "https://www.bild.de/video/clip/video/voll-auf-die-nase-barbesitzer-vertreibt-kroko-mit-bratpfanne-80470226,auto=true.bild.html",
-      "image_title": "Voll auf die Nase: Barbesitzer vertreibt Kroko mit Bratpfanne"
-    },
-    {
-      "title": "Zwei Tote, viele Verletzte : Schüsse in Schwulenclub in Oslo",
-      "url": "https://www.bild.de/video/clip/video/zwei-tote-viele-verletzte-schuesse-in-schwulenclub-in-oslo-80507646,auto=true.bild.html",
-      "image_title": "Zwei Tote, viele Verletzte: Schüsse in Schwulenclub in Oslo"
-    }
-  ]
+  "articles": []
 }
