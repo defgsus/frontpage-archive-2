@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-26T11:17:03",
+  "timestamp": "2022-06-26T12:35:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Jenkins",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Schadcode-Attacken-auf-Automation-Server-Jenkins-moeglich-7154001.html"
+    },
+    {
       "title": "Splunk",
       "url": "https://www.heise.de/news/Sicherheits-Management-Teils-kritische-Luecken-in-Splunk-geschlossen-7152226.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Synology-Aktualiserte-Firmware-dichtet-Sicherheitslecks-in-Routern-ab-7151202.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-14-Sicherheitsluecken-in-Chrome-7147522.html"
-    },
-    {
-      "title": "Ransomware-Gang Conti schließt Leak- und Verhandlungsplattform",
-      "teaser": "Die Conti-Gruppe hinter dem gleichnamigen Erpressungstrojaner finalisiert ihren Rückzug und teilt sich weiter in kleinere Gangs auf.",
-      "url": "https://www.heise.de/news/Ransomware-Gang-Conti-schliesst-Leak-und-Verhandlungsplattform-7154035.html"
+      "title": "Softwareentwicklung: Schadcode-Attacken auf Automation-Server Jenkins möglich",
+      "teaser": "Angreifer könnten Jenkins-Instanzen über mehrere Sicherheitslücken attackieren. Dagegen abgesicherte Versionen stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Schadcode-Attacken-auf-Automation-Server-Jenkins-moeglich-7154001.html"
     },
     {
       "title": "Googles Passwortmanager kann nun auf Geräten verschlüsseln",
@@ -65,21 +65,31 @@
       "image_title": "Aufmacher Splunk Sicherheitsupdate"
     },
     {
+      "title": "Angreifer nutzen kontinuierlich Log4Shell-Lücke in VMware Horizon aus",
+      "teaser": "Die Cybersecurity & Infrastructure Security Agency warnt vor Attacken auf die Virtualisierungslösung VMware Horizon. Admins sollten zügig handeln.",
+      "url": "https://www.heise.de/news/Angreifer-nutzen-kontinuierlich-Log4Shell-Luecke-in-VMware-Horizon-aus-7152258.html"
+    },
+    {
+      "title": "Diese Methoden und Tools verhindern schwache Passwörter",
+      "teaser": "Starke Passwörter müssen bestimmten Anforderungen genügen. Um Firmen-Accounts wirksam abzusichern, gibt es eine ganze Reihe von Methoden, die nur umgesetzt werden müssen. Bei der praktischen Einführung unterstützen Passwort-Tools.",
+      "url": "https://www.heise.de/solutions/specops/diese-methoden-und-tools-verhindern-schwache-passwoerter/?source=nat_teas"
+    },
+    {
       "title": "Microsoft: Windows-Update-Vorschau ermöglicht wieder Hotspot-Nutzung",
       "teaser": "Die Update-Vorschau für Windows 11 bringt viele kleine Verbesserungen. Microsoft behebt darin auch das Problem, dass der WLAN-Hotspot nicht nutzbar ist.",
       "url": "https://www.heise.de/news/Windows-Update-Vorschau-Microsoft-behebt-Hotspot-Fehler-7152114.html",
       "image_title": "Aufmacher Win11 Update Preview fixt Hotspot, TLS1.3 für LDAP"
     },
     {
-      "title": "Schwache Passwörter öffnen Cyber-Kriminellen die Türen",
-      "teaser": "Passwörter bleiben die Achillesferse der Netzwerksicherheit in Unternehmen. Schon mit einfachen Mitteln und ohne großen Aufwand lassen sich schwache Passwörter knacken. Die Folgen solch unsicherer Passwörter können Produktionsausfälle, hohe Kosten und Imageschäden sein – hinzu kommen mögliche rechtliche und Compliance-Verletzungen.",
-      "url": "https://www.heise.de/solutions/specops/schwache-passwoerter-oeffnen-cyber-kriminellen-die-tueren/?source=nat_teas"
-    },
-    {
       "title": "Google: Android- und Apple-Handys von italienischer Spyware ausgespäht",
       "teaser": "Spyware von RCS Lab soll Smartphones in Italien und Kasachstan ausspioniert haben. Die Firma zählt europäische Strafverfolgungsbehörden zu ihren Kunden.",
       "url": "https://www.heise.de/news/Google-Android-und-Apple-Handys-von-italienischer-Spyware-ausgespaeht-7151984.html",
       "image_title": "Handy in der Hand in einem symbolischen Darknet"
+    },
+    {
+      "title": "Weitere USB-Speicher mit Verschlüsselung geknackt",
+      "teaser": "Ein USB-Speicher mit Fingerabdrucksensor von Verbatim und ein Stick mit Zehnertastatur von Amazon schützen Daten unzureichend.",
+      "url": "https://www.heise.de/news/Weitere-USB-Speicher-mit-Verschluesselung-geknackt-7151835.html"
     },
     {
       "title": "Microsoft: Massive russische Cyber-Angriffe auch gegen Verbündete der Ukraine",
@@ -155,18 +165,6 @@
       "url": "https://www.heise.de/news/Open-Source-Security-Finanzspritze-fuer-Eclipse-und-Python-Software-Foundation-7146434.html"
     },
     {
-      "title": "Cloudflare-Schluckauf: Nicht erreichbare Webseiten sorgen für Aufregung",
-      "teaser": "Ein kurzer Aussetzer der Cloud-Dienste von Cloudflare am Dienstagmorgen sorgt für Verunsicherung. Inzwischen laufen die Dienste offenbar wieder störungsfrei.",
-      "url": "https://www.heise.de/news/Cloudflare-Schluckauf-Nicht-erreichbare-Webseiten-sorgen-fuer-Aufregung-7146666.html",
-      "image_title": "Aufmacher Kurzzeitige Cloudflare-Störung sorgt für Aufregung"
-    },
-    {
-      "title": "IT-Security-Anfängerfehler gefährden Stromver- und Abwasserentsorgung",
-      "teaser": "Angreifer könnten unter anderem Steuerungssysteme in kritischen Infrastrukturen mit Schadcode attackieren.",
-      "url": "https://www.heise.de/news/Bericht-IT-Security-Anfaengerfehler-gefaehrden-Strom-und-Abwasserversorgung-7146566.html",
-      "image_title": "Roboter im Werk der Ypsomed AG"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -188,19 +186,19 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Re: Hängt bei \"Checking disks: 0% complete\"",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Haengt-bei-Checking-disks-0-complete/posting-41201118/show/"
+    },
+    {
+      "title": "Re: Desinfec't findet boot SSD drive nicht",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-findet-boot-SSD-drive-nicht/posting-41200960/show/"
+    },
+    {
       "title": "Re: Installation ohne Windows unter Ubuntu",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Installation-ohne-Windows-unter-Ubuntu/posting-41200694/show/"
-    },
-    {
-      "title": "Re: \"Lawful Interception\"",
-      "teaser": "Forum: Überwachungssoftware: Hacking Team will neues Remote Control System anbieten",
-      "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/Ueberwachungssoftware-Hacking-Team-will-neues-Remote-Control-System-anbieten/Re-Lawful-Interception/posting-41200664/show/"
-    },
-    {
-      "title": "Lösung: PC bootet nicht vom (unkonvertierten) Stick | Re: Desinfect Installation",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Loesung-PC-bootet-nicht-vom-unkonvertierten-Stick-Re-Desinfect-Installation/posting-41199089/show/"
     }
   ]
 }
