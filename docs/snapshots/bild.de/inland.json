@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-26T15:20:50",
+  "timestamp": "2022-06-26T16:28:00",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.df45e295.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.341b0b73.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.695ea104.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.a790081c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9d2dea66.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Nach acht Tagen wurde der Junge unterkühlt gerettet : Kroch Joe hier in die Unterwelt?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/vermisst-nach-acht-tagen-wurde-joe-in-oldenburg-unterkuehlt-gerettet-80510234.bild.html",
-      "image_url": "https://images.bild.de/62b70c267b81fb7e01b42f77/f57b980dc747fb4feaf169624b02fb79,955c4d25?w=656",
-      "image_title": "Vermisst: Nach acht Tagen wurde Joe in Oldenburg unterkühlt gerettet"
-    },
-    {
-      "title": "Familie schwer verletzt : Sportboot auf der Müritz explodiert",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/3-skipper-schwer-verletzt-sportboot-auf-mueritz-bei-waren-explodiert-80517290.bild.html",
-      "image_url": "https://images.bild.de/62b853b591718526182fd468/26357edeaf04ccced74a5535d3fb4672,15ba1949?w=320",
-      "image_title": "Unfall: Sportboot auf der Müritz bei Waren explodiert"
-    },
-    {
-      "title": "Schleuser gestoppt : Mit sieben Flüchtlingen auf Rücksitz",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/schleuser-gestoppt-mit-sieben-fluechtlingen-auf-ruecksitz-80518090.bild.html",
-      "image_url": "https://images.bild.de/62b865143657aa36bde46477/a29ec014d402db77a3b828118b8c088c,84b94a50?w=320",
-      "image_title": "Schleuser gestoppt: Mit sieben Flüchtlingen auf Rücksitz"
-    },
-    {
-      "title": "Im Karwendelgebirge : Paar (19, 20) aus Dachau stürzt in den Tod",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/abgestuerzt-paar-aus-dachau-stirbt-im-karwendel-80513816.bild.html",
-      "image_url": "https://images.bild.de/62b7f9e27f292628f8445006/505a1bb930bb13d47395bb5ce4bfb044,4f7dbbf0?w=320",
-      "image_title": "Im Karwendelgebirge: Paar (19, 20) aus Dachau stürzt in den Tod"
-    },
-    {
-      "title": "KLIMAWANDEL VORAUS : Deutschlands Langzeit-Abenteurer nimmt Kurs aufs Nordmeer",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/klimawandel-abenteurer-arved-fuchs-erforscht-gewaesser-um-groenland-80510268.bild.html",
-      "image_url": "https://images.bild.de/62b70d1a40912d503a330596/6b9f327dbf191d2f2a8907bb2084a8c4,69e67c5e?w=320",
-      "image_title": "Klimawandel: Abenteurer Arved Fuchs erforscht Gewässer um Grönland"
-    },
-    {
-      "title": "Drama am Strand in Hamburg-Nienstedten : Junge (13) ertrinkt beim Baden in der Elbe",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/drama-am-strand-in-hamburg-junge-13-verschwindet-beim-baden-in-der-elbe-80512284.bild.html",
-      "image_title": "Drama am Strand in Hamburg: Junge (13) ertrinkt beim Baden in der Elbe"
-    },
-    {
-      "title": "Pony stürzt in Brunnen : Huch, wie komm ich hier wieder raus?",
-      "teaser": "Nur noch der Kopf schaut heraus, mit seinen Vorderhufen scheint sich das Pony verzweifelt an Brunnenrand zu klammern.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/tiere-pony-stuerzt-in-brunnen-und-steckt-fest-80518126.bild.html",
-      "image_title": "Tiere: Pony stürzt in Brunnen und steckt fest"
-    },
-    {
-      "title": "Exklusivster VW der Welt : Der 570 000-Euro-Käfer aus Sachsen",
-      "teaser": "Ein Leipziger Startup entwickelte den 570 000-Euro-Luxus-Käfer mit Porsche-Getriebe.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipziger-startup-baut-exklusivsten-vw-der-welt-milivi-1-80510406.bild.html",
-      "image_title": "Leipziger Startup baut exklusivsten VW der Welt – MILIVIÉ 1"
-    },
-    {
-      "title": "Wer will Jürgen Kleinert schaden? : Lerchen-Bäcker Opfer von falscher Job-Anzeige",
-      "teaser": "Mit einem sehr emotionalen Facebook-Post richtet er sich an die Öffentlichkeit.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-lerchen-baecker-opfer-von-falscher-job-anzeige-80509258.bild.html",
-      "image_title": "Leipzig: Lerchen-Bäcker Opfer von falscher Job-Anzeige"
-    },
-    {
-      "title": "Bewohner evakuiert : 5 Verletzte bei Wohnhausbrand - darunter auch Kinder",
-      "teaser": "Im Leipziger Westen ist Samstagnacht ein Feuer in einem Mehrfamilienhaus ausgebrochen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-5-verletzte-darunter-kinder-nach-wohnhausbrand-in-schoenau-80517498.bild.html",
-      "image_title": "Feuer: Fünf Verletzte nach Brand eines Mehrfamilienhauses"
-    },
-    {
-      "title": "Endlich wieder Gäste! : Wir sind der letzte Campingplatz im Ahrtal",
-      "teaser": "Mayschoß – Vor knapp einem Jahr stand auf dem Platz „Zur Burgwiese“ in Mayschoß (Rheinland-Pfalz) das Wasser einen Meter hoch. Die J...",
-      "url": "https://www.bild.de/news/inland/news-inland/ein-jahr-nach-der-hochwasser-katastrophe-wir-sind-der-letzte-campingplatz-im-ahr-80505446.bild.html",
-      "image_title": "Ein Jahr nach der Hochwasser-Katastrophe: Wir sind der letzte Campingplatz im Ahrtal"
-    },
-    {
-      "title": "Pilot verletzt : Hubschrauber weicht Vögeln aus und stürzt ab",
-      "teaser": "Ein Pilot erlitt am Samstagnachmittag im Harz eine gefährliche Bruchlandung.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/leipzig-news/helikopter-absturz-hubschrauber-weicht-voegeln-aus-und-stuerzt-ab-80515000.bild.html",
-      "image_title": "Helikopter-Absturz: Hubschrauber weicht Vögeln aus und stürzt ab"
-    },
-    {
-      "title": "Auf Martin-Luther-Ring : Radfahrerin (25) von BMW erfasst – Schwer verletzt",
-      "teaser": "Leipzig – Auf dem Martin-Luther-Ring im Leipziger Zentrum wurde eine Radfahrerin (25) am Samstagabend von einem BMW erfasst und dabe...",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-radfahrerin-25-auf-martin-luther-ring-von-auto-erfasst-80514286.bild.html",
-      "image_title": "Leipzig: Radfahrerin (25) auf Martin-Luther-Ring von Auto erfasst"
-    },
-    {
-      "title": "Flughafen-Chaos! : Wut und Tränen auf deutschen FLUCHhäfen",
-      "teaser": "Sie wollten ins Urlaubsparadies und landeten in der Flughafenhölle!",
-      "url": "https://www.bild.de/news/inland/politik-inland/chaos-in-duesseldorf-und-koeln-wut-und-traenen-auf-deutschen-flughaefen-80511374.bild.html",
-      "image_title": "Chaos in Düsseldorf und Köln: Wut und Tränen auf deutschen Flughäfen"
-    },
-    {
-      "title": "Krankentage : Hier melden sich Arbeitnehmer am häufigsten krank",
-      "teaser": "Im Süden wird seltener wegen Krankheit gefehlt. Woran das liegen kann ...",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/deutschland-wo-sich-arbeitnehmer-am-haeufigsten-krank-melden-die-tabelle-80510242.bild.html",
-      "image_title": "Deutschland: Wo sich Arbeitnehmer am häufigsten krank melden - die Tabelle"
-    },
-    {
-      "title": "Wohnungsbesitzer soll Steuern nachzahlen : Ich werde bestraft, weil ich zu billig vermiete",
-      "teaser": "Vermieter Thaddäus Spegel setzt sich gegen den MIETEN-WAHNSINN ein. Und muss jetzt zahlen!",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/steuern-vermieter-ich-werde-bestraft-weil-ich-zu-billig-vermiete-80510238.bild.html",
-      "image_title": "Steuern: Vermieter: Ich werde bestraft, weil ich zu billig vermiete"
-    },
-    {
-      "title": "Tote Carina (17) : Ex-Freund schrieb noch: „Ich hoffe, es geht ihr gut“",
-      "teaser": "Vom letzten Spaziergang kehrt Carina S. (17) nicht zurück. Ihr Ex-Freund wurde verhaftet.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/news-inland/carina-17-tot-in-hamm-ex-freund-schrieb-ich-hoffe-es-geht-ihr-gut-80510254.bild.html",
-      "image_title": "Carina (17) tot in Hamm – Ex-Freund schrieb: „Ich hoffe, es geht ihr gut.“"
-    },
-    {
-      "title": "RUHESTAND NACH 30 JAHREN : Frau Drohmann lehrte uns Mathe und Mut",
-      "teaser": "Für ihre Schüler ist sie ganz normal – und dabei so außergewöhnlich.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/news-inland/contergan-opfer-lehrerin-geht-nach-30-jahren-in-den-ruhestand-80510250.bild.html",
-      "image_title": "Contergan-Opfer: Lehrerin geht nach 30 Jahren in den Ruhestand"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "teaser": "5 Mio € Lotto-Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 25. Juni 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-und-gewinnquoten-vom-25-juni-80475362.bild.html",
-      "image_title": "Lotto am Samstag: Die Lottozahlen und Gewinnquoten vom 25. Juni"
-    },
-    {
-      "title": "Dresden diskutiert über diese Bronze-Statue : Warum hat dieser Trabi einen Penis?",
-      "teaser": "Spektakuläre Skulpturen von tschechischen Künstlern lassen Einheimische und Touristen in Dresden rätseln, staunen und fotografieren.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/dresden-warum-hat-diseer-trabant-einen-penis-80506696.bild.html",
-      "image_title": "Dresden: Warum hat dieser Trabant einen Penis?"
-    },
-    {
-      "title": "Techno-Kultclub vor Aus : Flammen zerstören Recycling-Lagerhalle in Dresden",
-      "teaser": "Durch einen Großbrand im Dresdner Industriegelände wurde eine Recycling-Lagerhalle zerstört.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/grossbrand-in-dresden-flammen-drohen-techno-club-sektor-zu-zerstoeren-80507180.bild.html",
-      "image_title": "Dresden: Recyling-Lageralle durch Feuer zerstört - Technoclub „Sektor“ vor Aus"
-    },
-    {
-      "title": "Ehefrau von Ex-Minister erhebt Vorwürfe : Sexuelle Belästigung bei Sachsens Polizei?",
-      "teaser": "Die Ehefrau des gefeuerten sächsischen Innenministers Roland Wöller (51, CDU) erhebt schwere Vorwürfe gegen Sachsens Polizei.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/schwere-vorwuerfe-sexuelle-belaestigung-bei-sachsens-polizei-80506996.bild.html",
-      "image_title": "Schwere Vorwürfe: Sexuelle Belästigung bei Sachsens Polizei?"
-    },
-    {
-      "title": "Booster-Impfung wird Pflicht : Neuer Stichtags-Ärger bei Kliniken und Pflege",
-      "teaser": "Für Kliniken und Altenheime in Sachsen rollt die nächste Personalnot-Welle an!",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/impfen-neuer-stichtags-aerger-bei-kliniken-und-pflege-in-sachsen-80509368.bild.html",
-      "image_title": "Impfen: Neuer Stichtags-Ärger bei Kliniken und Pflege in Sachsen"
-    },
-    {
-      "title": "NACH SCHÜSSEN AN BERUFSSCHULE : Verdächtiger nach Amok-Alarm in Psychiatrie",
-      "teaser": "Amok-Alarm am Berufskolleg! Festnahme nach Schüssen in Bielefeld.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/schuesse-an-bielefelder-berufskolleg-polizei-nimmt-mann-fest-80501454.bild.html",
-      "image_title": "Bielefeld: Verdächtiger nach Schüssen in Psychiatrie"
-    },
-    {
-      "title": "Fallschirm-Unglück bei Eisenach : Eltern sahen Sohn (14) in den Tod stürzen",
-      "teaser": "Tragisches Unglück am Flugplatz Eisenach-Kindel. Dort verunglückte am Samstagvormittag ein 14-Jähriger tödlich.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-14-jaehriger-toedlich-bei-fallschirmsprung-verunglueckt-80509834.bild.html",
-      "image_title": "Unfall: 14-Jähriger tödlich bei Fallschirmsprung verunglückt"
-    },
-    {
-      "title": "Putins Öl : Die Russen-Raffinerie von Schwedt",
-      "url": "https://www.bild.de/video/clip/video/putins-oel-die-russen-raffinerie-von-schwedt-80421514,auto=true.bild.html",
-      "image_title": "Putins Öl: Die Russen-Raffinerie von Schwedt"
-    },
-    {
-      "title": "Er steckte in einem Gulli : Vermisster Joe (8) gefunden – er lebt!",
-      "url": "https://www.bild.de/video/clip/video/er-steckte-in-einem-gulli-vermisster-joe-8-gefunden-er-lebt-80508360,auto=true.bild.html",
-      "image_title": "Er steckte in einem Gulli: Vermisster Joe (8) gefunden – er lebt!"
-    },
-    {
-      "title": "Tödlicher Leichtsinn in Berlin : Jugendlicher stirbt beim Surfen auf S-Bahn-Dach",
-      "url": "https://www.bild.de/video/clip/video/toedlicher-s-bahn-wahnsinn-in-berlin-s-bahn-surfer-erleidet-tragischen-unfall-80508202,auto=true.bild.html",
-      "image_title": "Tödlicher Leichtsinn in Berlin: Jugendlicher stirbt beim Surfen auf S-Bahn-Dach"
-    }
-  ]
+  "articles": []
 }
