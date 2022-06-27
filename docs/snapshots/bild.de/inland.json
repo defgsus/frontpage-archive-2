@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-27T11:19:10",
+  "timestamp": "2022-06-27T12:44:43",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e537d16d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.9e46c036.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.695ea104.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Prozess um Polizisten-Mord von Kusel : Streifenkollege: „Das Blut lief die Straße hinunter“",
-      "url": "https://www.bild.de/regional/saarland/frankfurt-aktuell/prozess-um-polizisten-mord-streifenkollege-das-blut-lief-die-strasse-hinunter-80522808.bild.html",
-      "image_url": "https://images.bild.de/62b95158c88b6a089ff089b4/8ad95c0861edef5a486eaca05e308b86,ba748bb4?w=656",
-      "image_title": "Prozess um Polizisten-Mord - Streifenkollege: „Das Blut lief die Straße hinunter“"
-    },
-    {
-      "title": "Verdacht auf Straftat : Vermisste Frau tot in Wohnung gefunden",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/staatsanwaltschaft-ermittelt-vermisste-frau-tot-in-wohnung-gefunden-80526108.bild.html",
-      "image_url": "https://images.bild.de/62b984926cd2471d4c41c0ad/27f0afee7be1eccb723ddc5fd27b9bd6/Kennung_Symbolfoto,a48ecbaf?w=320",
-      "image_title": "Staatsanwaltschaft ermittelt: Vermisste Frau tot in Wohnung gefunden"
-    },
-    {
-      "title": "Neue Erkenntnisse nach drei Jahren : Lebt die vermisste Yolanda Klug noch?",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-lebt-die-vermisste-yolanda-klug-noch-80524068.bild.html",
-      "image_url": "https://images.bild.de/62b95b32a6debe5900c855a7/b46edf49fa6a47574cfaa9159b7b43c2,1327a35e?w=320",
-      "image_title": "Leipzig: Lebt die vermisste Yolanda Klug noch?"
-    },
-    {
-      "title": "DER FALL CARINA (†17) : Verstörende Erkenntnisse über den verbrannten Leichnam",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/carina-17-grausam-ermordet-wieso-wurde-ihre-leiche-brennend-aufgefunden-80522914.bild.html",
-      "image_url": "https://images.bild.de/62b955b0b684c11f85506a85/ee712fe396a49a31895885d8325c70bf,37afc3b4?w=320",
-      "image_title": "Carina (†17) grausam ermordet: Verstörende Erkenntnisse über den verbrannten Leichnam"
-    },
-    {
-      "title": "Sechs Tote, zwei Vermisste : Badesee-Horror am Hitze-Wochenende",
-      "url": "https://www.bild.de/news/inland/news/hitze-wochenende-sechs-tote-zwei-vermisste-beim-baden-80522610.bild.html",
-      "image_url": "https://images.bild.de/62b93b49abba9b412b47751b/1e3ad7b9758355a213954b58d6c802e9,e7203723?w=320",
-      "image_title": "Hitze-Wochenende: Sechs Tote, zwei Vermisste beim Baden"
-    },
-    {
-      "title": "Geheimtreffen bei Berlin : Rechtsextreme und Trump-Mann verbünden sich",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/geheimtreffen-bei-berlin-rechtsextreme-und-trump-vertrauter-verbuenden-sich-80515192.bild.html",
-      "image_title": "Geheimtreffen bei Berlin: Rechtsextreme und Trump-Vertrauter verbünden sich"
-    },
-    {
-      "title": "Nach Theater-Aufführung : Schauspieler (19) von Feuerwehr-Auto zerquetscht",
-      "teaser": "Beim Abbau nach einer Theatershow wurde ein Schauspieler in Magdeburg zerquetscht.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/madgeburg-unfall-mit-show-fahrzeug-mann-19-beim-einparken-eingequetscht-tot-80522040.bild.html",
-      "image_title": "Unfall in Magdeburg: Schauspieler (19) von Feuerwehr zerquetscht"
-    },
-    {
-      "title": "Pattex-Proteste in Berlin : Klima-Chaoten kleben sich ans Finanzministerium",
-      "teaser": "Klimaschützer kleben anlässlich des G7-Gipfels an den Türen und Einfahrten.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/g7-protest-in-berlin-klimaschuetzer-blockieren-finanzministeriumm-80522622.bild.html",
-      "image_title": "G7-Protest in Berlin: Klimaschützer blockieren Finanzministeriumm"
-    },
-    {
-      "title": "In BaWü : Kinder sprechen kaum noch Dialekt",
-      "teaser": "Dialekte bringen Farbe, Humor und Vielfalt in die Sprache.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/baden-wuerttemberg-kinder-sprechen-kaum-noch-dialekt-80524872.bild.html",
-      "image_title": "Baden-Württemberg: Kinder sprechen kaum noch Dialekt"
-    },
-    {
-      "title": "Fünf Verletzte : Messerangriff in Flüchtlingsheim – ein Toter",
-      "teaser": "Ein Mann (31) hat in einer Asylbewerberunterkunft am Bodensee auf mehrere Menschen eingestochen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/fuenf-weitere-verletzt-messerangriff-in-fluechtlingsheim-ein-toter-80522390.bild.html",
-      "image_title": "Fünf Verletzte, ein Toter: Messerangriff in Flüchtlingsheim"
-    },
-    {
-      "title": "14-Jähriger stirbt bei Unfall in Thüringen : Fallschirm-Profi sah, wie der Junge in den Tod stürzte",
-      "teaser": "Ein 14-Jähriger stürzte am Samstag bei einem Tandem-Sprung in den Tod.",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/thueringen-aktuell/fallschirm-unfall-junge-14-bei-tandem-sprung-toedlich-verunglueckt-80519468.bild.html",
-      "image_title": "Fallschirm-Profi sah Tandem-Unfall: Junge (14) tödlich verunglückt in Eisenach"
-    },
-    {
-      "title": "Wegen Katze auf Rückbank : Auto kracht in Wohnwagen",
-      "teaser": "Oh Schreck, was liegt denn DA auf der Rückbank? Dann krachte es ...",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/katze-auf-rueckbank-autofahrerin-kracht-in-gilching-in-wohnwagen-80523824.bild.html",
-      "image_title": "Katze auf Rückbank: Autofahrerin kracht in Gilching in Wohnwagen"
-    },
-    {
-      "title": "Exklusivster VW der Welt : Der 570 000-Euro-Käfer aus Sachsen",
-      "teaser": "Ein Leipziger Startup entwickelte den 570 000-Euro-Luxus-Käfer mit Porsche-Getriebe.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipziger-startup-baut-exklusivsten-vw-der-welt-milivi-1-80510406.bild.html",
-      "image_title": "Leipziger Startup baut exklusivsten VW-Käfer der Welt – MILIVIÉ 1"
-    },
-    {
-      "title": "Klimawandel voraus : Arved Fuchs (69) nimmt Kurs aufs Nordmeer",
-      "teaser": "Arved Fuchs und seine Crew ist unterwegs! Ihr Ziel: Die Berechnung des Klimawandels!",
-      "url": "https://www.bild.de/news/inland/news-inland/klimawandel-abenteurer-arved-fuchs-erforscht-gewaesser-um-groenland-80510268.bild.html",
-      "image_title": "Polarforscher: Abenteurer Arved Fuchs erforscht Gewässer um Grönland"
-    },
-    {
-      "title": "Im Park gekidnappt : Polizei befreit Ebay-Igel",
-      "teaser": "Ein Unbekannter hat Igel Alfons im Park eingesammelt, zum Verkauf angeboten.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/auf-ebay-angeboten-polizei-befreit-entfuehrten-igel-alfons-80518504.bild.html",
-      "image_title": "Auf Ebay angeboten: Polizei befreit entführten Igel Alfons"
-    },
-    {
-      "title": "Alles meins! : Dieser Bau-Millionär kam mit 41 Porsches nach Leipzig",
-      "teaser": "Der Berliner Immobilien-Unternehmer Christoph Gröner (54, CG Elementum) nennt 41 Porsches seinen Besitz",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-dieser-bau-millionaer-kam-mit-41-porsche-80521096.bild.html",
-      "image_title": "Leipzig: Dieser Bau-Millionär kam mit 41 Porsche"
-    },
-    {
-      "title": "NACH ACHT TAGEN UNTERKÜHLT GERETTET : Kroch Joe hier in die Unterwelt?",
-      "teaser": "„Ich sah, wie der Junge behutsam aus dem Loch gezogen wurde, ein Helfer beruhigte ihn.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/vermisst-nach-acht-tagen-wurde-joe-in-oldenburg-unterkuehlt-gerettet-80510234.bild.html",
-      "image_title": "Vermisst: Nach acht Tagen wurde Joe in Oldenburg unterkühlt gerettet"
-    },
-    {
-      "title": "Jeden Tag brennen drei Wälder : Sachsens Feuerwehr am Limit",
-      "teaser": "Gut 46 000 Menschen engagieren sich in Sachsens Feuerwehren. Doch unsere Lösch-Helden sind am Limit!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehr-jeden-tag-brennen-in-sachsen-drei-waelder-80520430.bild.html",
-      "image_title": "Feuerwehr: Jeden Tag brennen in Sachsen drei Wälder"
-    },
-    {
-      "title": "Fast verdreifacht : Immer mehr Fälle von Kinderpornografie",
-      "teaser": "Erfurt – Drastische Zunahme der Fälle von Kinderpornografie in Thüringen!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/kinderpornografie-immer-mehr-faelle-in-thueringen-80521298.bild.html",
-      "image_title": "Kinderpornografie: Immer mehr Fälle in Thüringen"
-    },
-    {
-      "title": "Leipziger Mieter ratlos : 35 Grad, weil Fernwärme-Rohre heiß sind",
-      "teaser": "Die eigenen vier Wände sind für Klaus Franiel (72) und seine Frau Marlis kein Rückzugsort vor der Hitze draußen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-mieter-ratlos-35-grad-in-der-wohnung-weil-fernwaerme-rohre-heiss-sind-80520216.bild.html",
-      "image_title": "Leipzig: Mieter ratlos: 35 Grad in der Wohnung, weil Fernwärme-Rohre heiß sind"
-    },
-    {
-      "title": "Rassismus-Fake im Internet : Wer will Bäckermeister Kleinert schaden?",
-      "teaser": "Mit einem sehr emotionalen Facebook-Post richtet er sich an die Öffentlichkeit.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-lerchen-baecker-opfer-von-falscher-job-anzeige-80509258.bild.html",
-      "image_title": "Leipzig: Lerchen-Bäcker Opfer von falscher Job-Anzeige"
-    },
-    {
-      "title": "Techno-Kultclub vor Aus : Flammen zerstören Recycling-Lagerhalle in Dresden",
-      "teaser": "Durch einen Großbrand im Dresdner Industriegelände wurde eine Recycling-Lagerhalle zerstört.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/grossbrand-in-dresden-flammen-drohen-techno-club-sektor-zu-zerstoeren-80507180.bild.html",
-      "image_title": "Dresden: Recyling-Lageralle durch Feuer zerstört - Technoclub „Sektor“ vor Aus"
-    },
-    {
-      "title": "Von Autofahrer übersehen : Radlerin (25) von BMW erfasst – schwer verletzt",
-      "teaser": "Auf dem Martin-Luther-Ring im Leipziger Zentrum wurde eine Radfahrerin (25) am Samstagabend von einem BMW erfasst und dabei schwer verletzt.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-radfahrerin-25-auf-martin-luther-ring-von-auto-erfasst-80514286.bild.html",
-      "image_title": "Unfall: Radfahrerin (25) in Leipzig von Auto erfasst"
-    },
-    {
-      "title": "g7 – Ein sehr bayerischer Empfang : Dirndl-Empfang für US-Präsident Biden",
-      "teaser": "München – US-Präsident Joe Biden (79) wurde am Flughafen München von Frauen in traditionell bayerischer Tracht empfangen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/g7-ein-sehr-bayerischer-empfang-dirndl-empfang-fuer-us-praesident-80519708.bild.html",
-      "image_title": "G7 – Ein sehr bayerischer Empfang: Dirndl-Empfang für US-Präsident ..."
-    },
-    {
-      "title": "KOFFER-CHAOS IN DÜSSELDORF : Flughafen-Feuerwehr hilft beim Gepäck",
-      "teaser": "Die Flughafen-Feuerwehr Düsseldorf packte wegen des Gepäck-Chaos am Airport mit an...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/koffer-chaos-am-airport-duesseldorf-flughafen-feuerwehr-hilft-beim-gepaeck-80519178.bild.html",
-      "image_title": "Koffer-Chaos am Airport Düsseldorf: Flughafen-Feuerwehr hilft beim Gepäck"
-    },
-    {
-      "title": "Putins Öl : Die Russen-Raffinerie von Schwedt",
-      "url": "https://www.bild.de/video/clip/video/putins-oel-die-russen-raffinerie-von-schwedt-80421514,auto=true.bild.html",
-      "image_title": "Putins Öl: Die Russen-Raffinerie von Schwedt"
-    },
-    {
-      "title": "Er steckte in einem Gulli : Vermisster Joe (8) gefunden – er lebt!",
-      "url": "https://www.bild.de/video/clip/video/er-steckte-in-einem-gulli-vermisster-joe-8-gefunden-er-lebt-80508360,auto=true.bild.html",
-      "image_title": "Er steckte in einem Gulli: Vermisster Joe (8) gefunden – er lebt!"
-    },
-    {
-      "title": "Tödlicher Leichtsinn in Berlin : Jugendlicher stirbt beim Surfen auf S-Bahn-Dach",
-      "url": "https://www.bild.de/video/clip/video/toedlicher-s-bahn-wahnsinn-in-berlin-s-bahn-surfer-erleidet-tragischen-unfall-80508202,auto=true.bild.html",
-      "image_title": "Tödlicher Leichtsinn in Berlin: Jugendlicher stirbt beim Surfen auf S-Bahn-Dach"
-    }
-  ]
+  "articles": []
 }
