@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-29T07:20:02",
+  "timestamp": "2022-06-29T08:29:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell EMC PowerScale OneFS",
+      "url": "https://www.heise.de/news/Datenverwaltung-Kritische-Luecke-in-Dell-EMC-PowerScale-OneFS-abgedichtet-7156674.html"
+    },
+    {
       "title": "Citrix Hypervisor",
       "url": "https://www.heise.de/news/Citrix-dichtet-Sicherheitsluecken-in-Hypervisor-ab-7154435.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheits-Management-Teils-kritische-Luecken-in-Splunk-geschlossen-7152226.html"
     },
     {
-      "title": "Log4Shell-Lücke VMware Horizon",
-      "url": "https://www.heise.de/news/Angreifer-nutzen-kontinuierlich-Log4Shell-Luecke-in-VMware-Horizon-aus-7152258.html"
+      "title": "Datenverwaltung: Kritische Lücke in Dell EMC PowerScale OneFS abgedichtet",
+      "teaser": "Dell EMC PowerScale OneFS zur skalierbaren Datenspeicherung und -verwaltung enthält teils kritische Sicherheitslücken. Updates sollen sie schließen.",
+      "url": "https://www.heise.de/news/Datenverwaltung-Kritische-Luecke-in-Dell-EMC-PowerScale-OneFS-abgedichtet-7156674.html",
+      "image_title": "Aufmacher Dell EMC PowerScale OneFS Sicherheitsupdate"
     },
     {
       "title": "EU-Richtlinie zur Resilienz kritischer Einrichtungen kommt voran",
@@ -64,15 +70,15 @@
       "url": "https://www.heise.de/news/Firefox-102-Mehrere-Sicherheitsluecken-geschlossen-7156179.html"
     },
     {
+      "title": "Verzweiflung und Rebellion: Wie hybride Arbeitsmodelle IT-Teams zermürben",
+      "teaser": "Wenn Mitarbeiter ihren Arbeitsort flexibel wählen können, vergrößert sich die Angriffsfläche für Cyberrisiken und der Support-Aufwand steigt. Dies führt zu erheblicher Mehrbelastung im IT-Team und zu Konflikten zwischen Security-Verantwortlichen und Nutzern, wie der HP Wolf Security-Report „Rebellion & Rejections\" zeigt.",
+      "url": "https://www.heise.de/solutions/hp/verzweiflung-und-rebellion-wie-hybride-arbeitsmodelle-it-teams-zermuerben/?source=nat_teas"
+    },
+    {
       "title": "Deutlich mehr Angriffe über E-Mail – aber weniger Ransomware-Erkennungen",
       "teaser": "2021 verzeichnete Trend Micro einen Anstieg von über 100 Prozent bei den E-Mail-Bedrohungen. Nach wie vor sind E-Mails das Haupteinfallstor für Angriffe.",
       "url": "https://www.heise.de/news/Deutlich-mehr-Angriffe-ueber-E-Mail-aber-weniger-Ransomware-Erkennungen-7156116.html",
       "image_title": "Symbolbild Email"
-    },
-    {
-      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
-      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
-      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "Open Source Security: GitHub Advisory Database kennt Erlang und Elixir",
@@ -153,12 +159,6 @@
       "title": "Angreifer nutzen kontinuierlich Log4Shell-Lücke in VMware Horizon aus",
       "teaser": "Die Cybersecurity & Infrastructure Security Agency warnt vor Attacken auf die Virtualisierungslösung VMware Horizon. Admins sollten zügig handeln.",
       "url": "https://www.heise.de/news/Angreifer-nutzen-kontinuierlich-Log4Shell-Luecke-in-VMware-Horizon-aus-7152258.html"
-    },
-    {
-      "title": "Microsoft: Windows-Update-Vorschau ermöglicht wieder Hotspot-Nutzung",
-      "teaser": "Die Update-Vorschau für Windows 11 bringt viele kleine Verbesserungen. Microsoft behebt darin auch das Problem, dass der WLAN-Hotspot nicht nutzbar ist.",
-      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Microsoft-behebt-Hotspot-Fehler-7152114.html",
-      "image_title": "Aufmacher Win11 Update Preview fixt Hotspot, TLS1.3 für LDAP"
     },
     {
       "title": "heise Security Tour 2022",
