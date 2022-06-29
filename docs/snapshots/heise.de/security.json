@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-06-29T08:29:25",
+  "timestamp": "2022-06-29T09:22:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra / unrar",
+      "url": "https://www.heise.de/news/Groupware-Praeparierte-E-Mails-koennten-zur-Codeausfuehrung-in-Zimbra-fuehren-7156812.html"
+    },
+    {
       "title": "Dell EMC PowerScale OneFS",
       "url": "https://www.heise.de/news/Datenverwaltung-Kritische-Luecke-in-Dell-EMC-PowerScale-OneFS-abgedichtet-7156674.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Softwareentwicklung-Schadcode-Attacken-auf-Automation-Server-Jenkins-moeglich-7154001.html"
     },
     {
-      "title": "Splunk",
-      "url": "https://www.heise.de/news/Sicherheits-Management-Teils-kritische-Luecken-in-Splunk-geschlossen-7152226.html"
+      "title": "Groupware: Präparierte E-Mails könnten zur Codeausführung in Zimbra führen",
+      "teaser": "Angreifer könnten in Zimbra Backdoors per E-Mail hochladen. Schuld daran ist eine Lücke im Entpacker unrar, die die Erstellung beliebiger Dateien erlaubt.",
+      "url": "https://www.heise.de/news/Groupware-Praeparierte-E-Mails-koennten-zur-Codeausfuehrung-in-Zimbra-fuehren-7156812.html",
+      "image_title": "Aufmacher Zimbra/unrar-Sicherheitslücke"
     },
     {
       "title": "Datenverwaltung: Kritische Lücke in Dell EMC PowerScale OneFS abgedichtet",
@@ -65,14 +71,20 @@
       "image_title": "Notebook auf Schreibtisch zeigt zur Buchstabenwirrwarr"
     },
     {
-      "title": "Firefox 102: Mehrere Sicherheitslücken geschlossen",
-      "teaser": "Mozilla hat Version 102 von Firefox veröffentlicht. Diese Major-Version des Browsers ist die neue Basis für Firefox ESR und behebt einige Sicherheitsprobleme.",
-      "url": "https://www.heise.de/news/Firefox-102-Mehrere-Sicherheitsluecken-geschlossen-7156179.html"
-    },
-    {
       "title": "Verzweiflung und Rebellion: Wie hybride Arbeitsmodelle IT-Teams zermürben",
       "teaser": "Wenn Mitarbeiter ihren Arbeitsort flexibel wählen können, vergrößert sich die Angriffsfläche für Cyberrisiken und der Support-Aufwand steigt. Dies führt zu erheblicher Mehrbelastung im IT-Team und zu Konflikten zwischen Security-Verantwortlichen und Nutzern, wie der HP Wolf Security-Report „Rebellion & Rejections\" zeigt.",
       "url": "https://www.heise.de/solutions/hp/verzweiflung-und-rebellion-wie-hybride-arbeitsmodelle-it-teams-zermuerben/?source=nat_teas"
+    },
+    {
+      "title": "Zero Trust: Bund will bei IT-Sicherheit niemandem mehr vertrauen",
+      "teaser": "Das Innenministerium plädiert im Kampf gegen Schläfersoftware für einen Paradigmenwechsel. Laut Außenressort hat Russland die Hunde von der Kette gelassen.",
+      "url": "https://www.heise.de/news/Zero-Trust-Bund-will-bei-IT-Sicherheit-niemandem-mehr-vertrauen-7156348.html",
+      "image_title": "Angriff, Cybersicherheit"
+    },
+    {
+      "title": "Firefox 102: Mehrere Sicherheitslücken geschlossen",
+      "teaser": "Mozilla hat Version 102 von Firefox veröffentlicht. Diese Major-Version des Browsers ist die neue Basis für Firefox ESR und behebt einige Sicherheitsprobleme.",
+      "url": "https://www.heise.de/news/Firefox-102-Mehrere-Sicherheitsluecken-geschlossen-7156179.html"
     },
     {
       "title": "Deutlich mehr Angriffe über E-Mail – aber weniger Ransomware-Erkennungen",
@@ -150,17 +162,6 @@
       "image_title": "Aufmacher Google Passwortmanager E2E-Verschlüsselung"
     },
     {
-      "title": "Sicherheits-Management: Teils kritische Lücken in Splunk geschlossen",
-      "teaser": "Das Sicherheits-Management-System Splunk enthält teils kritische Sicherheitslücken. Der Hersteller dichtet die mit einer neuen Version ab.",
-      "url": "https://www.heise.de/news/Sicherheits-Management-Teils-kritische-Luecken-in-Splunk-geschlossen-7152226.html",
-      "image_title": "Aufmacher Splunk Sicherheitsupdate"
-    },
-    {
-      "title": "Angreifer nutzen kontinuierlich Log4Shell-Lücke in VMware Horizon aus",
-      "teaser": "Die Cybersecurity & Infrastructure Security Agency warnt vor Attacken auf die Virtualisierungslösung VMware Horizon. Admins sollten zügig handeln.",
-      "url": "https://www.heise.de/news/Angreifer-nutzen-kontinuierlich-Log4Shell-Luecke-in-VMware-Horizon-aus-7152258.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -182,6 +183,11 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Re: Signatur Updates klappen nicht",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Signatur-Updates-klappen-nicht/posting-41218079/show/"
+    },
+    {
       "title": "Re: PXE/TFTP Boot möglich?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-TFTP-Boot-moeglich/posting-41216653/show/"
@@ -190,11 +196,6 @@
       "title": "xfce Tastatur Maus",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/xfce-Tastatur-Maus/posting-41216631/show/"
-    },
-    {
-      "title": "Re: Desinfec't und SnapDragon -> nix USB-Boot ?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-und-SnapDragon-nix-USB-Boot/posting-41215054/show/"
     }
   ]
 }
