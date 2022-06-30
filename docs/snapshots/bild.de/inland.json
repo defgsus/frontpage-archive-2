@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-06-30T06:27:45",
+  "timestamp": "2022-06-30T07:18:22",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +25,223 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.d99f21a6.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.2132fc72.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Einmal lächeln, bitte! : Radfahrer mit 80 km/h geblitzt – kein Bußgeld",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/nrw-radfahrer-in-50er-zone-mit-80-km-h-geblitzt-kein-bussgeld-80552928.bild.html",
+      "image_url": "https://images.bild.de/62bc74600ee2be54049b4401/9a536a8421d2fe06e34e8572c2010d73/Kennung_Symbolfoto,a48e538f?w=656",
+      "image_title": "NRW: Radfahrer in 50er-Zone mit 80 km/h geblitzt – kein Bußgeld"
+    },
+    {
+      "title": "26-Jährige seit 22 Monaten verschollen : Scarletts Spur verliert sich im Schwarzwald",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/aktenzeichen-xy-der-fall-scarlett-26-im-tv-80535804.bild.html",
+      "image_url": "https://images.bild.de/62babfe4e19a1b524fb78de3/96d6d5a679e2d1e7a559cbaf67e9175b,c6f43263?w=320",
+      "image_title": "„Aktenzeichen XY“: Wanderin Scarlett im Schwarzwald vermisst – seit 22 Monaten!"
+    },
+    {
+      "title": "Querdenker unter Betrugsverdacht : Razzia bei Michael Ballweg – Festnahme!",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/querdenker-unter-betrugs-verdacht-haftbefehl-gegen-michael-ballweg-80550684.bild.html",
+      "image_url": "https://images.bild.de/62bc51c145fbae758069262f/162e465c7fe178267a2498443c4a1fdc,c80e48e8?w=320",
+      "image_title": "Querdenker unter Betrugsverdacht: Razzia bei Michael Ballweg – Festnahme!"
+    },
+    {
+      "title": "6 Aus 49 : Die Lottozahlen am Mittwoch",
+      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-29-juni-80546184.bild.html",
+      "image_url": "https://images.bild.de/62bc07aa45fbae7580692573/5bf0e851e0d32de6d41fbd57f0951346-miniSquare,e08b80af?w=320",
+      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen vom 29. Juni"
+    },
+    {
+      "title": "Blitz-Geldraub in Berlin! : Audi A6 – der Dienstwagen der Schwerverbecher",
+      "url": "https://www.bild.de/bild-plus/news/inland/news/juwelen-raub-in-dresden-ein-audi-a6-war-mal-wieder-der-fluchtwagen-66646750.bild.html",
+      "image_url": "https://images.bild.de/5df208a936dcaf000168341c/e2da2b30e2b2b541bf104a730e269c3d,f0033e20?w=320",
+      "image_title": "Überfall auf Geldtransporter in Berlin: Ein Audi A6 war mal wieder Fluchtwagen"
+    },
+    {
+      "title": "Mitten im Flug-Chaos : Verdi-Streik am Hamburger Flughafen!",
+      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/mitten-im-flug-chaos-verdi-streik-am-hamburger-flughafen-80552262.bild.html",
+      "image_title": "Mitten im Flug-Chaos: Verdi-Streik am Hamburger Flughafen"
+    },
+    {
+      "title": "Kein Mord : Obdachloser köpfte Mann erst NACH dessen Tod",
+      "teaser": "Der Mann, dessen Kopf ein Obdachloser vorm Bonner Gericht ablegte, wurde nicht umgebracht.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/kopf-vor-gericht-in-bonn-ablegt-kein-mord-toter-starb-an-krankheit-80549840.bild.html",
+      "image_title": "Kopf vor Gericht in Bonn ablegt: Kein Mord! Toter starb an Krankheit"
+    },
+    {
+      "title": "Hells Angels, Bandidos … : Der Abstieg der Rocker-Bosse",
+      "teaser": "DAS ist aus den einst mächtigsten Rocker-Bossen der Nation geworden!",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/frank-hanebuth-peter-maczollek-leslav-hause-der-abstieg-der-rocker-bosse-79896008.bild.html",
+      "image_title": "Frank Hanebuth, Peter Maczollek, Leslav Hause: Der Abstieg der Rocker-Bosse"
+    },
+    {
+      "title": "AfD wollte es kaufen : Kornhaus in Meißen wird nicht zwangsversteigert",
+      "teaser": "Die Zwangsversteigerung des historischen Kornhauses in Meißen ist vom Tisch.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/afd-wollte-es-kaufen-kornhaus-in-meissen-wird-nicht-zwangsversteigert-80551178.bild.html",
+      "image_title": "AfD wollte es kaufen: Kornhaus in Meißen wird nicht zwangsversteigert"
+    },
+    {
+      "title": "Wilde Prügelszenen : Darum eskalierte der Clan-Konflikt in Essen",
+      "teaser": "Die Altendorfer Straße in Essen wurde am Wochenende zum Schauplatz von Feindseligkeiten.",
+      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/pruegelszenen-in-essen-darum-eskalierte-der-clan-konflikt-80526530.bild.html",
+      "image_title": "Prügelszenen in Essen: Darum eskalierte der Clan-Konflikt"
+    },
+    {
+      "title": "Komplizen lassen ihn zurück : Einbrecher (24) wird in Keller eingeschlossen",
+      "teaser": "Im verschlossenen Keller wurde der Einbrecher bis zum Eintreffen der Polizei festgehalten.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-einbrecher-wird-in-keller-eingesperrt-80548684.bild.html",
+      "image_title": "Leipzig: Einbrecher wird in Keller eingesperrt"
+    },
+    {
+      "title": "Kind in Auto eingeschlossen : Diese Autoknacker lieben wir!",
+      "teaser": "In Hamburg hat die Feuerwehr einen Jungen aus einem eingeschlossenen Auto gerettet.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/oma-schliesst-enkel-in-opel-ein-aus-versehen-diese-autoknacker-lieben-wir-80546962.bild.html",
+      "image_title": "Frau schließt Kind in Opel ein – aus Versehen: Diese Autoknacker lieben wir!"
+    },
+    {
+      "title": "3000 Türken sollen an Flughäfen aushelfen : Kommen jetzt wieder die „Gastarbeiter“?",
+      "teaser": "Und wieder sollen SIE es richten: Gastarbeiter aus der Türkei! In den 1960er-Jahren ermöglichten sie das Wirtschaftswunder.",
+      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/3000-tuerken-sollen-an-flughaefen-aushelfen-kommen-jetzt-wieder-die-gastarbeiter-80544536.bild.html",
+      "image_title": "3000 Türken sollen an Flughäfen aushelfen: Kommen jetzt wieder die Gastarbeiter?"
+    },
+    {
+      "title": "Bagger stößt auf Kriegsmunition : Arbeiter entdecken 30 Granaten in Gartenlage",
+      "teaser": "Aufruhr im Kleingartenverein! Bei Erdarbeiten wurden 30 Granaten ans Licht gebuddelt.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/munition-vom-zweiten-weltkrieg-arbeiter-finden-30-granaten-in-garten-80545976.bild.html",
+      "image_title": "Bei Baggerarbeiten: 30 Granaten in Kleingarten entdeckt"
+    },
+    {
+      "title": "Polizisten-Mord von Kusel : Zeuge hörte „finalen Fangschuss“",
+      "teaser": "Dritter Verhandlungstag um Tod von zwei Polizisten bei einer Verkehrskontrolle in Kusel.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/polizisten-mord-in-kusel-3-prozesstag-zeuge-hoerte-finalen-fangschuss-80534104.bild.html",
+      "image_title": "Polizisten-Mord in Kusel: 3. Prozesstag – Zeuge hörte „finalen Fangschuss“"
+    },
+    {
+      "title": "Waldbrand statt Gipfelprotest : Polizei verlegte G7-Kräfte zum Löschen in Osten",
+      "teaser": "Kaum Protest gegen den G7-Gipfel, also schickte die Polizei Überwachungshubschrauber zu den Waldbränden im Osten.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/kaum-protest-polizei-verlegte-g7-kraefte-zu-waldbraenden-in-den-osten-80545754.bild.html",
+      "image_title": "Kaum Protest: Polizei verlegte G7-Kräfte zu Waldbränden in den Osten"
+    },
+    {
+      "title": "Abgetrennter Kopf vor Bonner Landgericht : Augenzeuge: „Ich dachte zuerst an einen Teddybär“",
+      "teaser": "Fuat Ayman war vor Ort, als der Tatverdächtige den Kopf vorm Bonner Landgericht abgelegte.",
+      "url": "https://www.bild.de/news/inland/news-ausland/abgetrennter-kopf-vor-landgericht-bonn-ein-augenzeuge-berichtet-80544902.bild.html",
+      "image_title": "Abgetrennter Kopf vor Landgericht Bonn: Ein Augenzeuge berichtet"
+    },
+    {
+      "title": "Einsatzwagen krachen ineinander : Fünf Polizisten bei Crash auf A 72 verletzt",
+      "teaser": "Bei einem Crash zweier Polizeiautos wurden am Dienstagabend auf der A 72 bei Zwickau (Sachsen) fünf Polizisten verletzt.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-fuenf-polizisten-bei-crash-auf-a-72-verletzt-80544604.bild.html",
+      "image_title": "Unfall: Fünf Polizisten bei Crash auf A 72 verletzt"
+    },
+    {
+      "title": "Tod im Baggersee : Mann (67) stirbt bei Badeunfall",
+      "teaser": "Der seit Dienstagnachmittag vermisste 67-jährige Mann ist tot im Mühlfeldsee entdeckt worden.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/badeunfall-mann-67-im-baggersee-vermisst-80543186.bild.html",
+      "image_title": "Badeunfall in Löbnitz (Sachsen): Mann (67) tot aus Baggersee geborgen"
+    },
+    {
+      "title": "Munitionsbelasteter Wald : Bundeswehr-Panzer räumt Brand-Heide frei",
+      "teaser": "Seit Tagen kämpft die Feuerwehr in der Gohrischheide gegen einen riesigen Waldbrand. Jetzt gibt's Unterstützung von der Bundeswehr.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/grossbrand-in-gohrischheide-bundeswehr-panzer-raeumt-brand-heide-frei-80542310.bild.html",
+      "image_title": "Großbrand in Gohrischheide: Bundeswehr-Panzer räumt Brand-Heide frei"
+    },
+    {
+      "title": "Eurojackpot am Dienstag : Haben Sie die 56 Millionen Euro gewonnen?",
+      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 28. Juni 2022.",
+      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-27-juni-80406890.bild.html",
+      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 28. Juni"
+    },
+    {
+      "title": "Polizei suchte mit Hubschrauber und Hund : Vermisste Neunjährige gefunden",
+      "teaser": "Aufatmen in Sachsen-Anhalt! Die vermisste Neunjährige ist wohlbehalten aufgefunden worden.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/kind-in-dessau-rosslau-vermisst-miriam-9-auf-schulweg-verschwunden-80540402.bild.html",
+      "image_title": "Dessau-Roßlau: Vermisste Neunjährige wohlbehalten aufgefunden"
+    },
+    {
+      "title": "Ferienhaus auf Usedom abgebrannt : Blitz schlägt über schlafenden Urlaubern ein",
+      "teaser": "Auf Usedom schlägt nachts der Blitz in ein Ferienhaus ein, in dem eine Familie schläft.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/usedom-blitz-schlaegt-ueber-schlafenden-urlaubern-ein-80534044.bild.html",
+      "image_title": "Usedom: Blitz schlägt über schlafenden Urlaubern ein"
+    },
+    {
+      "title": "Historische Straßenbahn rostet vor sich hin : Die Gammel-Bimmel aus dem Wald",
+      "teaser": "Ein idyllisches Waldstück bei Hannover. Was steht drin? Eine historische Straßenbahn, die verkommt.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-historische-strassenbahn-aus-dresden-rostet-vor-sich-hin-80532562.bild.html",
+      "image_title": "Dresden: Historische Straßenbahn rostet vor sich hin"
+    },
+    {
+      "title": "Extreme Brandgefahr bei Blitzeinschlag : Wie gefährlich ist Urlaub im Reetdach-Haus?",
+      "teaser": "Urige Reet-Häuser stehen für Urlaub und Meeresluft. Sie sind aber auch BRANDgefährlich.",
+      "url": "https://www.bild.de/bild-plus/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/grossbrand-wie-gefaehrlich-ist-urlaub-im-reetdach-haus-80537094.bild.html",
+      "image_title": "Großbrand: Wie gefährlich ist Urlaub im Reetdach-Haus"
+    },
+    {
+      "title": "Frank Ochse : „Dieses Flughafen-Chaos ist eine Schande!“",
+      "url": "https://www.bild.de/bild-plus/video/clip/video/das-chaos-an-den-flughaefen-ist-eine-schande-fuer-deutschland-80555292,auto=true.bild.html",
+      "image_title": "Das Chaos an den Flughäfen ist eine Schande für Deutschland!"
+    },
+    {
+      "title": "Augenzeuge der Horror-Tat in Bonn : „Ich dachte zunächst an einen Teddybär“",
+      "url": "https://www.bild.de/video/clip/video/augenzeuge-der-horror-tat-in-bonn-ich-dachte-zunaechst-an-einen-teddybaer-80547350,auto=true.bild.html",
+      "image_title": "Augenzeuge der Horror-Tat in Bonn: „Ich dachte zunächst an einen Teddybär“"
+    },
+    {
+      "title": "Mit 830 PS gegen die Flammen : Bundeswehr-Panzer räumt Brand-Heide frei",
+      "url": "https://www.bild.de/video/clip/video/grossbrand-in-gohrischheide-bundeswehr-panzer-raeumt-brand-heide-frei-80544054,auto=true.bild.html",
+      "image_title": "Großbrand in Gohrischheide: Bundeswehr-Panzer räumt Brand-Heide frei"
+    }
+  ]
 }
