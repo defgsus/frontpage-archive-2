@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-30T23:20:54",
+  "timestamp": "2022-07-01T02:21:35",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.bc4724d2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.8f649a48.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Stuntfrau Jana (35) arbeitet für Hollywood : Sie brennt für ihre Jobs",
-      "url": "https://www.bild.de/regional/thueringen/leipzig-news/stuntfrau-fuer-hollywood-jana-reinhardt-35-brennt-fuer-ihren-job-80566540.bild.html",
-      "image_url": "https://images.bild.de/62bc9c41bbc8fd35689c1654/2e94520f731187afe2c9e6b4b1cfdea6,31dd9cf6?w=656",
-      "image_title": "Stuntfrau für Hollywood: Jana Reinhardt (35) brennt für ihren Job"
-    },
-    {
-      "title": "Polizei entdeckte ihn stark blutend : Mann (23) mit Flasche attackiert – schwer verletzt",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/nach-schlaegerei-in-chemnitz-polizei-findet-stark-blutenden-mann-23-80563606.bild.html",
-      "image_url": "https://images.bild.de/62bdb15901c73070d5fa8399/3a9f04ba0971795a5ca1ec0a7da1b5c0/Kennung_Symbolfoto,a48de2f1?w=320",
-      "image_title": "Polizei entdeckte ihn stark blutend: Mann (23) mit Flasche attackiert – schwer verletzt"
-    },
-    {
-      "title": "Amok-Pilot ließ Maschine abstürzen : Kein Lufthansa-Geld für Germanwings-Hinterbliebene",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/germanwings-absturz-kein-lufthansa-geld-fuer-hinterbliebene-von-getoeteten-80564130.bild.html",
-      "image_url": "https://images.bild.de/62bdb397e76cc679c115d2ec/b0efc5b0d686b094d68b331a019c7f06,e36b9fd5?w=320",
-      "image_title": "Germanwings-Absturz: Kein Lufthansa-Geld für Hinterbliebene von Getöteten"
-    },
-    {
-      "title": "Überreste von mehreren Menschen : Menschliche Knochen an JVA Torgau gefunden",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/ueberreste-von-mehreren-menschen-menschliche-knochen-an-jva-torgau-gefunden-80559842.bild.html",
-      "image_url": "https://images.bild.de/62bd78afdaf17b72729cb651/b1ae6c4a1178c08ca6a2ee7895aa9754,bca1ff21?w=320",
-      "image_title": "JVA Torgau: Menschliche Knochen bei Bauarbeiten gefunden"
-    },
-    {
-      "title": "Geisterwald vom Peenetal : Das ist das Geheimnis vom Gruselwald vor Usedom",
-      "url": "https://www.bild.de/bild-plus/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/kurz-vor-usedom-der-geisterwald-vom-peenetal-80558338.bild.html",
-      "image_url": "https://images.bild.de/62bd60d4e76cc679c115d211/aef429d6af7a5b1447d1b6b4ff884755,514d805e?w=320",
-      "image_title": "Kurz vor Usedom: Der Geisterwald vom Peenetal"
-    },
-    {
-      "title": "Querdenker wollte sich ins Ausland absetzen : Michael Ballweg in U-Haft!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/querdenker-unter-betrugs-verdacht-haftbefehl-gegen-michael-ballweg-80550684.bild.html",
-      "image_title": "Querdenker wollte sich absetzen: Michael Ballweg in U-Haft!"
-    },
-    {
-      "title": "Polizist kämpft weiter : „Aloha“-Tattoo wird Fall fürs höchste Gericht",
-      "teaser": "Seit gut zehn Jahren kämpft ein Polizist dafür, sich „Aloha“ tätowieren lassen zu dürfen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/polizist-zieht-vors-bundesverfassungsgericht-wegen-taetowierung-80560612.bild.html",
-      "image_title": "Karlsruhe: Polizist zieht wegen Tattoo vors Bundesverfassungsgericht"
-    },
-    {
-      "title": "Erstes schwules Ehepaar erinnert sich : „Wir haben Geschichte geschrieben“",
-      "teaser": "37 Jahre gingen sie Seite an Seite durchs Leben – und durften nicht heiraten. Bis 2017.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/fuenf-jahre-ehe-fuer-alle-sie-sind-deutschlands-erstes-schwules-ehepaar-80552972.bild.html",
-      "image_title": "Fünf Jahre Ehe für alle: Deutschlands erstes schwules Hochzeitspaar erinnert sich ans Jawort"
-    },
-    {
-      "title": "KOMMISSAR IM ZEUGENSTAND : Es war klar: „Wir können nicht mehr helfen“",
-      "teaser": "Zwei Kollegen der ermordeten Polizisten machen vor dem Landgericht erschütternde Aussagen.",
-      "url": "https://www.bild.de/regional/saarland/frankfurt-aktuell/prozess-um-polizisten-mord-streifenkollege-das-blut-lief-die-strasse-hinunter-80522808.bild.html",
-      "image_title": "Polizisten-Mord - Streifenkollege: „Blick reichte, zu wissen, wir können nicht mehr helfen“"
-    },
-    {
-      "title": "Anrufer-Ansturm nach Akte-XY-Sendung : 70 Zeugen wollen Scarlett gesehen haben!",
-      "teaser": "Seit fast zwei Jahren fehlt von Scarlett (damals 26) jede Spur. Jetzt kommen neue Hinweise",
-      "url": "https://www.bild.de/news/inland/news-inland/scarlett-seit-2020-vermisst-50-zeugenhinweise-bei-akte-xy-80556516.bild.html",
-      "image_title": "Scarlett seit 2020 vermisst: 50 Zeugenhinweise bei Akte XY"
-    },
-    {
-      "title": "Wegen Energiekrise : Kretschmann wirbt für zweijähriges Tempolimit",
-      "teaser": "Baden-Württembergs Ministerpräsident Winfried Kretschmann wirbt für ein Tempolimit.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/wegen-energiekrise-kretschmann-wirbt-fuer-zweijaehriges-tempolimit-80558664.bild.html",
-      "image_title": "Wegen Energiekrise: Kretschmann wirbt für zweijähriges Tempolimit"
-    },
-    {
-      "title": "Einmal lächeln, bitte! : Radfahrer mit 80 km/h geblitzt – kein Bußgeld",
-      "teaser": "Blitzer-Foto für einen Radfahrer in NRW – weil er zu schnell durch eine 50er-Zone bretterte.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/nrw-radfahrer-in-50er-zone-mit-80-km-h-geblitzt-kein-bussgeld-80552928.bild.html",
-      "image_title": "NRW: Radfahrer in 50er-Zone mit 80 km/h geblitzt – kein Bußgeld"
-    },
-    {
-      "title": "26-Jährige seit 22 Monaten verschollen : Scarletts Spur verliert sich im Schwarzwald",
-      "teaser": "Vor anderthalb Jahren verschwand Studentin Scar­lett im Süd­schwarzwald.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/aktenzeichen-xy-der-fall-scarlett-26-im-tv-80535804.bild.html",
-      "image_title": "„Aktenzeichen XY“: Wanderin Scarlett im Schwarzwald vermisst – seit 22 Monaten!"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie einen 6er im Lotto? Gehört der 6 Mio € Jackpot bald Ihnen? Erfahren Sie es hier",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-29-juni-80546184.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen vom 29. Juni"
-    },
-    {
-      "title": "Blitz-Geldraub in Berlin! : Audi A6 – der Dienstwagen der Schwerverbecher",
-      "teaser": "BILD erklärt, wo und warum er immer wieder bei Verbrechen auftaucht.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news/juwelen-raub-in-dresden-ein-audi-a6-war-mal-wieder-der-fluchtwagen-66646750.bild.html",
-      "image_title": "Überfall auf Geldtransporter in Berlin: Ein Audi A6 war mal wieder Fluchtwagen"
-    },
-    {
-      "title": "Mitten im Flug-Chaos : Verdi-Streik am Hamburger Flughafen!",
-      "teaser": "An Deutschlands Flughäfen ist der Frust ohnehin schon riesig. Jetzt kommt noch ein Streik dazu.",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/mitten-im-flug-chaos-verdi-streik-am-hamburger-flughafen-80552262.bild.html",
-      "image_title": "Mitten im Flug-Chaos: Verdi-Streik am Hamburger Flughafen"
-    },
-    {
-      "title": "Kein Mord : Obdachloser köpfte Mann erst NACH dessen Tod",
-      "teaser": "Der Mann, dessen Kopf ein Obdachloser vorm Bonner Gericht ablegte, wurde nicht umgebracht.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/kopf-vor-gericht-in-bonn-ablegt-kein-mord-toter-starb-an-krankheit-80549840.bild.html",
-      "image_title": "Kopf vor Gericht in Bonn ablegt: Kein Mord! Toter starb an Krankheit"
-    },
-    {
-      "title": "Hells Angels, Bandidos … : Der Abstieg der Rocker-Bosse",
-      "teaser": "DAS ist aus den einst mächtigsten Rocker-Bossen der Nation geworden!",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/frank-hanebuth-peter-maczollek-leslav-hause-der-abstieg-der-rocker-bosse-79896008.bild.html",
-      "image_title": "Frank Hanebuth, Peter Maczollek, Leslav Hause: Der Abstieg der Rocker-Bosse"
-    },
-    {
-      "title": "AfD wollte es kaufen : Kornhaus in Meißen wird nicht zwangsversteigert",
-      "teaser": "Die Zwangsversteigerung des historischen Kornhauses in Meißen ist vom Tisch.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/afd-wollte-es-kaufen-kornhaus-in-meissen-wird-nicht-zwangsversteigert-80551178.bild.html",
-      "image_title": "AfD wollte es kaufen: Kornhaus in Meißen wird nicht zwangsversteigert"
-    },
-    {
-      "title": "Wilde Prügelszenen : Darum eskalierte der Clan-Konflikt in Essen",
-      "teaser": "Die Altendorfer Straße in Essen wurde am Wochenende zum Schauplatz von Feindseligkeiten.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/pruegelszenen-in-essen-darum-eskalierte-der-clan-konflikt-80526530.bild.html",
-      "image_title": "Prügelszenen in Essen: Darum eskalierte der Clan-Konflikt"
-    },
-    {
-      "title": "Komplizen lassen ihn zurück : Einbrecher (24) wird in Keller eingeschlossen",
-      "teaser": "Im verschlossenen Keller wurde der Einbrecher bis zum Eintreffen der Polizei festgehalten.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-einbrecher-wird-in-keller-eingesperrt-80548684.bild.html",
-      "image_title": "Leipzig: Einbrecher wird in Keller eingesperrt"
-    },
-    {
-      "title": "Kind in Auto eingeschlossen : Diese Autoknacker lieben wir!",
-      "teaser": "In Hamburg hat die Feuerwehr einen Jungen aus einem eingeschlossenen Auto gerettet.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/oma-schliesst-enkel-in-opel-ein-aus-versehen-diese-autoknacker-lieben-wir-80546962.bild.html",
-      "image_title": "Frau schließt Kind in Opel ein – aus Versehen: Diese Autoknacker lieben wir!"
-    },
-    {
-      "title": "3000 Türken sollen an Flughäfen aushelfen : Kommen jetzt wieder die „Gastarbeiter“?",
-      "teaser": "Und wieder sollen SIE es richten: Gastarbeiter aus der Türkei! In den 1960er-Jahren ermöglichten sie das Wirtschaftswunder.",
-      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/3000-tuerken-sollen-an-flughaefen-aushelfen-kommen-jetzt-wieder-die-gastarbeiter-80544536.bild.html",
-      "image_title": "3000 Türken sollen an Flughäfen aushelfen: Kommen jetzt wieder die Gastarbeiter?"
-    },
-    {
-      "title": "Bagger stößt auf Kriegsmunition : Arbeiter entdecken 30 Granaten in Gartenlage",
-      "teaser": "Aufruhr im Kleingartenverein! Bei Erdarbeiten wurden 30 Granaten ans Licht gebuddelt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/munition-vom-zweiten-weltkrieg-arbeiter-finden-30-granaten-in-garten-80545976.bild.html",
-      "image_title": "Bei Baggerarbeiten: 30 Granaten in Kleingarten entdeckt"
-    },
-    {
-      "title": "Polizisten-Mord von Kusel : Zeuge hörte „finalen Fangschuss“",
-      "teaser": "Dritter Verhandlungstag um Tod von zwei Polizisten bei einer Verkehrskontrolle in Kusel.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/polizisten-mord-in-kusel-3-prozesstag-zeuge-hoerte-finalen-fangschuss-80534104.bild.html",
-      "image_title": "Polizisten-Mord in Kusel: 3. Prozesstag – Zeuge hörte „finalen Fangschuss“"
-    },
-    {
-      "title": "Frank Ochse : „Dieses Flughafen-Chaos ist eine Schande!“",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/das-chaos-an-den-flughaefen-ist-eine-schande-fuer-deutschland-80555292,auto=true.bild.html",
-      "image_title": "Das Chaos an den Flughäfen ist eine Schande für Deutschland!"
-    },
-    {
-      "title": "Augenzeuge der Horror-Tat in Bonn : „Ich dachte zunächst an einen Teddybär“",
-      "url": "https://www.bild.de/video/clip/video/augenzeuge-der-horror-tat-in-bonn-ich-dachte-zunaechst-an-einen-teddybaer-80547350,auto=true.bild.html",
-      "image_title": "Augenzeuge der Horror-Tat in Bonn: „Ich dachte zunächst an einen Teddybär“"
-    },
-    {
-      "title": "Mit 830 PS gegen die Flammen : Bundeswehr-Panzer räumt Brand-Heide frei",
-      "url": "https://www.bild.de/video/clip/video/grossbrand-in-gohrischheide-bundeswehr-panzer-raeumt-brand-heide-frei-80544054,auto=true.bild.html",
-      "image_title": "Großbrand in Gohrischheide: Bundeswehr-Panzer räumt Brand-Heide frei"
-    }
-  ]
+  "articles": []
 }

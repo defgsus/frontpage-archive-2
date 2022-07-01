@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-06-30T23:20:55",
+  "timestamp": "2022-07-01T02:21:36",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,222 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.bc4724d2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.8f649a48.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Nestlé und Unilever gehören zu den Kunden : Salmonellen! Weltgrößte Schoko-Fabrik dicht",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/belgien-salmonellen-groesste-schoko-fabrik-der-welt-dicht-80562442.bild.html",
-      "image_url": "https://images.bild.de/62bda0c6daf17b72729cb6cd/1048cb542cceefd56ea3600b20f73da7,1ce7ed03?w=656",
-      "image_title": "Belgien: Salmonellen! Größte Schoko-Fabrik der Welt dicht"
-    },
-    {
-      "title": "53 Migranten gestorben : Vier Festnahmen nach Horror-Fund in Texas",
-      "url": "https://www.bild.de/news/ausland/news-ausland/texas-migranten-in-lkw-tot-aufgefunden-vier-maenner-festgenommen-80560190.bild.html",
-      "image_url": "https://images.bild.de/62bd828101c73070d5fa82fb/c6112df864f927fe5ab571d7640cf5d7-miniSquare,40030cbd?w=320",
-      "image_title": "Texas: Migranten in Lkw tot aufgefunden – vier Männer festgenommen"
-    },
-    {
-      "title": "Hells-Angels-Gründer : Sonny Barger mit 83 Jahren gestorben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ralph-sonny-barger-hells-angels-gruender-im-alter-von-83-jahren-gestorben-80560954.bild.html",
-      "image_url": "https://images.bild.de/62bd7cdddaf17b72729cb65b/fe3b2e9215f6c6e6d290b22d2fc1076b,54df938d?w=320",
-      "image_title": "Ralph „Sonny“ Barger: Hells-Angels-Gründer im Alter von 83 Jahren gestorben"
-    },
-    {
-      "title": "Unwetter in Österreich : „In 4 Stunden so viel Regen wie im gesamten Juni“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unwetter-in-kaernten-oesterreich-in-vier-stunden-so-viel-regen-wie-im-ganzen-jun-80556966.bild.html",
-      "image_url": "https://images.bild.de/62bd387f30f5d509eadaa3c6/08b8cfe11a22ab8002d0deffe5424b82,36c51376?w=320",
-      "image_title": "Unwetter in Kärnten (Österreich): „In vier Stunden so viel Regen wie im ganzen Juni“"
-    },
-    {
-      "title": "„Woody“ Williams : Amerika trauert um legendären Veteran",
-      "url": "https://www.bild.de/news/ausland/news-ausland/medal-of-honor-amerika-trauert-um-legendaeren-veteran-woody-williams-80555338.bild.html",
-      "image_url": "https://images.bild.de/62bca3df45fbae7580692709/461b5c87d2a8da78a6cacf58bf897d89,1c5424ac?w=320",
-      "image_title": "Medal of Honor: Amerika trauert um legendären Veteran „Woody“ Williams"
-    },
-    {
-      "title": "Gewitter, reißende Bäche, Erdrutsche : Schwere Unwetter in Österreich – 1 Toter!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/schwere-unwetter-in-oesterreich-1-toter-mehrere-vermisste-80550776.bild.html"
-    },
-    {
-      "title": "Bataclan-Anschlag im Jahr 2015 : Lebenslang für ISIS-Attentäter von Paris!",
-      "teaser": "Der ISIS-Attentäter muss lebenslang ins Gefängnis! Dieses Urteil wurde vor einem Schwurgericht in Paris gefällt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bataclan-anschlag-im-jahr-2015-lebenslang-fuer-isis-attentaeter-von-paris-80544906.bild.html",
-      "image_title": "Bataclan-Anschlag im Jahr 2015: Lebenslang für ISIS-Attentäter"
-    },
-    {
-      "title": "Horror-Fund in Texas : Arbeiter hörte Hilfeschreie und entdeckte 46 Tote",
-      "teaser": "Horror-Fund in einem Truck in Texas. In einem Lastwagen in dem US-Bundesstaat sind 46 T...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/horror-fund-in-texas-mindestens-42-tote-in-truck-entdeckt-80533930.bild.html",
-      "image_title": "Horror-Fund in Texas: Arbeiter hörte Hilfeschreie und entdeckte 46 Tote"
-    },
-    {
-      "title": "Bataclan-Anschlag im Jahr 2015 : Lebenslang für ISIS-Attentäter von Paris!",
-      "teaser": "Salah Abdeslam (32) tötete mit neun Komplizen 130 Menschen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/isis-anschlag-in-paris-lebenslang-fuer-bataclan-attentaeter-salah-abdeslam-80554680.bild.html",
-      "image_title": "ISIS-Anschlag in Paris: Lebenslang für Bataclan-Attentäter Salah Abdeslam"
-    },
-    {
-      "title": "Todkranke BBC-Moderatorin bewegte Millionen : Deborah James (†40) ist friedlich eingeschlafen",
-      "teaser": "Ihr Schicksal und Leiden bewegte viele Menschen. Nun ist BBC-Moderatorin Deborah James an ihrer Krebserkrankung gestorben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/todkranke-bbc-moderatorin-bewegte-millionen-deborah-james-40-ist-friedlich-einge-80544490.bild.html",
-      "image_title": "Deborah James (†40) gestorben: Todkranke BBC-Moderatorin friedlich eingeschlafen"
-    },
-    {
-      "title": "Kennen Sie schon Calcio Storico? : BILD beim brutalsten Sport-Turnier der Welt",
-      "teaser": "Zum Calcio Storico treten vier Teams an. Ziel: Der Ball muss im Netz landen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/calcio-storico-in-florenz-bild-beim-brutalsten-turnier-der-welt-80534176.bild.html",
-      "image_title": "Calcio Storico in Florenz: BILD beim brutalsten Turnier der Welt"
-    },
-    {
-      "title": "In Maastricht : Bewaffneter Überfall auf Kunstmesse Tefaf",
-      "teaser": "Auf die internationale Kunstmesse Tefaf in den Niederlanden ein Überfall verübt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bewaffneter-ueberfall-auf-kunstmesse-tefaf-in-maastricht-80538162.bild.html",
-      "image_title": "Bewaffneter Überfall auf Kunstmesse \"Tefaf\" in Maastricht"
-    },
-    {
-      "title": "„Warp-Antrieb“ wie im Film : US-Forscher will Lichtgeschwindigkeit möglich machen",
-      "teaser": "Wie Science Fiction: In drei Minuten zum Mars, in vier Jahren zum nächsten Sonnensystem.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/us-forscher-will-warp-antrieb-moeglich-machen-80528082.bild.html",
-      "image_title": "US-Forscher will \"Warp\"-Antrieb möglich machen"
-    },
-    {
-      "title": "Jagd auf Konto in der Schweiz : So kämpfen die Erben um die Nazi-Milliarden",
-      "teaser": "Auch die Nachkommen der Nazi-Unterstützer interessieren sich für das Geld.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/geheimnisvolles-konto-in-der-schweiz-erben-kaempfen-um-nazi-milliarden-80532278.bild.html",
-      "image_title": "Geheimnisvolles Konto in der Schweiz: Erben kämpfen um Nazi-Milliarden"
-    },
-    {
-      "title": "Julia stoppte den Attentäter : Die Heldin von Oslo",
-      "teaser": "Als sie die Schüsse hörte, rannte sie nicht weg, sondern los.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/terror-in-oslo-helden-tuersteherin-stoppte-den-attentaeter-80532880.bild.html",
-      "image_title": "Terror in Oslo: Helden-Türsteherin stoppte den Attentäter"
-    },
-    {
-      "title": "Drama in Florida : Junge (8) erschießt mit Waffe des Vaters Mädchen (1)",
-      "teaser": "Weil ein Vater seine Waffe nicht ordentlich sicherte, wurde ein Mädchen angeschossen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/drama-in-florida-junge-8-erschiesst-mit-waffe-des-vaters-maedchen-1-80533896.bild.html",
-      "image_title": "Drama in Florida (USA): Junge (8) erschießt mit Waffe des Vaters Mädchen (1)"
-    },
-    {
-      "title": "Drei Tote in den USA : Zug mit 200 Passagieren entgleist und umgekippt",
-      "teaser": "Unglück im US-Bundesstaat Missouri: Ein Zug entgleiste, Waggons kippten um.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/us-bundesstaat-missouri-zug-mit-200-passagieren-entgleist-und-umgekippt-80533358.bild.html",
-      "image_title": "USA: Zug mit 200 Passagen entgleist, 3 Tote"
-    },
-    {
-      "title": "Russen-Politiker : SEINE Wohnungen hat die Justiz konfisziert",
-      "teaser": "Die Staatsanwaltschaft kassierte drei Wohnungen diesesRussen-Politikers ein.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-regional-politik-und-wirtschaft/diesem-russen-politiker-gehoerten-beschlagnahmte-wohnungen-in-muenchen-80478666.bild.html",
-      "image_title": "Diesem Russen-Politiker gehörten beschlagnahmte Wohnungen in München"
-    },
-    {
-      "title": "Neue Spur führt in die SChweiz : Jagd nach den Nazi-Milliarden",
-      "teaser": "Stoff wie aus einem Thriller: Liegt seit 78 Jahren ein Nazi-Schatz auf geheimen Konto?",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/milliarden-schatz-fuehren-diese-papiere-zu-einem-nazi-geheimkonto-80519052.bild.html",
-      "image_title": "Milliarden-Schatz: Führen diese Papiere zu einem Nazi-Geheimkonto?"
-    },
-    {
-      "title": "In den USA : Helden-Papa rettet seine Kinder vor dem Feuer-Tod",
-      "teaser": "Las Vegas – Gefangen in einem brennenden Bus. Ihr einziger Fluchtweg führt durch eine F...",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/familie-vor-dem-verbrennen-gerettet-vater-courage-und-seine-kinder-80519618.bild.html",
-      "image_title": "Familie vor dem Verbrennen gerettet: Vater Courage und seine Kinder"
-    },
-    {
-      "title": "53 Jahre nach Stonewall : Polizei verhaftet 373 Menschen bei Istanbul-CSD",
-      "teaser": "Angeblich „aus Sicherheitsgründen“ wurde der Pride in Istanbul auch 2022 erneut untersagt.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/istanbul-polizei-verhaftet-373-csd-teilnehmer-darunter-auch-journalisten-80524274.bild.html",
-      "image_title": "Istanbul: Polizei verhaftet 373 CSD-Teilnehmer – darunter auch Journalisten"
-    },
-    {
-      "title": "Augenzeuge des Osloer Anschlags : „Dann rammte er den Attentäter auf die Straße“",
-      "teaser": "In der Nacht zu Samstag hatte ein Attentäter einen Schwulen-Club angegriffen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/anschlag-in-oslo-wir-tranken-bier-als-wir-schreie-hoerten-80519908.bild.html",
-      "image_title": "Er sah den Anschlag in Oslo: „Dann rammte er den Attentäter auf die Straße“"
-    },
-    {
-      "title": "Drama in Stierkampfarena : Vier Tote bei Tribünen-Einsturz in Kolumbien",
-      "teaser": "Vier Tote und viele Verletzte beim Einsturz einer Stadion-Holztribüne.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kolumbien-vier-tote-bei-tribuenen-einsturz-80521936.bild.html",
-      "image_title": "Kolumbien: Vier Tote bei Tribünen-Einsturz."
-    },
-    {
-      "title": "Gab es ein Gasleck? : Mindestens 22 Tote in Club in Südafrika gefunden",
-      "teaser": "In den frühen Morgenstunden wurden die Leichen auf dem Boden des Lokals entdeckt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/suedafrika-mindestens-17-tote-in-club-entdeckt-vergiftung-durch-gasleck-80513924.bild.html",
-      "image_title": "Südafrika: Mindestens 22 Tote in Club entdeckt – Vergiftung durch Gasleck?"
-    },
-    {
-      "title": "Trauer in Norwegen : Kronprinzenpaar gedenkt Terror-Opfern von Oslo",
-      "teaser": "In der Nacht zu Samstag tötet ein islamistischer Terrorist zwei Menschen und verletzte 21.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/oslo-trauer-in-norwegen-kronprinzenpaar-gedenkt-terror-opfern-80516964.bild.html",
-      "image_title": "Oslo: Trauer in Norwegen: Kronprinzenpaar gedenkt Terror-Opfern"
-    },
-    {
-      "title": "Angriff auf Kunstwerk : Klimaaktivisten kleben sich an Van-Gogh-Gemälde",
-      "url": "https://www.bild.de/video/clip/video/angriff-auf-kunstwerk-klimaaktivisten-kleben-sich-an-van-gogh-gemaelde-80567718,auto=true.bild.html",
-      "image_title": "Angriff auf Kunstwerk: Klimaaktivisten kleben sich an Van-Gogh-Gemälde"
-    },
-    {
-      "title": "Der Fund seines Lebens : Dieser Klumpen macht Fischer reich",
-      "url": "https://www.bild.de/video/clip/video/der-fund-seines-lebens-dieser-klumpen-macht-fischer-reich-80535862,auto=true.bild.html",
-      "image_title": "Der Fund seines Lebens: Dieser Klumpen macht Fischer reich"
-    },
-    {
-      "title": "BILD-Lagezentrum : Russische Lügen zum Supermarkt-Massaker entlarvt",
-      "url": "https://www.bild.de/video/clip/video/bild-lagezentrum-russische-luegen-zum-supermarkt-massaker-entlarvt-80547758,auto=true.bild.html",
-      "image_title": "BILD-Lagezentrum: Russische Lügen zum Supermarkt-Massaker entlarvt"
-    }
-  ]
+  "articles": []
 }
