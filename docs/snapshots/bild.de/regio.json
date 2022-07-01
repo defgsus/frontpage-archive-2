@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-07-01T14:20:17",
+  "timestamp": "2022-07-01T15:23:50",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +25,380 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.fddc9598.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "„Es geht hier nicht um zwei Kaugummis“ : Polizisten-Killer blafft Richter an",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/frankfurt-aktuell/polizisten-morde-von-kusel-killer-blafft-richter-an-80561742.bild.html",
+      "image_title": "Polizisten-Morde von Kusel: Killer blafft Richter an"
+    },
+    {
+      "title": "„Bachelorette“ kann nicht widerstehen : Heimliche Küsse am Pool!",
+      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bachelorette-sharon-heimliche-kuesse-am-pool-80568402.bild.html",
+      "image_title": "„Bachelorette“ Sharon: Heimliche Küsse am Pool!"
+    },
+    {
+      "title": "Unwetter im Süden und Westen : Kirche in Bayern überflutet",
+      "url": "https://www.bild.de/news/wetter/wetter/schwere-unwetter-ueber-nordrhein-westfalens-und-bayern-80568372.bild.html",
+      "image_title": "Schwere Unwetter über Nordrhein-Westfalens und Bayern"
+    },
+    {
+      "title": "13,5 Mio. Euro Schaden : Kripo jagt Waldbrandstifter von Gohrischheide",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-kripo-jagt-waldbrandstifter-von-gohrischheide-80569718.bild.html",
+      "image_title": "Leipzig: Kripo jagt Waldbrandstifter von Gohrischheide"
+    },
+    {
+      "title": "Wieder Blockaden in ganz Berlin : Autofahrer zerrt Klima-Kleber von der Straße",
+      "teaser": "Kein Tag ohne die Klima-Kleber. Auch Freitag blockieren sie viele Straßen in Berlin.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/klima-blockaden-in-berlin-gereizter-autofahrer-zerrt-klima-kleber-von-strasse-80569152.bild.html",
+      "image_title": "Klima-Blockaden in Berlin: Gereizter Autofahrer zerrt Klima-Kleber von Straße"
+    },
+    {
+      "title": "Gruppierung „Palästina spricht“ : Berliner Senat fördert Bühne für Israel-Hasser",
+      "teaser": "Wird mit Geld vom Senat auch Antisemitismus unterstützt?",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/gruppierung-palaestina-spricht-berliner-senat-foerdert-buehne-fuer-israel-hasser-80565682.bild.html",
+      "image_title": "Gruppierung „Palästina spricht“: Berliner Senat fördert Bühne für Israel-Hasser"
+    },
+    {
+      "title": "Heim-Trikot im neuen Design : Werder setzt wieder auf Grün-Weiß",
+      "url": "https://www.bild.de/sport/fussball/fussball/neues-heim-trikot-werder-bremen-setzt-wieder-auf-gruen-weiss-80569632.bild.html",
+      "image_title": "Neues Design! Werder Bremen setzt beim Heim-Trikot wieder auf Grün-Weiß"
+    },
+    {
+      "title": "Mit Ausstiegsklausel : Friedl verlängert bei Werder",
+      "teaser": "Marco Friedl hat seinen Vertrag in Bremen vorzeitig verlängert.",
+      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-mit-ausstiegsklausel-abwehr-oesi-marco-friedl-verlaengert-vertrag-80571636.bild.html",
+      "image_title": "Werder Bremen: Mit Ausstiegsklausel: Abwehr-Ösi Marco Friedl verlängert Vertrag"
+    },
+    {
+      "title": "Bei Trockenübung im Training : Burke gerät ins Schwimmen",
+      "teaser": "Erste Einheit auf dem Rasen für die Neuen Jens Stage und Oliver Burke.",
+      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-bei-trockenuebung-geraet-oliver-burke-ins-schwimmen-80571364.bild.html",
+      "image_title": "Werder Bremen: Bei Trockenübung gerät Oliver Burke ins Schwimmen"
+    },
+    {
+      "title": "Zahnarztsohn nach Mord bei Leipzig vor Gericht : Wurde Max D. (20) für Geld zum Kopfschuss-Killer?",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-fall-jesse-19-wurde-max-d-fuer-geld-zum-kopfschuss-killer-80571438.bild.html",
+      "image_title": "Leipzig: Fall Jesse (†19) – Wurde Max D. für Geld zum Kopfschuss-Killer?"
+    },
+    {
+      "title": "Gewaltiger Erdrutsch am Knappensee : Sanierung wird noch Jahre andauern",
+      "teaser": "2021 gingen rund 500 Meter Ufer am Knappensee ab. Die Sanierung soll noch Jahre andauern.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/erdrutsch-am-knappensee-sanierung-wird-noch-jahre-dauern-80573150.bild.html",
+      "image_title": "Erdrutsch am Knappensee: Sanierung wird noch Jahre dauern"
+    },
+    {
+      "title": "Kuriose Fahndung in Sachsen : Polizei sucht Baumrinden-Fresser",
+      "teaser": "Die Polizei Görlitz jagt einen Rinden-Fresser, der einen wertvollen Baum angeknabbert hat.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/kuriose-fahndung-in-sachsen-polizei-jagt-baumrinden-fresser-80571890.bild.html",
+      "image_title": "Görlitz: Kuriose Fahndung in Sachsen – Polizei such Baumrinden-Fresser"
+    },
+    {
+      "title": "Coole Abwechslung für Dynamo : Rafting statt Fußball!",
+      "url": "https://www.bild.de/sport/fussball/fussball/coole-abwechslung-fuer-dynamo-rafting-statt-fussball-80569136.bild.html",
+      "image_title": "Coole Abwechslung für Dynamo: Rafting statt Fußball!"
+    },
+    {
+      "title": "Urteil fünf Wochen nach der Tat : Schnell-Prozess gegen Politiker-Prügler",
+      "teaser": "Der Hausmeister hatte vor fünf Wochen zwei Grünen-Politiker am Info-Stand angegriffen.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-fuenf-wochen-nach-tat-schnell-prozess-gegen-politiker-pruegler-80567170.bild.html",
+      "image_title": "Dresden: Fünf Wochen nach Tat – Schnell-Prozess gegen Politiker-Prügler"
+    },
+    {
+      "title": "Verstärkung für die Offensive : Dynamo holt diesen Außen-Stürmer!",
+      "teaser": "Dynamo ist auf der Suche nach Verstärkung für die Offensive fündig geworden. BILD erfuhr: Der Drittligist holt diesen Außenstürmer!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/verstaerkung-fuer-den-angriff-dynamo-dresden-holt-diesen-aussen-stuermer-80559948.bild.html",
+      "image_title": "Verstärkung für den Angriff: Dynamo Dresden holt diesen Außen-Stürmer!"
+    },
+    {
+      "title": "Fertigstellung frühestens 2025 : Bleibt Fortunas 30-Mio-Bau nur ein Luftschloss?",
+      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-bleibt-30-mio-bau-nur-ein-luftschloss-80575432.bild.html",
+      "image_title": "Fortuna Düsseldorf: Bleibt 30-Mio-Bau nur ein Luftschloss?"
+    },
+    {
+      "title": "Immer wieder wird sie erwischt : 22 Jahre ohne Lappen – Rentnerin erneut verurteilt",
+      "teaser": "22 Jahre lang fuhr Soad G. (75) ohne gültigen Führerschein, wurde jetzt erneut verurteilt.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/22-jahre-ohne-gueltigen-fuehrerschein-rentnerin-erneut-verurteilt-80574318.bild.html",
+      "image_title": "22 Jahre ohne gültigen Führerschein – Rentnerin erneut verurteilt"
+    },
+    {
+      "title": "Einer der Besten fehlt in der Liste! : Das sind Gladbachs Top-Ten-Verdiener",
+      "teaser": "Wer am meisten kassiert, wer in der Auflistung fehlt: Gladbachs Top-Verdiener.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/einer-der-besten-fehlt-in-der-liste-das-sind-gladbachs-top-ten-verdiener-80553864.bild.html",
+      "image_title": "Borussia Mönchengladbach: Das sind Gladbachs Top-Ten-Verdiener"
+    },
+    {
+      "title": "Wegen Überlastung der Schwurgerichtskammer : Sechs Angeschuldigte aus U-Haft entlassen",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/wegen-ueberlastung-der-schwurgerichtskammer-sechs-angeschuldigte-aus-u-haft-entl-80574662.bild.html",
+      "image_title": "Wegen Überlastung der Schwurgerichtskammer: Sechs Angeschuldigte aus U-Haft entlassen"
+    },
+    {
+      "title": "Tödlicher unfall : Mann (31) stirbt am Hauptbahnhof",
+      "teaser": "Der Mann wollte die Gleise überqueren, wurde von einem Triebwagen erfasst.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/toedlicher-unfall-mann-31-stirbt-am-hauptbahnhof-80572674.bild.html",
+      "image_title": "Tödlicher Unfall: Mann (31) stirbt am Hauptbahnhof"
+    },
+    {
+      "title": "Dognapping in Hessen : Jamy (5) wurde aus dem Garten entführt",
+      "teaser": "Ihre Besitzer lobten eine Belohnung für die Wiederbeschaffung der Terrier-Mix-Dame aus.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/hunde-diebstahl-jamy-5-aus-garten-entfuehrt-80571412.bild.html",
+      "image_title": "Hunde-Diebstahl: Jamy (5) aus Garten entführt"
+    },
+    {
+      "title": "Gepäck-Schande am Hamburger flughafen : Ich warte seit 14 (!) Tagen auf meinen Koffer",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/gepaeck-schande-am-hamburger-flughafen-ich-warte-seit-14-tagen-auf-meinen-koffer-80569746.bild.html",
+      "image_title": "Gepäck-Schande am Hamburger Flughafen: Ich warte seit 14 (!) Tagen auf meinen Koffer"
+    },
+    {
+      "title": "Unfassbarer Unfall auf A 1 : ER kam HIER heile raus",
+      "teaser": "Hamburg – Im Bereich einer Baustelle krachte er auf einen vor ihm bremsenden Sattelzug.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/unfassbarer-unfall-auf-a-1-er-kam-hier-heile-raus-80569894.bild.html",
+      "image_title": "Unfassbarer Unfall auf A 1: ER kam HIER heile raus"
+    },
+    {
+      "title": "Team „Knossi“ gegen Team „Trymacs“ : Fußball-Duell der Mega-Streamer",
+      "teaser": "In Hamburg treten die „Twitch“-Streamer „Knossi“ und „Trymacs“ zum Fußballmatch an.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/team-knossi-gegen-team-trymacs-fussball-duell-der-mega-streamer-80570988.bild.html",
+      "image_title": "Team „Knossi“ gegen Team „Trymacs“: Fußball-Duell der Mega-Streamer"
+    },
+    {
+      "title": "Um 16.26 Uhr kam der Notruf : Badetoter im Baggersee",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/um-16-26-uhr-kam-der-notruf-badetoter-im-baggersee-80575218.bild.html",
+      "image_title": "Um 16.26 Uhr kam der Notruf: Badetoter im Baggersee"
+    },
+    {
+      "title": "DAS müssen Besucher gesehen haben : Die Stars der Ideen-Expo",
+      "teaser": "Bis zum 10. Juli erwartet die IdeenExpo wieder 300.000 junge Besucher auf dem Messegelände.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/das-muessen-besucher-gesehen-haben-die-stars-der-ideen-expo-80571708.bild.html",
+      "image_title": "DAS müssen Besucher gesehen haben: Die Stars der Ideen-Expo"
+    },
+    {
+      "title": "Spieltage 1 bis 9 fest terminiert : HSV hat drei Mal den Abend-Knaller",
+      "teaser": "Die DFL hat die Termine der Spieltage 1–9 in der 2. Liga fest terminiert. Der Norden (HSV, Pauli, 96) ist bei den Abend-Topspielen (20.30 Uhr) an vier Samstagen vertreten.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hsv-dfl-terminiert-spieltage-1-bis-9-fest-drei-abend-knaller-fuer-die-hamburger-80571036.bild.html",
+      "image_title": "HSV: DFL terminiert Spieltage 1 bis 9 fest! Drei Abend-Knaller für die Hamburger"
+    },
+    {
+      "title": "Zwei Schwerverletzte nach Ausweich-Manöver : Frau (20) baut Frontal-Crash mit Cabrio",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/lindlar-frau-20-baut-frontal-crash-mit-cabrio-zwei-schwerverletzte-80571042.bild.html",
+      "image_title": "Lindlar: Frau (20) baut Frontal-Crash mit Cabrio – zwei Schwerverletzte"
+    },
+    {
+      "title": "Zahl aber deutlich unter Vor-Corona-Niveau : Wieder mehr Prostituierte in NRW",
+      "teaser": "In Nordrhein-Westfalen waren Ende 2021 insgesamt 6662 Prostituierte offiziell angemeldet.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/wieder-mehr-prostituierte-in-nrw-zahl-aber-unter-vor-corona-niveau-80568778.bild.html",
+      "image_title": "Wieder mehr Prostituierte in NRW: Zahl aber unter Vor-Corona-Niveau"
+    },
+    {
+      "title": "Gewitter mit Sturmböen und Regenmassen : So heftig wütete das Unwetter in NRW",
+      "teaser": "Eine Gewitterfront mit Starkregen und Sturmböen ist am späten Donnerstagnachmittag bis weit in den Abend hinein über Nordrhein-Westf...",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/nrw-so-heftig-wuetete-das-unwetter-am-donnerstag-80568212.bild.html",
+      "image_title": "NRW: So heftig wütete das Unwetter am Donnerstag"
+    },
+    {
+      "title": "Kinder-Kulturprojekt in Leipzig : Rangnick bringt Oper auf die Bühne",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-premiere-fuer-stadtteiloper-der-ralf-rangnick-stiftung-80570652.bild.html",
+      "image_title": "Leipzig: Kinder-Kulturprojekt! Rangnick bringt Oper auf die Bühne!"
+    },
+    {
+      "title": "Er erwürgte seine Ex Dorin V. (†43) : Killer flennt bei Mord-Geständnis",
+      "teaser": "Während Mörder Marcus W gestand, seine Ex erwürgt zu haben, heulte er hemmungslos.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/prozess-im-fall-dorin-v-43-killer-flennt-bei-gestaendnis-80569328.bild.html",
+      "image_title": "Leipzig: Prozess im Fall Dorin V. (†43): Killer flennt bei Geständnis"
+    },
+    {
+      "title": "Cocktails statt Kaffee! : Cossi-Schiff jetzt Disko-Dampfer",
+      "teaser": "Markkleeberg – Vor drei Jahren hatte der „MS Cospuden“ noch die Verschrottung gedroht. Doch nach der Rettung durch einen neuen Betre...",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/markkleeberg-cocktails-statt-kaffee-cossi-schiff-jetzt-disko-dampfer-80567108.bild.html",
+      "image_title": "Markkleeberg: Cocktails statt Kaffee! Cossi-Schiff jetzt Disko-Dampfer"
+    },
+    {
+      "title": "Hat er diese Frau begünstigt? : Ermittlungen gegen Hiddensee-Bürgermeister",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/hiddensee-ermittlungen-gegen-buergermeister-wegen-kurdirektorin-marx-80562884.bild.html",
+      "image_title": "Hiddensee: Ermittlungen gegen Bürgermeister wegen Kurdirektorin Marx"
+    },
+    {
+      "title": "Geisterwald vom Peenetal : Das ist das Geheimnis vom Gruselwald vor Usedom",
+      "teaser": "Direkt an der Touristen-Strecke B 110 ragen hunderte Baum-Ruinen aus dem Wasser.",
+      "url": "https://www.bild.de/bild-plus/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/kurz-vor-usedom-der-geisterwald-vom-peenetal-80558338.bild.html",
+      "image_title": "Kurz vor Usedom: Der Geisterwald vom Peenetal"
+    },
+    {
+      "title": "Drama um Düsseldorfer Urlauberin : Stand-up-Paddlerin fällt in See – tot!",
+      "teaser": "Eine Düsseldorferin ist im Urlaub in Mecklenburg-Vorpommern tödlich verunglückt.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorfer-urlauberin-faellt-in-see-tot-80557494.bild.html",
+      "image_title": "Pannekower See: Urlauberin fällt von Stand-up-Paddle-Board in See – tot"
+    },
+    {
+      "title": "Bund warnt vor gefährlichem Chrom : Franken liefern Bayern vergiftete Lederhosen",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bund-warnt-vor-gefaehrlichem-chrom-franken-liefern-bayern-vergiftete-lederhosen-80575254.bild.html",
+      "image_title": "Bund warnt vor gefährlichem Chrom: Franken liefern Bayern vergiftete Lederhosen"
+    },
+    {
+      "title": "Zurück zu Knallhart-Regeln! : Gesundheitsminister pfeifen aufs Corona-Zeugnis",
+      "teaser": "Maskenpflicht, Impfnachweise und mehr – BILD kennt den Corona-Herbst-Plan der Bundesländer!",
+      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/corona-zurueck-zu-knallhart-regeln-gesundheitsminister-pfeifen-aufs-zeugnis-80572992.bild.html",
+      "image_title": "Corona: Zurück zu Knallhart-Regeln! Gesundheitsminister pfeifen aufs Zeugnis"
+    },
+    {
+      "title": "Neuer Star schon in der Stadt : Pep tütet heute 50-Mio-Deal ein",
+      "teaser": "Bis 1. September ist der Transfermarkt geöffnet – hier lesen Sie alle wichtigen News!",
+      "url": "https://www.bild.de/sport/fussball/fussball/transfer-ticker-rb-leipzig-star-nkunku-schwaermt-von-diesem-top-klub-80246534.bild.html",
+      "image_title": "Transfer-Ticker: ER wechselt innerhalb der Bundesliga"
+    },
+    {
+      "title": "Bayerns Ministerpräsident im Vaterglück : Söder-Tochter galoppiert zum Erfolg",
+      "url": "https://www.bild.de/unterhaltung/leute/leute/markus-soeder-die-naechste-tochter-galoppiert-zum-erfolg-80552626.bild.html",
+      "image_title": "Markus Söder: Die nächste Tochter galoppiert zum Erfolg"
+    },
+    {
+      "title": "50 Jahre BILD Nürnberg : Alle Sport-Höhepunkte in der Metropolregion!",
+      "teaser": "50 Jahre BILD Nürnberg - die größten Momente im Sport.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/50-jahre-bild-nuernberg-alle-sport-hoehepunkte-in-der-metropolregion-80560852.bild.html",
+      "image_title": "50 Jahre BILD Nürnberg: Alle Sport-Höhepunkte in der Metropolregion!"
+    },
+    {
+      "title": "Tochter von Arzt-Ehepaar in U-Haft : Plante sie den Doppelmord gemeinsam mit ihrem Freund?",
+      "teaser": "Un­fassbare Wende nach dem Doppelmord an einem Arzt-Ehepaar in Mistelbach.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/doppelmord-an-arzt-ehepaar-in-bayreuth-nun-auch-tochter-der-opfer-in-u-haft-79240972.bild.html",
+      "image_title": "Doppelmord an Arzt-Ehepaar in Bayreuth: Nun auch Tochter der Opfer in U-Haft"
+    },
+    {
+      "title": "Hunt-Slonem-Schau in Hagen : Diese Kunst macht Promis zu Fans",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hunt-slonem-schau-in-hagen-diese-kunst-macht-promis-zu-fans-80573978.bild.html",
+      "image_title": "Diese Kunst macht Promis zu Fans: Hunt-Slonem-Ausstellung in Hagen"
+    },
+    {
+      "title": "Illegale Zigaretten-Fabrik ausgehoben : Hier machen die Fahnder einen dicken Fang",
+      "teaser": "Durch einen Brandmelder-Fehlalarm flog im Sauerland eine illegale Zigarettenfabrik auf.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dicker-fang-illegale-zigaretten-fabrik-in-iserlohn-ausgehoben-80572896.bild.html",
+      "image_title": "Dicker Fang: Illegale Zigaretten-Fabrik in Iserlohn ausgehoben"
+    },
+    {
+      "title": "Baden im Fluss jetzt erlaubt : Endlich wieder rein in die Ruhr",
+      "teaser": "Schwimmen in der Ruhr ist jetzt kein Schlag ins Wasser mehr, sondern in Bochum möglich.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/als-erste-revier-stadt-erlaubt-bochum-das-baden-im-fluss-endlich-wieder-rein-in-80572276.bild.html",
+      "image_title": "Endlich wieder rein in die Ruhr: Bochum erlaubt das Baden im Fluss"
+    },
+    {
+      "title": "Ab sofort! : Fleischkäse-Big-Weck kommt doch",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/ab-sofort-fleischkaese-big-weck-kommt-doch-80574928.bild.html",
+      "image_title": "Ab sofort!: Fleischkäse-Big-Weck kommt doch"
+    },
+    {
+      "title": "3-fach in Top-Liste : Der Gallen-Gott vom Winterberg",
+      "teaser": "Ehre, wem Ehre gebührt!",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/3-fach-in-top-liste-der-gallen-gott-vom-winterberg-80572632.bild.html",
+      "image_title": "3-fach in Top-Liste: Der Gallen-Gott vom Winterberg"
+    },
+    {
+      "title": "Nikolaus L. zerstückelt : Totschlags-Prozess gegen Punker-Killer beginnt",
+      "teaser": "Iris B. (50) und Pascal G. (41) sollen ihr Opfer erstochen und zersägt haben.",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/nikolaus-l-zerstueckelt-totschlags-prozess-gegen-punker-killer-beginnt-80572738.bild.html",
+      "image_title": "Nikolaus L. zerstückelt: Totschlags-Prozess gegen Punker-Killer beginnt"
+    },
+    {
+      "title": "9-Euro-Ticket in Sachsen-Anhalt : Diese Strecken sind besonders beliebt",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/9-euro-ticket-in-sachsen-anhalt-30-prozent-mehr-gaeste-in-bus-und-bahn-80572280.bild.html",
+      "image_title": "9 Euro-Ticket in Sachsen-Anhalt: 30 Prozent mehr Gäste in Bus und Bahn"
+    },
+    {
+      "title": "155 Feuerwehrleute im Einsatz : Großbrand in Zellstoffwerk bei Stendal",
+      "teaser": "Großfeuer in der Altmark! Im Zellstoffwerk Arneburg brennt es lichterloh.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/feuerwehr-grossbrand-im-zellstoffwerk-arneburg-bei-stendal-80569518.bild.html",
+      "image_title": "Feuerwehr: Großbrand im Zellstoffwerk Arneburg bei Stendal"
+    },
+    {
+      "title": "Mangel an Geld und Personal : Jeder fünfte Wanderweg im Harz fällt weg",
+      "teaser": "Das in Sachsen-Anhalt derzeit noch rund 3800 Kilometer lange Netz von Harz-Wanderwegen wird dem Zeitgeschmack angepasst.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/harz-jeder-fuenfter-wanderweg-im-harz-faellt-weg-80567214.bild.html",
+      "image_title": "Harz: Jeder fünfte Wanderweg im Harz fällt weg!"
+    },
+    {
+      "title": "Faszinierende Kunst : In Ludwigsburg wird aus Sand gebaut",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/faszinierende-kunst-in-ludwigsburg-werden-sand-skulpturen-gebaut-80574476.bild.html",
+      "image_title": "Faszinierende Kunst: In Ludwigsburg werden Sand-Skulpturen gebaut"
+    },
+    {
+      "title": "Angenehmer Start in den Juli : Hier kommt die Wohlfühl-Welle!",
+      "teaser": "Ein heißer Juni endet. Ein sommerlicher Juli startet. Das Wochenende bringt viel Sonnen...",
+      "url": "https://www.bild.de/news/wetter/wetter/angenehmer-start-in-den-juli-hier-kommt-die-wohlfuehl-welle-80557426.bild.html",
+      "image_title": "Angenehmer Start in den Juli: Hier kommt die Wohlfühl-Welle!"
+    },
+    {
+      "title": "Viele Maßnahmen hatten kaum Wirkung : Corona-Klatsche für „Team Vorsicht“",
+      "teaser": "Top-Experten legt heute seine Bilanz zu den Corona-Maßnahmen vor. BILD kennt sie vorab.",
+      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/viele-massnahmen-hatten-kaum-wirkung-corona-klatsche-fuer-team-vorsicht-80566788.bild.html",
+      "image_title": "Viele Maßnahmen hatten kaum Wirkung: Corona-Klatsche für „Team Vorsicht“"
+    },
+    {
+      "title": "Jena-Sportchef Tobias Werner : „Nur drei Neue sind noch drin!“",
+      "url": "https://www.bild.de/sport/fussball/fussball/jena-sportchef-tobias-werner-nur-drei-neue-sind-noch-drin-80565254.bild.html",
+      "image_title": "Jena-Sportchef Tobias Werner: „Nur drei Neue sind noch drin!“"
+    },
+    {
+      "title": "KRIMINALFALL WALTER SCHUSTER : Gassi-Runde in den Tod?",
+      "teaser": "Seit dem 26. Juli 2021 sind Schlosser Walter Schuster (58) aus Meiningen und sein Hund „Zeus“ verschwunden.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/kriminalfall-walter-schuster-und-hund-zeus-gassi-runde-in-den-tod-80567284.bild.html",
+      "image_title": "Kriminalfall Walter Schuster und Hund Zeus: Gassi-Runde in den Tod?"
+    },
+    {
+      "title": "Jenas OB Thomas „Triathlon“ Nitzsche : OB schwimmen, OB radeln, OB laufen",
+      "teaser": "Es ist sein vermutlich bestgehütetes Amtsgeheimnis: OB Thomas Nitzsche ist Triathlet!",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/jenas-ob-thomas-triathlon-nitzsche-ob-schwimmen-ob-radeln-ob-laufen-80566812.bild.html",
+      "image_title": "Jenas OB Thomas „Triathlon“ Nitzsche: OB schwimmen, OB radeln, OB laufen"
+    }
+  ]
 }
