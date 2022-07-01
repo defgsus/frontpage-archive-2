@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-01T10:24:19",
+  "timestamp": "2022-07-01T11:17:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Spectrum Protect",
+      "url": "https://www.heise.de/news/IBM-Spectrum-Protect-Plus-Angreifer-koennten-Admin-Accounts-anlegen-7159714.html"
+    },
+    {
       "title": "Atlassian Jira",
       "url": "https://www.heise.de/news/Projektverwaltung-Sicherheitsluecke-bedroht-Atlassian-Jira-jetzt-handeln-7157892.html"
     },
@@ -44,11 +48,17 @@
       "url": "https://www.heise.de/news/Datenverwaltung-Kritische-Luecke-in-Dell-EMC-PowerScale-OneFS-abgedichtet-7156674.html"
     },
     {
-      "title": "Citrix Hypervisor",
-      "url": "https://www.heise.de/news/Citrix-dichtet-Sicherheitsluecken-in-Hypervisor-ab-7154435.html"
+      "title": "Security-Risiko APIs: Google Cloud will zunehmende Gefahr eindämmen",
+      "teaser": "Falsche Konfigurationen erkennen und verdächtigen Traffic durch Bots identifizieren: Mit zwei neuen Funktionen will die Google Cloud die API-Sicherheit erhöhen.",
+      "url": "https://www.heise.de/news/Security-Risiko-APIs-Google-Cloud-will-zunehmende-Gefahr-eindaemmen-7160000.html"
     },
     {
-      "title": "FBI warnt vor Bewerbungen mit Deepfakes",
+      "title": "IBM Spectrum Protect Plus: Angreifer könnten Admin-Accounts anlegen",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für IBM Spectrum Protect und Db2.",
+      "url": "https://www.heise.de/news/IBM-Spectrum-Protect-Plus-Angreifer-koennten-Admin-Accounts-anlegen-7159714.html"
+    },
+    {
+      "title": "FBI-Warnung: Betrügerische Bewerbungen nutzen Deepfakes",
       "teaser": "Das FBI beobachtet eine Zunahme an Beschwerden über Bewerbungen mittels Deepfakes und gestohlenen persönlichen Daten. Meist gehe es um Remote-Arbeitsplätze.",
       "url": "https://www.heise.de/news/FBI-warnt-vor-Bewerbungen-mit-Deepfakes-7159706.html",
       "image_title": "Aufmacher FBI warnt vor Deepfake-Bewerbungen"
@@ -57,6 +67,11 @@
       "title": "Cybersecurity-Spiel: Sich auf den Ernstfall vorbereiten",
       "teaser": "Ein neues Online-Spiel hilft dabei, Cybersicherheitsmaßnahmen kennenzulernen und in simulierten Stresssituationen anzuwenden.",
       "url": "https://www.heise.de/news/Cybersecurity-Spiel-Sich-auf-den-Ernstfall-vorbereiten-7159047.html"
+    },
+    {
+      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
+      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
+      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
     },
     {
       "title": "Baustoffhersteller Knauf Opfer von Cyberangriff",
@@ -69,11 +84,6 @@
       "teaser": "Am Mittwoch wurden sowohl staatliche als auch private norwegische Webseiten Opfer von Cyberangriffen. Sie gingen offenbar von pro-russischen Cybergangs aus.",
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-norwegische-Webseiten-7158867.html",
       "image_title": "Aufmacher Cyberangriffe auf Norwegen"
-    },
-    {
-      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
-      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
-      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
     },
     {
       "title": "Cybersicherheitsunternehmen Secunet übernimmt Open-Source-Projekt strongSwan",
@@ -152,17 +162,6 @@
       "teaser": "Die Erpresserbande hinter der Ransomware Lockbit hebt den Professionalisierungsgrad auf eine neue Stufe. Sogar ein Bug-Bounty-Programm hat sie aufgelegt.",
       "url": "https://www.heise.de/news/Lockbit-3-0-Professionalisierung-der-Ransomware-Szene-7155742.html",
       "image_title": "Aufmacher Lockbit 3.0 \"MAke Ransomware Great Again!\""
-    },
-    {
-      "title": "ISD 2022 im Gespräch mit Felix Lindner: Frühere Lösungen sind heute das Problem",
-      "teaser": "Der prominente Hacker wird am 29. und 30. September bei den Internet Security Days eine Keynote halten. Derzeit gilt außerdem eine rabattierte Sommeraktion.",
-      "url": "https://www.heise.de/news/ISD-2022-im-Gespraech-mit-Felix-Lindner-Fruehere-Loesungen-sind-heute-das-Problem-7154865.html"
-    },
-    {
-      "title": "Microsoft: Support-Ende von Exchange 2013 naht",
-      "teaser": "Der Exchange-Server 2013 erreicht in neun Monaten sein absolutes Support-Ende. Daran erinnert Microsofts Exchange-Team und empfiehlt die zügige Migration.",
-      "url": "https://www.heise.de/news/Microsoft-Support-Ende-von-Exchange-2013-naht-jetzt-Migration-planen-7155579.html",
-      "image_title": "Aufmacher Support-Ende für Exchange 2013"
     },
     {
       "title": "heise Security Tour 2022",
