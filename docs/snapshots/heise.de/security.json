@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-01T11:17:47",
+  "timestamp": "2022-07-01T12:45:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Jenkins-Plug-ins",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Viele-Jenkins-Plug-ins-als-Schlupfloecher-fuer-Angreifer-7160083.html"
+    },
+    {
       "title": "IBM Spectrum Protect",
       "url": "https://www.heise.de/news/IBM-Spectrum-Protect-Plus-Angreifer-koennten-Admin-Accounts-anlegen-7159714.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Groupware-Praeparierte-E-Mails-koennten-zur-Codeausfuehrung-in-Zimbra-fuehren-7156812.html"
     },
     {
-      "title": "Dell EMC PowerScale OneFS",
-      "url": "https://www.heise.de/news/Datenverwaltung-Kritische-Luecke-in-Dell-EMC-PowerScale-OneFS-abgedichtet-7156674.html"
+      "title": "Sicherheitsupdates: Viele Jenkins-Plug-ins als Schlupflöcher für Angreifer",
+      "teaser": "Software-Entwickler aufgepasst: Lücken in Plug-ins für den Automation-Server Jenkins geschlossen. Etliche Patches lassen aber noch auf sich warten.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Viele-Jenkins-Plug-ins-als-Schlupfloecher-fuer-Angreifer-7160083.html"
     },
     {
       "title": "Security-Risiko APIs: Google Cloud will zunehmende Gefahr eindämmen",
@@ -64,14 +69,14 @@
       "image_title": "Aufmacher FBI warnt vor Deepfake-Bewerbungen"
     },
     {
+      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
+      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
+      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
+    },
+    {
       "title": "Cybersecurity-Spiel: Sich auf den Ernstfall vorbereiten",
       "teaser": "Ein neues Online-Spiel hilft dabei, Cybersicherheitsmaßnahmen kennenzulernen und in simulierten Stresssituationen anzuwenden.",
       "url": "https://www.heise.de/news/Cybersecurity-Spiel-Sich-auf-den-Ernstfall-vorbereiten-7159047.html"
-    },
-    {
-      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
-      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
-      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
     },
     {
       "title": "Baustoffhersteller Knauf Opfer von Cyberangriff",
@@ -158,12 +163,6 @@
       "url": "https://www.heise.de/news/Open-Source-Security-GitHub-Advisory-Database-kennt-Erlang-und-Elixir-7155625.html"
     },
     {
-      "title": "Lockbit-Ransomware-Gruppe stellt sich professioneller auf",
-      "teaser": "Die Erpresserbande hinter der Ransomware Lockbit hebt den Professionalisierungsgrad auf eine neue Stufe. Sogar ein Bug-Bounty-Programm hat sie aufgelegt.",
-      "url": "https://www.heise.de/news/Lockbit-3-0-Professionalisierung-der-Ransomware-Szene-7155742.html",
-      "image_title": "Aufmacher Lockbit 3.0 \"MAke Ransomware Great Again!\""
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -185,19 +184,19 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Update Desinfec't 2021/22 Fehlermeldung",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Update-Desinfec-t-2021-22-Fehlermeldung/posting-41231419/show/"
+    },
+    {
+      "title": "ESET haengt beim Signaturupdate oder beim Scan",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/ESET-haengt-beim-Signaturupdate-oder-beim-Scan/posting-41231352/show/"
+    },
+    {
       "title": "Re: Gefundene Trojaner / Malware",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Gefundene-Trojaner-Malware/posting-41230530/show/"
-    },
-    {
-      "title": "Re: Speicherung WLAN-Passwort wird nicht angeboten",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Speicherung-WLAN-Passwort-wird-nicht-angeboten/posting-41229456/show/"
-    },
-    {
-      "title": "Datei löschen - Wie?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Datei-loeschen-Wie/posting-41229326/show/"
     }
   ]
 }
