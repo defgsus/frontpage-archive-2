@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-01T22:20:32",
+  "timestamp": "2022-07-01T23:20:40",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Boxer zahlt Lisa (31) die Miete : Top-Job gekündigt, weil ihr Hund Instagram-Star ist!",
-      "url": "https://www.bild.de/bild-plus/news/inland/bremen-aktuell/ihr-boxer-zahlt-die-miete-lisa-31-kuendigte-top-job-weil-ihr-hund-instagram-star-80571640.bild.html",
-      "image_url": "https://images.bild.de/62bed6232596fd328121e45c/eae1774806c63a3188617b65e8a4a67c,84077e8c?w=656",
-      "image_title": "Ihr Boxer zahlt die Miete: Lisa (31) kündigte Top-Job, weil ihr Hund Instagram-Star ist!"
-    },
-    {
-      "title": "Zahnarztsohn vor Gericht : Wurde Max D. (20) für Geld zum Kopfschuss-Killer?",
-      "url": "https://www.bild.de/bild-plus/news/inland/leipzig-news/leipzig-fall-jesse-19-wurde-max-d-fuer-geld-zum-kopfschuss-killer-80571438.bild.html",
-      "image_url": "https://images.bild.de/62bed141e76cc679c115d49d/0da7a71131fc92cfd1f29445cdeb649d,d3f8d65e?w=320",
-      "image_title": "Fall Jesse (†19) vor Gericht: Wurde Max D. für Geld zum Killer?"
-    },
-    {
-      "title": "Eurojackpot Am Freitag : Haben Sie den 65 Millionen Euro Jackpot geknackt?",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-1-juli-80546260.bild.html",
-      "image_url": "https://images.bild.de/62bc089be76cc679c115cfdd/620e292c612eaecb0afa8533cda94997,dc48b40a?w=320",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 1. Juli"
-    },
-    {
-      "title": "Bewohner wurden evakuiert : Wohnhaus in Leipzig einsturzgefährdet",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-gruenau-wohnhaus-einsturzgefaehrdet-bewohner-werden-evakuiert-80575074.bild.html",
-      "image_url": "https://images.bild.de/62bf092ae76cc679c115d534/20749dbcc90238b0c2ee2eb438875392,5852d414?w=320",
-      "image_title": "Leipzig Grünau: Wohnhaus einsturzgefährdet – Bewohner werden evakuiert"
-    },
-    {
-      "title": "Zündler entfachen Waldbrand : Hier verbrennen täglich 1,5 Mio. Euro!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/mega-waldbrand-in-sachsen-hier-verbrennen-taeglich-1-5-mio-euro-80576900.bild.html",
-      "image_url": "https://images.bild.de/62bf2c4db656061012887d3a/f94f46036eaca9ac387efb9ac4313a72,6962344e?w=320",
-      "image_title": "Mega-Waldbrand in Sachsen: Hier verbrennen täglich 1,5 Mio. Euro"
-    },
-    {
-      "title": "Wegen Überlastung! : Sechs Verdächtige aus U-Haft entlassen",
-      "url": "https://www.bild.de/news/inland/frankfurt-aktuell/wegen-ueberlastung-der-schwurgerichtskammer-sechs-angeschuldigte-aus-u-haft-entl-80574662.bild.html",
-      "image_title": "Staatsversagen: Sechs Angeschuldigte aus Haft entlassen"
-    },
-    {
-      "title": "7 Brandanschläge in 4 Monaten : Das Haus der Angst",
-      "teaser": "Innerhalb von vier Monaten hat es in einem Hochhaus in Harrislee sieben Mal gebrannt!",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/feuerteufel-an-der-foerde-7-brandanschlaege-in-6-monaten-das-haus-der-angst-80569890.bild.html",
-      "image_title": "Feuerteufel an der Förde! 7 Brandanschläge in 6 Monaten: Das Haus der Angst"
-    },
-    {
-      "title": "Gewaltiger Erdrutsch am Knappensee : Sanierung wird noch Jahre andauern",
-      "teaser": "2021 gingen rund 500 Meter Ufer am Knappensee ab. Die Sanierung soll noch Jahre andauern.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/erdrutsch-am-knappensee-sanierung-wird-noch-jahre-dauern-80573150.bild.html",
-      "image_title": "Erdrutsch am Knappensee: Sanierung wird noch Jahre dauern"
-    },
-    {
-      "title": "Masken-Untersuchungsausschuss : Jens Spahn muss aussagen",
-      "teaser": "Ex-Bundesgesundheitsminister Jens Spahn muss im U-Ausschuss erscheinen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/masken-untersuchungsausschuss-jens-spahn-muss-aussagen-80573876.bild.html",
-      "image_title": "Masken-Untersuchungsausschuss : Jens Spahn muss aussagen"
-    },
-    {
-      "title": "Blitzschlag und Starkregen : Hubschrauber muss zwei Kletterer aus Alpenwand holen",
-      "teaser": "Fünf Stunden waren Feuerwehr, Polizei und Bergwacht für zwei Kletterer im Einsatz.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/untersberg-hubschrauber-muss-zwei-kletter-aus-felswand-holen-80571566.bild.html",
-      "image_title": "Berchtesgaden: Dramatische Rettung aus Alpen-Felswand nach Unwetter"
-    },
-    {
-      "title": "Arzt-Ehepaar erstochen : Tochter und Freund wegen Doppelmordes angeklagt",
-      "teaser": "Noch in 2022 sollen sich die Jugendlichen wegen der hingerich­teten Ärzte verantworten.",
-      "url": "https://www.bild.de/bild-plus/regional/nuernberg/stuttgart-aktuell/bayreuth-doppelmord-anklage-gegen-tochter-des-getoeteten-arzt-paares-80571734.bild.html",
-      "image_title": "Bayreuth: Doppelmord-Anklage gegen Tochter des getöteten Arzt-Paares"
-    },
-    {
-      "title": "9-Euro-Ticket in Sachsen Anhalt : Diese Strecken sind besonders beliebt",
-      "teaser": "Bilanz nach 30 Tagen: Das 9-Euro-Ticket wird dankend in Sachsen-Anhalt angenommen!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/9-euro-ticket-in-sachsen-anhalt-30-prozent-mehr-gaeste-in-bus-und-bahn-80572280.bild.html",
-      "image_title": "9 Euro-Ticket in Sachsen-Anhalt: 30 Prozent mehr Gäste in Bus und Bahn"
-    },
-    {
-      "title": "155 Feuerwehrleute im Einsatz : Großbrand in Zellstoffwerk bei Stendal",
-      "teaser": "Großfeuer in der Altmark! Im Zellstoffwerk Arneburg brennt es lichterloh.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/feuerwehr-grossbrand-im-zellstoffwerk-arneburg-bei-stendal-80569518.bild.html",
-      "image_title": "Feuerwehr: Großbrand im Zellstoffwerk Arneburg bei Stendal"
-    },
-    {
-      "title": "100 000 Dollar Kopfgeld : Most wanted! FBI jagt jetzt die Krypto-Queen",
-      "teaser": "Milliarden-Betrügerin Ruja Ignatova ist auf der Liste der zehn meistgesuchten Verbrecher.",
-      "url": "https://www.bild.de/news/inland/news-inland/millionen-betrug-mit-onecoin-fbi-setzt-ruja-ignatova-auf-fahndungsliste-80568286.bild.html",
-      "image_title": "Millionen-Betrug mit „OneCoin“: FBI setzt Ruja Ignatova auf Fahndungsliste"
-    },
-    {
-      "title": "13,5 Mio. Euro Schaden : Kripo jagt Waldbrandstifter von Gohrischheide",
-      "teaser": "Der riesige Waldbrand von Gohrischheide. Jetzt ist klar: Es war Brandstiftung.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-kripo-jagt-waldbrandstifter-von-gohrischheide-80569718.bild.html",
-      "image_title": "Leipzig: Kripo jagt Waldbrandstifter von Gohrischheide"
-    },
-    {
-      "title": "Trotzdem kommt Grapscher frei : ER griff drei Joggerinnen im Englischen Garten an",
-      "teaser": "Dominik B. (26) fiel über Joggerinnen her. Der Richter ließ ihn laufen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/trotzdem-kommt-der-grapscher-frei-er-griff-3-joggerinnen-im-englischen-garten-an-80563818.bild.html",
-      "image_title": "München: Freispruch für Grapscher: ER griff drei Joggerinnen an"
-    },
-    {
-      "title": "Hat er diese Frau begünstigt? : Ermittlungen gegen Hiddensee-Bürgermeister",
-      "teaser": "Der Verdacht der Untreue steht im Raum! Hat der Bürgermeister seine Kur-Chefin begünstigt?",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/hiddensee-ermittlungen-gegen-buergermeister-wegen-kurdirektorin-marx-80562884.bild.html",
-      "image_title": "Hiddensee: Ermittlungen gegen Bürgermeister wegen Kurdirektorin Marx"
-    },
-    {
-      "title": "Stuntfrau Jana (35) : Sie brennt für ihre Jobs",
-      "teaser": "Inzwischen spielte die zweifache Mutter in 50 Filmen mit.",
-      "url": "https://www.bild.de/regional/thueringen/leipzig-news/stuntfrau-fuer-hollywood-jana-reinhardt-35-brennt-fuer-ihren-job-80566540.bild.html",
-      "image_title": "Stuntfrau für Hollywood: Jana Reinhardt (35) brennt für ihren Job"
-    },
-    {
-      "title": "Polizei entdeckte ihn stark blutend : Mann (23) mit Flasche attackiert – schwer verletzt",
-      "teaser": "Mitten in Chemnitz wurde ein Mann offenbar mit einer abgebrochenen Flasche angegriffen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/nach-schlaegerei-in-chemnitz-polizei-findet-stark-blutenden-mann-23-80563606.bild.html",
-      "image_title": "Polizei entdeckte ihn stark blutend: Mann (23) mit Flasche attackiert – schwer verletzt"
-    },
-    {
-      "title": "Amok-Pilot ließ Maschine abstürzen : Kein Lufthansa-Geld für Germanwings-Hinterbliebene",
-      "teaser": "Die Angehörigen der Absturzopfer haben erneut eine Prozessniederlage erlitten.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/germanwings-absturz-kein-lufthansa-geld-fuer-hinterbliebene-von-getoeteten-80564130.bild.html",
-      "image_title": "Germanwings-Absturz: Kein Lufthansa-Geld für Hinterbliebene von Getöteten"
-    },
-    {
-      "title": "Geisterwald vom Peenetal : Das ist das Geheimnis vom Gruselwald vor Usedom",
-      "teaser": "Direkt an der Touristen-Strecke B 110 ragen hunderte Baum-Ruinen aus dem Wasser.",
-      "url": "https://www.bild.de/bild-plus/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/kurz-vor-usedom-der-geisterwald-vom-peenetal-80558338.bild.html",
-      "image_title": "Kurz vor Usedom: Der Geisterwald vom Peenetal"
-    },
-    {
-      "title": "Querdenker wollte sich absetzen : Michael Ballweg in U-Haft!",
-      "teaser": "Polizisten haben am Mittwoch den „Querdenken“-Gründer in Stuttgart festgenommen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/querdenker-unter-betrugs-verdacht-haftbefehl-gegen-michael-ballweg-80550684.bild.html",
-      "image_title": "Querdenker wollte sich absetzen: Michael Ballweg in U-Haft!"
-    },
-    {
-      "title": "Überreste von mehreren Menschen : Knochen an Knast-Mauer bei JVA Torgau entdeckt",
-      "teaser": "Die Knochen sollen Gebeine von mehreren Menschen sein, so die Gerichtsmediziner.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/ueberreste-von-mehreren-menschen-menschliche-knochen-an-jva-torgau-gefunden-80559842.bild.html",
-      "image_title": "JVA Torgau: Menschliche Knochen bei Bauarbeiten gefunden"
-    },
-    {
-      "title": "Erstes schwules Ehepaar erinnert sich : „Wir haben Geschichte geschrieben“",
-      "teaser": "37 Jahre gingen sie Seite an Seite durchs Leben – und durften nicht heiraten. Bis 2017.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/fuenf-jahre-ehe-fuer-alle-sie-sind-deutschlands-erstes-schwules-ehepaar-80552972.bild.html",
-      "image_title": "Fünf Jahre Ehe für alle: Deutschlands erstes schwules Hochzeitspaar erinnert sich ans Jawort"
-    },
-    {
-      "title": "KOMMISSAR IM ZEUGENSTAND : Es war klar: „Wir können nicht mehr helfen“",
-      "teaser": "Zwei Kollegen der ermordeten Polizisten machen vor dem Landgericht erschütternde Aussagen.",
-      "url": "https://www.bild.de/regional/saarland/frankfurt-aktuell/prozess-um-polizisten-mord-streifenkollege-das-blut-lief-die-strasse-hinunter-80522808.bild.html",
-      "image_title": "Polizisten-Mord - Streifenkollege: „Blick reichte, zu wissen, wir können nicht mehr helfen“"
-    },
-    {
-      "title": "Experten-Kommission : Entschuldigung für manche Corona-Maßnahmen?",
-      "url": "https://www.bild.de/video/clip/video/experten-kommission-koennen-wir-auf-eine-entschuldigung-fuer-manche-corona-massn-80571804,auto=true.bild.html",
-      "image_title": "Experten-Kommission: Entschuldigung für manche Corona-Maßnahmen?"
-    },
-    {
-      "title": "Frank Ochse : „Dieses Flughafen-Chaos ist eine Schande!“",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/das-chaos-an-den-flughaefen-ist-eine-schande-fuer-deutschland-80555292,auto=true.bild.html",
-      "image_title": "Das Chaos an den Flughäfen ist eine Schande für Deutschland!"
-    },
-    {
-      "title": "Augenzeuge der Horror-Tat in Bonn : „Ich dachte zunächst an einen Teddybär“",
-      "url": "https://www.bild.de/video/clip/video/augenzeuge-der-horror-tat-in-bonn-ich-dachte-zunaechst-an-einen-teddybaer-80547350,auto=true.bild.html",
-      "image_title": "Augenzeuge der Horror-Tat in Bonn: „Ich dachte zunächst an einen Teddybär“"
-    }
-  ]
+  "articles": []
 }
