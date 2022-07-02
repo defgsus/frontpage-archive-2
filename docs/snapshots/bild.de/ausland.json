@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-02T04:02:17",
+  "timestamp": "2022-07-02T05:21:32",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Sie war nur 1,50 Meter tief im Wasser : Hai beißt Teenager in Florida Bein ab",
-      "url": "https://www.bild.de/news/ausland/news-ausland/sie-war-nur-1-50-meter-tief-im-wasser-hai-beisst-teenager-in-florida-bein-ab-80578448.bild.html",
-      "image_url": "https://images.bild.de/62bf703fe76cc679c115d5c1/30c7df5a877c99115c5879f0ceee99ab-square,52526b9?w=656",
-      "image_title": "Sie war nur 1,50 Meter tief im Wasser: Hai beißt Teenager in Florida Bein ab"
-    },
-    {
-      "title": "Um auf Bewährung rauszukommen : Pistorius trifft Vater von ermordeter Freundin († 29)",
-      "url": "https://www.bild.de/news/ausland/news-ausland/oscar-pistorius-treffen-mit-dem-vater-seiner-ermordeten-freundin-29-80443676.bild.html",
-      "image_url": "https://images.bild.de/62aec2f7a0715e4853732e5f/f5fa9e52233b9893fc55aea94ccdaf4c,831bd197?w=320",
-      "image_title": "Oscar Pistorius: Treffen mit dem Vater seiner ermordeten Freundin (†29)"
-    },
-    {
-      "title": "Viermal an einem Tag : Australierin (45) soll Teenie (14) vergewaltigt haben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/australien-frau-45-soll-teenie-14-viermal-an-einem-tag-vergewaltigt-haben-80574566.bild.html",
-      "image_url": "https://images.bild.de/62bf008e4fea3f4da27c78d4/7f4163ec166fa007ffc427bf83005b05,173ef4dc?w=320",
-      "image_title": "Australien: Frau (45) soll Teenie (14) viermal an einem Tag vergewaltigt haben"
-    },
-    {
-      "title": "Er hatte ein Millionen-Publikum : Krebs! Youtuber mit nur 23 Jahren gestorben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/technoblade-krebs-youtuber-mit-nur-23-jahren-gestorben-80574696.bild.html",
-      "image_url": "https://images.bild.de/62bf04112596fd328121e4ed/949612d8afe9fbb675e363129195997e,60d2bfeb?w=320",
-      "image_title": "Technoblade: Krebs! Youtuber mit nur 23 Jahren gestorben"
-    },
-    {
-      "title": "Wieder Streik-Alarm auf der Insel : An Mallorcas Stränden droht Badeverbot!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-es-droht-an-den-straenden-badeverbot-wegen-streiks-80570358.bild.html",
-      "image_url": "https://images.bild.de/62bebf3b2596fd328121e421/b1fa4e941c550a7f6a6179479d65d0a0,37dc1a79?w=320",
-      "image_title": "Mallorca: Es droht an den Stränden Badeverbot wegen Streiks!"
-    },
-    {
-      "title": "Nestlé gehört zu den Kunden : Salmonellen! Größte Schoko-Fabrik der Welt dicht",
-      "teaser": "Schon wieder Salmonellen in einem Schokoladen-Werk, schon wieder in Belgien.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/belgien-salmonellen-groesste-schoko-fabrik-der-welt-dicht-80562442.bild.html",
-      "image_title": "Belgien: Salmonellen! Größte Schoko-Fabrik der Welt dicht"
-    },
-    {
-      "title": "53 Migranten gestorben : Vier Festnahmen nach Horror-Fund in Texas",
-      "teaser": "Vier Männer wurden festgenommen, nachdem 53 Menschen in einem Lkw in Texas gestorben waren.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/texas-migranten-in-lkw-tot-aufgefunden-vier-maenner-festgenommen-80560190.bild.html",
-      "image_title": "Texas: Migranten in Lkw tot aufgefunden – vier Männer festgenommen"
-    },
-    {
-      "title": "Hells-Angels-Gründer : Sonny Barger im Alter von 83 Jahren gestorben",
-      "teaser": "Ralph „Sonny“ Barger ist am Mittwochabend im Alter von 83 Jahren gestorben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ralph-sonny-barger-hells-angels-gruender-im-alter-von-83-jahren-gestorben-80560954.bild.html",
-      "image_title": "Ralph „Sonny“ Barger: Hells-Angels-Gründer im Alter von 83 Jahren gestorben"
-    },
-    {
-      "title": "Toter, Verletzte bei Österreich-Unwetter : „In 4 Stunden so viel Regen wie im gesamten Juni“",
-      "teaser": "Unwetter-Drama in Österreich: Heftige Regen lösten Erdrutsche und Überschwemmungen aus.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unwetter-in-kaernten-oesterreich-in-vier-stunden-so-viel-regen-wie-im-ganzen-jun-80556966.bild.html",
-      "image_title": "Unwetter in Kärnten (Österreich): „In vier Stunden so viel Regen wie im ganzen Juni“"
-    },
-    {
-      "title": "„Woody“ Williams war der letzte seiner Art : Amerika trauert um legendären Veteran",
-      "teaser": "Ein Mann, der sein Leben riskierte, um die Welt von Tyrannei und Diktatur zu befreien.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/medal-of-honor-amerika-trauert-um-legendaeren-veteran-woody-williams-80555338.bild.html",
-      "image_title": "Medal of Honor: Amerika trauert um legendären Veteran „Woody“ Williams"
-    },
-    {
-      "title": "Gewitter, reißende Bäche, Erdrutsche : Schwere Unwetter in Österreich - 1 Toter!",
-      "teaser": "Unwetter in Kärnten haben ganze Ortschaften verwüstet. Ein Toter, mehrere Vermisste.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/schwere-unwetter-in-oesterreich-1-toter-mehrere-vermisste-80550776.bild.html",
-      "image_title": "Schwere Unwetter in Österreich: 1 Toter, mehrere Vermisste"
-    },
-    {
-      "title": "Bataclan-Anschlag im Jahr 2015 : Lebenslang für ISIS-Attentäter von Paris!",
-      "teaser": "Der ISIS-Attentäter muss lebenslang ins Gefängnis! Dieses Urteil wurde vor einem Schwurgericht in Paris gefällt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bataclan-anschlag-im-jahr-2015-lebenslang-fuer-isis-attentaeter-von-paris-80544906.bild.html",
-      "image_title": "Bataclan-Anschlag im Jahr 2015: Lebenslang für ISIS-Attentäter"
-    },
-    {
-      "title": "Horror-Fund in Texas : Arbeiter hörte Hilfeschreie und entdeckte 46 Tote",
-      "teaser": "Horror-Fund in einem Truck in Texas. In einem Lastwagen in dem US-Bundesstaat sind 46 T...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/horror-fund-in-texas-mindestens-42-tote-in-truck-entdeckt-80533930.bild.html",
-      "image_title": "Horror-Fund in Texas: Arbeiter hörte Hilfeschreie und entdeckte 46 Tote"
-    },
-    {
-      "title": "Bataclan-Anschlag im Jahr 2015 : Lebenslang für ISIS-Attentäter von Paris!",
-      "teaser": "Salah Abdeslam (32) tötete mit neun Komplizen 130 Menschen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/isis-anschlag-in-paris-lebenslang-fuer-bataclan-attentaeter-salah-abdeslam-80554680.bild.html",
-      "image_title": "ISIS-Anschlag in Paris: Lebenslang für Bataclan-Attentäter Salah Abdeslam"
-    },
-    {
-      "title": "Todkranke BBC-Moderatorin bewegte Millionen : Deborah James (†40) ist friedlich eingeschlafen",
-      "teaser": "Ihr Schicksal und Leiden bewegte viele Menschen. Nun ist BBC-Moderatorin Deborah James an ihrer Krebserkrankung gestorben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/todkranke-bbc-moderatorin-bewegte-millionen-deborah-james-40-ist-friedlich-einge-80544490.bild.html",
-      "image_title": "Deborah James (†40) gestorben: Todkranke BBC-Moderatorin friedlich eingeschlafen"
-    },
-    {
-      "title": "Kennen Sie schon Calcio Storico? : BILD beim brutalsten Sport-Turnier der Welt",
-      "teaser": "Zum Calcio Storico treten vier Teams an. Ziel: Der Ball muss im Netz landen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/calcio-storico-in-florenz-bild-beim-brutalsten-turnier-der-welt-80534176.bild.html",
-      "image_title": "Calcio Storico in Florenz: BILD beim brutalsten Turnier der Welt"
-    },
-    {
-      "title": "In Maastricht : Bewaffneter Überfall auf Kunstmesse Tefaf",
-      "teaser": "Auf die internationale Kunstmesse Tefaf in den Niederlanden ein Überfall verübt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bewaffneter-ueberfall-auf-kunstmesse-tefaf-in-maastricht-80538162.bild.html",
-      "image_title": "Bewaffneter Überfall auf Kunstmesse \"Tefaf\" in Maastricht"
-    },
-    {
-      "title": "„Warp-Antrieb“ wie im Film : US-Forscher will Lichtgeschwindigkeit möglich machen",
-      "teaser": "Wie Science Fiction: In drei Minuten zum Mars, in vier Jahren zum nächsten Sonnensystem.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/us-forscher-will-warp-antrieb-moeglich-machen-80528082.bild.html",
-      "image_title": "US-Forscher will \"Warp\"-Antrieb möglich machen"
-    },
-    {
-      "title": "Julia stoppte den Attentäter : Die Heldin von Oslo",
-      "teaser": "Als sie die Schüsse hörte, rannte sie nicht weg, sondern los.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/terror-in-oslo-helden-tuersteherin-stoppte-den-attentaeter-80532880.bild.html",
-      "image_title": "Terror in Oslo: Helden-Türsteherin stoppte den Attentäter"
-    },
-    {
-      "title": "Drama in Florida : Junge (8) erschießt mit Waffe des Vaters Mädchen (1)",
-      "teaser": "Weil ein Vater seine Waffe nicht ordentlich sicherte, wurde ein Mädchen angeschossen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/drama-in-florida-junge-8-erschiesst-mit-waffe-des-vaters-maedchen-1-80533896.bild.html",
-      "image_title": "Drama in Florida (USA): Junge (8) erschießt mit Waffe des Vaters Mädchen (1)"
-    },
-    {
-      "title": "Drei Tote in den USA : Zug mit 200 Passagieren entgleist und umgekippt",
-      "teaser": "Unglück im US-Bundesstaat Missouri: Ein Zug entgleiste, Waggons kippten um.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/us-bundesstaat-missouri-zug-mit-200-passagieren-entgleist-und-umgekippt-80533358.bild.html",
-      "image_title": "USA: Zug mit 200 Passagen entgleist, 3 Tote"
-    },
-    {
-      "title": "Russen-Politiker : SEINE Wohnungen hat die Justiz konfisziert",
-      "teaser": "Die Staatsanwaltschaft kassierte drei Wohnungen diesesRussen-Politikers ein.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-regional-politik-und-wirtschaft/diesem-russen-politiker-gehoerten-beschlagnahmte-wohnungen-in-muenchen-80478666.bild.html",
-      "image_title": "Diesem Russen-Politiker gehörten beschlagnahmte Wohnungen in München"
-    },
-    {
-      "title": "Neue Spur führt in die SChweiz : Jagd nach den Nazi-Milliarden",
-      "teaser": "Stoff wie aus einem Thriller: Liegt seit 78 Jahren ein Nazi-Schatz auf geheimen Konto?",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/milliarden-schatz-fuehren-diese-papiere-zu-einem-nazi-geheimkonto-80519052.bild.html",
-      "image_title": "Milliarden-Schatz: Führen diese Papiere zu einem Nazi-Geheimkonto?"
-    },
-    {
-      "title": "In den USA : Helden-Papa rettet seine Kinder vor dem Feuer-Tod",
-      "teaser": "Las Vegas – Gefangen in einem brennenden Bus. Ihr einziger Fluchtweg führt durch eine F...",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/familie-vor-dem-verbrennen-gerettet-vater-courage-und-seine-kinder-80519618.bild.html",
-      "image_title": "Familie vor dem Verbrennen gerettet: Vater Courage und seine Kinder"
-    },
-    {
-      "title": "Fetter Fang : Hier zappelt was Großes im Netz",
-      "url": "https://www.bild.de/video/clip/video/fetter-fang-hier-zappelt-was-grosses-im-netz-jampress-80549336,auto=true.bild.html",
-      "image_title": "Fetter Fang: Hier zappelt was Großes im Netz"
-    },
-    {
-      "title": "Schock vor Alaska : Kreuzfahrtschiff rammt Eisberg",
-      "url": "https://www.bild.de/video/clip/video/norwegian-sun-kreuzfahrtschiff-rammt-eisberg-vor-alaska-80577662,auto=true.bild.html",
-      "image_title": "„Norwegian Sun“: Kreuzfahrtschiff rammt Eisberg vor Alaska"
-    },
-    {
-      "title": "Freudentanz endet schmerzhaft : Gaul mit fiesem Tanz-Foul",
-      "url": "https://www.bild.de/video/clip/video/freudentanz-endet-schmerzhaft-gaul-mit-fiesem-tanz-foul-80575228,auto=true.bild.html",
-      "image_title": "Freudentanz endet schmerzhaft: Gaul mit fiesem Tanz-Foul"
-    }
-  ]
+  "articles": []
 }
