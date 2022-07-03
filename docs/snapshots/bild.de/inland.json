@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-03T16:28:19",
+  "timestamp": "2022-07-03T17:20:08",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Familie auf Mallorca abgezockt! : So fanden die Deutschen spontan eine neue Bleibe",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/mit-fake-finca-auf-mallorca-abgezockt-bild-half-gestrandeter-familie-80587146.bild.html",
-      "image_url": "https://images.bild.de/62c18459c016196b8bf28630/40d0747216f1819fd9c6bfaf4418bc03,3e7b6252?w=656",
-      "image_title": "Mit Fake-Finca auf Mallorca abgezockt: BILD half gestrandeter Familie"
-    },
-    {
-      "title": "Festung in Berlin : Polizei baut Super-Knast für Clan-Karren!",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/berlin-polizei-baut-super-knast-fuer-clan-autos-80587194.bild.html",
-      "image_url": "https://images.bild.de/62c17defc016196b8bf28628/c1838c8f9698266aad61420592e8ff2b,37b06ed8?w=320",
-      "image_title": "Berlin: Polizei baut Super-Knast für Clan-Autos!"
-    },
-    {
-      "title": "Ihr Boxer zahlt die Miete : Lisa (31) kündigte Top-Job, weil ihr Hund Insta-Star ist!",
-      "url": "https://www.bild.de/news/inland/bremen-aktuell/ihr-boxer-zahlt-die-miete-lisa-31-kuendigte-top-job-weil-ihr-hund-instagram-star-80571640.bild.html",
-      "image_url": "https://images.bild.de/62bed6232596fd328121e45c/5c9e5599d8deb626644dd8635fea29e8,1c2651ad?w=320",
-      "image_title": "Hund zahlt die Miete: Lisa kündigte Top-Job, weil ihr Boxer Instagram-Star ist!"
-    },
-    {
-      "title": "Protest-Parade zieht durch Köln : Deutschland feiert bisher größten CSD",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/protest-parade-zieht-durch-koeln-deutschland-feiert-bisher-groessten-csd-80571418.bild.html",
-      "image_url": "https://images.bild.de/62becf90e76cc679c115d499/d38278549ceed6120829372422a4ce63,4ff7ad5b?w=320",
-      "image_title": "Protest-Parade zieht durch Köln: Deutschland feiert bisher größten CSD"
-    },
-    {
-      "title": "Polizei sucht Täter : 21 Verletzte nach Reizgas-Attacke bei Dorffest in Sachsen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-reizgas-attacke-bei-dorffest-21-verletzte-80586566.bild.html",
-      "image_title": "Sachsen: Reizgas-Attacke bei Dorffest – 21 Verletzte"
-    },
-    {
-      "title": "BILD und Promis feiern mit : Kölner CSD-Parade größer denn je!",
-      "teaser": "Diesen Sonntag feiert Köln ab 12 Uhr Deutschlands größte Pride-Parade.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/csd-2022-in-koeln-parade-groesser-denn-je-diese-promis-sind-dabei-80545548.bild.html",
-      "image_title": "CSD 2022 in Köln: Pride-Parade größer denn je und mit diesen Promis!"
-    },
-    {
-      "title": "Gigantisches Wasserbecken : Karls Erdbeerdorf hat größten Regenspeicher",
-      "teaser": "Wenn die Erde auf den Nachbarfeldern längst Staub ist, ist bei Erdbeerbauer Robert Dahl (51, „Karl's“) schönste Erntezeit.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/leipzig-news/erlebnisdorf-roevershagen-hat-deutschlands-groesstes-regenspeicherbecken-80585842.bild.html",
-      "image_title": "Erlebnisdorf: Rövershagen hat Deutschlands größtes Regenspeicherbecken"
-    },
-    {
-      "title": "Retter zogen ihn aus See : Schwimmer (30) stirbt nach Bade-Drama in Berlin",
-      "teaser": "Wieder ein schwerer Badeunfall in Berlin, diesmal im Schlachtensee.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/schwimmer-kaempft-nach-bade-drama-in-berliner-see-um-sein-leben-80584432.bild.html",
-      "image_title": "Berlin: Schwimmer (30) stirbt nach Bade-Unfall in See"
-    },
-    {
-      "title": "Mit Abschleppseil : Polizei bindet ausgerissene Kuh an Straßenschild",
-      "teaser": "Sie war in der Nacht ausgerissen. Polizisten fanden sie und banden sie fest.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/abschleppseil-polizei-bindet-ausgerissene-kuh-an-strassenschild-80584648.bild.html",
-      "image_title": "Tirschenreuth (Bayern): Polizei bindet ausgerissene Kuh an Straßenschild"
-    },
-    {
-      "title": "Deutsche Familie abgezockt : Urlaubs-Schock auf Mallorca!",
-      "teaser": "Familie Reusch buchte Urlaub auf Mallorca. Doch ihre gebuchte Unterkunft existiert nicht.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/urlaubs-schock-auf-mallorca-deutsche-familie-mit-fake-finca-abgezockt-80581602.bild.html",
-      "image_title": "Urlaubs-Schock auf Mallorca: Deutsche Familie mit Fake-Finca abgezockt"
-    },
-    {
-      "title": "Schwerer Unfall in Apolda : Mann (53) von Auto überrollt - lebensgefährlich verletzt",
-      "teaser": "Ein 53-Jähriger wurde in Apolda von einem Auto überrollt und lebensgefährlich verletzt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-mann-53-in-apolda-von-auto-ueberrollt-80585364.bild.html",
-      "image_title": "Unfall: Mann (53) in Apolda von Auto überrollt"
-    },
-    {
-      "title": "Qualm bis Bayern zu sehen : Hier ist eine Shishabar abgeraucht",
-      "teaser": "Im Hessen und Unterfranken sorgte ein Feuer in der Bar „Schall & Rauch“ für Großalarm.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/qualm-bis-bayern-zu-sehen-hier-ist-eine-shishabar-abgeraucht-80584380.bild.html",
-      "image_title": "Qualm bis Bayern zu sehen: Hier ist eine Shishabar abgeraucht"
-    },
-    {
-      "title": "Carina (17) wurde ermordet, die Leiche angezündet : Die Hundelüge des Ex-Freunds",
-      "teaser": "„Ich rechne immer noch damit, dass sie jeden Moment zur Tür reinkommt“, sagt Christine ...",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/news-inland/carina-17-wurde-ermordet-die-leiche-angezuendet-die-hundeluege-des-ex-freunds-80581620.bild.html",
-      "image_title": "Carina (17) wurde ermordet, die Leiche angezündet: Die Hundelüge des Ex-Freunds"
-    },
-    {
-      "title": "Zahnarztsohn vor Gericht : Wurde Max D. (20) für Geld zum Kopfschuss-Killer?",
-      "teaser": "Er soll den 19-jährigen Jesse L. per Kopfschuss hingerichtet haben.",
-      "url": "https://www.bild.de/bild-plus/news/inland/leipzig-news/leipzig-fall-jesse-19-wurde-max-d-fuer-geld-zum-kopfschuss-killer-80571438.bild.html",
-      "image_title": "Fall Jesse (†19) vor Gericht: Wurde Max D. für Geld zum Killer?"
-    },
-    {
-      "title": "Schwerer Unfall bei Berlin : Smart-Fahrerin kracht gegen Alleebaum und stirbt",
-      "teaser": "Am Sonntagmorgen ereignete sich kurz hinter der Berliner Landesgrenze ein schwerer Unfall.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/unfall-bei-berlin-smart-fahrerin-kracht-gegen-alleebaum-und-stirbt-80584436.bild.html",
-      "image_title": "Unfall bei Berlin: Smart-Fahrerin kracht gegen Alleebaum und stirbt"
-    },
-    {
-      "title": "Unfall auf B 71 : Vater (44) und Sohn (5) sterben bei Horror-Crash",
-      "teaser": "Bei einem schweren Unfall sind auf der B 71 nahe Magdeburg ein 44-jähriger Mercedes-Fahrer und sein 5-jähriger Sohn tödlich verunglückt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-auf-b-71-vater-44-und-sohn-5-sterben-bei-horror-crash-80584710.bild.html",
-      "image_title": "Unfall auf B 71: Vater (44) und Sohn (5) sterben bei Horror-Crash"
-    },
-    {
-      "title": "Feuer-Unfall in Nordhessen : 3er-BMW an Baum zerschellt – Fahrer (20) tot",
-      "teaser": "Auf einer Kreisstraße in Nordhessen verlor der junge Mann die Kontrolle über sein Auto.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/feuer-unfall-bmw-an-baum-zerschellt-fahrer-20-tot-80584822.bild.html",
-      "image_title": "Feuer-Unfall: BMW an Baum zerschellt – Fahrer (20) tot"
-    },
-    {
-      "title": "Tödliches Überholmanöver : Tod nach Fahrerflucht – Frau (76) stirbt!",
-      "teaser": "Horror-Crash! Eine 76-Jährige musste sterben, weil eine Fahrerin trotz Verbot überholte.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/verbotenes-ueberholmanoever-unschuldige-frau-stirbt-noch-an-unfallort-80581552.bild.html",
-      "image_title": "Unfall: Verbotenes Überholmanöver endet tödlich"
-    },
-    {
-      "title": "Rentnerin tot im Auto : Lauerte Ihr Killer bei Facebook?",
-      "teaser": "Unser BILD am SONNTAG-Reporter stieß auf eine mögliche Spur, die der Mordkommission bis dahin nicht bekannt war.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/rentnerin-tot-im-kofferraum-lauerte-ihr-killer-bei-facebook-80581586.bild.html",
-      "image_title": "Rentnerin tot im Kofferraum: Lauerte Ihr Killer bei Facebook?"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "teaser": "10 Mio € Lotto-Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 2. Juli 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-und-gewinnquoten-vom-2-juli-80546504.bild.html",
-      "image_title": "Lotto am Samstag: Die Lottozahlen und Gewinnquoten vom 2. Juli"
-    },
-    {
-      "title": "Drei verletzte Erntehelfer : Massenschlägerei auf Karls Erdbeerhof",
-      "teaser": "Tatort: Karls Erdbeerhof! Am Freitag kam es unter etwa 100 Erntehelfer zu einer Prügelei.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/massenschlaegerei-auf-karls-erdbeerhof-drei-erntehelfer-in-klinik-80579330.bild.html",
-      "image_title": "Rövershagen: Massenschlägerei auf Karls Erdbeerhof: Drei Erntehelfer verletzt"
-    },
-    {
-      "title": "Haus nicht mehr bewohnbar : Mutter (35) und Sohn (12) bei Feuer verletzt",
-      "teaser": "Flammen-Drama! Bei einem Feuer in einem Wohnhaus wurde eine Mutter und ihr Sohn verletzt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/brand-mutter-und-sohn-bei-feuer-in-trebendorf-verletzt-80580158.bild.html",
-      "image_title": "Brand: Mutter und Sohn bei Feuer in Trebendorf verletzt"
-    },
-    {
-      "title": "Kurioser Streit beendet : Die Mauer in Erfurt ist weg!",
-      "teaser": "Zwei Stunden dauerte es, die für Unmut sorgende Mauer an der Vilnius-Passage abzureißen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/die-mauer-wird-abgerissen-streit-um-durchfahrt-in-erfurt-beendet-80580032.bild.html",
-      "image_title": "Die Mauer wird abgerissen: Streit um Durchfahrt in Erfurt beendet"
-    },
-    {
-      "title": "Schaden in Millionenhöhe : Feuer in Europas größtem Zellstoffwerk brennt noch",
-      "teaser": "Die Rauchsäulen waren am Freitag kilometerweit zu sehen! Und noch immer lodert das Feuer.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/zellstoffwerk-mercer-stendal-feuer-bei-arneburg-brennt-noch-immer-80579112.bild.html",
-      "image_title": "Zellstoffwerk Mercer Stendal: Feuer bei Arneburg brennt noch immer"
-    },
-    {
-      "title": "Experten-Kommission : Entschuldigung für manche Corona-Maßnahmen?",
-      "url": "https://www.bild.de/video/clip/video/experten-kommission-koennen-wir-auf-eine-entschuldigung-fuer-manche-corona-massn-80571804,auto=true.bild.html",
-      "image_title": "Experten-Kommission: Entschuldigung für manche Corona-Maßnahmen?"
-    },
-    {
-      "title": "Frank Ochse : „Dieses Flughafen-Chaos ist eine Schande!“",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/das-chaos-an-den-flughaefen-ist-eine-schande-fuer-deutschland-80555292,auto=true.bild.html",
-      "image_title": "Das Chaos an den Flughäfen ist eine Schande für Deutschland!"
-    },
-    {
-      "title": "Augenzeuge der Horror-Tat in Bonn : „Ich dachte zunächst an einen Teddybär“",
-      "url": "https://www.bild.de/video/clip/video/augenzeuge-der-horror-tat-in-bonn-ich-dachte-zunaechst-an-einen-teddybaer-80547350,auto=true.bild.html",
-      "image_title": "Augenzeuge der Horror-Tat in Bonn: „Ich dachte zunächst an einen Teddybär“"
-    }
-  ]
+  "articles": []
 }
