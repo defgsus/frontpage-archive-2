@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-07-04T07:19:46",
+  "timestamp": "2022-07-04T08:28:53",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,46 +25,218 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "„Das perfekte Promi Dinner“ mit Danni Büchner : „F****!“ Heftige Beleidigungen hinter den Kulissen",
+      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/das-perfekte-promi-dinner-mit-danni-buechner-und-lisha-riesiger-zoff-hinter-den-80586506.bild.html",
+      "image_url": "https://images.bild.de/62c1738d1642246ab3fd7eb4/b64785ef470969843ad6d871b6f7b263,71695b7e?w=656",
+      "image_title": "„Das perfekte Promi Dinner“ mit Danni Büchner und Lisha: Riesiger Zoff hinter den Kulissen!"
+    },
+    {
+      "title": "HAMMERWERFEN bei „Schlag den Star“- : Robin Gosens verfehlt Kameramann nur knapp",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/schlag-den-star-robin-gosens-verfehlt-kameramann-nur-knapp-80584220.bild.html",
+      "image_url": "https://images.bild.de/62c0d848e76cc679c115d730/5a7a77f049e4c1a3520ef1dfd9987258,b6141934?w=320",
+      "image_title": "„Schlag den Star“: Robin Gosens verfehlt Kameramann nur knapp"
+    },
+    {
+      "title": "Neue RTL-Show „Ich setz auf Dich“ : Auch ER kann die „Wetten, dass..?“-Kopie nicht retten",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/ich-setz-auf-dich-auch-er-kann-wetten-dass-kopie-nicht-retten-80583354.bild.html",
+      "image_url": "https://images.bild.de/62c096ddddf2e478e4d4dff7/13d2565926274111d3f40486d6d1e26f,d5bb1e5?w=320",
+      "image_title": "„Ich setz auf Dich“: Auch ER kann „Wetten, dass..?“-Kopie nicht retten"
+    },
+    {
+      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-top-10-die-zehn-beliebtesten-filme-serien-fuers-wochenende-80570418.bild.html",
+      "image_url": "https://images.bild.de/62bec02e4fea3f4da27c782a/28ad1dff9217e566beb284dab29ad3f9-miniSquare,1f6b9b66?w=320",
+      "image_title": "Netflix Top 10: Die zehn beliebtesten Filme & Serien fürs Wochenende!"
+    },
+    {
+      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80570428.bild.html",
+      "image_url": "https://images.bild.de/62bec032f92cab01ce0118ac/7cdde92a2eff359481d87c9d5a2fdf8f-miniSquare,a4215088?w=320",
+      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende"
+    },
+    {
+      "title": "Am Freitag, den 1. Juli 2022 : Alle Infos über den Tatort am Freitag",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-diese-ludwigshafen-folge-mit-odenthal-und-stern-sehen-sie-heute-80535664.bild.html",
+      "image_title": "Tatort heute: Diese Ludwigshafen-Folge mit Odenthal und Stern sehen Sie heute"
+    },
+    {
+      "title": "„Bachelorette“ kann nicht widerstehen : Heimliche Küsse am Pool!",
+      "teaser": "Ausgerechnet in der Männer-Villa kommt es zu einer heißen Begegnung ...",
+      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bachelorette-sharon-heimliche-kuesse-am-pool-80568402.bild.html",
+      "image_title": "„Bachelorette“ Sharon: Heimliche Küsse am Pool!"
+    },
+    {
+      "title": "Tatort Ludwigshafen : Alles über die Kommissarinnen Odenthal und Stern",
+      "teaser": "Lena Odenthal & Johanna Stern ermitteln gemeinsam in Ludwigshafen. Alles über den Tatort.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-ludwigshafen-alles-ueber-die-kommissarinnen-odenthal-und-stern-80256618.bild.html",
+      "image_title": "Tatort Ludwigshafen: Das sind die Kommissarinnen Odenthal und Stern"
+    },
+    {
+      "title": "Tatort Köln : Alle Infos zum Ermittler-Team Ballauf und Schenk",
+      "teaser": "Die Hauptkommissare Max Ballauf und Freddy Schenk ermitteln Fälle im Kölner-Tatort",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-koeln-alle-infos-zum-krimi-mit-dietmar-baer-und-klaus-j-behrendt-80038902.bild.html",
+      "image_title": "Tatort Köln: SO sind die Krimi-Charaktere von Dietmar Bär und Klaus J. Behrendt"
+    },
+    {
+      "title": "Regeln & Kandidaten : Alle Infos zu „Das Große Promi-Büßen“!",
+      "teaser": "Die Regeln der neuen ProSieben-Show und wer alles mitmacht erfahren Sie bei BILD!",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/das-grosse-promi-buessen-diese-prominenten-kandidaten-sind-dabei-80486916.bild.html",
+      "image_title": "„Das Große Promi-Büßen“: Diese Prominenten-Kandidaten sind dabei"
+    },
+    {
+      "title": "Tatort : Alle Schauplätze und Ermittler",
+      "teaser": "Schon seit 1970 gibt es den Tatort. Wer aktuell die Ermittler sind und wo sie arbeiten .",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-alle-schauplaetze-und-alle-ermittler-im-ueberblick-79973860.bild.html",
+      "image_title": "Tatort: Alle Schauplätze und alle Ermittler der Krimi-Reihe"
+    },
+    {
+      "title": "Der Tatort : Alles über die längste Krimi-Reihe Deutschlands",
+      "teaser": "Sonntagsabends läuft in vielen Wohnzimmern der Tatort. Alle Infos zu der Krimi-Reihe lesen Sie hier.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-das-ist-die-aelteste-krimi-reihe-deutschlands-80116206.bild.html",
+      "image_title": "Tatort: Alles über die längste Krimi-Reihe Deutschlands"
+    },
+    {
+      "title": "Eklat im „Club der guten Laune“-Finale : Bei DIESEM Anblick platzte Cora der Kragen",
+      "teaser": "DIESES Promi-Liebes-Dreieck endet in einem echten Eifersucht-Drama.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/club-der-guten-laune-cora-schumacher-beschimpft-jenny-elvers-80550034.bild.html",
+      "image_title": "„Club der guten Laune“: Cora Schumacher beschimpft Jenny Elvers"
+    },
+    {
+      "title": "Familie Katzenberger in Griechenland : Bei diesem Wiedersehen flossen Tränen",
+      "teaser": "Daniela befürchtet: „Es könnte Lucas emotional zerstören.“",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/daniela-katzenberger-bei-diesem-wiedersehen-flossen-traenen-80556070.bild.html",
+      "image_title": "Daniela Katzenberger: Bei diesem Wiedersehen flossen Tränen"
+    },
+    {
+      "title": "Quickie-Talk : Drei-Minuten-Sex? Für die „Bachelorette“ kein Problem",
+      "teaser": "In Folge drei fühlte der Bachelorette ein Kandidat ganz unkonventionell auf den Zahn.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/sex-talk-mit-der-bachelorette-stehst-du-auf-verbotene-sachen-80555262.bild.html",
+      "image_title": "Sex-Talk mit der „Bachelorette“: „Stehst du auf verbotene Sachen?“"
+    },
+    {
+      "title": "„Turmspringen“-Opfer Stephen Dürr : „Lieber ein Ei verloren als Titanplatte im Hals“",
+      "teaser": "Beim Turmspringen verlor Thorsten Legat einen Hoden. Auch Stephen Dürr verletzte sich.",
+      "url": "https://www.bild.de/unterhaltung/leute/leute/thorsten-legat-verlor-hoden-auch-stephen-duerr-ist-turmspringen-opfer-80538624.bild.html",
+      "image_title": "Thorsten Legat verlor Hoden: Auch Stephen Dürr verletzte sich beim „Turmspringen“ schwer"
+    },
+    {
+      "title": "„Die Bachelorette“ : Diese Männer kämpfen um das Herz von Sharon Battiste",
+      "teaser": "Lesen Sie hier ALLES über die Männer, die das Herz von Bachelorette Sharon erobern wollen!",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/die-bachelorette-diese-maenner-kaempfen-um-das-herz-von-sharon-battiste-80530166.bild.html",
+      "image_title": "„Die Bachelorette“: Diese Männer kämpfen um das Herz von Sharon Battiste"
+    },
+    {
+      "title": "Es gibt sogar eine Bagger-Wette! : So dreist kopiert RTL jetzt „Wetten, dass..?“",
+      "teaser": "Eine neue RTL-Show setzt auf Bagger, Außenwetten und typische Gottschalk-Gesten ...",
+      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/es-gibt-sogar-eine-bagger-wette-so-dreist-kopiert-rtl-jetzt-wetten-dass-80515516.bild.html",
+      "image_title": "So dreist kopiert RTL jetzt „Wetten, dass..?“: Es gibt sogar eine Bagger-Wette!"
+    },
+    {
+      "title": "TV-StAr Astrid M. Fünderich über ihre Ehe : Nach zwei Wochen machte er mir einen Antrag",
+      "teaser": "Seit 25 Jahren sind TV-Star Astrid M. Fünderich und ihr Mann verheiratet.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/tv-star-astrid-m-fuenderich-ueber-ihre-ehe-nach-zwei-wochen-machte-er-mir-einen-80529962.bild.html",
+      "image_title": "TV-Star Astrid M. Fünderich über ihre Ehe: Nach zwei Wochen machte er mir einen Antrag"
+    },
+    {
+      "title": "„GIPFEL DER QUIZGIGANTEN“ : DAS wiegen Jauch, Zietlow und Kerner",
+      "teaser": "3 Star-Moderatoren tauf einer Waage. Wie viel Kilogramm dabei rauskommen? Lesen Sie hier!",
+      "url": "https://www.bild.de/unterhaltung/tv/leute/gipfel-der-quizgiganten-das-wiegen-jauch-zietlow-und-kerner-80526848.bild.html",
+      "image_title": "„Gipfel der Quizgiganten“: DAS wiegen Jauch, Zietlow und Kerner"
+    },
+    {
+      "title": "Kandidaten fassungslos : Wer die Bachelorette „kurz mal angezüngelt“ hat …",
+      "teaser": "Bestürzung und Macho-Sprüche bei der Bachelorette. Was ist denn da los?!",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/bachelorette-sharon-battiste-wer-sie-kurz-mal-angezuengelt-hat-80523564.bild.html",
+      "image_title": "„Bachelorette“ Sharon Battiste: Wer sie „kurz mal angezüngelt“ hat"
+    },
+    {
+      "title": "Nicolas Puschmann verstört seine Gäste : Schlüpfer-Schock beim „Promi-Dinner“",
+      "teaser": "Schlüpfrige Wahrheiten beim Promi-Menü! Vulva-Cupcakes und Fetisch-Kleidung inklusive.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/das-perfekte-promi-dinner-nicolas-puschmann-verstoert-mit-loch-schluepfer-80517502.bild.html",
+      "image_title": "Das perfekte Promi Dinner: Nicolas Puschmann verstört mit Loch-Schlüpfer"
+    },
+    {
+      "title": "Ab dem 27. Juni : Diese Filme & Serien sind neu bei Netflix",
+      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-diese-filme-und-serien-gibt-es-ab-dem-27-juni-80499768.bild.html",
+      "image_title": "Neu auf Netflix: Diese Filme und Serien gibt es ab dem 27. Juni"
+    },
+    {
+      "title": "Ab dem 27. Juni : Diese Filme starten bei Amazon Prime",
+      "teaser": "BILD zeigt hier die neuen Filme und Serien der Woche.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-ab-dem-27-juni-80499786.bild.html",
+      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten ab dem 27. Juni"
+    },
+    {
+      "title": "Ab dem 20. Juni : Diese Filme & Serien sind neu bei Netflix",
+      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-diese-filme-und-serien-starten-ab-dem-20-juni-80408388.bild.html",
+      "image_title": "Neu auf Netflix: Diese Filme und Serien starten ab dem 20. Juni"
+    },
+    {
+      "title": "Eifersuchts-Eklat : Bei DIESEM Anblick platzt Cora der Kragen",
+      "url": "https://www.bild.de/video/clip/glomex/eifersuchts-eklat-bei-diesem-anblick-platzt-cora-der-kragen-v-cl1p6on8an21-80556420,auto=true.bild.html",
+      "image_title": "Eifersuchts-Eklat: Bei DIESEM Anblick platzt Cora der Kragen"
+    },
+    {
+      "title": "Clan terrorisiert Hauptstadt : „Berlin ist verloren!“",
+      "url": "https://www.bild.de/video/clip/video/clan-terrorisiert-hauptstadt-berlin-ist-verloren-80435024,auto=true.bild.html",
+      "image_title": "Clan terrorisiert Hauptstadt: „Berlin ist verloren!“"
+    }
+  ]
 }
