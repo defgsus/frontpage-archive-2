@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-04T09:32:02",
+  "timestamp": "2022-07-04T10:26:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Active Directory",
+      "url": "https://www.heise.de/news/CISA-empfiehlt-Installation-von-repariertem-Windows-Update-fuer-Active-Directory-7161730.html"
+    },
+    {
       "title": "Jenkins-Plug-ins",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Viele-Jenkins-Plug-ins-als-Schlupfloecher-fuer-Angreifer-7160083.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Projektverwaltung-Sicherheitsluecke-bedroht-Atlassian-Jira-jetzt-handeln-7157892.html"
     },
     {
-      "title": "Zimbra / unrar",
-      "url": "https://www.heise.de/news/Groupware-Praeparierte-E-Mails-koennten-zur-Codeausfuehrung-in-Zimbra-fuehren-7156812.html"
-    },
-    {
-      "title": "Sicher im Urlaub: Tipps für Laptop und Smartphone",
-      "teaser": "Ein kurze Liste des Bundesamt für Sicherheit in der Informationstechnik soll helfen, den Urlaub unbeschwert zu genießen. Sie lässt sich schnell umsetzen.",
-      "url": "https://www.heise.de/news/Sicher-im-Urlaub-Tipps-fuer-Laptop-und-Smartphone-7161603.html",
-      "image_title": "Aufmacher BSI-Tipps Sicher im Urlaub"
+      "title": "CISA empfiehlt Installation von repariertem Windows-Update für Active Directory",
+      "teaser": "Erst warnte die Cyber-Sicherheitsbehörde CISA vor der Installation. Nun hat sie das Update zur Absicherung von ADs wieder ins Pflichtenheft aufgenommen.",
+      "url": "https://www.heise.de/news/CISA-empfiehlt-Installation-von-repariertem-Windows-Update-fuer-Active-Directory-7161730.html",
+      "image_title": "Aufmacher CISA entfernt Patch aus Pflichtenheft und fügt ihn wieder hinzu"
     },
     {
       "title": "Facebook, Twitter, Youtube: Social-Media-Kanäle des britischen Militärs gehackt",
@@ -70,9 +70,9 @@
       "image_title": "Barrier,Gate,With,Bitcoin,Prohibition,Sign.,Cryptocurrency,Ban,Conceptual,3d"
     },
     {
-      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
-      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
-      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
+      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
+      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
+      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "Im ersten Halbjahr 2022 bereits 18 Zero-Day-Lücken ausgenutzt",
@@ -100,6 +100,12 @@
       "teaser": "Das FBI beobachtet eine Zunahme an Beschwerden über Bewerbungen mittels Deepfakes und gestohlenen persönlichen Daten. Meist gehe es um Remote-Arbeitsplätze.",
       "url": "https://www.heise.de/news/FBI-warnt-vor-Bewerbungen-mit-Deepfakes-7159706.html",
       "image_title": "Aufmacher FBI warnt vor Deepfake-Bewerbungen"
+    },
+    {
+      "title": "Microsoft-Analyse: Linux-Malware-Kampagne erhält bemerkenswertes Update",
+      "teaser": "Ein Sicherheitsteam von Microsoft hat beobachtet, dass die Malware-Gruppe \"8220 Gang\" ihre Kampagne signifikant aktualisiert hat. Im Visier: Linux-Systeme.",
+      "url": "https://www.heise.de/news/Microsoft-Bemerkenswerte-Updates-in-Linux-Malware-Kampagne-7159495.html",
+      "image_title": "Aufmacher MS meldet Bemerkenswerte Kampagnenupdates Linux-Malware-Gang"
     },
     {
       "title": "Cybersecurity-Spiel: Sich auf den Ernstfall vorbereiten",
@@ -158,12 +164,6 @@
       "image_title": "Aufmacher Zimbra/unrar-Sicherheitslücke"
     },
     {
-      "title": "Datenverwaltung: Kritische Lücke in Dell EMC PowerScale OneFS abgedichtet",
-      "teaser": "Dell EMC PowerScale OneFS zur skalierbaren Datenspeicherung und -verwaltung enthält teils kritische Sicherheitslücken. Updates sollen sie schließen.",
-      "url": "https://www.heise.de/news/Datenverwaltung-Kritische-Luecke-in-Dell-EMC-PowerScale-OneFS-abgedichtet-7156674.html",
-      "image_title": "Aufmacher Dell EMC PowerScale OneFS Sicherheitsupdate"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -185,14 +185,14 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "Re: Download ISO Images",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Download-ISO-Images/posting-41242933/show/"
+    },
+    {
       "title": "WithSecure Update funktioniert leider auch mit P3 immer noch nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/WithSecure-Update-funktioniert-leider-auch-mit-P3-immer-noch-nicht/posting-41242622/show/"
-    },
-    {
-      "title": "Re: Download ISO Images",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Download-ISO-Images/posting-41241679/show/"
     },
     {
       "title": "Re: Desinfect Download - wo ?",
