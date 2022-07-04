@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-04T02:16:29",
+  "timestamp": "2022-07-04T04:08:44",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,206 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Norditalien trocknet aus : Dürre! Verona und Pisa rationieren Trinkwasser",
-      "url": "https://www.bild.de/news/ausland/news-ausland/italien-verona-rationiert-trinkwasser-wegen-duerre-80584350.bild.html",
-      "image_url": "https://images.bild.de/62c12f97e45d6a02b1e31d16/dd8bb230edc3c65c4276a48f0b99e040,36eff038?w=320",
-      "image_title": "Italien: Verona rationiert Trinkwasser wegen Dürre"
-    },
-    {
-      "title": "Großstadt teilweise evakuiert : Sydney säuft ab!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unwetter-in-australien-sydney-saeuft-ab-teilweise-evakuiert-80586720.bild.html",
-      "image_url": "https://images.bild.de/62c178c9e76cc679c115d7f0/39415bd74331f8ffff358aad189c0d8e,8f3f2ec3?w=320",
-      "image_title": "Unwetter in Australien: Sydney säuft ab – teilweise evakuiert!"
-    },
-    {
-      "title": "Horror in New York : Junge (3) fällt aus 29. Stock – tot",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unfall-junge-3-faellt-aus-29-stock-tot-80585980.bild.html",
-      "image_url": "https://images.bild.de/62c15c6b3c13f2232bb7f3b5/4b06dce4bce57bb3e29dcbfb1fb40fbb,fc5b0972?w=320",
-      "image_title": "Unfall: Junge (3) fällt aus 29. Stock – tot"
-    },
-    {
-      "title": "Ezra (18 Monate) starb an Mangelernährung : Vegan-Mutter wegen Mord an Sohn verurteilt",
-      "teaser": "Sheila und ihr Mann lebten streng vegan. Ernährten auch so ihre Kinder. Ezra starb.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/florida-mutter-wegen-mordes-verurteilt-ihr-baby-starb-an-veganer-ernaehrung-80580198.bild.html",
-      "image_title": "Florida: Mutter wegen Mordes verurteilt – ihr Baby starb an veganer Ernährung"
-    },
-    {
-      "title": "Er tötete gefährdete Tiere : Trophäenjäger in Südafrika erschossen",
-      "teaser": "Er kam von der Straße ab, weil sein Auto überhitzt war. Dann wurde er überfallen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/suedafrika-trophaeenjaeger-in-erschossen-80578566.bild.html",
-      "image_title": "Südafrika: Trophäenjäger in erschossen"
-    },
-    {
-      "title": "Wut-Kuh-Attacke auf dem Pilgerweg : „Ich dachte, ich sterbe“",
-      "teaser": "Ehepaar M. aus Hürth wanderte auf einem Pilgerweg im Stubaital. Dann griff eine Kuh an.",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/oesterreich-wut-kuh-attacke-auf-deutsche-urlauberin-80578548.bild.html",
-      "image_title": "Österreich – Kuh-Attacke auf Pilgerweg: „Ich dachte, ich sterbe“"
-    },
-    {
-      "title": "Hai-Attacke in Florida : Addison (17) droht Bein-Amputation",
-      "teaser": "Ein Mädchen aus Florida wurde Opfer einer Hai-Attacke.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/sie-war-nur-1-50-meter-tief-im-wasser-hai-beisst-teenager-in-florida-bein-ab-80578448.bild.html",
-      "image_title": "Hai-Attacke in Florida: Addison (17) droht Bein-Amputation"
-    },
-    {
-      "title": "„Es war höchste Zeit!“ : In der Schweiz haben die ersten LGBT-Paare geheiratet",
-      "teaser": "Nun ist das gleichgeschlechtliche Ehe-Glück auch in der Alpenrepublik angekommen.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/es-war-hoechste-zeit-in-der-schweiz-haben-die-ersten-lgbt-paare-geheiratet-80579004.bild.html",
-      "image_title": "„Es war höchste Zeit!“: In der Schweiz haben die ersten LGBT-Paare geheiratet"
-    },
-    {
-      "title": "Um freizukommen : Pistorius trifft Vater von ermordeter Freundin",
-      "teaser": "Ex-Leichtathlet Oscar Pistorius hat Reeva Steenkamp erschossen, will auf Bewährung raus.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/oscar-pistorius-treffen-mit-dem-vater-seiner-ermordeten-freundin-29-80443676.bild.html",
-      "image_title": "Oscar Pistorius: Treffen mit dem Vater seiner ermordeten Freundin (†29)"
-    },
-    {
-      "title": "Viermal an einem Tag : Australierin (45) soll Teenie (14) vergewaltigt haben",
-      "teaser": "Savannah D. muss sich wegen Kindesmissbrauchs vor Gericht verantworten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/australien-frau-45-soll-teenie-14-viermal-an-einem-tag-vergewaltigt-haben-80574566.bild.html",
-      "image_title": "Australien: Frau (45) soll Teenie (14) viermal an einem Tag vergewaltigt haben"
-    },
-    {
-      "title": "Er hatte ein Millionen-Publikum : Krebs! Youtuber mit nur 23 Jahren gestorben",
-      "teaser": "Sein Vater überbrachte die Todesnachricht den elf Millionen Fans.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/technoblade-krebs-youtuber-mit-nur-23-jahren-gestorben-80574696.bild.html",
-      "image_title": "Technoblade: Krebs! Youtuber mit nur 23 Jahren gestorben"
-    },
-    {
-      "title": "Wieder Streik-Alarm auf der Insel : An Mallorcas Stränden droht Badeverbot!",
-      "teaser": "Die Rettungsschwimmer wollen am 16. Juli streiken, ein Badeverbot an Stränden droht.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-es-droht-an-den-straenden-badeverbot-wegen-streiks-80570358.bild.html",
-      "image_title": "Mallorca: Es droht an den Stränden Badeverbot wegen Streiks!"
-    },
-    {
-      "title": "Jagd auf Konto in der Schweiz : So kämpfen die Erben um die Nazi-Milliarden",
-      "teaser": "Auch die Nachkommen der Nazi-Unterstützer interessieren sich für das Geld.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/geheimnisvolles-konto-in-der-schweiz-erben-kaempfen-um-nazi-milliarden-80532278.bild.html",
-      "image_title": "Geheimnisvolles Konto in der Schweiz: Erben kämpfen um Nazi-Milliarden"
-    },
-    {
-      "title": "Nestlé gehört zu den Kunden : Salmonellen! Größte Schoko-Fabrik der Welt dicht",
-      "teaser": "Schon wieder Salmonellen in einem Schokoladen-Werk, schon wieder in Belgien.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/belgien-salmonellen-groesste-schoko-fabrik-der-welt-dicht-80562442.bild.html",
-      "image_title": "Belgien: Salmonellen! Größte Schoko-Fabrik der Welt dicht"
-    },
-    {
-      "title": "53 Migranten gestorben : Vier Festnahmen nach Horror-Fund in Texas",
-      "teaser": "Vier Männer wurden festgenommen, nachdem 53 Menschen in einem Lkw in Texas gestorben waren.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/texas-migranten-in-lkw-tot-aufgefunden-vier-maenner-festgenommen-80560190.bild.html",
-      "image_title": "Texas: Migranten in Lkw tot aufgefunden – vier Männer festgenommen"
-    },
-    {
-      "title": "Hells-Angels-Gründer : Sonny Barger im Alter von 83 Jahren gestorben",
-      "teaser": "Ralph „Sonny“ Barger ist am Mittwochabend im Alter von 83 Jahren gestorben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ralph-sonny-barger-hells-angels-gruender-im-alter-von-83-jahren-gestorben-80560954.bild.html",
-      "image_title": "Ralph „Sonny“ Barger: Hells-Angels-Gründer im Alter von 83 Jahren gestorben"
-    },
-    {
-      "title": "Toter, Verletzte bei Österreich-Unwetter : „In 4 Stunden so viel Regen wie im gesamten Juni“",
-      "teaser": "Unwetter-Drama in Österreich: Heftige Regen lösten Erdrutsche und Überschwemmungen aus.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unwetter-in-kaernten-oesterreich-in-vier-stunden-so-viel-regen-wie-im-ganzen-jun-80556966.bild.html",
-      "image_title": "Unwetter in Kärnten (Österreich): „In vier Stunden so viel Regen wie im ganzen Juni“"
-    },
-    {
-      "title": "„Woody“ Williams war der letzte seiner Art : Amerika trauert um legendären Veteran",
-      "teaser": "Ein Mann, der sein Leben riskierte, um die Welt von Tyrannei und Diktatur zu befreien.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/medal-of-honor-amerika-trauert-um-legendaeren-veteran-woody-williams-80555338.bild.html",
-      "image_title": "Medal of Honor: Amerika trauert um legendären Veteran „Woody“ Williams"
-    },
-    {
-      "title": "Gewitter, reißende Bäche, Erdrutsche : Schwere Unwetter in Österreich - 1 Toter!",
-      "teaser": "Unwetter in Kärnten haben ganze Ortschaften verwüstet. Ein Toter, mehrere Vermisste.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/schwere-unwetter-in-oesterreich-1-toter-mehrere-vermisste-80550776.bild.html",
-      "image_title": "Schwere Unwetter in Österreich: 1 Toter, mehrere Vermisste"
-    },
-    {
-      "title": "Bataclan-Anschlag im Jahr 2015 : Lebenslang für ISIS-Attentäter von Paris!",
-      "teaser": "Der ISIS-Attentäter muss lebenslang ins Gefängnis! Dieses Urteil wurde vor einem Schwurgericht in Paris gefällt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bataclan-anschlag-im-jahr-2015-lebenslang-fuer-isis-attentaeter-von-paris-80544906.bild.html",
-      "image_title": "Bataclan-Anschlag im Jahr 2015: Lebenslang für ISIS-Attentäter"
-    },
-    {
-      "title": "Horror-Fund in Texas : Arbeiter hörte Hilfeschreie und entdeckte 46 Tote",
-      "teaser": "Horror-Fund in einem Truck in Texas. In einem Lastwagen in dem US-Bundesstaat sind 46 T...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/horror-fund-in-texas-mindestens-42-tote-in-truck-entdeckt-80533930.bild.html",
-      "image_title": "Horror-Fund in Texas: Arbeiter hörte Hilfeschreie und entdeckte 46 Tote"
-    },
-    {
-      "title": "Bataclan-Anschlag im Jahr 2015 : Lebenslang für ISIS-Attentäter von Paris!",
-      "teaser": "Salah Abdeslam (32) tötete mit neun Komplizen 130 Menschen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/isis-anschlag-in-paris-lebenslang-fuer-bataclan-attentaeter-salah-abdeslam-80554680.bild.html",
-      "image_title": "ISIS-Anschlag in Paris: Lebenslang für Bataclan-Attentäter Salah Abdeslam"
-    },
-    {
-      "title": "Seit 13 Jahren geschlossen! : Uralte Burger-King-Filiale entdeckt",
-      "url": "https://www.bild.de/video/clip/video/komplett-vergessen-uralte-burger-king-filiale-entdeckt-80591626,auto=true.bild.html",
-      "image_title": "Seit 13 Jahren geschlossen!: Uralte Burger-King-Filiale entdeckt"
-    },
-    {
-      "title": "Mehrere Tote in den Dolomiten : Video zeigt gewaltigen Gletscher-Bruch",
-      "url": "https://www.bild.de/video/clip/video/fuenf-tote-in-den-dolomiten-video-zeigt-gewaltigen-gletscher-bruch-80589998,auto=true.bild.html",
-      "image_title": "Mehrere Tote in den Dolomiten: Video zeigt gewaltigen Gletscher-Bruch"
-    },
-    {
-      "title": "Massaker in Kopenhagen : Mehrere Tote nach Schüssen in Einkaufszentrum",
-      "url": "https://www.bild.de/video/clip/video/mehrere-opfer-schuesse-in-kopenhagener-einkaufszentrum-80591224,auto=true.bild.html",
-      "image_title": "Massaker in Kopenhagen: Mehrere Tote nach Schüssen in Einkaufszentrum"
-    }
-  ]
+  "articles": []
 }
