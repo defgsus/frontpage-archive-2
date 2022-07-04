@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-04T20:21:58",
+  "timestamp": "2022-07-04T21:18:23",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Angriff im Urlaubsparadies : Lockten tote Schafe Killer-Haie an?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/haie-toeten-zwei-frauen-in-hurghada-lockten-tote-schafe-die-meeresraeuber-an-80601860.bild.html",
-      "image_url": "https://images.bild.de/62c329c865a2a17276183143/3d8209c9363142127ebc378a7707a40e,46c6755d?w=656",
-      "image_title": "Haie töten zwei Frauen in Hurghada: Lockten tote Schafe die Meeresräuber an?"
-    },
-    {
-      "title": "Menschenjagd in Kopenhagen : Killer soll vor der Tat beim Krisentelefon angerufen haben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/menschenjagd-in-kopenhagen-rief-der-killer-vor-der-tat-beim-krisentelefon-an-80602380.bild.html",
-      "image_url": "https://images.bild.de/62c335e160a3e73b21ea053b/5ff355fa6993448f478e73bb20dc5372,12517de3?w=320",
-      "image_title": "Menschenjagd in Kopenhagen: Rief der Killer vor der Tat beim Krisentelefon an?"
-    },
-    {
-      "title": "Todes-Drama in den Dolomiten : Retter suchen in Gletscher-Lawine noch 14 Vermisste",
-      "url": "https://www.bild.de/news/ausland/news-ausland/gletscher-lawine-in-den-dolomiten-retter-suchen-weiter-nach-14-vermissten-80600252.bild.html",
-      "image_url": "https://images.bild.de/62c306efc91e3271534fa537/1a1b0b50a93cee94283ab8b138c0c2b0,2d0c94d5?w=320",
-      "image_title": "Gletscher-Lawine in den Dolomiten: Retter suchen weiter nach 14 Vermissten"
-    },
-    {
-      "title": "Schiff vor Chinas Küste zerbrochen : Zwölf tote Seeleute 90 km entfernt gefunden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/schiffsunglueck-vor-china-kueste-zwoelf-tote-seeleute-efunden-80596952.bild.html",
-      "image_url": "https://images.bild.de/62c2d3a5e76cc679c115d9f9/ae04b5b650d1c5daae78b3e61bfcf51c,8e8aab46?w=320",
-      "image_title": "Schiffsunglück vor China-Küste: Zwölf tote Seeleute efunden"
-    },
-    {
-      "title": "Drei erschossen, vier schwer verletzt : Die verstörende Youtube-Playlist des Killers",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amok-von-kopenhagen-die-verstoerende-video-liste-des-einkaufszenter-killers-80595696.bild.html",
-      "image_url": "https://images.bild.de/62c2a5dfe76cc679c115d978/e86d4ff2147b7060153975269aaaf277,b77595a5?w=320",
-      "image_title": "Kopenhagen: Schüsse in Einkaufszentrum: Die verstörende Video-Liste des Killers"
-    },
-    {
-      "title": "Auf dem Weg nach Menorca : Kampfjets zwingen Easyjet-Flieger zur Landung",
-      "teaser": "Schreckmoment in der Luft: Ein Ferienflieger musste außerplanmäßig landen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/menorca-spanien-kampfjets-zwingen-easyjet-flieger-zur-landung-80595974.bild.html",
-      "image_title": "Menorca (Spanien): Kampfjets zwingen Easyjet-Flieger zur Landung"
-    },
-    {
-      "title": "Blutbad in Kopenhagen mit drei Toten : Schussopfer (16):„Wendete den Kopf, sah den Täter“",
-      "teaser": "Nach der Bluttat von Kopenhagen meldet sich nun eine 16-jährige Überlebende zu Wort.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/blutbad-in-kopenhagen-mit-drei-toten-16-jaehriges-schussopfer-berichtet-80596396.bild.html",
-      "image_title": "Blutbad in Kopenhagen mit drei Toten: 16-jähriges Schussopfer berichtet"
-    },
-    {
-      "title": "Sie holten ihn aus dem Krankenhausbett : Russischer Forscher stirbt nach Festnahme",
-      "teaser": "„Der FSB hat meinen Vater getötet, sie wussten, in welchem Zustand er war“, schrieb sein Sohn.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russischer-forscher-stirbt-nach-festnahme-im-krankenhausbett-80597402.bild.html",
-      "image_title": "Russischer Forscher stirbt nach Festnahme im Krankenhausbett"
-    },
-    {
-      "title": "Proteste gegen US-Cops : 60 Schusswunden! Schwarzer von Polizei-Kugeln durchsiebt",
-      "teaser": "Bei einem Polizeieinsatz in Akron (US-Bundesstaat Ohio) ist ein 25-Jähriger erschossen worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-jayland-walker-25-von-polizei-kugeln-durchsiebt-proteste-gegen-us-cops-80593802.bild.html",
-      "image_title": "USA: Jayland Walker (25) von Polizei-Kugeln durchsiebt – Proteste gegen US-Cops"
-    },
-    {
-      "title": "7 Tote, 19 Vermisste : Zwei Deutsche bei Gletscher-Sturz schwer verletzt",
-      "teaser": "Vom Gletschersturz in Italien sollen laut Auswärtigem Amt auch Deutsche betroffen sein.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/gletscher-sturz-in-dolomiten-deutsche-womoeglich-unter-den-opfern-80593552.bild.html",
-      "image_title": "Gletscher-Bruch in Dolomiten: Auch zwei deutsche Opfer"
-    },
-    {
-      "title": "Betrügerin Dr. Ruja Ignatova (42) : Versteckt sich Krypto-Königin auf einer Jacht?",
-      "teaser": "Krypto-Königin Dr. Ruja Ignatova (42) ist mit 4 Mrd. Euro auf der Flucht, nach ihr wird international gefahndet.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/betruegerin-dr-ruja-ignatova-42-versteckt-sich-krypro-koenigin-auf-jacht-im-mitt-80590118.bild.html",
-      "image_title": "Betrügerin Dr. Ruja Ignatova (42): Versteckt sich Krypro-Königin auf Jacht im Mittelmeer?"
-    },
-    {
-      "title": "Kruzifix noch mal! : Anti-Vampir-Koffer für 15 000 Euro versteigert",
-      "teaser": "Ob der neue Besitzer in Großbritannien mit den Anti-Vampir-Utensilien besser schläft?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/grossbritannien-anti-vampir-koffer-fuer-15000-euro-versteigert-80595006.bild.html",
-      "image_title": "Großbritannien: Anti-Vampir-Koffer für 15 000 Euro versteigert"
-    },
-    {
-      "title": "Mindestens sechs Tote : Das sagt Reinhold Messner zum Gletscherbruch in den Alpen",
-      "teaser": "„Schon seit 30 Jahren sehen wir mit bloßem Auge, wie die Gletscher schmelzen. Dazu muss man kein Wissenschaftler sein.“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/toedliches-unglueck-bei-gletschersturz-in-dolomiten-messner-grund-ist-erderwaerm-80592892.bild.html",
-      "image_title": "Tödliches Unglück bei Gletschersturz in Dolomiten: Messner: „Grund ist Erderwärmung“"
-    },
-    {
-      "title": "„Es war höchste Zeit!“ : In der Schweiz haben die ersten LGBT-Paare geheiratet",
-      "teaser": "Nun ist das gleichgeschlechtliche Ehe-Glück auch in der Alpenrepublik angekommen.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/es-war-hoechste-zeit-in-der-schweiz-haben-die-ersten-lgbt-paare-geheiratet-80579004.bild.html",
-      "image_title": "„Es war höchste Zeit!“: In der Schweiz haben die ersten LGBT-Paare geheiratet"
-    },
-    {
-      "title": "Elisabeth S. (68) stirbt nach Hai-Angriff : Ihre letzten Worte waren: „Ich gehe noch mal kurz ins Wasser“",
-      "teaser": "Sie schrie noch um Hilfe. Doch am Ufer konnten ihr Urlauber nur beim Sterben zusehen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hurghada-urlauberin-stirbt-nach-hai-angriff-ich-geh-noch-mal-kurz-ins-wasser-80590562.bild.html",
-      "image_title": "Hurghada: Urlauberin stirbt nach Hai-Angriff: „Ich geh noch mal kurz ins Wasser“"
-    },
-    {
-      "title": "Bade-Horror in Ägypten : Zweite Frau bei Hurghada von Hai getötet",
-      "teaser": "Beide Frauen wurden am Freitag in Sahl Hasheesh angegriffen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bade-horror-in-aegypten-zweite-frau-bei-hurghada-von-hai-getoetet-80588138.bild.html",
-      "image_title": "Bade-Horror in Ägypten: Zweite Frau bei Hurghada von Hai getötet"
-    },
-    {
-      "title": "Norditalien trocknet aus : Dürre! Verona und Pisa rationieren Trinkwasser",
-      "teaser": "Kein Garten-Gießen, keine Sportanlagen-Bewässerung. Sonst droht Strafe.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/italien-verona-rationiert-trinkwasser-wegen-duerre-80584350.bild.html",
-      "image_title": "Italien: Verona rationiert Trinkwasser wegen Dürre"
-    },
-    {
-      "title": "Großstadt teilweise evakuiert : Sydney säuft ab!",
-      "teaser": "Tiefer gelegene Bereiche im Südwesten der Metropole standen am Sonntag gut 1,50 Meter unter Wasser.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unwetter-in-australien-sydney-saeuft-ab-teilweise-evakuiert-80586720.bild.html",
-      "image_title": "Unwetter in Australien: Sydney säuft ab – teilweise evakuiert!"
-    },
-    {
-      "title": "Horror in New York : Junge (3) fällt aus 29. Stock – tot",
-      "teaser": "Nachbarn hörten den Aufprall, als der Kleine beim fünften Stockwerk auf einem Gerüst landete.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unfall-junge-3-faellt-aus-29-stock-tot-80585980.bild.html",
-      "image_title": "Unfall: Junge (3) fällt aus 29. Stock – tot"
-    },
-    {
-      "title": "Attacke bei Hurghada – Österreicherin tot : Mit Seil! Urlauber versuchten, Hai-Opfer zu retten",
-      "teaser": "Dramatischer Vorfall im Urlaubsparadies! Eine Rentnerin (68) aus Österreich ist tot.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/aegypten-hai-attacke-nahe-touristen-hotspot-oestereicherin-tot-80581390.bild.html",
-      "image_title": "Ägypten: Hai-Attacke nahe Touristen-Hotspot – Östereicherin tot"
-    },
-    {
-      "title": "Ezra (18 Monate) starb an Mangelernährung : Vegan-Mutter wegen Mord an Sohn verurteilt",
-      "teaser": "Sheila und ihr Mann lebten streng vegan. Ernährten auch so ihre Kinder. Ezra starb.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/florida-mutter-wegen-mordes-verurteilt-ihr-baby-starb-an-veganer-ernaehrung-80580198.bild.html",
-      "image_title": "Florida: Mutter wegen Mordes verurteilt – ihr Baby starb an veganer Ernährung"
-    },
-    {
-      "title": "Er tötete gefährdete Tiere : Trophäenjäger in Südafrika erschossen",
-      "teaser": "Er kam von der Straße ab, weil sein Auto überhitzt war. Dann wurde er überfallen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/suedafrika-trophaeenjaeger-in-erschossen-80578566.bild.html",
-      "image_title": "Südafrika: Trophäenjäger in erschossen"
-    },
-    {
-      "title": "Wut-Kuh-Attacke auf dem Pilgerweg : „Ich dachte, ich sterbe“",
-      "teaser": "Ehepaar M. aus Hürth wanderte auf einem Pilgerweg im Stubaital. Dann griff eine Kuh an.",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/oesterreich-wut-kuh-attacke-auf-deutsche-urlauberin-80578548.bild.html",
-      "image_title": "Österreich – Kuh-Attacke auf Pilgerweg: „Ich dachte, ich sterbe“"
-    },
-    {
-      "title": "Hai-Attacke in Florida : Addison (17) droht Bein-Amputation",
-      "teaser": "Ein Mädchen aus Florida wurde Opfer einer Hai-Attacke.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/sie-war-nur-1-50-meter-tief-im-wasser-hai-beisst-teenager-in-florida-bein-ab-80578448.bild.html",
-      "image_title": "Hai-Attacke in Florida: Addison (17) droht Bein-Amputation"
-    },
-    {
-      "title": "Irre Szenen in Thailand : Passanten sehen Kopf in Kanal",
-      "url": "https://www.bild.de/video/clip/video/kopf-treibt-im-kanal-toter-mann-loest-in-bangkok-schrecken-aus-80537982,auto=true.bild.html",
-      "image_title": "Irre Szenen in Thailand: Passanten sehen Kopf in Kanal"
-    },
-    {
-      "title": "Schüsse am US-Nationalfeiertag : Tote bei Parade nahe Chicago",
-      "url": "https://www.bild.de/video/clip/video/schuesse-am-us-nationalfeiertag-tote-bei-parade-nahe-chicago-80601920,auto=true.bild.html",
-      "image_title": "Schüsse am US-Nationalfeiertag: Tote bei Parade nahe Chicago"
-    },
-    {
-      "title": "Auf dem Weg nach Menorca : Kampfjets zwingen Easyjet-Flieger zur Landung",
-      "url": "https://www.bild.de/video/clip/video/auf-dem-weg-nach-menorca-kampfjets-zwingen-easyjet-flieger-zur-landung-80597810,auto=true.bild.html",
-      "image_title": "Auf dem Weg nach Menorca: Kampfjets zwingen Easyjet-Flieger zur Landung"
-    }
-  ]
+  "articles": []
 }
