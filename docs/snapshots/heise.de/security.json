@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-05T08:26:47",
+  "timestamp": "2022-07-05T09:20:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Business Automation Workflow",
+      "url": "https://www.heise.de/news/IBM-warnt-vor-Codeschmuggel-in-Business-Automation-Workflow-7162718.html"
+    },
+    {
       "title": "Trend Micro Maximum Security",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Trend-Micro-Maximum-Security-koennte-Angreifer-auf-PCs-lassen-7162687.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/CISA-empfiehlt-Installation-von-repariertem-Windows-Update-fuer-Active-Directory-7161730.html"
     },
     {
-      "title": "Jenkins-Plug-ins",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Viele-Jenkins-Plug-ins-als-Schlupfloecher-fuer-Angreifer-7160083.html"
+      "title": "IBM warnt vor Codeschmuggel in Business Automation Workflow",
+      "teaser": "Angreifer könnten eine Sicherheitslücke missbrauchen, um in IBM Business Automation Workflow eigenen Code einzuschleusen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/IBM-warnt-vor-Codeschmuggel-in-Business-Automation-Workflow-7162718.html",
+      "image_title": "Aufmacher Codeschmuggel in IBM Business Automation Workflow"
     },
     {
       "title": "Sicherheitsupdate: Trend Micro Maximum Security könnte Angreifer auf PCs lassen",
@@ -63,14 +69,14 @@
       "url": "https://www.heise.de/news/Social-Engineering-Angriffe-auf-hochrangige-Politiker-7162346.html"
     },
     {
-      "title": "IT-Sicherheit: BSI warnt vor gezielten Cyberangriffen auf Satelliten",
-      "teaser": "Mit einem \"IT-Grundschutz-Profil für Weltrauminfrastrukturen\" empfiehlt das BSI eine Mindestabsicherung für Satelliten über den gesamten Lebenszyklus hinweg.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-BSI-warnt-vor-gezielten-Cyberangriffen-auf-Satelliten-7162295.html"
-    },
-    {
       "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
       "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
       "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
+    },
+    {
+      "title": "IT-Sicherheit: BSI warnt vor gezielten Cyberangriffen auf Satelliten",
+      "teaser": "Mit einem \"IT-Grundschutz-Profil für Weltrauminfrastrukturen\" empfiehlt das BSI eine Mindestabsicherung für Satelliten über den gesamten Lebenszyklus hinweg.",
+      "url": "https://www.heise.de/news/IT-Sicherheit-BSI-warnt-vor-gezielten-Cyberangriffen-auf-Satelliten-7162295.html"
     },
     {
       "title": "Microsoft: Warnung vor Gebührenfallen durch Android-Apps",
@@ -153,12 +159,6 @@
       "teaser": "Der Baustoffhersteller Knauf meldet einen Cyberangriff auf seine IT-Systeme. Da diese teils heruntergefahren wurden, hakt es bei Bestellungen und Lieferungen.",
       "url": "https://www.heise.de/news/Baustoffhersteller-Knauf-Opfer-von-Cyberangriff-7158935.html",
       "image_title": "Aufmacher Baustoffhersteller Knauf Opfer von Cyberangriff"
-    },
-    {
-      "title": "Norwegen: DDoS-Angriffe pro-russischer Gruppen wegen Transitblockade",
-      "teaser": "Am Mittwoch wurden sowohl staatliche als auch private norwegische Webseiten Opfer von Cyberangriffen. Sie gingen offenbar von pro-russischen Cybergangs aus.",
-      "url": "https://www.heise.de/news/Cyber-Attacken-auf-norwegische-Webseiten-7158867.html",
-      "image_title": "Aufmacher Cyberangriffe auf Norwegen"
     },
     {
       "title": "heise Security Tour 2022",
