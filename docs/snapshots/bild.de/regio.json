@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-04T23:20:44",
+  "timestamp": "2022-07-05T02:06:43",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.d13892d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf15b50e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fddc9598.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Fusion wegen Boss-Eitelkeiten geplatzt : Hamburger Hafen droht der China-Schock!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/fusion-zwischen-hamburg-und-bremen-geplatzt-weil-sie-sich-nicht-einigen-koennen-80585512.bild.html",
-      "image_title": "Fusion wegen Boss-Eitelkeiten geplatzt: Hamburger Hafen droht der China-Schock!"
-    },
-    {
-      "title": "Gerichts-Zoff mit der Ex : Zum Yeliz-Prozess kam Jimi mit seiner Neuen",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/jimi-blue-ochsenknecht-gerichts-zoff-mit-yeliz-seine-neue-ist-dabei-80598236.bild.html",
-      "image_title": "Jimi Blue Ochsenknecht: Gerichts-Zoff mit Yeliz & seine Neue ist dabei"
-    },
-    {
-      "title": "Urteil Rechtskräftig : Lebenslang für Totraser Victor B.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/urteil-rechtskraeftig-lebenslang-fuer-totraser-victor-b-80595806.bild.html",
-      "image_title": "Urteil Rechtskräftig: Lebenslang für Totraser Victor B."
-    },
-    {
-      "title": "Clan-Brüder belasten ihn : Kurzer Prozess für Hausklau-Drahtzieher",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/clan-brueder-belasten-ihn-kurzer-prozess-fuer-hausklau-drahtzieher-80599530.bild.html",
-      "image_title": "Clan-Brüder belasten ihn: Kurzer Prozess für Hausklau-Drahtzieher"
-    },
-    {
-      "title": "„Großschadenslage“ : Waldbrand in Lieberoser Heide breitet sich aus",
-      "teaser": "Der Waldbrand in der Lieberoser Heide breitet sich nach Einschätzung des Landkreises aus.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/grossschadenslage-waldbrand-in-lieberoser-heide-breitet-sich-aus-80599836.bild.html",
-      "image_title": "„Großschadenslage“: Waldbrand in Lieberoser Heide breitet sich aus"
-    },
-    {
-      "title": "Josef S. zu 5 Jahren verurteilt : KZ-Wachmann (101) legt Revision gegen Haft-Urteil ein",
-      "teaser": "Ex-KZ-Wachmann Josef S. wurde zu fünf Jahren verurteilt und geht nun gegen das Urteil vor.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/josef-s-101-zu-5-jahren-verurteilt-kz-wachmann-legt-revision-ein-80595834.bild.html",
-      "image_title": "Josef S. (101) zu fünf Jahren verurteilt: KZ-Wachmann legt Revision ein"
-    },
-    {
-      "title": "Zillertal-Zoff eskaliert! : FPÖ droht Werder mit Klage",
-      "url": "https://www.bild.de/sport/fussball/fussball/zillertal-zoff-eskaliert-fpoe-droht-werder-bremen-mit-klage-80596772.bild.html",
-      "image_title": "Zillertal-Zoff eskaliert! FPÖ droht Werder Bremen mit Klage"
-    },
-    {
-      "title": "Bike-Navy lockt wieder : Mit Greipel-Tipps auf dem Militärflughafen",
-      "teaser": "Die Bike Navy auf Deutschlands größtem Militärflughafen steigt mit Ex-Profi Andre Greipel.",
-      "url": "https://www.bild.de/sport/mehr-sport/radsport/bike-navy-lockt-wieder-mit-den-tipps-von-top-sprinter-andr-greipel-auf-dem-milit-80594452.bild.html",
-      "image_title": "Bike-Navy lockt wieder: Mit den Tipps von Top-Sprinter André Greipel auf dem Militärflughafen"
-    },
-    {
-      "title": "„Ihm fehlt einiges an Spielfitness“ : Werner bremst Burke-Euphorie",
-      "teaser": "Oliver Burke traf bei seinem Debüt doppelt. Sein Trainer ist aber noch nicht zufrieden.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-ole-werner-bremst-euphorie-um-oliver-burke-80593666.bild.html",
-      "image_title": "Werder Bremen: Ole Werner bremst Euphorie um Oliver Burke"
-    },
-    {
-      "title": "Dorin V. (†27) lernte ihn über Dating-App kennen : Kolleginnen warnten Mordopfer, ihn zu treffen",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-dorin-v-27-lernte-ihn-ueber-dating-app-kennen-80602714.bild.html",
-      "image_title": "Leipzig: Dorin V. (†27) lernte ihn über Dating-App kennen"
-    },
-    {
-      "title": "Jagd über die Dächer : Mann im Drogenrausch hält Polizei in Atem",
-      "teaser": "Mehr als ein dutzend Rettungskräfte hielt Marc B. (32) drei Stunden lang in Atem.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-mann-im-drogenrausch-haelt-polizei-mehrere-stunden-in-atem-80599602.bild.html",
-      "image_title": "Thüringen: Mann im Drogenrausch hält Polizei mehrere Stunden in Atem"
-    },
-    {
-      "title": "Erster Vermieter dreht am Hahn : Warmwasser nur noch zu bestimmten Zeiten",
-      "teaser": "Wegen der hohen Energiepreise wird Mietern in Sachsen zeitweise das Warmwasser abgestellt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/zu-hohe-energiekosten-vermieter-dreht-warmwasser-ab-80596422.bild.html",
-      "image_title": "Energiekrise: Warmwasser nur noch zu bestimmten Zeiten"
-    },
-    {
-      "title": "Hilbert greift grüne Herausforderin an : Wahlkampf mit Kubicki-Unterstützung",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-ob-hilbert-greift-gruene-herausforderin-an-80602074.bild.html",
-      "image_title": "Dresden: OB-Hilbert greift grüne Herausforderin an"
-    },
-    {
-      "title": "„Verbrechen möglich“ : Frau (37) tot in ihrer Wohnung gefunden",
-      "teaser": "In Auerbach (Sachsen) wurde Montagmittag die Leiche einer Frau (37) entdeckt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-frau-37-tot-in-ihrer-wohnung-gefunden-80601366.bild.html",
-      "image_title": "Sachsen: Frau (37) tot in ihrer Wohnung gefunden"
-    },
-    {
-      "title": "Leipzig Hauptbahnhof : Wie lange steht diese E-Ladestation noch leer",
-      "teaser": "In Leipzig gibt es ein E-Problem: Für die zugelassenen 12 587 Elektro- sowie Hybridautos stehen nur 750 Ladesäulen bereit.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-wie-lange-steht-diese-e-ladestation-noch-leer-80602808.bild.html",
-      "image_title": "Sachsen: Wie lange steht diese E-Ladestation noch leer"
-    },
-    {
-      "title": "Auch Yoga steht auf seinem Trainingsplan : REITZ Sonderschichten für die Seele!",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-rocco-reitz-setzt-auch-auf-yoga-80546194.bild.html",
-      "image_title": "Borussia Mönchengladbach: Rocco Reitz setzt auch auf Yoga"
-    },
-    {
-      "title": "Virkus ist sich sicher : Itakura macht Gladbach besser!",
-      "teaser": "Montag absolvierte Ko Itakura (25) seine erste Einheit mit den neuen Kollegen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-ko-itakura-macht-gladbach-besser-80598536.bild.html",
-      "image_title": "Borussia Mönchengladbach: Ko Itakura macht Gladbach besser!"
-    },
-    {
-      "title": "Wagenbauer bringt Jonges auf Spur : Tillys Tram gestartet",
-      "teaser": "Ein Stück Heimat-Geschichte rollt nun durch Düsseldorf.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/wagenbauer-bringt-jonges-auf-spur-tillys-tram-gestartet-80601902.bild.html",
-      "image_title": "Wagenbauer bringt Jonges auf Spur: Tillys Tram in Düsseldorf gestartet"
-    },
-    {
-      "title": "Ab nächsten Montag! : Mainkai für Autos gesperrt",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/ab-naechsten-montag-mainkai-fuer-autos-gesperrt-80600762.bild.html",
-      "image_title": "Ab nächsten Montag!: Mainkai für Autos gesperrt"
-    },
-    {
-      "title": "RAUBMORD! : Lebenslang nach Überfall auf Schmuckhändler",
-      "teaser": "Zu lebenslanger Haft wegen Raubmordes verurteilte das Landgericht einen 32-Jährigen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/raubmord-lebenslang-nach-ueberfall-auf-schmuckhaendler-80600652.bild.html",
-      "image_title": "Raubmord!: Lebenslang nach Überfall auf Schmuckhändler"
-    },
-    {
-      "title": "94 Festplatten, 129 USB-Sticks : Kinderschänder-Razzia in Südhessen",
-      "teaser": "18 Durchsuchungen in vier Landkreisen bei Tatverdächtigen in Südhessen!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/94-festplatten-129-usb-sticks-kinderschaender-razzia-in-suedhessen-80599166.bild.html",
-      "image_title": "94 Festplatten, 129 USB-Sticks: Kinderschänder-Razzia in Südhessen"
-    },
-    {
-      "title": "Eimsbüttel : Zugriff durch Elitepolizisten",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/zugriff-in-eimsbuettel-elitepolizisten-ueberwaeltigen-messermann-80599810.bild.html",
-      "image_title": "Zugriff in Eimsbüttel: Elitepolizisten überwältigen Messermann"
-    },
-    {
-      "title": "„The World“ vor Anker : Schwimmendes Hotel für Super-Reiche",
-      "teaser": "Dieses Traumschiff ist ein schwimmendes Luxus-Apartmenthotel für bis zu 200 Bewohner.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/the-world-in-altona-vor-anker-schwimmendes-hotel-fuer-super-reiche-80594298.bild.html",
-      "image_title": "„The World“ in Altona vor Anker: Schwimmendes Hotel für Super-Reiche"
-    },
-    {
-      "title": "Pikanter Einsatz im Kleingarten : Polizei stört bei Esel-Fahndung Schäferstündchen",
-      "teaser": "Nachts entführen Diebe in Hamburg Esel-Dame Daisy (12) und eine Ziege aus dem Gatter.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/voellig-verrueckter-polizei-einsatz-im-kleingarten-sex-treffen-nach-esel-entfueh-80585634.bild.html",
-      "image_title": "Hamburg: Pikanter Polizei-Einsatz – Polizei stört bei Esel-Fahndung Schäferstündchen"
-    },
-    {
-      "title": "Nach Franzosen-Wirbel : Stendel startet mit Verspätung bei 96",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-nach-franzosen-wirbel-startet-daniel-stendel-mit-verspaetung-80601104.bild.html",
-      "image_title": "Hannover 96: Nach Franzosen-Wirbel startet Daniel Stendel mit Verspätung"
-    },
-    {
-      "title": "96-Profi Evina : Rauswurf zum Geburtstag?",
-      "teaser": "Dienstag wird Franck Evina 22. Könnte trotzdem sein, dass es ein trauriger Tag wird.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-franck-evina-rauswurf-zum-geburtstag-80600882.bild.html",
-      "image_title": "Hannover 96: Franck Evina – Rauswurf zum Geburtstag?"
-    },
-    {
-      "title": "Über 7 Mio. Tiere in Gefahr : Pest erreicht unsere Ställe",
-      "teaser": "Emsland – Der Seuchentod aus Übersee hat nun auch niedersächsischen Boden erreicht.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/angst-im-schweineland-nummer-1-ueber-7-millionen-tiere-in-gefahr-ministerin-ein-80589212.bild.html",
-      "image_title": "Angst im Schweineland Nummer 1 ++ Über 7 Millionen Tiere in Gefahr ++ Ministerin: „Ein harter Schlag!“: Pest erreicht unsere Ställe"
-    },
-    {
-      "title": "Sport-Boss verrät : So will Keller Kölns 8-Mio-Problem lösen!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fc-koeln-sport-boss-verraet-so-will-christian-keller-koelns-8-millionen-proble-80601000.bild.html",
-      "image_title": "1. FC Köln: Sport-Boss verrät: So will Christian Keller Kölns 8-Millionen-Problem lösen!"
-    },
-    {
-      "title": "Streikende: unfassbare Zustände : Dr. Made unterstützt Klinik-Mitarbeiter",
-      "teaser": "Streikende der sechs Unikliniken in NRW trugen Erfahrungen aus einem „Schwarzbuch“ vor.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-streikende-berichten-im-schwarzbuch-von-unfassbaren-zustaenden-80599538.bild.html",
-      "image_title": "Köln: Streikende berichten im „Schwarzbuch“ von unfassbaren Zuständen"
-    },
-    {
-      "title": "Baumgarts letzter Neuer : Köln holt Hoffenheim Stürmer Adamyan",
-      "teaser": "Köln komplett! Einen Monat vor Ligastart ist der letzte Neuzugang fix. Hoffenheims Adamyan",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-koeln-baumgarts-letzter-neuer-koeln-holt-hoffenheim-stuermer-adamyan-80599374.bild.html",
-      "image_title": "1. FC Köln: Baumgarts letzter Neuer: Köln holt Hoffenheim Stürmer Adamyan"
-    },
-    {
-      "title": "Feuer am Getreidefeld : Mähdrescher abgebrannt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/feuer-am-getreidefeld-maehdrescher-abgebrannt-80602530.bild.html",
-      "image_title": "Feuer am Getreidefeld: Mähdrescher abgebrannt"
-    },
-    {
-      "title": "Caravan-Park explodiert : Dauercamper-Drama an der Talsperre",
-      "teaser": "Fassungslos stehen Betroffene und Betreiber vor den verkohlten Trümmern ihrer Erholungs-Oase an der Koberbachtalsperre (Sachsen).",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/grossbrand-dauercamper-drama-an-der-koberbachtalsperre-80602376.bild.html",
-      "image_title": "Großbrand: Dauercamper-Drama an der Koberbachtalsperre"
-    },
-    {
-      "title": "Lok Leipzig startet ins Camp : Was Civa plant und wen er noch sucht",
-      "teaser": "Mit Gong startet der FC Lok Leipzig heute nach Meck-Pomm. Südkoreaner Eunsoo Gong (20), der bereits zur Probe vorspielt, wird den Viertligis...",
-      "url": "https://www.bild.de/sport/fussball/fussball/lok-leipzig-startet-ins-camp-was-civa-plant-und-wen-er-noch-sucht-80600344.bild.html",
-      "image_title": "Lok Leipzig: Was Trainer Civa plant und wen er noch sucht"
-    },
-    {
-      "title": "Druck für Hansas Nummer eins : „Die Baustelle kann er nur selbst aufmachen“",
-      "url": "https://www.bild.de/sport/fussball/fussball/druck-fuer-hansas-nummer-1-die-baustelle-kann-er-nur-selbst-aufmachen-80600210.bild.html",
-      "image_title": "Druck für Hansas Nummer 1: „Die Baustelle kann er nur selbst aufmachen“"
-    },
-    {
-      "title": "Camp-Fazit des Hansa-Trainers : „Wir sind einen Schritt weiter“",
-      "teaser": "Camp in Schladming: Zwölf Trainingseinheiten, zwei Tests – Trainer Härtel zieht Bilanz.",
-      "url": "https://www.bild.de/sport/fussball/fussball/camp-fazit-des-hansa-trainers-wir-sind-einen-schritt-weiter-80594060.bild.html",
-      "image_title": "Camp-Fazit des Hansa-Trainers: „Wir sind einen Schritt weiter“"
-    },
-    {
-      "title": "Mit dem 9-Euro-Ticket : 26 tolle Familien-Ausflugsziele in Deutschland",
-      "teaser": "Diese 26 Highlights sind bequem ohne Auto und günstig mit dem 9-Euro-Ticket erreichbar.",
-      "url": "https://www.bild.de/reise/2022/reise/mit-dem-9-euro-ticket-26-tolle-ausflugsziele-fuer-die-familie-80194568.bild.html",
-      "image_title": "Mit dem 9-Euro-Ticket: 26 tolle Ausflugsziele für die Familie"
-    },
-    {
-      "title": "Vrenezi beichtet : „Ich bin nur wegen des Geldes zu Türkgücü!“",
-      "teaser": "Ehrliche Worte! Neu-Löwe Albion Vrenezi kam von Pleite-Klub Türkgücü München...",
-      "url": "https://www.bild.de/sport/fussball/fussball/1860-muenchen-neu-loewe-albion-vrenezi-mit-ehrlichen-worten-80602626.bild.html",
-      "image_title": "1860 München: Neu-Löwe Albion Vrenezi mit ehrlichen Worten"
-    },
-    {
-      "title": "Mit Gürtel und Klebeband : Mitreisende fesseln Randalierer im Zug",
-      "teaser": "Ein verwirrter Mann hat in einem Zug von Ulm Richtung Augsburg schwer randaliert.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/mit-guertel-und-klebeband-mitreisende-fesseln-randalierer-im-zug-80599700.bild.html",
-      "image_title": "Mit Gürtel und Klebeband: Mitreisende fesseln Randalierer im Zug"
-    },
-    {
-      "title": "Sport-Boss Rebbe über Shuranov-Verkauf : „Erik ist unser Junge“",
-      "url": "https://www.bild.de/sport/fussball/fussball/fcn-olaf-rebbe-ueber-einen-shuranov-verkauf-erik-ist-unser-junge-80600506.bild.html",
-      "image_title": "FCN: Olaf Rebbe über einen Shuranov-Verkauf: „Erik ist unser Junge“"
-    },
-    {
-      "title": "Beim Tirol-Test : Kein Platz für Schäffler",
-      "teaser": "FCN-Stürmer Manuel Schäffler (33) hat einen schweren Stand, haut sich aber voll rein.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fcn-test-gegen-tirol-kein-platz-fuer-manuel-schaeffler-80600302.bild.html",
-      "image_title": "FCN-Test gegen Tirol: Kein Platz für Manuel Schäffler"
-    },
-    {
-      "title": "Walter Zeichner veröffentlicht neues Buch : Mister BMW",
-      "teaser": "Kaum jemand kennt BMW so gut wie er: Darum geht es in Walter Zeichners neuem Buch.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-walter-zeichner-veroeffentlicht-neues-buch-mister-bmw-80592042.bild.html",
-      "image_title": "München: Walter Zeichner veröffentlicht neues Buch: Mister BMW"
-    },
-    {
-      "title": "Neuer Abwehr-Boss : Schalke holt Japan-Kapitän",
-      "url": "https://www.bild.de/sport/fussball/fussball/neuer-abwehr-boss-schalke-04-holt-japan-kapitaen-maya-yoshida-von-samporia-genua-80601112.bild.html",
-      "image_title": "Neuer Abwehr-Boss: Schalke 04 holt Japan-Kapitän Maya Yoshida von Sampdoria Genua"
-    },
-    {
-      "title": "Ein Toter, ein Schwerverletzter : Zwei schlimme Arbeitsunfälle im Revier",
-      "teaser": "Zwei Arbeiter sind bei Unfällen im Ruhrgebiet schwer verletzt worden, einer davon tödlich.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/ein-toter-ein-schwerverletzter-schlimme-arbeitsunfaelle-in-hamm-und-gelsenkirche-80599296.bild.html",
-      "image_title": "Ein Toter, ein Schwerverletzter: Schlimme Arbeitsunfälle in Hamm und Gelsenkirchen"
-    },
-    {
-      "title": "Schlager-Star ganz sanft : Olaf Henning rettet Eichhörnchen",
-      "teaser": "Sänger Olaf Henning hat nahe Borken (NRW) ein Eichhörnchen auf einem Rastplatz gerettet.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/olaf-henning-rettet-eichhoernchen-es-haette-die-naechsten-stunden-auf-keinen-fal-80587250.bild.html",
-      "image_title": "Olaf Henning rettet Eichhörnchen: „Es hätte die nächsten Stunden auf keinen Fall überlebt“"
-    },
-    {
-      "title": "In Kleinblittersdorf : Solar-Strom für die ganze Gemeinde",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/in-kleinblittersdorf-solar-strom-fuer-die-ganze-gemeinde-80598926.bild.html",
-      "image_title": "In Kleinblittersdorf: Solar-Strom für die ganze Gemeinde"
-    },
-    {
-      "title": "Alkohol & Schulden : Das verkorkste Leben des mutmaßlichen Polizistenkillers",
-      "teaser": "Beruflich versagt, privat gestrauchelt.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/alkohol-schulden-das-verkorkste-leben-des-mutmasslichen-polizistenkillers-80598354.bild.html",
-      "image_title": "Alkohol & Schulden: Das verkorkste Leben des mutmaßlichen Polizistenkillers"
-    },
-    {
-      "title": "Ich bin dann mal wieder weg : Kater Mao nach 10 Jahren aufgetaucht – aber nur kurz",
-      "teaser": "2012 verschwand Kater Mao aus seinem Zuhause. Dann tauchte er wieder auf – aber nur kurz!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/kater-mao-nach-10-jahren-aufgetaucht-aber-er-blieb-nicht-lange-80586252.bild.html",
-      "image_title": "Kater Mao nach 10 Jahren aufgetaucht – aber er blieb nicht lange!"
-    },
-    {
-      "title": "Heftige Gegenwehr : Einbrecher nach Festnahme durch Polizei tot",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/weissenfels-mutmasslicher-einbrecher-nach-streit-mit-polizei-tot-80600102.bild.html",
-      "image_title": "Weißenfels: Mutmaßlicher Einbrecher nach Streit mit Polizei tot"
-    },
-    {
-      "title": "Rutschen gesperrt, Dampfer auf Grund : 60 Millionen Liter Wasser fehlen in diesem See",
-      "teaser": "Wo früher gebadet wurde, liegt jetzt Sand. Die Rutsche ist gesperrt und die Ausflugsfahrten der „Queen Arendsee“ werden immer schwieriger.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/trockenheit-60-millionen-liter-wasser-fehlen-in-diesem-see-80598192.bild.html",
-      "image_title": "Trockenheit: 60 Millionen Liter Wasser fehlen in diesem See"
-    },
-    {
-      "title": "Nach der 1:3-Testpleite : Hier hakt es noch beim HFC",
-      "teaser": "Nächste Testspiel-Pleite für den HFC: Gegen Herthas Amateure verliert der Drittligist 1:3 (1:3).",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-nach-der-1-3-testpleite-hier-hakt-es-noch-beim-hfc-80592470.bild.html",
-      "image_title": "3. Liga: Nach der 1:3-Testpleite – Hier hakt es noch beim HFC"
-    },
-    {
-      "title": "500 Euro Bußgeld : Ausgangsverbot für Katzen wegen seltenem Vogel",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/500-euro-bussgeld-ausgangsverbot-fuer-katzen-wegen-seltenem-vogel-80597616.bild.html",
-      "image_title": "500 Euro Bußgeld: Ausgangsverbot für Katzen wegen seltenem Vogel"
-    },
-    {
-      "title": "Mini-Schlaganfall : Sorge um Sarah Kern",
-      "teaser": "Sarah Kern hat nach eigener Aussage einen kleinen Schlaganfall",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/mini-schlaganfall-sorge-um-sarah-kern-80598512.bild.html",
-      "image_title": "Mini-Schlaganfall: Sorge um Sarah Kern"
-    },
-    {
-      "title": "Beim Grillen : Mit Brandbeschleuniger nachgeholfen – Verbrennungen",
-      "teaser": "Ein Mann hat beim Grillen am Bodensee Brandbeschleuniger ins offene Feuer geschüttet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/beim-grillen-mit-brandbeschleuniger-nachgeholfen-verbrennungen-80598240.bild.html",
-      "image_title": "Beim Grillen: Mit Brandbeschleuniger nachgeholfen – Verbrennungen"
-    },
-    {
-      "title": "Interesse aus der 3. Liga : Stammspieler könnte Jena verlassen",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/interesse-aus-der-3-liga-stammspieler-koennte-jena-verlassen-80596410.bild.html",
-      "image_title": "Interesse aus der 3. Liga: Stammspieler könnte Jena verlassen"
-    },
-    {
-      "title": "Spezial-Rollator : Große Hilfe für die kleine Anna",
-      "teaser": "Jetzt kann das behinderte Mädchen Anna (5) aus der Ukraine endlich wieder selbst laufen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/spezial-rollator-grosse-hilfe-fuer-die-kleine-anna-80593824.bild.html",
-      "image_title": "Spezial-Rollator: Große Hilfe für die kleine Anna"
-    },
-    {
-      "title": "Vom 1. FC Köln nach Jena : Neuer Spielmacher für Patz",
-      "teaser": "Der neue Spielmacher des FC Carl Zeiss Jena kommt nach BILD-Informationen vom 1. FC Köln.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/vom-1-fc-koeln-nach-jena-neuer-spielmacher-fuer-patz-80586230.bild.html",
-      "image_title": "Vom 1. FC Köln nach Jena: Neuer Spielmacher für Patz"
-    }
-  ]
+  "articles": []
 }
