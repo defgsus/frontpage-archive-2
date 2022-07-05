@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-05T07:19:58",
+  "timestamp": "2022-07-05T08:26:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Trend Micro Maximum Security",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Trend-Micro-Maximum-Security-koennte-Angreifer-auf-PCs-lassen-7162687.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Zero-Day-Luecke-in-Google-Chrome-geschlossen-7162462.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Viele-Jenkins-Plug-ins-als-Schlupfloecher-fuer-Angreifer-7160083.html"
     },
     {
-      "title": "IBM Spectrum Protect",
-      "url": "https://www.heise.de/news/IBM-Spectrum-Protect-Plus-Angreifer-koennten-Admin-Accounts-anlegen-7159714.html"
+      "title": "Sicherheitsupdate: Trend Micro Maximum Security könnte Angreifer auf PCs lassen",
+      "teaser": "Wer Windows mit Trend Micro Maximum Security schützt, sollte die Anti-Viren-Anwendung auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Trend-Micro-Maximum-Security-koennte-Angreifer-auf-PCs-lassen-7162687.html"
     },
     {
       "title": "Ein Jahr nach dem Erpressungstrojaner: Anhalt-Bitterfeld spürt noch die Folgen",
@@ -58,6 +63,16 @@
       "url": "https://www.heise.de/news/Social-Engineering-Angriffe-auf-hochrangige-Politiker-7162346.html"
     },
     {
+      "title": "IT-Sicherheit: BSI warnt vor gezielten Cyberangriffen auf Satelliten",
+      "teaser": "Mit einem \"IT-Grundschutz-Profil für Weltrauminfrastrukturen\" empfiehlt das BSI eine Mindestabsicherung für Satelliten über den gesamten Lebenszyklus hinweg.",
+      "url": "https://www.heise.de/news/IT-Sicherheit-BSI-warnt-vor-gezielten-Cyberangriffen-auf-Satelliten-7162295.html"
+    },
+    {
+      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
+      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
+      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
+    },
+    {
       "title": "Microsoft: Warnung vor Gebührenfallen durch Android-Apps",
       "teaser": "Android-Apps umgehen Sicherheitsmaßnahmen für WAP-Billing, analysiert Microsoft. Diese Apps seien nach Spyware die zweitgrößte Bedrohung im Play Store.",
       "url": "https://www.heise.de/news/Microsoft-Warnung-vor-Gebuehrenfallen-durch-Android-Apps-7162062.html",
@@ -67,11 +82,6 @@
       "title": "l+f: Bug-Bounty-Insider kassiert ab",
       "teaser": "Auch Cybersecurity-Unternehmen sind nicht vor internen kriminellen Machenschaften gefeit.",
       "url": "https://www.heise.de/news/l-f-Bug-Bounty-Insider-kassiert-ab-7161837.html"
-    },
-    {
-      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
-      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
-      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "CISA empfiehlt Installation von repariertem Windows-Update für Active Directory",
@@ -149,17 +159,6 @@
       "teaser": "Am Mittwoch wurden sowohl staatliche als auch private norwegische Webseiten Opfer von Cyberangriffen. Sie gingen offenbar von pro-russischen Cybergangs aus.",
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-norwegische-Webseiten-7158867.html",
       "image_title": "Aufmacher Cyberangriffe auf Norwegen"
-    },
-    {
-      "title": "Cybersicherheitsunternehmen Secunet übernimmt Open-Source-Projekt strongSwan",
-      "teaser": "strongSwan, eine Software, die das IKE-Protokoll für den Aufbau von VPNs per IPsec umsetzt, geht an einen neuen Rechteinhaber.",
-      "url": "https://www.heise.de/news/Cybersicherheitsunternehmen-Secunet-uebernimmt-Open-Source-Projekt-strongSwan-7158597.html"
-    },
-    {
-      "title": "Top 25 der gefährlichsten Software-Schwachstellen 2022",
-      "teaser": "Das CWE-Projekt hat eine Liste der 25 gefährlichsten Sicherheitslücken für das Jahr 2022 zusammengestellt. Sie soll helfen, Risiken zu minimieren.",
-      "url": "https://www.heise.de/news/Top-25-der-gefaehrlichsten-Software-Schwachstellen-2022-7158261.html",
-      "image_title": "Aufmacher Top25 CWE-Sicherheitslücken 2022"
     },
     {
       "title": "heise Security Tour 2022",
