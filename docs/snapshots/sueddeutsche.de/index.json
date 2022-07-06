@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-06T04:08:17",
+  "timestamp": "2022-07-06T05:31:26",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -122,11 +128,11 @@
   ],
   "articles": [
     {
-      "title": "Kommen die Ökosiegel für Atommeiler?",
-      "teaser": "Das Europaparlament könnte an diesem Mittwoch ein brisantes Gesetz stoppen. Der Rechtsakt würde Investitionen in Kern- und Gaskraftwerke für nachhaltig erklären. Antworten auf die wichtigsten Fragen.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/taxonomie-eu-parlament-atom-gas-delegierter-rechtsakt-1.5615410",
-      "author": "Björn Finke, Brüssel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615411/1000x420"
+      "title": "Wie entwickelt sich das Wetter bei Ihnen?",
+      "teaser": "Extreme Hitze, Trockenheit und Starkregen: In diesem Juni haben sich die Auswirkungen des Klimawandels in Deutschland deutlich gezeigt. Finden Sie interaktiv heraus, was das für Ihren Wohnort bedeutet.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/klimakrise-wie-war-der-juni-bei-ihnen-e161843/",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615451/1000x420",
+      "image_title": "Hochsommer im Juni"
     },
     {
       "title": "Zwei Rücktritte innerhalb weniger Minuten",
@@ -138,24 +144,18 @@
     },
     {
       "title": "Selenskij kritisiert ukrainische Armeeführung",
-      "teaser": "Wegen neuer Meldeauflagen für Wehrpflichtige gibt es scharfe Kritik in sozialen Netzwerken. Der ukrainische Präsident bittet nun, \"derartige Entscheidungen nicht ohne mich zu treffen\".",
+      "teaser": "Wegen neuer Meldeauflagen für Wehrpflichtige gibt es scharfe Kritik in sozialen Netzwerken. Der ukrainische Präsident reagiert. Lettlands Regierung will die Wehrpflicht wieder einführen.",
       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-1.5614334",
       "author": "Alle Entwicklungen im Liveblog",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5615682/208x156",
       "image_title": "Männer zum Kraulen - Gibt es ein Comeback der Brustbehaarung?"
     },
     {
-      "title": "Siebenfache Mordanklage nach Bluttat bei US-Parade",
-      "teaser": "\"Dies sind nur die ersten von vielen Anklagen\", sagt der örtliche Staatsanwalt. Ein zwei Jahre alter Junge verliert durch die Schüsse beide Eltern. Die Ermittler veröffentlichen neue Erkenntnisse zum Tathergang.",
-      "url": "https://www.sueddeutsche.de/panorama/highland-park-chicago-1.5615680",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615681/208x156"
-    },
-    {
-      "title": "Von deutschen Kartoffeln und Rassismus",
-      "teaser": "Die Debatte um Ferda Ataman führt wieder einmal vor, wie oft mit zweierlei Maßstäben gemessen wird: Warum die Bezeichnung \"Kartoffel\" für Deutsche nicht dasselbe ist wie eine rassistische Beschimpfung.",
-      "url": "https://www.sueddeutsche.de/meinung/ferda-ataman-antidiskriminierungsbeauftragte-rassismus-kartoffel-1.5615303",
-      "author": "Kommentar von Carim Soliman",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5613684/600x337"
+      "title": "Kommen die Ökosiegel für Atommeiler?",
+      "teaser": "Das Europaparlament könnte an diesem Mittwoch ein brisantes Gesetz stoppen. Der Rechtsakt würde Investitionen in Kern- und Gaskraftwerke für nachhaltig erklären. Antworten auf die wichtigsten Fragen.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/taxonomie-eu-parlament-atom-gas-delegierter-rechtsakt-1.5615410",
+      "author": "Björn Finke, Brüssel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615411/208x156"
     },
     {
       "title": "\"Batman ist eine positive Figur\"",
@@ -165,25 +165,24 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5427143/600x337"
     },
     {
+      "title": "Von deutschen Kartoffeln und Rassismus",
+      "teaser": "Die Debatte um Ferda Ataman führt wieder einmal vor, wie oft mit zweierlei Maßstäben gemessen wird: Warum die Bezeichnung \"Kartoffel\" für Deutsche nicht dasselbe ist wie eine rassistische Beschimpfung.",
+      "url": "https://www.sueddeutsche.de/meinung/ferda-ataman-antidiskriminierungsbeauftragte-rassismus-kartoffel-1.5615303",
+      "author": "Kommentar von Carim Soliman",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5613684/600x337"
+    },
+    {
+      "title": "Siebenfache Mordanklage nach Bluttat bei US-Parade",
+      "teaser": "\"Dies sind nur die ersten von vielen Anklagen\", sagt der örtliche Staatsanwalt. Ein Zweijähriger verliert durch die Schüsse bei Chicago beide Eltern. Ermittler veröffentlichen neue Erkenntnisse.",
+      "url": "https://www.sueddeutsche.de/panorama/highland-park-chicago-1.5615680",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615681/208x156"
+    },
+    {
       "title": "Es ist zum Weinen",
       "teaser": "Markus Lanz nimmt sich für seine Talkshow gleich zwei große Probleme vor: Corona und den Krieg. Ist das nicht zu viel auf einmal? Am Ende fällt ein Satz, den man über beide Themen leider nie hören wird.",
       "url": "https://www.sueddeutsche.de/medien/markus-lanz-karl-lauterbach-1.5615191",
       "author": "Cornelius Pollmer",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5558760/208x156"
-    },
-    {
-      "title": "Lage in Bayerns Krankenhäusern spitzt sich zu",
-      "teaser": "Die Inflation droht ein Loch von rund einer halben Milliarde Euro in die Haushalte der Kliniken im Freistaat zu reißen. Gleichzeitig fällt immer mehr Personal wegen Corona aus, Operationen werden verschoben. Ausgerechnet jetzt stehen potentielle Super-Spreading-Events vor der Tür.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-krankenhaeuser-corona-inflation-volksfest-1.5615453",
-      "author": "Deniz Aykanat, Simone Kamhuber, Johann Osel und Patrick Wehner",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615456/208x156"
-    },
-    {
-      "title": "\"Demokratie ist nicht einfach\"",
-      "teaser": "Ausgerechnet das bisher so konservative Chile könnte bald eine der progressivsten Verfassungen der Welt bekommen - doch die Zustimmung zu dem Entwurf ist längst nicht mehr sicher.",
-      "url": "https://www.sueddeutsche.de/politik/chile-verfassung-entwurf-1.5615447",
-      "author": "Christoph Gurk , Buenos Aires",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615448/600x337"
     },
     {
       "title": "Fields-Medaille für Maryna Viazovska: die Mathematik der Kugelpackung",
@@ -193,11 +192,25 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5615219/208x156"
     },
     {
-      "title": "\"Es handelt sich also um einen eindeutigen Vertrauensbeweis\"",
-      "teaser": "Winfried Nerdinger geht in die zweite Amtszeit als Präsident der Bayerischen Akademie der Schönen Künste. Er sieht sich durch das Wahlergebnis bestätigt. Doch ist tatsächlich Ruhe eingekehrt unter deren Mitgliedern?",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-winfried-nerdinger-bayerische-akademie-der-schoenen-kuenste-1.5614529",
-      "author": "Interview von Sabine Reithmaier",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.1936070/208x156"
+      "title": "Lage in Bayerns Krankenhäusern spitzt sich zu",
+      "teaser": "Die Inflation droht ein Loch von rund einer halben Milliarde Euro in die Haushalte der Kliniken im Freistaat zu reißen. Gleichzeitig fällt immer mehr Personal wegen Corona aus, Operationen werden verschoben. Ausgerechnet jetzt stehen potentielle Superspreader-Events vor der Tür.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-krankenhaeuser-corona-inflation-volksfest-1.5615453",
+      "author": "Deniz Aykanat, Simone Kamhuber, Johann Osel und Patrick Wehner",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615456/600x337"
+    },
+    {
+      "title": "Wenn Experten plötzlich schweigen",
+      "teaser": "Das Nürnberger Doku-Zentrum Reichsparteitagsgelände hatte sich an der Debatte um den Standort des Operninterim rege beteiligt. Bis jetzt. Nun äußern sich die Historiker nicht mehr. Der Grund ist unerfreulich.",
+      "url": "https://www.sueddeutsche.de/bayern/nuernberg-operninterim-ns-gelaende-dokuzentrum-1.5615192",
+      "author": "Kolumne von Olaf Przybilla",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.1180088/208x156"
+    },
+    {
+      "title": "\"Das ist Wahnsinn\"",
+      "teaser": "Der Parcours der Tour führt in diesem Jahr über die gefürchteten Pflastersteinpassagen im Norden Frankreichs. Im Peloton ist die Idee sehr umstritten - auch wegen übler Erfahrungen in der Vergangenheit.",
+      "url": "https://www.sueddeutsche.de/sport/tour-de-france-5-etappe-pflastersteine-paris-roubaix-1.5615424",
+      "author": "Johannes Aumüller, Arenberg/München",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615426/600x337"
     },
     {
       "title": "Ex-Schalke-Trainer Baum trainiert jetzt Kinder beim TSV Trudering",
@@ -215,11 +228,11 @@
       "image_title": "Streaming kompakt - ´King of Stonks\" bei Netflix"
     },
     {
-      "title": "Ruf mich an!",
-      "teaser": "Die Deutschen nutzen das gute alte Festnetz wieder mehr. Kein Wunder: Wer hat schon Lust auf die Dauerberieselung durch digitale Sirenen?",
-      "url": "https://www.sueddeutsche.de/panorama/telefon-festnetz-mobilfunk-1.5615247",
-      "author": "Martin Zips",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615251/208x156"
+      "title": "\"Ein Knutschfleck ist eine Trophäe\"",
+      "teaser": "Gaby Christensen alias Ixi wurde 1983 mit dem Neue-Deutsche-Welle-Lied \"Der Knutschfleck\" bekannt. Den Schlager hat sie seit vier Jahrzehnten an der Backe - wie einen echten Knutschfleck. Wie geht es ihr damit?",
+      "url": "https://www.sueddeutsche.de/panorama/tag-des-kusses-knutschfleck-ixi-1.5615212",
+      "author": "Interview von Titus Arnu",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615214/208x156"
     },
     {
       "title": "Kann das Kind schwimmen?",
@@ -251,6 +264,13 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5615271/208x156"
     },
     {
+      "title": "Unterwegs mit Menschen, die die Stadt bewegen",
+      "teaser": "Beim neuen SZ-Podcast \"München Persönlich\" geht es quer durch die Stadt. Interessante Persönlichkeiten geben Einblicke in ihr Leben, ihre Arbeit, beschreiben ihren perfekten München-Tag und verraten Lieblingsorte. Folge eins mit Münchens grüner Bürgermeisterin Katrin Habenschaden.",
+      "url": "https://www.sueddeutsche.de/muenchen/sz-podcast-muenchen-persoenlich-habenschaden-1.5615304",
+      "author": "Sabine Buchwald, Ulrike Heidenreich und René Hofmann",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615305/208x156"
+    },
+    {
       "title": "Die Region soll zum Windpark werden",
       "teaser": "In München und den benachbarten Landkreisen könnten in den kommenden Jahren 400 neue Anlagen entstehen. Mit den neuen Vorgaben der Bundesregierung soll der Ausbau erleichtert werden.",
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-windkraft-energiewende-1.5615547",
@@ -263,13 +283,6 @@
       "url": "https://www.sueddeutsche.de/muenchen/starnberg/gilching-argelsried-putzfrau-s-bahnhof-bundesrepublik-klage-1.5615280",
       "author": "Christian Deussing",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5484045/208x156"
-    },
-    {
-      "title": "\"Die katholische Kirche ist ein männerbündischer Machtverein\"",
-      "teaser": "Geht es nach Kardinal Marx, könnte es bald Diakoninnen geben - doch bisher sperrt sich der Vatikan gegen die Gleichbehandlung von Frauen. Ein Gespräch mit Uli Spindler von \"Maria 2.0\" über Kirchenaustritte, Reformbewegungen und eine Bibel ohne Frauen.",
-      "url": "https://www.sueddeutsche.de/muenchen/starnberg/katholische-kirche-diakonat-marx-maria-2-0-uli-spindler-interview-1.5615499",
-      "author": "Interview von Simon Sales Prado",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.3965448/208x156"
     },
     {
       "title": "Das große Olympiapark-Rätsel",
@@ -314,17 +327,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5615273/208x156"
     },
     {
+      "title": "\"Demokratie ist nicht einfach\"",
+      "teaser": "Ausgerechnet das bisher so konservative Chile könnte bald eine der progressivsten Verfassungen der Welt bekommen - doch die Zustimmung zu dem Entwurf ist längst nicht mehr sicher.",
+      "url": "https://www.sueddeutsche.de/politik/chile-verfassung-entwurf-1.5615447",
+      "author": "Christoph Gurk , Buenos Aires",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615448/208x156"
+    },
+    {
       "title": "Zwei Minister aus Johnsons Kabinett treten zurück",
       "teaser": "Finanzminister Rishi Sunak und Gesundheitsminister Sajid Javid geben in Folge eines Skandals um sexuelle Belästigung durch ein führendes Mitglied der Tories ihren Rücktritt bekannt. Sie kritisieren den Premierminister scharf.",
       "url": "https://www.sueddeutsche.de/politik/grossbritannien-minister-ruecktritt-johnson-1.5615633",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5615634/208x156"
-    },
-    {
-      "title": "Warum Botschafter Melnyk Deutschland verlassen soll",
-      "teaser": "Die jüngsten Äußerungen des ukrainischen Botschafters Andrij Melnyk über den Nationalistenführer Bandera gingen offenbar zu weit. Berichten zufolge soll der Diplomat zurück nach Kiew ins Außenministerium. Was wirft man ihm vor - und was erwartet ihn in Kiew?",
-      "url": "https://www.sueddeutsche.de/politik/andrij-melnyk-ukraine-botschafter-stepan-bandera-1.5615386",
-      "author": "Cathrin Kahlweit, Wien",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5615387/208x156"
     },
     {
       "title": "Wer trägt Schuld am Einsturz der Morandi-Brücke?",

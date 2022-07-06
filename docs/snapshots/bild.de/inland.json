@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-06T04:08:43",
+  "timestamp": "2022-07-06T05:31:54",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,212 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.2d8807ed.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.2beae18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.7abfe18e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.e48da558.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Lkw-Fahrer überrollt Kollegen : Todesdrama nach Handy-Spielerei auf Autobahn",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-todesdrama-nach-handy-spielerei-auf-der-autobahn-80612960.bild.html",
-      "image_url": "https://images.bild.de/62c4812e050d6808e2feccd6/419232cc0b3694acf5c3615387fa7057,a3bb0ab6?w=656",
-      "image_title": "Prozess: Todesdrama nach Handy-Spielerei auf der Autobahn"
-    },
-    {
-      "title": "Nürnberger in der Ukraine : Nils (35) löscht die Feuer des Krieges",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/nuernberger-im-ukraine-krieg-nils-loescht-die-feuer-des-krieges-80610996.bild.html",
-      "image_url": "https://images.bild.de/62c4530b60a3e73b21ea06b3/7ac35cfbde771e11bf7881d9236685bc,af0e1953?w=320",
-      "image_title": "Nürnberger im Ukraine-Krieg: Nils löscht die Feuer des Krieges"
-    },
-    {
-      "title": "Vom Azubi zur Chefin : Sie ist Deutschlands jüngste Tierpark-Direktorin",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/eilenburg-hat-deutschlands-juengste-zoochefin-23-80603202.bild.html",
-      "image_url": "https://images.bild.de/62c3c8272c38e9436b55c0f5/743e946f7919e6105b7292374b719e5d,b5981b27?w=320",
-      "image_title": "Tierpark Eilenburg: Sie ist Deutschlands jüngste Zoochefin (23)"
-    },
-    {
-      "title": "Gefährliche Substanz abbekommen : Mann (45) bei Arbeitsunfall tödlich verletzt",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/schmalkalden-mann-45-bei-arbeitsunfall-toedlich-verunglueckt-80607356.bild.html",
-      "image_url": "https://images.bild.de/62c416ae150fd13b038c5824/1707ebca543b9d4f8e57e50b28434d7c,de7753a3?w=320",
-      "image_title": "Schmalkalden: Mann (45) bei Arbeitsunfall tödlich verunglückt"
-    },
-    {
-      "title": "Unfall-Drama auf der A 2 : Lkw kracht in Stauende, Folge-Crash endet tödlich",
-      "teaser": "Auf der A 2 bei Magdeburg kam es am Dienstag gleich zu zwei schweren Unfällen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-auf-a-2-lkw-kracht-in-stauende-1-toter-zwei-schwerst-verletzte-80610840.bild.html",
-      "image_title": "Unfall auf A 2: Lkw kracht in Stauende - 1 Toter, zwei schwerst Verletzte"
-    },
-    {
-      "title": "Kolleginnen warnten sie vor ihm : Dorin V. verfiel dem Killer aus der Dating-App",
-      "teaser": "Dorin V. lernte Killer Marcus W. online kennen. Ihre Kollegen konnten ihn nie leiden.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-dorin-v-27-lernte-ihn-ueber-dating-app-kennen-80602714.bild.html",
-      "image_title": "Leipzig: Dorin V. (†43) lernte ihn über Dating-App kennen"
-    },
-    {
-      "title": "Nur knapp überlebt : Mann (41) überfährt Ex-Freundin (45) mit Auto",
-      "teaser": "Ein Mann (41) soll versucht haben, seine ehemalige Lebensgefährtin zu überfahren.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/hohe-boerde-schwer-verletzt-mann-ueberfaehrt-ex-freundin-45-mit-auto-80610942.bild.html",
-      "image_title": "Hohe Börde: Schwer verletzt – Mann überfährt Ex-Freundin (45) mit Auto"
-    },
-    {
-      "title": "Studie zu Erfahrungen von Polizisten : Polizei in Baden-Württemberg boykottiert Studie",
-      "teaser": "Studie zu Polizisten-Alltag soll Probleme durchleuchten – im Südwesten wird daraus nichts.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/polizei-in-baden-wuerttemberg-boykottiert-bundesweite-studie-80606560.bild.html",
-      "image_title": "Polizei in Baden-Württemberg boykottiert bundesweite Studie"
-    },
-    {
-      "title": "Mann stirbt beim Rasenmähen : Experten untersuchen Todessturz in Erdloch",
-      "teaser": "Im thüringischen Bad Sulza stürzte ein Mann (62) beim Rasenmähen in ein Erdloch und starb.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/mann-starb-bei-erdfall-ursachenforschung-in-bad-sulza-laeuft-80604482.bild.html",
-      "image_title": "Mann starb bei Erdfall: Ursachenforschung in Bad Sulza läuft"
-    },
-    {
-      "title": "Schrecklicher Vorfall in Erlangen : Kind und Frau stürzen aus Hochhaus – tot",
-      "teaser": "Ein Kind und eine Frau sind wohl bei einem Sturz aus einem Hochhaus tödlich verunglückt.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/sturz-aus-hochhaus-in-erlangen-junges-kind-und-frau-tot-80606248.bild.html",
-      "image_title": "Sturz aus Hochhaus in Erlangen: Kind und Frau tot"
-    },
-    {
-      "title": "Er war auf Bundesstraße : Polizei lockt Hund mit Wurstbrot",
-      "teaser": "Nürnberg – Die Polizei hat einen herrenlosen Hund in Nürnberg nur mit einem Wurstbrot einfangen können. Eine Streife hatte das Tier ...",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/polizei-lockt-hund-mit-wurstbrot-in-nuernberg-von-strasse-80607112.bild.html",
-      "image_title": "Polizei lockt Hund mit Wurstbrot in Nürnberg von Straße"
-    },
-    {
-      "title": "Schwindelerregende Summe : Frisst Ihre Katze DIESEN Vogel, wird es richtig teuer",
-      "teaser": "In Walldorf kostet es 500 Euro Strafe, wenn man seine Katze vor die Haustür lässt.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/500-euro-bussgeld-ausgangsverbot-fuer-katzen-wegen-seltenem-vogel-80597616.bild.html",
-      "image_title": "Walldorf: 500 Euro Strafe verhängt – Ausgangsverbot für Katzen"
-    },
-    {
-      "title": "Fränkische Schweiz : Touri stürzt in die Tiefe",
-      "teaser": "Eine Touristin hat sich bei einem Sturz aus etwa drei Metern Höhe am Rücken verletzt.",
-      "url": "https://www.bild.de/regional/muenchen/nuernberg-news/fraenkische-schweiz-frau-stuerzt-beim-bergsteigen-in-tiefe-80605636.bild.html",
-      "image_title": "Fränkische Schweiz: Frau stürzt beim Bergsteigen in Tiefe"
-    },
-    {
-      "title": "Ranking der Wochen- und Bauernmärkte : Platz eins für Viktualienmarkt",
-      "teaser": "Welcher Wochenmarkt der Beste ist, wollte das Kurzreiseportal „kurz-mal-weg.de“ wissen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ranking-der-wochen-und-bauernmaerkte-platz-eins-fuer-viktualienmarkt-80604900.bild.html",
-      "image_title": "Ranking der Wochen- und Bauernmärkte: Platz eins für Viktualienmarkt"
-    },
-    {
-      "title": "CSU fordert Hilfe von der EU : Tausende Lappen aus der Ukraine bald ungültig",
-      "teaser": "Flüchtlingen wie Yurii Polishchuck droht die Fahrprüfung. Kann die EU helfen?",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/tausende-fuehrerscheine-aus-der-ukraine-bald-ungueltig-80598700.bild.html",
-      "image_title": "Tausende Führerscheine aus der Ukraine bald ungültig"
-    },
-    {
-      "title": "Im Drogenrausch über Dächer geklettert : Komm da runter, Mann!",
-      "teaser": "Mehr als ein dutzend Rettungskräfte hielt Marc B. (32) drei Stunden lang in Atem.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-mann-im-drogenrausch-haelt-polizei-mehrere-stunden-in-atem-80599602.bild.html",
-      "image_title": "Thüringen: Mann im Drogenrausch hält Polizei mehrere Stunden in Atem"
-    },
-    {
-      "title": "„Verbrechen möglich“ : Frau (37) tot in ihrer Wohnung gefunden",
-      "teaser": "In Auerbach (Sachsen) wurde Montagmittag die Leiche einer Frau (37) entdeckt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-frau-37-tot-in-ihrer-wohnung-gefunden-80601366.bild.html",
-      "image_title": "Sachsen: Frau (37) tot in ihrer Wohnung gefunden"
-    },
-    {
-      "title": "Leipzig Hauptbahnhof : Wie lange steht diese E-Ladestation noch leer",
-      "teaser": "In Leipzig gibt es ein E-Problem: Für die zugelassenen 12 587 Elektro- sowie Hybridautos stehen nur 750 Ladesäulen bereit.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-wie-lange-steht-diese-e-ladestation-noch-leer-80602808.bild.html",
-      "image_title": "Sachsen: Wie lange steht diese E-Ladestation noch leer"
-    },
-    {
-      "title": "Caravan-Park explodiert : Dauercamper-Drama an der Talsperre",
-      "teaser": "Fassungslos stehen Betroffene und Betreiber vor den verkohlten Trümmern ihrer Erholungs-Oase an der Koberbachtalsperre (Sachsen).",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/grossbrand-dauercamper-drama-an-der-koberbachtalsperre-80602376.bild.html",
-      "image_title": "Großbrand: Dauercamper-Drama an der Koberbachtalsperre"
-    },
-    {
-      "title": "Horror-Erdfall in Thüringen : Mann (62) stürzt beim Rasenmähen in den Tod",
-      "teaser": "Im thüringischen Bad Sulza ist ein Mann beim Rasenmähen tödlich verunglückt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-man-stuerzt-beim-rasenmaehen-in-den-tod-80600248.bild.html",
-      "image_title": "Unfall in Thüringen: Mann stürzt beim Rasenmähen in den Tod"
-    },
-    {
-      "title": "Heftige Gegenwehr : Einbrecher nach Festnahme durch Polizei tot",
-      "teaser": "Nach einer Auseinandersetzung mit Polizisten starb der Mann im Krankenhaus.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/weissenfels-mutmasslicher-einbrecher-nach-streit-mit-polizei-tot-80600102.bild.html",
-      "image_title": "Weißenfels: Einbrecher nach Festnahme durch Polizei tot"
-    },
-    {
-      "title": "Tragisches Unglück : Mann (31) stürzt von Kletterfelsen – tot",
-      "teaser": "Am Sonntagvormittag stürzte ein Mann (31) beim Klettern von einer Felswand und starb.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/toedlicher-kletterunfall-in-sachsen-mann-stuerzt-von-felsen-tot-80599102.bild.html",
-      "image_title": "Tödlicher Kletterunfall in Sachsen: Mann stürzt von Felsen – tot"
-    },
-    {
-      "title": "Polizei braucht Hilfe : Wer kennt diese Zähne?",
-      "teaser": "Die Fahndung ist absolut ungewöhnlich: Wer kennt diese Zähne? Sie gehören zu einer Toten.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/polizei-fahndet-mit-gebiss-wer-kennt-diese-zaehne-80597430.bild.html",
-      "image_title": "Polizei in Mainz will Tote frau identifizieren: Wer kennt diese Zähne?"
-    },
-    {
-      "title": "BILD feiert in Köln mit : So schön war der größte CSD!",
-      "url": "https://www.bild.de/video/clip/video/bild-feiert-in-koeln-mit-so-schoen-war-der-groesste-csd-80594832,auto=true.bild.html",
-      "image_title": "BILD feiert in Köln mit: So schön war der größte CSD!"
-    },
-    {
-      "title": "Verkehrsminister Wissing zum Urlaubs-Chaos : „Spüren jetzt Auswirkungen des Lockdowns“",
-      "url": "https://www.bild.de/video/clip/video/verkehrsminister-wissing-zum-urlaubs-chaos-spueren-jetzt-auswirkungen-des-lockdo-80593832,auto=true.bild.html",
-      "image_title": "Verkehrsminister Wissing zum Urlaubs-Chaos: „Spüren jetzt Auswirkungen des Lockdowns“"
-    },
-    {
-      "title": "Experten-Kommission : Entschuldigung für manche Corona-Maßnahmen?",
-      "url": "https://www.bild.de/video/clip/video/experten-kommission-koennen-wir-auf-eine-entschuldigung-fuer-manche-corona-massn-80571804,auto=true.bild.html",
-      "image_title": "Experten-Kommission: Entschuldigung für manche Corona-Maßnahmen?"
-    }
-  ]
+  "articles": []
 }
