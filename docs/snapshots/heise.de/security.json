@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-06T10:25:49",
+  "timestamp": "2022-07-06T11:19:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM-Software",
+      "url": "https://www.heise.de/news/IBM-Engineering-Test-Management-Dateien-im-System-ueber-Luecke-loeschbar-7163821.html"
+    },
+    {
       "title": "OpenSSL",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Codeschmuggel-durch-Luecke-in-OpenSSL-moeglich-7163675.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Wichtiges-Sicherheitsupdate-fuer-Nvidias-KI-System-DGX-A100-erschienen-7162879.html"
     },
     {
-      "title": "IBM Business Automation Workflow",
-      "url": "https://www.heise.de/news/IBM-warnt-vor-Codeschmuggel-in-Business-Automation-Workflow-7162718.html"
+      "title": "IBM Engineering Test Management: Dateien im System über Lücke löschbar",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für Software vom IBM. Angreifer könnten unter anderem Schadcode ausführen.",
+      "url": "https://www.heise.de/news/IBM-Engineering-Test-Management-Dateien-im-System-ueber-Luecke-loeschbar-7163821.html"
     },
     {
       "title": "Jetzt aktualisieren! Codeschmuggel durch Lücke in OpenSSL möglich",
@@ -65,14 +70,14 @@
       "url": "https://www.heise.de/news/Wichtiges-Sicherheitsupdate-fuer-Nvidias-KI-System-DGX-A100-erschienen-7162879.html"
     },
     {
+      "title": "Verzweiflung und Rebellion: Wie hybride Arbeitsmodelle IT-Teams zermürben",
+      "teaser": "Wenn Mitarbeiter ihren Arbeitsort flexibel wählen können, vergrößert sich die Angriffsfläche für Cyberrisiken und der Support-Aufwand steigt. Dies führt zu erheblicher Mehrbelastung im IT-Team und zu Konflikten zwischen Security-Verantwortlichen und Nutzern, wie der HP Wolf Security-Report „Rebellion & Rejections\" zeigt.",
+      "url": "https://www.heise.de/solutions/hp/verzweiflung-und-rebellion-wie-hybride-arbeitsmodelle-it-teams-zermuerben/?source=nat_teas"
+    },
+    {
       "title": "Jetzt für den Hochschulzertifikatskurs zum Datenschutzmanagement registrieren!",
       "teaser": "Der Weiterbildungskurs der Hochschule Hannover zum Datenschutzmanagement qualifiziert Teilnehmer zum Datenschutzbeauftragten. Anmeldeschluss ist der 1. August.",
       "url": "https://www.heise.de/news/Jetzt-fuer-den-Hochschulzertifikatskurs-zum-Datenschutzmanagement-registrieren-7162693.html"
-    },
-    {
-      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
-      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
-      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "Angeblich eine Milliarde Datensätze bei Shanghaier Polizei gestohlen",
@@ -157,11 +162,6 @@
       "image_title": "Aufmacher 17 0dy-Lücken in H1/2022 itW missbraucht"
     },
     {
-      "title": "Sicherheitsupdates: Viele Jenkins-Plug-ins als Schlupflöcher für Angreifer",
-      "teaser": "Software-Entwickler aufgepasst: Lücken in Plug-ins für den Automation-Server Jenkins geschlossen. Etliche Patches lassen aber noch auf sich warten.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Viele-Jenkins-Plug-ins-als-Schlupfloecher-fuer-Angreifer-7160083.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "IT-Sicherheit bekommt – auch angesichts des Kriegs in der Ukraine – einen noch höheren Stellenwert. Steuern Sie jetzt aktiv gegen: Mit der eintägigen heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0622.hs_teaser.link.link"
@@ -183,6 +183,11 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
+      "title": "WithSecure hängt beim Scannen",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/WithSecure-haengt-beim-Scannen/posting-41255401/show/"
+    },
+    {
       "title": "Re: Desinfec‘t 2022 in Firma einsetzen? Link mit interessanter Loesung.",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-2022-in-Firma-einsetzen-Link-mit-interessanter-Loesung/posting-41253617/show/"
@@ -191,11 +196,6 @@
       "title": "Re: Desinfect Download - wo ?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-Download-wo/posting-41251662/show/"
-    },
-    {
-      "title": "Re: Error 1: Unzulässige Funktion (desinfect2usb)",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Error-1-Unzulaessige-Funktion-desinfect2usb/posting-41251653/show/"
     }
   ]
 }
