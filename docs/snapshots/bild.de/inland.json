@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-07T14:28:05",
+  "timestamp": "2022-07-07T15:24:52",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.5825cf84.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.906c62a1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0622fca8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.e48da558.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Gaskartusche explodiert : Festivalbesucher (24) auf Zeltplatz schwer verletzt",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/explodierte-gaskartusche-besucher-bei-splash-festival-schwer-verletzt-80630914.bild.html",
-      "image_url": "https://images.bild.de/62c6c8c1e6b08c39d6de4dfe/c0ab2662c5a54fefe27bb31f282e6299/Kennung_Symbolfoto,a48ec7ee?w=656",
-      "image_title": "Explodierte Gaskartusche: Besucher bei splash! Festival schwer verletzt"
-    },
-    {
-      "title": "SUCHE NACH VERMISSTER YOLANDA : Darum wird die Baugrube nicht wieder geöffnet",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/vermisste-yolanda-klug-trotz-leichengeruch-wird-baugrube-nicht-geoeffnet-80628390.bild.html",
-      "image_url": "https://images.bild.de/62c6a2c860a3e73b21ea09b3/b46edf49fa6a47574cfaa9159b7b43c2,e2e9fd1c?w=320",
-      "image_title": "Vermisste Yolanda: Baugrube wird nicht geöffnet – obwohl Spürhund anschlägt"
-    },
-    {
-      "title": "Von Fotofalle überführt : Wolf randaliert bei Familie in Sachsen",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-wolf-randaliert-auf-privatgrundstueck-80631634.bild.html",
-      "image_url": "https://images.bild.de/62c6d2af60a3e73b21ea0a28/0a03beffdea05068853b5e26ff1cc984,14bbdc1e?w=320",
-      "image_title": "Sachsen: Wolf randaliert auf Privatgrundstück"
-    },
-    {
-      "title": "Rentner reden Teuer-Klartext : „Es wird wie 1920. Geld wird wertlos“",
-      "url": "https://www.bild.de/news/inland/news-inland/rentner-reden-teuer-klartext-es-wird-wie-1920-geld-wird-wertlos-80512052.bild.html",
-      "image_url": "https://images.bild.de/62b7488a40912d503a3305fc/47d04b2e93556d3ab3611a6902311e06,60bcc90?w=320",
-      "image_title": "Inflations-Klartext der Rentner: „Es wird wie 1920. Geld wird wertlos“"
-    },
-    {
-      "title": "Pferde ausgebüxt : Polizei-Rodeo um 8 PS in Sachsen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/pferde-ausgebuext-polizei-rodeo-um-8-ps-in-sachsen-80629934.bild.html",
-      "image_url": "https://images.bild.de/62c6b667f261a306986ad545/2481a67c16ba1e24a5914c5771847ae6,be914d74?w=320",
-      "image_title": "Pferde ausgebüxt: Polizei-Rodeo um 8 PS in Sachsen"
-    },
-    {
-      "title": "Nach wüster Alkoholfahrt in Fürth : Anklage gegen Laster-Fahrer",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/nach-wuester-alkoholfahrt-in-fuerth-anklage-gegen-laster-fahrer-80629514.bild.html",
-      "image_title": "Nach wüster Alkoholfahrt in Fürth: Anklage gegen Laster-Fahrer"
-    },
-    {
-      "title": "Feuerserie in Neubrandenburg geht weiter : Wieder Brandstiftung in Bootsschuppen-Anlage",
-      "teaser": "Schon wieder hat ein oder mehrere Brandstifter in der Bootsschuppenanlage in Neubrandenburg zugeschlagen.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/brandserie-geht-weiter-wieder-feuer-bei-bootsschuppen-in-neubrandenburg-80627698.bild.html",
-      "image_title": "Brandstiftung: Wieder Feuer bei Bootsschuppen-Anlage in Neubrandenburg"
-    },
-    {
-      "title": "Gigantisches Wasserbecken bei Karl's : Erdbeerhof hat Deutschlands größten Regenspeicher",
-      "teaser": "Wenn die Erde auf den Nachbarfeldern längst Staub ist, ist bei Karls schönste Erntezeit.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/leipzig-news/erlebnisdorf-roevershagen-hat-deutschlands-groesstes-regenspeicherbecken-80585842.bild.html",
-      "image_title": "Rövershagen: Erdbeerhof hat Deutschlands größtes Regenspeicherbecken"
-    },
-    {
-      "title": "Beim Wandern in Österreich : Deutscher (57) stürzt in den Tod",
-      "teaser": "Ein 57-jähriger Wanderer aus Erfurt ist am Stubaier Höhenweg in den Tod gestürzt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/drama-beim-bergwandern-erfurter-57-stuerzt-in-oesterreich-in-den-tod-80628920.bild.html",
-      "image_title": "Unfall: Deutscher (57) stürzt beim Wandern in Österreich in den Tod"
-    },
-    {
-      "title": "VOR 45 MIO. JAHREN : Frösche haben sich totgevögelt",
-      "teaser": "Sei kein Frosch! Sonst könnte das nächste Sex-Abenteuer tragisch enden.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/wissenschaftler-fanden-heraus-froesche-haben-sich-totgevoegelt-80623566.bild.html",
-      "image_title": "Vor 45 Millionen Jahren: Frösche haben sich totgevögelt"
-    },
-    {
-      "title": "Habeck warnt auf Handwerksmesse : „Es kommen noch enorme Preiserhöhungen“",
-      "teaser": "Bundeswirtschaftsminister Robert Habeck hat in München die Handwerksmesse eröffnet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/habeck-warnt-auf-handwerksmesse-es-kommen-noch-enorme-preiserhoehungen-80618758.bild.html",
-      "image_title": "Habeck warnt auf Handwerksmesse: „Es kommen noch enorme Preiserhöhungen“"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie einen 6er im Lotto? Gehört der Jackpot in Höhe von 11 Mio. Euro bald Ihnen?",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-6-juni-80616856.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen vom 6. Juni"
-    },
-    {
-      "title": "Unfall auf der Landstraße : Crash im Harz – Fahrer (56) schwer verletzt",
-      "teaser": "Im Harz krachten am Mittwochmorgen ein Dacia und ein Ford Transit ineinander.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-im-harz-fahrer-56-37-teils-schwer-verletzt-80622224.bild.html",
-      "image_title": "Unfall im Harz: Fahrer (56, 37) teils schwer verletzt"
-    },
-    {
-      "title": "Heftiger Unfall in Heidelberg : Linienbus kracht in Wohnhaus – mehrere Verletzte",
-      "teaser": "Bei dem Unfall wurden mindestens 18 Menschen verletzt – acht davon schwer.",
-      "url": "https://www.bild.de/regional/frankfurt/news/horror-unfall-in-heidelberg-linienbus-kracht-in-wohnhaus-mehrere-verletzte-80620830.bild.html",
-      "image_title": "Unfall in Heidelberg: Linienbus kracht in Wohnhaus – mindestens 18 Verletzte"
-    },
-    {
-      "title": "Bekennerschreiben aufgetaucht : Linksextreme Klimaschützer machen 100 SUVs platt",
-      "teaser": "Seit Monaten werden nachts in der Stadt immer wieder hochpreisige SUVs fahrunfähig gemacht.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/lka-ermittelt-in-leipzig-zerstachen-linksextreme-die-reifen-von-mehr-als-100-suv-80620920.bild.html",
-      "image_title": "Leipzig: Linksextreme Klimaschützer machen 100 SUVs platt"
-    },
-    {
-      "title": "Wenn aus Liebe Hass wird : Mann (41) überfährt Ex-Freundin (45) mit Auto",
-      "teaser": "Ein Mann (41) soll versucht haben, seine ehemalige Lebensgefährtin zu überfahren.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/hohe-boerde-schwer-verletzt-mann-ueberfaehrt-ex-freundin-45-mit-auto-80610942.bild.html",
-      "image_title": "Unfall: Schwer verletzt – Mann überfährt Ex-Freundin (45) mit Auto"
-    },
-    {
-      "title": "Schiebetür ging bereits auf : Frau (22) nachts von Van verfolgt",
-      "teaser": "Als die Frau den unheimlichen Van bemerkte, rannte sie weg. Doch der Transporter folgte.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/frau-in-jena-verfolgt-polizei-sucht-zeugen-die-van-beobachtet-haben-80617208.bild.html",
-      "image_title": "Frau in Jena verfolgt: Polizei sucht Zeugen, die Van beobachtet haben"
-    },
-    {
-      "title": "Verbrechen ausgseschlossen : Tote Frau in Wohnung entdeckt",
-      "teaser": "Nach dem Fund einer toten Frau in ihrer Wohnung in Auerbach steht die Todesursache fest.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/verbrechen-ausgeschlossen-tote-frau-in-wohnung-entdeckt-80620104.bild.html",
-      "image_title": "Verbrechen ausgeschlossen: Tote Frau in Wohnung entdeckt"
-    },
-    {
-      "title": "CSU fordert Hilfe von der EU : Tausende Lappen aus der Ukraine bald ungültig",
-      "teaser": "Flüchtlingen wie Yurii Polishchuck droht die Fahrprüfung. Kann die EU helfen?",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/tausende-fuehrerscheine-aus-der-ukraine-bald-ungueltig-80598700.bild.html",
-      "image_title": "Tausende Führerscheine aus der Ukraine bald ungültig"
-    },
-    {
-      "title": "73 000 Euro Schaden : VW-Fahrer (77) crasht Nachbars Garage kaputt",
-      "teaser": "Die Doppelgarage ist einsturzgefährdet, das Auto Schrott, der Fahrer (77) im Krankenhaus.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/73000-euro-schaden-vw-fahrer-77-crasht-nachbars-garage-kaputt-80616310.bild.html",
-      "image_title": "73 000 Euro Schaden: VW-Fahrer (77) crasht Nachbars Garage kaputt"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 72 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 5. Juli 2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-5-juli-80546576.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 5. Juli"
-    },
-    {
-      "title": "Horror-Unfälle mit zwei Toten : Lkw-Fahrerin (38) stirbt bei Crash auf A 2",
-      "teaser": "Auf der A 2 bei Magdeburg starben bei einem schweren Crash eine Lkw-Fahrerin und ein Transporter-Fahrer.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-auf-a-2-lkw-kracht-in-stauende-1-toter-zwei-schwerst-verletzte-80610840.bild.html",
-      "image_title": "Unfall auf A 2: Zwei schwere Lkw-Unfälle, zwei tote Fahrer"
-    },
-    {
-      "title": "Gasmangel-Lage : Kretschmann befürchtet Tausende mehr Arbeitslose",
-      "teaser": "Baden-Württembergs Ministerpräsident Winfried Kretschmann warnt vor dramatischen Folgen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/gasmangel-baden-wuerttemberg-kretschmann-befuerchtet-mehr-arbeitslose-80607826.bild.html",
-      "image_title": "Gasmangel Baden-Württemberg: Kretschmann befürchtet mehr Arbeitslose"
-    },
-    {
-      "title": "Neue Details zum Patienten-Mord : Das erste Opfer war ihr Hund",
-      "teaser": "Am 31. Mai starb im Isar-Amper-Klinikum (München) eine Patientin (40) bei einer Gewalttat.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/patienten-mord-in-muenchen-das-erste-opfer-war-ihr-hund-80610930.bild.html",
-      "image_title": "Patienten-Mord in München: Das erste Opfer war ihr Hund"
-    },
-    {
-      "title": "Warmes Wasser nur nach Stundenplan : „So schlimm war es nur nach dem Zweiten Weltkrieg“",
-      "teaser": "In 600 anderen Genossenschaftswohnungen fließt warmes Wasser nur noch nach Stundenplan.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/zu-hohe-energiekosten-vermieter-dreht-warmwasser-ab-80596422.bild.html",
-      "image_title": "Energie-Krise: Warmwasser nur noch zu bestimmten Zeiten"
-    },
-    {
-      "title": "Schreck seines Lebens : Ente gut, alles gut!",
-      "url": "https://www.bild.de/video/clip/video/nach-schreck-des-lebens-ente-gut-alles-gut-80631638,auto=true.bild.html",
-      "image_title": "Schreck seines Lebens: Ente gut, alles gut!"
-    },
-    {
-      "title": "Kurioser Polizei-Einsatz : Polizisten jagen 8 PS",
-      "url": "https://www.bild.de/video/clip/video/kurioser-polizei-einsatz-polizisten-jagen-8-ps-80629120,auto=true.bild.html",
-      "image_title": "Kurioser Polizei-Einsatz: Polizisten jagen 8 PS"
-    },
-    {
-      "title": "Nach Kälte-Ei kommt Glut-Ofen : Ab Mitte Juli bis zu 42 Grad",
-      "url": "https://www.bild.de/video/clip/video/nach-kaelte-ei-kommt-glutofen-ab-mitte-juli-bis-zu-42-grad-80614774,auto=true.bild.html",
-      "image_title": "Nach Kälte-Ei kommt Glut-Ofen: Ab Mitte Juli bis zu 42 Grad"
-    }
-  ]
+  "articles": []
 }
