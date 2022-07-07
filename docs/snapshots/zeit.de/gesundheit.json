@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-07T17:38:57",
+  "timestamp": "2022-07-07T18:27:57",
   "url": "https://www.zeit.de/gesundheit/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
+      "title": "Coronavirus: Millionen Menschen sollten laut RKI Corona-Impfung auffrischen",
+      "teaser": "Das RKI sieht weiterhin große Impflücken bei Ungeimpften. Aber auch die erste Auffrischung fehlt noch vielen. Die Ema empfiehlt den zweiten Booster nun schon ab 60.",
+      "url": "https://www.zeit.de/gesundheit/2022-07/corona-impfung-rki-ema-auffrischung-booster",
+      "image_url": "https://img.zeit.de/gesundheit/2022-07/covid-19-impfung-auffrischung/cinema__980x420"
+    },
+    {
       "title": "WHO: Affenpocken-Fälle weltweit um 77 Prozent gestiegen",
       "teaser": "Laut WHO hat sich die Zahl der Affenpocken-Infektionen binnen einer Woche deutlich erhöht. Weltweit gibt es derzeit 6.027 bestätigte Fälle.",
       "url": "https://www.zeit.de/gesundheit/2022-07/weltgesundheitsorganisation-who-affenpocken-anstieg-weltweite-faelle",
-      "image_url": "https://img.zeit.de/gesundheit/2022-07/weltgesundheitsorganisation-who-affenpocken-anstieg-weltweit/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesundheit/2022-07/weltgesundheitsorganisation-who-affenpocken-anstieg-weltweit/wide__822x462",
+      "image_title": "WHO: Affenpocken-Fälle weltweit um 77 Prozent gestiegen"
     },
     {
       "title": "Affenpocken: \"Wer jetzt in den Club geht, um Sex zu haben, riskiert eine Infektion\"",
@@ -67,13 +74,6 @@
       "url": "https://www.zeit.de/gesundheit/2022-07/affenpocken-symptome-impfung-sexuelle-uebertragung-msm",
       "image_url": "https://img.zeit.de/gesundheit/2022-07/affenpocken-symptome-impfung-club/wide__822x462",
       "image_title": "Affenpocken: \"Wer jetzt in den Club geht, um Sex zu haben, riskiert eine Infektion\""
-    },
-    {
-      "title": "Ampel-Koalition: Regierung plant Gesundheitskioske gegen Ärztemangel",
-      "teaser": "In vielen Regionen und Stadtteilen reicht die medizinische Versorgung nicht aus. Die Regierung will dem nun mit neuen Einrichtungen begegnen: mit Gesundheitskiosken.",
-      "url": "https://www.zeit.de/gesundheit/2022-07/gesundheitskioske-aerztemangel-bundesregierung-ampel-koalition",
-      "image_url": "https://img.zeit.de/gesundheit/2022-07/gesundheitskiosk-aerztemangel-land/wide__822x462",
-      "image_title": "Ampel-Koalition: Regierung plant Gesundheitskioske gegen Ärztemangel"
     },
     {
       "title": "Corona-Schnelltests: Diese Selbsttests erkennen die Omikron-Variante wirklich",
@@ -90,11 +90,11 @@
       "image_title": "Corona-Infektion: Covid allein zu Haus"
     },
     {
-      "title": "Corona-Sachverständigenrat: So geht es nicht!",
-      "teaser": "Der mediale und politische Umgang mit der Sachverständigenkommission zu den Corona-Maßnahmen beschädigt den Wissenstransfer, schreiben drei der Kommissionsmitglieder.",
-      "url": "https://www.zeit.de/gesundheit/2022-07/corona-sachverstaendigenrat-gutachten-massnahmen-kritik",
-      "image_url": "https://img.zeit.de/gesundheit/2022-07/corona-sachverstaendigenrat-gutachten-massnahmen/wide__822x462",
-      "image_title": "Corona-Sachverständigenrat: So geht es nicht!"
+      "title": "Ampel-Koalition: Regierung plant Gesundheitskioske gegen Ärztemangel",
+      "teaser": "In vielen Regionen und Stadtteilen reicht die medizinische Versorgung nicht aus. Die Regierung will dem nun mit neuen Einrichtungen begegnen: mit Gesundheitskiosken.",
+      "url": "https://www.zeit.de/gesundheit/2022-07/gesundheitskioske-aerztemangel-bundesregierung-ampel-koalition",
+      "image_url": "https://img.zeit.de/gesundheit/2022-07/gesundheitskiosk-aerztemangel-land/wide__822x462",
+      "image_title": "Ampel-Koalition: Regierung plant Gesundheitskioske gegen Ärztemangel"
     },
     {
       "title": "Anzeige330 meistverkaufte rezeptfreie, apothekenpflichtige Arzneimittel",
@@ -188,6 +188,13 @@
       "image_title": "Corona-Impfpflicht: Bundesverwaltungsgericht bestätigt Impfpflicht für Soldaten"
     },
     {
+      "title": "Corona-Impfungen in Deutschland: So viele Menschen wurden bereits geimpft",
+      "teaser": "Täglich aktualisierte Grafiken zeigen alle Zahlen von der Erst- bis zur Viertimpfung nach Bundesländern, Altersgruppen und im internationalen Vergleich.",
+      "url": "https://www.zeit.de/wissen/gesundheit/corona-impfungen-aktuelle-zahlen-deutschland-karte",
+      "image_url": "https://img.zeit.de/wissen/2022-05/teaser-corona-impfungen-bundeslaender-deutschland-welt/wide__822x462",
+      "image_title": "Corona-Impfungen in Deutschland: So viele Menschen wurden bereits geimpft"
+    },
+    {
       "title": "Patentrechtsverletzung: CureVac verklagt Konkurrenten BioNTech",
       "teaser": "Die Tübinger Pharmafirma CureVac fordert eine Entschädigung für die Verletzung von Patenten durch BioNTech. Dessen Vakzine gegen das Coronavirus wird weltweit angewandt.",
       "url": "https://www.zeit.de/gesundheit/2022-07/biontech-curevac-patent-klage",
@@ -198,22 +205,15 @@
       "title": "Corona-Sachverständigenbericht: Sind wir denn jetzt schlauer?",
       "teaser": "Der Bericht zu den Corona-Maßnahmen kritisiert die Politik zu Recht, hat aber Mängel: Viele Maßnahmen könne man nicht beurteilen, schreiben die Autoren – und tun es doch.",
       "url": "https://www.zeit.de/gesundheit/2022-07/corona-sachverstaendigenbericht-massnahmen-evaluierung",
-      "image_url": "https://img.zeit.de/gesundheit/2022-07/corona-sachverstaendigenbericht-massnahmen-evaluierung-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/gesundheit/2022-07/corona-sachverstaendigenbericht-massnahmen-evaluierung-bild/cinema__980x420",
       "image_title": "Corona-Sachverständigenbericht: Sind wir denn jetzt schlauer?"
     },
     {
       "title": "Affenpocken: Mehr als 1.000 bestätigte Affenpocken-Fälle in Deutschland",
       "teaser": "Das RKI meldet 1.054 nachgewiesene Infektionen mit dem Affenpockenvirus. Berührte Oberflächen können laut Studie belastet sein – stecken aber nicht notwendigerweise an.",
       "url": "https://www.zeit.de/gesundheit/2022-07/affenpocken-infektionen-studie-oberflaechen",
-      "image_url": "https://img.zeit.de/gesundheit/2022-07/affenpocken-infektion-oberflaeche-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2022-07/affenpocken-infektion-oberflaeche-bild/wide__822x462",
       "image_title": "Affenpocken: Mehr als 1.000 bestätigte Affenpocken-Fälle in Deutschland"
-    },
-    {
-      "title": "RKI-Wochenbericht: Infektionslage verschlimmert sich, noch mehr Fälle von BA.5",
-      "teaser": "Das Robert Koch-Institut warnt vor einer steigenden Anzahl von Hospitalisierungen. Die Sieben-Tage-Inzidenz sei im Vergleich zur Vorwoche um fast 40 Prozent gestiegen.",
-      "url": "https://www.zeit.de/gesundheit/2022-07/rki-wochenbericht-omikron-infektionslage-verschlimmerung",
-      "image_url": "https://img.zeit.de/gesundheit/2022-07/rki-wochenbericht-omikron-infektionslage-verschlimmerung-bild/wide__822x462",
-      "image_title": "RKI-Wochenbericht: Infektionslage verschlimmert sich, noch mehr Fälle von BA.5"
     },
     {
       "title": "Coronavirus: Alles zu Sars-CoV-2",
@@ -244,17 +244,24 @@
       "image_title": "Kinderwunsch: Die Illusion von Kontrolle"
     },
     {
+      "title": "RKI-Wochenbericht: Infektionslage verschlimmert sich, noch mehr Fälle von BA.5",
+      "teaser": "Das Robert Koch-Institut warnt vor einer steigenden Anzahl von Hospitalisierungen. Die Sieben-Tage-Inzidenz sei im Vergleich zur Vorwoche um fast 40 Prozent gestiegen.",
+      "url": "https://www.zeit.de/gesundheit/2022-07/rki-wochenbericht-omikron-infektionslage-verschlimmerung",
+      "image_url": "https://img.zeit.de/gesundheit/2022-07/rki-wochenbericht-omikron-infektionslage-verschlimmerung-bild/wide__822x462",
+      "image_title": "RKI-Wochenbericht: Infektionslage verschlimmert sich, noch mehr Fälle von BA.5"
+    },
+    {
       "title": "Omikron-Impfstoff: Neuer Stoff für den Herbst",
       "teaser": "Die US-Zulassungsbehörde empfiehlt Herstellern, einen an Omikron angepassten Impfstoff zu produzieren. Wie genau soll er aussehen? Und wann kommt er nach Deutschland?",
       "url": "https://www.zeit.de/gesundheit/2022-06/omikron-impfstoff-anpassung-corona",
-      "image_url": "https://img.zeit.de/gesundheit/2022-06/x-omikron-impfstoff-anpassung-corona-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/gesundheit/2022-06/x-omikron-impfstoff-anpassung-corona-bild/cinema__980x420",
       "image_title": "Omikron-Impfstoff: Neuer Stoff für den Herbst"
     },
     {
       "title": "Coronavirus: Corona-Tests sind jetzt kostenpflichtig",
-      "teaser": "Ab heute zahlen Bürgerinnen und Bürger für die Schnelltests drei Euro. Risikogruppen und pflegende Angehörige müssen auch künftig nichts bezahlen. 185 Kommentare",
+      "teaser": "Ab heute zahlen Bürgerinnen und Bürger für die Schnelltests drei Euro. Risikogruppen und pflegende Angehörige müssen auch künftig nichts bezahlen.",
       "url": "https://www.zeit.de/gesundheit/2022-06/coronavirus-schnelltest-kostenpflichtig-juli-ausnahmen",
-      "image_url": "https://img.zeit.de/gesundheit/2022-06/coronavirus-schnelltest-kostenpflichtig-juli-ausnahmen-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2022-06/coronavirus-schnelltest-kostenpflichtig-juli-ausnahmen-bild/wide__822x462",
       "image_title": "Coronavirus: Corona-Tests sind jetzt kostenpflichtig"
     },
     {
@@ -284,13 +291,6 @@
       "url": "https://www.zeit.de/gesundheit/2022-06/affenpocken-ema-impfstoff-imvanex",
       "image_url": "https://img.zeit.de/gesundheit/2022-06/affenpocken-ema-impfstoff/wide__822x462",
       "image_title": "Affenpocken: Ema prüft Zulassung von Affenpocken-Impfstoff"
-    },
-    {
-      "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag soll 2023 deutlich steigen",
-      "teaser": "Gesetzlich Versicherte müssen sich im kommenden Jahr auf höhere Zusatzbeiträge einstellen. Gesundheitsminister Lauterbach kündigte eine Erhöhung um 0,3 Prozentpunkte an.",
-      "url": "https://www.zeit.de/gesundheit/2022-06/gesetzliche-krankenversicherung-zusatzbeitrag-erhoehung-bundesgesundheitsminister-karl-lauterbach",
-      "image_url": "https://img.zeit.de/politik/2022-06/gesetzliche-krankenversicherung-karl-lauterbach/wide__822x462",
-      "image_title": "Gesetzliche Krankenversicherung: Zusatzbeitrag soll 2023 deutlich steigen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Corona-Impfung : Die Vor- und Nachteile von Totimpfstoffen",
