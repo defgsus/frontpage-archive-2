@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-07T10:25:17",
+  "timestamp": "2022-07-07T11:28:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Android-Systemluecke-laesst-Schadcode-passieren-7164810.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-dichtet-teils-kritische-Sicherheitsluecken-ab-7164806.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/IBM-Engineering-Test-Management-Dateien-im-System-ueber-Luecke-loeschbar-7163821.html"
     },
     {
-      "title": "OpenSSL",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Codeschmuggel-durch-Luecke-in-OpenSSL-moeglich-7163675.html"
+      "title": "Kommentar zum Lockdown-Modus: Gute Sache, Apple, weitermachen! Aber...",
+      "teaser": "Die drei wichtigsten Plattformen des iPhone-Konzerns erhalten zusätzliche Schutzmaßnahmen gegen Spyware. Das ist lobenswert, wirft aber Fragen auf.",
+      "url": "https://www.heise.de/meinung/Kommentar-zum-Lockdown-Modus-Gute-Sache-Apple-weitermachen-Aber-7164918.html"
+    },
+    {
+      "title": "Patchday Android: Systemlücke lässt Schadcode passieren",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für Android-Smartphones und -Tablets. Einige Lücken sind als kritisch eingestuft.",
+      "url": "https://www.heise.de/news/Patchday-Android-Systemluecke-laesst-Schadcode-passieren-7164810.html"
     },
     {
       "title": "Cisco dichtet teils kritische Sicherheitslücken ab",
@@ -59,6 +69,11 @@
       "url": "https://www.heise.de/news/Bundesnetzagentur-Mehr-Beschwerden-zu-angeblichen-Europol-Anrufen-7164723.html"
     },
     {
+      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
+      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
+      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
+    },
+    {
       "title": "Wieder Datenleck bei Hotelkette Marriott: Firmen- und Kundendaten kompromittiert",
       "teaser": "Social Engineering in einem US-Flughafenhotel ermöglicht Zugriff auf 20 GByte Daten, einschließlich Kreditkarten. Ein Erpressungsversuch war erfolglos.",
       "url": "https://www.heise.de/news/Wieder-Datenleck-bei-Hotelkette-Marriot-Firmen-und-Kundendaten-kompromittiert-7164705.html",
@@ -68,11 +83,6 @@
       "title": "Lockdown-Mode: Apple macht für Spionagegefährdete die Schotten dicht",
       "teaser": "Ein neuer Modus, der auf iPhone, iPad und Mac kommt, soll Cybergefahren über proaktive Maßnahmen abwehren. Das mindert aber das Nutzererlebnis.",
       "url": "https://www.heise.de/news/Lockdown-Mode-Apple-macht-fuer-Spionagegefaehrdete-die-Schotten-dicht-7164653.html"
-    },
-    {
-      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
-      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
-      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
     },
     {
       "title": "Fortinet dichtet mehrere Schwachstellen in zahlreichen Produkten ab",
@@ -149,17 +159,6 @@
       "teaser": "Android-Apps umgehen Sicherheitsmaßnahmen für WAP-Billing, analysiert Microsoft. Diese Apps seien nach Spyware die zweitgrößte Bedrohung im Play Store.",
       "url": "https://www.heise.de/news/Microsoft-Warnung-vor-Gebuehrenfallen-durch-Android-Apps-7162062.html",
       "image_title": "Aufmacher WAP-Billing-Betrug von Android-Apps"
-    },
-    {
-      "title": "l+f: Bug-Bounty-Insider kassiert ab",
-      "teaser": "Auch Cybersecurity-Unternehmen sind nicht vor internen kriminellen Machenschaften gefeit.",
-      "url": "https://www.heise.de/news/l-f-Bug-Bounty-Insider-kassiert-ab-7161837.html"
-    },
-    {
-      "title": "CISA empfiehlt Installation von repariertem Windows-Update für Active Directory",
-      "teaser": "Erst warnte die Cyber-Sicherheitsbehörde CISA vor der Installation. Nun hat sie das Update zur Absicherung von ADs wieder ins Pflichtenheft aufgenommen.",
-      "url": "https://www.heise.de/news/CISA-empfiehlt-Installation-von-repariertem-Windows-Update-fuer-Active-Directory-7161730.html",
-      "image_title": "Aufmacher CISA entfernt Patch aus Pflichtenheft und fügt ihn wieder hinzu"
     },
     {
       "title": "heise Security Tour 2022",
