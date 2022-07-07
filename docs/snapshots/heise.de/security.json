@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-07T09:20:43",
+  "timestamp": "2022-07-07T10:25:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,23 +25,33 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.65f1b9cfdcecccd8d3a4",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9849f14bbd4854f865a8",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Fortinet"
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-dichtet-teils-kritische-Sicherheitsluecken-ab-7164806.html"
     },
     {
-      "title": "IBM-Software"
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Fortinet-dichtet-mehrere-Schwachstellen-in-zahlreichen-Produkten-ab-7164084.html"
     },
     {
-      "title": "OpenSSL"
+      "title": "IBM-Software",
+      "url": "https://www.heise.de/news/IBM-Engineering-Test-Management-Dateien-im-System-ueber-Luecke-loeschbar-7163821.html"
     },
     {
-      "title": "Django Web-Framework"
+      "title": "OpenSSL",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Codeschmuggel-durch-Luecke-in-OpenSSL-moeglich-7163675.html"
+    },
+    {
+      "title": "Cisco dichtet teils kritische Sicherheitslücken ab",
+      "teaser": "Cisco hat mehrere Schwachstellen primär in den Kommunikationslösungen gemeldet. Aktualisierungen bessern sie aus. Angreifer könnten etwa root-Rechte erlangen.",
+      "url": "https://www.heise.de/news/Cisco-dichtet-teils-kritische-Sicherheitsluecken-ab-7164806.html",
+      "image_title": "Aufmacher Cisco viele Patches"
     },
     {
       "title": "Bundesnetzagentur: Mehr Beschwerden zu angeblichen \"Europol\"-Anrufen",
@@ -60,15 +70,15 @@
       "url": "https://www.heise.de/news/Lockdown-Mode-Apple-macht-fuer-Spionagegefaehrdete-die-Schotten-dicht-7164653.html"
     },
     {
+      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
+      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
+      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
+    },
+    {
       "title": "Fortinet dichtet mehrere Schwachstellen in zahlreichen Produkten ab",
       "teaser": "Der IT-Sicherheitsanbieter Fortinet hat in diversen Produkten Sicherheitslücken aufgespürt. Updates stehen bereit, die die Schwachstellen abdichten.",
       "url": "https://www.heise.de/news/Fortinet-dichtet-mehrere-Schwachstellen-in-zahlreichen-Produkten-ab-7164084.html",
       "image_title": "Aufmacher zahlreiche Sicherheitsupdates bei Fortinet"
-    },
-    {
-      "title": "Verzweiflung und Rebellion: Wie hybride Arbeitsmodelle IT-Teams zermürben",
-      "teaser": "Wenn Mitarbeiter ihren Arbeitsort flexibel wählen können, vergrößert sich die Angriffsfläche für Cyberrisiken und der Support-Aufwand steigt. Dies führt zu erheblicher Mehrbelastung im IT-Team und zu Konflikten zwischen Security-Verantwortlichen und Nutzern, wie der HP Wolf Security-Report „Rebellion & Rejections\" zeigt.",
-      "url": "https://www.heise.de/solutions/hp/verzweiflung-und-rebellion-wie-hybride-arbeitsmodelle-it-teams-zermuerben/?source=nat_teas"
     },
     {
       "title": "IBM Engineering Test Management: Dateien im System über Lücke löschbar",
@@ -150,12 +160,6 @@
       "teaser": "Erst warnte die Cyber-Sicherheitsbehörde CISA vor der Installation. Nun hat sie das Update zur Absicherung von ADs wieder ins Pflichtenheft aufgenommen.",
       "url": "https://www.heise.de/news/CISA-empfiehlt-Installation-von-repariertem-Windows-Update-fuer-Active-Directory-7161730.html",
       "image_title": "Aufmacher CISA entfernt Patch aus Pflichtenheft und fügt ihn wieder hinzu"
-    },
-    {
-      "title": "Tipps für sicheren Urlaub mit Laptop und Smartphone",
-      "teaser": "Ein kurze Liste des Bundesamt für Sicherheit in der Informationstechnik soll helfen, den Urlaub unbeschwert zu genießen. Sie lässt sich schnell umsetzen.",
-      "url": "https://www.heise.de/news/Sicher-im-Urlaub-Tipps-fuer-Laptop-und-Smartphone-7161603.html",
-      "image_title": "Aufmacher BSI-Tipps Sicher im Urlaub"
     },
     {
       "title": "heise Security Tour 2022",
