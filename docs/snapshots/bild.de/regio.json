@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-07T11:28:43",
+  "timestamp": "2022-07-07T12:44:06",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.5825cf84.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.906c62a1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0622fca8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.e48da558.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Politikerin Fester : Bei dieser Grünen ist was faul",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/gruenen-politiker-fester-bei-dieser-gruenen-ist-was-faul-80617478.bild.html",
-      "image_title": "Grünen-Politiker Fester: Bei dieser Grünen ist was faul"
-    },
-    {
-      "title": "Nur noch 17 Grad : Vonovia drosselt Mietern nachts die Heizung",
-      "url": "https://www.bild.de/politik/inland/politik-inland/energiesparen-vonovia-drosselt-mietern-nachts-die-heizung-nur-noch-bis-zu-17-gra-80618172.bild.html",
-      "image_title": "Um Gas zu sparen: Vonovia drosselt nachts die Heizung"
-    },
-    {
-      "title": "Ioanna (24) brutal ausgeraubt : Junge (15) folterte Prostituierte",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/hagen-junge-15-foltert-prostituierte-ioanna-24-brutal-ausgeraubt-80625250.bild.html",
-      "image_title": "Hagen: Junge (15) foltert Prostituierte – Ioanna (24) brutal ausgeraubt"
-    },
-    {
-      "title": "HERTHA-FAN GETÖTET : Polizei jagt mit Phantombild den Rostock-Schläger",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-hertha-fan-tot-polizei-sucht-mit-phantombild-nach-rostock-fan-80627832.bild.html",
-      "image_title": "Berlin: Hertha-Fan tot: Polizei sucht mit Phantombild nach Rostock-Fan"
-    },
-    {
-      "title": "Lieberoser Heide in Brandenburg : Großaufgebot gegen Waldbrand",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/lieberoser-heide-in-brandenburg-grossaufgebot-bekaempft-waldbrand-80627072.bild.html",
-      "image_title": "Lieberoser Heide in Brandenburg: Großaufgebot bekämpft Waldbrand"
-    },
-    {
-      "title": "Auf Brandenburgs Autobahnen : Polizei jagt Drängler mit Drohne",
-      "teaser": "Sie sind lautlos, unsichtbar, doch ihnen entgeht nichts.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/auf-brandenburgs-autobahnen-polizei-jagt-draengler-mit-drohne-80623612.bild.html",
-      "image_title": "Auf Brandenburgs Autobahnen: Polizei jagt Drängler mit Drohne"
-    },
-    {
-      "title": "Nazi-Schande weggemäht : Wie BILD das Hakenkreuz von Niederfinow auffliegen ließ",
-      "teaser": "Nazi-Schande in einem beschaulichen Dorf in Brandenburg!",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/brandenburger-feld-wie-bild-das-hakenkreuz-von-niederfinow-auffliegen-liess-80622362.bild.html",
-      "image_title": "Brandenburger Feld: Wie BILD das Hakenkreuz von Niederfinow auffliegen ließ"
-    },
-    {
-      "title": "Schrecklicher Fund : Polizei findet Auto und Leiche in Hunte",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/schrecklicher-fund-im-vermisstenfall-polizei-findet-auto-und-leiche-in-hunte-80626170.bild.html",
-      "image_title": "Schrecklicher Fund im Vermisstenfall: Polizei findet Auto und Leiche in Hunte"
-    },
-    {
-      "title": "Sommerreise durchs Land : Weil kämpft für Verteidigung, Klima und unser Geld",
-      "teaser": "In der Krise hat MP Stephan Weil (SPD) das Programm seiner Sommerreise verändert.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/sommerreise-weil-kaempft-fuer-verteidigung-klima-und-unser-geld-80616606.bild.html",
-      "image_title": "Sommerreise: Weil kämpft für Verteidigung, Klima und unser Geld"
-    },
-    {
-      "title": "„Keine Eile“ : Darum will Werner keinen neuen Werder-Vertrag",
-      "teaser": "Ole Werner spricht über Gänsehaut, die Sechser-Suche und seine Zukunft.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-keine-eile-darum-will-ole-werner-keinen-neuen-vertrag-80628596.bild.html",
-      "image_title": "Werder Bremen: „Keine Eile“: Darum will Ole Werner keinen neuen Vertrag"
-    },
-    {
-      "title": "Bei Bundesregierung : Sachsen legt Windrad-Protest ein",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/energiewende-sachsen-legt-windrad-protest-ein-80630494.bild.html",
-      "image_title": "Energiewende: Sachsen legt Windrad-Protest ein"
-    },
-    {
-      "title": "Pferde ausgebüxt : Polizei-Rodeo um 8 PS in Sachsen",
-      "teaser": "In der sächsischen Provinz musste die Polizei acht ausgebüxte Pferde wieder einfangen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/pferde-ausgebuext-polizei-rodeo-um-8-ps-in-sachsen-80629934.bild.html",
-      "image_title": "Pferde ausgebüxt: Polizei-Rodeo um 8 PS in Sachsen"
-    },
-    {
-      "title": "Gigantisches Wasserbecken bei Karl's : Erdbeerhof hat Deutschlands größten Regenspeicher",
-      "teaser": "Wenn die Erde auf den Nachbarfeldern längst Staub ist, ist bei Karls schönste Erntezeit.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/leipzig-news/erlebnisdorf-roevershagen-hat-deutschlands-groesstes-regenspeicherbecken-80585842.bild.html",
-      "image_title": "Rövershagen: Erdbeerhof hat Deutschlands größtes Regenspeicherbecken"
-    },
-    {
-      "title": "VOR 45 MIO. JAHREN : Frösche haben sich totgevögelt",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/wissenschaftler-fanden-heraus-froesche-haben-sich-totgevoegelt-80623566.bild.html",
-      "image_title": "Vor 45 Millionen Jahren: Frösche haben sich totgevögelt"
-    },
-    {
-      "title": "Personalmangel, Kosten-Explosion : CDU-Politiker macht seine Pizzeria dicht",
-      "teaser": "er Gastronom und CDU-Landtagsabgeordnete gibt auf, weil er kein Personal mehr findet und die Kosten durch die Decke gehen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-personalmangel-cdu-politiker-macht-seine-pizzeria-dicht-80623456.bild.html",
-      "image_title": "Leipzig: Personalmangel – CDU-Politiker macht seine Pizzeria dicht"
-    },
-    {
-      "title": "Dresden : 93 Parkplätze für neuen Radweg weg!",
-      "teaser": "Dabei entschied der Stadtrat, dass erst Ersatzparkplätze her müssen, bevor die Radspur kommen darf.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-93-parkplaetze-fuer-neuen-radweg-weg-80624246.bild.html",
-      "image_title": "Dresden: 93 Parkplätze für neuen Radweg weg!"
-    },
-    {
-      "title": "„Seine Arbeit in England war klasse” : Überraschungs-Gast Flick adelt Farke!",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-hansi-flick-adelt-daniel-farke-80628708.bild.html",
-      "image_title": "Borussia Mönchengladbach: Hansi Flick adelt Daniel Farke"
-    },
-    {
-      "title": "Haartransplantation im Urlaub : Dieser Gladbach-Star hat eine Kunsthaar-Tolle",
-      "teaser": "Ein Gladbach-Profi hat sich im Urlaub Kunsthaare transplantieren lassen. Wer? Nur mit BILDplus!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/borussia-moenchengladbach-dieser-gladbach-star-hat-eine-kunsthaar-tolle-80623136.bild.html",
-      "image_title": "Borussia Mönchengladbach: Dieser Gladbach-Star hat eine Kunsthaar-Tolle"
-    },
-    {
-      "title": "Polizei stellt Ermittlungen nach Einbruch ein : Verona Pooth fühlt sich zu Hause nicht mehr sicher",
-      "teaser": "Diesen Fall werden die Ermittler wohl nicht mehr knacken: Er wurde zu den Akten gelegt.",
-      "url": "https://www.bild.de/regional/duesseldorf/leute/ermittlungen-eingestellt-verona-pooth-fuehlt-sich-zu-hause-nicht-mehr-sicher-80626600.bild.html",
-      "image_title": "Ermittlungen eingestellt: Verona Pooth fühlt sich zu Hause nicht mehr sicher"
-    },
-    {
-      "title": "Ab an die Cote d'Azur : Johnny Depp macht die Flatter!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-leute/ab-an-die-cote-dazur-johnny-depp-macht-die-flatter-80628814.bild.html",
-      "image_title": "Ab an die Cote d'Azur: Johnny Depp macht die Flatter!"
-    },
-    {
-      "title": "Fans im Glück! : Johnny Depp nimmt Bad in der Menge",
-      "teaser": "Hollywood in Offenbach – und die Herzen der Mädels schlagen lauter als Kirchenglocken!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/alle-lieben-johnny-rhein-main-im-depp-fieber-80623432.bild.html",
-      "image_title": "Fans im Glück: Johnny Depp nimmt Bad in der Menge!"
-    },
-    {
-      "title": "Drama auf 3000 Metern : Hesse (53) stürzt in Tirol ab – tot",
-      "teaser": "Todes-Drama in den Tiroler-Alpen!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/drama-auf-3000-metern-hesse-53-stuerzt-in-tirol-ab-tot-80626476.bild.html",
-      "image_title": "Drama auf 3000 Metern: Hesse (53) stürzt in Tirol ab – tot"
-    },
-    {
-      "title": "Hamburg-Schnelsen : Mann mit Sturmgewehr löst Großalarm aus",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburg-schnelsen-mann-mit-sturmgewehr-loest-grossalarm-aus-80629066.bild.html",
-      "image_title": "Hamburg-Schnelsen: Mann mit Sturmgewehr löst Großalarm aus"
-    },
-    {
-      "title": "Am letzten Unterrichtstag : Mama, Zeugnisse gibt's erst in 6 Wochen, die Schule ist explodiert",
-      "teaser": "Mehr als 30 Meter weit flogen die schweren Trümmerteile bei der Explosion.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/4-stunden-vor-dem-letzten-unterrichtstag-in-finkenwerder-mama-zeugnisse-gibts-er-80618082.bild.html",
-      "image_title": "4 Stunden vor dem letzten Unterrichtstag in Finkenwerder: Mama, Zeugnisse gibt's erst in 6 Wochen, die Schule ist explodiert"
-    },
-    {
-      "title": "Neue Sommer-Kollektion : Hier zeigt Sylvie ihren 14,99-Bikini",
-      "teaser": "Star-Moderatorin Sylvie Meis (44) hat eine Sommerkollektion entworfen – für Aldi!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/tv-star-entwirft-sommer-kollektion-hier-zeigt-sylvie-ihren-14-99-bikini-80617498.bild.html",
-      "image_title": "TV-Star entwirft Sommer-Kollektion: Hier zeigt Sylvie ihren 14,99-Bikini"
-    },
-    {
-      "title": "Gasvergiftung durch Kohlegrill im Haus : Clan-Chef will Feuerwehreinsatz nicht zahlen",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/gasvergiftung-im-haus-clan-chef-will-feuerwehreinsatz-nicht-zahlen-80620240.bild.html",
-      "image_title": "Gasvergiftung im Haus: Clan-Chef will Feuerwehreinsatz nicht zahlen"
-    },
-    {
-      "title": "Schützenfest Hannover : Kita-Premiere für Schausteller-Kids",
-      "teaser": "Beim Schützenfest werden die Kids aus Zirkus- und Schaustellerfamilien mobil betreut.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schuetzenfest-hannover-kita-premiere-fuer-schausteller-kids-80621150.bild.html",
-      "image_title": "Schützenfest Hannover: Kita-Premiere für Schausteller-Kids"
-    },
-    {
-      "title": "Wasserspaß und Natur-Idyll : Urlaub um die Ecke",
-      "teaser": "Einen Katzensprung von Hannover entfernt direkt an der A 2 gibt es ein echtes Freizeit-Highlight.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/benzin-kosten-storno-aerger-viele-scheuen-weite-reisen-diese-sommer-oasen-sind-v-80475698.bild.html",
-      "image_title": "Benzin-Kosten, Storno-Ärger: Viele scheuen weite Reisen! Diese Sommer-Oasen sind vor der Haustür: Urlaub um die Ecke"
-    },
-    {
-      "title": "Modeste ++ Mané ++ Karriere : Baumgart packt aus!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fc-koeln-trainer-steffen-baumgart-packt-im-interview-aus-80622040.bild.html",
-      "image_title": "1. FC Köln: Trainer Steffen Baumgart packt im Interview aus"
-    },
-    {
-      "title": "Echt jetzt?! : Diese Kunstexperten entlarven jede Fälschung",
-      "teaser": "Sie arbeiten mit Lupe und UV-Strahlen: Die Lempertz-Kunstexperten schlagen jeden Detektiv.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-lempertz-kunstexperten-entlarven-jede-faelschung-echt-jetzt-80621202.bild.html",
-      "image_title": "Köln – Lempertz-Kunstexperten entlarven jede Fälschung: Echt jetzt?!"
-    },
-    {
-      "title": "Willis Witwe bereit für neuen Mann : So nahm Jasmin Herren 9 Kilo ab – ganz ohne Sport!",
-      "teaser": "TV-Star Jasmin Herren (43) will sich nach langer Trauer endlich wieder wohlfühlen.",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-leute/jasmin-herren-hat-9-kilo-runter-willis-witwe-ist-bereit-fuer-einen-neuen-mann-80620536.bild.html",
-      "image_title": "Jasmin Herren hat 9 Kilo runter: Willis Witwe ist bereit für einen neuen Mann"
-    },
-    {
-      "title": "Suche nach vermisster Yolanda : Darum wird die Baugrube nicht wieder geöffnet",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/vermisste-yolanda-klug-trotz-leichengeruch-wird-baugrube-nicht-geoeffnet-80628390.bild.html",
-      "image_title": "Vermisste Yolanda: Baugrube wird nicht geöffnet – obwohl Spürhund anschlägt"
-    },
-    {
-      "title": "Feuerserie in Neubrandenburg geht weiter : Wieder Brandstiftung in Bootsschuppen-Anlage",
-      "teaser": "Schon wieder hat ein oder mehrere Brandstifter in der Bootsschuppenanlage in Neubrandenburg zugeschlagen.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/brandserie-geht-weiter-wieder-feuer-bei-bootsschuppen-in-neubrandenburg-80627698.bild.html",
-      "image_title": "Brandstiftung: Wieder Feuer bei Bootsschuppen-Anlage in Neubrandenburg"
-    },
-    {
-      "title": "Drama beim Bergwandern in Österreich : Deutscher (57) stürzt in den Tod",
-      "teaser": "Ein 57-jähriger Wanderer aus Erfurt ist am Stubaier Höhenweg in den Tod gestürzt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/drama-beim-bergwandern-erfurter-57-stuerzt-in-oesterreich-in-den-tod-80628920.bild.html",
-      "image_title": "Unfall: Deutscher (57) stürzt beim Wandern in Österreich in den Tod"
-    },
-    {
-      "title": "Verteidiger aus Paderborn : Ananou wird Hansas neuer Tempomacher",
-      "url": "https://www.bild.de/sport/fussball/fussball/verteidiger-aus-paderborn-ananou-wird-hansas-neuer-tempomacher-80621532.bild.html",
-      "image_title": "Verteidiger aus Paderborn: Ananou wird Hansas neuer Tempomacher"
-    },
-    {
-      "title": "Mit dem 9-Euro-Ticket : 27 tolle Familien-Ausflugsziele in Deutschland",
-      "teaser": "Diese 27 Highlights sind bequem ohne Auto und günstig mit dem 9-Euro-Ticket erreichbar.",
-      "url": "https://www.bild.de/bild-plus/reise/2022/reise/mit-dem-9-euro-ticket-26-tolle-ausflugsziele-fuer-die-familie-80194568.bild.html",
-      "image_title": "Mit dem 9-Euro-Ticket reisen: 27 tolle Ausflugsziele für die Familie"
-    },
-    {
-      "title": "Warmes Wasser nur nach Stundenplan : „So schlimm war es nur nach dem Zweiten Weltkrieg“",
-      "teaser": "In 600 anderen Genossenschaftswohnungen fließt warmes Wasser nur noch nach Stundenplan.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/zu-hohe-energiekosten-vermieter-dreht-warmwasser-ab-80596422.bild.html",
-      "image_title": "Energie-Krise: Warmwasser nur noch zu bestimmten Zeiten"
-    },
-    {
-      "title": "Verwaltungsgericht entscheidet : Affenpocken-Kranker MUSS in Quarantäne bleiben!",
-      "teaser": "Ein an Affenpocken erkrankter Müncher darf erst mal NICHT aus seiner Wohnung.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/verwaltungsgericht-affenpocken-infizierter-muss-in-quarantaene-bleiben-80630066.bild.html",
-      "image_title": "Verwaltungsgericht: Affenpocken-Infizierter MUSS in Quarantäne bleiben"
-    },
-    {
-      "title": "Geld gehört jetzt dem Staat : Eine Million Euro in bar im Auto",
-      "teaser": "Vor über zwei Jahren hatten Schleierfahnder jede Menge Geldscheine entdeckt",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/geld-gehoert-jetzt-dem-staat-eine-million-euro-in-bar-im-auto-80628480.bild.html",
-      "image_title": "Geld gehört jetzt dem Staat: Eine Million Euro in bar im Auto"
-    },
-    {
-      "title": "Urteil bestätigt : Online-Handel mit Wucher-Preisen verboten",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/urteil-bestaetigt-online-handel-mit-wucher-preisen-verboten-80630174.bild.html",
-      "image_title": "Urteil bestätigt: Online-Handel mit Wucher-Preisen verboten"
-    },
-    {
-      "title": "Nach wüster Alkoholfahrt in Fürth : Anklage gegen Laster-Fahrer",
-      "teaser": "Die Staatsanwaltschaft hat Anklage gegen den Lastwagen-Fahrer erhoben.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/nach-wuester-alkoholfahrt-in-fuerth-anklage-gegen-laster-fahrer-80629514.bild.html",
-      "image_title": "Nach wüster Alkoholfahrt in Fürth: Anklage gegen Laster-Fahrer"
-    },
-    {
-      "title": "Tod aus der Schampus-Flasche : Foodwatch ruft weitere Charge Moët zurück",
-      "teaser": "Erneut flüssiges Ecstasy im Champagner! Foodwatch warnt vor der tödlichen Mischung",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ecstasy-statt-schampus-lebensmittelwarnung-ruft-weitere-charge-zurueck-80627984.bild.html",
-      "image_title": "ECSTASY statt Schampus: Foodwatch ruft weitere Charge zurück"
-    },
-    {
-      "title": "Hausbesitzer Bauch aufgeschlitzt : Knast für skrupellosen Einbrecher",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bielefeld-mehr-als-acht-jahre-knast-fuer-brutalen-einbrecher-80629500.bild.html",
-      "image_title": "Bielefeld: Mehr als acht Jahre Knast für brutalen Einbrecher"
-    },
-    {
-      "title": "Verstöße gegen das Tierschutzgesetz : Großeinsatz auf Mülheimer Pferdehof!",
-      "teaser": "Seit 7 Uhr vollziehen Polizei und Ordnungsamt Zwangsmaßnahmen auf dem Hof.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/muelheim-verstoesse-gegen-tierschutzgesetz-grosseinsatz-auf-pferdehof-80629100.bild.html",
-      "image_title": "Mülheim - Verstöße gegen Tierschutzgesetz: Großeinsatz auf Pferdehof"
-    },
-    {
-      "title": "Freilassung verweigert : Schicksal der Kegelbrüder wird zum Justiz-Krimi",
-      "teaser": "Bereits Anfang Juni hatten die Eltern der inhaftierten eine halbe Million Euro überwiesen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/im-knast-auf-malle-schicksal-der-kegelbrueder-wird-zum-justiz-krimi-80626906.bild.html",
-      "image_title": "Im Knast auf Malle: Schicksal der Kegelbrüder wird zum Jus­tiz-Krimi"
-    },
-    {
-      "title": "Kein Geld für Reise zur WM : Traurige Sieger",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/saarbruecken-kein-geld-fuer-reise-zur-wm-traurige-sieger-80621902.bild.html",
-      "image_title": "Saarbrücken: Kein Geld für Reise zur WM: Traurige Sieger"
-    },
-    {
-      "title": "Kommando zurück! : Fleischkäse-Weck doch wieder für 1 Euro",
-      "teaser": "Freudige Wochen für Fleischkäse-Fans!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/kommando-zurueck-fleischkaese-weck-doch-wieder-fuer-1-euro-80621550.bild.html",
-      "image_title": "Kommando zurück! Fleischkäse-Weck doch wieder für 1 Euro"
-    },
-    {
-      "title": "Gefälschte Impfpässe : Polizistin (32) zu Recht entlassen",
-      "teaser": "Ihre krummen Machenschaften haben sie ihren Job gekostet und das ist nun auch bestätigt.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/gefaelschte-impfpaesse-polizistin-32-zu-recht-entlassen-80622240.bild.html",
-      "image_title": "Gefälschte Impfpässe: Polizistin (32) zu Recht entlassen"
-    },
-    {
-      "title": "Hoch im Kurs bei HFC-Trainer : Fünger ist der neue Allzweck-Abräumer",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-hoch-im-kurs-beim-hfc-fuenger-ist-der-neue-allzweck-abraeumer-80625978.bild.html",
-      "image_title": "3. Liga: Hoch im Kurs beim HFC – Fünger ist der neue Allzweck-Abräumer"
-    },
-    {
-      "title": "1. FC Magdeburg : Kann Mörschel dem Aufsteiger helfen?",
-      "teaser": "Heinz Mörschel könnte die personellen Probleme des 1. FC Magdeburg in der Offensive lösen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-magdeburg-kann-moerschel-dem-aufsteiger-helfen-80623546.bild.html",
-      "image_title": "1. FC Magdeburg: Kann Mörschel dem Aufsteiger helfen?"
-    },
-    {
-      "title": "Unfall auf der Landstraße : Crash im Harz – Fahrer (56) schwer verletzt",
-      "teaser": "Im Harz krachten am Mittwochmorgen ein Dacia und ein Ford Transit ineinander.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-im-harz-fahrer-56-37-teils-schwer-verletzt-80622224.bild.html",
-      "image_title": "Unfall im Harz: Fahrer (56, 37) teils schwer verletzt"
-    },
-    {
-      "title": "Trotz Pandemie : Höchste Geburtenrate seit 50 Jahren",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/trotz-pandemie-hoechste-geburtenrate-seit-50-jahren-80629894.bild.html",
-      "image_title": "Trotz Pandemie: Höchste Geburtenrate seit 50 Jahren"
-    },
-    {
-      "title": "Volltreffer für die Herzen : Das Liebesglück unserer EM-Stars",
-      "teaser": "In England kämpfen unsere Fußball-Frauen um den neunten EM-Titel.",
-      "url": "https://www.bild.de/sport/fussball/fussball/frauenfussball-em-2022-das-liebesglueck-unserer-em-stars-80622780.bild.html",
-      "image_title": "Frauenfußball: EM 2022 – Das Liebesglück unserer EM-Stars"
-    },
-    {
-      "title": "PAPST MACHT ES MÖGLICH : Pater Philipp soll am 16. Juli seliggesprochen werden",
-      "teaser": "Der Ellwanger Jesuitenpater Philipp Jeningen soll am 16. Juli selig gesprochen werden.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/ellwanger-jesuit-pater-philipp-soll-am-16-juli-seliggesprochen-werden-80609838.bild.html",
-      "image_title": "Ellwanger Jesuit Pater Philipp soll am 16. Juli seliggesprochen werden"
-    },
-    {
-      "title": "Neue Nummer eins da : RWE schnappt Jena Torwart weg",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/neue-nummer-eins-rot-weiss-erfurt-schnappt-jena-torwart-weg-80625198.bild.html",
-      "image_title": "Neue Nummer eins! Rot-Weiß Erfurt schnappt Jena Torwart weg"
-    },
-    {
-      "title": "Im sozialen Brennpunkt : Mann (25) stirbt nach Bluttat in Gotha",
-      "teaser": "Was geschah um Mitternacht im Plattenbaugebiet Westviertel in Gotha?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/mord-oder-totschlag-mann-stirbt-nach-bluttat-in-gotha-80625906.bild.html",
-      "image_title": "Mord oder Totschlag? Mann stirbt nach Bluttat in Gotha"
-    },
-    {
-      "title": "Tapfere Almina! : Gelähmtes Schaf im Rollstuhl",
-      "teaser": "Wenn Almina (5 Monate) über die Weide rollt, mäht sie vor Glück ... Sie ist das wohl erste Schaf im Rollstuhl.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/heiligenstadt-tapfere-almina-gelaehmtes-schaf-im-rollstuhl-80623716.bild.html",
-      "image_title": "Heiligenstadt: Tapfere Almina! Gelähmtes Schaf im Rollstuhl"
-    }
-  ]
+  "articles": []
 }
