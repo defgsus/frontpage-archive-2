@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-10T06:26:06",
+  "timestamp": "2022-07-10T07:20:27",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.5825cf84.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.906c62a1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0622fca8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.e48da558.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Kegelbrüdern drohen bis zu 20 Jahre Knast : Feuer-Experte bezweifelt Brandgutachten",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/kegelbruedern-drohen-bis-zu-20-jahre-knast-feuer-experte-bezweifelt-spanisches-b-80647298.bild.html",
-      "image_url": "https://images.bild.de/62c8771d1a5d717c4af56fca/e469249ed2b014791a17e2746c1c6ee4,a3ab9762?w=656",
-      "image_title": "Kegelbrüdern drohen bis zu 20 Jahre Knast: Feuer-Experte bezweifelt spanisches Brandgutachten"
-    },
-    {
-      "title": "Slowenien feiert : Verfassungsgericht legalisiert Eheöffnung",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/slowenien-feiert-verfassungsgericht-legalisiert-die-ehe-fuer-alle-80645498.bild.html",
-      "image_url": "https://images.bild.de/62c85533733bc9535616761b/2fd2c5aed81e00e6e4cd21fa24eb566c/Kennung_Symbolfoto,a48ddf30?w=320",
-      "image_title": "Slowenien feiert: Verfassungsgericht legalisiert die „Ehe für alle“"
-    },
-    {
-      "title": "Mit „Medal of Freedom“ geehrt : Darum trug Rapinoe die Initialen „BG“",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/mit-freiheitsmedaille-geehrt-darum-trug-rapinoe-die-initialen-bg-80643224.bild.html",
-      "image_url": "https://images.bild.de/62c82bb7733bc953561675ab/ea4a137f7050c3d7d409f9f93ab0502e,5b37a4a6?w=320",
-      "image_title": "Mit Freiheitsmedaille geehrt: Darum trug Rapinoe die Initialen „BG“"
-    },
-    {
-      "title": "Alien-Absturz vor 75 Jahren in den USA : Plauderte Marilyn Monroe Ufo-Geheimnisse aus?",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/roswell-musste-marilyn-sterben-weil-sie-ufo-geheimnisse-ausplauderte-80618856.bild.html",
-      "image_url": "https://images.bild.de/62c5647f1a8dc6567194b316/6ae3d5f90e4cac6a35c91e8ce93a1ede,ab6c784e?w=320",
-      "image_title": "Roswell: Musste Marilyn sterben, weil sie Ufo-Geheimnisse ausplauderte?"
-    },
-    {
-      "title": "Antigua und Barbuda : Homosexualität nicht mehr strafbar",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/antigua-und-barbuda-karibische-inselgruppe-legalisiert-homosexualitaet-80623116.bild.html",
-      "image_title": "Antigua und Barbuda: Karibische Inselgruppe legalisiert Homosexualität"
-    },
-    {
-      "title": "Pilotenstreik! : Familie sitzt eine Woche in der Arktis fest",
-      "teaser": "Der Urlaub einer Familie in Spitzbergen wurde deutlich länger als gedacht ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/streik-familie-sitzt-eine-woche-in-der-arktis-in-spitzbergen-fest-80619014.bild.html",
-      "image_title": "Streik! Familie sitzt eine Woche in der Arktis in Spitzbergen fest"
-    },
-    {
-      "title": "Scharfschützin für die Ukraine : Brasilien-Model im Kampf gegen Russen getötet",
-      "teaser": "Das brasilianische Model Thalita do Valle (39) ist an der Front bei Charkiw gefallen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ukraine-brasilien-model-im-kampf-gegen-russen-gefallen-80625794.bild.html",
-      "image_title": "Ukraine: Brasilien-Model im Kampf gegen Russen gefallen"
-    },
-    {
-      "title": "52 Jahre nach Unglück : Zweiter Schuh von Messners Bruder gefunden",
-      "teaser": "Oben zerfetzt, an den Ösen verrostet, aber sonst sehr gut erhalten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/52-jahre-nach-toedlichem-unglueck-zweiter-schuh-von-messners-bruder-gefunden-80344632.bild.html",
-      "image_title": "52 Jahre nach tödlichem Unglück: Zweiter Schuh von Messners Bruder gefunden"
-    },
-    {
-      "title": "Zoff um Parkplatz : Ex-Soldat ersticht zwei Nachbarn – 38 Jahre Knast",
-      "teaser": "15 Jahre hatte Collin Reeves seinem Land gedient. Mehr als doppelt so lang muss er in den Knast.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/zoff-um-parkplatz-ex-soldat-ersticht-zwei-nachbarn-38jahre-knast-80468652.bild.html",
-      "image_title": "Zoff um Parkplatz: Ex-Soldat ersticht zwei Nachbarn – 38 Jahre Knast"
-    },
-    {
-      "title": "Streiks bei drei Airlines gleichzeitig : Jetzt droht Malle-Chaos",
-      "teaser": "Zum Start in die Feriensaison droht Streik-Chaos bei Easyjet, Ryanair und Lauda Air.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-droht-streik-chaos-zum-ferienstart-easyjet-ryanair-und-lauda-air-betrof-80473646.bild.html",
-      "image_title": "Mallorca: Streiks bei Easyjet, Ryanair und Lauda Air: Wann Flüge ausfallen - mit Kalender"
-    },
-    {
-      "title": "Studentin († 21) getötet : US-Killer spricht bei Hinrichtung zu Mord-Opfer",
-      "teaser": "Zum ersten Mal seit acht Jahren ist in Arizona wieder eine Todesstrafe vollstreckt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/arizona-usa-todesstrafe-killer-spricht-bei-hinrichtung-zu-mord-opfer-80055828.bild.html",
-      "image_title": "Arizona (USA): Todesstrafe! Killer spricht bei Hinrichtung zu Mord-Opfer"
-    },
-    {
-      "title": "Aufnahmeritual in USA : Student (19) nach Mutprobe blind und gelähmt",
-      "teaser": "Danny Santulli ist seit der Mutprobe für eine Studentenverbindung ein Pflegefall.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-student-nach-mutprobe-fuer-studentenverbindung-blind-und-gelaehmt-80347916.bild.html",
-      "image_title": "USA: Student nach Mutprobe für Studentenverbindung blind und gelähmt"
-    },
-    {
-      "title": "„Maximale Fluchtgefahr“ : Knallhart-Richter lässt die Kegelbrüder nicht frei",
-      "teaser": "Antoni Rotger brachte bereits Palmas Vize-Bürgermeister hinter Gitter.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-knallhart-richter-laesst-die-kegelbrueder-nicht-frei-80630260.bild.html",
-      "image_title": "Mallorca: Knallhart-Richter lässt die Kegelbrüder nicht aus der Haft"
-    },
-    {
-      "title": "3 Monate in Behandlung : Mann nach 33-Meter Sturz aus Krankenhaus entlassen",
-      "teaser": "Ein Auto-Dach bremste seinen Sturz ab. Er überlebte. Jetzt konnte er die Klinik verlassen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/3-monate-behandlung-mann-nach-33-meter-sturz-aus-der-klinik-entlassen-78977690.bild.html",
-      "image_title": "3 Monate Behandlung: Mann nach 33-Meter-Sturz aus der Klinik entlassen"
-    },
-    {
-      "title": "„Das hier ist Afrika“ : Randale-Mob begrapscht Frauen am Gardasee",
-      "teaser": "Etwa 1500 bis 2000 Jugendliche fielen über den beschaulichen Ort Peschiera (Italien) her.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/peschiera-randale-mob-begrapscht-frauen-am-gardasee-80404172.bild.html",
-      "image_title": "Peschiera: Randale-Mob begrapscht Frauen am Gardasee"
-    },
-    {
-      "title": "Schlimme Bullen-Hatz in Pamplona : 5 Männer bei Stier-Wahnsinn in Spanien verletzt",
-      "teaser": "Eine der umstrittensten Traditionen - die Stier-Hatz in den Straßen von Pamplona",
-      "url": "https://www.bild.de/news/ausland/news-ausland/stier-hatz-in-pamplona-bullen-trampeln-5-menschen-krankenhausreif-80630642.bild.html",
-      "image_title": "Stier-Hatz in Pamplona: Bullen trampeln 5 Menschen krankenhausreif"
-    },
-    {
-      "title": "In Russland : Bär zertrümmert Schädel von Jäger (†62)",
-      "teaser": "In Russland tötete ein Braunbär einen Jäger, nachdem dieser auf ihn geschossen hatte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russland-baer-zertruemmert-schaedel-von-jaeger-nach-schuss-beide-tot-80470580.bild.html",
-      "image_title": "Russland: Bär zertrümmert Schädel von Jäger nach Schuss – beide tot"
-    },
-    {
-      "title": "Sexueller Missbrauch an Mädchen (16) : Bill Cosby schuldig gesprochen!",
-      "teaser": "Schauspieler Bill Cosby wurde im Vergewaltigungsprozess für schuldig gesprochen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/jugendliche-sexuell-missbraucht-bill-cosby-schuldig-ge-80473530.bild.html",
-      "image_title": "Mädchen (16) sexuell missbraucht: Bill Cosby schuldig gesprochen"
-    },
-    {
-      "title": "Mallorca : Deutsche Teenager sollen Frau vergewaltigt haben",
-      "teaser": "Die 17- und 18-Jährigen stehen im Verdacht, eine Urlauberin vergewaltigt zu haben!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-deutsche-teenager-sollen-frau-in-hotel-vergewaltigt-haben-80488134.bild.html",
-      "image_title": "Mallorca: Deutsche Teenager sollen Frau in Hotel vergewaltigt haben"
-    },
-    {
-      "title": "Von US-Mutter vergessen : Junge (5) stirbt in glühend heißem Porsche",
-      "teaser": "Er wollte den Geburtstag seiner Schwester feiern. Nun ist ein Fünfjähriger aus Houston tot",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mutter-vergass-ihn-junge-5-stirbt-in-heissem-porsche-80472280.bild.html",
-      "image_title": "Mutter aus den USA vergaß ihn: Junge (5) stirbt in glühend heißem Porsche"
-    },
-    {
-      "title": "Abtreibungsdrama auf Malta : Urlauberin muss hoffen, dass ihr Baby stirbt",
-      "teaser": "Der Fötus ist nicht überlebensfähig, doch Andrea darf auf Malta nicht abtreiben lassen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/malta-keine-abtreibung-trotz-komplikationen-us-touristin-bangt-um-ihr-leben-80485422.bild.html",
-      "image_title": "Malta: Keine Abtreibung trotz Komplikationen! US-Touristin bangt um ihr Leben"
-    },
-    {
-      "title": "Landwirt-Protest in den Niederlanden : Polizei schießt bei Demo auf Bauer-Sohn (16)",
-      "teaser": "Niederländische Bauern protestierten gegen eine Stickstoffverordnung, dann fielen Schüsse.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/bauern-protest-in-den-niederlanden-polizei-schiesst-auf-16-jaehrigen-80627666.bild.html",
-      "image_title": "Bauern-Protest in den Niederlanden: Polizei schießt auf 16-Jährigen"
-    },
-    {
-      "title": "Fisch-Protest in Japan-Zoo : Pinguine und Otter treten in Hungerstreik",
-      "teaser": "In einem japanischen Aquarium verschmähen Pinguine und Otter aus Protest ihr Essen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/fisch-protest-in-japan-zoo-pinguine-und-otter-treten-in-hungerstreik-80629108.bild.html",
-      "image_title": "Japan: Zoo-Protest gegen Billig-Fisch! Pinguine und Otter im Hungerstreik"
-    },
-    {
-      "title": "Freilassung verweigert : Schicksal der Kegelbrüder wird zum Justiz-Krimi",
-      "teaser": "Bereits Anfang Juni hatten die Eltern der inhaftierten eine halbe Million Euro überwiesen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/im-knast-auf-malle-schicksal-der-kegelbrueder-wird-zum-justiz-krimi-80626906.bild.html",
-      "image_title": "Im Knast auf Malle: Schicksal der Kegelbrüder wird zum Jus­tiz-Krimi"
-    },
-    {
-      "title": "Nach Sturz der Regierung in Sri Lanka : Protestler baden im Präsidenten-Pool",
-      "url": "https://www.bild.de/video/clip/video/regierungssturz-in-sri-lanka-demonstranten-stuermen-praesidentenpalast-80652818,auto=true.bild.html",
-      "image_title": "Nach Sturz der Regierung in Sri Lanka: Protestler baden im Präsidenten-Pool"
-    },
-    {
-      "title": "Während einer Rettungsmission : Tanker rammt Fischkutter",
-      "url": "https://www.bild.de/video/clip/video/volle-fahrt-voraus-tanker-rammt-fischkutter-80638028,auto=true.bild.html",
-      "image_title": "Während einer Rettungsmission: Tanker rammt Fischkutter"
-    },
-    {
-      "title": "Blutige Hatz in Pamplona : 6 Verletzte bei Stier-Rennen",
-      "url": "https://www.bild.de/video/clip/video/tierschuetzer-ersetzt-brutales-stierrennen-in-pamplona-ist-zurueck-80650946,auto=true.bild.html",
-      "image_title": "Tierschützer ersetzt: Brutales Stierrennen in Pamplona ist zurück"
-    }
-  ]
+  "articles": []
 }
