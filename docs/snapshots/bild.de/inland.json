@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-10T10:22:20",
+  "timestamp": "2022-07-10T11:17:33",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.5825cf84.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.906c62a1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.dde2191f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.f7c2cdf1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0622fca8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.e48da558.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Großbrand : Flammen zerstörten Firmenkomplex in Gotha",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/grossbrand-in-gotha-flammen-zerstoeren-firmenkomplex-am-bahnhof-80655106.bild.html",
-      "image_url": "https://images.bild.de/62ca79c660a3e73b21ea0e9e/cb09c2f4902601113835164322259f83,ba00610f?w=656",
-      "image_title": "Großbrand in Gotha : Flammen zerstören Firmenkomplex am Bahnhof"
-    },
-    {
-      "title": "Schwer verletzt nach Spritztour : Zwillinge (24) krachen mit Porsche gegen Baum",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-mit-porsche-zwei-brueder-krachen-gegen-baum-schwer-verletzt-80655432.bild.html",
-      "image_url": "https://images.bild.de/62ca85d8c5f7901094d7d8a4/2c81496a30a477d4ae7e96c0c3a882d6,dc31e25?w=320",
-      "image_title": "Gera: Unfall mit Porsche: Brüder krachen gegen Baum – schwer verletzt"
-    },
-    {
-      "title": "Mit voller Pension im Ruhestand : Der Flut-Landrat und die heimliche Freundin",
-      "url": "https://www.bild.de/news/inland/news-inland/dr-juergen-pfoehler-der-flut-landrat-und-die-heimliche-freundin-80650878.bild.html",
-      "image_url": "https://images.bild.de/62c972e060a3e73b21ea0dae/e6f0806a7602ae9f6e16256b94701aeb,35f40cfc?w=320",
-      "image_title": "Dr. Jürgen Pföhler: Der Flut-Landrat und die heimliche Freundin"
-    },
-    {
-      "title": "Vorfahrt genommen, Auto Schrott : „Mein Tesla-Glück dauerte nur 50 Minuten“",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/tesla-glueck-dauerte-nur-50-minuten-66-000-euro-auto-geschrottet-80650882.bild.html",
-      "image_url": "https://images.bild.de/62c972f9c9b3c41abc9601cd/db98c9ff34e70d5ed75a8c0e609fa114,7aea222a?w=320",
-      "image_title": "Tesla-Glück dauerte nur 50 Minuten: 66 000 Euro-Auto geschrottet"
-    },
-    {
-      "title": "Nach dem Mord brannte sein Haus : Killer von Marianne C. (75) kam aus Nachbarschaft",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/nach-dem-mord-brannte-sein-haus-killer-von-geschaeftsfrau-wohnte-in-tatortnaehe-80639188.bild.html",
-      "image_url": "https://images.bild.de/62c7ec52733bc95356167508/efb874c564201d98a8ae07361a6fb3d7,4721e70a?w=320",
-      "image_title": "Obernkirchen (Niedersachsen): Killer von Ladeninhaberin wohnte in Tatortnähe"
-    },
-    {
-      "title": "Clan-Boss „Buddy“ Al Zein : Weshalb das Jobcenter 456000 Euro überwies",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/clan-boss-buddy-al-zein-weshalb-das-jobcenter-456-000-euro-ueberwies-80650856.bild.html",
-      "image_title": "Clan-Boss „Buddy“ Al Zein: Weshalb das Jobcenter 456000 Euro überwies"
-    },
-    {
-      "title": "Widerliches Mobbing an Schule in Niedersachsen : Todkranker Junge von Klassenkameraden verprügelt",
-      "teaser": "Einar (13) trug bei dem Vorfall innere Verletzungen davon, muss operiert werden.",
-      "url": "https://www.bild.de/news/inland/news-inland/sittensen-todkranker-einar-13-von-klassenkameraden-verpruegelt-80650870.bild.html",
-      "image_title": "Sittensen: Todkranker Einar (13) von Klassenkameraden verprügelt"
-    },
-    {
-      "title": "„Rave The Planet“ : Loveparade-Nachfolger tanzt durch Berlin",
-      "teaser": "16 Jahre nach der letzten Loveparade in Berlin versammelt Dr. Motte Tausende zum Rave.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/rave-the-planet-parade-neue-techno-parade-tanzt-durch-berlin-80648834.bild.html",
-      "image_title": "„Rave the Planet“: Neue Techno-Parade tanzt durch Berlin"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "teaser": "15 Mio € Lotto-Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 9. Juli 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-und-gewinnquoten-vom-9-juli-80617102.bild.html",
-      "image_title": "Lotto am Samstag: Die Lottozahlen und Gewinnquoten vom 9. Juli"
-    },
-    {
-      "title": "Deutschlands großer Gehalts-Check : Toni (23) verdient fast zehnmal mehr als Mandy (44)",
-      "teaser": "Steigende Mietpreise, explodierende Energiekosten. Deutschland - wie geht es dir?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/von-minimum-bis-9000-euro-mehr-als-50-deutsche-sagen-was-sie-verdienen-80595038.bild.html",
-      "image_title": "Gehalts-Check: Mehr als 50 Deutsche sagen, was sie verdienen – wer sparen muss, wer nicht"
-    },
-    {
-      "title": "BRISANTE BND-AKTEN : Der Fall Vera Brühne und die Geheimdienste",
-      "teaser": "Im Mordfall an einem Arzt und seiner Haushälterin führen Spuren in die Geheimdienstwelt.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news/brisante-bnd-akten-der-fall-vera-bruehne-und-die-geheimdienste-80623000.bild.html",
-      "image_title": "Brisante BND-Akten: Der Fall Vera Brühne und die Geheimdienste"
-    },
-    {
-      "title": "BKA-Abwehreinheit in Stellung : Drohnen-Schreck bei Lindner-Hochzeit",
-      "teaser": "Vor der Lindner-Hochzeit flog eine illegale Drohne über die Hochzeitskirche in Keitum.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/bka-abwehreinheit-in-stellung-drohnen-schreck-bei-linder-hochzeit-80650330.bild.html",
-      "image_title": "BKA-Abwehreinheit in Stellung: Drohnen-Schreck bei Lindner-Hochzeit"
-    },
-    {
-      "title": "„Romantisch, zuverlässig“ : Das Flirt-Profil des Dating-Killers",
-      "teaser": "Im April 2021 stieß Killer Marcus W. in der Dating-App „Lovoo“ auf Dorin V. (†43).",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/mordfall-dorin-v-das-dating-profil-von-killer-marcus-w-80639710.bild.html",
-      "image_title": "Mordprozess in Leipzig.: Frau erwürgt – Das Flirt-Profil des Dating-Killers"
-    },
-    {
-      "title": "Party im offenen Doppeldeckerbus : 27-Jähriger knallt mit Kopf gegen Autobahnbrücke",
-      "teaser": "27-Jähriger knallt bei Fahrt mit Partybus mit dem Kopf gegen Brücke, wird schwer verletzt.",
-      "url": "https://www.bild.de/news/inland/news-inland/unfall-mit-partybus-bei-schwandorf-bayern-fahrgast-knallt-mit-kopf-gegen-betonbr-80649334.bild.html",
-      "image_title": "Unfall mit Partybus bei Schwandorf (Bayern): Fahrgast knallt mit Kopf gegen Betonbrücke"
-    },
-    {
-      "title": "1 Tote bei Haus-Explosion im Hemer (NRW) : Retter hängten sich kopfüber in die Trümmer",
-      "teaser": "Nach einer Haus-Explosion in Hemer (NRW) dauerten die Bergungsarbeiten die ganze Nacht.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hemer-nrw-rettungsarbeiten-nach-haus-explosion-frau-tot-geborgen-80648278.bild.html",
-      "image_title": "Hemer (NRW): Rettungsarbeiten nach Haus-Explosion – Frau tot geborgen"
-    },
-    {
-      "title": "Bayreuther SPD-Stadtrat attackiert : „Scheiß Türke“ und dann gab es einen Kopfstoß",
-      "teaser": "Der Bayreuther SPD-Stadtrat Halil Tasdelen wurde Prügel-Opfer eines Rechtsradikalen.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/bayreuter-spd-stadtrat-halil-tasdelen-wurde-attackiert-80647590.bild.html",
-      "image_title": "Bayreuter SPD-Stadtrat Tasdelen brutal angegriffen und geschlagen"
-    },
-    {
-      "title": "Öl aus Russland brachte Schwedt Wohlstand : Eine Stadt kämpft ums Überleben",
-      "teaser": "Öl aus Russland brachte Wohlstand in die Stadt. Jetzt wird damit ein Krieg finanziert.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/petrolchemisches-kombinat-schwedt-eine-stadt-kaempft-um-ihr-ueberleben-80412848.bild.html",
-      "image_title": "Petrolchemisches Kombinat Schwedt: Eine Stadt kämpft um ihr Überleben"
-    },
-    {
-      "title": "Abou-Chaker-Sprößling : Geldwäsche-Verdacht! Ermittlungen gegen Clan-Sohn",
-      "teaser": "Wie ein 21-Jähriger einer polizeibekannten Großfamilie eine Villa für Millionen ersteigert",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/abou-chaker-sproessling-geldwaesche-verdacht-80645186.bild.html",
-      "image_title": "Abou-Chaker-Sprößling: Geldwäsche-Verdacht!"
-    },
-    {
-      "title": "Tropensturm traf ihre Jacht : Deutsche Aussteiger sterben bei Segel-Unfall",
-      "teaser": "Ein deutsches Aussteiger-Ehepaar ist bei einem Segel-Unfall auf dem Atlantik gestorben.",
-      "url": "https://www.bild.de/news/inland/news-inland/usa-tropensturm-traf-ihre-jacht-deutsche-aussteiger-sterben-bei-segel-unfall-im-80649292.bild.html",
-      "image_title": "USA: Tropensturm traf ihre Jacht! Deutsche Aussteiger sterben bei Segel-Unfall im Atlantik"
-    },
-    {
-      "title": "Anwohner kommt nicht in sein Haus : Straße 80 Zentimeter tiefer gelegt?",
-      "teaser": "Über eine neue Straße freut sich eigentlich jeder Anwohner, nur Jens Haase (59) nicht.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/reichenbach-anwohner-kommt-nicht-in-haus-strasse-80-cm-tiefer-gelegt-80635432.bild.html",
-      "image_title": "Sachsen: Hausbesitzer kommt nicht mehr rein – Straße tiefer gelegt?"
-    },
-    {
-      "title": "Verzockt : Die Wahrheit über die Warmwasser-Zeiten",
-      "teaser": "Die Wohnungsgenossenschaft (WG) sorgte bundesweit für Schlagzeilen, weil sie ihren Mietern (600 Wohnungen) nur noch zu bestimmten Zeiten warmes Wasser zugesteht.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/energie-krise-die-wahrheit-ueber-die-warmwasser-zeiten-80649422.bild.html",
-      "image_title": "Energie-Krise: Die Wahrheit über die Warmwasser-Zeiten"
-    },
-    {
-      "title": "Haus im Sauerland explodiert : Frau (57) tot aus den Trümmern geborgen",
-      "teaser": "Im sauerländischen Hemer (NRW) ist am Freitagabend ein Haus explodiert und eingestürzt.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/gebaeude-eingestuerzt-haus-im-sauerland-explodiert-80646602.bild.html",
-      "image_title": "Hemer (NRW): Frau nach Haus-Explosion tot aus Trümmern geborgen"
-    },
-    {
-      "title": "„Arche“-Gründer schlägt Alarm : „Bald werden in Deutschland Kinder hungern müssen“",
-      "teaser": "Bernd Siggelkow ist alarmiert: „Hartz-IV-Familien haben pro Kind 3,50 Euro Budget am Tag.“",
-      "url": "https://www.bild.de/news/inland/news-inland/arche-gruender-schlaegt-alarm-bald-werden-in-deutschland-kinder-hungern-muessen-80645080.bild.html",
-      "image_title": "„Arche“-Gründer schlägt Alarm: „Bald werden in Deutschland Kinder hungern müssen“"
-    },
-    {
-      "title": "Damit sie keine geschützten Vögel jagen : Katzen-Stasi bespitzelt Tierfreunde",
-      "teaser": "Weil die Haubenlerche als bedrohte Art gilt, griff die Stadt Walldorf durch. Oder leistete sich einen bösen Fehlgriff.",
-      "url": "https://www.bild.de/news/inland/news-inland/walldorf-katzen-haben-hier-ausgangssperre-80647472.bild.html",
-      "image_title": "Walldorf: Katzen haben hier Ausgangssperre"
-    },
-    {
-      "title": "Eurojackpot am Freitag : Haben Sie den 82 Millionen Euro Jackpot geknackt?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 8. Juli 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-8-juli-80617002.bild.html",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 8. Juli"
-    },
-    {
-      "title": "„Rave The Planet“ : Loveparade-Comeback in Berlin",
-      "url": "https://www.bild.de/video/clip/video/rave-the-planet-loveparade-nachfolger-tanzt-durch-berlin-80652646,auto=true.bild.html",
-      "image_title": "„Rave The Planet“: Loveparade-Comeback in Berlin"
-    },
-    {
-      "title": "Haus explodiert im Sauerland : Frau unter Trümmern tot geborgen",
-      "url": "https://www.bild.de/video/clip/video/opfer-unter-truemmern-begraben-haus-im-sauerland-explodiert-80647432,auto=true.bild.html",
-      "image_title": "Haus explodiert im Sauerland: Frau unter Trümmern tot geborgen"
-    },
-    {
-      "title": "Quak, Quak - Oh! : Ente erlebt Mega-Schreck",
-      "url": "https://www.bild.de/video/clip/video/nach-schreck-des-lebens-ente-gut-alles-gut-80631638,auto=true.bild.html",
-      "image_title": "Quak, Quak - Oh!: Ente erlebt Mega-Schreck"
-    }
-  ]
+  "articles": []
 }
