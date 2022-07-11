@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-11T06:28:54",
+  "timestamp": "2022-07-11T07:21:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "node.js",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-node-js-abgedichtet-7167912.html"
+    },
+    {
       "title": "HCL BigFix",
       "url": "https://www.heise.de/news/Geraetemanagement-Software-HCL-BigFix-fuer-Befehle-von-Angreifern-anfaellig-7166275.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Ransomware-Checkmate-Qnap-warnt-vor-Angriffen-7166009.html"
     },
     {
-      "title": "OpenVPN Access Server",
-      "url": "https://www.heise.de/news/Schwachstellen-in-OpenVPN-Access-Server-geschlossen-7165442.html"
+      "title": "Sicherheitslücken in node.js abgedichtet",
+      "teaser": "Neue Versionen der node.js-Laufzeitumgebung beheben sicherheitskritische Fehler mit hohem Risiko. Angreifer könnten Opfern dadurch Schadcode unterjubeln.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-node-js-abgedichtet-7167912.html",
+      "image_title": "Aufmacher node.js Sicherheitsupdate gegen RCE"
     },
     {
       "title": "Gesundheitseinrichtungen im Visier nordkoreanischer Cyberkrimineller",
@@ -64,14 +70,14 @@
       "url": "https://www.heise.de/news/Von-deutscher-Digitalisierung-inspiriert-Chatterbox-verschluesselt-Kommunikation-7166171.html"
     },
     {
-      "title": "Vorbereitung auf Krypto-Miner-Angriff: Hunderte verdächtige Pakete auf npm",
-      "teaser": "Auf dem Paketmanager wurden über 1000 Pakete automatisiert erstellt, die einen Supply-Chain-Angriff vorbereiten könnten.",
-      "url": "https://www.heise.de/news/Vorbereitung-auf-Krypto-Miner-Angriff-Hunderte-verdaechtige-Pakete-auf-npm-7166163.html"
-    },
-    {
       "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
       "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
       "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
+    },
+    {
+      "title": "Vorbereitung auf Krypto-Miner-Angriff: Hunderte verdächtige Pakete auf npm",
+      "teaser": "Auf dem Paketmanager wurden über 1000 Pakete automatisiert erstellt, die einen Supply-Chain-Angriff vorbereiten könnten.",
+      "url": "https://www.heise.de/news/Vorbereitung-auf-Krypto-Miner-Angriff-Hunderte-verdaechtige-Pakete-auf-npm-7166163.html"
     },
     {
       "title": "Gerätemanagement-Software HCL BigFix für Befehle von Angreifern anfällig",
@@ -153,12 +159,6 @@
       "teaser": "Angreifer könnten unter Umständen eigenen Code auf verwundbaren Servern mit OpenSSL ausführen. Aktualisierte Softwareversionen schließen die Lücken.",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Codeschmuggel-durch-Luecke-in-OpenSSL-moeglich-7163675.html",
       "image_title": "Aufmacher OpenSSL-RCE-Sicherheitslücke"
-    },
-    {
-      "title": "Sicherheitsupdate für Django Web-Framework",
-      "teaser": "Eine Sicherheitslücke im Django Web-Framework ermöglichte Angreifern das Einschleusen von SQL-Befehlen. Aktualisierte Software bessert die Schwachstelle aus.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-Django-Web-Framework-7163246.html",
-      "image_title": "Aufmacher Sicherheitsupdate für Django Web-Framework"
     },
     {
       "title": "heise Security Tour 2022",
