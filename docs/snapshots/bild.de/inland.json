@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-11T22:20:58",
+  "timestamp": "2022-07-11T23:21:00",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c9c4b2d1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.6525143c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.24708521.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3612a5d9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d4a228c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a4c439e5.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Doppelmord Elmshorn ++ Ermittler sicher: : Stalker fuhr 810 Kilometer, um diese Frauen zu erstechen",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/doppelmord-elmshorn-ermittler-sicher-stalker-fuhr-810-kilometer-um-diese-freundi-80663724.bild.html",
-      "image_url": "https://images.bild.de/62cbeaa70ae47301cc02fb92/67a9eed0dc7a9263d0f1abf7ee56131b,754e497d?w=656",
-      "image_title": "Doppelmord Elmshorn ++ Ermittler sicher: Stalker fuhr 810 Kilometer, um diese Freundinnen zu erstechen"
-    },
-    {
-      "title": "Mini-Camper soll in Serie gehen : Der Fahrrad-Wohnwagen aus dem 3-D-Drucker",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/fahrrad-der-wohnwagen-aus-dem-3-d-drucker-80671094.bild.html",
-      "image_url": "https://images.bild.de/62cc823d1f8f9514524256f9/f8867aefdf7303e572f58d32815bdc4b,da46679?w=320",
-      "image_title": "Fahrrad: Der Wohnwagen aus dem 3-D-Drucker"
-    },
-    {
-      "title": "Abzocke im Hochhaus : Stadt zahlt 3600 Euro Miete für Flüchtlings-Wohnung",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/abzocke-im-hochhaus-stadt-zahlt-3600-euro-miete-fuer-fluechtlings-wohnung-80670454.bild.html",
-      "image_url": "https://images.bild.de/62cc6dcdabe30b2a00b2284b/689d614dd29315fea6cd9ed93d10c8d2-miniSquare,376ba23c?w=320",
-      "image_title": "Abzocke im Hochhaus: Stadt zahlt 3600 Euro Miete für Flüchtlings-Wohnung"
-    },
-    {
-      "title": "Keiner löscht kleiner : Sachsen bauen Mini-Feuerwehr",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-sie-bauen-deutschlands-kleinste-feuerwehr-80670128.bild.html",
-      "image_url": "https://images.bild.de/62cc6666abe30b2a00b22839/b670d1156e4633043bdbb7e3a3599d5d-miniSquare,baaa5bbe?w=320",
-      "image_title": "Sachsen: Sie bauen Deutschlands kleinste Feuerwehr"
-    },
-    {
-      "title": "Gewaltvorwürfe gegen Polizei : Anwalt angeblich im Hotel misshandelt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-anwalt-angeblich-im-hotel-misshandelt-80669994.bild.html",
-      "image_url": "https://images.bild.de/62cc625f60a3e73b21ea116d/d34ad9f530b9be80456fec901b55ca37,8d7c1a57?w=320",
-      "image_title": "Leipzig: Anwalt angeblich im Hotel misshandelt"
-    },
-    {
-      "title": "Lied zu sexistisch? : Würzburg verbietet „Layla“ auf Kiliani-Fest",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/lied-zu-sexistisch-wuerzburg-verbietet-layla-auf-kiliani-fest-80670192.bild.html",
-      "image_title": "Lied zu sexistisch?: Würzburg verbietet „Layla“ auf Kiliani-Fest"
-    },
-    {
-      "title": "Vorfahrt genommen, Auto Schrott : „Mein Tesla-Glück dauerte nur 50 Minuten“",
-      "teaser": "Vier Monate hatte Marcus Reber auf seinen neuen Tesla Y gewartet. Doch das Glück hielt kurz.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/tesla-glueck-dauerte-nur-50-minuten-66-000-euro-auto-geschrottet-80650882.bild.html",
-      "image_title": "Tesla-Glück dauerte nur 50 Minuten: 66 000 Euro-Auto Tesla Y geschrottet"
-    },
-    {
-      "title": "Wir haben nur noch eine Woche Geld : Notstand in der Reha-Klinik der kranken Piepmätze",
-      "teaser": "Bei Leipzigs Wildvogelhilfe ist gerade Hochsaison. Doch ausgerechnet jetzt gehen die Spendengelder aus.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-notstand-in-der-reha-klinik-der-kranken-voegel-80660200.bild.html",
-      "image_title": "Leipzig: Notstand in der Reha-Klinik der kranken Vögel"
-    },
-    {
-      "title": "Millionenschaden angerichtet : Sind diese Beiden die Gartenmarkt-Zündler?",
-      "teaser": "Rund um den Jahreswechsel 2018 flammte es im Kreis Meißen immer wieder auf. Brandstifter trieben ihr Unwesen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-sind-das-zwei-gartenmarkt-zuendler-80669232.bild.html",
-      "image_title": "Sachsen: Sind das zwei Gartenmarkt-Zündler?"
-    },
-    {
-      "title": "Mann in Autohaus schwer verletzt : 18-Jähriger schlägt Kollege Axt in den Rücken",
-      "teaser": "Ein junger Mann (18) ist plötzlich mit einer Axt auf seine Arbeitskollegen losgegangen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/raesfeld-18-jaehriger-geht-mit-axt-im-autohaus-auf-kollegen-los-80668242.bild.html",
-      "image_title": "Raesfeld (NRW): 18-Jähriger geht mit Axt im Autohaus auf Kollegen los"
-    },
-    {
-      "title": "Es war kein Blitzeinschlag : Ursache für Brand in Zellstoffwerk Stendal geklärt",
-      "teaser": "Zunächst wurde ein Blitzschlag als Brandursache vermutet. Das wurde nun widerlegt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/technischer-defekt-war-ursache-fuer-brand-in-zellstoffwerk-mercer-bei-stendal-80667338.bild.html",
-      "image_title": "Technischer Defekt war Ursache für Brand in Zellstoffwerk Mercer bei Stendal"
-    },
-    {
-      "title": "Grausamer Fund in Thüringen : Spaziergängerin entdeckt Leiche in Uni-Nähe",
-      "teaser": "In der Nähe der Technischen Universität in Ilmenau wurde Sonntag eine Leiche entdeckt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/leiche-in-ilmenau-spaziergaengerin-entdeckt-toten-in-campusnaehe-80663750.bild.html",
-      "image_title": "Leiche in Ilmenau: Spaziergängerin entdeckt Toten in Campusnähe"
-    },
-    {
-      "title": "Hochwasser forderte 168 Menschenleben : Ein JAHR nach der Flut",
-      "teaser": "Die Flut erreichte am 14. Juli 2021 Deutschland. Die größte Katastrophe seit 60 Jahren.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/ahrtal-vor-einem-jahr-kam-es-zur-toedlichen-hochwasser-katastrophe-80655178.bild.html",
-      "image_title": "Ahrtal: Vor einem Jahr kam es zur tödlichen Hochwasser-Katastrophe"
-    },
-    {
-      "title": "Gefährliche Gegenstände im Gleis : Attacke auf Usedomer Bäderbahn",
-      "teaser": "Unbekannte haben sperrige Holzpaletten und Zementsäcke auf die Gleise gelegt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/gefaehrliche-gegenstaende-im-gleis-attacke-auf-usedomer-baederbahn-80663386.bild.html",
-      "image_title": "Gefährliche Gegenstände im Gleis: Attacke auf Usedomer Bäderbahn"
-    },
-    {
-      "title": "Wann der Staat zahlt, wann nicht : Die Liste der Impfschäden in Sachsen",
-      "teaser": "7 291 443 Corona-Impfdosen wurden in Sachsen bis Ende Mai verspritzt. Die Nebenwirkungen führten in einigen Fällen bis zum Tod.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/corona-ab-wann-der-staat-zahlt-die-liste-der-impfschaeden-in-sachsen-80659230.bild.html",
-      "image_title": "Corona: Ab wann der Staat zahlt – Die Liste der Impfschäden in Sachsen"
-    },
-    {
-      "title": "Größter Fund in Bayern : Zoll stellt eine Tonne Kokain sicher",
-      "teaser": "Kokain berauscht, stimmt euphorisch. Doch der weiße Stoff gilt als brandgefährlich.",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/groesster-fund-in-bayern-ueber-eine-tonne-koks-sichergestell-80663046.bild.html",
-      "image_title": "München – Größter Fund in Bayern: Mehr als eine Tonne Koks sichergestellt"
-    },
-    {
-      "title": "DNA-Analyse bestätigt : Bär im Gebiet Kufstein unterwegs",
-      "teaser": "Das haben die genetischen Untersuchungen nach dem Riss von Schafen Ende Juni bestätigt.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/dna-analyse-bestaetigt-baer-im-gebiet-kufstein-unterwegs-80665112.bild.html",
-      "image_title": "DNA-Analyse bestätigt: Bär im Gebiet Kufstein unterwegs"
-    },
-    {
-      "title": "Eine Familie wurde schwer verletzt : Darum explodierte das Sportboot auf der Müritz",
-      "teaser": "Zwei Wochen nach dem Unglück mit einer schwer verletzten Familie ist die Ursache geklärt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/waren-ursache-gefunden-darum-explodierte-das-boot-auf-der-mueritz-80664758.bild.html",
-      "image_title": "Waren: Ursache gefunden – Darum explodierte das Boot auf der Müritz"
-    },
-    {
-      "title": "3, 2, 1 – nicht mehr meins! : Kleinanzeigen streicht „Ebay“ weg",
-      "teaser": "Der neue Besitzer des Online-Flohmarkts muss bald den Namen ändern.",
-      "url": "https://www.bild.de/digital/internet/internet/ebay-kleinanzeigen-bald-ohne-ebay-77475332.bild.html",
-      "image_title": "Ebay Kleinanzeigen: Neuer Name! „Ebay“ wird gestrichen"
-    },
-    {
-      "title": "Mann (25) in Gotha erstochen : Tatverdächtiger (33) nach Bluttat festgenommen",
-      "teaser": "Der Tatverdächtige soll in einem Streit einen anderen Mann (25) in Gotha erstochen haben.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/gewaltsamer-tod-in-gotha-tatverdaechtiger-33-festgenommen-80664172.bild.html",
-      "image_title": "Gewaltsamer Tod in Gotha: Tatverdächtiger (33) festgenommen"
-    },
-    {
-      "title": "In Baden-Württemberg : Zwei Lotto-Millionen-Gewinne",
-      "teaser": "Doppeltes Losglück mit Millionengewinn in Baden-Württemberg.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/in-baden-wuerttemberg-zwei-lotto-millionen-gewinne-80664382.bild.html",
-      "image_title": "In Baden-Württemberg: Zwei Lotto-Millionen-Gewinne"
-    },
-    {
-      "title": "KARINE HAT 2-MIO.-SPRITZE BEKOMMEN : Hier lacht ein Medizin-Wunder",
-      "teaser": "Karine hat in einer Hamburger Klinik eine dringend benötigte Tranfusion bekommen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburg-zwei-millionen-spritze-schenkt-karine-2-ein-neues-leben-80656048.bild.html",
-      "image_title": "Hamburg: Zwei-Millionen-Spritze schenkt Karine (1) ein neues Leben"
-    },
-    {
-      "title": "„Es fehlen bis zu 100 000 Fahrer“ : Bammel in der Brummi-Branche!",
-      "teaser": "Die Lkw-Branche hat mit massivem Personalmangel zu kämpfen.",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/personalmangel-bei-lkw-fahrern-bammel-in-der-brummi-branche-80662702.bild.html",
-      "image_title": "Personalmangel bei Lkw-Fahrern: Bammel in der Brummi-Branche!"
-    },
-    {
-      "title": "Nachts streunt er über die Grundstücke : Der Solar-Wolf von Liebschützberg",
-      "teaser": "Eine Foto-Falle, die ein Wolfsberater wegen der nächtlichen Randale aufstellte, erwischte den Übeltäter.",
-      "url": "https://www.bild.de/news/inland/news-inland/wolf-von-liebschuetzberg-nachts-streunt-er-ueber-die-grundstuecke-80650824.bild.html",
-      "image_title": "Wolf von Liebschützberg: Nachts streunt er über die Grundstücke"
-    },
-    {
-      "title": "Tim (45) muss auf nichts verzichten : Katerina kann nicht mal ihre Familie besuchen",
-      "teaser": "Steigende Mietpreise, explodierende Energiekosten. Deutschland - wie geht es dir?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/von-minimum-bis-9000-euro-mehr-als-50-deutsche-sagen-was-sie-verdienen-80595038.bild.html",
-      "image_title": "Gehalt: 57 Deutsche legen Verdienst offen – wem es gut, wem nicht"
-    },
-    {
-      "title": "Doppelmord in Elmshorn : Freundin trauert um Yusra B. und Zahra H.",
-      "url": "https://www.bild.de/bild-plus/video/clip/video/doppelmord-in-elmshorn-freundin-trauert-um-yusra-b-und-zahra-h-80669184.bild.html",
-      "image_title": "Doppelmord in Elmshorn: Freundin trauert um Yusra B. und Zahra H."
-    },
-    {
-      "title": "Bewohner Jean-Pierre O. (27) : Ich überlebte die Hölle von Hemer",
-      "url": "https://www.bild.de/video/clip/video/bewohner-jean-pierre-o-27-ich-ueberlebte-die-hoelle-von-hemer-80661106.bild.html",
-      "image_title": "Bewohner Jean-Pierre O. (27): Ich überlebte die Hölle von Hemer"
-    },
-    {
-      "title": "„Rave The Planet“ : Loveparade-Comeback in Berlin",
-      "url": "https://www.bild.de/video/clip/video/rave-the-planet-loveparade-nachfolger-tanzt-durch-berlin-80652646.bild.html",
-      "image_title": "„Rave The Planet“: Loveparade-Comeback in Berlin"
-    }
-  ]
+  "articles": []
 }

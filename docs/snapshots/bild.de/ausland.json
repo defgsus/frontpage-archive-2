@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-11T22:20:59",
+  "timestamp": "2022-07-11T23:21:01",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.0-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c9c4b2d1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.6525143c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.24708521.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.3612a5d9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d4a228c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a4c439e5.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Zum VerHECHELN ähnlich! : Bullterrier Tom (6) stellt große Kunst nach",
-      "url": "https://www.bild.de/news/ausland/news-ausland/zum-verhecheln-aehnlich-bullterrier-tom-6-stellt-grosse-kunst-nach-80671086.bild.html",
-      "image_url": "https://images.bild.de/62cc7a5e1f8f9514524256ed/3d179f8538511a85b7073fc5eda14ad6,8e0feb14?w=656",
-      "image_title": "Zum VerHECHELN ähnlich!: Bullterrier Tom (6) stellt große Kunst nach"
-    },
-    {
-      "title": "Mit 86 Jahren : Sie ist die älteste Flugbegleiterin der Welt",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mit-86-jahren-bette-nash-ist-die-aelteste-flugbegleiterin-der-welt-80670168.bild.html",
-      "image_url": "https://images.bild.de/62cc5fe51f8f9514524256c4/d5e9db8ad0f1c40c189e3f390fb389ab,97f4652f?w=320",
-      "image_title": "Mit 86 Jahren: Bette Nash ist die älteste Flugbegleiterin der Welt"
-    },
-    {
-      "title": "Noch immer 8 Kegelbrüder im Malle-Knast : Neues Gutachten soll Unschuld beweisen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kegelbrueder-im-malle-knast-neues-gutachten-soll-unschuld-beweisen-80665978.bild.html",
-      "image_url": "https://images.bild.de/62cc14600ae47301cc02fbe2/1816c8d4908eb9d2b0d8c763e4ff3f1b,b8cc441?w=320",
-      "image_title": "Kegelbrüder im Malle-Knast: Neues Gutachten soll Unschuld beweisen"
-    },
-    {
-      "title": "Bei minus 10 Grad in den Anden : Mehr als 450 Menschen in Autos eingeschneit",
-      "url": "https://www.bild.de/news/ausland/news-ausland/anden-schneesturm-mehr-als-400-menschen-zwischen-argentinien-und-chile-eingeschn-80662880.bild.html",
-      "image_url": "https://images.bild.de/62cbd3662dd3103d82ec0eb2/f53d9a444f89923a84c50276b4f10a82,34927348?w=320",
-      "image_title": "Anden-Schneesturm: Mehr als 450 Menschen zwischen Argentinien und Chile eingeschneit"
-    },
-    {
-      "title": "Gletscher-Sturz in den Dolomiten : Kurz nach diesem Selfie tötete ihn die Lawine",
-      "url": "https://www.bild.de/news/ausland/news-ausland/gletscher-sturz-in-dolomiten-kurz-nach-diesem-selfie-toetete-ihn-die-lawine-80614942.bild.html",
-      "image_url": "https://images.bild.de/62c52b171a8dc6567194b281/bd0f53c1142dafdcaaa2abfa692a58bc,bcebd731?w=320",
-      "image_title": "Gletscher-Sturz in Dolomiten: Nach diesem Selfie tötete ihn die Lawine"
-    },
-    {
-      "title": "Luxus-Leben mit Sozialhilfe : Clan-Chef (47) lässt sich vor Gericht feiern",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/duesseldorf-prozess-warum-buddy-aus-beirut-deutschland-wirklich-mag-80439832.bild.html",
-      "image_title": "Düsseldorf: Prozess: Warum „Buddy“ aus Beirut Deutschland wirklich mag"
-    },
-    {
-      "title": "11 Tote in den Dolomiten (Italien) : SIE haben die Gletscher-Katastrophe überlebt",
-      "teaser": "11 Menschen starben bei der Gletscher-Katastrophe. Diese zwei Deutschen überlebten.",
-      "url": "https://www.bild.de/regional/muenchen/news-ausland/11-tote-bei-gletscher-abbruch-in-dolomiten-deutsches-opfer-aus-klinik-entlassen-80657324.bild.html",
-      "image_title": "11 Tote in Dolomiten: Diese Deutschen haben die Gletscher-Katastrophe überlebt"
-    },
-    {
-      "title": "Kegelbrüdern drohen bis zu 20 Jahre Knast : Feuer-Experte bezweifelt Brandgutachten",
-      "teaser": "Ein spanischer Justiz-Experte erklärt die spezielle Rechtslage.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/kegelbruedern-drohen-bis-zu-20-jahre-knast-feuer-experte-bezweifelt-spanisches-b-80647298.bild.html",
-      "image_title": "Kegelbrüdern drohen bis zu 20 Jahre Knast: Feuer-Experte bezweifelt spanisches Brandgutachten"
-    },
-    {
-      "title": "Mit „Medal of Freedom“ geehrt : Darum trug Rapinoe die Initialen „BG“",
-      "teaser": "US-Fußballerin Megan Rapinoe nutze den Anlass im Weißen Haus für seine Solidaritätsaktion.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/mit-freiheitsmedaille-geehrt-darum-trug-rapinoe-die-initialen-bg-80643224.bild.html",
-      "image_title": "Mit Freiheitsmedaille geehrt: Darum trug Rapinoe die Initialen „BG“"
-    },
-    {
-      "title": "Slowenien feiert : Verfassungsgericht legalisiert die „Ehe für alle“",
-      "teaser": "Gleichgeschlechtliche Paare in Slowenien dürfen jetzt heiraten und Kinder adoptieren.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/slowenien-feiert-verfassungsgericht-legalisiert-die-ehe-fuer-alle-80645498.bild.html",
-      "image_title": "Slowenien feiert: Verfassungsgericht legalisiert die „Ehe für alle“"
-    },
-    {
-      "title": "EXKLUSIV: FEUER-BERICHT DER GUARDIA CIVIL : Brandgutachten belastet Kegelbrüder schwer",
-      "teaser": "Die Guardia Civil hat ihren Bericht zur Brandursache am Ballermann vorerst beendet.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-feuer-bericht-fertig-brandgutachten-belastet-kegelbrueder-schwer-80639538.bild.html",
-      "image_title": "Mallorca: Feuer-Bericht fertig: Brandgutachten belastet Kegelbrüder schwer"
-    },
-    {
-      "title": "Antigua und Barbuda : Karibische Inselgruppe legalisiert Homosexualität",
-      "teaser": "Der Oberste Gerichtshof hat das Homo-Verbot unter Männern für verfassungswidrig erklärt.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/antigua-und-barbuda-karibische-inselgruppe-legalisiert-homosexualitaet-80623116.bild.html",
-      "image_title": "Antigua und Barbuda: Karibische Inselgruppe legalisiert Homosexualität"
-    },
-    {
-      "title": "ALIEN-ABSTURZ VOR 75 JAHREN IN DEN USA : Plauderte Marilyn Monroe Ufo-Geheimnisse aus?",
-      "teaser": "1947 ereignete sich in Neu Mexiko (USA) nahe Roswell ein Vorfall, der zur Legende wurde.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/roswell-musste-marilyn-sterben-weil-sie-ufo-geheimnisse-ausplauderte-80618856.bild.html",
-      "image_title": "Roswell: Musste Marilyn sterben, weil sie Ufo-Geheimnisse ausplauderte?"
-    },
-    {
-      "title": "Pilotenstreik! : Familie sitzt eine Woche in der Arktis fest",
-      "teaser": "Der Urlaub einer Familie in Spitzbergen wurde deutlich länger als gedacht ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/streik-familie-sitzt-eine-woche-in-der-arktis-in-spitzbergen-fest-80619014.bild.html",
-      "image_title": "Streik! Familie sitzt eine Woche in der Arktis in Spitzbergen fest"
-    },
-    {
-      "title": "Scharfschützin für die Ukraine : Brasilien-Model im Kampf gegen Russen getötet",
-      "teaser": "Das brasilianische Model Thalita do Valle (39) ist an der Front bei Charkiw gefallen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ukraine-brasilien-model-im-kampf-gegen-russen-gefallen-80625794.bild.html",
-      "image_title": "Ukraine: Brasilien-Model im Kampf gegen Russen gefallen"
-    },
-    {
-      "title": "52 Jahre nach Unglück : Zweiter Schuh von Messners Bruder gefunden",
-      "teaser": "Oben zerfetzt, an den Ösen verrostet, aber sonst sehr gut erhalten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/52-jahre-nach-toedlichem-unglueck-zweiter-schuh-von-messners-bruder-gefunden-80344632.bild.html",
-      "image_title": "52 Jahre nach tödlichem Unglück: Zweiter Schuh von Messners Bruder gefunden"
-    },
-    {
-      "title": "Zoff um Parkplatz : Ex-Soldat ersticht zwei Nachbarn – 38 Jahre Knast",
-      "teaser": "15 Jahre hatte Collin Reeves seinem Land gedient. Mehr als doppelt so lang muss er in den Knast.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/zoff-um-parkplatz-ex-soldat-ersticht-zwei-nachbarn-38jahre-knast-80468652.bild.html",
-      "image_title": "Zoff um Parkplatz: Ex-Soldat ersticht zwei Nachbarn – 38 Jahre Knast"
-    },
-    {
-      "title": "Streiks bei drei Airlines gleichzeitig : Jetzt droht Malle-Chaos",
-      "teaser": "Zum Start in die Feriensaison droht Streik-Chaos bei Easyjet, Ryanair und Lauda Air.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-droht-streik-chaos-zum-ferienstart-easyjet-ryanair-und-lauda-air-betrof-80473646.bild.html",
-      "image_title": "Mallorca: Streiks bei Easyjet, Ryanair und Lauda Air: Wann Flüge ausfallen - mit Kalender"
-    },
-    {
-      "title": "Studentin († 21) getötet : US-Killer spricht bei Hinrichtung zu Mord-Opfer",
-      "teaser": "Zum ersten Mal seit acht Jahren ist in Arizona wieder eine Todesstrafe vollstreckt worden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/arizona-usa-todesstrafe-killer-spricht-bei-hinrichtung-zu-mord-opfer-80055828.bild.html",
-      "image_title": "Arizona (USA): Todesstrafe! Killer spricht bei Hinrichtung zu Mord-Opfer"
-    },
-    {
-      "title": "Aufnahmeritual in USA : Student (19) nach Mutprobe blind und gelähmt",
-      "teaser": "Danny Santulli ist seit der Mutprobe für eine Studentenverbindung ein Pflegefall.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-student-nach-mutprobe-fuer-studentenverbindung-blind-und-gelaehmt-80347916.bild.html",
-      "image_title": "USA: Student nach Mutprobe für Studentenverbindung blind und gelähmt"
-    },
-    {
-      "title": "„Maximale Fluchtgefahr“ : Knallhart-Richter lässt die Kegelbrüder nicht frei",
-      "teaser": "Antoni Rotger brachte bereits Palmas Vize-Bürgermeister hinter Gitter.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/mallorca-knallhart-richter-laesst-die-kegelbrueder-nicht-frei-80630260.bild.html",
-      "image_title": "Mallorca: Knallhart-Richter lässt die Kegelbrüder nicht aus der Haft"
-    },
-    {
-      "title": "3 Monate in Behandlung : Mann nach 33-Meter Sturz aus Krankenhaus entlassen",
-      "teaser": "Ein Auto-Dach bremste seinen Sturz ab. Er überlebte. Jetzt konnte er die Klinik verlassen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/3-monate-behandlung-mann-nach-33-meter-sturz-aus-der-klinik-entlassen-78977690.bild.html",
-      "image_title": "3 Monate Behandlung: Mann nach 33-Meter-Sturz aus der Klinik entlassen"
-    },
-    {
-      "title": "„Das hier ist Afrika“ : Randale-Mob begrapscht Frauen am Gardasee",
-      "teaser": "Etwa 1500 bis 2000 Jugendliche fielen über den beschaulichen Ort Peschiera (Italien) her.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/peschiera-randale-mob-begrapscht-frauen-am-gardasee-80404172.bild.html",
-      "image_title": "Peschiera: Randale-Mob begrapscht Frauen am Gardasee"
-    },
-    {
-      "title": "Schlimme Bullen-Hatz in Pamplona : 5 Männer bei Stier-Wahnsinn in Spanien verletzt",
-      "teaser": "Eine der umstrittensten Traditionen - die Stier-Hatz in den Straßen von Pamplona",
-      "url": "https://www.bild.de/news/ausland/news-ausland/stier-hatz-in-pamplona-bullen-trampeln-5-menschen-krankenhausreif-80630642.bild.html",
-      "image_title": "Stier-Hatz in Pamplona: Bullen trampeln 5 Menschen krankenhausreif"
-    },
-    {
-      "title": "In Russland : Bär zertrümmert Schädel von Jäger (†62)",
-      "teaser": "In Russland tötete ein Braunbär einen Jäger, nachdem dieser auf ihn geschossen hatte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/russland-baer-zertruemmert-schaedel-von-jaeger-nach-schuss-beide-tot-80470580.bild.html",
-      "image_title": "Russland: Bär zertrümmert Schädel von Jäger nach Schuss – beide tot"
-    },
-    {
-      "title": "Süß und selten : Diese beiden erobern Herzen im Sturm!",
-      "url": "https://www.bild.de/video/clip/video/suess-und-selten-diese-beiden-erobern-herzen-im-sturm-80661586.bild.html",
-      "image_title": "Süß und selten: Diese beiden erobern Herzen im Sturm!"
-    },
-    {
-      "title": "Schock bei der Landung : Passagiere filmen Feuer am Fahrwerk",
-      "url": "https://www.bild.de/video/clip/video/schock-bei-der-landung-passagiere-filmen-feuer-am-fahrwerk-80664426.bild.html",
-      "image_title": "Schock bei der Landung: Passagiere filmen Feuer am Fahrwerk"
-    },
-    {
-      "title": "Herzinfarkt mitten auf dem Meer : Spektakuläre Hochsee-Rettung im Atlantik",
-      "url": "https://www.bild.de/video/clip/video/240km-im-atlantik-vor-argentinien-hochsee-rettung-aus-der-luft-80662552.bild.html",
-      "image_title": "Herzinfarkt mitten auf dem Meer: Spektakuläre Hochsee-Rettung im Atlantik"
-    }
-  ]
+  "articles": []
 }
