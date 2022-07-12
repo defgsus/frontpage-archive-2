@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-12T06:28:29",
+  "timestamp": "2022-07-12T07:20:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM MQ",
+      "url": "https://www.heise.de/news/Schwachstellen-in-IBM-MQ-ermoeglichen-Rechteausweitung-7169603.html"
+    },
+    {
       "title": "node.js",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-node-js-abgedichtet-7167912.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-in-Dell-EMC-Software-geschlossen-7166118.html"
     },
     {
-      "title": "Qnap",
-      "url": "https://www.heise.de/news/Ransomware-Checkmate-Qnap-warnt-vor-Angriffen-7166009.html"
+      "title": "Schwachstellen in IBM MQ ermöglichen Rechteausweitung",
+      "teaser": "Mehrere Sicherheitslücken in IBM MQ ermöglichen Angreifern, ihre Rechte an betroffenen Systemen auszuweiten oder diese lahmzulegen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Schwachstellen-in-IBM-MQ-ermoeglichen-Rechteausweitung-7169603.html",
+      "image_title": "Aufmacher IBM MQ Sicherheitsupdate"
+    },
+    {
+      "title": "iX-Workshop zur Cloud-Nutzung: Azure & Co. effektiv absichern",
+      "teaser": "Lernen Sie an zwei Tagen, wie Sie Cloud-Dienste wie Microsoft Azure sicher und zudem möglichst datenschutzkonform einsetzen. Mit 10 % Frühbucherrabatt bis 27.7.",
+      "url": "https://www.heise.de/news/iX-Workshop-zur-Cloud-Nutzung-Azure-Co-effektiv-absichern-7163917.html",
+      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
       "title": "Vorwurf lascher IT-Security bei Raketenfirma - Whistleblower erklagt Millionen",
@@ -60,6 +72,11 @@
       "image_title": "Aufmacher Rolling Pwn: Honda-Funkschlüssel geknackt"
     },
     {
+      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
+      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
+      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
+    },
+    {
       "title": "Gesundheitseinrichtungen im Visier nordkoreanischer Cyberkrimineller",
       "teaser": "US-amerikanische Sicherheitsbehörden warnen vor der Maui-Ransomware. Mit ihr greifen nordkoreanische Cybergangs Organisationen des Gesundheitswesens an.",
       "url": "https://www.heise.de/news/Gesundheitseinrichtungen-im-Visier-nordkoreanischer-Cyberkrimineller-7166692.html",
@@ -69,11 +86,6 @@
       "title": "Jetzt noch schnell registrieren: IT Job kompakt am 13. und 14. Juli in München",
       "teaser": "Nächste Woche findet am TUM in Garching die nächste Ausgabe der Recruiting-Messe IT Job kompakt statt – mit spannenden Vorträgen und attraktiven Unternehmen.",
       "url": "https://www.heise.de/news/Jetzt-noch-schnell-registrieren-IT-Job-kompakt-am-13-und-14-Juli-in-Muenchen-7166458.html"
-    },
-    {
-      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
-      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
-      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "Von deutscher Digitalisierung inspiriert: Chatterbox verschlüsselt Kommunikation",
@@ -149,17 +161,6 @@
       "title": "Lockdown-Mode: Apple macht für Spionagegefährdete die Schotten dicht",
       "teaser": "Ein neuer Modus, der auf iPhone, iPad und Mac kommt, soll Cybergefahren über proaktive Maßnahmen abwehren. Das mindert aber das Nutzererlebnis.",
       "url": "https://www.heise.de/news/Lockdown-Mode-Apple-macht-fuer-Spionagegefaehrdete-die-Schotten-dicht-7164653.html"
-    },
-    {
-      "title": "Post-Quanten-Kryptografie: Deutsche Forscher bei NIST-Auswahl vorne dabei",
-      "teaser": "Das NIST hat nach sechs Jahren die ersten Quantencomputer-resistenten Verfahren standardisiert. Und deutsche Forscher sind ganz vorn mit dabei.",
-      "url": "https://www.heise.de/news/Post-Quanten-Kryptografie-NIST-standardisiert-erste-Verfahren-7164222.html"
-    },
-    {
-      "title": "Fortinet dichtet mehrere Schwachstellen in zahlreichen Produkten ab",
-      "teaser": "Der IT-Sicherheitsanbieter Fortinet hat in diversen Produkten Sicherheitslücken aufgespürt. Updates stehen bereit, die die Schwachstellen abdichten.",
-      "url": "https://www.heise.de/news/Fortinet-dichtet-mehrere-Schwachstellen-in-zahlreichen-Produkten-ab-7164084.html",
-      "image_title": "Aufmacher zahlreiche Sicherheitsupdates bei Fortinet"
     },
     {
       "title": "heise Security Tour 2022",
