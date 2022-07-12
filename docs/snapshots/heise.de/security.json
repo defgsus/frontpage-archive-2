@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-12T11:18:16",
+  "timestamp": "2022-07-12T12:46:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday: SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-20-neue-Sicherheitsluecken-im-Juli-abgedichtet-7170698.html"
+    },
+    {
       "title": "IBM MQ",
       "url": "https://www.heise.de/news/Schwachstellen-in-IBM-MQ-ermoeglichen-Rechteausweitung-7169603.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Geraetemanagement-Software-HCL-BigFix-fuer-Befehle-von-Angreifern-anfaellig-7166275.html"
     },
     {
-      "title": "Dell EMC",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-in-Dell-EMC-Software-geschlossen-7166118.html"
+      "title": "SAP-Patchday: 20 neue Sicherheitslücken im Juli abgedichtet",
+      "teaser": "Mit den Updates zum Juli-Patchday schließt SAP 20 neue Sicherheitslücken. Zudem aktualisiert der Hersteller drei ältere Security-Bulletins.",
+      "url": "https://www.heise.de/news/SAP-Patchday-20-neue-Sicherheitsluecken-im-Juli-abgedichtet-7170698.html",
+      "image_title": "Aufmacher SAP Patchday"
+    },
+    {
+      "title": "Paketmanager PyPI startet 2FA-Pflicht mit kostenloser Hardware und einer Panne",
+      "teaser": "Kritische Projekte müssen auf 2FA umsteigen, die Betreiber verteilen 4000 Titan-Sicherheitsschlüssel. Ein wichtiges Paket ging unterdessen zeitweilig verloren.",
+      "url": "https://www.heise.de/news/Paketmanager-PyPI-startet-2FA-Pflicht-mit-kostenloser-Hardware-und-einer-Panne-7169645.html"
     },
     {
       "title": "Spyware Pegasus: L3Harris will NSO doch nicht übernehmen",
@@ -60,6 +71,11 @@
       "image_title": "Aufmacher IBM MQ Sicherheitsupdate"
     },
     {
+      "title": "Zero Trust: Warum wir uns vor Daten und Applikationen schützen sollten",
+      "teaser": "Im Sicherheitskonzept Zero Trust wird Nutzern und Endgeräten beim Zugriff auf Daten und Applikationen prinzipiell misstraut. Erst nach erfolgreicher Prüfung und Authentifizierung erhalten sie Zugang. Was geschieht aber, wenn die Gefahr gar nicht vom Endpunkt ausgeht, sondern von den Daten und Applikationen, auf die zugegriffen wird?",
+      "url": "https://www.heise.de/solutions/hp/zero-trust-warum-wir-uns-vor-daten-und-applikationen-schuetzen-sollten/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop zur Cloud-Nutzung: Azure & Co. effektiv absichern",
       "teaser": "Lernen Sie an zwei Tagen, wie Sie Cloud-Dienste wie Microsoft Azure sicher und zudem möglichst datenschutzkonform einsetzen. Mit 10 % Frühbucherrabatt bis 27.7.",
       "url": "https://www.heise.de/news/iX-Workshop-zur-Cloud-Nutzung-Azure-Co-effektiv-absichern-7163917.html",
@@ -70,11 +86,6 @@
       "teaser": "Aerojet Rocketdyne habe sich durch Schönung der eigenen IT-Sicherheit Regierungsaufträge erschlichen, sagt ein Ex-Manager. Er hat im Namen der USA prozessiert.​",
       "url": "https://www.heise.de/news/Vorwurf-lascher-IT-Security-bei-Raketenfirma-Whistleblower-erklagt-Millionen-7169534.html",
       "image_title": "Darstellung einer Rakete im Flug"
-    },
-    {
-      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
-      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
-      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "Rolling Pwn: Hondas öffnen und starten durch Sicherheitslücke",
@@ -151,17 +162,6 @@
       "title": "Patchday Android: Systemlücke lässt Schadcode passieren",
       "teaser": "Es gibt wichtige Sicherheitsupdates für Android-Smartphones und -Tablets. Einige Lücken sind als kritisch eingestuft.",
       "url": "https://www.heise.de/news/Patchday-Android-Systemluecke-laesst-Schadcode-passieren-7164810.html"
-    },
-    {
-      "title": "Cisco dichtet teils kritische Sicherheitslücken ab",
-      "teaser": "Cisco hat mehrere Schwachstellen primär in den Kommunikationslösungen gemeldet. Aktualisierungen bessern sie aus. Angreifer könnten etwa root-Rechte erlangen.",
-      "url": "https://www.heise.de/news/Cisco-dichtet-teils-kritische-Sicherheitsluecken-ab-7164806.html",
-      "image_title": "Aufmacher Cisco viele Patches"
-    },
-    {
-      "title": "Bundesnetzagentur: Mehr Beschwerden zu angeblichen \"Europol\"-Anrufen",
-      "teaser": "Seit einigen Monaten häufen sich Meldungen, dass Menschen mit Spam-Anrufen von angeblichen Polizeibehörden belästigt werden. Ein Identitätsdiebstahl liege vor.",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-Mehr-Beschwerden-zu-angeblichen-Europol-Anrufen-7164723.html"
     },
     {
       "title": "heise Security Tour 2022",
