@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-12T20:24:49",
+  "timestamp": "2022-07-12T21:19:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday: Adobe",
+      "url": "https://www.heise.de/news/Adobe-dichtet-teils-kritische-Luecken-ab-7177696.html"
+    },
+    {
       "title": "Patchday: SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-20-neue-Sicherheitsluecken-im-Juli-abgedichtet-7170698.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-node-js-abgedichtet-7167912.html"
     },
     {
-      "title": "HCL BigFix",
-      "url": "https://www.heise.de/news/Geraetemanagement-Software-HCL-BigFix-fuer-Befehle-von-Angreifern-anfaellig-7166275.html"
+      "title": "Adobe dichtet teils kritische Lücken ab",
+      "teaser": "In Adobe Acrobat und Reader, Photoshop, RoboHelp und Character Animator schließt der Hersteller Sicherheitslücken. Einige sind kritisch.",
+      "url": "https://www.heise.de/news/Adobe-dichtet-teils-kritische-Luecken-ab-7177696.html",
+      "image_title": "Logo Adobe Patchday"
     },
     {
       "title": "Retbleed: CPU-Sicherheitslücke Spectre V2 nicht vollständig geschlossen",
@@ -64,15 +70,15 @@
       "url": "https://www.heise.de/news/Paketmanager-PyPI-startet-2FA-Pflicht-mit-kostenloser-Hardware-und-einer-Panne-7169645.html"
     },
     {
+      "title": "Warum nur eine ganzheitliche Risikobewertung Unternehmen schützt",
+      "teaser": "Schwachstellen, Compliance-Probleme, der aktuelle Status von Patches und aktuelle Bedrohungen: Viele Unternehmen können ihr Cyber-Risiko nicht umfassend und systematisch bewerten – und das, obwohl sie tausende Endpunkte besitzen. Doch die kennen sie oft nicht. Eine datengesteuerte, proaktive Risikoanalyse in Echtzeit ist essenziell, um die IT-Infrastruktur zu schützen.",
+      "url": "https://www.heise.de/solutions/tanium/warum-nur-eine-ganzheitliche-risikobewertung-unternehmen-schuetzt/?source=nat_teas"
+    },
+    {
       "title": "Spyware Pegasus: L3Harris will NSO doch nicht übernehmen",
       "teaser": "Sicherheitsbedenken der US-Regierung haben laut US-Medien dazu geführt, dass das US-Technologieunternehmen L3Harris Übernahmegespräche mit NSO beendet hat.",
       "url": "https://www.heise.de/news/Spyware-Pegasus-L3Harris-will-NSO-doch-nicht-uebernehmen-7170589.html",
       "image_title": "Stuttgart,,Germany,-,07-31-2021:,Cellphone,With,Webpage,Of,Israeli,Technology"
-    },
-    {
-      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
-      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
-      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
     },
     {
       "title": "IBM-Middleware: Schwachstelle in MQ kann zu Rechtausweitung führen",
@@ -157,12 +163,6 @@
       "teaser": "Kinderbetreuung als Einnahmequelle: Viele Kita-Apps teilen gesammelte Daten mit Werbetreibenden. Zudem könnten eventuelle Angreifer auf Kinderfotos zugreifen.",
       "url": "https://www.heise.de/news/Kita-Apps-Privatsphaere-Experten-finden-gravierende-Sicherheitsmaengel-7165901.html",
       "image_title": "2 Mädchen mit Handy"
-    },
-    {
-      "title": "Schwachstellen in OpenVPN Access Server geschlossen",
-      "teaser": "Version 2.11.0 des OpenVPN Access Server schließt einige Sicherheitslücken. Angreifer hätten die Server etwa für DDoS-Verstärkungs-Angriffe missbrauchen können.",
-      "url": "https://www.heise.de/news/Schwachstellen-in-OpenVPN-Access-Server-geschlossen-7165442.html",
-      "image_title": "Aufmacher Sicherheitsupdate OpenVPN Access Server"
     },
     {
       "title": "heise Security Tour 2022",
