@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-13T19:17:23",
+  "timestamp": "2022-07-13T20:23:05",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,365 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Dramatische Rettung : Arbeiter in Baugrube verschüttet",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-arbeiter-in-baugrube-verschuettet-80683150.bild.html",
-      "image_title": "Berlin: Arbeiter in Baugrube verschüttet"
-    },
-    {
-      "title": "Party trotz Corona-Welle : Hunderttausende bei CSD-Parade in Berlin erwartet",
-      "teaser": "Die Corona-Zahlen stiegen zwar seit Wochen wieder deutlich an, dennoch findet der CSD statt.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/party-trotz-corona-hunderttausende-bei-csd-parade-in-berlin-erwartet-80686800.bild.html",
-      "image_title": "Party trotz Corona: Hunderttausende bei CSD-Parade in Berlin erwartet"
-    },
-    {
-      "title": "Im Berliner Szene-Viertel : Remmo-Sohn im Fitness- Studio niedergestochen!",
-      "teaser": "Gefährliche Attacke in einem Fitness-Studio in Prenzlauer Berg.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/berlin-prenzlauer-berg-mann-nachts-in-fitness-studio-niedergestochen-80683202.bild.html",
-      "image_title": "Berlin-Prenzlauer Berg: Mann nachts in Fitnessstudio niedergestochen"
-    },
-    {
-      "title": "Ex-Bremer prophezeit : Eggestein: „Werder wird eine gute Rolle spielen“",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-maxi-eggestein-prophezeit-werder-ein-gute-rolle-80684978.bild.html",
-      "image_title": "Werder Bremen: Maxi Eggestein prophezeit Werder ein gute Rolle"
-    },
-    {
-      "title": "Ferienstart in fünf Bundesländern : ADAC erwartet Mega-Stau am Wochenende",
-      "teaser": "An diesem Wochenende starten viele ihre Reise. Welche Autobahnen besonders betroffen sind.",
-      "url": "https://www.bild.de/auto/auto-news/auto-news/adac-erwartet-mega-stau-auf-diesen-autobahnen-am-wochenende-80688076.bild.html",
-      "image_title": "ADAC erwartet Mega-Stau auf diesen Autobahnen am Wochenende"
-    },
-    {
-      "title": "„Eifrig und engagiert“ : Fritz lobt Bittencourt",
-      "teaser": "Leo Bittencourt muss sich steigern. Laut Clemens Fritz ist er auf einem guten Weg.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-eifrig-und-engagiert-clemens-fritz-lobt-leo-bittencourt-80688950.bild.html",
-      "image_title": "Werder Bremen: „Eifrig und engagiert!“ Clemens Fritz lobt Leo Bittencourt"
-    },
-    {
-      "title": "Der Killer aus der Dating-App : Frauenmörder googelte, wie man jemanden erwürgt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-frauenmoerder-googelte-wie-man-jemanden-erwuergt-80691852.bild.html",
-      "image_title": "Leipzig: Frauenmörder googelte, wie man jemanden erwürgt"
-    },
-    {
-      "title": "Illegale Teile für Waffen geliefert? : Haftstrafe für Russen-Lieferant beantragt",
-      "teaser": "Im Prozess geht es um verbotene Exporte für russische Atom- und Chemiewaffenprogramme.",
-      "url": "https://www.bild.de/regional/dresden/leipzig-news/dresden-haftstrafe-fuer-deutschen-russen-lieferanten-beantragt-80692002.bild.html",
-      "image_title": "Dresden: Haftstrafe für deutschen Russen-Lieferanten beantragt"
-    },
-    {
-      "title": "Harzer Schmalspurbahnen : Kleine Bahn, großes Netz",
-      "teaser": "Wer hoch hinaus will, muss auf den Brocken. Wen es in die Vergangenheit zieht, der ist im Selketal richtig.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/harzer-schmalspurbahnen-kleine-bahn-grosses-netz-80692236.bild.html",
-      "image_title": "Harzer Schmalspurbahnen: Kleine Bahn, großes Netz"
-    },
-    {
-      "title": "Ackern für nix! : Bauern-Aufstand in Sachsen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/demo-ackern-fuer-nix-bauern-aufstand-in-sachsen-80693284.bild.html",
-      "image_title": "Demo: Ackern für nix! Bauern-Aufstand in Sachsen"
-    },
-    {
-      "title": "Achtung, Abzocke! : Mit diesen Maschen lauern Betrüger jetzt",
-      "teaser": "Geld, Schmuck, Technik – mit diesen Maschen hauen Betrüger derzeit Menschen übers Ohr.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/achtung-mit-diesen-tricks-wollen-betrueger-ueber-whatsapp-abzocken-80677890.bild.html",
-      "image_title": "Trickbetrug: So wollen Betrüger über WhatsApp abzocken"
-    },
-    {
-      "title": "Schon ein Jahr eingesperrt : Handy-Video brachte Deutschen in Kuba-Knast",
-      "teaser": "Seit 365 Tagen sitzt Luis Frómeta Compte (59) aus Dresden auf Kuba in Haft.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-handy-video-brachte-deutschen-in-beruechtigten-kuba-knast-80681214.bild.html",
-      "image_title": "Dresden: Handy-Video brachte Deutschen in berüchtigten Kuba-Knast"
-    },
-    {
-      "title": "Höher, schneller, nächste Runde rückwärts : So geil wird die Rheinkirmes",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/rekord-rummel-in-duesseldorf-so-geil-wird-die-rheinkirmes-80692620.bild.html",
-      "image_title": "Rekord-Rummel in Düsseldorf: So geil wird die Rheinkirmes"
-    },
-    {
-      "title": "Für 12 Millionen nach Monaco : Embolo vor dem Abflug!",
-      "teaser": "Und tschüs! Breel Embolo absolviert Donnerstag den Medizin-Check in Monaco.",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-breel-embolo-macht-abflug-nach-monaco-80692188.bild.html",
-      "image_title": "Borussia Mönchengladbach: Breel Embolo macht Abflug nach Monaco!"
-    },
-    {
-      "title": "Opfer lebensgefährlich verletzt +++ Täter flüchtig : Glasflaschen-Attacke in der U-Bahn",
-      "teaser": "Am Mittwochmorgen gegen 6 Uhr kam es in der U-Bahn 76 zu einer brutalen Attacke.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/meerbusch-glasflaschen-attacke-in-u-bahn-taeter-fluechtig-80691910.bild.html",
-      "image_title": "Meerbusch: Glasflaschen-Attacke in U-Bahn – Täter flüchtig"
-    },
-    {
-      "title": "OB Peter Feldmann : Donnerstag wählt ihn das Stadtparlament ab",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurts-ob-feldmann-donnerstag-waehlt-ihn-das-stadtparlament-ab-80692772.bild.html",
-      "image_title": "Frankfurts OB Feldmann: Donnerstag wählt ihn das Stadtparlament ab"
-    },
-    {
-      "title": "Kein Glanz, kein Glamour, keine Stars : So wenig neue IAA ist die Eurobike",
-      "teaser": "Seit Mittwoch läuft die Fahrradmesse, die als Mobilitäts-Messe die IAA ersetzten sollte...",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kein-glamour-keine-stars-so-wenig-iaa-ist-die-eurobike-in-frankfurt-80691554.bild.html",
-      "image_title": "Kein Glamour, keine Stars: So wenig IAA ist die Eurobike in Frankfurt"
-    },
-    {
-      "title": "Stadtpolizei-Bilanz : Fast 400000 Kontrollen im Jahr 2021",
-      "teaser": "Gute Nachricht: Frankfurts Stadtpolizei (180 Beschäftigte) bekommt Digitalfunk...",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/stadtpolizei-bilanz-fast-400000-kontrollen-im-jahr-2021-in-frankfurt-80690782.bild.html",
-      "image_title": "Stadtpolizei-Bilanz: Fast 400000 Kontrollen im Jahr 2021 in Frankfurt"
-    },
-    {
-      "title": "Nach Streit in lübecker Wohnung : Frau (29) tot, ihr Freund (41) beim Haftrichter",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/nach-streit-in-luebecker-wohnung-frau-29-tot-ihr-freund-41-beim-haftrichter-80687196.bild.html",
-      "image_title": "Nach Streit in lübecker Wohnung: Frau (29) tot, ihr Freund (41) beim Haftrichter"
-    },
-    {
-      "title": "Göhrde-Morde : Haben Telefonnummer, suchen Telefonbuch",
-      "teaser": "Der Coldcase um die Göhrde-Morde beschäftigt weiter die Ermittler. Jetzt gib es eine neue Spur.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/auf-der-suche-nach-mittaetern-im-cold-case-des-goehrde-moerders-hat-die-polizei-80685554.bild.html",
-      "image_title": "Auf der Suche nach Mittätern im Cold Case des Göhrde-Mörders hat die Polizei eine heiße Spur – und ein Problem: Haben Telefonnummer, suchen Telefonbuch"
-    },
-    {
-      "title": "Produktrückruf : Salmonellen in Sesammus entdeckt",
-      "teaser": "Die Firma „Al Shalati“ hat das Produkt „Al Gota - Sesame Tahini“ zurückgerufen.",
-      "url": "https://www.bild.de/regional/hamburg/hannover-aktuell/produktrueckruf-salmonellen-in-sesammus-entdeckt-80683506.bild.html",
-      "image_title": "Produktrückruf: Salmonellen in Sesammus entdeckt"
-    },
-    {
-      "title": "Freitag in Kaiserslautern : So heiß war noch kein 96-Start",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-in-kaiserslautern-so-heiss-war-noch-kein-start-in-die-2-liga-80689864.bild.html",
-      "image_title": "Hannover 96 in Kaiserslautern: So heiß war noch kein Start in die 2.Liga"
-    },
-    {
-      "title": "Wer macht sowas? : Drei Tafel-Transporter ausgebrannt",
-      "teaser": "Auf dem Gelände der Celler Tafel brach in der Nacht zu Mittwoch ein Feuer aus.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/wer-macht-sowas-drei-tafel-transporter-ausgebrannt-80686462.bild.html",
-      "image_title": "Wer macht sowas? Drei Tafel-Transporter ausgebrannt"
-    },
-    {
-      "title": "96-Start in Lautern : Krajnc fit, aber 3 fallen aus",
-      "teaser": "Es sieht ganz gut aus. Luka Krajnc kann nach Zeh-Weh beim Zweitliga-Start spielen",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-luka-krajnc-wird-fit-fuer-den-start-in-kaiserslautern-80689426.bild.html",
-      "image_title": "Hannover 96: Luka Krajnc wird fit für den Start in Kaiserslautern"
-    },
-    {
-      "title": "Ex und Sohn erstochen – Prozess : Doppelmord wegen Unterhaltsstreit?",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/doppelmord-prozess-toetete-anil-g-weil-er-keinen-unterhalt-zahlen-wollte-80683914.bild.html",
-      "image_title": "Doppelmord-Prozess: Tötete Anil G., weil er keinen Unterhalt zahlen wollte?"
-    },
-    {
-      "title": "Drama in Bad Honnef : Frau tot aus See geborgen",
-      "teaser": "Sie war zuvor als vermisst gemeldet worden. Wie es zu dem Unglück kam, ist bislang unklar.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/drama-in-bad-honnef-person-tot-aus-see-geborgen-80690492.bild.html",
-      "image_title": "Drama in Bad Honnef: Frau tot aus See geborgen"
-    },
-    {
-      "title": "Neue Möglichkeiten für Kölns Fernsehturm : Der „Colonius“ ist jetzt ein Denkmal",
-      "teaser": "Ein Wahrzeichen der Stadt ist Kölns Fernsehturm schon lange – und jetzt sogar ein Denkmal!",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/neue-moeglichkeiten-koelner-fernsehturm-colonius-ist-jetzt-ein-denkmal-80689320.bild.html",
-      "image_title": "Neue Möglichkeiten: Kölner Fernsehturm „Colonius“ ist jetzt ein Denkmal"
-    },
-    {
-      "title": "Klimafreundliche „­Reerdigung“ : Bestattungen im Kompost-Kasten",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/dresden-aktuell/klimafreundliche-reerdigung-bestattungen-im-kompost-kasten-80693044.bild.html",
-      "image_title": "Klimafreundliche „­Reerdigung“: Bestattungen im Kompost-Kasten"
-    },
-    {
-      "title": "Energiespar-Maßnahmen in Leipzig : Jetzt soll auchin Schulen die Temperatur runter",
-      "teaser": "Diskutiert wird auch die Abschaltung von Beleuchtung oder auch von Ampeln.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-jetzt-soll-auch-in-schulen-die-temperatur-runter-80692984.bild.html",
-      "image_title": "Leipzig: Jetzt soll auch in Schulen die Temperatur runter"
-    },
-    {
-      "title": "Was das jetzt für alle bedeutet : Leipziger Stadtkonzern vor der Pleite",
-      "teaser": "Die L-Gruppe, der Stadtkonzern aus LVB, Wasser- und Stadtwerken, ist finanziell am Ende.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-stadtkonzern-l-gruppe-vor-der-pleite-80692824.bild.html",
-      "image_title": "Leipzig: Stadtkonzern L-Gruppe vor der Pleite"
-    },
-    {
-      "title": "Hinten rechts statt vorne Links : Hansa-Schwede Fröling muss umlernen",
-      "url": "https://www.bild.de/sport/fussball/fussball/hinten-rechts-statt-vorne-links-hansa-schwede-froeling-muss-umlernen-80691538.bild.html",
-      "image_title": "Hinten rechts statt vorne Links: Hansa-Schwede Fröling muss umlernen"
-    },
-    {
-      "title": "Kollege schwer verletzt : Zwei Arbeiter von Eisengussform erschlagen",
-      "teaser": "Schrecklicher Unfall in der Eisengießerei Torgelow. Zwei Arbeiter starben, einer wurde verletzt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/torgelow-zwei-arbeiter-von-eisengussform-erschlagen-80683092.bild.html",
-      "image_title": "Arbeitsunfall in Torgelow: Zwei Arbeiter von Eisengussform erschlagen"
-    },
-    {
-      "title": "Neuartiges Verfahren in Rostock : Radioaktive Paste kann weißen Hautkrebs heilen",
-      "teaser": "Wissenschaftler haben weißen Hautkrebs erfolgreich mit einer neuartigen Methode behandelt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/hautkrebs-heilen-radioaktive-paste-toetet-weissen-hautkrebs-80684406.bild.html",
-      "image_title": "Hautkrebs heilen: Radioaktive Paste tötet weißen Hautkrebs"
-    },
-    {
-      "title": "Sie verschwand am Viktualienmarkt : Vermisste Inge B. ist wieder da!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/sie-verschwand-am-viktualienmarkt-polizei-sucht-inge-b-66-80689066.bild.html",
-      "image_title": "München: Vermisste Inge B. ist wieder da!"
-    },
-    {
-      "title": "Tritte, Schreie, Schwitzkasten! : Radler und Autofahrer prügeln sich durch Ansbach",
-      "teaser": "Radfahrer gegen Autofahrer. Das gibt auf der Straße oft Streit. Aber so...?",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/ansbach-radler-und-autofahrer-pruegeln-sich-80692662.bild.html",
-      "image_title": "Ansbach: Radler und Autofahrer prügeln sich"
-    },
-    {
-      "title": "Jetzt greift Chelsea richtig an : Mega-Deal! Tuchel holt Pep-Stürmer",
-      "teaser": "Wer kommt, wer geht? Alle Transfers und Gerüchte gibt's im BILD-Transfer-Ticker.",
-      "url": "https://www.bild.de/sport/fussball/fussball/transfer-ticker-rb-leipzig-star-nkunku-schwaermt-von-diesem-top-klub-80246534.bild.html",
-      "image_title": "FC Chelsea: Tuchel-Klub holt Raheem Sterling von Manchester City."
-    },
-    {
-      "title": "Österreich-Wechsel geplatzt : Was passiert jetzt mit diesem Nürnberg-Star?",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/oesterreich-wechsel-geplatzt-was-passiert-jetzt-mit-diesem-club-star-80690544.bild.html",
-      "image_title": "Österreich-Wechsel geplatzt: Was passiert jetzt mit diesem Club-Star?"
-    },
-    {
-      "title": "Fahrrad-Club warnt : „Nur jeder dritte Autofahrer hält Abstand ein“",
-      "teaser": "Mehr Sicherheit für Radfahrer. Das fordern Innenminister Herrmann und der ADFC Bayern.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/fahrrad-club-warnt-nur-jeder-dritte-autofahrer-haelt-abstand-ein-80691254.bild.html",
-      "image_title": "Fahrrad-Club warnt: „Nur jeder dritte Autofahrer hält Abstand ein“"
-    },
-    {
-      "title": "Hrgota : Bleibt er, wenn Fürth gut startet?",
-      "teaser": "Fürths Kapitän ist immer noch an Bord! Trotz anhaltender Wechselgerüchte ist Branimir...",
-      "url": "https://www.bild.de/sport/fussball/fussball/greuther-fuerth-hrgota-bleibt-er-wenn-fuerth-gut-startet-80688710.bild.html",
-      "image_title": "Greuther Fürth: Hrgota: Bleibt er, wenn Fürth gut startet?"
-    },
-    {
-      "title": "Und das auch noch angezogen : Pop-Art-Star auf „Playboy“-Cover",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/pop-art-star-dennis-klapschus-aus-essen-auf-dem-playboy-cover-80691032.bild.html",
-      "image_title": "Pop-Art-Star Dennis Klapschus aus Essen auf dem „Playboy“-Cover"
-    },
-    {
-      "title": "Ruhr Museum hebt Foto-Schatz : Brigitte Kraemer – das Auge des Reviers",
-      "teaser": "Brigitte Kraemers Lebenswerk fließt in die Fotografische Sammlung des Ruhr Museums.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/ruhr-museum-essen-hebt-den-foto-schatz-von-brigitte-kraemer-80691644.bild.html",
-      "image_title": "Ruhr Museum Essen hebt den Foto-Schatz von Brigitte Kraemer"
-    },
-    {
-      "title": "Leipzig ausgestochen : Schalke holt DIESEN Mittelfeld-Star",
-      "teaser": "Königsblau ist auf dem Transfermarkt wieder einmal fündig geworden.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/leipzig-ausgestochen-schalke-04-vor-verpflichtung-von-mittelfeld-star-80680218.bild.html",
-      "image_title": "Leipzig ausgestochen: Schalke 04 vor Verpflichtung von Mittelfeld-Star"
-    },
-    {
-      "title": "1. FC Saarbrücken : Koschinat knallhart!",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-koschinat-knallhart-80688606.bild.html",
-      "image_title": "1. FC Saarbrücken: Koschinat knallhart!"
-    },
-    {
-      "title": "Mit Scharf, aber ohne Steuern : Döner-Trio hinterzog 380 000 Euro",
-      "teaser": "Ferid D., Fuat D. und Seyfettin D. vertickten Döner am Finanzamt vorbei...",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/prozess-in-saarbruecken-doener-trio-hinterzog-380-000-euro-80691116.bild.html",
-      "image_title": "Prozess in Saarbrücken: Döner-Trio hinterzog 380 000 Euro"
-    },
-    {
-      "title": "Taxifahrer überfallen : Sind sie brutale Messer-Räuber?",
-      "teaser": "Es ist die Horrorvorstellung für Taxifahrer: Plötzlich zückt der Fahrgast eine Waffe...",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/taxifahrer-mit-messer-ueberfallen-prozess-gegen-syrer-in-saarbruecken-80689128.bild.html",
-      "image_title": "Taxifahrer mit Messer überfallen: Prozess gegen Syrer in Saarbrücken?"
-    },
-    {
-      "title": "Wiederholungstäter erwischt : Hier geht ein Rentnerpaar auf Klau-Tour",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/ueberwachungsfotos-hier-geht-ein-rentnerpaar-auf-klau-tour-80693140.bild.html",
-      "image_title": "Überwachungsfotos: Hier geht ein Rentnerpaar auf Klau-Tour"
-    },
-    {
-      "title": "Deutschland in der Krise : 10 Deutsche verraten, wo sie sparen",
-      "teaser": "BILD fragte Menschen auf der Straße: Worauf verzichten Sie bereits jetzt?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/deutschland-in-der-krise-10-deutsche-verraten-wo-sie-sparen-80674824.bild.html",
-      "image_title": "Deutschland in der Krise: 10 Deutsche verraten, wo sie sparen"
-    },
-    {
-      "title": "Was passiert jetzt mit dem Geld? : Lotto-Millionär seit fast drei Jahren gesucht",
-      "teaser": "In Sachsen-Anhalt hat tatsächlich ein Lotto-Spieler seit zweieinhalb Jahren seinen Millionen-Gewinn nicht abgeholt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/lotto-gewinn-seit-drei-jahren-nicht-abgeholt-was-passiert-mit-dem-geld-80681488.bild.html",
-      "image_title": "Lotto-Gewinn seit drei Jahren nicht abgeholt – Was passiert mit dem Geld?"
-    },
-    {
-      "title": "Stuttgart : VVS-Tickets werden teurer!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/stuttgart-vvs-tickets-werden-teurer-80691714.bild.html",
-      "image_title": "Stuttgart: VVS-Tickets werden teurer!"
-    },
-    {
-      "title": "Bürger können bald heim : Weltkriegsbombe in Ingersheim ist entschärft",
-      "teaser": "Eine 250 Kilo schwere Bombe aus dem 2. Weltkrieg wurde in Ingersheim entschärft.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/ingersheim-weltkriegsbombe-ist-entschaerft-80691406.bild.html",
-      "image_title": "Ingersheim: Weltkriegsbombe ist entschärft"
-    },
-    {
-      "title": "Neue Umfrage : SPD stürzt im Ländle ab, CDU und Grüne legen zu",
-      "teaser": "Umfrage-Hoch für Grüne und CDU in Baden-Württemberg! Die aktuelle BILD-Umfrage.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/baden-wuerttemberg-spd-stuerzt-ab-csu-und-gruene-gewinnen-80688780.bild.html",
-      "image_title": "Baden-Württemberg: SPD stürzt ab, CDU und Grüne gewinnen"
-    },
-    {
-      "title": "Beamte mit eigenem eSports-Team : Hier zockt die Polizei",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-beamte-mit-eigenem-esports-team-hier-zockt-die-polizei-80681586.bild.html",
-      "image_title": "Thüringen: Beamte mit eigenem eSports-Team – Hier zockt die Polizei"
-    },
-    {
-      "title": "Ab Freitag Titelkämpfe in den USA : Wagner ist Deutschlands WM-Hoffnung",
-      "teaser": "Thüringen sprintet wieder in der Weltspitze. Julian Wagner greift bei der WM über 100 Meter im Einzel und in der Staffel an.",
-      "url": "https://www.bild.de/sport/mehr-sport/sport-mix/titelkaempfe-in-den-usa-julian-wagner-ist-deutschlands-wm-hoffnung-80678994.bild.html",
-      "image_title": "Titelkämpfe in den USA: Julian Wagner ist Deutschlands WM-Hoffnung"
-    },
-    {
-      "title": "Tragischer Arbeitsunfall in Thüringen : Mann (28) stürzt auf China-Baustelle in den Tod",
-      "teaser": "Auf dem Areal des chinesischen Batteriekonzerns CATL gab es einen tödlichen Arbeitsunfall.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/arbeitsunfall-in-arnstadt-mann-28-stuerzt-elf-meter-in-den-tod-80674738.bild.html",
-      "image_title": "Arbeitsunfall in Thüringen: Mann (28) stürzt elf Meter in den Tod"
-    }
-  ]
+  "articles": []
 }
