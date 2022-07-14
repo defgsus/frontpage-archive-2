@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-14T13:44:57",
+  "timestamp": "2022-07-14T14:32:16",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Attacke in Regionalzug : Betrunkener (38) würgt Zugbegleiter (20)",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/attacke-in-sachsen-anhalt-betrunkener-38-wuergt-zugbegleiter-20-80699704.bild.html",
-      "image_url": "https://images.bild.de/62d00ca4094df92f2ff13067/af68066792f0ce80ccd474018010e5f0/Kennung_Symbolfoto,a48ecbaf?w=656",
-      "image_title": "Attacke in Sachsen-Anhalt: Betrunkener (38) würgt Zugbegleiter (20)"
-    },
-    {
-      "title": "Wer kennt diesen dreisten Dieb? : Erst Auto, dann Sprit geklaut",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/diebstahl-in-sachsen-anhalt-erst-auto-dann-benzin-geklaut-fahndung-80698170.bild.html",
-      "image_url": "https://images.bild.de/62cfee3e60a3e73b21ea1695/a0d84cf7216e17f1853b141431c61a7f,1717aa77?w=320",
-      "image_title": "Diebstahl in Sachsen-Anhalt: Erst Auto, dann Sprit geklaut –Fahndung"
-    },
-    {
-      "title": "Sie gewährte Kirchenasyl : Ordensschwester freigesprochen",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/sie-gewaehrte-kirchenasyl-in-bayern-ordensschwester-freigesprochen-80698454.bild.html",
-      "image_url": "https://images.bild.de/62cff80c60a3e73b21ea16ab/f925b5ee101206b1b3de3a2aa1eee1e4,34900ea6?w=320",
-      "image_title": "Sie gewährte Kirchenasyl in Bayern: Ordensschwester freigesprochen"
-    },
-    {
-      "title": "Hedwig (70) starb in der Flut : „Oma passt vom Himmel auf uns auf“",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/dernau-hedwig-70-starb-in-der-flut-oma-passt-vom-himmel-auf-uns-auf-80696354.bild.html",
-      "image_url": "https://images.bild.de/62cfd85f6ed39256ebd957fd/bb27887ad47d76871f1a9e2efc78797f,e551a437?w=320",
-      "image_title": "Dernau: Hedwig (†70) starb in der Flut: „Oma passt vom Himmel auf uns auf“"
-    },
-    {
-      "title": "Verfolgungsjagd über Ländergrenzen : Vollgekokster Fahrer flüchtet vor Polizeikontrolle",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/von-hessen-nach-thueringen-vollgekokster-fahrer-fluechtet-vor-polizei-80696606.bild.html",
-      "image_title": "Von Hessen nach Thüringen: Vollgekokster Fahrer flüchtet vor Polizei"
-    },
-    {
-      "title": "Obduktionsergebnis da : So sollen Gianni und Rosario gestorben sein",
-      "teaser": "Nach dem Fund der toten Gastronomen liegt ein vorläufiges Obduktion- Ergebnis vor.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/zwei-tote-in-edel-pizzeria-vorlaeufiges-obduktion-ergebnis-liegt-vor-80696566.bild.html",
-      "image_title": "Obduktionsergebnis da: So sollen Gianni und Rosario gestorben sein"
-    },
-    {
-      "title": "1 Million Euro Schaden : Fünf Reihenhäuser an der Ostsee in Flammen",
-      "teaser": "Verheerender Großbrand am Donnerstag in Selmsdorf in Nordwestmecklenburg.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/1-million-euro-schaden-in-selmsdorf-5-reihenhaeuser-in-flammen-80696004.bild.html",
-      "image_title": "Großbrand: Fünf Reihenhäuser an der Ostsee in Flammen"
-    },
-    {
-      "title": "Der Killer aus der Dating-App : Frauenmörder muss lebenslang in den Knast",
-      "teaser": "Der Mörder von Dorin V. (†43) muss lebenslang hinter Gitter.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-frauenmoerder-googelte-wie-man-jemanden-erwuergt-80691852.bild.html",
-      "image_title": "Leipzig: Frauenmörder muss lebenslang in den Knast"
-    },
-    {
-      "title": "Sie fütterte gerade Vögel : Elisabeth (96) auf dem Balkon angeschossen!",
-      "teaser": "Die Seniorin wurde auf ihrem Balkon angeschossen. Ein Projektil ging in den Kopf!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-neukoelln-elisabeth-96-auf-dem-balkon-angeschossen-80691284.bild.html",
-      "image_title": "Berlin-Neukölln: Elisabeth (96) auf dem Balkon angeschossen!"
-    },
-    {
-      "title": "Aus Erbsenproteinen : 1. Vegane Weißwurst auf der Wiesn",
-      "teaser": "Auf dem Münchner Oktoberfest 2022 wird es erstmals eine vegane Weißwurst ­geben.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/aus-erbsenproteinen-1-vegane-weisswurst-auf-der-wiesn-80695680.bild.html",
-      "image_title": "Aus Erbsenproteinen: 1. Vegane Weißwurst auf der Wiesn"
-    },
-    {
-      "title": "Weil Mieten explodieren : Letzter Ausweg Campingplatz",
-      "teaser": "Weil Mieten und Nebenkosten steigen, wollen mehr Menschen auf dem Campingplatz leben.",
-      "url": "https://www.bild.de/news/inland/news-inland/weil-mieten-explodieren-letzter-ausweg-campingplatz-80692350.bild.html",
-      "image_title": "Wohnung mieten immer teuer: Letzter Ausweg Campingplatz"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie einen 6er im Lotto? Gehört der Jackpot in Höhe von 1 Mio. Euro bald Ihnen?",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-13-juli-80685154.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen und Quoten vom 13. Juli"
-    },
-    {
-      "title": "Mutter (32) stirbt im Daimler-Parkhaus : ER schoss seiner Frau direkt in die Stirn",
-      "teaser": "Rumeysa G. (32) wollte ein neues Leben in Holland beginnen. Ohne ihren Ehemann.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/frau-in-stuttgart-ermordet-er-schoss-seiner-frau-in-die-stirn-80685612.bild.html",
-      "image_title": "Frau in Stuttgart ermordet: ER schoss seiner Frau in die Stirn"
-    },
-    {
-      "title": "Betten-Notstand : Klinik nahm keine Notfälle mehr auf",
-      "teaser": "Am Dienstag musste das Helios Klinikum Pirna passen, konnte keine Notfälle mehr aufnehmen – Betten-Notstand!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/betten-notstand-klinik-nahm-keine-notfaelle-mehr-auf-80693878.bild.html",
-      "image_title": "Betten-Notstand: Klinik nahm keine Notfälle mehr auf"
-    },
-    {
-      "title": "Tritte, Schreie, Schwitzkasten! : Radler und Autofahrer prügeln sich durch Ansbach",
-      "teaser": "Radfahrer gegen Autofahrer. Das gibt auf der Straße oft Streit. Aber so...?",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/ansbach-radler-und-autofahrer-pruegeln-sich-80692662.bild.html",
-      "image_title": "Ansbach: Radler und Autofahrer prügeln sich"
-    },
-    {
-      "title": "Geldstrafe, Führerschein-Sperre : So teuer kann Fahrerflucht Feldmann kommen",
-      "teaser": "Ein Schuldspruch käme Frankfurts Skandal-OB teuer zu stehen.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-regional-politik-und-wirtschaft/top-jurist-so-teuer-kann-fahrerflucht-feldmann-kommen-80689298.bild.html",
-      "image_title": "Top-Jurist: So teuer kann Fahrerflucht Feldmann kommen"
-    },
-    {
-      "title": "Großeinsatz im Erzgebirge : Scheune mit angrenzendem Haus abgefackelt",
-      "teaser": "Im Erzgebirge entfachte ein verheerender Großbrand! Ein Haus und eine Scheune brannten ab.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/brand-im-erzgebirge-feuer-greift-vom-strohballen-auf-wohnhaus-ueber-80689934.bild.html",
-      "image_title": "Brand im Erzgebirge: Feuer greift vom Strohballen auf Wohnhaus über"
-    },
-    {
-      "title": "Achtung, Abzocke! : Mit diesen Maschen lauern Betrüger jetzt",
-      "teaser": "Geld, Schmuck, Technik – mit diesen Maschen hauen Betrüger derzeit Menschen übers Ohr.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/achtung-mit-diesen-tricks-wollen-betrueger-ueber-whatsapp-abzocken-80677890.bild.html",
-      "image_title": "Online Betrug: So wollen Betrüger über WhatsApp abzocken"
-    },
-    {
-      "title": "Göhrde-Morde : Haben Telefonnummer, suchen Telefonbuch",
-      "teaser": "Der Coldcase um die Göhrde-Morde beschäftigt weiter die Ermittler. Jetzt gib es eine neue Spur.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/auf-der-suche-nach-mittaetern-im-cold-case-des-goehrde-moerders-hat-die-polizei-80685554.bild.html",
-      "image_title": "Auf der Suche nach Mittätern im Cold Case des Göhrde-Mörders hat die Polizei eine heiße Spur – und ein Problem: Haben Telefonnummer, suchen Telefonbuch"
-    },
-    {
-      "title": "Lieferando-Kurier und Passant starben : Nur 8,5 Jahre Knast für Totraser",
-      "teaser": "Im November 2020 wurden ein Lieferando-Fahrer und ein Passant tot gerast. Nun das Urteil.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/lieferando-kurier-und-passant-starben-8-5-jahre-knast-fuer-totraser-80685236.bild.html",
-      "image_title": "Lieferando-Kurier und Passant starben: 8,5 Jahre Knast für Totraser"
-    },
-    {
-      "title": "Drei Szenarien im Herbst : Verschärft Sachsen wieder die Corona-Regeln?",
-      "teaser": "Sachsen bereitet sich auf den Corona-Herbst vor.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/corona-sachsens-neue-plaene-fuer-den-herbst-80682426.bild.html",
-      "image_title": "Corona: Verschärft Sachsen ab Herbst wieder die Corona-Regeln?"
-    },
-    {
-      "title": "Angst vor Gas-Stopp : So trotzt diese Stadt dem Russen-Diktator Putin",
-      "teaser": "Aus Angst vor einem russischen Gas-Lieferstopp bunkert die erste sächsische Stadt jetzt massiv Heizöl.",
-      "url": "https://www.bild.de/bild-plus/regional/chemnitz/leipzig-news/angst-vor-gas-liefer-stopp-erste-stadt-bunkert-heizoel-80681392.bild.html",
-      "image_title": "Putins Gas-Stopp: Deutsche Stadt trotzt dem Russen-Diktator"
-    },
-    {
-      "title": "Radikale Pläne in Leipzig : Ampeln aus, um Strom zu sparen!",
-      "teaser": "Die rasant steigenden Stromkosten zwingen das Rathaus auf einen harten Sparkurs.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/radikale-plaene-in-leipzig-ampeln-aus-um-strom-zu-sparen-80681254.bild.html",
-      "image_title": "Radikale Pläne in Leipzig: Ampeln aus, um Strom zu sparen!"
-    },
-    {
-      "title": "„Hitzetote sterben leise“ : Experten warnen vor Extrem-Temperaturen",
-      "teaser": "Mit der Hitze kommt die Gefahr – vor allem für gesundheitlich angeschlagene Menschen.",
-      "url": "https://www.bild.de/news/inland/news-inland/hitze-welle-experten-warnen-hitzetote-sterben-leise-80677664.bild.html",
-      "image_title": "Hitze-Welle: Experten warnen! „Hitzetote sterben leise“"
-    },
-    {
-      "title": "Überraschung am Straßenrand : Hüpft ein Känguru durch Bayern ...",
-      "url": "https://www.bild.de/video/clip/video/ueberraschung-am-strassenrand-huepft-ein-kaenguru-durch-bayern-80693410.bild.html",
-      "image_title": "Überraschung am Straßenrand: Hüpft ein Känguru durch Bayern ..."
-    },
-    {
-      "title": "Wird DSDS wirklich eingestellt? : „RTL würde JA zu weiteren Staffeln sagen, wenn ...“",
-      "url": "https://www.bild.de/video/clip/video/wird-dsds-wirklich-eingestellt-rtl-wuerde-ja-zu-weiteren-staffeln-sagen-wenn-80697146.bild.html",
-      "image_title": "Wird DSDS wirklich eingestellt?: „RTL würde JA zu weiteren Staffeln sagen, wenn ...“"
-    },
-    {
-      "title": "Neue Hitzewelle ab Montag : Hier erwarten uns bis zu 40 Grad",
-      "url": "https://www.bild.de/video/clip/video/neue-hitze-ab-montag-hier-erwarten-uns-bis-zu-40-grad-80694514.bild.html",
-      "image_title": "Neue Hitzewelle ab Montag: Hier erwarten uns bis zu 40 Grad"
-    }
-  ]
+  "articles": []
 }
