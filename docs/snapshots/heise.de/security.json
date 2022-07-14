@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-14T10:25:09",
+  "timestamp": "2022-07-14T11:17:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware vCenter Server & Cloud Foundation",
+      "url": "https://www.heise.de/news/Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-zum-Teil-abgedichtet-7179181.html"
+    },
+    {
       "title": "Citrix Hypervisor & Xenserver",
       "url": "https://www.heise.de/news/Citrix-Update-fuer-Hypervisor-und-Xenserver-gegen-AMD-Schwachstellen-7178191.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Adobe-dichtet-teils-kritische-Luecken-ab-7177696.html"
     },
     {
-      "title": "Patchday: SAP",
-      "url": "https://www.heise.de/news/SAP-Patchday-20-neue-Sicherheitsluecken-im-Juli-abgedichtet-7170698.html"
+      "title": "Lücke in VMware vCenter Server und Cloud Foundation zum Teil abgedichtet",
+      "teaser": "In VMwares vCenter Server und der Cloud Foundation klafft eine Sicherheitslücke in der Integrated Windows Authentication. Nun gibt es ein Software-Update.",
+      "url": "https://www.heise.de/news/Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-zum-Teil-abgedichtet-7179181.html",
+      "image_title": "Aufmacher Teil-Sicherheitsupdate VMware vCenter Server&Cloud Foundation"
     },
     {
       "title": "iCloud-Account von US-Präsidentensohn Hunter Biden offenbar gehackt",
@@ -63,15 +69,15 @@
       "url": "https://www.heise.de/news/Open-Source-Tool-von-Microsoft-erstellt-Software-Bill-of-Materials-7177889.html"
     },
     {
+      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
+      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
+      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
+    },
+    {
       "title": "Citrix: Update für Hypervisor und Xenserver gegen AMD-Schwachstellen",
       "teaser": "Für die Virtualiserungssoftware Hypervisor und Xenserver hat Citrix Aktualisierungen herausgegeben. Auf AMD-Systemen könnten Angreifer unbefugt Speicher lesen.",
       "url": "https://www.heise.de/news/Citrix-Update-fuer-Hypervisor-und-Xenserver-gegen-AMD-Schwachstellen-7178191.html",
       "image_title": "Aufmacher Citrix Hypervisor & Xenserver-Sicherheitsupdate"
-    },
-    {
-      "title": "Wie hybride Arbeitsmodelle die Sicherheit gefährden können",
-      "teaser": "Die flexible Mischung aus Büroarbeit und Homeoffice bietet Arbeitgebern und Arbeitnehmern viele Vorteile. Aus Security-Sicht vergrößern hybride Arbeitsmodelle jedoch auch die Angriffsfläche für Cyberattacken. Neue Sicherheitslücken und Gefahren sind die Folge, wie der HP Wolf Security-Report „Out of Sight & Out of Mind“ zeigt.",
-      "url": "https://www.heise.de/solutions/hp/hybrid-workplace-security-wie-hybride-arbeitsmodelle-die-sicherheit-gefaehrden-koennen/?source=nat_teas"
     },
     {
       "title": "Retbleed: CPU-Sicherheitslücke Spectre V2 nicht vollständig geschlossen",
@@ -157,11 +163,6 @@
       "title": "Vorbereitung auf Krypto-Miner-Angriff: Hunderte verdächtige Pakete auf npm",
       "teaser": "Auf dem Paketmanager wurden über 1000 Pakete automatisiert erstellt, die einen Supply-Chain-Angriff vorbereiten könnten.",
       "url": "https://www.heise.de/news/Vorbereitung-auf-Krypto-Miner-Angriff-Hunderte-verdaechtige-Pakete-auf-npm-7166163.html"
-    },
-    {
-      "title": "Gerätemanagement-Software HCL BigFix für Befehle von Angreifern anfällig",
-      "teaser": "HCL BigFix ist unter anderen über eine kritische Sicherheitslücke attackierbar. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Geraetemanagement-Software-HCL-BigFix-fuer-Befehle-von-Angreifern-anfaellig-7166275.html"
     },
     {
       "title": "heise Security Tour 2022",
