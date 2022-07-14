@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-14T08:27:11",
+  "timestamp": "2022-07-14T09:22:34",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,218 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Daniela Katzenberger hat Perioden-Ärger in Doku-Soap : „Wie von einem Dämon besessen“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/daniela-katzenberger-wenn-ich-meine-tage-habe-bin-ich-wie-vom-daemon-besessen-80690370.bild.html",
-      "image_url": "https://images.bild.de/62cedd138ce1486db7c25295/5e29a4214bf88a0b1a249e071cd09e70,eb8a1a94?w=656",
-      "image_title": "Daniela Katzenberger: „Wenn ich meine Tage habe, bin ich wie vom Dämon besessen“"
-    },
-    {
-      "title": "Regeln & Kandidaten : Alle Infos zu „Das große Promi-Büßen“!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/das-grosse-promi-buessen-alle-infos-kandidaten-regeln-konzept-wer-raus-ist-80486916.bild.html",
-      "image_url": "https://images.bild.de/62b41e7b35527a03581fe667/b8fbb2fa6b57cc6473fdda7e9a54f27c,4fc97163?w=320",
-      "image_title": "„Das große Promi-Büßen“: Alle Kandidaten und wer raus ist"
-    },
-    {
-      "title": "Bachelorette bringt Lukas ins Schwitzen : Bei diesem Date war Anfassen Pflicht",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-bachelorette-bringt-lukas-ins-schwitzen-bei-diesem-date-war-anfassen-pflicht-80693512.bild.html",
-      "image_url": "https://images.bild.de/62cf1323c4d9714181e81642/3038044981e938d03e622b4fed49b65f,1090681c?w=320",
-      "image_title": "Bachelorette bringt Lukas ins Schwitzen: Bei diesem Date war Anfassen Pflicht"
-    },
-    {
-      "title": "DSDS-Kultkandidat Menowin : „Ob Bohlen zurückkommt, ist mir latte“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/dsds-kultkandidat-menowin-ob-bohlen-zurueckkommt-ist-mir-latte-80688080.bild.html",
-      "image_url": "https://images.bild.de/62cebae085b4a6553f5f9f85/873ced591c84289f706b6847d56ede80,3cb18db6?w=320",
-      "image_title": "DSDS-Kultkandidat Menowin: „Ob Bohlen zurückkommt, ist mir latte“"
-    },
-    {
-      "title": "„Die Bachelorette“ : Diese Männer kämpfen um das Herz von Sharon Battiste",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/die-bachelorette-diese-maenner-kaempfen-um-das-herz-von-sharon-battiste-80530166.bild.html",
-      "image_url": "https://images.bild.de/62b9c090c1932c00164bcb89/247f34e8ae3e443ebd64fc55c02904a0,3a16afa?w=320",
-      "image_title": "„Die Bachelorette“: Wer ist raus? - Alle News & Infos zu den Kandidaten"
-    },
-    {
-      "title": "Er wurde nur 33 Jahre alt : „Prince Charming“-Finalist Dominic tot",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/prince-charming-finalist-dominic-smith-ist-tot-mit-nur-33-80680936.bild.html",
-      "image_title": "Prince Charming: Finalist Dominic Smith tot – er wurde nur 33 Jahre alt"
-    },
-    {
-      "title": "Ab dem 11. Juli : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme der Woche vom 11. Juli",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-starten-ab-dem-11-juli-80617862.bild.html",
-      "image_title": "Neu auf Amazon Prime: Diese Filme starten ab dem 11. Juli"
-    },
-    {
-      "title": "Ab dem 11. Juli : Diese Filme & Serien sind neu bei Netflix",
-      "teaser": "Neue Filme & Serien gibt es bei Netflix fast täglich. BILD zeigt Ihnen die Starts der Woche.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-diese-filme-und-serien-gibt-es-ab-dem-11-juli-80617870.bild.html",
-      "image_title": "Neu auf Netflix: Diese Filme und Serien gibt es ab dem 11. Juli"
-    },
-    {
-      "title": "„Wer wird Millionär?“ : Kandidat brach schrägen Weltrekord",
-      "teaser": "Dieser „Wer wird Millionär“-Kandidat wird Günther Jauch in Erinnerung bleiben.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/wer-wird-millionaer-kandidat-brach-schraegen-weltrekord-80671502.bild.html",
-      "image_title": "„Wer wird Millionär?“: Kandidat brach schrägen Weltrekord"
-    },
-    {
-      "title": "Neuer Netflix-Knaller : SO richten Sie sich den perfekten Sex-Raum ein",
-      "teaser": "Bei Netflix packt die „Mary Poppins der Sex-Räume“ über Tipps und Tricks aus.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/netflix-knaller-how-to-built-a-sex-room-so-bauen-sie-sich-den-perfekten-sex-raum-80662798.bild.html",
-      "image_title": "Netflix-Knaller „How To Built A Sex Room“: SO bauen Sie sich den perfekten Sex-Raum!"
-    },
-    {
-      "title": "Tatort : Alle Schauplätze und Ermittler",
-      "teaser": "Schon seit 1970 gibt es den Tatort. Wer aktuell die Ermittler sind und wo sie arbeiten .",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-alle-schauplaetze-und-alle-ermittler-im-ueberblick-79973860.bild.html",
-      "image_title": "Tatort: Alle Schauplätze und alle Ermittler der Krimi-Reihe"
-    },
-    {
-      "title": "Tatort Kiel : Das sind Hauptkommissar Borowski und Kollegin Sahin",
-      "teaser": "Lesen Sie hier alles zu dem Schauplatz und den Ermittlern vom Tatort Kiel!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-kiel-das-sind-hauptkommissar-borowski-und-kollegin-sahin-80128622.bild.html",
-      "image_title": "Tatort Kiel: Das sind Hauptkommissar Borowski und Kollegin Sahin"
-    },
-    {
-      "title": "Jan gewann mit Elena 50 000 Euro : Erster „Love Island“-Sieger lebt jetzt von Hartz IV",
-      "teaser": "Er war DER Frauenschwarm der ersten „Love Island“-Staffel (2017): Jan Sokolowsky (31). Heute lebt er von Harzt IV.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/love-island-gewinner-jan-sokolowsky-lebt-heute-von-hartz-iv-75651680.bild.html",
-      "image_title": "„Love Island“-Gewinner Jan Sokolowsky lebt heute von Hartz IV!"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Diese geheime Promi-Liste müssen Trash-Fans kennen",
-      "teaser": "Claudia Obert und Narumol – da wird dem Trash-Fans warm ums Herz! „Kampf der Reality-Stars“ – BILD enthüllt alle 25 Kandidaten!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/bild-enthuellt-alle-25-kampf-der-realitystars-kandidaten-75964202.bild.html",
-      "image_title": "BILD enthüllt ALLE 25 „Kampf der Realitystars“-Kandidaten"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Gerade noch schwanger, jetzt im Trash-TV",
-      "teaser": "Nach dem Dschungel ist vor der Strand-Sala. BILD kennt ALLE Kandidaten der neunen Staffel.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/kampf-der-realitystars-yeliz-koc-iris-klein-und-elena-miras-sind-dabei-78947726.bild.html",
-      "image_title": "„Kampf der Realitystars“: Yeliz Koc, Iris Klein und Elena Miras sind dabei!"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Elena Miras fährt direkt die Krallen aus",
-      "teaser": "Kaum geht die neue Staffel von „Kampf der Realitystars“ los, gibt's auch den ersten Zoff.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-elena-miras-faehrt-direkt-die-krallen-aus-79716884.bild.html",
-      "image_title": "„Kampf der Realitystars“: Elena Miras fährt direkt die Krallen aus"
-    },
-    {
-      "title": "Neue Angebote? : Chethrin erklärt ihr „Kampf der Realitystars“-Aus",
-      "teaser": "Raus aus dem Trash? Chethrin Schulze (30) verließ „Kampf der Realitystars“ freiwillig.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-chethrin-schulze-erklaert-ihren-ausstieg-79931732.bild.html",
-      "image_title": "„Kampf der Realitystars“: Chethrin Schulze erklärt ihren Ausstieg"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Fürst Heinz geht auf Elena Miras los",
-      "teaser": "Am Star-Strand sorgte Fürst Heinz mit fiesen Beleidigungen für Tränen bei Elena Miras.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-fuerst-heinz-geht-auf-elena-miras-los-80054946.bild.html",
-      "image_title": "„Kampf der Realitystars“: Fürst Heinz geht auf Elena Miras los"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : Musste Yeliz alles für Jimi Blue bezahlen?",
-      "teaser": "Die Ereignisse überschlugen sich bei „Kampf der Realitystars“. Für Spannung sorgte Yeliz.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-musste-yeliz-koc-alles-fuer-jimi-blue-bezahlen-80131972.bild.html",
-      "image_title": "„Kampf der Realitystars“: Yeliz Koc rechnet mit ihrem Ex Jimi Blue ab"
-    },
-    {
-      "title": "Achtung, Spoiler! : Ausgerechnet SIE gewinnt „Kampf der Realitystars“",
-      "teaser": "Ausgerechnet SIE rockt die Show! BILD verrät, wie das Finale in vier Wochen ausgeht.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/kampf-der-realitystars-wer-die-rtl2-show-gewinnt-80143092.bild.html",
-      "image_title": "„Kampf der Realitystars“: Wer die RTL2-Show gewinnt"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : „Der absolute Schock-Moment!“",
-      "teaser": "Wenn das mal keinen Krach gibt ... Ein alter Bekannter stößt zu den übrigen Strandbewohnern.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-comeback-der-absolute-schock-moment-80205926.bild.html",
-      "image_title": "„Kampf der Realitystars“-Comeback: „Der absolute Schock-Moment!“"
-    },
-    {
-      "title": "Eklat bei „Kampf der Realitystars“ : Iris Klein mit fiesem Schweiß-Spruch",
-      "teaser": "Halbfinale – und die ersten Reality-Stars gehen bereits auf dem Zahnfleisch.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/eklat-bei-kampf-der-realitystars-iris-klein-schockt-mit-fiesem-schweiss-spruch-80340484.bild.html",
-      "image_title": "Eklat bei „Kampf der Realitystars“: Iris Klein mit fiesem Schweiß-Spruch"
-    },
-    {
-      "title": "Am Sonntag, den 10. Juli 2022 : Alle Infos zum Kölner Tatort am Sonntag!",
-      "teaser": "Am Sonntag kommt eine Wiederholung. Max Ballauf und Freddy Schenk ermitteln in Köln.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-in-koeln-ermitteln-ballauf-und-schenk-in-der-folge-gefangen-80536562.bild.html",
-      "image_title": "Tatort heute: In Köln ermitteln Ballauf und Schenk in der Folge „Gefangen“"
-    },
-    {
-      "title": "Nach ihrem KDRS-Sieg : DAS gönnt sich Elena Miras von ihrem Preisgeld",
-      "teaser": "Elena Miras gewinnt 50 000 Euro! Im Interview verrät sie, was sie mit der Kohle macht.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realiystars-siegerin-was-elena-miras-mit-ihrer-gage-macht-80364124.bild.html",
-      "image_title": "„Kampf der Realiystars“-Siegerin: DAS gönnt sich Elena Miras vom Preisgeld"
-    },
-    {
-      "title": "„Kampf der Realitystars“ : So krallte sich Elena Miras den Sieg",
-      "teaser": "Das Finale von „Kampf der Realitystars“ wurde zu einem Kopf-an-Kopf-Rennen.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/kampf-der-realitystars-so-krallte-sich-elena-miras-den-sieg-80414664.bild.html",
-      "image_title": "Kampf der Realitystars: So krallte sich Elena Miras den Sieg"
-    },
-    {
-      "title": "Eifersuchts-Eklat : Bei DIESEM Anblick platzt Cora der Kragen",
-      "url": "https://www.bild.de/video/clip/glomex/eifersuchts-eklat-bei-diesem-anblick-platzt-cora-der-kragen-v-cl1p6on8an21-80556420.bild.html",
-      "image_title": "Eifersuchts-Eklat: Bei DIESEM Anblick platzt Cora der Kragen"
-    },
-    {
-      "title": "Clan terrorisiert Hauptstadt : „Berlin ist verloren!“",
-      "url": "https://www.bild.de/video/clip/video/clan-terrorisiert-hauptstadt-berlin-ist-verloren-80435024.bild.html",
-      "image_title": "Clan terrorisiert Hauptstadt: „Berlin ist verloren!“"
-    }
-  ]
+  "articles": []
 }
