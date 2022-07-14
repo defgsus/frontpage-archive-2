@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-14T19:16:58",
+  "timestamp": "2022-07-14T20:23:06",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,365 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "WIE KONNTE DAS DENN PASSIEREN? : Peinlich-Panne auf Helmut-Schmidt-Schild",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mannheim-falsches-geburtsjahr-an-helmut-schmidt-bruecke-80700396.bild.html",
-      "image_title": "Mannheim: Peinlich-Panne auf Helmut-Schmidt-Schild"
-    },
-    {
-      "title": "36 statt 40 Stunden die Woche : Firma schenkt Mitarbeitern den FREItag",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/36-statt-40-stunden-die-woche-firma-schenkt-mitarbeitern-den-freitag-80689984.bild.html",
-      "image_title": "36 statt 40 Stunden die Woche: Firma schenkt Mitarbeitern den FREItag"
-    },
-    {
-      "title": "Zappenduster : Berliner Senat will nachts die Ampeln ausschalten",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berliner-senat-will-nachts-die-ampeln-ausschalten-80702156.bild.html",
-      "image_title": "Berliner Senat will nachts die Ampeln ausschalten"
-    },
-    {
-      "title": "Umstrittener Vortrag über Geschlechter : Viel Applaus statt Krawall beim zweiten Anlauf",
-      "teaser": "Jetzt doch: Biologin Marie-Luise Vollbrecht (32) hat ihren umstrittenen Vortrag gehalten.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/hu-vortrag-ueber-geschlechter-viel-applaus-statt-krawall-beim-zweiten-anlauf-80704002.bild.html",
-      "image_title": "HU-Vortrag über Geschlechter: Viel Applaus statt Krawall beim zweiten Anlauf"
-    },
-    {
-      "title": "Das wird teuer … : Raser auf zwölf Kilometern dreimal geblitzt!",
-      "teaser": "Ein Mann hat in Westmecklenburg bei der Polizei abgesahnt: Punkte, Fahrverbot, Bußgeld!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/westmecklenburg-raser-auf-12-kilometern-gleich-drei-mal-geblitzt-80699136.bild.html",
-      "image_title": "Westmecklenburg: Raser auf zwölf Kilometern gleich dreimal geblitzt!"
-    },
-    {
-      "title": "Schnupperkurs bei Profis geht weiter : Werder-Brandt bleibt heiß",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-schnupperkurs-geht-weiter-jascha-brandt-bleibt-bei-den-profis-80702880.bild.html",
-      "image_title": "Werder Bremen: Schnupperkurs geht weiter: Jascha Brandt bleibt bei den Profis"
-    },
-    {
-      "title": "Kein Platz bei Werder in Sicht : Was wird eigentlich aus Rapp?",
-      "teaser": "Schwere Zeiten für Nicolai Rapp (25). Der Allrounder muss sich mit der Bank begnügen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-kein-platz-in-sicht-was-wird-eigentlich-aus-nicolai-rapp-80700624.bild.html",
-      "image_title": "Werder Bremen: Kein Platz in Sicht: Was wird eigentlich aus Nicolai Rapp?"
-    },
-    {
-      "title": "Todes-Drama im Mahndorfer See : Taucher zog den 18-Jährigen leblos aus dem Wasser",
-      "teaser": "Bremen - Am Mittwoch gegen 15 Uhr kam es im Mahndorfer See zu einem tödlichen Badeunfall.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/bremen-todes-drama-im-mahndorfer-see-taucher-zogen-18-jaehrigen-leblos-aus-dem-w-80697310.bild.html",
-      "image_title": "Bremen - Todes-Drama im Mahndorfer See: Taucher zogen 18-Jährigen leblos aus dem Wasser"
-    },
-    {
-      "title": "Massive Ausfälle drohen : Sachsen fehlen 2150 Lehrer!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/massive-ausfaelle-drohen-sachsen-fehlen-2150-lehrer-80705014.bild.html",
-      "image_title": "Massive Ausfälle drohen: Sachsen fehlen 2150 Lehrer!"
-    },
-    {
-      "title": "Talent mit viel Tempo : Roscher rollt beim Chemnitzer FC los",
-      "teaser": "Turbulente Tage für Mittelfeld-Talent Max Roscher (18) von Viertligist Chemnitzer FC.",
-      "url": "https://www.bild.de/sport/fussball/fussball/talent-mit-viel-tempo-roscher-rollt-beim-chemnitzer-fc-los-80700256.bild.html",
-      "image_title": "Talent mit viel Tempo: Roscher rollt beim Chemnitzer FC los"
-    },
-    {
-      "title": "Spurlos verschwunden : Wo ist Lilly-Joy (14)?",
-      "teaser": "Das junge Mädchen aus Thüringen ist spurlos verschwunden. Hat sie jemand gesehen?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/wo-ist-lilly-joy-14-fahndung-nach-verschwundenem-maedchen-in-thueringen-80702304.bild.html",
-      "image_title": "Vermisst: Wo ist Lilly-Joy (14)? Suche nach Mädchen aus Thüringen"
-    },
-    {
-      "title": "Party-Aus im Spitzhaus! : Stadt verbietet Radebeuler Wirt das Feiern",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/party-aus-im-spitzhaus-stadt-verbietet-radebeuler-wirt-das-feiern-80705092.bild.html",
-      "image_title": "Party-Aus im Spitzhaus: Stadt verbietet Radebeuler Wirt das Feiern"
-    },
-    {
-      "title": "Der Killer aus der Dating-App : Frauenmörder muss lebenslang in den Knast",
-      "teaser": "Der Mörder von Dorin V. (†43) muss lebenslang hinter Gitter.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-frauenmoerder-googelte-wie-man-jemanden-erwuergt-80691852.bild.html",
-      "image_title": "Leipzig: Frauenmörder muss lebenslang in den Knast"
-    },
-    {
-      "title": "Betten-Notstand : Klinik nahm keine Notfälle mehr auf",
-      "teaser": "Am Dienstag musste das Helios Klinikum Pirna passen, konnte keine Notfälle mehr aufnehmen – Betten-Notstand!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/betten-notstand-klinik-nahm-keine-notfaelle-mehr-auf-80693878.bild.html",
-      "image_title": "Betten-Notstand: Klinik nahm keine Notfälle mehr auf"
-    },
-    {
-      "title": "„Extrem wichtiger Spieler” : Farke outet sich als Kramer-Fan",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-daniel-farke-fan-von-christoph-kramer-80704542.bild.html",
-      "image_title": "Borussia Mönchengladbach: Daniel Farke Fan von Christoph Kramer"
-    },
-    {
-      "title": "Fortunas Bester wechselt nach Saloniki : Hektische Suche nach Narey-Nachfolger",
-      "teaser": "Das Schachern um die Euros geht weiter! Noch immer ist der Narey-Transfer nicht durch...",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortunas-bester-wechselt-hektische-suche-nach-narey-nachfolger-80701450.bild.html",
-      "image_title": "Fortunas Bester wechselt: Hektische Suche nach Narey-Nachfolger"
-    },
-    {
-      "title": "Tatverdächtiger gefasst! : Glasflaschen-Attacke in der U-Bahn",
-      "teaser": "Am Mittwochmorgen gegen 6 Uhr kam es in der U-Bahn 76 zu einer brutalen Attacke.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/meerbusch-glasflaschen-attacke-in-u-bahn-taeter-fluechtig-80691910.bild.html",
-      "image_title": "Meerbusch: Glasflaschen-Attacke in U-Bahn – Tatverdächtiger gefasst!"
-    },
-    {
-      "title": "Dramatische Abstimmung gegen Peter Feldmann : Parlament wählt Skandal-OB von Frankfurt ab!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/abwahl-schlacht-im-roemer-beginnt-eklat-im-roemer-wegen-peter-feldmann-80701706.bild.html",
-      "image_title": "Peter Feldmann: Parlament wählt Skandal-OB von Frankfurt ab!"
-    },
-    {
-      "title": "Es funkte beim Helfen : Flut + Zerstörung = Liebe!",
-      "teaser": "Die Liebe traf Stephi (33) und Kai (34) wie ein Blitz, als sie im Ahrtal helfen wollte.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/es-funkte-beim-hilfs-einsatz-im-ahrtal-flut-zerstoerung-liebe-80695570.bild.html",
-      "image_title": "Es funkte beim Hilfs-Einsatz im Ahrtal: Flut + Zerstörung = Liebe!"
-    },
-    {
-      "title": "„Frankfurt geht Aus“-Urteil : Ohrfeige für Angeber-Treff „H'ugo's“",
-      "teaser": "Diese 17.90 Euro sind offenbar nicht so gut angelegt...",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-geht-aus-urteil-ohrfeige-fuer-angeber-treff-hugos-80698788.bild.html",
-      "image_title": "„Frankfurt geht Aus“-Urteil: Ohrfeige für Angeber-Treff „H'ugo's“"
-    },
-    {
-      "title": "Stalker fuhr 810 km, um Yusra (19) und Zahra (23) zu töten : Tränen-Beerdigung der erstochenen Freundinnen",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/stalker-fuhr-810-km-um-yusra-19-und-zahra-23-zu-toeten-traenen-beerdigung-der-er-80697116.bild.html",
-      "image_title": "Stalker fuhr 810 km, um Yusra (19) und Zahra (23) zu töten: Tränen-Beerdigung der erstochenen Freundinnen"
-    },
-    {
-      "title": "Kollegen weinten : Radio-Hamburg-Legende wirft nach 35 Jahren hin",
-      "teaser": "Der Schock sitzt tief: Radio-Hamburg-Legende Marzel Becker (58) hat hingeschmissen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kollegen-weinten-bei-der-verkuendung-radio-hamburg-legende-wirft-nach-35-jahren-80703512.bild.html",
-      "image_title": "Kollegen weinten bei der Verkündung: Radio-Hamburg-Legende wirft nach 35 Jahren hin"
-    },
-    {
-      "title": "An Museum in Nortorf : NDR verschenkt 100000 Schallplatten",
-      "teaser": "Der NDR räumt seinen Schatz-Keller auf und verschenkt 100 000 Schallplatten.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/an-museum-in-nortorf-ndr-verschenkt-100000-schallplatten-80697062.bild.html",
-      "image_title": "An Museum in Nortorf: NDR verschenkt 100000 Schallplatten"
-    },
-    {
-      "title": "Vor Abfahrt nach Kaiserslautern : Nanu! Hansen im Mannschaftsbus",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-aussortierter-martin-hansen-vor-abfahrt-nach-kaiserslautern-im-bus-80702104.bild.html",
-      "image_title": "Hannover 96: Aussortierter Martin Hansen vor Abfahrt nach Kaiserslautern im Bus"
-    },
-    {
-      "title": "Hannover-Star beim Start nicht dabei : Pink Panther flog aus dem Kader",
-      "teaser": "Ein prominenter Hannover-Name wird beim Zweitliga-Start in Lautern fehlen.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/hannover-96-abgang-in-rosa-dieser-star-ist-beim-lautern-start-nicht-im-kader-80701148.bild.html",
-      "image_title": "Hannover 96: Abgang in Rosa! Dieser Star ist beim Lautern-Start nicht im Kader"
-    },
-    {
-      "title": "Eskalierter Streit : Zwei Männer nach Messerstecherei in Lebensgefahr",
-      "teaser": "Hannover – Es sollen neun Personen beteiligt gewesen sein, auch Messer wurden gezückt.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/eskalierter-streit-mit-neun-personen-zwei-maenner-nach-messerstecherei-in-lebens-80695732.bild.html",
-      "image_title": "Hannover – Eskalierter Streit: Zwei Männer nach Messerstecherei in Lebensgefahr"
-    },
-    {
-      "title": "Motivationsschub für Petersen : Freiburg-Star dankt Baumgart",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-koeln-motivationsschub-freiburg-star-nils-petersen-dankt-baumgart-80705042.bild.html",
-      "image_title": "1. FC Köln: Motivationsschub: Freiburg-Star Nils Petersen dankt Baumgart"
-    },
-    {
-      "title": "1 Jahr nach der Jahrhundertkatastrophe : Das sagte Steinmeier den Flutopfern im Ahrtal",
-      "teaser": "Am ersten Jahrestag der Ahr-Flut erinnerte der Bundespräsident an die mindestens 135 Todesopfer.",
-      "url": "https://www.bild.de/news/inland/news-inland/1-jahr-nach-der-jahrhundertkatastrophe-das-sagte-steinmeier-den-flutopfern-im-ah-80702356.bild.html",
-      "image_title": "1 Jahr nach der Jahrhundertkatastrophe: Das sagte Steinmeier den Flutopfern im Ahrtal"
-    },
-    {
-      "title": "BILD sagt, um was es geht : 2 Ansagen an die FC-Stars",
-      "teaser": "Für die Spieler des 1. FC Köln gab es am Donnerstag gleich zwei Ansagen im Training.",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-koeln-bild-sagt-um-was-es-geht-2-ansagen-an-die-fc-stars-80704032.bild.html",
-      "image_title": "1. FC Köln: BILD sagt, um was es geht: 2 Ansagen an die FC-Stars"
-    },
-    {
-      "title": "„Klassik airleben“-Dirigentin : „Bloß keine High Heels!“",
-      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/klassik-airleben-dirigentin-susanna-maelkki-bloss-keine-high-heels-80704888.bild.html",
-      "image_title": "„Klassik airleben“-Dirigentin Susanna Mälkki: „Bloß keine High Heels!“"
-    },
-    {
-      "title": "Kikeriki! : Kai Uwe zieht mit Frauchen Anika um die Häuser",
-      "teaser": "Ein Gockel begleitet in Magdeburg ein verrücktes Huhn auf Schritt und Hahnentritt!",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/news/kikeriki-kai-uwe-zieht-mit-frauchen-anika-um-die-haeuser-80699126.bild.html",
-      "image_title": "Magdeburg: Kai Uwe zieht mit Frauchen Anika um die Häuser"
-    },
-    {
-      "title": "Nächster Test : BSG Chemie trifft Hannover in Berßel",
-      "teaser": "Man trifft sich fast auf halbem Weg. Die BSG Chemie testet am Freitag (19 Uhr) gegen die U23 von Hannover (ebenfalls 4. Liga). Gespi...",
-      "url": "https://www.bild.de/sport/fussball/fussball/bsg-chemie-trifft-hannover-in-berssel-80702006.bild.html",
-      "image_title": "BSG Chemie trifft Hannover in Berßel"
-    },
-    {
-      "title": "Insolvenzverwalter fand Käufer : Neue Hoffnung für Dornröschen-Schloss auf Rügen",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/kaeufer-gefunden-neue-hoffnung-fuer-ruegener-schloss-80696750.bild.html",
-      "image_title": "Käufer gefunden: Neue Hoffnung für Rügener Schloss"
-    },
-    {
-      "title": "Hansa-Trainer Härtel : „Vorbereitung so gut wie nie, aber...“",
-      "teaser": "Sonntag (gegen Heidenheim) rollt der Ball wieder in Rostock. Trainer Härtel im Interview.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansa-trainer-haertel-vorbereitung-so-gut-wie-nie-aber-80702614.bild.html",
-      "image_title": "Hansa-Trainer Härtel: „Vorbereitung so gut wie nie, aber...“"
-    },
-    {
-      "title": "260 000 Euro Unfallschaden : Ein Truck im Kornfeld",
-      "teaser": "Ein Trucker (34) verunglückte am frühen Donnerstagmorgen auf der Insel Usedom.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/260000-euro-unfallschaden-ein-truck-im-kornfeld-80698562.bild.html",
-      "image_title": "Zirchow – 260 000 Euro Unfallschaden: Ein Truck im Kornfeld"
-    },
-    {
-      "title": "2023 läuft sein Vertrag aus : PSG trifft Messi-Entscheidung!",
-      "teaser": "Noch bis 1. September können die Klubs aus Europas Top-Ligen kaufen und verkaufen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/transfer-ticker-rb-leipzig-star-nkunku-schwaermt-von-diesem-top-klub-80246534.bild.html",
-      "image_title": "Transfer-Ticker: Paris St. Germain trifft Lionel-Messi-Entscheidung!"
-    },
-    {
-      "title": "Es blockierte die Bahngleise : Junges Schaf will getötete Mutter nicht verlassen",
-      "teaser": "Das Kleine blökte herzzerreißend um seine tote Mutter! Die Polizei musste es wegtragen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/aus-trauer-um-mutter-jungschaf-blockiert-gleise-80702096.bild.html",
-      "image_title": "Aus Trauer um Mutter: Jungschaf blockiert Gleise"
-    },
-    {
-      "title": "Nach schwachen Tests : Mathenia: „Es geht nur darum, wie wir St. Pauli schlagen können“",
-      "url": "https://www.bild.de/sport/fussball/fussball/fcn-mathenia-es-geht-nur-darum-wie-wir-st-pauli-schlagen-koennen-80702172.bild.html",
-      "image_title": "FCN - Mathenia: „Es geht nur darum, wie wir St. Pauli schlagen können“"
-    },
-    {
-      "title": "Vorbereitungs-Verlierer : Duman plötzlich hintendran",
-      "teaser": "Bankplatz statt Stammplatz! Taylan Duman steht zum Saisonstart wohl nicht in der Startelf.",
-      "url": "https://www.bild.de/sport/fussball/fussball/vorbereitungs-verlierer-taylan-duman-ploetzlich-hintendran-80701908.bild.html",
-      "image_title": "Vorbereitungs-Verlierer: Taylan Duman plötzlich hintendran"
-    },
-    {
-      "title": "Club vor Saisonauftakt : Entwarnung bei MMD, Hoffnung bei Lohkemper!",
-      "teaser": "So ist der Stand bei den angeschlagenen Spielern.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fcn-entwarnung-bei-mats-moeller-daehli-hoffnung-bei-felix-lohkemper-80701292.bild.html",
-      "image_title": "FCN: Entwarnung bei Mats Möller Daehli, Hoffnung bei Felix Lohkemper!"
-    },
-    {
-      "title": "Verwaltete Ziad E. (40) die Drogen für Miri-Clan? : Nein vom Richter: Kein Döner für den Dealer",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/drogen-dealer-des-miri-clans-richter-keinen-doener-fuer-ziad-e-80705098.bild.html",
-      "image_title": "Drogen-Dealer des Miri-Clans?: Richter: Keinen Döner für Ziad E."
-    },
-    {
-      "title": "Waldbrandgefahr in NRW : Strafe für Feuermachen verfünffacht – 5000 Euro",
-      "teaser": "Wegen der Trockenheit warnt das NRW-Landwirtschaftsministerium vor Waldbrandgefahr.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/waldbrandgefahr-in-nrw-bis-zu-150-euro-strafe-fuer-rauchen-im-wald-80701062.bild.html",
-      "image_title": "Waldbrandgefahr in NRW: Strafe für Feuermachen fast verfünffacht – 5000 Euro"
-    },
-    {
-      "title": "Fußgängerin (79) schwer verletzt : Rentnerin (72) brettert in Haltestelle",
-      "teaser": "Sie fuhr in ein Haltestellenhäuschen, verletzte eine 79-Jährige schwer.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/oberhausen-rentnerin-72-brettert-in-haltestelle-80697996.bild.html",
-      "image_title": "Oberhausen: Rentnerin (72) brettert in Haltestelle"
-    },
-    {
-      "title": "Auf Mäusejagd im Gitter verfangen : Kater-Schicht im Schacht",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/auf-maeusejagd-im-gitter-verfangen-kater-schicht-im-schacht-80702908.bild.html",
-      "image_title": "Auf Mäusejagd im Gitter verfangen: Kater-Schicht im Schacht"
-    },
-    {
-      "title": "Polizistenmörder von Kusel : Sogar Jäger hatten Angst vor Andreas S.",
-      "teaser": "Der Hauptangeklagte Andreas S. (39) verbreitete Angst – sogar unter Jägerfreunden.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/polizisten-mord-von-kusel-sogar-jaeger-hatten-angst-vor-andreas-s-80700012.bild.html",
-      "image_title": "Polizistenmorde von Kusel: Sogar Jäger hatten Angst vor Andreas S."
-    },
-    {
-      "title": "Aus für Saarbrücker : Keine Rose von der Bachelorette",
-      "teaser": "Die Bachelorette hatte diesmal keine Rose für Stanislav Koslovich (28) aus Saarbrücken.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/aus-fuer-saarbruecker-keine-rose-von-der-bachelorette-80699816.bild.html",
-      "image_title": "Aus für Saarbrücker: Keine Rose von der Bachelorette"
-    },
-    {
-      "title": "1. FC Magdeburg : Condé ist der neue Kapitän",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-magdeburg-cond-ist-der-neue-kapitaen-80703282.bild.html",
-      "image_title": "1. FC Magdeburg: Condé ist der neue Kapitän"
-    },
-    {
-      "title": "Wer kennt diesen dreisten Dieb? : Erst Auto, dann Sprit geklaut",
-      "teaser": "Offenbar klaute der Mann erst ein Auto und dann eine Tankladung. Wer kennt ihn?",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/diebstahl-in-sachsen-anhalt-erst-auto-dann-benzin-geklaut-fahndung-80698170.bild.html",
-      "image_title": "Diebstahl in Sachsen-Anhalt: Erst Auto, dann Sprit geklaut –Fahndung"
-    },
-    {
-      "title": "Attacke in Regionalzug : Betrunkener (38) würgt Zugbegleiter (20)",
-      "teaser": "Ein Zugbegleiter wurde in einem Regionalexpress Opfer einer brutalen Attacke.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/attacke-in-sachsen-anhalt-betrunkener-38-wuergt-zugbegleiter-20-80699704.bild.html",
-      "image_title": "Attacke in Sachsen-Anhalt: Betrunkener (38) würgt Zugbegleiter (20)"
-    },
-    {
-      "title": "In Stuttgart : Motorradfahrer stirbt bei Sturz",
-      "teaser": "Ein Motorradfahrer ist von der Fahrbahn abgekommen und dabei ums Leben gekommen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/in-stuttgart-motorradfahrer-stirbt-bei-sturz-80701586.bild.html",
-      "image_title": "In Stuttgart: Motorradfahrer stirbt bei Sturz"
-    },
-    {
-      "title": "Stuttgart : VVS-Tickets werden teurer!",
-      "teaser": "Preis-Schock für die VVS-Kunden der Region! Dafür kommt ein billiges Ticket.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/stuttgart-vvs-tickets-werden-teurer-80691714.bild.html",
-      "image_title": "Stuttgart: VVS-Tickets werden teurer!"
-    },
-    {
-      "title": "Großfamilie vor dem Nichts : Völlig abgebrannt",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/altenburg-voellig-abgebrannt-grossfamilie-steht-vor-dem-nichts-80705224.bild.html",
-      "image_title": "Altenburg: Völlig abgebrannt! Großfamilie steht vor dem Nichts"
-    },
-    {
-      "title": "Unschuldig im Visier der Ermittler? : „Für den Staatsanwalt war ich der Pferde-Ripper“",
-      "teaser": "Die Polizei verdächtigte Andreas Becke (63), 2019 neun Stuten misshandelt zu habe.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-fuer-den-staatsanwalt-war-ich-der-pferde-ripper-80702730.bild.html",
-      "image_title": "Thüringen: „Für den Staatsanwalt war ich der Pferde-Ripper“"
-    },
-    {
-      "title": "Rückkehrer Moritz : RWE ist wie ein Zuhause für mich",
-      "teaser": "Ben-Luca Moritz schnürt seine Schuhe wieder für Rot-Weiß Erfurt.",
-      "url": "https://www.bild.de/sport/fussball/fussball/rueckkehrer-moritz-rwe-ist-wie-ein-zuhause-fuer-mich-80700836.bild.html",
-      "image_title": "Rückkehrer Moritz: RWE ist wie ein Zuhause für mich"
-    }
-  ]
+  "articles": []
 }
