@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-15T23:21:49",
+  "timestamp": "2022-07-16T02:05:49",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Verkehrsminister zu Stammstrecke : Geld nur, wenns keine Bauruine wird",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/verkehrminister-zu-stammstrecke-geld-nur-wenns-keine-bauruine-wird-80716058.bild.html",
-      "image_url": "https://images.bild.de/62d1ca1ad65bf414d33391bf/a903a5b16b51e4e7d5ee5c6dfd93fb78,3882c272?w=656",
-      "image_title": "Verkehrminister zu Stammstrecke: Geld nur, wenns keine Bauruine wird"
-    },
-    {
-      "title": "Eurojackpot Am Freitag : Haben Sie den 104 Millionen Euro Jackpot geknackt?",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-15-juli-80685218.bild.html",
-      "image_url": "https://images.bild.de/62ce8adf85b4a6553f5f9f1c/620e292c612eaecb0afa8533cda94997,dc48b40a?w=320",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 15. Juli"
-    },
-    {
-      "title": "Tropen-Wunder in Deutschland : In Gabis Garten gibt’s Bananen!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/tropen-wunder-in-deutschland-in-gabis-garten-gibts-bananen-80714980.bild.html",
-      "image_url": "https://images.bild.de/62d19ea0a3ec2e082e836a4b/f7615be21e525dad63caf4540e4898e9,f5d54dcb?w=320",
-      "image_title": "Tropen-Wunder in Deutschland: In Gabis Garten gibt’s Bananen!"
-    },
-    {
-      "title": "Haft nach Mord im Seniorenheim : Enkelin erwürgte Oma (81) aus Geldgier",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/enkelin-32-erwuergte-eigene-oma-81-bekommt-sarah-s-lebenslaenglich-80711176.bild.html",
-      "image_url": "https://images.bild.de/62d159abf654db351ccf9cfa/f12d950a92d4972f1bd570b60c835a66,91e68290?w=320",
-      "image_title": "Mord im Seniorenheim: Enkelin erwürgte eigene Oma (81) aus Geldgier"
-    },
-    {
-      "title": "Ehestreit endet blutig : Ehefrau und Schwägerin niedergestochen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-mann-sticht-ehefrau-und-schwaegerin-ab-80712432.bild.html",
-      "image_url": "https://images.bild.de/62d165c0f654db351ccf9d1a/809c5378606986df724baa0689ee7ac9,916a859c?w=320",
-      "image_title": "Sachsen: Mann sticht Ehefrau und Schwägerin ab"
-    },
-    {
-      "title": "So machen Sie mit : 104 Millionen im Eurojackpot",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-erstmals-mehr-als-100-millionen-euro-zu-gewinnen-80124058.bild.html",
-      "image_title": "Eurojackpot am Freitag: 104 Millionen Euro zu gewinnen"
-    },
-    {
-      "title": "Hahnsinn! : Gockel Kai Uwe zieht mit Frauchen um die Häuser",
-      "teaser": "Ein Gockel begleitet in Magdeburg ein verrücktes Huhn auf Schritt und Hahnentritt!",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/news/kikeriki-kai-uwe-zieht-mit-frauchen-anika-um-die-haeuser-80699126.bild.html",
-      "image_title": "Haustier: Hahn Kai Uwe zieht in Magdeburg um die Häuser"
-    },
-    {
-      "title": "Mit Messern und Fäusten verletzt : Nach Rocker-Streit –Tatverdächtige ermittelt",
-      "teaser": "Nach einer Attacke auf zwei Männer hat die Polizei zwei Verdächtigen ermittelt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/angriff-in-ueckermuende-zwei-tatverdaechtige-nach-rocker-streit-ermittelt-80710712.bild.html",
-      "image_title": "Angriff in Ueckermünde: Zwei Tatverdächtige nach Rocker-Streit ermittelt"
-    },
-    {
-      "title": "Wegen Verfolgung Unschuldiger : AfD-Politiker zu 30 000 Euro Strafe verurteilt",
-      "teaser": "Das Amtsgericht hat entschieden! Der AfD-Abgeordnete Torsten Czuppon muss zahlen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/afd-politiker-torsten-czuppon-zu-30-000-euro-strafe-verurteilt-80708322.bild.html",
-      "image_title": "Erfurt: AfD-Politiker Torsten Czuppon zu 30 000 Euro Strafe verurteilt"
-    },
-    {
-      "title": "Fünf Menschen in Trier getötet : Amok-Fahrer soll lebenslang hinter Gitter",
-      "teaser": "Der Prozess um Amok-Fahrer Bernd W. geht weiter – mit dem Plädoyer der Staatsanwaltschaft.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/trier-5-menschen-getoetet-amok-fahrer-soll-lebenslang-hinter-gitter-80706172.bild.html",
-      "image_title": "Trier: 5 Menschen getötet – Amok-Fahrer soll lebenslang hinter Gitter"
-    },
-    {
-      "title": "Ein Jahr nach der Jahrhundertkatastrophe : Das sagte Steinmeier den Flutopfern im Ahrtal",
-      "teaser": "Am ersten Jahrestag der Ahr-Flut erinnerte der Bundespräsident an die 135 Todesopfer.",
-      "url": "https://www.bild.de/news/inland/news-inland/1-jahr-nach-der-jahrhundertkatastrophe-das-sagte-steinmeier-den-flutopfern-im-ah-80702356.bild.html",
-      "image_title": "Ein Jahr nach der Jahrhundertkatastrophe: Das sagte Steinmeier den Flutopfern im Ahrtal"
-    },
-    {
-      "title": "20 Tonnen Milch ausgelaufen : Milchlaster kracht durch Leitplanke",
-      "teaser": "Ein Milchlaster verunglückte auf der A4. Die Milch ist futsch, der Fahrer verletzt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/milchlaster-auf-a4-bei-pulsnitz-verunglueckt-laster-kracht-durch-leitplanke-80707228.bild.html",
-      "image_title": "Milchlaster auf A4 bei Pulsnitz verunglückt: Laster kracht durch Leitplanke"
-    },
-    {
-      "title": "Keine Toten im Dörfchen Schuld : Olaf machte das Flut-Wunder möglich",
-      "teaser": "Wie durch ein Wunder hatte Schuld keine Toten zu beklagen. Dank Flut-Helden wie Olaf.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/keine-toten-in-schuld-im-ahrtal-olaf-machte-flut-wunder-moeglich-80691464.bild.html",
-      "image_title": "Keine Toten in Schuld im Ahrtal: Olaf machte Flut-Wunder möglich"
-    },
-    {
-      "title": "Würth-Chef Robert Friedmann : „Werden dieses Wachstumstempo nicht halten“",
-      "teaser": "Würth trotzt den weltweiten Krisen und legt starke Halbjahreszahlen vor.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/wuerth-chef-friedmann-werden-wachstumstempo-nicht-halten-80699656.bild.html",
-      "image_title": "Würth-Chef Friedmann: „Werden Wachstumstempo nicht halten“"
-    },
-    {
-      "title": "In Bayern : Super-Rechner für Künstliche Intelligenz",
-      "teaser": "Ein weltweit einzigartiger Rechner soll künftig große Mengen an Daten verarbeiten.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/in-bayern-super-rechner-fuer-kuenstliche-intelligenz-80700870.bild.html",
-      "image_title": "In Bayern: Super-Rechner für Künstliche Intelligenz"
-    },
-    {
-      "title": "In der Ahr-Flut gab er noch mal alles : Die irre Geschichte von Feuerwehr-Oldtimer „Pätti“",
-      "teaser": "Es ist, als hätte dieser alte Feuerwehrwagen eine Seele gehabt.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/ahr-flut-die-irre-geschichte-von-feuerwehr-oldtimer-paetti-80697406.bild.html",
-      "image_title": "Ahr-Flut: Die irre Geschichte von Feuerwehr-Oldtimer „Pätti“"
-    },
-    {
-      "title": "Spurlos verschwunden : Wo ist Lilly-Joy (14)?",
-      "teaser": "Das junge Mädchen aus Thüringen ist spurlos verschwunden. Hat sie jemand gesehen?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/wo-ist-lilly-joy-14-fahndung-nach-verschwundenem-maedchen-in-thueringen-80702304.bild.html",
-      "image_title": "Vermisst: Wo ist Lilly-Joy (14)? Suche nach Mädchen aus Thüringen"
-    },
-    {
-      "title": "Gianni und Rosario tot beim Edel-Italiener : Ergebnis der Obduktion da! Viele Fragen offen ...",
-      "teaser": "Nach dem Fund der zwei Toten ist das Obduktionsergebnis veröffentlicht worden.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/zwei-tote-in-edel-pizzeria-vorlaeufiges-obduktion-ergebnis-liegt-vor-80696566.bild.html",
-      "image_title": "Stuttgart: Nach Blutbad beim Italiener: Das Obduktionsergebnis ist da"
-    },
-    {
-      "title": "Mann wird schwer verletzt : Mülleimer-Schlägerei auf dem Sonnenberg",
-      "teaser": "Wilde Prügelei in und vor einer Kneipe. Dort gerieten zwei Männer (40, 51) aneinander.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/pruegelei-in-chemnitz-muelleimer-schlaegerei-auf-dem-sonnenberg-80701726.bild.html",
-      "image_title": "Prügelei in Chemnitz: Mülleimer-Schlägerei auf dem Sonnenberg"
-    },
-    {
-      "title": "Wer kennt diesen dreisten Dieb? : Erst Auto, dann Sprit geklaut",
-      "teaser": "Offenbar klaute der Mann erst ein Auto und dann eine Tankladung. Wer kennt ihn?",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/diebstahl-in-sachsen-anhalt-erst-auto-dann-benzin-geklaut-fahndung-80698170.bild.html",
-      "image_title": "Diebstahl in Sachsen-Anhalt: Erst Auto, dann Sprit geklaut –Fahndung"
-    },
-    {
-      "title": "Attacke in Regionalzug : Betrunkener (38) würgt Zugbegleiter (20)",
-      "teaser": "Ein Zugbegleiter wurde in einem Regionalexpress Opfer einer brutalen Attacke.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/attacke-in-sachsen-anhalt-betrunkener-38-wuergt-zugbegleiter-20-80699704.bild.html",
-      "image_title": "Attacke in Sachsen-Anhalt: Betrunkener (38) würgt Zugbegleiter (20)"
-    },
-    {
-      "title": "Ein Jahr nach der todesflut : Das Leid der Menschen im Ahrtal",
-      "teaser": "Zerstörte Brücken, Schulen, Häuser – bis heute! BILD hat das Ahrtal nicht vergessen.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/ahrtal-ein-jahr-nach-der-todesflut-das-tal-der-vergessenen-80693104.bild.html",
-      "image_title": "Ahrtal: Ein Jahr nach der Todesflut. Das Tal der Vergessenen"
-    },
-    {
-      "title": "Sie gewährte Kirchenasyl : Ordensschwester freigesprochen",
-      "teaser": "Eine Ordensschwester ist vor dem Landgericht Würzburg freigesprochen worden.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/sie-gewaehrte-kirchenasyl-in-bayern-ordensschwester-freigesprochen-80698454.bild.html",
-      "image_title": "Sie gewährte Kirchenasyl in Bayern: Ordensschwester freigesprochen"
-    },
-    {
-      "title": "Hedwig (70) starb in der Flut : „Oma passt vom Himmel auf uns auf“",
-      "teaser": "Die Trauer der Familie ist immer noch groß: Oma Hedwig (70) starb in der Ahr-Flut.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/dernau-hedwig-70-starb-in-der-flut-oma-passt-vom-himmel-auf-uns-auf-80696354.bild.html",
-      "image_title": "Dernau: Hedwig (†70) starb in der Flut: „Oma passt vom Himmel auf uns auf“"
-    },
-    {
-      "title": "Verfolgungsjagd über Ländergrenzen : Vollgekokster Fahrer flüchtet vor Polizeikontrolle",
-      "teaser": "Die wilde Verfolgungsjagd konnte erst in einem anderen Bundesland beendet werden.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/von-hessen-nach-thueringen-vollgekokster-fahrer-fluechtet-vor-polizei-80696606.bild.html",
-      "image_title": "Von Hessen nach Thüringen: Vollgekokster Fahrer flüchtet vor Polizei"
-    },
-    {
-      "title": "Dancing-Queen beim CSD : Diese Kölner Polizistin begeistert Millionen",
-      "url": "https://www.bild.de/video/clip/video/dancing-queen-beim-csd-diese-koelner-polizistin-begeistert-millionen-80703048.bild.html",
-      "image_title": "Dancing-Queen beim CSD: Diese Kölner Polizistin begeistert Millionen"
-    },
-    {
-      "title": "Überraschung am Straßenrand : Hüpft ein Känguru durch Bayern ...",
-      "url": "https://www.bild.de/video/clip/video/ueberraschung-am-strassenrand-huepft-ein-kaenguru-durch-bayern-80693410.bild.html",
-      "image_title": "Überraschung am Straßenrand: Hüpft ein Känguru durch Bayern ..."
-    },
-    {
-      "title": "Wird DSDS wirklich eingestellt? : „RTL würde JA zu weiteren Staffeln sagen, wenn ...“",
-      "url": "https://www.bild.de/video/clip/video/wird-dsds-wirklich-eingestellt-rtl-wuerde-ja-zu-weiteren-staffeln-sagen-wenn-80697146.bild.html",
-      "image_title": "Wird DSDS wirklich eingestellt?: „RTL würde JA zu weiteren Staffeln sagen, wenn ...“"
-    }
-  ]
+  "articles": []
 }
