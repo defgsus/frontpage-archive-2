@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-07-18T02:10:14",
+  "timestamp": "2022-07-18T04:06:23",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +25,223 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "BILD unterwegs mit der Wald-Polizei : Dieses Feuer wird richtig teuer",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/bad-schandau-unterwegs-mit-der-wald-polizei-dieses-feuer-wird-richtig-teuer-80727452.bild.html",
+      "image_url": "https://images.bild.de/62d3e807a84f444ba146efff/c27842e9507ee9337bae2d4c7441adf4,63c198bf?w=656",
+      "image_title": "Bad Schandau: Unterwegs mit der Wald-Polizei – Dieses Feuer wird richtig teuer!"
+    },
+    {
+      "title": "Corona-Ausbruch vertuscht? : 20 Kinder und Betreuer infiziert – Amt stoppt Ferienlager",
+      "url": "https://www.bild.de/news/inland/news-inland/corona-ausbruch-vertuscht-20-kinder-und-betreuer-infiziert-amt-stoppt-ferienlage-80727640.bild.html",
+      "image_url": "https://images.bild.de/62d4071e759159515e532f99/9097e7747de63a6b256f1933a67c5876,c6f8f707?w=320",
+      "image_title": "Corona-Ausbruch vertuscht?: 20 Kinder und Betreuer infiziert – Amt stoppt Ferienlager"
+    },
+    {
+      "title": "In Coburg : Streunende Kuh verirrt sich in Speisekammer",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/in-coburg-streunende-kuh-verirrt-sich-in-speisekammer-80726878.bild.html",
+      "image_url": "https://images.bild.de/62d3f696a84f444ba146f01f/88d05d72dc34caaa8e8b60f67985ed5e/Kennung_Symbolfoto,a48e538f?w=320",
+      "image_title": "In Coburg: Streunende Kuh verirrt sich in Speisekammer"
+    },
+    {
+      "title": "Gleichstellung für lesbische Paare : Ampel plant zügige Regelung für Co-Mutterschaft",
+      "url": "https://www.bild.de/lgbt/2022/lgbt/lesbische-paare-ampel-plant-zuegige-regelung-fuer-co-mutterschaft-80725416.bild.html",
+      "image_url": "https://images.bild.de/62d3d9a9f56d66667c065c02/83aecc0b2a041cf85f62726878548757/Kennung_Symbolfoto,a48ecbaf?w=320",
+      "image_title": "Lesbische Paare: Ampel plant zügige Regelung für Co-Mutterschaft"
+    },
+    {
+      "title": "Oldtimer zerlegt und zusammengebaut : Ich schraubte aus Schrott ein Goldstück",
+      "url": "https://www.bild.de/news/inland/news-inland/oldtimer-restauriert-ich-schraubte-aus-schrott-ein-goldstueck-80719876.bild.html",
+      "image_url": "https://images.bild.de/62d2b64b962fdb7778b51395/729d9a39b3c61f1544daf857827b099b,89a4bbf2?w=320",
+      "image_title": "Oldtimer restauriert: Ich schraubte aus Schrott ein Goldstück"
+    },
+    {
+      "title": "151 Menschen in Passau evakuiert : Brand auf Passagierschiff",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/151-menschen-evakuiert-brand-auf-passagierschiff-in-passau-80724206.bild.html",
+      "image_title": "151 Menschen evakuiert: Brand auf Passagierschiff in Passau"
+    },
+    {
+      "title": "Sein Schicksal bricht allen das Herz : Einar (13) hat nur noch einen letzten Wunsch",
+      "teaser": "Der kranke Junge liegt in einer Klinik, wurde von Mitschülern verprügelt.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/von-mitschuelern-verpruegelt-einar-13-hat-nur-einen-letzten-wunsch-80721814.bild.html",
+      "image_title": "Von Mitschülern verprügelt: Einar (13) hat nur einen letzten Wunsch"
+    },
+    {
+      "title": "Dr. Eder macht die dicksten Dinger : Das ist Deutschlands Penis-Papst",
+      "teaser": "Ist der Penis zu klein, schau bei Dr. Eder rein. Der Beauty-Doc ist der Penis-Papst!",
+      "url": "https://www.bild.de/bild-plus/news/2022/news/muenchen-beauty-doc-maximilian-eder-44-ist-der-deutsche-penis-papst-80633058.bild.html",
+      "image_title": "München: Beauty-Doc Maximilian Eder (44) ist der deutsche Penis-Papst!"
+    },
+    {
+      "title": "6 aus 49 : Die Lottozahlen am Samstag",
+      "teaser": "5 Mio € Lotto-Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 16. Juli 2022",
+      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-16-juli-80685290.bild.html",
+      "image_title": "Lotto am Samstag: Die Lottozahlen vom 16. Juli"
+    },
+    {
+      "title": "Streit mit neun Beteiligten : Mann (21) stirbt nach Messerstecherei",
+      "teaser": "Drei Tage nach einer lebensgefährlichen Messerstecherei ist ein junger Mann gestorben.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/streit-mit-neun-beteiligten-mann-21-stirbt-nach-messerstecherei-80720584.bild.html",
+      "image_title": "Nach Streit in Hannover: Mann (21) stirbt nach Messerstecherei"
+    },
+    {
+      "title": "Crash bei Lübeck : Frau rast in Corona-Testzentrum",
+      "teaser": "Eine Frau ist am Samstagmorgen mit ihrem Ford-SUV in ein Corona-Testzentrum gerast.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/gefaehrliche-irrfahrt-dieser-unfall-haette-viele-todesopfer-fordern-koennen-80720330.bild.html",
+      "image_title": "Crash bei Lübeck: Frau rast in Corona-Testzentrum"
+    },
+    {
+      "title": "Todes-Schüsse von Burghausen : Polizeihund führte „Cobra“ zum Spielhallen-Killer",
+      "teaser": "Spezialeinheiten jagten den Killer von Burghausen. Am Ende fand ihn ein Polizeihund.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/todes-schuesse-von-burghausen-polizeihund-fuehrte-cobra-zum-spielhallen-killer-80708918.bild.html",
+      "image_title": "Mord in Burghausen: Polizeihund führte „Cobra“ zum Spielhallen-Killer"
+    },
+    {
+      "title": "Bildhauerin : Diese starke Schwäbin ist Miss Handwerk",
+      "teaser": "Luisa Lüttig (23) aus Göppingen schafft schon seit acht Jahren als Steinmetz.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/bildhauerin-diese-starke-schwaebin-ist-miss-handwerk-80713834.bild.html",
+      "image_title": "Bildhauerin: Diese starke Schwäbin ist Miss Handwerk"
+    },
+    {
+      "title": "Verkehrsminister zu Stammstrecke : „Bund gibt nur Geld, wenn da keine Bauruine steht\"",
+      "teaser": "München – Trotz Kostenexplosion bei der S-Bahn-Stammstrecke steht der Bundesverkehrsminister zu den Finanzierungsplänen.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/verkehrminister-zu-stammstrecke-geld-nur-wenns-keine-bauruine-wird-80716058.bild.html",
+      "image_title": "Verkehrminister zu Stammstrecke: Geld nur, wenns keine Bauruine wird"
+    },
+    {
+      "title": "Eurojackpot am Freitag : Haben Sie den 104 Millionen Euro Jackpot geknackt?",
+      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 15. Juli 2022",
+      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-15-juli-80685218.bild.html",
+      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 15. Juli"
+    },
+    {
+      "title": "Tropen-Wunder in Deutschland : In Gabis Garten gibt’s Bananen!",
+      "teaser": "Wenn Gabi Schumann (60) Südfrüchte braucht, fährt sie nicht in den Supermarkt.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/tropen-wunder-in-deutschland-in-gabis-garten-gibts-bananen-80714980.bild.html",
+      "image_title": "Tropen-Wunder in Deutschland: In Gabis Garten gibt’s Bananen!"
+    },
+    {
+      "title": "Haft nach Mord im Seniorenheim : Enkelin erwürgte eigene Oma (81) aus Geldgier",
+      "teaser": "Die eigene Enkelin (32) erwürgte ihre Oma (81) im Seniorenheim!",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/enkelin-32-erwuergte-eigene-oma-81-bekommt-sarah-s-lebenslaenglich-80711176.bild.html",
+      "image_title": "Mord im Seniorenheim: Enkelin erwürgte eigene Oma (81) aus Geldgier"
+    },
+    {
+      "title": "Ehestreit endet blutig : Ehefrau und Schwägerin niedergestochen",
+      "teaser": "In Sachsen soll ein Mann (45) in einem Streit seine Ehefrau (29) abgestochen haben.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-mann-sticht-ehefrau-und-schwaegerin-ab-80712432.bild.html",
+      "image_title": "Sachsen: Mann sticht Ehefrau und Schwägerin ab"
+    },
+    {
+      "title": "So machen Sie mit : 104 Millionen im Eurojackpot",
+      "teaser": "Europäische Lottospieler können am 15. Juli einen dreistelligen Millionenbetrag gewinnen!",
+      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-erstmals-mehr-als-100-millionen-euro-zu-gewinnen-80124058.bild.html",
+      "image_title": "Eurojackpot am Freitag: 104 Millionen Euro zu gewinnen"
+    },
+    {
+      "title": "Hahnsinn! : Gockel Kai Uwe zieht mit Frauchen um die Häuser",
+      "teaser": "Ein Gockel begleitet in Magdeburg ein verrücktes Huhn auf Schritt und Hahnentritt!",
+      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/news/kikeriki-kai-uwe-zieht-mit-frauchen-anika-um-die-haeuser-80699126.bild.html",
+      "image_title": "Haustier: Hahn Kai Uwe zieht in Magdeburg um die Häuser"
+    },
+    {
+      "title": "Mit Messern und Fäusten verletzt : Nach Rocker-Streit –Tatverdächtige ermittelt",
+      "teaser": "Nach einer Attacke auf zwei Männer hat die Polizei zwei Verdächtigen ermittelt.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/angriff-in-ueckermuende-zwei-tatverdaechtige-nach-rocker-streit-ermittelt-80710712.bild.html",
+      "image_title": "Angriff in Ueckermünde: Zwei Tatverdächtige nach Rocker-Streit ermittelt"
+    },
+    {
+      "title": "Wegen Verfolgung Unschuldiger : AfD-Politiker zu 30 000 Euro Strafe verurteilt",
+      "teaser": "Das Amtsgericht hat entschieden! Der AfD-Abgeordnete Torsten Czuppon muss zahlen.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/afd-politiker-torsten-czuppon-zu-30-000-euro-strafe-verurteilt-80708322.bild.html",
+      "image_title": "Erfurt: AfD-Politiker Torsten Czuppon zu 30 000 Euro Strafe verurteilt"
+    },
+    {
+      "title": "Fünf Menschen in Trier getötet : Amok-Fahrer soll lebenslang hinter Gitter",
+      "teaser": "Der Prozess um Amok-Fahrer Bernd W. geht weiter – mit dem Plädoyer der Staatsanwaltschaft.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/trier-5-menschen-getoetet-amok-fahrer-soll-lebenslang-hinter-gitter-80706172.bild.html",
+      "image_title": "Trier: 5 Menschen getötet – Amok-Fahrer soll lebenslang hinter Gitter"
+    },
+    {
+      "title": "Ein Jahr nach der Jahrhundertkatastrophe : Das sagte Steinmeier den Flutopfern im Ahrtal",
+      "teaser": "Am ersten Jahrestag der Ahr-Flut erinnerte der Bundespräsident an die 135 Todesopfer.",
+      "url": "https://www.bild.de/news/inland/news-inland/1-jahr-nach-der-jahrhundertkatastrophe-das-sagte-steinmeier-den-flutopfern-im-ah-80702356.bild.html",
+      "image_title": "Ein Jahr nach der Jahrhundertkatastrophe: Das sagte Steinmeier den Flutopfern im Ahrtal"
+    },
+    {
+      "title": "20 Tonnen Milch ausgelaufen : Milchlaster kracht durch Leitplanke",
+      "teaser": "Ein Milchlaster verunglückte auf der A4. Die Milch ist futsch, der Fahrer verletzt.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/milchlaster-auf-a4-bei-pulsnitz-verunglueckt-laster-kracht-durch-leitplanke-80707228.bild.html",
+      "image_title": "Milchlaster auf A4 bei Pulsnitz verunglückt: Laster kracht durch Leitplanke"
+    },
+    {
+      "title": "Dancing-Queen beim CSD : Diese Kölner Polizistin begeistert Millionen",
+      "url": "https://www.bild.de/video/clip/video/dancing-queen-beim-csd-diese-koelner-polizistin-begeistert-millionen-80703048.bild.html",
+      "image_title": "Dancing-Queen beim CSD: Diese Kölner Polizistin begeistert Millionen"
+    },
+    {
+      "title": "Überraschung am Straßenrand : Hüpft ein Känguru durch Bayern ...",
+      "url": "https://www.bild.de/video/clip/video/ueberraschung-am-strassenrand-huepft-ein-kaenguru-durch-bayern-80693410.bild.html",
+      "image_title": "Überraschung am Straßenrand: Hüpft ein Känguru durch Bayern ..."
+    },
+    {
+      "title": "Wird DSDS wirklich eingestellt? : „RTL würde JA zu weiteren Staffeln sagen, wenn ...“",
+      "url": "https://www.bild.de/video/clip/video/wird-dsds-wirklich-eingestellt-rtl-wuerde-ja-zu-weiteren-staffeln-sagen-wenn-80697146.bild.html",
+      "image_title": "Wird DSDS wirklich eingestellt?: „RTL würde JA zu weiteren Staffeln sagen, wenn ...“"
+    }
+  ]
 }
