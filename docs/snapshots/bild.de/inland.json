@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-07-19T02:23:24",
+  "timestamp": "2022-07-19T04:23:21",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +25,211 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.c0fa74f3.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.60f496ec.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.8a5a51f8.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Polizei-Ermittlungen in Sachsen : Bastei-Feuer durch Brandstiftung ausgelöst!",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/waldbrand-in-sachsen-feuer-im-nationalpark-saechsische-schweiz-80732960.bild.html",
+      "image_url": "https://images.bild.de/62d5002bfb5b4c19ea710fba/204ba32f86cb3b99d66dbe634710d748,f9edd9c3?w=320",
+      "image_title": "Sachsen – Polizei ermittelt: Bastei-Feuer durch Brandstiftung ausgelöst!"
+    },
+    {
+      "title": "1 Million Euro Schaden : Fünf Reihenhäuser an der Ostsee in Flammen",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/1-million-euro-schaden-in-selmsdorf-5-reihenhaeuser-in-flammen-80696004.bild.html",
+      "image_url": "https://images.bild.de/62cfd23b094df92f2ff12fc6/1e4478b96c3c3683060bf101fa78bf00,5b2c534?w=320",
+      "image_title": "Großbrand: Fünf Reihenhäuser an der Ostsee in Flammen"
+    },
+    {
+      "title": "Innere Sicherheit in Gefahr : Verfassungsschutz-Chef warnt vor Querdenker-Demos",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/innere-sicherheit-verfassungsschutz-chef-warnt-vor-querdenker-demos-80738370.bild.html",
+      "image_url": "https://images.bild.de/62d56e4b7c5e8a0ea39ea3ca/235d24e5033dd5a0b8d013dc2ed4d888-miniSquare,dad06a21?w=320",
+      "image_title": "Innere Sicherheit: Verfassungsschutz-Chef warnt vor Querdenker-Demos"
+    },
+    {
+      "title": "Und das nur in Deutschland : Klimakrise! 145 Mrd. Euro Schäden – Tausende Tote",
+      "url": "https://www.bild.de/news/inland/news-inland/klimakrise-145-milliarden-euro-schaeden-tausende-tote-80736460.bild.html",
+      "image_title": "Klimakrise! 145 Milliarden Euro Schäden – Tausende Tote"
+    },
+    {
+      "title": "Hakenkreuze, Runen, Rassen-Parolen : Persischer Arzt lasert Neonazis ihre Sünden weg",
+      "teaser": "Wer seine Nazi-Tattoos loswerden will, muss Dr. Afschin Fatemi erklären, warum.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/hakenkreuz-tattoos-persischer-arzt-lasert-neonazis-suenden-weg-80557710.bild.html",
+      "image_title": "Hakenkreuz-Tattoos: Persischer Arzt lasert Neonazis Sünden weg"
+    },
+    {
+      "title": "Mann (34) tot geprügelt : Tatverdächtige nach Attacke in Hoyerstraße gefasst",
+      "teaser": "Nachdem ein Mann nach einem Prügelangriff starb, wurden nun vier Tatverdächtige verhaftet.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-mann-in-hoyerstrasse-tot-gepruegelt-tatverdaechtige-verhaftet-80734760.bild.html",
+      "image_title": "Leipzig: Mann in Hoyerstraße tot geprügelt – Tatverdächtige verhaftet"
+    },
+    {
+      "title": "Friedi Kühne holt 14 Weltrekorde : ER ist der beste Seiltänzer der Welt",
+      "teaser": "Kühne ist der beste Seiltänzer der Welt. 14 Weltrekorde gehen auf sein Konto.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/friedi-kuehne-holt-14-weltrekorde-er-ist-der-beste-seiltaenzer-der-welt-80728422.bild.html",
+      "image_title": "14 Weltrekorde! Friedi Kühne ist der beste Seiltänzer der Welt"
+    },
+    {
+      "title": "Corona-Ausbruch vertuscht? : Mehrere Infizierte –Amt stoppt Ferienlager",
+      "teaser": "In einem Ferienlager infizierten sich mehrer Kinder und Betreuer. Jetzt ist Schluss damit!",
+      "url": "https://www.bild.de/news/inland/news-inland/corona-ausbruch-vertuscht-20-kinder-und-betreuer-infiziert-amt-stoppt-ferienlage-80727640.bild.html",
+      "image_title": "Corona-Ausbruch vertuscht?: Amt stoppt Ferienlager"
+    },
+    {
+      "title": "3600 Euro im Monat : Mietwucher bei Flüchtlingswohnungen?",
+      "teaser": "Hamburgs Senat muss hohe Preise für die Unterbringung von ukrainischen Flüchtlingen in den Mundsburg-Hochhäusern zahlen.",
+      "url": "https://www.bild.de/news/inland/news-inland/moegliche-abzocke-im-hochhaus-stadt-zahlt-3600-euro-fuer-fluechtlings-wohnung-80670454.bild.html",
+      "image_title": "3600 Euro im Monat: Mietwucher bei Flüchtlingswohnungen?"
+    },
+    {
+      "title": "Oldtimer zerlegt und zusammengebaut : Ich schraubte aus Schrott ein Goldstück",
+      "teaser": "Wenn Elektriker Bastian Küchler aus Iffezheim zum Einkaufen fährt, drehen sich alle um...",
+      "url": "https://www.bild.de/news/inland/news-inland/oldtimer-restauriert-ich-schraubte-aus-schrott-ein-goldstueck-80719876.bild.html",
+      "image_title": "Oldtimer restauriert: Ich schraubte aus Schrott ein Goldstück"
+    },
+    {
+      "title": "14-Meter-Sturz überlebt! : Schlafwandlerin (18) fällt aus Fenster im 5. Stock",
+      "teaser": "Eine 18-Jährige stürzte aus dem fünften Stock eines Wohnhauses. Sie ist schwer verletzt.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/neubrandenburg-schlafwandlerin-18-stuerzt-aus-fenster-schwer-verletzt-80732302.bild.html",
+      "image_title": "Neubrandenburg: Schlafwandlerin (18) stürzt aus Fenster – schwer verletzt"
+    },
+    {
+      "title": "Staatsanwaltschaft sicher : Hauptkommissar half der Tacho-Mafia – suspendiert!",
+      "teaser": "Ein Chefermittler der Münchner Polizei freundet sich mit einem Kriminellen an.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-hauptkommissar-half-der-tacho-mafia-suspendiert-80724796.bild.html",
+      "image_title": "München: Hauptkommissar half der Tacho-Mafia – suspendiert!"
+    },
+    {
+      "title": "BILD unterwegs mit der Wald-Polizei : Dieses Feuer wird richtig teuer",
+      "teaser": "Hunderttausende machen im Elbsandsteingebirge Urlaub - und das bringt auch Polizei und Nationalpark-Ranger auf Trab.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/bad-schandau-unterwegs-mit-der-wald-polizei-dieses-feuer-wird-richtig-teuer-80727452.bild.html",
+      "image_title": "Bad Schandau: Unterwegs mit der Wald-Polizei – Dieses Feuer wird richtig teuer!"
+    },
+    {
+      "title": "In Coburg : Streunende Kuh verirrt sich in Speisekammer",
+      "teaser": "Eine ausgebüxte Kuh hat sich in Coburg vor der Polizei in einer Speisekammer versteckt.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/in-coburg-streunende-kuh-verirrt-sich-in-speisekammer-80726878.bild.html",
+      "image_title": "In Coburg: Streunende Kuh verirrt sich in Speisekammer"
+    },
+    {
+      "title": "Gleichstellung für lesbische Paare : Ampel plant zügige Regelung für Co-Mutterschaft",
+      "teaser": "Viele Familien fühlten sich „von den derzeitigen Gesetzen nicht ausreichend repräsentiert“",
+      "url": "https://www.bild.de/lgbt/2022/lgbt/lesbische-paare-ampel-plant-zuegige-regelung-fuer-co-mutterschaft-80725416.bild.html",
+      "image_title": "Lesbische Paare: Ampel plant zügige Regelung für Co-Mutterschaft"
+    },
+    {
+      "title": "151 Menschen evakuiert : Brand auf Passagierschiff in Passau",
+      "teaser": "Eine defekte Klimaanlage hat einen Brand auf einem Passagierschiff in Passau verursacht.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/151-menschen-evakuiert-brand-auf-passagierschiff-in-passau-80724206.bild.html",
+      "image_title": "151 Menschen evakuiert: Brand auf Passagierschiff in Passau"
+    },
+    {
+      "title": "Sein Schicksal bricht allen das Herz : Einar (13) hat nur noch einen letzten Wunsch",
+      "teaser": "Der kranke Junge liegt in einer Klinik, wurde von Mitschülern verprügelt.",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/von-mitschuelern-verpruegelt-einar-13-hat-nur-einen-letzten-wunsch-80721814.bild.html",
+      "image_title": "Von Mitschülern verprügelt: Einar (13) hat nur einen letzten Wunsch"
+    },
+    {
+      "title": "Dr. Eder macht die dicksten Dinger : Das ist Deutschlands Penis-Papst",
+      "teaser": "Ist der Penis zu klein, schau bei Dr. Eder rein. Der Beauty-Doc ist der Penis-Papst!",
+      "url": "https://www.bild.de/bild-plus/news/2022/news/muenchen-beauty-doc-maximilian-eder-44-ist-der-deutsche-penis-papst-80633058.bild.html",
+      "image_title": "München: Beauty-Doc Maximilian Eder (44) ist der deutsche Penis-Papst!"
+    },
+    {
+      "title": "6 aus 49 : Die Lottozahlen am Samstag",
+      "teaser": "5 Mio € Lotto-Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 16. Juli 2022",
+      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-16-juli-80685290.bild.html",
+      "image_title": "Lotto am Samstag: Die Lottozahlen vom 16. Juli"
+    },
+    {
+      "title": "Streit mit neun Beteiligten : Mann (21) stirbt nach Messerstecherei",
+      "teaser": "Drei Tage nach einer lebensgefährlichen Messerstecherei ist ein junger Mann gestorben.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/streit-mit-neun-beteiligten-mann-21-stirbt-nach-messerstecherei-80720584.bild.html",
+      "image_title": "Nach Streit in Hannover: Mann (21) stirbt nach Messerstecherei"
+    },
+    {
+      "title": "Crash bei Lübeck : Frau rast in Corona-Testzentrum",
+      "teaser": "Eine Frau ist am Samstagmorgen mit ihrem Ford-SUV in ein Corona-Testzentrum gerast.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/gefaehrliche-irrfahrt-dieser-unfall-haette-viele-todesopfer-fordern-koennen-80720330.bild.html",
+      "image_title": "Crash bei Lübeck: Frau rast in Corona-Testzentrum"
+    },
+    {
+      "title": "Todes-Schüsse von Burghausen : Polizeihund führte „Cobra“ zum Spielhallen-Killer",
+      "teaser": "Spezialeinheiten jagten den Killer von Burghausen. Am Ende fand ihn ein Polizeihund.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/todes-schuesse-von-burghausen-polizeihund-fuehrte-cobra-zum-spielhallen-killer-80708918.bild.html",
+      "image_title": "Mord in Burghausen: Polizeihund führte „Cobra“ zum Spielhallen-Killer"
+    },
+    {
+      "title": "Bildhauerin : Diese starke Schwäbin ist Miss Handwerk",
+      "teaser": "Luisa Lüttig (23) aus Göppingen schafft schon seit acht Jahren als Steinmetz.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/bildhauerin-diese-starke-schwaebin-ist-miss-handwerk-80713834.bild.html",
+      "image_title": "Bildhauerin: Diese starke Schwäbin ist Miss Handwerk"
+    },
+    {
+      "title": "Neuer Orang-Utan-Mann im Zoo Münster : Ramon soll mit Mandi glücklich werden",
+      "url": "https://www.bild.de/video/clip/video/zoo-muenster-neuer-orang-utan-ramon-soll-fuer-nachwuchs-sorgen-80740824.bild.html",
+      "image_title": "Zoo Münster: Neuer Orang-Utan Ramon soll für Nachwuchs sorgen"
+    },
+    {
+      "title": "Dancing-Queen beim CSD : Diese Kölner Polizistin begeistert Millionen",
+      "url": "https://www.bild.de/video/clip/video/dancing-queen-beim-csd-diese-koelner-polizistin-begeistert-millionen-80703048.bild.html",
+      "image_title": "Dancing-Queen beim CSD: Diese Kölner Polizistin begeistert Millionen"
+    },
+    {
+      "title": "Überraschung am Straßenrand : Hüpft ein Känguru durch Bayern ...",
+      "url": "https://www.bild.de/video/clip/video/ueberraschung-am-strassenrand-huepft-ein-kaenguru-durch-bayern-80693410.bild.html",
+      "image_title": "Überraschung am Straßenrand: Hüpft ein Känguru durch Bayern ..."
+    }
+  ]
 }
