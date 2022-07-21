@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-21T07:19:19",
+  "timestamp": "2022-07-21T08:27:14",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -122,16 +128,24 @@
   ],
   "articles": [
     {
-      "title": "Draghi bietet erneut seinen Rücktritt an",
-      "teaser": "Da drei Koalitionsparteien der Vertrauensabstimmung fernbleiben, macht der italienische Regierungschef seine Ankündigung wahr: Er lässt Staatspräsident Mattarella wissen, dass er sein Amt niederlegen will.",
-      "url": "https://www.sueddeutsche.de/politik/italien-regierung-draghi-ruecktritt-1.5625142"
+      "title": "Mattarella nimmt Draghis Rücktritt an",
+      "teaser": "Der Ministerpräsident soll aber übergangsweise weiterregieren. Neuwahlen sind nun wahrscheinlich geworden. Sie könnten im Oktober stattfinden.",
+      "url": "https://www.sueddeutsche.de/politik/italien-regierung-draghi-ruecktritt-1.5625142",
+      "author": "Oliver Klasen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625158/1000x420"
+    },
+    {
+      "title": "Italien ist gefangen von seinen alten Dämonen",
+      "teaser": "Der parteilose Premier Draghi steht vor dem Aus - es wäre ein kolossaler Verlust für Italien. Das Land droht in der Ungewissheit zu versinken.",
+      "url": "https://www.sueddeutsche.de/meinung/italien-draghi-regierungskrise-1.5625100",
+      "author": "Kommentar von Oliver Meiler"
     },
     {
       "title": "Die russische Kriegswirtschaft ist überraschend stark",
       "teaser": "Einnahmen aus dem Rohstoffexport helfen dem Kreml, er profitiert sogar finanziell vom Krieg gegen die Ukraine. Hält Putin am Ende länger durch als die westlichen Demokratien?",
       "url": "https://www.sueddeutsche.de/wirtschaft/sanktionen-russland-wirtschaft-1.5624602",
       "author": "Jan Diesteldorf, Frankfurt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624604/1000x420",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624604/600x337",
       "image_title": "Russland: Spaziergänger am Roten Platz in Moskau"
     },
     {
@@ -140,13 +154,6 @@
       "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-gas-nord-stream-1.5621625",
       "author": "Alle Entwicklungen im Liveblog",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5625111/208x156"
-    },
-    {
-      "title": "Italien ist gefangen von seinen alten Dämonen",
-      "teaser": "Der parteilose Premier Draghi steht vor dem Aus - es wäre ein kolossaler Verlust für Italien. Das Land droht in der Ungewissheit zu versinken.",
-      "url": "https://www.sueddeutsche.de/meinung/italien-draghi-regierungskrise-1.5625100",
-      "author": "Kommentar von Oliver Meiler",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625106/290x163"
     },
     {
       "title": "\"Und plötzlich hat man die Hand am Hintern\"",
@@ -158,55 +165,45 @@
     {
       "title": "Ansichten eines Clowns",
       "teaser": "Russlands Botschaft in Bern droht der NZZ nach dem Abdruck einer Putin-Karikatur. Es ist nicht das erste Mal, dass sie Medien anprangert. Doch hinter diesem Meme steckt eine besondere Geschichte.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/putin-meme-russische-botschaft-in-der-schweiz-droht-nzz-mit-anzeige-e066472/",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/medien/putin-meme-russische-botschaft-in-der-schweiz-droht-nzz-mit-anzeige-e066472/",
       "author": "Anna Ernst",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5625054/600x337"
     },
     {
-      "title": "\"Hasta la vista, baby!\"",
-      "teaser": "Das Leben, ein Schauspiel, so war das immer bei Boris Johnson. Auch die Suche nach seinem Nachfolger ist ein einziges Theater. Zum Schluss gibt's noch ein Best-of falscher Behauptungen. Na dann, Vorhang zu.",
-      "url": "https://www.sueddeutsche.de/politik/london-brexit-sunak-johnson-truss-1.5625080",
-      "author": "Michael Neudecker, London",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625083/208x156"
+      "title": "EZB-Rat entscheidet über Zinserhöhung",
+      "teaser": "Wird es ein viertel oder doch ein halber Prozentpunkt? Die Notenbanker stehen angesichts einer Rekordinflation gewaltig unter Druck. Kurz nach 14 Uhr soll die Entscheidung verkündet werden.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/ezb-inflation-leitzins-1.5625139",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5611149/208x156"
     },
     {
-      "title": "Gericht erlaubt Herzschlag-Gesetz in Georgia",
-      "teaser": "Es könne sofort in Kraft treten, urteilen die Richter, und berufen sich auf die umstrittene Entscheidung des Obersten Gerichtshofs. In den meisten Fällen dürften Frauen mit dem Gesetz schon nach wenigen Wochen nicht mehr abtreiben.",
-      "url": "https://www.sueddeutsche.de/politik/usa-abtreibung-georgia-1.5625109",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625110/208x156"
+      "title": "Hartz IV und die Leiden der SPD",
+      "teaser": "Das Bürgergeld soll kommen und das verhasste Regelwerk ersetzen, das Gerhard Schröder einst schuf. Aber es braucht mehr als nur neue Paragrafen.",
+      "url": "https://www.sueddeutsche.de/meinung/hartz-iv-arbeitsminister-hubertus-heil-arbeitsvermittlung-buergergeld-jobcenter-1.5624948",
+      "author": "Kommentar von Roland Preuß",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.2769199/290x163"
     },
     {
-      "title": "Hitzewelle in Europa",
-      "url": "https://www.sueddeutsche.de/thema/Wetter"
+      "title": "Muss die Universität in Tübingen umbenannt werden?",
+      "teaser": "Studierende wollen die Eberhard-Karls-Universität umbenennen. Die Namenspatrone der Hochschule sind zuletzt ziemlich in Verruf geraten. Wieder geht es um die Frage: Sind Helden der Vergangenheit in der Gegenwart noch akzeptabel?",
+      "url": "https://www.sueddeutsche.de/politik/tuebingen-eberhard-karls-universitaet-name-1.5625012",
+      "author": "Max Ferstl, Stuttgart",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625013/208x156"
     },
     {
       "title": "Deutschland kühlt ab",
       "teaser": "Nach dem heißesten Tag des Jahres gewittert es in einigen Regionen und die Temperaturen sinken. Aber das wird wohl nicht lange so bleiben. Das Umweltbundesamt dringt darauf, die Städte besser gegen hohe Temperaturen und auch gegen Starkregen zu wappnen.",
       "url": "https://www.sueddeutsche.de/panorama/hitze-europa-deutschland-wetter-1.5619480",
       "author": "Alle Entwicklungen im Überblick",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625114/600x337",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625114/208x156",
       "image_title": "Hitze in Großbritannien"
     },
     {
-      "title": "\"Die Kranken fühlen sich nun noch kränker\"",
-      "teaser": "Sie vergessen zu trinken, sie können kaum schlafen, sie sitzen zu lang in der Sonne: Wer wissen will, wie wenig der Mensch für Extremtemperaturen gemacht ist, muss zu den Alten gehen. Ein Tag bei 39 Grad im Kölner Seniorenheim St. Maria.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/panorama/hitzewelle-wie-ein-altenheim-in-koeln-mit-der-waerme-umgeht-e052923/",
-      "author": "Marcel Laskus",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625067/208x156",
-      "image_title": "Sozialministerin besucht Alten- und Pflegeheim"
-    },
-    {
-      "title": "Tesla verdoppelt Gewinn und verspricht Rekord-Halbjahr",
-      "teaser": "Lockdowns in China, Materialmangel, Chaos in den globalen Lieferketten und hohe Kosten - eigentlich hat Tesla jede Menge Probleme. Trotzdem verdient der E-Auto-Pionier glänzend.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/tesla-bilanz-gewinn-bitcoins-1.5625104",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625105/208x156"
-    },
-    {
-      "title": "\"Manche sind verwundert, dass wir sprechen können\"",
-      "teaser": "Die Aufseher in Museen werden von Besuchern meist nicht beachtet, sie stehen halt da und passen auf. In Berlin präsentieren sie jetzt Lieblingswerke. Ein Augenöffner.",
-      "url": "https://www.sueddeutsche.de/politik/museum-kunst-berlin-pergamonmuseum-1.5624628",
-      "author": "Renate Meinhof, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624630/600x337"
+      "title": "Läuft nicht mehr",
+      "teaser": "Die Weltmeisterschaften in Eugene sollten für Konstanze Klosterhalfen Heimspiel und Comeback sein. Nach dem Vorlauf-Aus über 5000 Meter hinterlässt die 25-Jährige mehr Fragen als Antworten: zu ihrer Form und zu ihrem Umfeld.",
+      "url": "https://www.sueddeutsche.de/sport/klosterhalfen-5000-meter-eugene-1.5625149",
+      "author": "Johannes Knuth, Eugene",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625150/600x337",
+      "image_title": "Konstanze Klosterhalfen"
     },
     {
       "title": "De Ligt und Mané treffen bei Debüt auf USA-Reise",
@@ -216,12 +213,11 @@
       "image_title": "Matthijs de Ligt"
     },
     {
-      "title": "Läuft nicht mehr",
-      "teaser": "Die Weltmeisterschaften in Eugene sollten für Konstanze Klosterhalfen Heimspiel und Comeback sein. Nach dem Vorlauf-Aus über 5000 Meter hinterlässt die 25-Jährige mehr Fragen als Antworten: zu ihrer Form und zu ihrem Umfeld.",
-      "url": "https://www.sueddeutsche.de/sport/klosterhalfen-5000-meter-eugene-1.5625149",
-      "author": "Johannes Knuth, Eugene",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625150/208x156",
-      "image_title": "Konstanze Klosterhalfen"
+      "title": "\"Manche sind verwundert, dass wir sprechen können\"",
+      "teaser": "Die Aufseher in Museen werden von Besuchern meist nicht beachtet, sie stehen halt da und passen auf. In Berlin präsentieren sie jetzt Lieblingswerke. Ein Augenöffner.",
+      "url": "https://www.sueddeutsche.de/politik/museum-kunst-berlin-pergamonmuseum-1.5624628",
+      "author": "Renate Meinhof, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624630/600x337"
     },
     {
       "title": "\"Es gibt keine einfachen Antworten\"",
@@ -229,6 +225,13 @@
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-barbara-mundel-kammerspiele-intendantin-publikum-interview-1.5623373",
       "author": "Interview von Yvonne Poppek, München",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5623374/208x156"
+    },
+    {
+      "title": "Eiszeit für Hollywood",
+      "teaser": "In der Goldgräberstadt Dawson City lag jahrzehntelang ein vergessener Filmschatz, versteckt unter einem Eishockeyfeld.",
+      "url": "https://www.sueddeutsche.de/leben/dawson-film-find-film-yukon-kanada-kino-1.5621383",
+      "author": "Sofia Glasl",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5621384/208x156"
     },
     {
       "title": "Qualverwandtschaften",
@@ -253,11 +256,11 @@
       "image_title": "Besuch im Iran: Wladimir Putin, Ebrahim Raisi und Recep Tayyip Erdoğan 2022 in Teheran"
     },
     {
-      "title": "Soll die Großmarkthalle an den Stadtrand ziehen?",
-      "teaser": "Wirtschaftsreferent Clemens Baumgärtner hält das geplante Großprojekt im Zentrum der Stadt für zu teuer und und spricht sich für einen alternativen Standort aus. Auf dem Gelände in Sendling könnten dafür mehr bezahlbare Wohnungen entstehen.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-sendling-grossmarkthalle-stadtrand-umzug-1.5624660",
-      "author": "Sebastian Krass",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5572710/208x156"
+      "title": "Was von der Olympia-Euphorie in Afrika geblieben ist",
+      "teaser": "Von keinem anderen Kontinent kommen 1972 so viele Olympia-Neulinge nach München wie aus Afrika. Doch heute bremst die Korruption die Staaten aus. Und die Athleten leiden unter der Inkompetenz und Lethargie ihrer Funktionäre.",
+      "url": "https://www.sueddeutsche.de/muenchen/olympia-muenchen-72-afrika-1.5608649",
+      "author": "Bernd Dörries, Kapstadt",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5609100/208x156"
     },
     {
       "title": "Null Service ab 110 Euro die Nacht",
@@ -267,10 +270,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5625076/208x156"
     },
     {
-      "title": "Spontane Gewaltausbrüche am Münchner Hauptbahnhof",
-      "teaser": "Ein junger Erwachsener rutscht ins Drogenmilieu ab - und greift mehrere Menschen brutal an. Beim Prozess am Landgericht zeigt er sich reuig.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-bahnhofsviertel-prozess-drogen-gewalt-1.5624886",
-      "author": "Andreas Salch"
+      "title": "Soll die Großmarkthalle an den Stadtrand ziehen?",
+      "teaser": "Wirtschaftsreferent Clemens Baumgärtner hält das geplante Großprojekt im Zentrum der Stadt für zu teuer und und spricht sich für einen alternativen Standort aus. Auf dem Gelände in Sendling könnten dafür mehr bezahlbare Wohnungen entstehen.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-grossmarkthalle-umzug-1.5624660",
+      "author": "Sebastian Krass",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5572710/208x156"
     },
     {
       "title": "Unterwegs mit Theaterintendant Andreas Beck",
@@ -307,23 +311,34 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.4229815/208x156"
     },
     {
-      "title": "Landtag debattiert über Hochschulreform",
-      "teaser": "Vor der Sommerpause soll das Hochschulinnovationsgesetz verabschiedet werden. Es soll helfen, die Wissenschaftslandschaft in Bayern zukunftsfest aufzustellen. Auch die zweite Stammstrecke in München soll Thema sein.",
-      "url": "https://www.sueddeutsche.de/bayern/muenchen-landtag-hochschulreform-debatte-1.5625131",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5562960/208x156"
+      "title": "Kreis Wunsiedel mit Inzidenz über 3000",
+      "teaser": "Erstmals seit Mitte April hat ein Landkreis in Bayern die Marke übertroffen und weist auch bundesweit die höchste Inzidenz auf. Die Intensivstationen sind recht voll - allerdings nicht mit Covid-19-Patienten.",
+      "url": "https://www.sueddeutsche.de/bayern/corona-bayern-aktuell-inzidenz-wunsiedel-3000-1.5560203",
+      "author": "Alle Entwicklungen im Überblick",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5618184/208x156",
+      "image_title": "Coronavirus - Dresden"
     },
     {
-      "title": "Nachrichten des Tages - die Übersicht für Eilige",
-      "teaser": "Was wichtig ist und wird.",
-      "url": "https://www.sueddeutsche.de/politik/news-ukraine-corona-italien-gas-fussball-1.5625116",
-      "author": "Kassian Stroh",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625096/208x156"
+      "title": "Was Putins Truppen in Schwierigkeiten bringt",
+      "teaser": "Die Ukrainer konnten der russischen Feuerkraft lange wenig entgegensetzen. Doch Mehrfachraketenwerfer und andere Artilleriesysteme ermöglichen eine ganz neue Taktik. Wie verändert das den Krieg?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/welche-auswirkungen-die-mehrfachraketenwerfer-auf-den-krieg-haben-e653880/",
+      "author": "Sebastian Gierke und Sead Mujic (Infografik)",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5622230/208x156",
+      "image_title": "Himares Ukraine"
     },
     {
-      "title": "Unterhaus stimmt für umstrittenen Gesetzentwurf zu Nordirland",
-      "teaser": "Im Oberhaus wird der Entwurf wohl auf deutlicheren Widerstand stoßen. Sollte sich die Regierung mit ihren Plänen durchsetzen, dürfte es zu schweren Verwerfungen mit Brüssel kommen.",
-      "url": "https://www.sueddeutsche.de/politik/brexit-nordirland-grossbritannien-1.5625107",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625108/208x156"
+      "title": "Gericht erlaubt Herzschlag-Gesetz in Georgia",
+      "teaser": "Es könne sofort in Kraft treten, urteilen die Richter, und berufen sich auf die umstrittene Entscheidung des Obersten Gerichtshofs. In den meisten Fällen dürften Frauen mit dem Gesetz schon nach wenigen Wochen nicht mehr abtreiben.",
+      "url": "https://www.sueddeutsche.de/politik/usa-abtreibung-georgia-1.5625109",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625110/208x156"
+    },
+    {
+      "title": "\"Die Kranken fühlen sich nun noch kränker\"",
+      "teaser": "Sie vergessen zu trinken, sie können kaum schlafen, sie sitzen zu lang in der Sonne: Wer wissen will, wie wenig der Mensch für Extremtemperaturen gemacht ist, muss zu den Alten gehen. Ein Tag bei 39 Grad im Kölner Seniorenheim St. Maria.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/panorama/hitzewelle-wie-ein-altenheim-in-koeln-mit-der-waerme-umgeht-e052923/",
+      "author": "Marcel Laskus",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625067/208x156",
+      "image_title": "Sozialministerin besucht Alten- und Pflegeheim"
     },
     {
       "title": "Liegt ein Walross im Garten",
@@ -339,11 +354,10 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5475677/208x156"
     },
     {
-      "title": "Stubentigerarrest",
-      "teaser": "Ausgangssperre und elektronische Pfotenfesseln: Die Stadt Walldorf will Katzen davon abhalten, die vom Aussterben bedrohte Haubenlerche zu jagen. Nun streiten Tierfreunde darüber, was wichtiger ist: Vogelschutz oder Freiheit für Hauskatzen?",
-      "url": "https://www.sueddeutsche.de/panorama/tierschutz-katzen-haubenlerche-walldorf-vogelschutz-1.5623821",
-      "author": "Titus Arnu",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5623824/208x156"
+      "title": "Tesla verdoppelt Gewinn und verspricht Rekord-Halbjahr",
+      "teaser": "Lockdowns in China, Materialmangel, Chaos in den globalen Lieferketten und hohe Kosten - eigentlich hat Tesla jede Menge Probleme. Trotzdem verdient der E-Auto-Pionier glänzend.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/tesla-bilanz-gewinn-bitcoins-1.5625104",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625105/208x156"
     },
     {
       "title": "Vor EZB-Entscheidung: Wie höhere Zinsen wirken",
@@ -360,18 +374,19 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5624913/208x156"
     },
     {
-      "title": "Der Bund muss jetzt hart verhandeln",
-      "teaser": "Die Rettung von Uniper ist notwendig, aber schwierig. Der Fall Lufthansa war im Vergleich dazu einfach. Die Bundesregierung muss jetzt klare Bedingungen nennen und durchbringen.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/uniper-staatshilfe-gaskrise-russland-1.5624732",
-      "author": "Kommentar von Caspar Busse",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624733/208x156"
-    },
-    {
       "title": "Vor EZB-Entscheidung: Wie höhere Zinsen wirken",
       "teaser": "Die Europäische Zentralbank wird die Leitzinsen erhöhen. Die Finanzierung von Immobilien wird erschwert, aber sinkt dadurch auch die Inflation?",
       "url": "https://www.sueddeutsche.de/wirtschaft/podcast-nachrichten-ezb-leitzins-1.5624975",
       "author": "Markus Zydra und Lars Langenau",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5605764/208x156"
+    },
+    {
+      "title": "Nach der Flut: Wie es im Ahrtal weitergeht",
+      "teaser": "Die Flutkatastrophe vor einem Jahr hat ganze Regionen zerstört. Der Wiederaufbau sollte \"schnell und unbürokratisch\" laufen - aber klappt das?",
+      "url": "https://www.sueddeutsche.de/politik/sz-podcast-das-thema-nach-der-flut-wie-es-im-ahrtal-weitergeht-1.5625153",
+      "author": "Gianna Niewel und Laura Terberl",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.3820866/208x156",
+      "image_title": "SZ-Podcast Das Thema Logo"
     },
     {
       "title": "Unterwegs mit Theaterintendant Andreas Beck",
@@ -426,10 +441,12 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5624736/208x156"
     },
     {
-      "title": "England erreicht das Halbfinale",
-      "teaser": "Die Gastgeberinnen retten sich gegen Spanien spät in die Verlängerung. Dort erzielt eine Spielerin vom FC Bayern den entscheidenden Treffer.",
-      "url": "https://www.sueddeutsche.de/sport/frauen-em-england-spanien-georgia-stanway-1.5625101",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625102/208x156"
+      "title": "Gepunkteter Kämpfer am Berg",
+      "teaser": "Simon Geschke ist eher kein Spezialist fürs Gebirge, trägt bei der Tour aber das Trikot des besten Kletterers. Als erster Deutscher könnte er es bis nach Paris verteidigen - davor liegt aber noch eine letzte schwere Pyrenäen-Etappe.",
+      "url": "https://www.sueddeutsche.de/sport/geschke-bergtrikot-tour-de-france-1.5624796",
+      "author": "Johannes Aumüller, Loudenvielle/Saint-Gaudens",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625159/208x156",
+      "image_title": "Simon Geschke"
     },
     {
       "title": "Zwei Radfahrer in einer eigenen Welt",
@@ -439,11 +456,10 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5625078/208x156"
     },
     {
-      "title": "Es ist zum Mäuse-Melken",
-      "teaser": "Um das NFL-Gastspiel in München gibt es Ärger: Wegen der riesigen Nachfrage werden im Vorverkauf erworbene Tickets nun für 3000 Euro angeboten. Der Liga ist der Unmut vieler Football-Fans einerlei - ihr kann der Rummel nur recht sein.",
-      "url": "https://www.sueddeutsche.de/sport/tickets-nfl-muenchen-karten-seahawks-buccaneers-brady-1.5624871",
-      "author": "Kommentar von Christoph Leischwitz",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624872/208x156"
+      "title": "England erreicht das Halbfinale",
+      "teaser": "Die Gastgeberinnen retten sich gegen Spanien spät in die Verlängerung. Dort erzielt eine Spielerin vom FC Bayern den entscheidenden Treffer.",
+      "url": "https://www.sueddeutsche.de/sport/frauen-em-england-spanien-georgia-stanway-1.5625101",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5625102/208x156"
     },
     {
       "title": "Wenn die Atomkraftwerke weiter laufen",
