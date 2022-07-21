@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-21T10:25:51",
+  "timestamp": "2022-07-21T11:18:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Schadcode-Attacken-mit-Root-Rechten-auf-Cisco-Nexus-Dashboard-moeglich-7185582.html"
+    },
+    {
       "title": "Atlassian Confluence",
       "url": "https://www.heise.de/news/Nutzer-Account-mit-Standard-Passwort-gefaehrdet-Atlassian-Confluence-7185469.html"
     },
@@ -44,13 +48,30 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Oracle-sichert-seine-Produkte-mit-349-Updates-ab-7184179.html"
     },
     {
-      "title": "Juniper",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Juniper-Software-mit-Schadcode-attackieren-7183158.html"
+      "title": "iX-Workshop zur IT-Sicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+      "teaser": "Dank der Analyse aktueller Angriffstechniken die Anfälligkeit der eigenen IT und die Effektivität von Schutzmaßnahmen besser bewerten lernen. Rabatt bis 4.8.",
+      "url": "https://www.heise.de/news/iX-Workshop-zur-IT-Sicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-7183322.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
+    },
+    {
+      "title": "Pegasus-Spyware: Apple schickt Warnungen an Menschen in 150 Ländern",
+      "teaser": "Das Problem mit der Spionage durch Pegasus & Co. ist größer als bisher angenommen. Zuletzt waren 30 Demokratie-Aktivisten in Thailand betroffen.",
+      "url": "https://www.heise.de/news/Pegasus-Spyware-Apple-schickt-Warnungen-an-Menschen-in-150-Laendern-7185161.html"
+    },
+    {
+      "title": "Schadcode-Attacken mit Root-Rechten auf Cisco Nexus Dashboard möglich",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für Hard- und Software vom Netzwerkausrüster Cisco.",
+      "url": "https://www.heise.de/news/Schadcode-Attacken-mit-Root-Rechten-auf-Cisco-Nexus-Dashboard-moeglich-7185582.html"
     },
     {
       "title": "Neopets: 69 Millionen Nutzerdaten und Quellcode erbeutet, Hacker noch im System",
       "teaser": "Das vor 20 Jahren immens populäre Onlinespiel Neopets gibt es noch. Jetzt wurden wohl alle Nutzerdaten abgegriffen und der Quelltext erbeutet.",
       "url": "https://www.heise.de/news/Neopets-69-Millionen-Nutzerdaten-und-Quellcode-erbeutet-Hacker-noch-im-System-7185551.html"
+    },
+    {
+      "title": "Warum nur eine ganzheitliche Risikobewertung Unternehmen schützt",
+      "teaser": "Schwachstellen, Compliance-Probleme, der aktuelle Status von Patches und aktuelle Bedrohungen: Viele Unternehmen können ihr Cyber-Risiko nicht umfassend und systematisch bewerten – und das, obwohl sie tausende Endpunkte besitzen. Doch die kennen sie oft nicht. Eine datengesteuerte, proaktive Risikoanalyse in Echtzeit ist essenziell, um die IT-Infrastruktur zu schützen.",
+      "url": "https://www.heise.de/solutions/tanium/warum-nur-eine-ganzheitliche-risikobewertung-unternehmen-schuetzt/?source=nat_teas"
     },
     {
       "title": "Sicherheitsupdates: Root-Lücke bedroht Zyxel-Firewalls",
@@ -67,11 +88,6 @@
       "title": "Sicherheitslücken in GPS-Tracker von MiCODUS können Menschenleben gefährden",
       "teaser": "Sicherheitsforscher warnen davor, dass Angreifer unter anderem PKWs der Regierung aus der Ferne stoppen könnten. Sicherheitspatches gibt es bislang nicht.",
       "url": "https://www.heise.de/news/Bericht-Sicherheitsluecken-in-GPS-Tracker-koennen-Menschenleben-gefaehrden-7184324.html"
-    },
-    {
-      "title": "Warum nur eine ganzheitliche Risikobewertung Unternehmen schützt",
-      "teaser": "Schwachstellen, Compliance-Probleme, der aktuelle Status von Patches und aktuelle Bedrohungen: Viele Unternehmen können ihr Cyber-Risiko nicht umfassend und systematisch bewerten – und das, obwohl sie tausende Endpunkte besitzen. Doch die kennen sie oft nicht. Eine datengesteuerte, proaktive Risikoanalyse in Echtzeit ist essenziell, um die IT-Infrastruktur zu schützen.",
-      "url": "https://www.heise.de/solutions/tanium/warum-nur-eine-ganzheitliche-risikobewertung-unternehmen-schuetzt/?source=nat_teas"
     },
     {
       "title": "Jetzt patchen! Oracle sichert seine Produkte mit 349 Updates ab",
@@ -142,21 +158,6 @@
       "teaser": "In VMwares vCenter Server und der Cloud Foundation klafft eine Sicherheitslücke in der Integrated Windows Authentication. Nun gibt es ein Software-Update.",
       "url": "https://www.heise.de/news/Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-zum-Teil-abgedichtet-7179181.html",
       "image_title": "Aufmacher Teil-Sicherheitsupdate VMware vCenter Server&Cloud Foundation"
-    },
-    {
-      "title": "iCloud-Account von US-Präsidentensohn Hunter Biden offenbar gehackt",
-      "teaser": "Hunter Bidens Fotos, Kommunikation und andere Daten aus Apple-Diensten sind wohl im Internet. Der Secret Service ist informiert.",
-      "url": "https://www.heise.de/news/iCloud-Account-von-Praesidentensohn-offenbar-gehackt-7178586.html"
-    },
-    {
-      "title": "Linux-Installation auf manchen Windows-11-Notebooks etwas erschwert",
-      "teaser": "Einige der sogenannten „Secured-Core PCs“ mit stärker gegen Manipulation geschützter Firmware booten in Standardkonfiguration nur Windows 11.",
-      "url": "https://www.heise.de/news/Linux-Installation-auf-manchen-Windows-11-Notebooks-etwas-erschwert-7178734.html"
-    },
-    {
-      "title": "Open-Source-Tool von Microsoft erstellt \"Software Bill of Materials\"",
-      "teaser": "Das SBOM-Tool Salus listet alle Komponenten und Dependencies von Projekten auf, um potenzielle Schwachstellen in der Software Supply Chain aufzuspüren.",
-      "url": "https://www.heise.de/news/Open-Source-Tool-von-Microsoft-erstellt-Software-Bill-of-Materials-7177889.html"
     },
     {
       "title": "heise Security Tour 2022",
