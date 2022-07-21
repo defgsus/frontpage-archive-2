@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-21T16:31:14",
+  "timestamp": "2022-07-21T17:24:29",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.73991f95.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.22cef168.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Weil J. K. Rowling transfeindlich sein soll : „Harry Potter“-Kultspiel Quidditch wird umbenannt",
-      "url": "https://www.bild.de/news/ausland/news-ausland/harry-potter-kultspiel-quidditch-wird-wegen-j-k-rowling-umbenannt-80772072.bild.html",
-      "image_url": "https://images.bild.de/62d94a569104261986b7b1b8/6772ddfa3f0755df09492fd9ac6d6c77,d1872b30?w=656",
-      "image_title": "\"Harry Potter\"-Kultspiel Quidditch wird wegen J. K. Rowling umbenannt"
-    },
-    {
-      "title": "Urlaubsparadies Puerto Vallarta (Mexiko) : Krokodil attackiert US-Touristen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/urlaubsparadies-puerto-vallarta-mexiko-krokodil-attackiert-us-touristen-80757646.bild.html",
-      "image_url": "https://images.bild.de/62d7dbbc5445df76f078f3bf/9664f1ad2b753df035e7dd4a5a41b35e,301384ed?w=320",
-      "image_title": "Urlaubsparadies Puerto Vallarta (Mexiko): Krokodil attackiert US-Touristen"
-    },
-    {
-      "title": "Wegen Sauftourismus : Malle macht ACHT Lokale dicht",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-macht-acht-lokale-wegen-sauftourismus-dicht-80764920.bild.html",
-      "image_url": "https://images.bild.de/62d8465d11528f4a61f8af6c/0a2a24c888fdd24737388dfb01d569f4,51e6742e?w=320",
-      "image_title": "Mallorca macht acht Lokale wegen Sauftourismus dicht - Bye-bye Ballermann?"
-    },
-    {
-      "title": "James-Webb-Teleskop : Die Galaxie, die nie ein Mensch zuvor gesehen hat",
-      "url": "https://www.bild.de/ratgeber/wissenschaft/ratgeber/james-webb-teleskop-entdeckt-aeltestes-sternensystem-80766842.bild.html",
-      "image_url": "https://images.bild.de/62d8eec950c4e77506b5f6e2/2ebe1d03592368f4ae00b0f38ebfa281,897a30b7?w=320",
-      "image_title": "James-Webb-Teleskop entdeckt ältestes Sternensystem"
-    },
-    {
-      "title": "Gewinn verdoppelt : Hat Tesla bei seinen Zahlen getrickst?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/gewinn-verdoppelt-hat-tesla-bei-seinen-zahlen-getrickst-80766294.bild.html",
-      "image_url": "https://images.bild.de/62d8780e9d8cf42a6508966c/477c2f43cfd868f43642187a59829fe4,1e6ee966?w=320",
-      "image_title": "Gewinn verdoppelt: Hat Tesla bei seinen Zahlen getrickst?"
-    },
-    {
-      "title": "Mann überfährt Familie, eröffnet Feuer : Kleinkind in den Armen seiner Mutter erschossen!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unfassbare-tat-in-den-usa-kleinkind-in-den-armen-seiner-mutter-erschossen-80766218.bild.html",
-      "image_title": "Unfassbare Tat in den USA: Kleinkind in den Armen seiner Mutter erschossen!"
-    },
-    {
-      "title": "Kritik an Krankenschwester : Ist dieses Outfit wirklich „unpassend“?",
-      "teaser": "Fast 13 Millionen Mal wurde ein Video von Erika Diaz (22) bei TikTok aufgerufen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/krankenschwester-erntet-bei-tiktok-derbe-kritik-fuer-ihren-koerper-80762612.bild.html",
-      "image_title": "Krankenschwester erntet bei TikTok derbe Kritik für ihren Körper"
-    },
-    {
-      "title": "USA : Große Mehrheit für Schutz der Eheöffnung",
-      "teaser": "Das US-Repräsentantenhaus hat für den Schutz der gleichgeschlechtlichen Ehe gestimmt.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/usa-grosse-mehrheit-fuer-schutz-der-eheoeffnung-80761336.bild.html",
-      "image_title": "USA: Große Mehrheit für Schutz der Eheöffnung"
-    },
-    {
-      "title": "Neue Fahndungsfotos : So könnten die Alcatraz-Ausbrecher heute ausehen",
-      "teaser": "Drei Häftlinge verschwandet 1962 von Alcatraz – 60 Jahre später versucht das FBI, die Ausbrecher vielleicht doch noch zu finden!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/neue-fahndungsfotos-so-koennten-die-alcatraz-ausbrecher-heute-ausehen-80496254.bild.html",
-      "image_title": "Neue Fahndungsfotos: So könnten die Alcatraz-Ausbrecher heute ausehen"
-    },
-    {
-      "title": "Drama in New Yorker Richter-Familie : Sohn tötet Mutter und springt nackt aus dem Fenster",
-      "teaser": "Douglas Solomon tötete erst seine Mutter und dann sich selbst.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mord-in-new-york-richter-sohn-erschlaegt-mutter-springt-nackt-aus-dem-fenster-80756698.bild.html",
-      "image_title": "Mord in New York: Richter-Sohn erschlägt Mutter, springt nackt aus dem Fenster"
-    },
-    {
-      "title": "Spanier (53) wollte sein Dorf retten : Angel, der aus dem Feuer kam",
-      "teaser": "In Spanien heißt er „Held von Tábara“. Der Mann, der wie durch ein Wunder dem Feuer entkam.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/spanien-braende-angel-martin-ballestero-ist-der-held-von-tbara-80755210.bild.html",
-      "image_title": "Spanien-Brände: Angel Martin Ballestero ist der „Held von Tábara“"
-    },
-    {
-      "title": "Nach Pub-Besuch : Betrunkener will Bruder suchen – und fährt ihn tot",
-      "teaser": "Ein Betrunkener hat in England seinen Bruder totgefahren, jetzt ist das Urteil gefallen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nach-pub-besuch-betrunkener-will-bruder-suchen-und-faehrt-ihn-tot-80752124.bild.html",
-      "image_title": "Nach Pub-Besuch: Betrunkener will Bruder suchen – und fährt ihn tot"
-    },
-    {
-      "title": "Kugel in den Kopf : Braut (24) bei Hochzeit von Luftschüssen getötet",
-      "teaser": "Die Schüsse gingen allerdings nicht in den Himmel, sie trafen die 24-jährige Braut Mahvash Leghaei tödlich!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/iran-braut-24-bei-hochzeit-von-luftschuessen-getoetet-80743588.bild.html",
-      "image_title": "Iran: Braut (24) bei Hochzeit von Luftschüssen getötet"
-    },
-    {
-      "title": "Zwei Gefangene geschwängert : Hier steht die Trans-Insassin als Mann vor Gericht",
-      "teaser": "Im Knast lebt sie als Frau – aber vor dem Richter stand sie noch als junger Mann.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-transfrau-schwaengert-zwei-mitinsassinnen-so-sah-sie-vor-gericht-aus-80741696.bild.html",
-      "image_title": "USA: Transfrau schwängert zwei Mitinsassinnen – so sah sie vor Gericht aus!"
-    },
-    {
-      "title": "40 Grad geknackt : Hitzerekord! Wärmster Tag EVER in Großbritannien",
-      "teaser": "London – So heiß war es auf der Insel noch nie! Großbritannien hat in der aktuellen Hitzewelle einen Rekord zu melden: 40,2 Grad!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hitzerekord-in-grossbritannien-waermster-tag-ever-80749614.bild.html",
-      "image_title": "Hitzerekord in Großbritannien! Wärmster Tag EVER"
-    },
-    {
-      "title": "Beide Verliebt in den Chef : Verkäuferin suchte Auftragskiller für Kollegin",
-      "teaser": "Große Augen, ein schüchternes Lächeln – diese Frau dürften alle unterschätzt haben ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/im-darknet-verkaeuferin-26-suchte-auftragskiller-fuer-kollegin-80746276.bild.html",
-      "image_title": "Im Darknet: Verkäuferin (26) suchte Auftragskiller für Kollegin"
-    },
-    {
-      "title": "Vier Tote in Einkaufszentrum : ER tötete den Amokläufer von Indiana",
-      "teaser": "Elisjsha Dicken wollte nur mit seiner Freundin einkaufen gehen, als er zum Helden wurde.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/amoklauf-in-indiana-elisjsha-dicken-stoppte-den-todesschuetzen-80744786.bild.html",
-      "image_title": "Amoklauf in Indiana: Elisjsha Dicken stoppte den Todesschützen"
-    },
-    {
-      "title": "Polizei auf Primaten-Patrouille : Aggro-Affe verletzt 18 Menschen in Japan",
-      "teaser": "In Yamaguchi hat sich ein Affe Zugang zu Gebäuden verschafft und 18 Menschen verletzt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/japan-aggro-affe-verletzt-18-menschen-in-yamaguchi-80743336.bild.html",
-      "image_title": "Japan: Aggro-Affe verletzt 18 Menschen in Yamaguchi"
-    },
-    {
-      "title": "Vom Bruder zusammengeschlagen : Frau erwacht aus Koma – und identifiziert Täter",
-      "teaser": "Nach zwei Jahren im Koma konnte eine Frau aus den USA aussagen, wer sie attackiert hatte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-frau-erwacht-nach-brutaler-attacke-aus-koma-und-identifiziert-taeter-80743018.bild.html",
-      "image_title": "USA: Frau erwacht nach brutaler Attacke aus Koma – und identifiziert Täter"
-    },
-    {
-      "title": "Marburg-Fieber : WHO bestätigt erste Virus-Fälle in Ghana",
-      "teaser": "Erstmals wurden in Ghana zwei Fälle des lebensgefährlichen Virus entdeckt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/marburg-fieber-who-bestaetigt-erste-virus-faelle-in-ghana-80740622.bild.html",
-      "image_title": "Marburg-Fieber: WHO bestätigt erste Virus-Fälle in Ghana"
-    },
-    {
-      "title": "„Landebahn geschmolzen“ : Störungen auf Briten-Flughäfen wegen Rekord-Hitze",
-      "teaser": "Großbritannien gegen die Rekord-Hitze: Die Wärme hat Rollbahnen auf Flughäfen beschädigt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hitzewelle-in-grossbritannien-stoerung-auf-flughaefen-lande-bahn-geschmolzen-80741404.bild.html",
-      "image_title": "Hitzewelle in Großbritannien: Störung auf Flughäfen – „Lande-Bahn geschmolzen“"
-    },
-    {
-      "title": "Transporter in den USA überfallen : Diebe klauen Klunker im Wert von 150 Mio. Dollar!",
-      "teaser": "Dagegen kann der Hollywoodstreifen „Ocean's 11“ einpacken!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mega-ueberfall-in-den-usa-diebe-erbeuten-juwelen-im-wert-von-150-millionen-dolla-80742382.bild.html",
-      "image_title": "USA: Schmuck-Transporter überfallen –Diebe klauen im Wert von 150 Mio. Dollar!"
-    },
-    {
-      "title": "Streit mit Schusswaffen geklärt : Fünf Verletzte bei Schießerei in US-Supermarkt!",
-      "teaser": "Eine Schießerei in einem US-Supermarkt forderte fünf Verletze!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/us-bundesstaat-washington-fuenf-verletzte-bei-schiesserei-im-supermarkt-80742402.bild.html",
-      "image_title": "US-Bundesstaat Washington: Fünf Verletzte bei Schießerei im Supermarkt"
-    },
-    {
-      "title": "Vier Tote in US-Einkaufszentrum : Bewaffneter Zivilist erschießt Amokläufer!",
-      "teaser": "Mindestens drei Menschen sind in einem Einkaufszentrum im US-Bundesstaat Indiana erschossen worden.",
-      "url": "https://www.bild.de/news/ausland/news/im-us-bundesstaat-in-indiana-schuetze-toetet-mindestens-drei-menschen-in-einkauf-80732144.bild.html",
-      "image_title": "Amoklauf in US-Einkaufszentrum: Vier Tote - Passant erschießt Schützen"
-    },
-    {
-      "title": "Fragen und Antworten zu den Kegelbrüdern : Keine Ermittlungen gegen Mann vom Nachbarbalkon",
-      "teaser": "Ist der Justizkrimi für die Deutschen nun vorbei? BILD beantwortet die wichtigsten Fragen.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/kegelbrueder-wie-geht-es-weiter-die-wichtigsten-fragen-und-antworten-80736216.bild.html",
-      "image_title": "Kegelbrüder: Wie geht es weiter? Die wichtigsten Fragen und Antworten!"
-    },
-    {
-      "title": "Irre Verfolgungsjagd mit Kind an Bord : Crash-Mutti hängt Polizei zweimal ab",
-      "url": "https://www.bild.de/video/clip/video/irre-verfolgungsjagd-mit-kind-an-bord-crash-mutti-haengt-polizei-zweimal-ab-80745788,auto=true.bild.html",
-      "image_title": "Irre Verfolgungsjagd: Crash-Mutti hängt Polizei zweimal ab"
-    },
-    {
-      "title": "Retter gerät selbst in Not : Auto zerschmettert Bein von Feuerwehrmann",
-      "url": "https://www.bild.de/video/clip/video/retter-geraet-selbst-in-not-auto-zerschmettert-bein-von-feuerwehrmann-80743504,auto=true.bild.html",
-      "image_title": "Retter gerät selbst in Not: Auto zerschmettert Bein von Feuerwehrmann"
-    },
-    {
-      "title": "Mitten in New York : Polizist verfolgt Ladendieb mit dem Pferd",
-      "url": "https://www.bild.de/video/clip/video/mitten-in-new-york-polizist-verfolgt-ladendieb-mit-dem-pferd-80753292,auto=true.bild.html",
-      "image_title": "Mitten in New York: Polizist verfolgt Ladendieb mit dem Pferd"
-    }
-  ]
+  "articles": []
 }
