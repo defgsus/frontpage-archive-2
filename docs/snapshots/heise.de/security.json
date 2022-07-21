@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-21T08:27:24",
+  "timestamp": "2022-07-21T09:21:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Confluence",
+      "url": "https://www.heise.de/news/Nutzer-Account-mit-Standard-Passwort-gefaehrdet-Atlassian-Confluence-7185469.html"
+    },
+    {
       "title": "Zyxel-Firewalls",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-bedroht-Zyxel-Firewalls-7184526.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Juniper-Software-mit-Schadcode-attackieren-7183158.html"
     },
     {
-      "title": "VMware vCenter Server & Cloud Foundation",
-      "url": "https://www.heise.de/news/Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-zum-Teil-abgedichtet-7179181.html"
+      "title": "Neopets: 69 Millionen Nutzerdaten und Quellcode erbeutet, Hacker noch im System",
+      "teaser": "Das vor 20 Jahren immens populäre Onlinespiel Neopets gibt es noch. Jetzt wurden wohl alle Nutzerdaten abgegriffen und der Quelltext erbeutet.",
+      "url": "https://www.heise.de/news/Neopets-69-Millionen-Nutzerdaten-und-Quellcode-erbeutet-Hacker-noch-im-System-7185551.html"
+    },
+    {
+      "title": "Nutzer-Account mit Standard-Passwort gefährdet Atlassian Confluence",
+      "teaser": "Unter bestimmten Voraussetzungen könnten Angreifer Atlassian Confluence Server und Data Center attackieren. Das Sicherheitsrisiko gilt als kritisch.",
+      "url": "https://www.heise.de/news/Nutzer-Account-mit-Standard-Passwort-gefaehrdet-Atlassian-Confluence-7185469.html"
     },
     {
       "title": "Sicherheitsupdates: Root-Lücke bedroht Zyxel-Firewalls",
@@ -59,6 +69,11 @@
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
+      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
+      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
+      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
+    },
+    {
       "title": "Jetzt patchen! Oracle sichert seine Produkte mit 349 Updates ab",
       "teaser": "Wichtige Sicherheitspatches schließen unter anderem kritische Lücken in Oracle-Anwendungen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Oracle-sichert-seine-Produkte-mit-349-Updates-ab-7184179.html"
@@ -67,11 +82,6 @@
       "title": "Google: Russen tarnten Android-Malware als App für den ukrainischen Cyberwar",
       "teaser": "Die Cybersecurity-Abteilung von Google hat eine App entdeckt, die vorgeblich DDoS-Attacken gegen Russland ausführen sollte. Das machte sie aber gar nicht.",
       "url": "https://www.heise.de/news/Google-Russen-tarnten-Android-Malware-als-App-fuer-den-ukrainischen-Cyberwar-7184147.html"
-    },
-    {
-      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
-      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
-      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
     },
     {
       "title": "Dropbox und Google Drive zum Ausliefern von Malware missbraucht",
@@ -147,18 +157,6 @@
       "title": "Open-Source-Tool von Microsoft erstellt \"Software Bill of Materials\"",
       "teaser": "Das SBOM-Tool Salus listet alle Komponenten und Dependencies von Projekten auf, um potenzielle Schwachstellen in der Software Supply Chain aufzuspüren.",
       "url": "https://www.heise.de/news/Open-Source-Tool-von-Microsoft-erstellt-Software-Bill-of-Materials-7177889.html"
-    },
-    {
-      "title": "Citrix: Update für Hypervisor und Xenserver gegen AMD-Schwachstellen",
-      "teaser": "Für die Virtualiserungssoftware Hypervisor und Xenserver hat Citrix Aktualisierungen herausgegeben. Auf AMD-Systemen könnten Angreifer unbefugt Speicher lesen.",
-      "url": "https://www.heise.de/news/Citrix-Update-fuer-Hypervisor-und-Xenserver-gegen-AMD-Schwachstellen-7178191.html",
-      "image_title": "Aufmacher Citrix Hypervisor & Xenserver-Sicherheitsupdate"
-    },
-    {
-      "title": "Patchday: Microsoft kümmert sich um 84 Sicherheitslücken",
-      "teaser": "Am Juli-Patchday behandelt Microsoft 84 Sicherheitslücken. Eine davon wird bereits aktiv missbraucht. Viele Lücken betreffen Azure Site Recovery.",
-      "url": "https://www.heise.de/news/Microsoft-kuemmert-sich-um-84-Sicherheitsluecken-7177806.html",
-      "image_title": "Aufmacher Microsoft Patchday Juli 2022"
     },
     {
       "title": "heise Security Tour 2022",
