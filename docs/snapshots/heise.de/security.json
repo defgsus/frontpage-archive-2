@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-22T06:29:52",
+  "timestamp": "2022-07-22T07:21:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Chrome",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Elf-Sicherheitsprobleme-in-Google-Chrome-geloest-7186431.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Schadcode-Attacken-mit-Root-Rechten-auf-Cisco-Nexus-Dashboard-moeglich-7185582.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecke-bedroht-Zyxel-Firewalls-7184526.html"
     },
     {
-      "title": "Oracle Critical Patch Update",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Oracle-sichert-seine-Produkte-mit-349-Updates-ab-7184179.html"
+      "title": "SATAn-Attacke: Zweckentfremdetes SATA-Kabel funkt geheime Infos",
+      "teaser": "Sicherheitsforscher, die auf Attacken auf abgeschottete Air-Gap-Systeme spezialisiert sind, haben eine neue Methode vorgestellt.",
+      "url": "https://www.heise.de/news/SATAn-Attacke-Zweckentfremdetes-SATA-Kabel-funkt-geheime-Infos-7186463.html"
+    },
+    {
+      "title": "Sicherheitsupdate: Elf Sicherheitsprobleme in Google Chrome gelöst",
+      "teaser": "Angreifer könnten den Webbrowser Chrome mit Schadcode attackieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Elf-Sicherheitsprobleme-in-Google-Chrome-geloest-7186431.html"
     },
     {
       "title": "iX-Workshop zur IT-Sicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -59,6 +69,11 @@
       "url": "https://www.heise.de/news/Pegasus-Spyware-Apple-schickt-Warnungen-an-Menschen-in-150-Laendern-7185161.html"
     },
     {
+      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
+      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
+      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
+    },
+    {
       "title": "Schadcode-Attacken mit Root-Rechten auf Cisco Nexus Dashboard möglich",
       "teaser": "Es gibt wichtige Sicherheitsupdates für Hard- und Software vom Netzwerkausrüster Cisco.",
       "url": "https://www.heise.de/news/Schadcode-Attacken-mit-Root-Rechten-auf-Cisco-Nexus-Dashboard-moeglich-7185582.html"
@@ -67,11 +82,6 @@
       "title": "Neopets: 69 Millionen Nutzerdaten und Quellcode erbeutet, Hacker noch im System",
       "teaser": "Das vor 20 Jahren immens populäre Onlinespiel Neopets gibt es noch. Jetzt wurden wohl alle Nutzerdaten abgegriffen und der Quelltext erbeutet.",
       "url": "https://www.heise.de/news/Neopets-69-Millionen-Nutzerdaten-und-Quellcode-erbeutet-Hacker-noch-im-System-7185551.html"
-    },
-    {
-      "title": "Warum ein Flickenteppich an Security-Lösungen die Sicherheit gefährdet",
-      "teaser": "Auf die immer häufigere und komplexere Cyberangriffe reagieren viele Unternehmen, indem sie weitere Sicherheitstools anschaffen. Ein solcher Flickenteppich bietet jedoch keinen vollständigen Schutz und kann die Security sogar noch stärker gefährden. Was Firmen brauchen, ist ein umfassender Überblick über all ihre Endpunkte – mit einer Converged Endpoint Management-Plattform.",
-      "url": "https://www.heise.de/solutions/tanium/warum-ein-flickenteppich-an-security-loesungen-die-sicherheit-gefaehrdet/?source=nat_teas"
     },
     {
       "title": "Nutzer-Account mit Standard-Passwort gefährdet Atlassian Confluence",
@@ -146,17 +156,6 @@
       "title": "secIT DIGITAL: Programmstart der Online-Ausgabe der IT-Security-Messe von Heise",
       "teaser": "Am 13. und 14. September 2022 dreht sich alles um den gegenwärtigen Stand der IT-Security. Erste Highlights aus dem Programm sind nun einsehbar.",
       "url": "https://www.heise.de/news/secIT-DIGITAL-Programmstart-der-Online-Ausgabe-der-IT-Security-Messe-von-Heise-7180228.html"
-    },
-    {
-      "title": "3 Millionen Installationen: Android-Malware aus Google Play entfernt",
-      "teaser": "Die Android-Malware Autolycos hat es auf insgesamt drei Millionen Installationen gebracht. Nach der Entdeckung hat Google die betroffenen Apps entfernt.",
-      "url": "https://www.heise.de/news/Android-Malware-mit-3-Millionen-Installationen-aus-Google-Play-entfernt-7180469.html",
-      "image_title": "Aufmacher Android-Malware Autolycos"
-    },
-    {
-      "title": "Office-Nutzer im Visier: Phishing-Kampagne umgeht Multi-Faktor-Authentifizierung",
-      "teaser": "Microsofts Sicherheitsforscher haben eine große Phishing-Kampagne aufgedeckt. Dabei stehlen Angreifer Session-Cookies, um MFA-Schutzmaßnahmen zu umgehen.",
-      "url": "https://www.heise.de/news/Zahlungsbetrug-Gross-angelegte-Phishing-Kampagne-umgeht-MFA-7179750.html"
     },
     {
       "title": "heise Security Tour 2022",
