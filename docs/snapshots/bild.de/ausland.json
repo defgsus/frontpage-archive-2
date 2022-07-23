@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-23T04:36:47",
+  "timestamp": "2022-07-23T05:22:31",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.73991f95.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.22cef168.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Wuppertaler Eltern und zwei Kinder kentern auf See : Familie tot! Boje rettet Tochter (7)",
-      "url": "https://www.bild.de/news/ausland/news/holland-eltern-und-zwei-kinder-kentern-auf-see-boje-rettet-tochter-80787274.bild.html",
-      "image_url": "https://images.bild.de/62daa3e07cdf100658d049a6/45287222b86486e05303925448c7d804,9ed9f6c8?w=656",
-      "image_title": "Holland: Eltern und zwei Kinder kentern auf See: Boje rettet Tochter"
-    },
-    {
-      "title": "Er dachte, es ist Corona : Vierfach-Vater hat unheilbaren Hirntumor",
-      "url": "https://www.bild.de/news/ausland/news-ausland/vierfach-vater-dachte-er-hat-corona-dabei-hat-er-einen-unheilbaren-hirntumor-80785394.bild.html",
-      "image_url": "https://images.bild.de/62dab2cf60a3e73b21ea26d0/5abeaa6526afa4bf7edd10bef1a35bbc,c7a106d4?w=320",
-      "image_title": "Vierfach-Vater dachte, er hat Corona – dabei hat er einen unheilbaren Hirntumor"
-    },
-    {
-      "title": "Am gefährlichsten Ort Israels : BILD unterwegs mit den Terrorjägern Israels",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/israel-bild-unterwegs-mit-der-spezialeinheit-golani-brigade-80775416.bild.html",
-      "image_url": "https://images.bild.de/62d987529104261986b7b236/98663813cce27428a24ec80c8331c50c,2cf60925?w=320",
-      "image_title": "Israel: BILD unterwegs mit der Spezialeinheit Golani-Brigade"
-    },
-    {
-      "title": "Er wollte zeigen, dass er sauber ist : Indien-Minister trinkt aus heiligem Fluss – Krankenhaus!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/indischer-minster-trinkt-aus-heiligem-fluss-krankenhaus-80779536.bild.html",
-      "image_url": "https://images.bild.de/62da59a3e720115019a5b29c/99d6f5df939405410746d22253dd1e30,4eb483e0?w=320",
-      "image_title": "Indischer Minster trinkt aus heiligem Fluss – Krankenhaus!"
-    },
-    {
-      "title": "Kanu-Tragödie um deutsche Familie : Traurige Gewissheit! Auch die Tochter ist tot",
-      "url": "https://www.bild.de/news/ausland/news-ausland/im-urlaub-deutsche-stirbt-bei-kanutour-mann-und-kind-vermisst-80776526.bild.html",
-      "image_url": "https://images.bild.de/62d99f0233dcbb037bfede28/622c9916f436776fe017fcdc24656958/Kennung_Symbolfoto,a48ecbaf?w=320",
-      "image_title": "Kanu-Tragödie um deutsche Familie: Traurige Gewissheit! Auch die Tochter ist tot"
-    },
-    {
-      "title": "ERster Fall seit 2013 : Polio! Mann in den USA mit dem Virus infiziert",
-      "url": "https://www.bild.de/news/ausland/news-ausland/polio-mann-in-den-usa-mit-virus-infiziert-der-erste-fall-seit-2013-80781560.bild.html",
-      "image_title": "Polio! Mann mit dem Virus infiziert – der erste Fall in den USA seit 2013"
-    },
-    {
-      "title": "Kritik an Krankenschwester : Ist dieses Outfit wirklich „unpassend“?",
-      "teaser": "Fast 13 Millionen Mal wurde ein Video von Erika Diaz (22) bei TikTok aufgerufen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/krankenschwester-erntet-bei-tiktok-derbe-kritik-fuer-ihren-koerper-80762612.bild.html",
-      "image_title": "Kritik an Krankenschwester bei TikTok: Hautenger Dress „unangemessen“"
-    },
-    {
-      "title": "US-Gouverneurskandidat Lee Zeldin : Messer-Angriff bei Wahlkampfrede",
-      "teaser": "Republikaner Lee Zeldin wurde am Donnerstag auf der Bühne attackiert.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/angriff-bei-wahlkampf-messer-mann-attackiert-gouverneurskandidaten-80777836.bild.html",
-      "image_title": "USA – Angriff bei Wahlkampf: Messer-Mann attackiert Gouverneurskandidaten"
-    },
-    {
-      "title": "Deutscher stirbt bei Absturz in Schweden : Luca (22) lebte fürs Fliegen – und fand den Tod",
-      "teaser": "Luca hatte sein Leben der Fliegerei verschrieben – und verlor es dabei.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/absturz-ueber-schweden-see-luca-lebte-fuers-fliegen-und-fand-den-tod-80776194.bild.html",
-      "image_title": "Flugzeugabsturz über Schweden-See: Luca lebte fürs Fliegen – und fand den Tod"
-    },
-    {
-      "title": "Blutiger Polizei-Einsatz in Rio : 18 Menschen bei Razzia in Armenviertel erschossen",
-      "teaser": "Bei der Operation sollten Anführer einer kriminellen Bande verhaftet werden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/rio-de-janeiro-brasilien-18-tote-bei-razzia-in-armenviertel-80777568.bild.html",
-      "image_title": "Rio de Janeiro (Brasilien): 18 Tote bei Razzia in Armenviertel"
-    },
-    {
-      "title": "Angebliche transfeindlichkeit : „Harry Potter“-Kultspiel Quidditch wird umbenannt",
-      "teaser": "Der Kult-Besensport aus „Harry Potter“ wird umbenannt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/harry-potter-kultspiel-quidditch-wird-wegen-j-k-rowling-umbenannt-80772072.bild.html",
-      "image_title": "\"Harry Potter\"-Kultspiel Quidditch wird wegen J. K. Rowling umbenannt"
-    },
-    {
-      "title": "Urlaubsparadies Puerto Vallarta (Mexiko) : Krokodil attackiert US-Touristen",
-      "teaser": "In Puerto Vallarta (Mexiko) wurden zwei Touristen von einem Krokodil attackiert.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/urlaubsparadies-puerto-vallarta-mexiko-krokodil-attackiert-us-touristen-80757646.bild.html",
-      "image_title": "Urlaubsparadies Puerto Vallarta (Mexiko): Krokodil attackiert US-Touristen"
-    },
-    {
-      "title": "Wegen Sauftourismus : Malle macht ACHT Lokale dicht",
-      "teaser": "Heißt es für Malle-Urlauber bald endgültig Bye-bye Ballermann?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mallorca-macht-acht-lokale-wegen-sauftourismus-dicht-80764920.bild.html",
-      "image_title": "Mallorca macht acht Lokale wegen Sauftourismus dicht - Bye-bye Ballermann?"
-    },
-    {
-      "title": "James-Webb-Teleskop : Die Galaxie, die nie ein Mensch zuvor gesehen hat",
-      "teaser": "13,5 Milliarden Jahre alt soll die Galaxie sein, die das James-Webb-Teleskop entdeckt hat.",
-      "url": "https://www.bild.de/ratgeber/wissenschaft/ratgeber/james-webb-teleskop-entdeckt-aeltestes-sternensystem-80766842.bild.html",
-      "image_title": "James-Webb-Teleskop entdeckt ältestes Sternensystem"
-    },
-    {
-      "title": "Gewinn verdoppelt : Hat Tesla bei seinen Zahlen getrickst?",
-      "teaser": "Produktionsausfälle und Lieferketten-Probleme: Trotzdem hat Tesla den Gewinn verdoppelt!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/gewinn-verdoppelt-hat-tesla-bei-seinen-zahlen-getrickst-80766294.bild.html",
-      "image_title": "Gewinn verdoppelt: Hat Tesla bei seinen Zahlen getrickst?"
-    },
-    {
-      "title": "Mann überfährt Familie, eröffnet Feuer : Kleinkind in den Armen seiner Mutter erschossen!",
-      "teaser": "Billings (USA) – Ein Mann rast mit seinem Pickup in eine Familie.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unfassbare-tat-in-den-usa-kleinkind-in-den-armen-seiner-mutter-erschossen-80766218.bild.html",
-      "image_title": "Unfassbare Tat in den USA: Kleinkind in den Armen seiner Mutter erschossen!"
-    },
-    {
-      "title": "USA : Große Mehrheit für Schutz der Eheöffnung",
-      "teaser": "Das US-Repräsentantenhaus hat für den Schutz der gleichgeschlechtlichen Ehe gestimmt.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/usa-grosse-mehrheit-fuer-schutz-der-eheoeffnung-80761336.bild.html",
-      "image_title": "USA: Große Mehrheit für Schutz der Eheöffnung"
-    },
-    {
-      "title": "Neue Fahndungsfotos : So könnten die Alcatraz-Ausbrecher heute ausehen",
-      "teaser": "Drei Häftlinge verschwandet 1962 von Alcatraz – 60 Jahre später versucht das FBI, die Ausbrecher vielleicht doch noch zu finden!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/neue-fahndungsfotos-so-koennten-die-alcatraz-ausbrecher-heute-ausehen-80496254.bild.html",
-      "image_title": "Neue Fahndungsfotos: So könnten die Alcatraz-Ausbrecher heute ausehen"
-    },
-    {
-      "title": "Drama in New Yorker Richter-Familie : Sohn tötet Mutter und springt nackt aus dem Fenster",
-      "teaser": "Douglas Solomon tötete erst seine Mutter und dann sich selbst.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mord-in-new-york-richter-sohn-erschlaegt-mutter-springt-nackt-aus-dem-fenster-80756698.bild.html",
-      "image_title": "Mord in New York: Richter-Sohn erschlägt Mutter, springt nackt aus dem Fenster"
-    },
-    {
-      "title": "Spanier (53) wollte sein Dorf retten : Angel, der aus dem Feuer kam",
-      "teaser": "In Spanien heißt er „Held von Tábara“. Der Mann, der wie durch ein Wunder dem Feuer entkam.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/spanien-braende-angel-martin-ballestero-ist-der-held-von-tbara-80755210.bild.html",
-      "image_title": "Spanien-Brände: Angel Martin Ballestero ist der „Held von Tábara“"
-    },
-    {
-      "title": "Nach Pub-Besuch : Betrunkener will Bruder suchen – und fährt ihn tot",
-      "teaser": "Ein Betrunkener hat in England seinen Bruder totgefahren, jetzt ist das Urteil gefallen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nach-pub-besuch-betrunkener-will-bruder-suchen-und-faehrt-ihn-tot-80752124.bild.html",
-      "image_title": "Nach Pub-Besuch: Betrunkener will Bruder suchen – und fährt ihn tot"
-    },
-    {
-      "title": "Kugel in den Kopf : Braut (24) bei Hochzeit von Luftschüssen getötet",
-      "teaser": "Die Schüsse gingen allerdings nicht in den Himmel, sie trafen die 24-jährige Braut Mahvash Leghaei tödlich!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/iran-braut-24-bei-hochzeit-von-luftschuessen-getoetet-80743588.bild.html",
-      "image_title": "Iran: Braut (24) bei Hochzeit von Luftschüssen getötet"
-    },
-    {
-      "title": "Zwei Gefangene geschwängert : Hier steht die Trans-Insassin als Mann vor Gericht",
-      "teaser": "Im Knast lebt sie als Frau – aber vor dem Richter stand sie noch als junger Mann.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-transfrau-schwaengert-zwei-mitinsassinnen-so-sah-sie-vor-gericht-aus-80741696.bild.html",
-      "image_title": "USA: Transfrau schwängert zwei Mitinsassinnen – so sah sie vor Gericht aus!"
-    },
-    {
-      "title": "40 Grad geknackt : Hitzerekord! Wärmster Tag EVER in Großbritannien",
-      "teaser": "London – So heiß war es auf der Insel noch nie! Großbritannien hat in der aktuellen Hitzewelle einen Rekord zu melden: 40,2 Grad!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/hitzerekord-in-grossbritannien-waermster-tag-ever-80749614.bild.html",
-      "image_title": "Hitzerekord in Großbritannien! Wärmster Tag EVER"
-    },
-    {
-      "title": "Beide Verliebt in den Chef : Verkäuferin suchte Auftragskiller für Kollegin",
-      "teaser": "Große Augen, ein schüchternes Lächeln – diese Frau dürften alle unterschätzt haben ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/im-darknet-verkaeuferin-26-suchte-auftragskiller-fuer-kollegin-80746276.bild.html",
-      "image_title": "Im Darknet: Verkäuferin (26) suchte Auftragskiller für Kollegin"
-    },
-    {
-      "title": "Er wollte zeigen, dass er sauber ist : Indien-Minister trinkt aus heiligem Fluss – Krankenhaus!",
-      "url": "https://www.bild.de/video/clip/video/er-wollte-zeigen-dass-er-sauber-ist-indien-minister-trinkt-aus-heiligem-fluss-kr-80784864,auto=true.bild.html",
-      "image_title": "Er wollte zeigen, dass er sauber ist: Indien-Minister trinkt aus heiligem Fluss – Krankenhaus!"
-    },
-    {
-      "title": "Halbnackt erwischt! : Influencerin nutzt fremde Villa für Bikini-Shooting",
-      "url": "https://www.bild.de/video/clip/video/halb-nackt-erwischt-influenzerin-macht-shooting-in-fremdem-garten-80775558,auto=true.bild.html",
-      "image_title": "(Halb)-nackt erwischt! Influenzerin macht Shooting in fremdem Garten"
-    },
-    {
-      "title": "Erkennen Sie die weißen Punkte? : Schwimmen will hier niemand!",
-      "url": "https://www.bild.de/video/clip/video/erkennen-sie-die-weissen-punkte-schwimmen-will-hier-niemand-80777398,auto=true.bild.html",
-      "image_title": "Erkennen Sie die weißen Punkte? Schwimmen will hier Niemand!"
-    }
-  ]
+  "articles": []
 }
