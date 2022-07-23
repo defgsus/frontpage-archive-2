@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-07-23T12:37:38",
+  "timestamp": "2022-07-23T13:31:07",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Googles (noch) experimentelle Sprache Carbon soll eines Tages C++ ablösen",
+      "teaser": "Google stellt mit Carbon einen potentiellen Nachfolger für C++ vor. Anders als bei Rust ist Interoperabilität mit bestehendem C++-Code ein wichtiges Ziel.",
+      "url": "https://www.heise.de/news/Googles-noch-experimentelle-Sprache-Carbon-soll-eines-Tages-C-abloesen-7186725.html",
+      "image_title": "Kohle"
+    },
+    {
       "title": "Caro: Neuer Supercomputer des DLR in Göttingen in Betrieb genommen",
       "teaser": "Die GWDG in Göttingen betreibt nun zwei der 500 leistungsfähigsten Supercomputer der Welt. Caro soll Simulationen für das DLR durchführen.",
       "url": "https://www.heise.de/news/Caro-Neuer-Supercomputer-des-DLR-in-Goettingen-in-Betrieb-genommen-7182502.html"
@@ -35,12 +41,6 @@
       "teaser": "Intels erste Arc Desktop-Grafikkarte ist offenbar ordentlich spielbar in Cyberpunk 2077 bei 2560x1440. Eine Arc A780 High-End-Grafikkarte war aber nie geplant.",
       "url": "https://www.heise.de/news/Intel-zeigt-Arc-A750-Grafikkarte-Etwas-schneller-als-Nvidias-GeForce-RTX-3060-7181937.html",
       "image_title": "Intel Arc A750 Grafikkarte"
-    },
-    {
-      "title": "Netzsperren umgehen: Tor Browser 11.5 erhält Verbindungs-Automatik",
-      "teaser": "Version 11.5 des Anonymisierungs-Browsers Tor umgeht Netzsperren mit nur einem Klick und vereinfacht das Verwalten von Bridges ins Tor-Netz.",
-      "url": "https://www.heise.de/news/Netz-Zensur-aushebeln-Tor-Browser-11-5-automatisiert-Verbindung-ins-Tor-Netz-7181769.html",
-      "image_title": "Tor"
     },
     {
       "title": "Wie Betrüger \"Sicher bezahlen\" auf eBay Kleinanzeigen aushebeln",
@@ -100,12 +100,6 @@
       "url": "https://www.heise.de/news/Apple-I-Prototyp-wird-versteigert-Woran-Woz-Loet-Handschrift-zu-erkennen-ist-7187152.html"
     },
     {
-      "title": "Googles (noch) experimentelle Sprache Carbon soll eines Tages C++ ablösen",
-      "teaser": "Google stellt mit Carbon einen potentiellen Nachfolger für C++ vor. Anders als bei Rust ist Interoperabilität mit bestehendem C++-Code ein wichtiges Ziel.",
-      "url": "https://www.heise.de/news/Googles-noch-experimentelle-Sprache-Carbon-soll-eines-Tages-C-abloesen-7186725.html",
-      "image_title": "Kohle"
-    },
-    {
       "title": "MacBook Air M2: Berichte über abplatzende Alufarbe",
       "teaser": "Besonders die neue \"Mitternacht\"-Lackierung des Einsteiger-MacBooks soll empfindlich gegen Kratzer sein. Das ist für Apple kein neues Thema.",
       "url": "https://www.heise.de/news/MacBook-Air-M2-Berichte-ueber-abplatzende-Alufarbe-7186834.html"
@@ -130,6 +124,11 @@
       "title": "SATAn-Attacke: Zweckentfremdetes SATA-Kabel funkt geheime Infos",
       "teaser": "Sicherheitsforscher, die auf Attacken auf abgeschottete Air-Gap-Systeme spezialisiert sind, haben eine neue Methode vorgestellt.",
       "url": "https://www.heise.de/news/SATAn-Attacke-Zweckentfremdetes-SATA-Kabel-funkt-geheime-Infos-7186463.html"
+    },
+    {
+      "title": "Sicherheitsupdate: Elf Sicherheitsprobleme in Google Chrome gelöst",
+      "teaser": "Angreifer könnten den Webbrowser Chrome mit Schadcode attackieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Elf-Sicherheitsprobleme-in-Google-Chrome-geloest-7186431.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
