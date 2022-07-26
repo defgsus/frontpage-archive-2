@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-26T12:45:17",
+  "timestamp": "2022-07-26T13:43:34",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,212 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.73991f95.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.22cef168.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Brutaler Angreifer ist flüchtig : Mann (28) lebensgefährlich verletzt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/brutaler-angriff-in-leipzig-mann-28-lebensgefaehrlich-verletzt-taeter-ist-fluech-80815092.bild.html",
-      "image_url": "https://images.bild.de/62df9d5860a3e73b21ea2cd4/4ec922b65169d947a63ee109f41202f8,ad97965?w=656",
-      "image_title": "Brutaler Angriff in Leipzig: Mann (28) lebensgefährlich verletzt – Täter ist flüchtig"
-    },
-    {
-      "title": "Nach Flucht aus Thüringer Affenpark : Ausgebüxtes Känguru Skippy ist zurück",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-ausgebuextes-kaenguru-skippy-ist-zurueck-80815810.bild.html",
-      "image_url": "https://images.bild.de/62dfae2460a3e73b21ea2d04/16afe2c6ec8508ab269bca14819badea,cbfbe0c?w=320",
-      "image_title": "Thüringen: Ausgebüxtes Känguru Skippy ist zurück"
-    },
-    {
-      "title": "Deutsche stehen auf Parkplatz-Sex! : „Auf dem Rastplatz darf ich unartig sein“",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/parkplatz-sex-deutsche-lieben-schaeferstuenden-im-auto-an-der-autobahn-80675232.bild.html",
-      "image_url": "https://images.bild.de/62b2cf9e783d1871d27a4d25/1ff5b735846662506e2a5e3ca39273f0,bb371206?w=320",
-      "image_title": "Parkplatz-Sex: „Auf dem Rastplatz darf ich unartig sein“"
-    },
-    {
-      "title": "Waldbrände in Brandenburg & Sachsen : Feuerwalze! Mehrere Ortschaften evakuiert",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/waldbrand-bei-rehfeld-brandenburg-feuerwalze-drei-ortschaften-evakuiert-80813554.bild.html",
-      "image_url": "https://images.bild.de/62df186960a3e73b21ea2c77/829fe53d1f912e5e6e9fdd690b844092,47d3ab2d?w=320",
-      "image_title": "Waldbrand bei Rehfeld (Brandenburg): Feuerwalze! Drei Ortschaften evakuiert"
-    },
-    {
-      "title": "Mieser Schockanruf : Taxifahrer Jo rettet Seniorin 50000 Euro",
-      "teaser": "Taxifahrer Jo aus Eichstätt ist ein echter Held! Er hat einer Seniorin viel Geld gerettet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/schockanruf-in-eichstaett-taxifahrer-rettet-seniorin-50-000-euro-80806790.bild.html",
-      "image_title": "Schockanruf in Eichstätt: Taxifahrer rettet Seniorin 50 000 Euro."
-    },
-    {
-      "title": "Roland Arnold war Gast beim Reifen-König : „Das war die schönste Hochzeit, außer meiner eigenen“",
-      "teaser": "Roland Arnold (56) war zu Gast bei der Hochzeit des Reifen-Königs, wurde Zeuge des Dramas.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/roland-arnold-56-war-gast-beim-reifen-koenig-die-schoenste-hochzeit-ausser-meine-80811774.bild.html",
-      "image_title": "Roland Arnold (56) war Gast beim Reifen-König: „Die schönste Hochzeit, außer meiner eigenen“"
-    },
-    {
-      "title": "Genug eigene Energie : Das Dorf, das Putin trotzt",
-      "teaser": "Die 950 Bewohner von Großbardorf (Unterfranken) haben keine Angst vor der Energie-Krise.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/genug-eigene-energie-das-dorf-das-putin-trotzt-80812654.bild.html",
-      "image_title": "Genug eigene Energie: Das Dorf, das Putin trotzt"
-    },
-    {
-      "title": "Firma abgefackelt, Autos in Sicherheit : 1. Blick in die Luxus-Garage des Reifenkönigs",
-      "teaser": "Oldtimer und Luxus-Autos auf drei Etagen! Das ist die Geheim-Garage des Reifenkönigs.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/nach-grossbrand-beim-reifenkoenig-1-blick-in-die-luxus-garage-des-reifenkoenigs-80812236.bild.html",
-      "image_title": "Nach Großbrand beim Reifenkönig: 1. Blick in die Luxus-Garage des Reifenkönigs"
-    },
-    {
-      "title": "Ampel-Check an Donnersberger Brücke : 133 Rot-Radler in 12 Stunden",
-      "teaser": "München – 250 000 Rotlichtverstöße pro Tag durch Radfahrer allein in München!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ampel-check-an-donnersberger-bruecke-133-rot-radler-in-12-stunden-80807534.bild.html",
-      "image_title": "Ampel-Check an Donnersberger Brücke: 133 Rot-Radler in 12 Stunden"
-    },
-    {
-      "title": "Wegen angeblicher Weihnachtsfeier : Bußgelder für 40 seiner Pflegekräfte",
-      "teaser": "Erding – Würstel für Mitarbeiter und Bewohner eines Pflegeheims in der Pandemie-Hochphase.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wegen-angeblicher-weihnachtsfeier-40-pflegekraefte-sollen-bussgeld-zahlen-80807660.bild.html",
-      "image_title": "Wegen angeblicher Weihnachtsfeier: 40 Pflegekräfte sollen Bußgeld zahlen"
-    },
-    {
-      "title": "Beschlagnahmt! : Polizei geht mit Ferrari auf Verbrecherjagd",
-      "teaser": "Aus Sportwagen wird Streifenwagen de luxe! Die Polizei geht mit 326 km/h auf Verbrecherjagd.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/polizei-in-tschechien-faehrt-ferrari-verbrecherjagd-mit-sportwagen-80809872.bild.html",
-      "image_title": "Polizei in Tschechien fährt Ferrari – Verbrecherjagd mit Sportwagen"
-    },
-    {
-      "title": "Roboter gegen den Personalmangel : Resi, die Robo-Kellnerin",
-      "teaser": "Sie bringt Essen, macht flotte Sprüche und ist eine Attraktion.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sebnitz-ein-roboter-in-der-saechsischen-schweiz-kellnert-80811962.bild.html",
-      "image_title": "Sebnitz: Ein Roboter in der Sächsischen Schweiz kellnert"
-    },
-    {
-      "title": "Seltenes Tier hält Bewohner auf Trab : Diebischer Wolf randaliert in 3000-Seelen-Dorf",
-      "teaser": "Seit Anfang Juni spukt ein unerwünschter Gast durch die Vorgärten.",
-      "url": "https://www.bild.de/news/inland/news-inland/von-ueberwachungs-kamera-erfasst-diebischer-wolf-randaliert-in-dorf-80791300.bild.html",
-      "image_title": "Von Überwachungs-Kamera erfasst: Diebischer Wolf randaliert in Dorf"
-    },
-    {
-      "title": "Vorzeige-Beamtin liebt Rechtsextremisten : Polizei wusste seit Monaten von der Neonazi-Liebe!",
-      "teaser": "Anna Jendrny (29) war Insta-Cop der Polizei Hannover. Privat liebt sie einen Neonazi.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/insta-cop-liebt-neonazi-polizei-hannover-kannte-vorwuerfe-handelte-aber-nicht-80805058.bild.html",
-      "image_title": "Polizistin liebt Neonazi: Polizei Hannover kannte Vorwürfe seit Monaten"
-    },
-    {
-      "title": "Auffahrunfall auf der A4 : Sprinter rast in Lkw – Beifahrer tot",
-      "teaser": "Die zerbeulte Front zeigt die Wucht des Aufpralls. Der Beifahrer kam dabei ums Leben.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/auffahrunfall-auf-der-a4-sprinter-rast-in-lkw-beifahrer-tot-80808388.bild.html",
-      "image_title": "Auffahrunfall auf der A4: Sprinter rast in Lkw – Beifahrer tot"
-    },
-    {
-      "title": "Witwe in Schwarzwald-Villa ermordet : Todesrätsel um Firmen-Chefin Jutta K. (✝︎68)",
-      "teaser": "Jutta K. (68) war erfolgreiche Unternehmerin. Jetzt wurde sie tot in ihrem Haus entdeckt.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/witwe-in-villa-ermordet-todesraetsel-um-unternehmerin-jutta-68-80801656.bild.html",
-      "image_title": "Witwe in Schwarzwald-Villa ermordet: Todesrätsel um Firmen- Chefin Jutta K. (✝︎68)"
-    },
-    {
-      "title": "Mehrere Betriebe betroffen : Rinderseuche in Sachsen ausgebrochen",
-      "teaser": "Im Landkreis Plauen ist die Rinderseuche ausgebrochen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/plauen-rinderseuche-in-sachsen-ausgebrochen-80806766.bild.html",
-      "image_title": "Plauen: Rinderseuche in Sachsen ausgebrochen"
-    },
-    {
-      "title": "Summender Nachwuchs : Sachse arrangiert Sex-Treffen für Bienen",
-      "teaser": "Fraureuth (Sachsen) – Hätten Sie es gewusst? Damit es auch mit den richtigen Partnern klappt, müssen junge Bienen zum Geschlechtsver...",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/imker-sachse-arrangiert-sex-treffen-fuer-bienen-80804122.bild.html",
-      "image_title": "Imker: Sachse arrangiert Sex-Treffen für Bienen"
-    },
-    {
-      "title": "Von Senfeiern bis zum Buttermilchgetzen : Gastro-Tipps für den Urlaub im Osten",
-      "teaser": "Ferienzeit ist Urlaubszeit aber auch genau die richtige Zeit, um regionale Köstlichkeiten in den mitteldeutschen Regionen zu probieren.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/ferien-gastro-tipps-fuer-den-urlaub-im-osten-80798554.bild.html",
-      "image_title": "Ferien: Gastro-Tipps für den Urlaub im Osten"
-    },
-    {
-      "title": "Michael will den Lappen zurück : 33 Jahre alt, 236 Straftaten, 708 Punkte in Flensburg",
-      "teaser": "Er hat unglaubliche 708 (!) Punkte gesammelt – und will jetzt zurück auf die Straße.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/michael-will-den-lappen-zurueck-33-jahre-alt-236-straftaten-708-punkte-in-flensb-80792082.bild.html",
-      "image_title": "33 Jahre alt, 236 Straftaten, 708 Punkte in Flensburg - Michael will den Lappen zurück"
-    },
-    {
-      "title": "Rote Karte für den Krieg : Ukrainer und Russen halten Bolzplatz-Frieden",
-      "teaser": "Sie kommen aus St. Petersburg, Kiew oder dem Donbass. Und sie sind FREUNDE.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-ukrainer-und-russen-halten-bolzplatz-frieden-80802394.bild.html",
-      "image_title": "Leipzig: Ukrainer und Russen halten Bolzplatz-Frieden"
-    },
-    {
-      "title": "Schwerer Unfall in Dresden : Fußgängerin (61) von Lkw totgefahren",
-      "teaser": "Am Montagmorgen wurde eine Fußgängerin in Dresden schwerst verletzt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-in-dresden-fussgaengerin-von-lkw-angefahren-80804976.bild.html",
-      "image_title": "Unfall in Dresden: Fußgängerin von Lkw totgefahren"
-    },
-    {
-      "title": "Fahrerin war stark alkoholisiert : Geisterfahrer-Unfall auf B 2",
-      "teaser": "Leipzig – Wahnsinns-Crash einer Betrunkenen auf der Maximilianallee. Die 40-Jährige fuhr gegen 16.30 Uhr falsch auf die B 2 auf, ras...",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/unfall-betrunkene-geisterfahrerin-baut-crash-auf-b-2-80805486.bild.html",
-      "image_title": "Unfall: Betrunkene Geisterfahrerin baut Crash auf B 2"
-    },
-    {
-      "title": "Kommt die nächste Hitzewelle? : Hoch Mika blockiert alle Regentiefs",
-      "url": "https://www.bild.de/video/clip/video/kommt-die-naechste-hitzwelle-hoch-mika-blockiert-alle-regentiefs-80816578,auto=true.bild.html",
-      "image_title": "Kommt die nächste Hitzewelle?: Hoch Mika blockiert alle Regentiefs"
-    },
-    {
-      "title": "Polizeieinsatz am Bahnhof : Video zeigt Chaos in Timmendorfer Strand",
-      "url": "https://www.bild.de/video/clip/video/polizeieinsatz-am-bahnhof-video-zeigt-chaos-in-timmendorfer-strand-80809732,auto=true.bild.html",
-      "image_title": "Polizeieinsatz am Bahnhof: Video zeigt Chaos in Timmendorfer Strand"
-    },
-    {
-      "title": "Wir können nicht mehr! : Familie Diekmann muss 2.500 € Gas nachzahlen",
-      "url": "https://www.bild.de/video/clip/bild-tv/video-familie-diekmann-muss-2-500-gas-nachzahlen-bild-live-80811618,auto=true.bild.html",
-      "image_title": "Wir können nicht mehr!: Familie Diekmann muss 2.500 € Gas nachzahlen"
-    }
-  ]
+  "articles": []
 }
