@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-26T08:26:43",
+  "timestamp": "2022-07-26T09:24:21",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,370 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.73991f95.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.22cef168.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Waldbrände in Brandenburg & Sachsen : Feuerwalze! Drei Ortschaften evakuiert",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/waldbrand-bei-rehfeld-brandenburg-feuerwalze-drei-ortschaften-evakuiert-80813554.bild.html",
-      "image_title": "Waldbrand bei Rehfeld (Brandenburg): Feuerwalze! Drei Ortschaften evakuiert"
-    },
-    {
-      "title": "Beschlagnahmt! : Polizei geht mit Ferrari auf Verbrecherjagd",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/polizei-in-tschechien-faehrt-ferrari-verbrecherjagd-mit-sportwagen-80809872.bild.html",
-      "image_title": "Polizei in Tschechien fährt Ferrari – Verbrecherjagd mit Sportwagen"
-    },
-    {
-      "title": "Krank und verdreckt im Kleingarten : 30 Tiere aus Berliner Hundehölle befreit",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/krank-und-verdreckt-im-kleingarten-30-tiere-aus-berliner-hundehoelle-befreit-80810140.bild.html",
-      "image_title": "Krank und verdreckt im Kleingarten: 30 Tiere aus Berliner Hundehölle befreit"
-    },
-    {
-      "title": "Irrer Vorschlag bei 35 Grad : Wirtschafts-Boss fordert Freibad-Aus",
-      "teaser": "Für Wasserratten fühlt es sich an wie ein Bauchklatscher.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/irrer-vorschlag-bei-35-grad-wirtschafts-boss-fordert-freibad-aus-80810740.bild.html",
-      "image_title": "Irrer Vorschlag bei 35 Grad: Wirtschafts-Boss fordert Freibad-Aus"
-    },
-    {
-      "title": "Groll gegen Eigentümer : Rätsel um Havel-Mord geklärt",
-      "teaser": "Das Rätsel um den Mord an der Havel ist gelöst! Er geht auf einen Streit um die Wohnung des Täters zurück.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-raetsel-um-havel-mord-geklaert-80811206.bild.html",
-      "image_title": "Berlin: Rätsel um Havel-Mord geklärt"
-    },
-    {
-      "title": "Museum ins alte Wahrzeichen! : Borkum rettet den Wasser-Schatz",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/museum-ins-alte-wahrzeichen-borkum-rettet-den-wasser-schatz-80811840.bild.html",
-      "image_title": "Museum ins alte Wahrzeichen! Borkum rettet den Wasser-Schatz"
-    },
-    {
-      "title": "Ukraine-Flüchtlinge in Angst : Täter schießt auf Haus und rast davon",
-      "teaser": "Sie flüchteten aus dem Krieg in der Ukraine, jetzt fühlen sie sich in Gröpelingen nicht mehr sicher!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/ukraine-fluechtlinge-in-angst-taeter-schiesst-auf-haus-und-rast-davon-80804682.bild.html",
-      "image_title": "Ukraine-Flüchtlinge in Angst: Täter schießt auf Haus und rast davon"
-    },
-    {
-      "title": "Neue Stars mit Start-Problemen : Woran es bei Werders Top-Transfers noch hakt",
-      "teaser": "Bei Niklas Stark und Jens Stage hakt es vor dem Pflichtspiel-Start.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/werder-bremen-start-probleme-woran-es-bei-niklas-stark-und-jens-stage-noch-hakt-80810264.bild.html",
-      "image_title": "Werder Bremen: Start-Probleme: Woran es bei Niklas Stark und Jens Stage noch hakt"
-    },
-    {
-      "title": "Tschechien-Waldbrand greift auf Sachsen über : Kinder-Ferienlager evakuiert",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuer-in-tschechien-weitet-sich-aus-waldbrand-greift-auf-sachsen-ueber-80812154.bild.html",
-      "image_title": "Waldbrand in Sachsen: Feuerwalze aus Tschechien ist da"
-    },
-    {
-      "title": "Drei Tore aufgelegt : Göbel lüftet sein Schuh-Geheimnis",
-      "teaser": "Auch ohne eigenen Treffer war Patrick Göbel beim 3:2 gegen Halle Zwickaus bester Mann.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/3-liga-drei-tore-aufgelegt-goebel-lueftet-sein-schuh-geheimnis-80805874.bild.html",
-      "image_title": "3. Liga! Drei Tore aufgelegt: Göbel lüftet sein Schuh-Geheimnis"
-    },
-    {
-      "title": "Seltenes Tier hält Bewohner auf Trab : Diebischer Wolf randaliert in 3000-Seelen-Dorf",
-      "teaser": "Seit Anfang Juni spukt ein unerwünschter Gast durch die Vorgärten.",
-      "url": "https://www.bild.de/news/inland/news-inland/von-ueberwachungs-kamera-erfasst-diebischer-wolf-randaliert-in-dorf-80791300.bild.html",
-      "image_title": "Von Überwachungs-Kamera erfasst: Diebischer Wolf randaliert in Dorf"
-    },
-    {
-      "title": "Wieder Waldbrand-Alarm : Warum zieht der Rauch immer nach Dresden?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/waldbrand-in-sachsen-warum-zieht-der-rauch-immer-nach-dresden-80813084.bild.html",
-      "image_title": "Waldbrand in Sachsen: Warum zieht der Rauch immer nach Dresden?"
-    },
-    {
-      "title": "Auf Usedom : Beim Bootverladen – BMW geht baden",
-      "teaser": "Im Hafen von Karlshagen wollte am Samstag ein Skipper (49) sein Segelboot herausholen und auf einen Trailer verladen. Das ging komplett schief.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-bmw-geht-auf-usedom-baden-80804750.bild.html",
-      "image_title": "Unfall: BMW geht auf Usedom baden"
-    },
-    {
-      "title": "StuRa Dresden fordert : Getrennte Klos für Männer und Frauen abschaffen",
-      "teaser": "Dresden – Ist demnächst alles neu für Dresdens Studenten beim großen und beim kleinen Geschäft? Geht es nach dem Studentenrat (StuR...",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-stura-will-maenner-und-frauentoiletten-abschaffen-80809928.bild.html",
-      "image_title": "Dresden: StuRa will Männer- und Frauentoiletten abschaffen"
-    },
-    {
-      "title": "Autodieb rast in Radarfalle : Geklaut, geblitzt – und ICH sollte zahlen!",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/autodieb-rast-in-radarfalle-geklaut-geblitzt-und-ich-sollte-zahlen-80812638.bild.html",
-      "image_title": "Autodieb rast in Radarfalle: Geklaut, geblitzt – und ICH sollte zahlen!"
-    },
-    {
-      "title": "Diese Filme entstehen derzeit in NRW : Der Sommer wird abgedreht!",
-      "teaser": "Sommer, Sonne, Spielfilme! BILD zeigt exklusive Set-Bilder aktueller Produktionen in NRW.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/diese-filme-entstehen-derzeit-in-nrw-der-sommer-wird-abgedreht-80779756.bild.html",
-      "image_title": "Diese Filme entstehen derzeit in NRW: Der Sommer wird abgedreht!"
-    },
-    {
-      "title": "Lainer hat große Pläne : \"Schon diese Saison wieder Champions League\"",
-      "teaser": "Im exklusiven BILD-Interview zeigt sich Gladbach-Verteidiger Stefan Lainer angriffslustig.",
-      "url": "https://www.bild.de/sport/fussball/fussball/borussia-moenchengladbach-lainer-wieder-eine-gute-rolle-spielen-80801084.bild.html",
-      "image_title": "Borussia Mönchengladbach: Lainer: \"Wieder eine gute Rolle spielen\""
-    },
-    {
-      "title": "Großeinsatz : Dutzende Rinder sterben bei Scheunen-Brand",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/dipperz-grosseinsatz-dutzende-rinder-sterben-bei-scheunen-brand-80814008.bild.html",
-      "image_title": "Dipperz: Großeinsatz: Dutzende Rinder sterben bei Scheunen-Brand"
-    },
-    {
-      "title": "Laster umgekippt : Reisebus drängt Lkw in Autobahn-Baustelle ab",
-      "teaser": "Wie durch ein Wunder gab es hier offenbar keine Verletzten!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/fulda-laster-umgekippt-reisebus-draengt-lkw-in-autobahn-baustelle-ab-80813918.bild.html",
-      "image_title": "Fulda: Laster umgekippt: Reisebus drängt Lkw in Autobahn-Baustelle ab"
-    },
-    {
-      "title": "Aus Kurve geflogen : Motorradfahrer stirbt nach Unfall",
-      "teaser": "Tödlicher Unfall in Hessen: Dort geriet ein Motorradfahrer auf die Gegenfahrbahn.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/hasselroth-aus-der-kurve-geflogen-motorradfahrer-stirbt-nach-unfall-80813832.bild.html",
-      "image_title": "Hasselroth: Aus der Kurve geflogen: Motorradfahrer stirbt nach Unfall"
-    },
-    {
-      "title": "Zoff um Absage von Traditions-Umzug : Dicke Luft zwischen Bürgermeister und Polizei Sylt",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/traditions-umzug-dicke-luft-zwischen-buergermeister-und-polizei-sylt-80814368.bild.html",
-      "image_title": "Traditions-Umzug: Dicke Luft zwischen Bürgermeister und Polizei Sylt"
-    },
-    {
-      "title": "3000 Menschen betroffen : Blindgänger wird in Kiel entschärft",
-      "teaser": "Explosiver Fund auf dem Gelände der Friedrich-Junge-Schule in Kiel!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/3000-menschen-betroffen-blindgaenger-wird-kiel-entschaerft-80814580.bild.html",
-      "image_title": "3000 Menschen betroffen: Blindgänger wird in Kiel entschärft"
-    },
-    {
-      "title": "Expedition unterbrochen : Polarforscher Arved Fuchs auf Island notoperiert",
-      "teaser": "Arved Fuchs hat sich während einer Expedition einer Notoperation unterziehen müssen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/expedition-ocean-change-unterbrochen-polarforscher-arved-fuchs-auf-island-notope-80814166.bild.html",
-      "image_title": "Expedition „Ocean Change“ unterbrochen: Polarforscher Arved Fuchs auf Island notoperiert"
-    },
-    {
-      "title": "7 Brände in einer Nacht in Peine : Angst vor irrem Feuerteufel",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/7-braende-in-einer-nacht-in-peine-angst-vor-irrem-feuerteufel-80810088.bild.html",
-      "image_title": "7 Brände in einer Nacht in Peine: Angst vor irrem Feuerteufel"
-    },
-    {
-      "title": "Sensoren ermitteln Wasserbedarf : Fiebermessen am Straßenrand",
-      "teaser": "Mit Sensoren und digitaler Überwachung soll die Bewässerung von Bäumen effektiver werden",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/sensoren-ermitteln-wasserbedarf-fiebermessen-am-strassenrand-80810402.bild.html",
-      "image_title": "Sensoren ermitteln Wasserbedarf: Fiebermessen am Straßenrand"
-    },
-    {
-      "title": "Hannover 96 : Knaller Köhn droht mit dem Hammer",
-      "teaser": "Erst zwei Spiele, aber Derrick Köhn ist bei Hannover 96 schon Fan-Liebling...",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-knaller-derrick-koehn-droht-mit-dem-hammer-80811242.bild.html",
-      "image_title": "Hannover 96: Knaller Derrick Köhn droht mit dem Hammer"
-    },
-    {
-      "title": "Playmate Laura (25) hat jetzt D-Körbchen : In der Schule wurde ich wegen meiner Brüste gemobbt",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/playmate-hat-jetzt-d-koerbchen-mobbing-wegen-mini-bruesten-80797566.bild.html",
-      "image_title": "Playmate hat jetzt D-Körbchen: Mobbing wegen Mini-Brüsten"
-    },
-    {
-      "title": "Autobahnkontrollen in Aachen : Auf der Suche nach Hells Angels",
-      "teaser": "Große Kontrollaktion am Sonntagabend auf der Autobahn 44 bei Aachen-Brand.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/autobahnkontrollen-in-aachen-auf-der-suche-nach-hells-angels-80810322.bild.html",
-      "image_title": "Autobahnkontrollen in Aachen: Auf der Suche nach Hells Angels"
-    },
-    {
-      "title": "Köln kämpft für friedliche Fußballfeste : Projekt soll Polizisten vor Fan-Gewalt schützen",
-      "teaser": "Stadt und Polizei Köln haben die Kampagne „Friedliche Fußballfeste“ gestartet.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-will-friedliche-fussballfeste-projekt-soll-polizisten-vor-fan-gewalt-schue-80811366.bild.html",
-      "image_title": "Köln will friedliche Fußballfeste: Projekt soll Polizisten vor Fan-Gewalt schützen"
-    },
-    {
-      "title": "Fast alle geflüchtet : Wo sind die Ukrainer aus „Mockau II“ hin?",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/ukrainische-fluechtlinge-in-leipzig-wo-sind-die-ukrainer-aus-mockau-ii-hin-80813118.bild.html",
-      "image_title": "Ukrainische Flüchtlinge in Leipzig: Wo sind die Ukrainer aus „Mockau II“ hin?"
-    },
-    {
-      "title": "Hantel statt Handball : So macht sich die DHfK fit für die Saison",
-      "teaser": "Die DHfK-Handballer mussten am Montag beim Kraftdreikampf zeigen, wie fit sie sind.",
-      "url": "https://www.bild.de/sport/mehr-sport/handball/hantel-statt-handball-so-macht-sich-dhfk-leipzig-fit-fuer-die-saison-80810230.bild.html",
-      "image_title": "Hantel statt Handball: So macht sich DHfK Leipzig fit für die Saison"
-    },
-    {
-      "title": "Klartext Klostermann : RB-Nationalspieler stört lange Transferperiode",
-      "teaser": "Bis 1.9. ist das Transferfenster noch offen. Das gefällt nicht allen Bundesligastars.",
-      "url": "https://www.bild.de/sport/fussball/fussball/rb-leipzig-lukas-klostermann-stoert-lange-transferperiode-80808932.bild.html",
-      "image_title": "RB Leipzig: Lukas Klostermann stört lange Transferperiode"
-    },
-    {
-      "title": "Hansa-Schumacher : Erstes Zweitliga-Tor mit Ansage",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansa-schumacher-erstes-zweitliga-tor-mit-ansage-80808656.bild.html",
-      "image_title": "Hansa-Schumacher: Erstes Zweitliga-Tor mit Ansage"
-    },
-    {
-      "title": "Das FKK-Comeback : Warum sich der Osten wieder nackig macht",
-      "teaser": "Nach der Wende war FKK plötzlich out. Kommt jetzt die Trendwende?",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/fkk-comeback-warum-sich-der-osten-wieder-nackig-macht-80782324.bild.html",
-      "image_title": "FKK: Warum sich der Osten wieder nackig macht"
-    },
-    {
-      "title": "Überraschung in neuer Gehalts-Tabelle : Was Männer und Frauen im Schnitt verdienen",
-      "teaser": "Etwas angenähert haben sich die Gehälter von Frauen (3276 Euro) und Männern (3649 Euro)",
-      "url": "https://www.bild.de/geld/mein-geld/wirtschaft/gehaelter-der-deutschen-wieder-gestiegen-im-osten-verdienen-frauen-mehr-als-maen-80793786.bild.html",
-      "image_title": "Überraschung in neuer Gehalts-Tabelle: Was Männer und Frauen im Schnitt verdienen"
-    },
-    {
-      "title": "Es war ein berühmtes „Lost Place“ : Geisterhotel brennt komplett ab",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/lost-place-in-habischried-flammeninferno-im-geisterhotel-80815122.bild.html",
-      "image_title": "„Lost Place“ in Habischried: Flammeninferno im Geisterhotel"
-    },
-    {
-      "title": "Feuerwehr bricht Türe der Frau (83) auf : Lauter Fernseher löst Polizeieinsatz aus",
-      "teaser": "Rosenheim – Anwohner hatten die Polizei gerufen, nachdem der Fernseher laut war.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/feuerwehr-bricht-tuere-der-frau-83-auf-fernseher-loest-einsatz-aus-80814702.bild.html",
-      "image_title": "Feuerwehr bricht Türe der Frau (83) auf: Fernseher löst Einsatz aus"
-    },
-    {
-      "title": "Genug eigene Energie : Das Dorf, das Putin trotzt",
-      "teaser": "Die 950 Bewohner von Großbardorf (Unterfranken) haben keine Angst vor der Energie-Krise.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/genug-eigene-energie-das-dorf-das-putin-trotzt-80812654.bild.html",
-      "image_title": "Genug eigene Energie: Das Dorf, das Putin trotzt"
-    },
-    {
-      "title": "Trauriger Rekord! : Noch nie lebten hier so wenige junge Menschen",
-      "url": "https://www.bild.de/politik/inland/politik-inland/trauriger-rekord-noch-nie-lebten-so-wenige-junge-menschen-in-deutschland-80804278.bild.html",
-      "image_title": "Trauriger Rekord: Noch nie lebten so wenige junge Menschen in Deutschland"
-    },
-    {
-      "title": "Aalen : Blitzschlag legt Bahnbetrieb lahm",
-      "teaser": "Wegen eines Blitzschlags in einen Baum hat ein Zug in Rainau-Buch eine Vollbremsung gemacht.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/aalen-blitzschlag-legt-bahnbetrieb-lahm-80814078.bild.html",
-      "image_title": "Aalen: Blitzschlag legt Bahnbetrieb lahm."
-    },
-    {
-      "title": "Hubschrauber brachte Säugling in Klinik : Baby im Bus aus Kinderwagen geschleudert",
-      "teaser": "Säugling wurde in einem Linienbus im Landkreis Rastatt aus seinem Kinderwagen geschleudert.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/baby-im-bus-aus-kinderwagen-geschleudert-80813972.bild.html",
-      "image_title": "Baby im Bus aus Kinderwagen geschleudert."
-    },
-    {
-      "title": "Aus Fachklinik in Bedburg-Hau getürmt : Polizei schnappt Räuber in Köln",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/aus-fachklinik-in-bedburg-hau-getuermt-polizei-schnappt-raeuber-in-koeln-80814944.bild.html",
-      "image_title": "Aus Fachklinik in Bedburg-Hau getürmt: Polizei schnappt Räuber in Köln"
-    },
-    {
-      "title": "Weil die Stadt seinen Müll entsorgt hatte : Bekannter Kran-Besetzer besetzt schon wieder Kran",
-      "teaser": "Er ist wieder geklettert. Und Münster stöhnt unter einem Verkehrskollaps!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/duesseldorf-aktuell/muenster-bekannter-kran-besetzer-besetzt-schon-wieder-kran-80813870.bild.html",
-      "image_title": "Münster: Bekannter Kran-Besetzer besetzt schon wieder Kran"
-    },
-    {
-      "title": "Bereits seit Samstag : Leonardo K. (12) spurlos verschwunden",
-      "teaser": "Die Polizei bittet um Hilfe bei der Suche nach einem vermissten Kind aus Gelsenkirchen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/gelsenkirchen-junge-12-seit-samstag-verschwunden-polizei-fahndet-80814346.bild.html",
-      "image_title": "Gelsenkirchen: Junge (12) seit Samstag verschwunden - Polizei fahndet"
-    },
-    {
-      "title": "Nach Gift-Alarm : Bananenspinne weg, Markt offen",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/schaedlingsbekaempfer-spinne-weg-markt-offen-80809500.bild.html",
-      "image_title": "Nach Gift-Alarm: Bananenspinne weg, Markt wieder offen"
-    },
-    {
-      "title": "Saarbrückens FranTZ : Der schlimmste Tag meiner Karriere",
-      "teaser": "Saarbrückens Mike Frantz (35) ist geradeheraus. Gerade wenn es um seinen Herzensklub geht.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fc-saarbruecken-frantz-das-war-der-schlimmste-tag-meiner-karriere-80809338.bild.html",
-      "image_title": "1. FC Saarbrücken: Frantz: Das war der schlimmste Tag meiner Karriere"
-    },
-    {
-      "title": "Mit 70 noch Rettungsschwimmer : So fit wie Heiner ist keiner",
-      "teaser": "Heiner Klein (70) ist der älteste DLRG-Retter des Saarlandes.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/mit-70-noch-rettungsschwimmer-so-fit-wie-heiner-ist-keiner-80806066.bild.html",
-      "image_title": "Mit 70 noch Rettungsschwimmer: So fit wie Heiner ist keiner"
-    },
-    {
-      "title": "Hallescher FC : Nietfeld erklärt den Mutlos-Auftritt",
-      "teaser": "Das ist ein dicker Stimmungskiller. Der Hallesche FC hat den Auftakt 2:3 in Zwickau direkt vergeigt.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hallescher-fc-nietfeld-erklaert-den-mutlos-auftritt-80809294.bild.html",
-      "image_title": "Hallescher FC: Nietfeld erklärt den Mutlos-Auftritt"
-    },
-    {
-      "title": "Von Senfeiern bis zum Buttermilchgetzen : Gastro-Tipps für den Urlaub im Osten",
-      "teaser": "Ferienzeit ist Urlaubszeit aber auch genau die richtige Zeit, um regionale Köstlichkeiten in den mitteldeutschen Regionen zu probieren.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/ferien-gastro-tipps-fuer-den-urlaub-im-osten-80798554.bild.html",
-      "image_title": "Ferien: Gastro-Tipps für den Urlaub im Osten"
-    },
-    {
-      "title": "Ayleen (14) spurlos verschwunden : Was geschah auf diesen 200 Metern?",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/ayleen-14-spurlos-verschwunden-was-geschah-auf-diesen-200-metern-80814436.bild.html",
-      "image_title": "Ayleen (14) spurlos verschwunden: Was geschah auf diesen 200 Metern?"
-    },
-    {
-      "title": "Roland Arnold war Gast beim Reifen-König : „Das war die schönste Hochzeit, außer meiner eigenen“",
-      "teaser": "Roland Arnold (56) war zu Gast bei der Hochzeit des Reifen-Königs, wurde Zeuge des Dramas.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/roland-arnold-56-war-gast-beim-reifen-koenig-die-schoenste-hochzeit-ausser-meine-80811774.bild.html",
-      "image_title": "Roland Arnold (56) war Gast beim Reifen-König: „Die schönste Hochzeit, außer meiner eigenen“"
-    },
-    {
-      "title": "Crailsheim : Mann (42) schlägt Kind (10) im Freibad",
-      "teaser": "Nach einem Streit unter Kindern soll ein Mann in Crailsheim ein Kind geschlagen haben.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/crailsheim-mann-42-schlaegt-kind-10-im-freibad-80814526.bild.html",
-      "image_title": "Crailsheim: Mann (42) schlägt Kind (10) im Freibad"
-    },
-    {
-      "title": "Jena-Torwart Kevin Kunz : Das ist unser Pokal-Plan gegen Wolfsburg",
-      "url": "https://www.bild.de/sport/fussball/fussball/jena-torwart-kevin-kunz-das-ist-unser-pokal-plan-gegen-wolfsburg-80808726.bild.html",
-      "image_title": "Jena-Torwart Kevin Kunz: Das ist unser Pokal-Plan gegen Wolfsburg"
-    },
-    {
-      "title": "Auffahrunfall auf der A4 : Sprinter rast in Lkw – Beifahrer tot",
-      "teaser": "Die zerbeulte Front zeigt die Wucht des Aufpralls. Der Beifahrer kam dabei ums Leben.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/auffahrunfall-auf-der-a4-sprinter-rast-in-lkw-beifahrer-tot-80808388.bild.html",
-      "image_title": "Auffahrunfall auf der A4: Sprinter rast in Lkw – Beifahrer tot"
-    },
-    {
-      "title": "Gemeindehaus, Feuerwehr, Spielplatz : Siggi zahlt alles!",
-      "teaser": "„Ich hab‘ meine Heimat nie vergessen“, sagt Siggi Neuhaus – und meint es!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/windischleuba-gemeindehaus-feuerwehr-spielplatz-siggi-zahlt-alles-80802136.bild.html",
-      "image_title": "Windischleuba: Gemeindehaus, Feuerwehr, Spielplatz – Siggi zahlt alles!"
-    }
-  ]
+  "articles": []
 }
