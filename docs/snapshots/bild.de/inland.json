@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-27T12:49:16",
+  "timestamp": "2022-07-27T13:48:31",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.1-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f2232fb3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.ae66072f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.02c036ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Kampf gegen Flammen bis zur Erschöpfung : Feuerwehrleute sind die Helden des Brand-Sommers",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehrleute-sie-sind-die-helden-des-flammen-sommers-80828398.bild.html",
-      "image_url": "https://images.bild.de/62e11f172d5aac50b3c8e385/b7763ef3e3bf9f115e657b8d0de4eb20,1d40d8c1?w=656",
-      "image_title": "Feuerwehrleute: Sie sind die Helden des Flammen-Sommers"
-    },
-    {
-      "title": "Olympia-Attentat : Bundesregierung zu mehr Entschädigungen bereit",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/olympia-attentat-1972-bundesregierung-zu-mehr-entschaedigungen-bereit-80827650.bild.html",
-      "image_url": "https://images.bild.de/62e115dabc2bc54ff3381af5/31518f3659a81261c61ad1dc3777ad9f,fd8d6d0?w=320",
-      "image_title": "Olympia-Attentat 1972: Bundesregierung zu mehr Entschädigungen bereit"
-    },
-    {
-      "title": "Hacker greifen Info-Bildschirm an : Porno-Alarm auf Hiddensee",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/polizei-ermittelt-porno-panne-auf-hiddensee-80826190.bild.html",
-      "image_url": "https://images.bild.de/62e0f94d60a3e73b21ea2eee/8b846d36779465b5164ff3c960249b49,357481a6?w=320",
-      "image_title": "Hiddensee: Hacker-Angriff! Pornos statt Wetter auf Info-Tafeln"
-    },
-    {
-      "title": "530 000 Euro teuer - aber keinen TÜV : Diese Feuerwehr rettete illegal Leben",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/waldbrand-in-sachsen-verbotenes-feuerwehrauto-rettet-leben-80825194.bild.html",
-      "image_url": "https://images.bild.de/62e0e89bbc2bc54ff3381a8a/671b393b0cb39e45cd3460a7f74a0650,4683ba0a?w=320",
-      "image_title": "Waldbrand in Sachsen: Verbotenes Feuerwehrauto aus Falkenberg rettet Leben"
-    },
-    {
-      "title": "Bayreuther Festspiele : Staatsanwalt ermittelt wegen sexueller Übergriffe",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bayreuther-festspiele-ermittlungen-wegen-sexueller-uebergriffe-80826366.bild.html",
-      "image_url": "https://images.bild.de/62e0fb39b080907b6a50cb23/b212fde7967f7bd2fd6f2267fad22aa6-miniSquare,81deb3b1?w=320",
-      "image_title": "Bayreuther Festspiele: Ermittlungen wegen sexueller Übergriffe"
-    },
-    {
-      "title": "Streik beim Lufthansa-Bodenpersonal : Reisende müssen mehrere Tage auf Weiterflüge warten",
-      "url": "https://www.bild.de/news/inland/news-inland/mitten-in-der-urlaubszeit-lufthansa-bodenpersonal-streikt-an-deutschen-flughaefe-80824250.bild.html",
-      "image_title": "Streik bei Lufthansa: Reisende müssen mehrere Tage auf Weiterflüge warten"
-    },
-    {
-      "title": "Waldbrände in Sachsen und Brandenburg : Gaffer behindern Löscharbeiten!",
-      "teaser": "Die Waldbrände haben sich vorerst nicht weiter ausgebreitet.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/waldbrand-feuer-in-nationalparks-lodern-weiter-80824656.bild.html",
-      "image_title": "Waldbrand in Sächsischer Schweiz: Gaffer behindern Löscharbeiten"
-    },
-    {
-      "title": "Spektakulärer Blitzeinbruch in Chemnitz : Erster mutmaßlicher Juwelier-Räuber geschnappt",
-      "teaser": "Mit einem SUV rammten die Täter im April in ein Juwelier-Schaufenster. Erbeutet haben sie nichts.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-erster-mutmasslicher-juwelier-raeuber-geschnappt-nach-blitzeinbruch-80826226.bild.html",
-      "image_title": "Chemnitz: Erster mutmaßlicher Juwelier-Räuber geschnappt nach Blitzeinbruch"
-    },
-    {
-      "title": "Ein Jahr nach Millionen-Schaden bei DHL : Airport-Blockierer drohen mit erneuten Protesten",
-      "teaser": "Die Aktivisten, die im vergangenen Jahr einen Millionenschaden bei DHL verursachten, drohen erneut mit Protesten.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-halle-airport-blockierer-drohen-mit-erneuten-protesten-80790042.bild.html",
-      "image_title": "Leipzig/Halle: Airport-Blockierer drohen mit erneuten Protesten"
-    },
-    {
-      "title": "Familienfreund der vermissten Ayleen : Nicht vorstellbar, dass sie einfach abgehauen ist",
-      "teaser": "Nach dem Verschwinden des Mädchens sucht die Polizei seit Tagen mit Hochdruck.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/maedchen-in-freiburg-verschwunden-polizei-kein-hinweis-auf-verbrechen-80825684.bild.html",
-      "image_title": "Vermisste Ayleen – Familienfreund: Nicht vorstellbar, dass sie einfach abgehauen ist"
-    },
-    {
-      "title": "Andrea Tandler im Landtag : Der bizarre Auftritt der Masken-Millionärin",
-      "teaser": "Andrea Tandler hat 2020 Maskengeschäfte vermittelt und Millionen dafür bekommen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/andrea-tandler-im-landtag-der-bizarre-auftritt-der-masken-millionaerin-80824926.bild.html",
-      "image_title": "Andrea Tandler im Landtag: Der bizarre Auftritt der Masken-Millionärin"
-    },
-    {
-      "title": "Fans von Kultfilm atmen auf : Spezialschrauben sichern Bronze-Schuh von Aschenbrödel",
-      "teaser": "Sonntagmorgen schlugen Gäste in Moritzburg Alarm. Sie fanden den Messing-Schuh von Aschenbrödel (Größe 38) plötzlich locker vor.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/moritzburg-spezialschrauben-sichern-bronze-schuh-von-aschenbroedel-80818894.bild.html",
-      "image_title": "Moritzburg: Spezialschrauben sichern Bronze-Schuh von Aschenbrödel"
-    },
-    {
-      "title": "Bis zu 50 Prozent : Mercedes will Gasverbrauch drücken",
-      "teaser": "Mercedes-Benz bereitet sich darauf vor, seinen Erdgasverbrauch. deutlich zu drosseln.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/bis-zu-50-prozent-mercedes-will-gasverbrauch-druecken-80824990.bild.html",
-      "image_title": "Bis zu 50 Prozent : Mercedes will Gasverbrauch drücken"
-    },
-    {
-      "title": "Herzogenaurach : Puma erhöht Umsatzprognose",
-      "teaser": "Der Sportartikelhersteller Puma hat Umsatz und Gewinn deutlicher gesteigert als erwartet.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/herzogenaurach-puma-erhoeht-umsatzprognose-80824918.bild.html",
-      "image_title": "Herzogenaurach: Puma erhöht Umsatzprognose"
-    },
-    {
-      "title": "Cold Case Simone Strobel : Ex nach 17 Jahren in Australien festgenommen",
-      "teaser": "Mehr als 17 Jahre nach dem Mord an der Würzburgerin nahm die Polizei einen Mann fest.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/cold-case-simone-strobel-ex-freund-nach-17-jahren-in-australien-festgenommen-80815874.bild.html",
-      "image_title": "Cold Case Simone Strobel: Ex-Freund nach 17 Jahren in Australien festgenommen"
-    },
-    {
-      "title": "Wegen angeblicher Weihnachtsfeier : Bußgelder für 40 seiner Pflegekräfte",
-      "teaser": "Erding – Würstel für Mitarbeiter und Bewohner eines Pflegeheims in der Pandemie-Hochphase.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wegen-angeblicher-weihnachtsfeier-40-pflegekraefte-sollen-bussgeld-zahlen-80807660.bild.html",
-      "image_title": "Wegen angeblicher Weihnachtsfeier: 40 Pflegekräfte sollen Bußgeld zahlen"
-    },
-    {
-      "title": "Waldbrände außer Kontrolle : Erste Häuser im Elbsandsteingebirge in Flammen!",
-      "teaser": "Die Lage ist dramatisch, die Flammn sind zum Teil außer Kontrolle.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/waldbraende-erste-haeuser-im-elbsandsteingebirge-in-flammen-80820160.bild.html",
-      "image_title": "Waldbrände: Erste Häuser im Elbsandsteingebirge in Flammen!"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 10 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 26.07.2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-26-juli-80823400.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 26. Juli"
-    },
-    {
-      "title": "Brutaler Angreifer ist flüchtig : Mann (28) lebensgefährlich verletzt",
-      "teaser": "Im Bereich der Jahnallee/Marschnerstraße wurde ein Mann (28) Opfer einer brutalen Attacke.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/brutaler-angriff-in-leipzig-mann-28-lebensgefaehrlich-verletzt-taeter-ist-fluech-80815092.bild.html",
-      "image_title": "Brutaler Angriff in Leipzig: Mann (28) lebensgefährlich verletzt – Täter ist flüchtig"
-    },
-    {
-      "title": "Nach Flucht aus Thüringer Affenpark : Ausgebüxtes Känguru ist zurück",
-      "teaser": "Nach einer Woche Flucht ist Benett-Känguru Skippy (6) zurück im Affenwald Straußberg!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-ausgebuextes-kaenguru-skippy-ist-zurueck-80815810.bild.html",
-      "image_title": "Thüringen: Ausgebüxtes Känguru Skippy ist zurück"
-    },
-    {
-      "title": "Waldbrände in Brandenburg und Sachsen : „Alles steht und fällt mit der Wetterlage“",
-      "teaser": "Die Flammen sind kaum unter Kontrolle zu bekommen.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/waldbrand-bei-rehfeld-brandenburg-feuerwalze-drei-ortschaften-evakuiert-80813554.bild.html",
-      "image_title": "Waldbrand bei Rehfeld (Brandenburg): „Alles steht und fällt mit der Wetterlage“"
-    },
-    {
-      "title": "Nationalparks in Flammen : 70 Kinder und Erwachsene aus Ferienlager evakuiert!",
-      "teaser": "Die Feuerwalze aus Tschechien hat Sachsen erreicht. 70 Deutsche mussten evakuiert werden.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuer-in-tschechien-weitet-sich-aus-waldbrand-greift-auf-sachsen-ueber-80812154.bild.html",
-      "image_title": "Waldbrand Sächsische Schweiz: Feuerwalze aus Tschechien ist da – Ferienlager evakuiert"
-    },
-    {
-      "title": "Kuhmist statt Putin-Erpressung? : Biogas nicht die Alternative für ganz Deutschland",
-      "teaser": "Biogasanlagen bauen und so von Putins Gas unabhängig werden? Warum das nicht geht.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/bio-energie-statt-russen-gas-keine-alternative-fuer-ganz-deutschland-80816510.bild.html",
-      "image_title": "Bio-Energie statt Russen-Gas? Keine Alternative für ganz Deutschland!"
-    },
-    {
-      "title": "Deutsche stehen auf Parkplatz-Sex! : „Auf dem Rastplatz darf ich unartig sein“",
-      "teaser": "Verkehr IM Auto? Wie sich Gleichgesinnte verabreden, wann es teuer werden kann.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/parkplatz-sex-deutsche-lieben-schaeferstuenden-im-auto-an-der-autobahn-80675232.bild.html",
-      "image_title": "Parkplatz-Sex: „Auf dem Rastplatz darf ich unartig sein“"
-    },
-    {
-      "title": "Bio statt Russen-Energie : Diese deutsche Stadt pfeift auf Putins Gas",
-      "teaser": "Sollte Putin das Gas abdrehen, müssen die 22 000 Einwohner hier nicht bibbern.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/mit-biogas-statt-russen-energie-diese-stadt-versorgt-sich-jetzt-selbst-80802488.bild.html",
-      "image_title": "Mit Biogas statt Russen-Energie: Die Stadt Zerbst versorgt sich jetzt selbst"
-    },
-    {
-      "title": "Mitten auf der A1 bei Bremen : Feuerwehr holt Schlange aus Motor",
-      "url": "https://www.bild.de/video/clip/video/mitten-auf-der-a1-bei-bremen-feuerwehr-holt-schlange-aus-motor-80826814,auto=true.bild.html",
-      "image_title": "Mitten auf der A1 bei Bremen: Feuerwehr holt Schlange aus Motor"
-    },
-    {
-      "title": "Flughafen-Mitarbeiter Ralf : „Diese Arbeitssituation ist einfach nicht schön“",
-      "url": "https://www.bild.de/video/clip/video/flughafen-mitarbeiter-ralf-arbeitssituation-ist-einfach-nicht-schoen-80827240,auto=true.bild.html",
-      "image_title": "Flughafen-Mitarbeiter Ralf: „Arbeitssituation ist einfach nicht schön“"
-    },
-    {
-      "title": "Polizeieinsatz am Bahnhof : Chaos in Timmendorfer Strand",
-      "url": "https://www.bild.de/video/clip/video/polizeieinsatz-am-bahnhof-video-zeigt-chaos-in-timmendorfer-strand-80809732,auto=true.bild.html",
-      "image_title": "Polizeieinsatz am Bahnhof: Chaos in Timmendorfer Strand"
-    }
-  ]
+  "articles": []
 }
