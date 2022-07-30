@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-30T02:07:26",
+  "timestamp": "2022-07-30T04:04:40",
   "url": "https://www.bild.de/home/hot-on-bild/bild-kommentar/kommentare-meinungen-und-kolumnen-zu-aktuellen-themen-35874522.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,43158176.8-72042622.2.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e9fc0178.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.88438342.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Kommentar : Putins Folter-Barbaren",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-putins-folter-barbaren-80854874.bild.html",
-      "image_url": "https://images.bild.de/62e43d62d3f93f7ab4ffedff/4eaff0ce9f35d66e10774b9f0ddcd841,b23bc055?w=656",
-      "image_title": "Kommentar: Putins Folter-Barbaren"
-    },
-    {
-      "title": "Post von Wagner : Liebe Alexandra Popp,",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-alexandra-popp-80844996.bild.html",
-      "image_url": "https://images.bild.de/62e2e55660a3e73b21ea3235/507a5c89571a4d5b9bb035d2bdf33b9f,68eb4656?w=320",
-      "image_title": "Post von Wagner: Liebe Alexandra Popp,"
-    },
-    {
-      "title": "Kommentar : Schluss mit den grünen Ausreden!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-schluss-mit-den-gruenen-ausreden-80845056.bild.html",
-      "image_url": "https://images.bild.de/62e2e6cf8220c41ea5582a07/aaafe168cf2c07a4f138a7ada3906818,6b402e91?w=320",
-      "image_title": "Kommentar: Schluss mit den grünen Ausreden!"
-    },
-    {
-      "title": "Post von Wagner : Lieber Papst Franziskus,",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-papst-franziskus-80834234.bild.html",
-      "image_url": "https://images.bild.de/62e1a40860a3e73b21ea303b/df284fd8e4f44a91d111fa4c7fae7a2d-miniSquare,68eb4656?w=320",
-      "image_title": "Post von Wagner: Lieber Papst Franziskus,"
-    },
-    {
-      "title": "Kommentar : Fangt bei Euch selbst an!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-fangt-bei-euch-selbst-an-80832868.bild.html",
-      "image_url": "https://images.bild.de/62e172d260a3e73b21ea2ffb/65abf825d0a088dfa2b972dca20e620f,68530b6c?w=320",
-      "image_title": "Kommentar: Fangt bei Euch selbst an!"
-    },
-    {
-      "title": "Konzert abgebrochen, weil Künstler weiß sind : Dieser Aktivismus ist brandgefährlich!",
-      "url": "https://www.bild.de/politik/kolumnen/politik/konzert-abgebrochen-weil-kuenstler-weiss-sind-dieser-aktivismus-ist-brandgefaehr-80828002.bild.html",
-      "image_title": "Konzert abgebrochen, weil Künstler weiß sind: Dieser Aktivismus ist brandgefährlich!"
-    },
-    {
-      "title": "Kommentar : Ein Streik gegen die eigenen Leute!",
-      "teaser": "Als Chef der Gewerkschaft Ver.di vertritt Frank Werneke knapp zwei Millionen Beschäftigte.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-ein-streik-gegen-die-eigenen-leute-80822906.bild.html",
-      "image_title": "Kommentar: Ein Streik gegen die eigenen Leute!"
-    },
-    {
-      "title": "Post von Wagner : Betrifft: Flughafenchaos",
-      "teaser": "Für mich sind Ver.di und Lufthansa Diebe. Sie stehlen uns Zeit. Zeitdiebstahl ist das neue Verbrechen.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-betrifft-flughafenchaos-80823092.bild.html",
-      "image_title": "Post von Wagner: Betrifft: Flughafenchaos"
-    },
-    {
-      "title": "Post von Wagner : Liebe Malaika Mihambo,",
-      "teaser": "Super-Frau, Wunder-Frau? Sie sind mehr. Sie sind eine wunderbare, ganz normale Frau.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-malaika-mihambo-80812492.bild.html",
-      "image_title": "Post von Wagner: Liebe Malaika Mihambo,"
-    },
-    {
-      "title": "Kommentar : Atomkraft? So lange wie nötig!",
-      "teaser": "Die doppelte Daumenschraube für Wirtschaft und Verbraucher war schon früher kaum zu schaffen.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-atomkraft-so-lange-wie-noetig-80812376.bild.html",
-      "image_title": "Kommentar: Atomkraft? So lange wie nötig!"
-    },
-    {
-      "title": "„Mein Geld“-Kolumne : Anlegen im Alter",
-      "teaser": "Ja, es gibt Altersarmut in Deutschland. Jedoch sind die ältesten die reichsten.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/mein-geld-kolumne-wie-die-generation-ue60-geld-anlegt-80581882.bild.html",
-      "image_title": "Finanzen: Wie die Generation Ü60 Geld anlegt"
-    },
-    {
-      "title": "Kommentar : Bitte kein Baby-Wahlrecht!",
-      "teaser": "Demokratie als bunte Tobe-Welt: Wäre es nicht toll, wenn der dreijährige Finn-Ole oder die 7-jährige Mia-Marie jene Regierung mitwäh...",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-bitte-kein-baby-wahlrecht-80801402.bild.html",
-      "image_title": "Kommentar: Bitte kein Baby-Wahlrecht!"
-    },
-    {
-      "title": "Post von Wagner : Mit „Uns Uwe“ im Stadion",
-      "teaser": "Das Volksparkstadion in Hamburg war ausverkauft – ein Toter spielt. Die Fans trampeln, brüllen nicht. Sie tragen Schwarz. Es ist das...",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-mit-uns-uwe-im-stadion-80802610.bild.html",
-      "image_title": "Post von Wagner: Mit „Uns Uwe“ im Stadion"
-    },
-    {
-      "title": "Kommentar : Die Wahrheit über die Menschen, die arbeiten gehen",
-      "teaser": "Alle spüren – wenn der Sommer geht, kommen schwierige Monate.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-die-wahrheit-ueber-die-menschen-die-arbeiten-gehen-80791126.bild.html",
-      "image_title": "Kommentar: Die Wahrheit über die Menschen, die arbeiten gehen"
-    },
-    {
-      "title": "Standpunkt : Ohne Symptome fünf Tage Isolation? Das geht nicht!",
-      "teaser": "Mittlerweile sind sie eine Farce: die Isolationsregeln bei einer Corona-Infektion!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/standpunkt-ohne-symptome-fuenf-tage-isolation-das-geht-nicht-80791184.bild.html",
-      "image_title": "Standpunkt: Ohne Symptome fünf Tage Isolation? Das geht nicht!"
-    },
-    {
-      "title": "Kommentar : Historische Botschaft",
-      "teaser": "Der Kanzler fliegt aus dem Urlaub ein, verkündet einen Rettungsschirm für Gasversorger, Unternehmer – einfach alle.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-historische-botschaft-80787332.bild.html",
-      "image_title": "Kommentar: Historische Botschaft"
-    },
-    {
-      "title": "Kommentar : Die EZB hat ihren Ruf ruiniert!",
-      "teaser": "Erstmals seit mehr als sechs Jahren gibt es wieder Zinsen in Europa. Eine überfällige Entscheidung!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-die-ezb-hat-ihren-ruf-ruiniert-80777150.bild.html",
-      "image_title": "Kommentar: Die EZB hat ihren Ruf ruiniert!"
-    },
-    {
-      "title": "Post von Wagner : Vor dem himmlischen Richter,",
-      "teaser": "Wie hätte Dieter Wedel diese Szene verfilmt? Er vor Gott, angeklagt wegen Missbrauch und Vergewaltigung?",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-vor-dem-himmlischen-richter-80777434.bild.html",
-      "image_title": "Post von Wagner: Vor dem himmlischen Richter,"
-    },
-    {
-      "title": "Kommentar zum Hitze-Gelöbnis : So geht man mit Soldaten nicht um!",
-      "teaser": "Bei einem Gelöbnis in Berlin mussten 28 Soldaten medizinisch behandelt werden.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zum-hitze-geloebnis-so-geht-man-mit-soldaten-nicht-um-80772934.bild.html",
-      "image_title": "Kommentar zum Hitze-Gelöbnis: So geht man mit Soldaten nicht um!"
-    },
-    {
-      "title": "Kommentar : Dieses Urteil ist ein Skandal",
-      "teaser": "Wer sich an einem Kind vergeht, muss in Haft! Die Politik muss handeln.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-dieses-urteil-ist-ein-skandal-80751874.bild.html",
-      "image_title": "Kommentar: Dieses Urteil ist ein Skandal"
-    },
-    {
-      "title": "Kommentar von BILD-Chef Johannes Boie : Liebe Grüne, springt über euren Schatten",
-      "teaser": "Die Grünen sind seit ihrer Gründung für den Schutz der Natur. Das ist ein gutes und wichtiges Ziel.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-springt-ueber-euren-schatten-80764834.bild.html",
-      "image_title": "Kommentar: Springt über Euren Schatten"
-    },
-    {
-      "title": "Post von Wagner : Blick in den Sommer der Zukunft",
-      "teaser": "Wir werden keine engen Jeans mehr tragen, sondern Pluderhosen. Wir werden um 22 Uhr zum Friseur gehen und kleine Fenster haben. Eine...",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-blick-in-den-sommer-der-zukunft-80765760.bild.html",
-      "image_title": "Post von Wagner: Blick in den Sommer der Zukunft"
-    },
-    {
-      "title": "Kommentar zur Hartz-Revolution : Auf Heil sollten die Bedürftigen nicht hoffen",
-      "teaser": "Heil hat sich fest vorgenommen, vor allem zu fördern, nicht zu fordern",
-      "url": "https://www.bild.de/politik/kolumnen/politik/kommentar-zur-hartz-revolution-auf-heil-sollten-die-beduerftigen-nicht-hoffen-80764732.bild.html",
-      "image_title": "Kommentar zur Hartz-Revolution: Auf Heil sollten die Bedürftigen nicht hoffen"
-    },
-    {
-      "title": "Post von Wagner : Lieber Kanzler (zurzeit im Urlaub)",
-      "teaser": "Irgendwie ist es toll, wie Scholz Putin verachtet, weil er einfach in den Urlaub geht.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-kanzler-zurzeit-im-urlaub-80752006.bild.html",
-      "image_title": "Post von Wagner: Lieber Kanzler (zurzeit im Urlaub)"
-    },
-    {
-      "title": "Kommentar : Leistungsprinzip ade",
-      "teaser": "Wie sich die Ampel-Koalition jetzt den Staat zur Beute macht, ist schon mehr als dreist!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-leistungsprinzip-ade-80740644.bild.html",
-      "image_title": "Kommentar: Leistungsprinzip ade"
-    },
-    {
-      "title": "VERBOT VON REGENBOGENFARBEN : Uefa stärkt Schwulen-Hasser auf der ganzen Welt",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/allianz-arena-nicht-in-regenbogenfarben-die-verlogene-uefa-76858004,auto=true.bild.html",
-      "image_title": "Allianz Arena nicht in Regenbogenfarben: Die verlogene Uefa"
-    },
-    {
-      "title": "Kommentar zu Antisemitismus : Mir wurde beigebracht, Juden zu hassen",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/kommentar-zu-antisemitismus-mir-wurde-beigebracht-juden-zu-hassen-76467928,auto=true.bild.html",
-      "image_title": "Kommentar zu Antisemitismus: Mir wurde beigebracht, Juden zu hassen"
-    },
-    {
-      "title": "Rassismus gegen asiatisch-stämmige Deutsche : Ein Nazi-Mob hat uns angegriffen und alles angepisst",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/rassismus-gegen-asiaten-nazis-haben-angegriffen-und-alles-angepisst-76066044,auto=true.bild.html",
-      "image_title": "Rassismus gegen Asiaten: Nazis haben angegriffen und alles angepisst"
-    }
-  ]
+  "articles": []
 }

@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-07-30T02:07:19",
+  "timestamp": "2022-07-30T04:04:33",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e9fc0178.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.88438342.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.64643360.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Rechtsextreme Inhalte in Chatgruppen : Razzia bei hochrangigen Polizisten in Hessen",
-      "url": "https://www.bild.de/regional/frankfurt/news-inland/hessen-razzia-bei-hochrangigen-polizisten-80855378.bild.html",
-      "image_url": "https://images.bild.de/62e44d3cd3f93f7ab4ffee15/1d4afd75786eef30033064f21bd9b3e5,4b58eeef?w=656",
-      "image_title": "Hessen: Razzia bei hochrangigen Polizisten"
-    },
-    {
-      "title": "Hilferuf eines Feuerwehrmanns : „Klatscht nicht, kommt zu uns!“",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehrmann-aus-waldbrand-gebiet-klatscht-nicht-kommt-zu-uns-80852132.bild.html",
-      "image_url": "https://images.bild.de/62e3f4d860a3e73b21ea33a9/ffdf9e5a5a5689d772af83e181023a6c,76713be1?w=320",
-      "image_title": "Feuerwehr: „Klatscht nicht, kommt zu uns!“"
-    },
-    {
-      "title": "Eurojackpot am Freitag : Haben Sie den 17-Millionen-Euro-Jackpot geknackt?",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-29-juli-80825758.bild.html",
-      "image_url": "https://images.bild.de/62e0f2d1b080907b6a50cb0d/620e292c612eaecb0afa8533cda94997,dc48b40a?w=320",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 29. Juli"
-    },
-    {
-      "title": "Cold Case Simone Strobel (†25) : Nach 17 Jahren: Mord-Anklage gegen Ex-Freund",
-      "url": "https://www.bild.de/bild-plus/regional/nuernberg/nuernberg-news/cold-case-wuerzburg-mord-anklage-gegen-ex-freund-von-simone-strobel-80837584.bild.html",
-      "image_url": "https://images.bild.de/62e260958220c41ea55828f1/7e31dcf654ccbe7e0e0b2df941f08ab0,89d2c5ab?w=320",
-      "image_title": "Cold Case Würzburg: Mord-Anklage gegen Ex-Freund von Simone Strobel"
-    },
-    {
-      "title": "Nach Lehmann-Anzeige : LKA ermittelt gegen Polizei in Starnberg",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-lehmann-anzeige-lka-ermittelt-gegen-polizei-in-starnberg-80847370.bild.html",
-      "image_url": "https://images.bild.de/62e39eaa60a3e73b21ea32d6/2020fe6c73b8d8f0d98bb3a6521c55cb,b5197c5e?w=320",
-      "image_title": "Nach Lehmann-Anzeige: LKA ermittelt gegen Polizei in Starnberg"
-    },
-    {
-      "title": "Sie rettete sich in letzter Sekunde : Frau (25) überlebt Unfall mit ICE",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-frau-25-ueberlebt-unfall-mit-ice-am-bahnhof-burg-80840180.bild.html",
-      "image_title": "Sachsen-Anhalt: Frau (25) überlebt Unfall mit ICE am Bahnhof Burg"
-    },
-    {
-      "title": "Nicht nur Mus : Mühlhausen - kleine Stadt, große Überraschung",
-      "teaser": "Elf gotische Kirchen, eine 2,7 Kilometer lange, gut erhaltene Stadtmauer, Fachwerkhäuser - Mühlhausen ist noch ein Geheimtipp.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-muehlhausen-kleine-stadt-grosse-ueberraschung-80846290.bild.html",
-      "image_title": "Thüringen: Mühlhausen - kleine Stadt, große Überraschung"
-    },
-    {
-      "title": "Lufthansa verspricht : 99 Prozent aller Ferienflüge werden stattfinden",
-      "teaser": "Endlich gute Nachrichten für unseren Urlaubssommer!",
-      "url": "https://www.bild.de/news/inland/news-inland/lufthansa-verspricht-99-prozent-aller-ferienfluege-im-sommer-werden-stattfinden-80845690.bild.html",
-      "image_title": "Lufthansa verspricht: 99 Prozent aller Ferienflüge im Sommer werden stattfinden"
-    },
-    {
-      "title": "Lehmanns Wutrausch-Angriff : Torwart-Held Lehmann zeigt die Polizei an!",
-      "teaser": "Nach dem Wut-Rausch von Jens Lehmann mit einer Kettensäge, rückte die Polizei wieder an.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/jens-lehmann-polizeieinsatz-nach-garagen-attacke-80841072.bild.html",
-      "image_title": "Jens Lehmann: Polizeieinsatz nach Attacke auf Garage mit Kettensäge"
-    },
-    {
-      "title": "Ekel-Fund : Zoll zieht Rinderhaut, Hufe und Gebisse ein",
-      "teaser": "Der Zoll hat am Münchner Flughafen kiloweise Fleisch aus dem Verkehr gezogen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ekel-fund-in-muenchen-zoll-zieht-rinderhaut-hufe-und-gebisse-ein-80846472.bild.html",
-      "image_title": "Ekel-Fund in München: Zoll zieht Rinderhaut, Hufe und Gebisse ein"
-    },
-    {
-      "title": "Waldbrände in der Sächsischen Schweiz : Nach dem Feuer drohen Felsstürze!",
-      "teaser": "Ein Experte schließt nach den Feuern im Nationalpark Sächsische Schweiz Felsstürze nicht aus.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/nach-waldbraenden-experte-befuerchtet-felsstuerze-in-saechsischer-schweiz-80842510.bild.html",
-      "image_title": "Sächsische Schweiz: Nach dem Feuer drohen Felsstürze!"
-    },
-    {
-      "title": "Kampf bis zur Erschöpfung : Sie sind die Helden des Feuer-Sommers",
-      "teaser": "Dieses Foto sagt mehr als Tausend Worte! Vollkommen erschöpft schlafen sie am Waldrand, um den Kampf gegen einen der größten Brände bald fortzusetzen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehrleute-sie-sind-die-helden-des-flammen-sommers-80828398.bild.html",
-      "image_title": "Feuerwehrleute: Sie sind die Helden des Flammen-Sommers"
-    },
-    {
-      "title": "Keimfalle Saale : Dutzende Schwimmer nach Wettkampf im Fluss krank",
-      "teaser": "Aus und vorbei! Das 16. Internationale Saale-Schwimmen am 9. Juli war das letzte.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/leipzig-news/halle-keimfalle-saale-dutzende-schwimmer-nach-wettkampf-krank-80844410.bild.html",
-      "image_title": "Halle: Keimfalle Saale! Dutzende Schwimmer nach Wettkampf krank"
-    },
-    {
-      "title": "Akku von E-Rollstuhl fing Feuer : Polizisten retten Ehepaar (82, 85) aus brennender Wohnung",
-      "teaser": "Polizisten retteten in Bernburg ein Rentner-Eheapaar (82, 85), die in der brennenden Wohnung gfeangen waren.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/rollstuhl-fing-feuer-ehepaar-82-85-in-brennender-wohnung-gefangen-80838022.bild.html",
-      "image_title": "Feuer: Polizisten retten Ehepaar (82, 85) aus brennender Wohnung"
-    },
-    {
-      "title": "Zoff wegen Corona : Jede fünfte Freundschaft zerbrochen",
-      "teaser": "Die Coronapandemie hatte viele negative Auswirkungen auf uns – auch im kleinen Kreis.",
-      "url": "https://www.bild.de/news/inland/news-inland/streit-wegen-corona-jede-5-freundschaft-waehrend-pandemie-zerbrochen-80838814.bild.html",
-      "image_title": "Streit wegen Corona: Jede 5. Freundschaft während Pandemie zerbrochen"
-    },
-    {
-      "title": "Robin Pietsch : Starkoch verliert Stern und warum das gut so ist",
-      "teaser": "Die meisten Spitzenköche fürchten den Verlust ihrer Sterne. Robin Pietsch (33), Sachsen-Anhalts bekanntester Sterne-Koch, nimmt das gerne in Kauf.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/guide-michelin-neustart-fuer-star-koch-robin-pietsch-80837362.bild.html",
-      "image_title": "Guide-Michelin: Neustart für Star-Koch Robin Pietsch"
-    },
-    {
-      "title": "Prozess um Linksextremistin Lina E. : Mordaufruf gegen den Kronzeugen!",
-      "teaser": "Seit 59 Tagen steht die mutmaßliche Connewitzer Linksextremistin Lina E. (27) in Dresden vor Gericht.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/prozess-um-leipziger-linksextremistin-lina-e-mordaufruf-gegen-den-kronzeugen-80833578.bild.html",
-      "image_title": "Prozess um Leipziger Linksextremistin Lina E.: Mordaufruf gegen den Kronzeugen!"
-    },
-    {
-      "title": "Großbrand in Bothenheilingen : Opfer bekommen erste Spenden ausgezahlt",
-      "teaser": "15 Menschen verloren vor knapp zwei Wochen ihr Zuhause bei dem verheerenden Brand.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/bothenheilingen-brand-opfer-bekommen-erste-geldspenden-ausgezahlt-80836556.bild.html",
-      "image_title": "Bothenheilingen: Brand-Opfer bekommen erste Geldspenden ausgezahlt"
-    },
-    {
-      "title": "Früher beliebtes Wirtshaus im Erzgebirge : Tscheche baut „Dreckschänke“ wieder auf",
-      "teaser": "Johanngeorgenstadt (Sachsen) – Kaiser und Könige hat der Name nicht abgeschreckt, Bismarck übernachtete hier und Erzgebirgsbarde Ant...",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/erzgebirge-tscheche-baut-dreckschaenke-wieder-auf-80836966.bild.html",
-      "image_title": "Erzgebirge: Tscheche baut „Dreckschänke“ wieder auf"
-    },
-    {
-      "title": "Im Nationalpark Sächsische Schweiz : Waldbrände – aber der Chef machte Urlaub",
-      "teaser": "Es sind die schlimmsten Waldbrände in der Geschichte des Nationalparks Sächsische Schweiz.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/saechsische-schweiz-waldbraende-aber-der-chef-ist-im-urlaub-80833750.bild.html",
-      "image_title": "Feuer in Sächsischer Schweiz: Waldbrände – aber der Nationalpark-Chef machte Urlaub"
-    },
-    {
-      "title": "Schock in der Nacht : Hinrichtung in Hamburger Shisha-Bar",
-      "teaser": "In einer Shisha-Bar in Hamburg-Hohenfelde wurde eine Person mit Schüssen tödlich verletzt.",
-      "url": "https://www.bild.de/regional/hamburg/news-inland/ein-mann-tot-schiesserei-in-hamburger-shisha-bar-80834686.bild.html",
-      "image_title": "Schock in der Nacht: Hinrichtung in Hamburger Shisha-Bar"
-    },
-    {
-      "title": "BILD-Reporter im Waldbrand-Gebiet : Die Schweine schrien im Todeskampf",
-      "teaser": "Hitze, Trockenheit, Feuer, ein Geruch wie in einem Räucherofen.",
-      "url": "https://www.bild.de/news/inland/news-inland/waldbrand-in-deutschland-die-schweine-schrien-im-todeskampf-80827428.bild.html",
-      "image_title": "BILD-Reporter im Waldbrand-Gebiet: Die Schweine schrien im Todeskampf"
-    },
-    {
-      "title": "Deutsche stehen auf Parkplatz-Sex! : „Auf dem Rastplatz darf ich unartig sein“",
-      "teaser": "Verkehr IM Auto? Wie sich Gleichgesinnte verabreden, wann es teuer werden kann.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/parkplatz-sex-deutsche-lieben-schaeferstuenden-im-auto-an-der-autobahn-80675232.bild.html",
-      "image_title": "Parkplatz-Sex: „Auf dem Rastplatz darf ich unartig sein“"
-    },
-    {
-      "title": "Extreme Rauchentwicklung : Waldbrand in Sächsischer Schweiz weitet sich aus",
-      "teaser": "Der Waldbrand im Nationalpark Sächsische Schweiz weitet sich weiter aus.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuer-waldbrand-in-saechsischer-schweiz-weitet-sich-aus-80834934.bild.html",
-      "image_title": "Feuer: Waldbrand in Sächsischer Schweiz weitet sich aus"
-    },
-    {
-      "title": "In Brandenburg : Wald-Großbrand wieder aufgeflammt!",
-      "teaser": "Die Flammenhölle speit wieder!",
-      "url": "https://www.bild.de/news/inland/news-inland/loescharbeiten-aus-der-luft-wald-grossbrand-in-brandenburg-wieder-aufgeflammt-80834564.bild.html",
-      "image_title": "Brandenburg: Wald-Großbrand wieder aufgeflammt!"
-    },
-    {
-      "title": "Horror Tat im Saarland : Wohnungs-Bewerber erschießt Vermieterin (78)",
-      "url": "https://www.bild.de/video/clip/video/horror-tat-im-saarland-wohnungs-bewerber-erschiesst-vermieterin-78-80854746,auto=true.bild.html",
-      "image_title": "Horror Tat im Saarland: Wohnungs-Bewerber erschießt Vermieterin (78)"
-    },
-    {
-      "title": "Mitten auf der A1 bei Bremen : Feuerwehr holt Schlange aus Motor",
-      "url": "https://www.bild.de/video/clip/video/mitten-auf-der-a1-bei-bremen-feuerwehr-holt-schlange-aus-motor-80826814,auto=true.bild.html",
-      "image_title": "Mitten auf der A1 bei Bremen: Feuerwehr holt Schlange aus Motor"
-    },
-    {
-      "title": "Flughafen-Mitarbeiter Ralf : „Diese Arbeitssituation ist einfach nicht schön“",
-      "url": "https://www.bild.de/video/clip/video/flughafen-mitarbeiter-ralf-arbeitssituation-ist-einfach-nicht-schoen-80827240,auto=true.bild.html",
-      "image_title": "Flughafen-Mitarbeiter Ralf: „Arbeitssituation ist einfach nicht schön“"
-    }
-  ]
+  "articles": []
 }
