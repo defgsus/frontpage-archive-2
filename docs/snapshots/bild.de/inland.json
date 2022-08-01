@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-08-01T20:26:30",
+  "timestamp": "2022-08-01T21:19:34",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.0d79b9cb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.8e3115c2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.40701a58.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a08d42f3.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Hut ab! : „Ich bin dann mal in Harvard“",
-      "url": "https://www.bild.de/news/2022/news/vom-fluechtlings-kind-zur-elite-studentin-80859146.bild.html",
-      "image_url": "https://images.bild.de/62e538db277f8818a52b56cc/04453c4d309366f03490b7189be292b4-square,178cf1d7?w=656",
-      "image_title": "Vom Flüchtlings-Kind zur Elite-Studentin"
-    },
-    {
-      "title": "BMW-Hochhaus feiert Fünfzigsten : Warum der „Vierzylinder“ einen Strafzettel bekam",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/bmw-hochhaus-wird-50-warum-der-vierzylinder-einen-strafzettel-bekam-80776474.bild.html",
-      "image_url": "https://images.bild.de/62d99e7e33dcbb037bfede25/a16c5d2b83a687f17a516af3ac22f420,ff5243b8?w=320",
-      "image_title": "BMW-Hochhaus wird 50: Warum der „Vierzylinder“ einen Strafzettel bekam"
-    },
-    {
-      "title": "Juwelier schon wieder mit Auto geknackt : Kannten sich die Täter?",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipziger-juwelier-erneut-mit-auto-geknackt-kannten-sich-die-taeter-80879440.bild.html",
-      "image_url": "https://images.bild.de/62e8148960a3e73b21ea38c0/f7acf5454a174e2c174bfcda2b981733,72994db8?w=320",
-      "image_title": "Leipziger Juwelier erneut mit Auto geknackt: Kannten sich die Täter?"
-    },
-    {
-      "title": "Grundschüler in Kall (NRW) gestochen : Insektenschwarm greift Kinder an",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/mehrere-kinder-in-kall-nrw-gestochen-insekten-schwarm-greift-grundschueler-an-80876616.bild.html",
-      "image_url": "https://images.bild.de/62e7d497ea68ff44ee79a2f3/19053f2935ecdeef651954df42f6d11a,14622e64?w=320",
-      "image_title": "Kall (NRW): Kinder gestochen: Insektenschwarm greift Grundschüler an"
-    },
-    {
-      "title": "Er spricht über Mobbing : Der „Drachenlord“ ist wieder online",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/schockierender-verdacht-drachenlord-wieder-online-80867048.bild.html",
-      "image_title": "„Drachenlord“ wieder online – er spricht über Mobbing und eine Petition"
-    },
-    {
-      "title": "Schon wieder! : Diebe rasen in Leipziger Juweliergeschäft",
-      "teaser": "Schon wieder gab es einen spektakulären Einbruch beim Juweliergeschäft Brinckmann und Lange in Leipzig.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/einbruch-diebe-rasen-in-leipziger-juweliergeschaeft-80871278.bild.html",
-      "image_title": "Einbruch : Diebe rasen in Leipziger Juweliergeschäft"
-    },
-    {
-      "title": "Schrecklicher Promille-Unfall : Suff-Raser (51) fährt E-Bikerin (68) tot",
-      "teaser": "Der Sonntagsausflug mit ihrem Ehemann endete für eine 68-jährige Frau tödlich.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-suff-raser-51-faehrte-bikerin-68-tot-80872316.bild.html",
-      "image_title": "Unfall: Suff-Raser (51) fährt E-Bikerin (68) tot"
-    },
-    {
-      "title": "Tödlicher Jagdunfall in Thüringen : Jäger erschießt Kollegen (50) im Rapsfeld",
-      "teaser": "Tragisches Ende einer Erntejagd auf einem Rapsfeld bei Großkochberg (Thüringen)",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-querschlaeger-trifft-jaeger-bei-erntejagd-am-kopf-80847448.bild.html",
-      "image_title": "Thüringen: Querschläger trifft Jäger bei Erntejagd am Kopf"
-    },
-    {
-      "title": "Verdächtiger festgenommen : Killer köderte Ayleen (†14) im Internet",
-      "teaser": "Freitag entdeckten Polizisten die Leiche von Ayleen. Ein Verdächtiger wurde festgenommen.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/tote-ayleen-14-killer-koederte-das-maedchen-im-internet-80868934.bild.html",
-      "image_title": "Tote Ayleen (†14): Killer köderte das Mädchen im Internet"
-    },
-    {
-      "title": "Hochwasser forderte 168 Menschenleben : Ein JAHR nach der Flut",
-      "teaser": "Die Flut erreichte am 14. Juli 2021 Deutschland. Die größte Katastrophe seit 60 Jahren.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/ahrtal-vor-einem-jahr-kam-es-zur-toedlichen-hochwasser-katastrophe-80655178.bild.html",
-      "image_title": "Ahrtal: Vor einem Jahr kam es zur tödlichen Hochwasser-Katastrophe"
-    },
-    {
-      "title": "Sie waren vor einer Woche verschwunden : Junges Liebespaar tot im Baggersee gefunden",
-      "teaser": "Die Frau (26) und ihr Lebenspartner (27) waren vor einer Woche in dem See verschwunden.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/porta-westfalica-nrw-junges-liebespaar-tot-im-baggersee-gefunden-80870912.bild.html",
-      "image_title": "Porta Westfalica (NRW): Junges Liebespaar tot im Baggersee gefunden"
-    },
-    {
-      "title": "Wasserwacht geht von Todesfall aus : Motorboot überfährt Schwimmer auf Starnberger See",
-      "teaser": "Schlimmer Schwimm-Unfall auf dem Starnberger See, ein 32-Jähriger wird vermisst.",
-      "url": "https://www.bild.de/news/inland/news-inland/auf-dem-starnberger-see-motorboot-ueberfaehrt-schwimmer-80870586.bild.html",
-      "image_title": "Starnberger See: Mann aus München vermisst - Wasserwacht geht von Tod aus"
-    },
-    {
-      "title": "Herrchen schwer verletzt : Polizisten erschießen Rottweiler von Ex-AfD-Vize",
-      "teaser": "Die Straße voller Blut, am Rand ein toter Hund – erschossen von der Polizei!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-ex-politiker-von-rottweiler-zerfleischt-80857086.bild.html",
-      "image_title": "Sachsen: Polizei erschießt Hund von Ex-AfD-Politiker"
-    },
-    {
-      "title": "Rollfeld verfehlt : Opa (63) und Enkelin (11) verunglücken in Sachsen",
-      "teaser": "Der Schreck dürfte dem Piloten (63) und seiner Eneklin (11) noch in den Gliedern stecken.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-opa-63-und-enkelin-11-verungluecken-in-sachsen-80867092.bild.html",
-      "image_title": "Unfall: Opa (63) und Enkelin (11) verunglücken in Sachsen"
-    },
-    {
-      "title": "16 Jahre arbeiteten sie an dem Projekt : Drei Freunde drehen Stars-Wars-Fan-Film",
-      "teaser": "Die Münchner drehten in der ganzen Welt, gaben Tausende Euros aus",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/16-jahre-jahre-arbeit-drei-muenchner-drehen-stars-wars-fan-film-80864264.bild.html",
-      "image_title": "Drei Freunde drehen Stars-Wars-Fan-Film"
-    },
-    {
-      "title": "Tragischer Unfall : 81-Jähriger aus Auto geschleudert - tot",
-      "teaser": "In Thüringen starb ein 81-jähriger Mann bei einem schweren Unfall.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-81-jaehriger-aus-auto-geschleudert-tot-80863834.bild.html",
-      "image_title": "Unfall: 81-Jähriger aus Auto geschleudert - tot"
-    },
-    {
-      "title": "14-Jährige tot im Teufelsee : Führte der Mörder die Polizei zu Ayleens Leiche?",
-      "teaser": "Ermittler schweigen zum Mord an der Schülerin – dabei haben sie den Täter offenbar schon.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/14-jaehrige-tot-fuehrte-der-taeter-die-polizei-zu-ayleens-leiche-80864210.bild.html",
-      "image_title": "Tote Ayleen (14): Führte der Täter die Polizei zur Leiche des Mädchens?"
-    },
-    {
-      "title": "Hilfsgüter-Zelt muss schließen : Behörden vertreiben Flut-Helden im Ahrtal",
-      "teaser": "Viele Flut-Helfer kamen ins Ahrtal. Jetzt sind sie von den Behörden nicht mehr erwünscht!",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/flut-helfer-im-ahrtal-wir-werden-von-den-behoerden-vertrieben-80851884.bild.html",
-      "image_title": "Ahrtal: Behörden vertreiben Flut-Helfer"
-    },
-    {
-      "title": "BMW in Einzelteile zerfetzt : Senioren sterben bei Horror-Crash",
-      "teaser": "Zwei Senioren sind in Bayern bei einem Unfall in ihrem BMW gestorben.",
-      "url": "https://www.bild.de/news/inland/news-inland/auto-in-einzelteile-zerrissen-zwei-senioren-sterben-unfall-80860988.bild.html",
-      "image_title": "Auto in Einzelteile zerrissen: Zwei Senioren sterben Unfall"
-    },
-    {
-      "title": "Nichtschwimmer springen in Badesee : Junge gerettet (10) – Teenager (16) stirbt",
-      "teaser": "Ein Teenager und ein Kind sind in einen See gesprungen – obwohl sie nicht schwimmen können!",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/simmerath-nichtschwimmer-springen-in-see-kind-10-gerettet-teenager-16-tot-80863254.bild.html",
-      "image_title": "Drama im Badesee in NRW: Kind gerettet, Teenager tot"
-    },
-    {
-      "title": "Mord-Anklage gegen Sven M. (33) : Nachts schnitt er der Sechsjährigen die Kehle durch",
-      "teaser": "Das, was in Nacht zum 19. Dezember 2021 passierte, ist in Worten kaum zu beschreiben.",
-      "url": "https://www.bild.de/bild-plus/news/2022/news/mord-anklage-gegen-familienvater-das-monster-im-menschen-80859082.bild.html",
-      "image_title": "Mord-Anklage: Vater schnitt Freundin (6) des Sohnes die Kehle durch!"
-    },
-    {
-      "title": "Hilferuf eines freiwilligen Feuerwehrmanns : „Klatscht nicht, kommt zu uns!“",
-      "teaser": "Als am Montag zum ersten Mal der Alarm-Pieper ging, war Toni Schulze (33) schon klar, wo es hingehen würde.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehrmann-aus-waldbrand-gebiet-klatscht-nicht-kommt-zu-uns-80852132.bild.html",
-      "image_title": "Feuerwehrmann aus Waldbrandgebiet: „Klatscht nicht, kommt zu uns!“"
-    },
-    {
-      "title": "Tatverdächtige in Haft : Zwei Frauen in Unterkunft getötet",
-      "teaser": "Hinter der Tat steckt offenbar ein Familienstreit.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/tatverdaechtige-in-haft-zwei-tote-frauen-in-unterkunft-entdeckt-80863270.bild.html",
-      "image_title": "Zwei Frauen in Offenburg getötet: Verdächtige in Haft"
-    },
-    {
-      "title": "Rätsel um Kinderleiche in der Donau : Polizei untersucht 100 Vermisstenfälle",
-      "teaser": "Ein grausiger Fund beschäftigt weiter die Kripo.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/leiche-war-in-plastiktuete-toter-bub-aus-donau-weiter-ohne-namen-80863028.bild.html",
-      "image_title": "Rätsel um Kinderleiche in der Donau: Polizei untersucht 100 Vermisstenfälle"
-    },
-    {
-      "title": "„Deutschlands bekanntestes Mobbing-Opfer“ : „Drachenlord“ ist wieder online",
-      "url": "https://www.bild.de/video/clip/video/deutschlands-bekanntestes-mobbingopfer-drachenlord-ist-wieder-online-und-startet-80875484,auto=true.bild.html",
-      "image_title": "„Deutschlands bekanntestes Mobbing-Opfer“: „Drachenlord“ ist wieder online"
-    },
-    {
-      "title": "Killer tötet Ayleen (14) trotz Überwachung : Professor Christian Matzdorf spricht über den Fall",
-      "url": "https://www.bild.de/video/clip/video/killer-toetet-ayleen-14-trotz-ueberwachung-professor-ueber-den-fall-80874512,auto=true.bild.html",
-      "image_title": "Killer tötet Ayleen (14) trotz Überwachung: Professor über den Fall"
-    },
-    {
-      "title": "Ein Jahr nach dem Hochwasser : So fand der Flut-Pfarrer seinen Glauben wieder",
-      "url": "https://www.bild.de/video/clip/video/joerg-meyrer-so-fand-flut-pfarrer-seinen-glauben-wieder-80627810,auto=true.bild.html",
-      "image_title": "Jörg Meyrer: So fand Flut-Pfarrer seinen Glauben wieder"
-    }
-  ]
+  "articles": []
 }
