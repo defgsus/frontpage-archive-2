@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-04T16:33:20",
+  "timestamp": "2022-08-04T17:27:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "rsync",
+      "url": "https://www.heise.de/news/Kopieren-mit-rsync-anfaellig-fuer-boesartige-Server-7202888.html"
+    },
+    {
       "title": "Jenkins-Plug-ins",
       "url": "https://www.heise.de/news/Softwareerstellung-Einige-Jenkins-Plug-ins-werden-abgesichert-andere-nicht-7195244.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-Thunderbird-vorstellbar-7194671.html"
     },
     {
-      "title": "Foxit PDF",
-      "url": "https://www.heise.de/news/Foxit-PDF-Reader-und-Editor-unter-macOS-und-Windows-angreifbar-7194661.html"
+      "title": "Kopieren mit rsync anfällig für Angriffe",
+      "teaser": "Die angekündigte neue rsync-Version soll verhindern, dass ein Server gezielt Dateien auf dem Client überschreibt und diesen damit kompromittiert.",
+      "url": "https://www.heise.de/news/Kopieren-mit-rsync-anfaellig-fuer-boesartige-Server-7202888.html"
     },
     {
       "title": "iX-Workshop: Notfallplanung für den Security-Ernstfall",
@@ -146,12 +151,6 @@
       "title": "Sicherheitsupdates Samba: Angreifer könnten Admin-Passwörter ändern",
       "teaser": "Das freie Programmpaket Samba ist über fünf Sicherheitslücken attackierbar. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Samba-Angreifer-koennten-Admin-Passwoerter-aendern-7192018.html"
-    },
-    {
-      "title": "Strahlenschutz: Spanien verhaftet Sabotagehacker",
-      "teaser": "Spaniens Strahlenwarnsystem wurde 2021 gezielt gehackt, um es zu sabotieren. Nach einem Jahr Ermittlungen wurden zwei Verdächtige verhaftet.",
-      "url": "https://www.heise.de/news/Strahlenschutz-Spanien-verhaftet-Sabotagehacker-7191898.html",
-      "image_title": "Symbolische Darstellung eines Atoms"
     },
     {
       "title": "heise Security Tour 2022",
