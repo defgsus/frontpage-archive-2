@@ -1,13 +1,19 @@
 {
-  "timestamp": "2022-08-04T14:19:11",
+  "timestamp": "2022-08-04T15:26:36",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +25,223 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.c50c0210.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.5c8dee70.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Forscher legt Twitter rein : Spektakuläres Stern-Foto ist in Wirklichkeit …",
+      "url": "https://www.bild.de/news/ausland/news-ausland/forscher-prankt-twitter-spektakulaeres-stern-foto-ist-in-wirklichkeit-ein-scheib-80908378.bild.html",
+      "image_url": "https://images.bild.de/62ebca3da944d374c2ad114e/a8f2a42dcfefd4105a8e8cc43863e169,f56dbad?w=656",
+      "image_title": "Forscher prankt Twitter: Spektakuläres Stern-Foto ist in Wirklichkeit ein Scheibe Wurst"
+    },
+    {
+      "title": "Mordfall Simone Strobel : Angeklagter kommt auf Kaution frei",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mordfall-simone-strobel-angeklagter-kommt-auf-kaution-frei-80908514.bild.html",
+      "image_url": "https://images.bild.de/62ebcbd160a3e73b21ea3e70/bc0646f964cc2aa1f825102c84b8b59d,5a1aeba?w=320",
+      "image_title": "Mordfall Simone Strobel: Angeklagter kommt auf Kaution frei"
+    },
+    {
+      "title": "Polizei entdeckt zwei Leichen im Haus : Mädchen entkommt Kidnapper – einem Serienkiller?",
+      "url": "https://www.bild.de/news/ausland/news-ausland/usa-maedchen-12-entkommt-kidnapper-polizei-entdeckt-leichen-im-haus-des-entfuehr-80905552.bild.html",
+      "image_url": "https://images.bild.de/62eb9c85a944d374c2ad10de/12eb5390295d2aac1c320735606a818a,b00b39ed?w=320",
+      "image_title": "USA: Mädchen (12) entkommt Kidnapper – Polizei entdeckt Leichen im Haus des Entführers"
+    },
+    {
+      "title": "Archies Mutter : „Das ist das Ende“",
+      "url": "https://www.bild.de/news/ausland/news-ausland/archie-battersbee-12-muss-sterben-seine-mutter-will-wuerdevolles-ableben-in-hosp-80901852.bild.html",
+      "image_url": "https://images.bild.de/62eb586c60a3e73b21ea3d73/d204099bddc4420546adf19e221e0dfa,e419a9b3?w=320",
+      "image_title": "Archie Battersbee (12) muss sterben: Seine Mutter will „würdevolles Ableben“ in Hospiz"
+    },
+    {
+      "title": "Stellenanzeige aus Kanada : In diesem Job verdienen Sie rund 77 000 Euro im Jahr",
+      "url": "https://www.bild.de/geld/wirtschaft/news-ausland/jahresgehalt-77-000-euro-kanadische-firma-sucht-bonbon-tester-80905436.bild.html",
+      "image_url": "https://images.bild.de/62eb99e160a3e73b21ea3df7/76360f395bf1fa2320de819c77d74e64,b79e438c?w=320",
+      "image_title": "Jahresgehalt 77.000 Euro: Kanadische Firma sucht Bonbon-Tester"
+    },
+    {
+      "title": "Nahe Reykjavík : Vulkanausbruch auf Island",
+      "url": "https://www.bild.de/news/ausland/news-ausland/vulkanausbruch-auf-island-nahe-reykjavk-300-meter-langer-riss-im-boden-80901992.bild.html",
+      "image_title": "Vulkanausbruch auf Island nahe Reykjavík: 300 Meter langer Riss im Boden"
+    },
+    {
+      "title": "Reste von Musks Space-X-Rakete : „Alien-Obelisk“ entpuppt sich als Weltraumschrott",
+      "teaser": "In Australien ist ein Objekt aus dem All gefunden worden. Jetzt steht die Herkunft fest.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/reste-von-elon-musks-space-x-rakete-alien-obelisk-entpuppt-sich-als-weltraumschr-80895680.bild.html",
+      "image_title": "Reste von Elon Musks Space-X-Rakete: „Alien-Obelisk“ entpuppt sich als Weltraumschrott"
+    },
+    {
+      "title": "Masken-Millionär stirbt bei Jacht-Drama : Münchner Kunst-Königin weint um ihren Bruder",
+      "teaser": "Schock in der Münchner Society! Multi-Millionär Dean Kronsbein starb bei einem Jacht-Unfall.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/masken-millionaer-stirbt-bei-jacht-drama-muenchner-kunst-koenigin-weint-um-ihren-80901208.bild.html",
+      "image_title": "Masken-Millionär stirbt bei Jacht-Drama: Münchner Kunst-Königin weint um ihren Bruder"
+    },
+    {
+      "title": "Drei Tote und sechs Verletzte in China : Nach Bluttat in Kita Täter gefasst",
+      "teaser": "Peking – Aufatmen nach dem Messer-Horror in der Kita! Der Killer ist geschnappt.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/china-taeter-nach-bluttat-in-kita-gefasst-80903888.bild.html",
+      "image_title": "China: Täter nach Blutbad in Kita gefasst"
+    },
+    {
+      "title": "Fälle auf Mallorca und Ibiza : Immer mehr Nadel-Attacken auf Frauen in Spanien",
+      "teaser": "In Spanien sind vermehrt Fälle aufgetreten, in denen Frauen mit Nadeln gestochen wurden.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/spanien-immer-mehr-nadel-attacken-auf-frauen-schon-vier-faelle-auf-mallorca-80902534.bild.html",
+      "image_title": "Spanien: Immer mehr Nadel-Attacken auf Frauen! Schon vier Fälle auf Mallorca"
+    },
+    {
+      "title": "Menschenrechts-Gericht lehnt Eltern-Bitte ab : Archie (12) muss sterben",
+      "teaser": "Der Europäische Gerichtshof will sich nicht in den Streit um Archies Leben einmischen.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/archie-battersbee-12-nach-tiktok-challenge-im-koma-egmr-hat-entschieden-80895968.bild.html",
+      "image_title": "Archie Battersbee (12) nach TikTok-Challenge im Koma – Gericht will sich nicht einmischen"
+    },
+    {
+      "title": "BILD checkt die Abi-Stimmung : „Wir sind Lloret de Mar“",
+      "teaser": "Tausende deutsche Schüler „überfallen“ Lloret de Mar. Party, Bier und Flirts inklusive!",
+      "url": "https://www.bild.de/news/ausland/news-ausland/abi-party-in-lloret-de-mar-weiss-nun-alles-aber-nicht-meine-handynummer-80652182.bild.html",
+      "image_title": "ABI-Party in Lloret de Mar: Weiß nun alles, aber nicht meine Handynummer!"
+    },
+    {
+      "title": "BILD besucht die Zocker-Firmen : Die Wahrheit hinter den Online-Casinos auf Malta",
+      "teaser": "Malta ist das Land der Online-Spielcasinos. Viele haben ihren Sitz dort. Aber was und wen trifft man an der gemeldeten Adressen an?",
+      "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/sparfochs/die-wahrheit-hinter-den-online-casinos-auf-malta-68637920.bild.html",
+      "image_title": "Die Wahrheit hinter den Online-Casinos auf Malta"
+    },
+    {
+      "title": "Dürre-Problem im Land der Deiche : Wasser-Notstand in den Niederlanden!",
+      "teaser": "In den Niederlanden wurde jetzt offiziell der Wasser-Notstand ausgerufen.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/wasser-notstand-in-den-niederlanden-duerre-problem-im-land-der-deiche-80898126.bild.html",
+      "image_title": "Wasser-Notstand in den Niederlanden: Dürre-Problem im Land der Deiche"
+    },
+    {
+      "title": "Jetzt droht ihm die Todesstrafe : Millionenschwerer Zahnarzt ermordet Ehefrau",
+      "teaser": "Larry Rudolph erschoss auf einer Afrika-Safari seine Frau. Jetzt wurde er schuldig gesprochen.",
+      "url": "https://www.bild.de/news/ausland/news/millionenschwerer-arzt-erschiesst-frau-nun-droht-ihm-die-todesstrafe-in-den-usa-80882906.bild.html",
+      "image_title": "Millionenschwerer Arzt erschießt Frau: Nun droht ihm Todesstrafe"
+    },
+    {
+      "title": "Er spritzte sich Öl in die Muskeln : Brasilien-Hulk stirbt mit 55 Jahren",
+      "teaser": "Er spritzte sich Öl in die Muskeln, um wie Hulk auszusehen. Die Folge ist nun sein Tod.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/brasilien-hulk-stirbt-im-alter-von-55-jahren-er-spritzte-sich-jahrelang-oel-in-d-80893984.bild.html",
+      "image_title": "Brasilien-Hulk stirbt im Alter von 55 Jahren: Er spritzte sich jahrelang Öl in die Muskeln"
+    },
+    {
+      "title": "Nach Suizid : Leiche von Impf-Ärztin Kellermayr wird obduziert",
+      "teaser": "Wels – Die Leiche der österreichischen Ärztin Lisa-Maria Kellermayr (†36) wird doch obduziert.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-suizid-leiche-von-impf-aerztin-kellermayr-wird-obduziert-80895386.bild.html",
+      "image_title": "Nach Suizid: Leiche von Impf-Ärztin Kellermayr wird obduziert"
+    },
+    {
+      "title": "Bluttat Im Süden Chinas : Drei Tote, sechs Verletzte! Messermann stürmt Kita",
+      "teaser": "Ein Mann stürmt in einen Kindergarten und tötet drei Menschen, verletzt sechs andere.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/china-messer-angriff-in-kita-drei-tote-sechs-verletzte-80893416.bild.html",
+      "image_title": "China: Messer-Angriff in Kita – drei Tote, sechs Verletzte"
+    },
+    {
+      "title": "Emotionales Show-Intro : Joko und Klaas trauern um tote Impf-Ärztin",
+      "teaser": "Der Tod der österreichischen Ärztin Lisa-Maria Kellermayr bestürzt auch die beiden TV-Stars.",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/prosieben-show-wer-stiehlt-mir-die-show-joko-und-klaas-trauern-um-tote-impf-aerz-80891540.bild.html",
+      "image_title": "„Wer stiehlt mir die Show?“: Joko & Klaas trauern um Impfärztin Lisa-Marie Kellermayr (†36)"
+    },
+    {
+      "title": "Sagenumwobener „Gold-Dampfer“ : Tonnenweise Gold und eine alte Levi's-Jeans",
+      "teaser": "Vor 165 Jahren sank ein sagenumwobenes Schiff. Jetzt wurden Teile seins Schatzes enthüllt.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/gold-dampfer-enthuellt-geheimnisse-alte-levis-jeans-und-9-tonnen-gold-80884166.bild.html",
+      "image_title": "„Gold-Dampfer“ enthüllt Geheimnisse: Alte Levi’s-Jeans und 9 Tonnen Gold"
+    },
+    {
+      "title": "Nach dem Tod von Impf-Ärztin : Anzeige gegen Polizei und Staatsanwaltschaft",
+      "teaser": "Lisa-Maria Kellermayr wurde bedroht, weil sie gegen Corona impfte. Jetzt wurde Anzeige erstattet.",
+      "url": "https://www.bild.de/news/ausland/news/corona-impf-aerztin-tot-anzeige-gegen-polizei-und-staatsanwaltschaft-80882078.bild.html",
+      "image_title": "Corona-Impf-Ärztin tot: Anzeige gegen Polizei und Staatsanwaltschaft"
+    },
+    {
+      "title": "TROTZ HOMOPHOBER GESETZE : Immer mehr Russen outen sich",
+      "teaser": "Zehn Jahre nach seiner Einführung soll Gesetz gegen „Homo-Propaganda“ verschärft werden.",
+      "url": "https://www.bild.de/lgbt/2022/lgbt/trotz-homophober-gesetze-immer-mehr-russen-outen-sich-80876154.bild.html",
+      "image_title": "Trotz homophober Gesetze: Immer mehr Russen outen sich"
+    },
+    {
+      "title": "Am Hohen Göll (2522 Meter) : Comedian stürzt 50 Meter in den Tod",
+      "teaser": "Drama am Hohen Göll in den Berchtesgadener Alpen! Ein 32-Jähriger ist am Freitag bei ei...",
+      "url": "https://www.bild.de/news/ausland/news-ausland/wanderer-stuerzt-am-hohen-goell-50meter-in-den-tod-80858768.bild.html",
+      "image_title": "Comedian Jad Turjman stürzt 50 Meter in den Tod"
+    },
+    {
+      "title": "US-Senat will UFOs erforschen lassen : „Nicht von Menschenhand geschaffen“",
+      "teaser": "Jahrzehntelang wurden UFO-Sichtungen als Spinnerei abgetan – jetzt wendet sich das Blatt.",
+      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/usa-wollen-ufos-mit-neuer-behoerde-untersuchen-80715456.bild.html",
+      "image_title": "USA wollen UFOs mit neuer Behörde untersuchen"
+    },
+    {
+      "title": "Niemand kam zu Hilfe : Straßenhändler in Italien zu Tode geprügelt",
+      "teaser": "Im italienischen Civitanova Marche ist ein Straßenhändler zu Tode geprügelt worden.",
+      "url": "https://www.bild.de/news/ausland/news-ausland/italien-strassenhaendler-zu-tode-gepruegelt-niemand-kam-zu-hilfe-80863488.bild.html",
+      "image_title": "Italien: Straßenhändler zu Tode geprügelt, niemand kam zu Hilfe"
+    },
+    {
+      "title": "Er ergibt sich statt zu bellen : DAS ist der schlechteste Wachhund der Welt!",
+      "url": "https://www.bild.de/video/clip/video/pfoten-hoch-bei-dieser-razzia-ergibt-sich-sogar-der-wachhund-80898872,auto=true.bild.html",
+      "image_title": "Er ergibt sich statt zu bellen: DAS ist der schlechteste Wachhund der Welt!"
+    },
+    {
+      "title": "Experten ratlos : Mysteriöses Erdloch noch GRÖSSER!",
+      "url": "https://www.bild.de/video/clip/video/experten-weiter-ratols-mysterioeses-erdloch-groesser-als-gedacht-80903440,auto=true.bild.html",
+      "image_title": "Experten ratlos: Mysteriöses Erdloch noch GRÖSSER!"
+    },
+    {
+      "title": "Ampel-Horror : Kind fällt aus Auto, Mutter fährt einfach los",
+      "url": "https://www.bild.de/video/clip/video/mutter-faehrt-einfach-weiter-kind-faellt-an-der-ampel-aus-auto-80889806,auto=true.bild.html",
+      "image_title": "Ampel-Horror: Kind fällt aus Auto, Mutter fährt einfach los"
+    }
+  ]
 }
