@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-05T10:23:33",
+  "timestamp": "2022-08-05T11:18:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco RV-Serie",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Ciscos-SMB-Routern-7203891.html"
+    },
+    {
       "title": "rsync",
       "url": "https://www.heise.de/news/Kopieren-mit-rsync-anfaellig-fuer-boesartige-Server-7202888.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-als-Tueroeffner-in-Nuki-Smart-Lock-entdeckt-und-geschlossen-7194709.html"
     },
     {
-      "title": "Thunderbird",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-Thunderbird-vorstellbar-7194671.html"
+      "title": "Kritische Lücken in Ciscos SMB-Routern",
+      "teaser": "Das Web-Interface der Cisco-Router der RV-Serie ermöglicht diverse unauthentifizierte Aktionen – Updates stellen das ab.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Ciscos-SMB-Routern-7203891.html"
+    },
+    {
+      "title": "Ganz ohne Google-Code: Messengerdienst Threema macht sich auf Android unabhängig",
+      "teaser": "Threema Libre ist Open Source und kommt ganz ohne proprietäre Softwarebibliotheken von Google aus. Android-User finden sie im alternativen App-Store F-Droid.",
+      "url": "https://www.heise.de/news/Ganz-ohne-Google-Code-Messengerdienst-Threema-macht-sich-auf-Android-unabhaengig-7203765.html",
+      "image_title": "Threema, Schweiz"
     },
     {
       "title": "Hack gegen Solana-Geldbörsen: Suche nach Exploit führt zu Walletanbieter Slope",
@@ -141,16 +152,6 @@
       "title": "Sicherheitsupdates: Angreifer könnten Veritas NetBackup vielfältig attackieren",
       "teaser": "Die Entwickler haben in aktuellen Versionen der Backuplösung NetBackup von Veritas unter anderem kritische Lücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Veritas-NetBackup-vielfaeltig-attackieren-7192562.html"
-    },
-    {
-      "title": "IBM-Software: Kritische Lücke könnte Schadcode in Entwicklungsumgebungen lassen",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für unter anderem IBM Rational ClearCase und QRadar SIEM: Die kritischen Lücken liegen in der XML-Parser-Bibliothek Expat.",
-      "url": "https://www.heise.de/news/IBM-Software-Kritische-Luecke-koennte-Schadcode-in-Entwicklungsumgebungen-lassen-7192201.html"
-    },
-    {
-      "title": "Sicherheitsupdates Samba: Angreifer könnten Admin-Passwörter ändern",
-      "teaser": "Das freie Programmpaket Samba ist über fünf Sicherheitslücken attackierbar. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Samba-Angreifer-koennten-Admin-Passwoerter-aendern-7192018.html"
     },
     {
       "title": "heise Security Tour 2022",
