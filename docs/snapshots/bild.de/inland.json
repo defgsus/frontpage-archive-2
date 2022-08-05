@@ -1,19 +1,13 @@
 {
-  "timestamp": "2022-08-05T11:18:45",
+  "timestamp": "2022-08-05T12:44:57",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -25,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c50c0210.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5c8dee70.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Häftlinge beschwerten sich : Knoblauch-Razzia im Psycho-Knast",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/uchtspringe-knoblauch-razzia-im-nervenknast-80912194.bild.html",
-      "image_url": "https://images.bild.de/62ec204d3adb532ed93a6110/2c8b59e91196ea3195a0bccbbe8cef2e,1bb4f1dd?w=656",
-      "image_title": "Uchtspringe: Knoblauch-Razzia im Knast"
-    },
-    {
-      "title": "Grusel-Fracht am Flughafen Düsseldorf : Zöllner stellen Grill-Waran sicher",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/zoll-duesseldorf-findet-grusel-fracht-einmal-waran-gut-durch-bitte-80915612.bild.html",
-      "image_url": "https://images.bild.de/62ecd9a560a3e73b21ea3fc0/3f0755909a0fbe8e28ba4dc7c7eecb55,cb462ed4?w=320",
-      "image_title": "Grusel-Fracht in Düsseldorf: Zöllner stellen Grill-Waran sicher"
-    },
-    {
-      "title": "Hoffnung im Flammen-Inferno von Berlin : Diese Wunderwaffe soll jetzt den Grunewald retten",
-      "url": "https://www.bild.de/news/inland/news-inland/flammen-inferno-im-berliner-grunewald-waldbrand-breitet-sich-unkontrolliert-aus-80905682.bild.html",
-      "image_url": "https://images.bild.de/62eb9faa7372031884959def/bcadc3ac1024968da50486c47bb20350,2745c98e?w=320",
-      "image_title": "Berliner Grunewald: Diese Wunderwaffe soll ihn vor dem Brand retten"
-    },
-    {
-      "title": "Richter über Versagen im Fall Ayleen (†14) : „Das ist Unfug!“",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/klartext-richter-ueber-fall-ayleen-14-killer-klagte-gegen-ueberwachung-das-ist-u-80911044.bild.html",
-      "image_url": "https://images.bild.de/62ebe4ef60a3e73b21ea3eb4/b12c8df64a93a32e0b1d91f3a70defba,9e26e3c?w=320",
-      "image_title": "Klartext-Richter über Fall Ayleen (†14): Killer klagte gegen Überwachung – „das ist Unfug!“"
-    },
-    {
-      "title": "Explosionsgefahr auf der A9 : Lkw mit Öl-Tank löst Flammen-Inferno aus",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-auf-der-a9-lkw-mit-oel-tank-loest-flammen-inferno-aus-80913282.bild.html",
-      "image_url": "https://images.bild.de/62eca6c260a3e73b21ea3f7d/95b8f2d7ce9be989c3ced02cf47869a9,db301ed0?w=320",
-      "image_title": "Unfall auf der A9: Lkw mit Öl-Tank löst Flammen-Inferno aus"
-    },
-    {
-      "title": "Das Geheimnis der ältesten Frau Deutschland : Tabak, Bier und fettes Fleisch",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/anna-cernohorsky-der-geheimnis-der-aeltesten-frau-deutschland-80900284.bild.html",
-      "image_title": "Anna Cernohorsky: Der Geheimnis der ältesten Frau Deutschland"
-    },
-    {
-      "title": "Drei Menschen totgefahren : Anklage gegen Rentner-Totraser",
-      "teaser": "Die Staatsanwaltschaft hat jetzt Anklage gegen Marko H. (51) erhoben, der im März 2021 in Leipzig drei Rentner totgefahren hatte.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-drei-menschen-totgefahren-anklage-gegen-rentner-totraser-80908752.bild.html",
-      "image_title": "Leipzig: Drei Menschen totgefahren - Anklage gegen Rentner-Totraser"
-    },
-    {
-      "title": "Mordfall Simone Strobel : Angeklagter kommt auf Kaution frei",
-      "teaser": "Der in Australien an seiner Ex angeklagte Tobias S. kommt nun doch auf Kaution frei.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mordfall-simone-strobel-angeklagter-kommt-auf-kaution-frei-80908514.bild.html",
-      "image_title": "Mordfall Simone Strobel: Angeklagter kommt auf Kaution frei"
-    },
-    {
-      "title": "Neue Geschäfte, Neue Zelte, Neues Logo : So wird das Oktoberfest 2022",
-      "teaser": "Das Oktoberfest wird stattfinden!“ Daran gibt es laut Wiesn-Chef Clemens Baumgärtner keine Zweifel.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/neue-geschaefte-neue-zelte-neues-logo-so-wird-das-oktoberfest-2022-80906312.bild.html",
-      "image_title": "Neue Geschäfte, Neue Zelte, Neues Logo: So wird das Oktoberfest 2022"
-    },
-    {
-      "title": "Zeugen dringend gesucht : Wer tötete den 68-jährigen Joachim K.?",
-      "teaser": "Vor zwei Jahren entdeckte eine Spaziergängerin im Leipziger Clara-Zetkin-Park die Leiche des getöteten Joachim K. (68).",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-wer-toetete-den-68-jaehrigen-joachim-k-80904536.bild.html",
-      "image_title": "Leipzig: Wer tötete den 68-jährigen Joachim K.?"
-    },
-    {
-      "title": "Reisen immer nur mit Köpfchen : Seltsame Selfies von Sachsens Wirtschaftsminister",
-      "teaser": "Mit diesen seltsamen Selfies auf Instagram macht Vize-MP Martin Dulig auf sich aufmerksam.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/martin-dulig-die-seltsamen-selfies-von-sachsens-wirtschaftsminister-80902386.bild.html",
-      "image_title": "Martin Dulig: Die seltsamen Selfies von Sachsens Wirtschaftsminister"
-    },
-    {
-      "title": "Verfahren gegen Ayleens Killer : Waren Polizei und Justiz zu lasch?",
-      "teaser": "Wetzlar – Könnte Ayleen (†14) noch leben, wenn Polizei und Justiz konsequenter gehandel...",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/jan-heiko-p-29-vor-dem-mord-stalkte-er-eine-schuelerin-80902516.bild.html",
-      "image_title": "Jan-Heiko P. (29): Vor dem Mord stalkte er eine Schülerin"
-    },
-    {
-      "title": "Die letzten Stunden von Jesse L. (†19) : Erst Crispy Chicken, Drogen und dann Kopfschuss",
-      "teaser": "Nachmittags aßen sie noch zusammen Burger und Salat, abends war Jesse L. (19) tot.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-erst-crispy-chicken-drogen-dann-kopfschuss-der-mord-an-jesse-l-80895670.bild.html",
-      "image_title": "Leipzig: Erst Crispy Chicken, Drogen, dann Kopfschuss – der Mord an Jesse L."
-    },
-    {
-      "title": "Schiffe versenken! : Grüner Stadtrat fällt mit wirrer Forderung auf",
-      "teaser": "Offenbar ist der Sommer nicht die beste Jahreszeit der sächsischen Grünen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-schiffe-versenken-wirre-forderung-von-gruenem-stadtrat-kasek-80900318.bild.html",
-      "image_title": "Leipzig: Schiffe versenken! Wirre Forderung von Grünem Stadtrat Kasek"
-    },
-    {
-      "title": "In Alpen ausgerissen : Hund Hardy nach einer Woche wieder aufgetaucht",
-      "teaser": "Sie suchten mit Drohnen nach ihm: Nach einer Woche ist Hardy wieder aufgetaucht.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/in-alpen-ausgerissen-hund-hardy-nach-einer-woche-wieder-aufgetaucht-80904374.bild.html",
-      "image_title": "In Alpen ausgerissen: Hund Hardy nach einer Woche wieder aufgetaucht"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie einen 6er im Lotto? Gehört der 1 Mio € Jackpot bald Ihnen? Erfahren Sie es hier",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-3-august-80826006.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen und Quoten vom 3. August"
-    },
-    {
-      "title": "Zu Ehren eines Opfers des Ukraine-Kriegs : Straße vor Russen-Konsulat wird umbenannt",
-      "teaser": "Das wird dem Russischen Generalkonsulat mit Sicherheit nicht gefallen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-strasse-vor-russen-konsulat-wird-nach-bekanntem-kriegsopfer-umbenannt-80902818.bild.html",
-      "image_title": "Leipzig: Straße vor Russen-Konsulat wird nach Ukraine-Kriegsopfer umbenannt"
-    },
-    {
-      "title": "Zuvor steuerte sie in den Teich : Frau meldet Auto nach Suff-Fahrt als gestohlen",
-      "teaser": "Damit wollte die betrunkene Fahrerin ihren Unfall vertuschen, doch es gab Zeugen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-frau-steuert-in-teich-und-meldet-auto-nach-suff-fahrt-als-gestohlen-80901848.bild.html",
-      "image_title": "Sachsen: Frau steuert in Teich und meldet Auto nach Suff-Fahrt als gestohlen"
-    },
-    {
-      "title": "Tragödie bei Ausflug : Familien-Van überschlägt sich auf A20 – zwei Tote",
-      "teaser": "Schwerer Crash mit einem Familien-Van am Mittwochmorgen auf der A20 nahe Prenzlau.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/brandenburg-familien-van-ueberschlaegt-sich-mehrfach-auf-autobahn-80894768.bild.html",
-      "image_title": "Brandenburg: Familien-Van überschlägt sich auf Autobahn – zwei Tote"
-    },
-    {
-      "title": "Rettungsaktion in Sachsen : Feuerwehr rettet blinde Hündin",
-      "teaser": "Blinde Hündin in Not! Die Feuerwehr von Grimma (Sachsen) musste zur Tierrettung an die Mulde ausrücken.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-feuerwehr-rettet-blinde-huendin-80899022.bild.html",
-      "image_title": "Sachsen: Feuerwehr rettet blinde Hündin"
-    },
-    {
-      "title": "Polizei sucht Mädchen : Wer hält Charlott (13) versteckt?",
-      "teaser": "Das Mädchen, das hier auf einem Foto im Zoo lächelt, ist spurlos verschwunden.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/vermisst-polizei-sucht-maedchen-wer-haelt-charlott-13-versteckt-80896396.bild.html",
-      "image_title": "Vermisst: Polizei sucht Mädchen – Wer hält Charlott (13) versteckt?"
-    },
-    {
-      "title": "Mit Kokain und ohne Führerschein : Flucht vor Polizei endet im Küchenstudio",
-      "teaser": "Ein VW-Fahrer (20) hat sich Dienstagabend gegen 20.49 Uhr in Lindenau eine Verfolgungsjagd mit der Polizei geliefert.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/unfall-in-leipzig-flucht-vor-polizei-endet-im-kuechenstudio-80896554.bild.html",
-      "image_title": "Unfall in Leipzig: Flucht vor Polizei endet im Küchenstudio"
-    },
-    {
-      "title": "Tödlicher Arbeitsunfall in Sassnitz : Hafenarbeiter (32) von Stahlplatten erschlagen",
-      "teaser": "Bei einem tragischen Arbeitsunfall wurde im Fährhafen Sassnitz ein Hafenarbeiter (32) getötet.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/arbeitsunfall-indischer-hafenarbeiter-von-stahlplatten-erschlagen-80895316.bild.html",
-      "image_title": "Arbeitsunfall: Hafenarbeiter (32) von Stahlplatten erschlagen"
-    },
-    {
-      "title": "Urlaubsreise endet tragisch : Familie bei Unfall schwer verletzt",
-      "teaser": "Tragisches Urlaubsende: Auf der Heimreise verunglückte eine Familie auf der A 4 sehr schwer.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-in-thueringen-urlaub-endet-tragisch-familie-auf-a4-verunglueckt-80891230.bild.html",
-      "image_title": "Unfall in Thüringen: Urlaub endet tragisch – Familie auf A4 verunglückt"
-    },
-    {
-      "title": "23-Jähriger von SEK erschossen : So kam es zum tödlichen Einsatz im Bahnhofsviertel",
-      "teaser": "Am Tag nach dem Einsatz im „Hotel Mosel“ veröffentlichte das LKA erste Erkenntnisse.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/bahnhofsviertel-so-kam-es-zum-toedlichen-sek-einsatz-80895034.bild.html",
-      "image_title": "Bahnhofsviertel: So kam es zum tödlichen SEK-Einsatz"
-    },
-    {
-      "title": "Feuer-Inferno in Berlin : Viele Brände gelöscht, aber weiter Gefahr im Grunewald",
-      "url": "https://www.bild.de/video/clip/video/feuer-inferno-in-berlin-braende-geloescht-aber-weiter-gefahr-im-grunewald-80913542,auto=true.bild.html",
-      "image_title": "Feuer-Inferno in Berlin: Viele Brände gelöscht, aber weiter Gefahr"
-    },
-    {
-      "title": "Max (24) über Claudia Obert (60) : „Ich habe mich sofort verliebt“",
-      "url": "https://www.bild.de/video/clip/video/max-24-ueber-claudia-obert-60-ich-habe-mich-sofort-verliebt-80911596,auto=true.bild.html",
-      "image_title": "Max (24) über Claudia Obert (60): „Ich habe mich sofort verliebt“"
-    },
-    {
-      "title": "Verstörendes Video : KiKa-Moderator demonstriert mit Israel-Hassern",
-      "url": "https://www.bild.de/video/clip/video/video-62ebf24a7372031884959e79-80910714,auto=true.bild.html",
-      "image_title": "Verstörendes Video: KiKa-Moderator demonstriert mit Israel-Hassern"
-    }
-  ]
+  "articles": []
 }
