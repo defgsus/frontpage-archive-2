@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-05T17:29:30",
+  "timestamp": "2022-08-05T18:27:29",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c50c0210.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5c8dee70.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Ayleens Killer Jan-Heiko P : Auf Volksfesten machte er Jagd auf Mädchen",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/ayleens-killer-dienten-kirmes-jobs-der-jagd-nach-opfern-80916734.bild.html",
-      "image_url": "https://images.bild.de/62ecbaaca68cfa248c6e2315/51dec3be0610f0fea6cd3e3f16f4a4d2,d76ae985?w=656",
-      "image_title": "Ayleens Killer: Dienten Kirmes-Jobs der Jagd nach Opfern?"
-    },
-    {
-      "title": "Nach Hitlergruß : Brummifahrer onaniert vor der Polizei",
-      "url": "https://www.bild.de/news/inland/news-inland/nach-hitlergruss-lkw-fahrer-onaniert-vor-der-polizei-80920498.bild.html",
-      "image_url": "https://images.bild.de/62ed320ffb33cc6cae32e2fc/c632263217166f4e18dac676060784dc/Kennung_Symbolfoto,a48e538f?w=320",
-      "image_title": "Nach Hitlergruß: Lkw-Fahrer onaniert vor der Polizei"
-    },
-    {
-      "title": "Knollen-Razzia im Psycho-Knast : Knoblauch aller Knackis konfisziert!",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/uchtspringe-knoblauch-razzia-im-nervenknast-80912194.bild.html",
-      "image_url": "https://images.bild.de/62ec204d3adb532ed93a6110/7c4dabf443480998d6554c6eae5a6e16,da7e3c4c?w=320",
-      "image_title": "Uchtspringe: Knoblauch-Razzia im Knast"
-    },
-    {
-      "title": "Brand in Berliner Wald : Boden auf Sprengplatz 700 Grad heiß",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/waldbrand-in-grunewald-noch-weiss-keiner-wie-schlimm-es-wirklich-ist-80914728.bild.html",
-      "image_url": "https://images.bild.de/62ecd71cfb33cc6cae32e22b/b6b8d5d1b1485e51afbbc2ad3eddb466,205f4299?w=320",
-      "image_title": "Brand in Berliner Wald: Boden auf Sprengplatz 700 Grad heiß"
-    },
-    {
-      "title": "Umgekippt und heruntergefallen : Autotransporter verliert zwei Skodas auf A72",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-autotransporter-verliert-zwei-skodas-auf-a72-80919878.bild.html",
-      "image_title": "Unfall: Autotransporter verliert zwei Skodas auf A72"
-    },
-    {
-      "title": "Reichlich Niedlich-Nachwuchs : ZOOOO SCHÖN! Baby-Boom in unseren Tierparks",
-      "teaser": "Noch keine Pläne fürs Wochenende? Gehen Sie doch mal wieder Tierbabys gucken!",
-      "url": "https://www.bild.de/news/inland/news-inland/baby-boom-in-zoos-gehen-sie-doch-mal-wieder-niedlich-nachwuchs-gucken-80916432.bild.html",
-      "image_title": "Baby-Boom in Zoos: Gehen Sie doch mal wieder Niedlich-Nachwuchs gucken!"
-    },
-    {
-      "title": "Explosionsgefahr auf der A9 : Lkw mit Öl-Tank löst Flammen-Inferno aus",
-      "teaser": "Ein Lkw mit Öl-Tank fing Feuer. Die Situation war angespannt. Explosionsgefahr!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-auf-der-a9-lkw-mit-oel-tank-loest-flammen-inferno-aus-80913282.bild.html",
-      "image_title": "Unfall auf der A9: Lkw mit Öl-Tank löst Flammen-Inferno aus"
-    },
-    {
-      "title": "Streit um Corona-Maske : Mann schlägt Busfahrer ins Gesicht",
-      "teaser": "In einem Bus in Brandenburg eskalierte der Streit um eine Corona-Maske.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/neuruppin-streit-um-corona-maske-mann-schlaegt-busfahrer-80916988.bild.html",
-      "image_title": "Neuruppin: Streit um Corona-Maske – Mann schlägt Busfahrer"
-    },
-    {
-      "title": "Aus parkendem Pkw befreit : Polizei rettet Hund vor Hitzetod",
-      "teaser": "Bautzen (Sachsen) – Wie leichtsinnig! In Bautzen hat eine Hundebesitzerin (33) ihren Labrador ausgerechnet an einem heißesten Tag de...",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/bautzen-polizei-rettet-hund-vor-hitzetod-80916786.bild.html",
-      "image_title": "Bautzen: Polizei rettet Hund vor Hitzetod"
-    },
-    {
-      "title": "Grusel-Fracht am Flughafen Düsseldorf : Zöllner stellen Grill-Waran sicher",
-      "teaser": "Das Tier wurde am Flughafen Düsseldorf entdeckt, sollte an eine Privatperson gehen.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/zoll-duesseldorf-findet-grusel-fracht-einmal-waran-gut-durch-bitte-80915612.bild.html",
-      "image_title": "Grusel-Fracht in Düsseldorf: Zöllner stellen Grill-Waran sicher"
-    },
-    {
-      "title": "Hoffnung im Flammen-Inferno von Berlin : Diese Wunderwaffe soll jetzt den Grunewald retten",
-      "teaser": "Es ist der Wahnsinn. Der Berliner Grunewald brennt. Und kann nicht gelöscht werden.",
-      "url": "https://www.bild.de/news/inland/news-inland/flammen-inferno-im-berliner-grunewald-waldbrand-breitet-sich-unkontrolliert-aus-80905682.bild.html",
-      "image_title": "Berliner Grunewald: Diese Wunderwaffe soll ihn vor dem Brand retten"
-    },
-    {
-      "title": "Richter über Versagen im Fall Ayleen (†14) : „Das ist Unfug!“",
-      "teaser": "Niemand stoppte den mutmaßlichen Ayleen-Mörder Jan Heiko-P. (29) bei seiner Jagd auf Mädchen.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/klartext-richter-ueber-fall-ayleen-14-killer-klagte-gegen-ueberwachung-das-ist-u-80911044.bild.html",
-      "image_title": "Klartext-Richter über Fall Ayleen (†14): Killer klagte gegen Überwachung – „das ist Unfug!“"
-    },
-    {
-      "title": "Preis: Mehr als 10 Millionen Euro : Biene-Maja-Villa steht zum Verkauf!",
-      "teaser": "Waldemar Bonsels schuf die „Biene Maja“ – sein Haus bei Starnberg ist jetzt auf dem Markt.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/im-feinen-starnberg-biene-maja-villa-steht-zum-verkauf-80911522.bild.html",
-      "image_title": "Im feinen Starnberg: Biene-Maja-Villa steht zum Verkauf!"
-    },
-    {
-      "title": "Geheimnis der ältesten Frau Deutschland : Tabak, Bier und fettes Fleisch",
-      "teaser": "Heute blickt sie als bald 113-Jährige auf ein reiches Leben zurück. BILD besuchte Deutschlands älteste Frau.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/anna-cernohorsky-der-geheimnis-der-aeltesten-frau-deutschland-80900284.bild.html",
-      "image_title": "Anna Cernohorsky: Der Geheimnis der ältesten Frau Deutschland"
-    },
-    {
-      "title": "Drei Menschen totgefahren : Anklage gegen Rentner-Totraser",
-      "teaser": "Die Staatsanwaltschaft hat jetzt Anklage gegen Marko H. (51) erhoben, der im März 2021 in Leipzig drei Rentner totgefahren hatte.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-drei-menschen-totgefahren-anklage-gegen-rentner-totraser-80908752.bild.html",
-      "image_title": "Leipzig: Drei Menschen totgefahren - Anklage gegen Rentner-Totraser"
-    },
-    {
-      "title": "Mordfall Simone Strobel : Angeklagter kommt auf Kaution frei",
-      "teaser": "Der in Australien an seiner Ex angeklagte Tobias S. kommt nun doch auf Kaution frei.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mordfall-simone-strobel-angeklagter-kommt-auf-kaution-frei-80908514.bild.html",
-      "image_title": "Mordfall Simone Strobel: Angeklagter kommt auf Kaution frei"
-    },
-    {
-      "title": "Neue Geschäfte, Neue Zelte, Neues Logo : So wird das Oktoberfest 2022",
-      "teaser": "Das Oktoberfest wird stattfinden!“ Daran gibt es laut Wiesn-Chef Clemens Baumgärtner keine Zweifel.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/neue-geschaefte-neue-zelte-neues-logo-so-wird-das-oktoberfest-2022-80906312.bild.html",
-      "image_title": "Neue Geschäfte, Neue Zelte, Neues Logo: So wird das Oktoberfest 2022"
-    },
-    {
-      "title": "Zeugen dringend gesucht : Wer tötete den 68-jährigen Joachim K.?",
-      "teaser": "Vor zwei Jahren entdeckte eine Spaziergängerin im Leipziger Clara-Zetkin-Park die Leiche des getöteten Joachim K. (68).",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-wer-toetete-den-68-jaehrigen-joachim-k-80904536.bild.html",
-      "image_title": "Leipzig: Wer tötete den 68-jährigen Joachim K.?"
-    },
-    {
-      "title": "Reisen immer nur mit Köpfchen : Seltsame Selfies von Sachsens Wirtschaftsminister",
-      "teaser": "Mit diesen seltsamen Selfies auf Instagram macht Vize-MP Martin Dulig auf sich aufmerksam.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/martin-dulig-die-seltsamen-selfies-von-sachsens-wirtschaftsminister-80902386.bild.html",
-      "image_title": "Martin Dulig: Die seltsamen Selfies von Sachsens Wirtschaftsminister"
-    },
-    {
-      "title": "Verfahren gegen Ayleens Killer : Waren Polizei und Justiz zu lasch?",
-      "teaser": "Wetzlar – Könnte Ayleen (†14) noch leben, wenn Polizei und Justiz konsequenter gehandel...",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/jan-heiko-p-29-vor-dem-mord-stalkte-er-eine-schuelerin-80902516.bild.html",
-      "image_title": "Jan-Heiko P. (29): Vor dem Mord stalkte er eine Schülerin"
-    },
-    {
-      "title": "Die letzten Stunden von Jesse L. (†19) : Erst Crispy Chicken, Drogen und dann Kopfschuss",
-      "teaser": "Nachmittags aßen sie noch zusammen Burger und Salat, abends war Jesse L. (19) tot.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-erst-crispy-chicken-drogen-dann-kopfschuss-der-mord-an-jesse-l-80895670.bild.html",
-      "image_title": "Leipzig: Erst Crispy Chicken, Drogen, dann Kopfschuss – der Mord an Jesse L."
-    },
-    {
-      "title": "Schiffe versenken! : Grüner Stadtrat fällt mit wirrer Forderung auf",
-      "teaser": "Offenbar ist der Sommer nicht die beste Jahreszeit der sächsischen Grünen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-schiffe-versenken-wirre-forderung-von-gruenem-stadtrat-kasek-80900318.bild.html",
-      "image_title": "Leipzig: Schiffe versenken! Wirre Forderung von Grünem Stadtrat Kasek"
-    },
-    {
-      "title": "In Alpen ausgerissen : Hund Hardy nach einer Woche wieder aufgetaucht",
-      "teaser": "Sie suchten mit Drohnen nach ihm: Nach einer Woche ist Hardy wieder aufgetaucht.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/in-alpen-ausgerissen-hund-hardy-nach-einer-woche-wieder-aufgetaucht-80904374.bild.html",
-      "image_title": "In Alpen ausgerissen: Hund Hardy nach einer Woche wieder aufgetaucht"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie einen 6er im Lotto? Gehört der 1 Mio € Jackpot bald Ihnen? Erfahren Sie es hier",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-vom-3-august-80826006.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen und Quoten vom 3. August"
-    },
-    {
-      "title": "Gesichtleser analysiert DEN Claudia-Kuss : Ist diese Liebe echt er-OBERT?",
-      "url": "https://www.bild.de/video/clip/video/gesichtleser-analysiert-den-claudia-kuss-ist-diese-liebe-echt-er-obert-80921722,auto=true.bild.html",
-      "image_title": "Gesichtleser analysiert DEN Claudia-Kuss: Ist diese Liebe echt er-OBERT?"
-    },
-    {
-      "title": "Feuer-Inferno in Berlin : Viele Brände gelöscht, aber weiter Gefahr im Grunewald",
-      "url": "https://www.bild.de/video/clip/video/feuer-inferno-in-berlin-braende-geloescht-aber-weiter-gefahr-im-grunewald-80913542,auto=true.bild.html",
-      "image_title": "Feuer-Inferno in Berlin: Viele Brände gelöscht, aber weiter Gefahr"
-    },
-    {
-      "title": "Max (24) über Claudia Obert (60) : „Ich habe mich sofort verliebt“",
-      "url": "https://www.bild.de/video/clip/video/max-24-ueber-claudia-obert-60-ich-habe-mich-sofort-verliebt-80911596,auto=true.bild.html",
-      "image_title": "Max (24) über Claudia Obert (60): „Ich habe mich sofort verliebt“"
-    }
-  ]
+  "articles": []
 }
