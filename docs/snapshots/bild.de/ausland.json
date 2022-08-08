@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-08T02:00:34",
+  "timestamp": "2022-08-08T03:45:19",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c50c0210.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5c8dee70.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Neuer Gruselfund vom Lake Mead : Rekord-Dürre legt vierte Leiche frei!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-lake-mead-grusel-rekord-duerre-legt-dritte-leiche-frei-80826350.bild.html",
-      "image_url": "https://images.bild.de/62e0fd44b080907b6a50cb28/b3ab57cce320a3d36475bf92316cab8e,45b11bd?w=656",
-      "image_title": "USA: Lake-Mead-Grusel! Rekord-Dürre legt vierte Leiche frei"
-    },
-    {
-      "title": "Tränen nach dem Tod von Archie (12) : „Es ist nicht würdevoll, ein Kind ersticken zu sehen“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nach-mutprobe-im-koma-maschinen-abgestellt-lebe-wohl-archie-80925280.bild.html",
-      "image_url": "https://images.bild.de/62ee294760a3e73b21ea417e/ba0c1ec2991e66682641bda00692494e,d276c922?w=320",
-      "image_title": "Nach Mutprobe im Koma? Maschinen abgestellt – lebe wohl, Archie!"
-    },
-    {
-      "title": "Kroatien : Zwölf polnische Pilger bei Busunglück gestorben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kroatien-zwoelf-polnische-pilger-bei-busunglueck-gestorben-80925818.bild.html",
-      "image_url": "https://images.bild.de/62ee3fff60a3e73b21ea419c/e7339f11139efa10e6a89b962b792414-miniSquare,663120a2?w=320",
-      "image_title": "Kroatien: Zwölf polnische Pilger bei Busunglück gestorben"
-    },
-    {
-      "title": "Er kam mit dem Löschtrupp an : Hausbrand tötet 10 Verwandte von Feuerwehrmann",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-feuerwehrmann-verliert-zehn-verwandte-bei-hausbrand-80924322.bild.html",
-      "image_url": "https://images.bild.de/62ee0ec4020949284b6c0a74/960fce1936d09ff25767efdeeb5a8b3e,d47eb330?w=320",
-      "image_title": "USA: Feuerwehrmann verliert zehn Verwandte bei Hausbrand"
-    },
-    {
-      "title": "Gefangenen-Austausch mit US-Sportlerin : So will Putin seinen Händler des Todes freipressen",
-      "url": "https://www.bild.de/news/ausland/news-ausland/moskau-so-will-putin-seinen-haendler-des-todes-freipressen-80921322.bild.html",
-      "image_url": "https://images.bild.de/62ed41648484e259544b2c4a/9a00deeacf7def35fc76108201f9da3d,52213afc?w=320",
-      "image_title": "Moskau:So will Putin seinen Händler des Todes freipressen"
-    },
-    {
-      "title": "Neuer Schock für die Eltern : Berufung abgelehnt! Archie darf nicht ins Hospiz",
-      "url": "https://www.bild.de/news/ausland/news-ausland/archie-battersbee-12-darf-nicht-zum-sterben-ins-hospiz-80917080.bild.html",
-      "image_title": "Archie Battersbee (12) darf nicht zum Sterben ins Hospiz – auch Berufung abgelehnt"
-    },
-    {
-      "title": "Washington, D. C. : Blitzeinschlag nahe Weißem Haus – drei Tote!",
-      "teaser": "Bei einem Blitzeinschlag in der Nähe des Weißen Hauses sind drei Menschen gestorben.",
-      "url": "https://www.bild.de/news/ausland/politik-ausland/washington-blitzeinschlag-in-park-beim-weissen-haus-zwei-tote-80920196.bild.html",
-      "image_title": "Washington: Blitzeinschlag in Park beim Weißen Haus – drei Tote!"
-    },
-    {
-      "title": "Drei menschen starben : Gletscher gibt 1968 abgestürztes Flugzeug frei",
-      "teaser": "Der Aletschgletscher hat ein lange gelüftetes Geheimnis freigegeben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/geschmolzener-gletscher-gibt-1968-abgestuerztes-flugzeug-frei-80922438.bild.html",
-      "image_title": "Geschmolzener Gletscher gibt 1968 abgestürztes Flugzeug frei"
-    },
-    {
-      "title": "24 Millionen Tonnen! : Algen-Plage in der Karibik",
-      "teaser": "24 Millionen Tonnen Sargassum-Algen ersticken die Karibik-Küsten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/karibik-algen-plage-24-millionen-tonnen-sargassum-an-den-kuesten-80915990.bild.html",
-      "image_title": "Karibik: Algen-Plage – 24 Millionen Tonnen Sargassum an den Küsten"
-    },
-    {
-      "title": "Las Vegas : Ein Toter, zwei Verletzte bei Schüssen in Casino-Hotel",
-      "teaser": "In einem Zimmer des bekannten „Mirage“-Hotels wurde eine Person erschossen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/las-vegas-schuesse-im-casino-hotel-mirage-ein-toter-und-verletzte-80913860.bild.html",
-      "image_title": "Las Vegas: Schüsse im Casino-Hotel „Mirage“ – ein Toter und Verletzte"
-    },
-    {
-      "title": "Drama in Thailand : Club in Flammen – 13 Tote und 40 Verletzte",
-      "teaser": "Schlimme Bilder aus Thailand! Der Vorfall ereignete sich im Küstengebiet Sattahip.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/drama-in-thailand-pub-in-flammen-13-tote-und-40-verletzte-80913086.bild.html",
-      "image_title": "Drama in Thailand: Club in Flammen – 13 Tote und 40 Verletzte"
-    },
-    {
-      "title": "Rätselhaftes Todes-Drama in Wien : Mutter und Tochter tot in Wohnung gefunden",
-      "teaser": "Die Polizei in Österreich ermittelt wegen des Verdachts auf ein Tötungsdelikt.",
-      "url": "https://www.bild.de/news/ausland/news/raetselhaftes-todes-drama-in-wien-mutter-und-tochter-tot-in-wohnung-gefunden-80914606.bild.html",
-      "image_title": "Rätselhaftes Todes-Drama in Wien: Mutter und Tochter tot in Wohnung gefunden"
-    },
-    {
-      "title": "Millionär (†61) stirbt bei Jacht-Unfall : Gab es ein Rennen mit Berlusconis Bunga-Bunga-Boot?",
-      "teaser": "Porto Cervo – Multimillionär und Maskenunternehmer Dean Kronsbein († 61) starb, als seine Luxusjacht „Amore“ vor Sardinien an einem ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/beruehmter-millionaer-61-stirbt-bei-jacht-unfall-gab-es-ein-rennen-mit-berluscon-80912320.bild.html",
-      "image_title": "Berühmter Millionär (†61) stirbt bei Jacht-Unfall: Gab es ein Rennen mit Berlusconis Bunga-Bunga-Boot?"
-    },
-    {
-      "title": "Zusammen über 13 Meter lang : Dianas Fingernägel wachsen für ihre tote Tochter",
-      "teaser": "Diana Armstrong ist neue Weltrekord-Halterin, ihre Fingernägel sind länger als ein Bus.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/die-fingernaegel-von-diana-aus-den-usa-sind-mehr-als-13-meter-lang-80911656.bild.html",
-      "image_title": "Die Fingernägel von Diana aus den USA sind mehr als 13 Meter lang – Rekord!"
-    },
-    {
-      "title": "Horror-Unfall in Los Angeles : Rot-Raserin verursacht Inferno – 4 Tote!",
-      "teaser": "Es sind erschreckende Bilder, die eine Überwachungskamera aufgenommen hat.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/horror-unfall-in-los-angeles-rot-raserin-verursacht-inferno-4-tote-80913120.bild.html",
-      "image_title": "Horror-Unfall in Los Angeles: Rot-Raserin verursacht Inferno – vier Tote!"
-    },
-    {
-      "title": "„Weiß nicht, wie ich überlebt habe“ : 16 Stunden in Luftblase auf dem Atlantik gefangen!",
-      "teaser": "Der Franzose Laurent Camprubi (62) hat den Albtraum eines jeden Hochsee-Seglers erlebt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/wunder-rettung-segler-16-stunden-in-luftblase-auf-dem-atlantik-gefangen-80912696.bild.html",
-      "image_title": "Wunder-Rettung: Segler 16 Stunden in Luftblase auf dem Atlantik gefangen"
-    },
-    {
-      "title": "Waren es Türsteher oder die Polizei? : Brite auf Mallorca totgeprügelt",
-      "teaser": "Er kam zum Feiern nach Mallorca, jetzt ist Tobias White-Sansom (†35) tot.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/brite-auf-mallorca-totgepruegelt-sind-tuersteher-oder-die-polizei-schuld-80911160.bild.html",
-      "image_title": "Brite auf Mallorca totgeprügelt - sind Türsteher oder die Polizei schuld?"
-    },
-    {
-      "title": "Stellenanzeige aus Kanada : In diesem süßen Job gibt’s 77 000 Euro im Jahr",
-      "teaser": "Mit einer süßen Stellenanzeige sucht eine kanadische Firma einen Bonbon-Generaldirektor.",
-      "url": "https://www.bild.de/geld/wirtschaft/news-ausland/jahresgehalt-77-000-euro-kanadische-firma-sucht-bonbon-tester-80905436.bild.html",
-      "image_title": "Jahresgehalt 77.000 Euro: Kanadische Firma sucht Bonbon-Tester"
-    },
-    {
-      "title": "Masken-Millionär stirbt bei Jacht-Drama : Münchner Kunst-Königin weint um ihren Bruder",
-      "teaser": "Schock in der Münchner Society! Multi-Millionär Dean Kronsbein starb bei einem Jacht-Unfall.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/masken-millionaer-stirbt-bei-jacht-drama-muenchner-kunst-koenigin-weint-um-ihren-80901208.bild.html",
-      "image_title": "Masken-Millionär stirbt bei Jacht-Drama: Münchner Kunst-Königin weint um ihren Bruder"
-    },
-    {
-      "title": "Zwei Leichen in seinem Haus entdeckt : Mädchen entkommt Kidnapper – einem Serienkiller?",
-      "teaser": "Ein Mädchen aus den USA hat die Polizei auf die Spur eines Killers gebracht.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-maedchen-12-entkommt-kidnapper-polizei-entdeckt-leichen-im-haus-des-entfuehr-80905552.bild.html",
-      "image_title": "USA: Mädchen (12) entkommt Kidnapper – Polizei entdeckt Leichen im Haus des Entführers"
-    },
-    {
-      "title": "Forscher legt Twitter rein : Spektakuläres Stern-Foto ist in Wirklichkeit …",
-      "teaser": "Ein Franzose hat statt eines Stern-Fotos eine Scheibe Chorizo gepostet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/forscher-prankt-twitter-spektakulaeres-stern-foto-ist-in-wirklichkeit-ein-scheib-80908378.bild.html",
-      "image_title": "Forscher prankt Twitter: Spektakuläres Stern-Foto ist in Wirklichkeit ein Scheibe Wurst"
-    },
-    {
-      "title": "Mordfall Simone Strobel : Angeklagter kommt auf Kaution frei",
-      "teaser": "Der in Australien an seiner Ex angeklagte Tobias S. kommt nun doch auf Kaution frei.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mordfall-simone-strobel-angeklagter-kommt-auf-kaution-frei-80908514.bild.html",
-      "image_title": "Mordfall Simone Strobel: Angeklagter kommt auf Kaution frei"
-    },
-    {
-      "title": "Archies Mutter : „Das ist das Ende“",
-      "teaser": "Die lebenserhaltenden Maßnahmen für Archie Battersbee werden abgestellt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/archie-battersbee-12-muss-sterben-seine-mutter-will-wuerdevolles-ableben-in-hosp-80901852.bild.html",
-      "image_title": "Archie Battersbee (12) muss sterben: Seine Mutter will „würdevolles Ableben“ in Hospiz"
-    },
-    {
-      "title": "Nahe Reykjavík : Vulkanausbruch auf Island",
-      "teaser": "Im Land der Naturgewalten speit die Erde wieder Feuer: Vulkanausbruch auf Island!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/vulkanausbruch-auf-island-nahe-reykjavk-300-meter-langer-riss-im-boden-80901992.bild.html",
-      "image_title": "Vulkanausbruch auf Island nahe Reykjavík: 300 Meter langer Riss im Boden"
-    },
-    {
-      "title": "Reste von Musks Space-X-Rakete : „Alien-Obelisk“ entpuppt sich als Weltraumschrott",
-      "teaser": "In Australien ist ein Objekt aus dem All gefunden worden. Jetzt steht die Herkunft fest.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/reste-von-elon-musks-space-x-rakete-alien-obelisk-entpuppt-sich-als-weltraumschr-80895680.bild.html",
-      "image_title": "Reste von Elon Musks Space-X-Rakete: „Alien-Obelisk“ entpuppt sich als Weltraumschrott"
-    },
-    {
-      "title": "Nur gucken, nicht anfassen! : Koala-Attacke am Straßenrand",
-      "url": "https://www.bild.de/video/clip/video/nur-gucken-nicht-anfassen-koala-attacke-am-strassenrand-80916916,auto=true.bild.html",
-      "image_title": "Nur gucken, nicht anfassen!: Koala-Attacke am Straßenrand"
-    },
-    {
-      "title": "„Er hat mir den Arm weggeschossen!“ : 80-Jähriger schießt Räuber in die Flucht",
-      "url": "https://www.bild.de/video/clip/video/er-hat-mir-den-arm-weggeschossen-80-jaehriger-schiesst-raeuber-in-die-flucht-80893252,auto=true.bild.html",
-      "image_title": "„Er hat mir den Arm weggeschossen!“: 80-Jähriger schießt Räuber in die Flucht"
-    },
-    {
-      "title": "MiAUA : Katze von Harpune durchbohrt",
-      "url": "https://www.bild.de/video/clip/video/miaua-katze-von-harpune-durchbohrt-80934740,auto=true.bild.html",
-      "image_title": "MiAUA: Katze von Harpune durchbohrt"
-    }
-  ]
+  "articles": []
 }
