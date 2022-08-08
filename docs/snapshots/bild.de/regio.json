@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-08T08:30:09",
+  "timestamp": "2022-08-08T09:21:16",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c50c0210.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5c8dee70.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Romantische Bootsfahrt auf dem Ammersee : Hier schippert SEElene Fischer",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/romantische-bootsfahrt-auf-dem-ammersee-hier-schippert-seelene-fischer-80936916.bild.html",
-      "image_title": "Helene Fischer: Mit dem Boot auf dem Ammersee – Geschenk ihres Verlobten"
-    },
-    {
-      "title": "Überraschender Besuch : „Um 3.12 Uhr wollten die Bayern meine Currywurst“",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/fc-bayern-ueberraschung-hier-futtern-die-stars-mitten-in-der-nacht-currywurst-80936144.bild.html",
-      "image_title": "FC Bayern: Überraschung! Hier futtern die Stars mitten in der Nacht Currywurst"
-    },
-    {
-      "title": "Er stolperte, als der Zug kam : Schranken-Drama! Familienvater tot",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-schranken-drama-familienvater-tot-80938422.bild.html",
-      "image_title": "Berlin: Schranken-Drama! Familienvater tot"
-    },
-    {
-      "title": "Dürre beim Wasser-Budget : Feuerwehr darf ihren Durst nicht mehr löschen",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/wasser-rationiert-feuerwehr-darf-nicht-mehr-ihren-durst-loeschen-80936702.bild.html",
-      "image_title": "Wasser rationiert! Feuerwehr darf nicht mehr ihren Durst löschen"
-    },
-    {
-      "title": "Demo in Berlin : Hass-Parolen gegen Israel",
-      "teaser": "55 Minuten purer Hass gegen Israel – mitten in Berlin! Zur Demo kamen 200 Teilnehmer.",
-      "url": "https://www.bild.de/news/inland/news-inland/demo-in-berlin-hass-parolen-gegen-israel-80937542.bild.html",
-      "image_title": "Demo in Berlin: Hass-Parolen gegen Israel"
-    },
-    {
-      "title": "Tag 4 im Grunewald-BranD : Brennt es im Berliner Grunewald immer noch?",
-      "teaser": "Auf dem Sprengplatz im Berliner Grunewald will die Feuerwehr näher an den Brandherd ran.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/tag-4-im-grunewald-brand-feuerwehr-will-endlich-an-den-brandherd-ran-80933044.bild.html",
-      "image_title": "Tag 4 im Grunewald-Brand: Feuerwehr will endlich an den Brandherd ran!"
-    },
-    {
-      "title": "Lungenkranke Ponys auf Ballermann-Ranch gerettet : Shettys endlich happy",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/verwahrloste-mini-ponys-auf-ballermann-ranch-gerettet-shettys-endlich-happy-80935836.bild.html",
-      "image_title": "Verwahrloste Mini-Ponys auf Ballermann-Ranch gerettet: Shettys endlich happy"
-    },
-    {
-      "title": "Nach Pferdekuss in Wolfsburg : Werder zittert um Füllkrug",
-      "teaser": "Ist die Verletzung von Niclas Füllkrug doch schlimmer als gedacht?",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-pferdekuss-in-wolfsburg-zittern-um-niclas-fuellkrug-80935512.bild.html",
-      "image_title": "Werder Bremen: Pferdekuss in Wolfsburg! Zittern um Niclas Füllkrug"
-    },
-    {
-      "title": "Werder-Fans behaupten : Es wurde sogar ein Rollstuhl auseinandergebaut!",
-      "teaser": "Auf der Anreise zur Liga-Rückkehr wurden Bremer Fans am Wolfsburger Bahnhof eingekesselt.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/werder-bremen-fans-nach-aerger-mit-polizei-ein-rollstuhl-wurde-auseinander-gebau-80935372.bild.html",
-      "image_title": "Werder Bremen: Fans nach Ärger mit Polizei: Ein Rollstuhl wurde auseinandergebaut!"
-    },
-    {
-      "title": "Jetzt braucht Morris (20) selbst Hilfe : Feuerwehrmann verliert Bein bei Unfall",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/er-war-immer-fuer-andere-da-jetzt-braucht-morris-20-aus-naunhof-in-sachsen-selbs-80936038.bild.html",
-      "image_title": "Sachsen: Feuerwehrmann (20) verliert Bein bei Unfall"
-    },
-    {
-      "title": "„Fit“ für die Zukunft : Unternehmer hilft Sachsens Pleite-Nonnen",
-      "teaser": "Die Gebete der letzten neun Nonnen des 788 Jahre alten Klosters St. Marienthal in Ostritz sind erhört worden.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/fit-fuer-die-zukunft-unternehmer-hilft-sachsens-pleite-nonnen-80935796.bild.html",
-      "image_title": "„Fit“ für die Zukunft: Unternehmer hilft Sachsens Pleite-Nonnen"
-    },
-    {
-      "title": "Aue - Osnabrück 1:1 : Stefaniak-Treffer reicht wieder nicht zum Sieg",
-      "teaser": "Wieder nur 1:1! Erzgebirge Aue kann auch gegen Osnabrück nicht gewinnen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/aue-osnabrueck-1-1-stefaniak-treffer-reicht-wieder-nicht-zum-sieg-80931648.bild.html",
-      "image_title": "Aue - Osnabrück 1:1! Stefaniak-Treffer reicht wieder nicht zum Sieg"
-    },
-    {
-      "title": "Exklusiv bei BILDplus : VIP-Wochenende beim ADAC GT Masters zu gewinnen!",
-      "url": "https://www.bild.de/sport/2022/sport/bildplus-gewinnen-sie-ein-vip-paket-fuer-das-adac-gt-masters-80770130.bild.html",
-      "image_title": "BILDplus: Gewinnen Sie ein VIP-Paket für das ADAC GT Masters!"
-    },
-    {
-      "title": "Dynamo-Kapitän Knipping : „Endlich ist die Sch... Serie vorbei!“",
-      "teaser": "Dynamo hat mit dem 2:0 in Halle den Sieglos-Fluch durchbrochen. Kapitän Tim Knipping: „Endlich ist diese Scheiss Serie vorbei!“",
-      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-kapitaen-knipping-endlich-ist-die-sch-serie-vorbei-80938920.bild.html",
-      "image_title": "Dynamo-Kapitän Knipping: „Endlich ist die Sch... Serie vorbei!“"
-    },
-    {
-      "title": "TV-Star Evelyn Burdecki : Date-Abbruch, weil er DAS nicht kennt ...",
-      "teaser": "Evelyn Burdecki will endlich unter die Haube. Den Partner dazu sucht sie jetzt im TV.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/evelyn-burdecki-date-abbruch-weil-er-das-nicht-kennt-80933380.bild.html",
-      "image_title": "Evelyn Burdecki: Date-Abbruch, weil er DAS nicht kennt ..."
-    },
-    {
-      "title": "Kölnerin fühlte sich erniedrigt : Transfrau Alexia schildert ihren Knast-Horror",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/sie-fuehlte-sich-diskriminiert-transfrau-alexia-schildert-ihren-knast-horror-80932470.bild.html",
-      "image_title": "Sie fühlte sich diskriminiert: Transfrau Alexia schildert ihren Knast-Horror"
-    },
-    {
-      "title": "Bade-Drama in Krefeld (NRW) : Versunkener Mann (20) ist tot!",
-      "teaser": "Ein junger Mann (20) ist am Sonntag im Naturfreibad Neptun in Krefeld untergegangen.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/bade-drama-in-krefeld-versunkener-mann-20-lebend-aus-see-geborgen-80937228.bild.html",
-      "image_title": "Bade-Drama in Krefeld (NRW): Versunkener Mann (20) ist tot!"
-    },
-    {
-      "title": "Verärgerte Passagiere : Wieder Kofferchaos am Flughafen Düsseldorf",
-      "teaser": "Auch am letzten Ferienwochenende lief am Flughafen Düsseldorf nicht alles glatt.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/veraergerte-passagiere-wieder-kofferchaos-am-flughafen-duesseldorf-80936802.bild.html",
-      "image_title": "Verärgerte Passagiere: Wieder Kofferchaos am Flughafen Düsseldorf"
-    },
-    {
-      "title": "Nach Hass-Chat von Juso-Chef : CDU will Israel-Hetzer im Landtag zur Rede stellen",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/nach-hass-chat-cdu-will-israel-hetzer-vor-den-hessen-landtag-bringen-80938272.bild.html",
-      "image_title": "Nach Hass-Chat: CDU will Israel-Hetzer vor den Hessen-Landtag bringen"
-    },
-    {
-      "title": "Nach Chemotherapie : Sonya trägt jetzt Hip-Hop-Haare",
-      "teaser": "Sie kriegt von der Wüste einfach nicht genug: Moderatorin Sonya Kraus (49)...",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-nach-chemo-sonya-kraus-traegt-jetzt-hip-hop-haare-80935724.bild.html",
-      "image_title": "Frankfurt: Nach Chemo: Sonya Kraus trägt jetzt Hip-Hop-Haare"
-    },
-    {
-      "title": "Nur noch 71 cm : Rhein fast leer",
-      "teaser": "Die wochenlange Trockenheit setzt dem einst stolzen Strom heftig zu...",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/bingen-nur-noch-71-cm-rhein-in-rlp-fast-leer-80936414.bild.html",
-      "image_title": "Bingen: Nur noch 71 cm: Rhein in RLP fast leer"
-    },
-    {
-      "title": "Dunkle Rauchsäule über der Hafencity : Lkw fackelt unter Bahnbrücke ab",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/dunkle-rauchsaeule-ueber-der-hafencity-lkw-fackelt-unter-bahnbruecke-ab-80939784.bild.html",
-      "image_title": "Dunkle Rauchsäule über der Hafencity: Lkw fackelt unter Bahnbrücke ab"
-    },
-    {
-      "title": "Justiz-Staatssekretär Otto Carstens : Muss Doktor Wikipedia jetzt zurücktreten?",
-      "teaser": "Was wird in Schleswig-Holstein aus dem neuen Justiz-Staatssekretär Otto Carstens (41, CDU)?",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/justiz-staatssekretaer-soll-fuer-dissertation-abgeschrieben-haben-muss-doktor-wi-80933372.bild.html",
-      "image_title": "Justiz-Staatssekretär soll für Dissertation abgeschrieben haben: Muss Doktor Wikipedia jetzt zurücktreten?"
-    },
-    {
-      "title": "Ausgedient : Hamburger Hafen-Kräne wandern nach Zypern aus",
-      "teaser": "Zehn rote Van Carrier (Portalhubkräne) von Eurogate schippern auf dem roten Holland-Frachter „Condor“.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/ausgedient-hamburger-hafen-kraene-wandern-nach-zypern-aus-80933406.bild.html",
-      "image_title": "Ausgedient: Hamburger Hafen-Kräne wandern nach Zypern aus"
-    },
-    {
-      "title": "Gothic-Festival in Hildesheim : Karneval der schrägen Vögel",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/gothic-festival-in-hildesheim-karneval-der-schraegen-voegel-80938756.bild.html",
-      "image_title": "Gothic-Festival in Hildesheim: Karneval der schrägen Vögel"
-    },
-    {
-      "title": "Hilfsaktion nach Attacke auf Pfadfinder : Celle, das war richtig stark!",
-      "teaser": "Celle – Chaoten zerstachen 300 Reifen von 92 Pfadfinder-Wagen – die Stadt reagierte.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/hilfsaktion-nach-attacke-auf-pfadfinder-celle-das-war-richtig-stark-80934894.bild.html",
-      "image_title": "Hilfsaktion nach Attacke auf Pfadfinder: Celle, das war richtig stark!"
-    },
-    {
-      "title": "Hannover sieglos : Leitl legt Zimbo-Start hin",
-      "teaser": "Drei Spiele, kein Sieg, Trainer Stefan Leitl startet genauso schlapp wie Jan Zimmermann.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-weiter-sieglos-stefan-leitl-legt-start-wie-jan-zimmermann-hin-80936860.bild.html",
-      "image_title": "Hannover 96: Weiter sieglos! Stefan Leitl legt Start wie Jan Zimmermann hin"
-    },
-    {
-      "title": "Dieter Bohlen singt wieder : Comeback mit „Modern Talking“-Hits",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/dieter-bohlen-singt-wieder-comeback-mit-modern-talking-hits-80931154.bild.html",
-      "image_title": "Dieter Bohlen singt wieder: Comeback mit „Modern Talking“-Hits"
-    },
-    {
-      "title": "Ihm droht das Tierheim : Wer krallt sich Katzen-Senior Falco?",
-      "teaser": "Mit 20 Jahren droht Katzen-Senior Falco wieder mal das Tierheim.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/kater-droht-das-tierheim-wer-krallt-sich-katzen-senior-falco-80934440.bild.html",
-      "image_title": "Kater droht das Tierheim: Wer krallt sich Katzen-Senior Falco?"
-    },
-    {
-      "title": "Bachelor-Traumpaar Niko und Michèle : Schluss gemacht hat ...",
-      "teaser": "Bachelor-Paar Niko Griesert und Michèle de Roos – die Details zum Liebes-Aus!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/bachelor-traumpaar-niko-und-michle-wer-schluss-gemacht-hat-und-warum-80917222.bild.html",
-      "image_title": "Bachelor-Traumpaar Niko und Michèle: Wer Schluss gemacht hat und warum"
-    },
-    {
-      "title": "Der nächste Neue aus Salzburg? : RB hat Stürmer Sesko im Visier",
-      "url": "https://www.bild.de/sport/fussball/fussball/der-naechste-neue-aus-salzburg-rb-hat-stuermer-sesko-im-visier-80936828.bild.html",
-      "image_title": "Der nächste Neue aus Salzburg?: RB hat Stürmer Sesko im Visier"
-    },
-    {
-      "title": "Frau (46) getötet, Mann (34) schwer verletzt : Mutmaßlicher Killer aus Chemnitz in U-Haft",
-      "teaser": "Der mutmaßliche Killer aus Chemnitz wurde am Sonntag in U-Haft gesteckt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-taeter-fluechtig-frau-46-getoetet-mann-34-schwer-verletzt-80934364.bild.html",
-      "image_title": "Frau (46) getötet: Mutmaßlicher Killer aus Chemnitz in U-Haft"
-    },
-    {
-      "title": "Nach Bränden : Sächsische Schweiz gibt erste Wälder wieder frei",
-      "teaser": "Vorsichtiges Aufatmen für Gastronomen und Touristiker in der Sächsischen Schweiz!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/nach-braenden-saechsische-schweiz-gibt-erste-waelder-wieder-frei-80934616.bild.html",
-      "image_title": "Nach Bränden: Sächsische Schweiz gibt erste Wälder wieder frei"
-    },
-    {
-      "title": "Rostock – Bielefeld 2:1 : Hansa schlägt nächsten Aufstiegs-Favoriten",
-      "url": "https://www.bild.de/sport/fussball/fussball/rostock-bielefeld-2-1-hansa-schlaegt-naechsten-aufstiegs-favoriten-80929590.bild.html",
-      "image_title": "Rostock – Bielefeld 2:1: Hansa schlägt nächsten Aufstiegs-Favoriten"
-    },
-    {
-      "title": "2,20 Meter! : Mein 20-Minuten-Kampf mit dem Riesen-Wels",
-      "teaser": "Ron Venus (32) angelte sich einen gigantischen Wels: 2,20 Meter lang, 80 Kilo schwer!",
-      "url": "https://www.bild.de/regional/dresden/leipzig-news/angler-zieht-dicken-fisch-an-land-wels-rekord-in-der-elbe-80922470.bild.html",
-      "image_title": "An der Elbe in Sachsen: Mein 20-Minuten-Kampf mit dem Riesen-Wels"
-    },
-    {
-      "title": "Rostock – Bielefeld : Härtel: Bloß nicht Favorit sein",
-      "teaser": "Erst Sieg beim HSV (1:0), dann Pokal-Blamage in Lübeck (0:1). Welches Gesicht zeigt Hansa jetzt?",
-      "url": "https://www.bild.de/sport/fussball/fussball/rostock-bielefeld-haertel-bloss-nicht-favorit-sein-80919718.bild.html",
-      "image_title": "Rostock – Bielefeld: Härtel: Bloß nicht Favorit sein"
-    },
-    {
-      "title": "Was China damit zu tun hat : Puma pirscht sich an Adidas ran",
-      "url": "https://www.bild.de/geld/wirtschaft/politik-inland/adidas-und-puma-wer-im-bruderkampf-bald-die-nase-vorne-haben-koennte-80840206.bild.html",
-      "image_title": "Adidas und Puma: Wer im Bruderkampf bald die Nase vorne haben könnte"
-    },
-    {
-      "title": "Polizei sucht Zeugen : Tobias (25) nach Festival spurlos verschwunden",
-      "teaser": "Seit dem 05.08.2022 wird Tobias Dreiseitel aus Eichenried vermisst.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/vermisster-aus-eichenried-tobias-wo-bist-du-80933770.bild.html",
-      "image_title": "Polizei sucht Zeugen: Tobias (25) nach Festival spurlos verschwunden"
-    },
-    {
-      "title": "Beifahrerin (17) schwebt in Lebensgefahr : Vater (✝︎39) rast gegen Baum – Sohn (9) verletzt",
-      "teaser": "Schrecklicher Unfall am späten Sonntagabend auf der Staatsstraße 2086 bei Hörbering.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/vater-39-rast-gegen-baum-sohn-9-verletzt-80940212.bild.html",
-      "image_title": "Vater (✝︎39) rast gegen Baum – Sohn (9) verletzt"
-    },
-    {
-      "title": "Sommerinterview mit FW-Chef : Wie riecht die Energie-Wende, Herr Aiwanger?",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/sommerinterview-mit-hubert-aiwanger-wie-riecht-die-energie-wende-80932690.bild.html",
-      "image_title": "Sommerinterview mit Hubert Aiwanger: Wie riecht die Energie-Wende?"
-    },
-    {
-      "title": "Nürnberg in Regenbogen-Farben : CSD stellt neue Rekordzahlen auf!",
-      "teaser": "Teilnehmer-Rekord! 11 000 Menschen feiern in Nürnberg den Christopher Street Day (CSD)!",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/nuernberg-in-regenbogen-farben-csd-stellt-neue-rekordzahlen-auf-80936722.bild.html",
-      "image_title": "Nürnberg in Regenbogen-Farben: CSD stellt neue Rekordzahlen auf!"
-    },
-    {
-      "title": "Schweinfurt : Mann mit Messer verletzt – Freundin festgenommen",
-      "teaser": "Fast zwei Wochen nach Fund eines verletzten Mannes, wurde jetzt die Freundin festgenommen.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/schweinfurt-mann-mit-messer-verletzt-freundin-festgenommen-80939016.bild.html",
-      "image_title": "Schweinfurt: Mann mit Messer verletzt – Freundin festgenommen"
-    },
-    {
-      "title": "Acht Festnahmen in NRW : Polizei legt Drogensumpf trocken",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/acht-festnahmen-in-nrw-polizei-legt-drogensumpf-trocken-80940454.bild.html",
-      "image_title": "Acht Festnahmen in NRW: Polizei legt Drogensumpf trocken"
-    },
-    {
-      "title": "Gletscher bei Zermatt gibt Leiche frei : Ist es der verschwundene Tengelmann-Milliardär?",
-      "teaser": "Am Stockjigletscher wurde eine Leiche entdeckt. Ist es Karl-Erivan Haub?",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/zermatt-gletscher-leiche-ist-es-tengelmann-milliardaer-karl-erivan-haub-80939154.bild.html",
-      "image_title": "Zermatt: Gletscher-Leiche – ist es Tengelmann-Milliardär Karl-Erivan Haub?"
-    },
-    {
-      "title": "Gianni verschwand kurz nach Auto-Unfall : Junge, bitte komm zurück!",
-      "teaser": "Wo ist Gian-Luca (23) aus Hamm? Seine Eltern wissen nicht, warum er verschwand.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/gianni-verschwand-kurz-nach-auto-unfall-junge-bitte-komm-zurueck-80936012.bild.html",
-      "image_title": "Gianni verschwand kurz nach Auto-Unfall: Junge, bitte komm zurück!"
-    },
-    {
-      "title": "Lkw kippt unter Autobahn um : So ein Schlam(m)assel",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/voelklingen-lkw-kippt-unter-autobahn-um-so-ein-schlam-m-assel-80939996.bild.html",
-      "image_title": "Völklingen: Lkw kippt unter Autobahn um: So ein Schlam(m)assel"
-    },
-    {
-      "title": "Horror-Unfall im SLK : Tötete Fahrer (16) den Kumpel (18) im Rausch?",
-      "teaser": "Der tödliche Horror-Unfall an Pfingsten – inzwischen kennt die Polizei die Hintergründe...",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/horror-unfall-im-slk-toetete-fahrer-16-den-kumpel-18-im-rausch-80938362.bild.html",
-      "image_title": "Horror-Unfall im SLK: Tötete Fahrer (16) den Kumpel (18) im Rausch?"
-    },
-    {
-      "title": "„Könnte langwierig werden“ : Sorgen um FCS-Oldie Frantz!",
-      "teaser": "FCS-Star Mike Frantz (35) musste beim 2:0 in Elversberg früh verletzt raus.",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-sorgen-um-mike-frantz-80935238.bild.html",
-      "image_title": "1. FC Saarbrücken: Sorgen um Mike Frantz!"
-    },
-    {
-      "title": "Magdeburg – Kiel 1:2 : Bittere Pleite in Unterzahl",
-      "url": "https://www.bild.de/sport/fussball/fussball/magdeburg-kiel-1-2-bittere-pleite-in-unterzahl-80935112.bild.html",
-      "image_title": "Magdeburg – Kiel 1:2: Bittere Pleite in Unterzahl"
-    },
-    {
-      "title": "Drama auf der Landstraße : Biker stirbt nach Frontalcrash mit Auto",
-      "teaser": "Beim Frontalzusammenprall seines Motorrads mit einem entgegenkommenden Auto ist ein Mann in Halle ums Leben gekommen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-biker-stirbt-nach-frontalcrash-mit-auto-80938568.bild.html",
-      "image_title": "Sachsen-Anhalt: Biker stirbt nach Frontalcrash mit Auto"
-    },
-    {
-      "title": "HFC offensiv harmlos : Aber kein neuer Stürmer in Sicht",
-      "teaser": "Geht Halle schweren Zeiten entgegen? Zwei Pleiten zum Auftakt und vorerst Letzter der Liga.",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-hfc-offensiv-harmlos-aber-kein-neuer-stuermer-in-sicht-80938250.bild.html",
-      "image_title": "3. Liga: HFC offensiv harmlos – Aber kein neuer Stürmer in Sicht"
-    },
-    {
-      "title": "Negativ-Preis für enge Spur : Radweg-Schande am Stuttgarter Flughafen",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/negativ-preis-fuer-enge-spur-radweg-schande-am-stuttgarter-flughafen-80936020.bild.html",
-      "image_title": "Negativ-Preis für enge Spur: Radweg-Schande am Stuttgarter Flughafen"
-    },
-    {
-      "title": "Landkreis Karlsruhe : Feuerwehr muss zu mehreren Bränden anrücken",
-      "teaser": "Feuerwehrkräfte sind im Landkreis Karlsruhe zu mehreren Bränden ausgerückt.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/landkreis-karlsruhe-feuerwehr-muss-zu-mehreren-braenden-anruecken-80940422.bild.html",
-      "image_title": "Landkreis Karlsruhe: Feuerwehr muss zu mehreren Bränden anrücken"
-    },
-    {
-      "title": "250 000 Euro Schaden : Topf mit Öl vergessen",
-      "teaser": "Ein Topf mit Öl auf einer eingeschalteten Herdplatte soll einen Brand verursacht haben.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/250-000-euro-schaden-in-tuttlingen-topf-mit-oel-vergessen-80939676.bild.html",
-      "image_title": "250 000 Euro Schaden in Tuttlingen: Topf mit Öl vergessen"
-    },
-    {
-      "title": "53-Jähriger schwer verletzt : Gleitschirmflieger abgestürzt –Klinik",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-gleitschirmflieger-abgestuerzt-klinik-80939756.bild.html",
-      "image_title": "Thüringen: Gleitschirmflieger abgestürzt –Klinik"
-    },
-    {
-      "title": "Leopard zerfetzte ihr Gesicht : Model rettet nach Raubtier-Angriff wieder Tiere",
-      "teaser": "Ein Jahr nach dem schrecklichen Leoparden-Angriff rettet Model Jessica Leidolph wieder Tiere.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/leopard-zerfetzte-ihr-gesicht-model-rettet-wieder-tiere-80934866.bild.html",
-      "image_title": "Leopard zerfetzte ihr Gesicht: Model rettet wieder Tiere"
-    },
-    {
-      "title": "Jenas Schau überraschend draußen : „Der Trainer hatte keine Argumente!“",
-      "teaser": "Dieser Saisonauftakt war nicht nach dem Geschmack von Jenas Justin Schau (23).",
-      "url": "https://www.bild.de/sport/fussball/fussball/jenas-schau-ueberraschend-draussen-der-trainer-hatte-keine-argumente-80935660.bild.html",
-      "image_title": "Jenas Schau überraschend draußen: „Der Trainer hatte keine Argumente!“"
-    }
-  ]
+  "articles": []
 }
