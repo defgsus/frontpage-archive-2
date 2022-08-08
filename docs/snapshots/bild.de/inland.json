@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-08T14:22:18",
+  "timestamp": "2022-08-08T15:25:52",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,212 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c50c0210.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.e0240a54.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5c8dee70.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Umstrittene Maßnahme : Katzen-Lockdown zwei Wochen kürzer als geplant",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/in-walldorf-katzen-ausgangsverbot-endet-eher-80944630.bild.html",
-      "image_url": "https://images.bild.de/62f10b1f60a3e73b21ea44e7/0c4ecfd95da20003abc32f9220aef2e7,3fb8fe39?w=320",
-      "image_title": "Umstrittene Maßnahme: Katzen-Lockdown zwei Wochen kürzer als geplant"
-    },
-    {
-      "title": "Treffen mit 500 Kult-Oldtimern in Eisenach : Zeigt her Eure Wartburgs!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/wartburg-treffen-mit-500-kult-oldtimern-in-eisenach-80944994.bild.html",
-      "image_url": "https://images.bild.de/62f10f893d56364afd92cb8d/d7afd54f371d0c564cbac13ea7d66961,36e7af53?w=320",
-      "image_title": "Wartburg: Treffen mit 500 Kult-Oldtimern in Eisenach"
-    },
-    {
-      "title": "Gegen parkendes Auto gefahren : Radfahrer mit mehr als 5 Promille unterwegs",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-radfahrer-mit-mehr-als-5-promille-unterwegs-80944802.bild.html",
-      "image_url": "https://images.bild.de/62f107173d56364afd92cb77/a8e2bd04148783b9e37b478f1e555b89,da2f5d62?w=320",
-      "image_title": "Unfall: Radfahrer mit mehr als 5 Promille unterwegs"
-    },
-    {
-      "title": "Crash auf der A2 : Auto kracht in Lkw - drei Verletzte in Klinik",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-auf-a2-in-sachsen-anhalt-auto-kracht-in-lkw-drei-verletzte-in-klinik-80944100.bild.html",
-      "image_url": "https://images.bild.de/62f100a560a3e73b21ea44c9/3b2decdfaa4c2d19db76d66f4ae158b0,ca017bc6?w=320",
-      "image_title": "Unfall auf A2 in Sachsen-Anhalt: Auto kracht in Lkw - drei Verletzte in Klinik"
-    },
-    {
-      "title": "Neue Details zum Achterbahn-Horror : Frau (57) stürzte aus acht Metern in den Tod",
-      "teaser": "Neue Details zum Achterbahn-Horror im Wild- und Freizeitpark „Klotti“ in Klotten.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/cochem-achterbahn-horror-fahrgast-stuerzte-aus-acht-metern-in-den-tod-80942044.bild.html",
-      "image_title": "Cochem – Achterbahn-Horror: Fahrgast stürzte aus acht Metern in den Tod"
-    },
-    {
-      "title": "800 Kameraden bei Waldbrand im Einsatz : Noch immer offene Feuer in Sächsischer Schweiz",
-      "teaser": "800 Feuerwehrleute kämpfen weiter gegen die Flammen im Nationalpark Sächsische Schweiz.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/waldbrand-in-sachsen-weiterhin-offene-feuer-im-nationalpark-saechsische-schweiz-80942572.bild.html",
-      "image_title": "Waldbrand in Sachsen: Weiterhin offene Feuer im Nationalpark Sächsische Schweiz"
-    },
-    {
-      "title": "Tragischer Unfall in Haan (NRW) : Junge (3) löst Handbremse – Mann (50) tot!",
-      "teaser": "Tragischer Unfalltod in Haan! Am Samstagabend, gegen 18.50 Uhr, wollte ei...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/haan-kind-3-loest-handbremse-mann-50-von-rollendem-auto-getoetet-80931412.bild.html",
-      "image_title": "Haan: Junge (3) löst Handbremse - Mann (50) tot!"
-    },
-    {
-      "title": "Brutaler Mord in Delmenhorst : Oma (80) lag tot im Haus, Enkel (22) festgenommen",
-      "teaser": "Was geschah in diesem Einfamilienhaus? Am Sonntagabend wurde eine Frau tot aufgefunden.",
-      "url": "https://www.bild.de/regional/bremen/hannover-aktuell/brutaler-mord-in-delmenhorst-frau-80-tot-aufgefunden-enkel-22-festgenommen-80940570.bild.html",
-      "image_title": "Brutaler Mord in Delmenhorst: Oma (80) tot aufgefunden, Enkel (22) festgenommen"
-    },
-    {
-      "title": "Mann (32) in Leipzig niedergeschossen : Schütze (29) von Eisenbahnstraße in Haft",
-      "teaser": "Nach einer Schießerei am Samstag auf der Eisenbahnstraße wurde nun ein Haftbefehl erlassen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-tatverdaechtiger-nach-schiesserei-auf-eisenbahnstrasse-in-haft-80940662.bild.html",
-      "image_title": "Leipzig: Tatverdächtiger nach Schießerei auf Eisenbahnstraße in Haft"
-    },
-    {
-      "title": "15 000 Automaten : Ich bin der King of Kaugummi",
-      "teaser": "Seit nun schon 37 Jahren! Der Kaugummi-König hat sich ein regelrechtes Imperium aufgebaut.",
-      "url": "https://www.bild.de/regional/muenchen/news/15000-automaten-ich-bin-der-king-of-kaugummi-80927812.bild.html",
-      "image_title": "15 000 Automaten: Ich bin der King of Kaugummi"
-    },
-    {
-      "title": "Dürre beim Wasser-Budget : Feuerwehr darf ihren Durst nicht mehr löschen",
-      "teaser": "Sie kämpfen täglich bei großer Hitze. Jetzt wird Trinkwasser für die Feuerwehr rationiert!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/wasser-rationiert-feuerwehr-darf-nicht-mehr-ihren-durst-loeschen-80936702.bild.html",
-      "image_title": "Wasser rationiert! Feuerwehr darf nicht mehr ihren Durst löschen"
-    },
-    {
-      "title": "Er stolperte, als der Zug kam : Schranken-Drama! Familienvater tot",
-      "teaser": "Der Unfall an einem Berliner Bahnübergang am 24. Juli hat ein tragisches Ende genommen.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-schranken-drama-familienvater-tot-80938422.bild.html",
-      "image_title": "Berlin: Schranken-Drama! Familienvater tot"
-    },
-    {
-      "title": "Demo in Berlin : Hass-Parolen gegen Israel",
-      "teaser": "55 Minuten purer Hass gegen Israel – mitten in Berlin! Zur Demo kamen 200 Teilnehmer.",
-      "url": "https://www.bild.de/news/inland/news-inland/demo-in-berlin-hass-parolen-gegen-israel-80937542.bild.html",
-      "image_title": "Demo in Berlin: Hass-Parolen gegen Israel"
-    },
-    {
-      "title": "Freizeitpark-Horror : Retter mussten Achterbahn-Opfer (†57) erst suchen",
-      "teaser": "Nach dem Achterbahn-Horror in Rheinland-Pfalz werden schwere Vorwürfe laut.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/achterbahn-unglueck-in-klotten-niemand-hat-kontrolliert-ob-die-buegel-fest-sitze-80938076.bild.html",
-      "image_title": "Achterbahn-Unglück in Klotten: „Niemand hat kontrolliert, ob die Bügel fest sitzen“"
-    },
-    {
-      "title": "Frau (46) getötet, Mann (34) schwer verletzt : Mutmaßlicher Killer aus Chemnitz in U-Haft",
-      "teaser": "Der mutmaßliche Killer aus Chemnitz wurde am Sonntag in U-Haft gesteckt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-taeter-fluechtig-frau-46-getoetet-mann-34-schwer-verletzt-80934364.bild.html",
-      "image_title": "Frau (46) getötet: Mutmaßlicher Killer aus Chemnitz in U-Haft"
-    },
-    {
-      "title": "Brandstifter fackelt Boot ab, Dieb klaut 41 Tauben : Wer hasst unser kleines Glück so sehr?",
-      "teaser": "Zwei Fälle von Hass und Zerstörung, die traurig machen",
-      "url": "https://www.bild.de/bild-plus/news/2022/news/mieser-angriff-auf-das-kleine-glueck-boot-abgefackelt-tauben-geklaut-80927824.bild.html",
-      "image_title": "Mieser Angriff auf das kleine Glück! Boot abgefackelt, Tauben geklaut"
-    },
-    {
-      "title": "Kurioser Einsatz! : Polizei stoppt BMW mit BMW-Anhänger",
-      "teaser": "Aus zwei mach eins – und zwar ein BMW-Gespann! Da staunte selbst die Polizei in Hagen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hagen-aus-2-mach-1-polizei-stoppt-bmw-anhaenger-80932984.bild.html",
-      "image_title": "Hagen: Polizei stoppt BMW mit BMW-Anhänger"
-    },
-    {
-      "title": "Flüchtiger Schütze gefasst : Mann (32) in Leipzig niedergeschossen",
-      "teaser": "Großeinsatz am Samstagabend am Brennpunkt Leipziger Eisenbahnstraße.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-mann-auf-eisenbahnstrasse-schwer-verletzt-80931350.bild.html",
-      "image_title": "Leipzig: Mann (32) auf Eisenbahnstraße niedergeschossen"
-    },
-    {
-      "title": "Ein tragisches Ende einer Ernte-Jagd : Unheimliche Begegnung mit dem Tod",
-      "teaser": "Drei Tage kämpften Ärzte um das Leben des Mannes – vergeblich!",
-      "url": "https://www.bild.de/news/2022/news/drama-bei-ernte-jagd-hobby-jaeger-im-rapsfeld-erschossen-80927790.bild.html",
-      "image_title": "Hobby-Jäger erschossen: Unheimliche Begegnung mit dem Tod"
-    },
-    {
-      "title": "Mutmaßlicher Ayleen-Killer : Hier überfiel Ayleens Killer ein Mädchen (11)",
-      "teaser": "10 Jahre saß der mutmaßliche Ayleen-Killer in Psychiatrie – wegen Angriffs auf 11-Jährige.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/mutmasslicher-ayleen-killer-hier-ueberfiel-jan-heiko-p-eine-11-jaehrige-80931012.bild.html",
-      "image_title": "Mutmaßlicher Ayleen-Killer: Hier überfiel Jan-Heiko P. eine 11-Jährige"
-    },
-    {
-      "title": "Pick-up komplett ausgebrannt : Horror-Crash im Erzgebirge – acht Verletzte!",
-      "teaser": "Bei einem Unfall im Erzgebirgskreis sind acht Menschen verletzt worden, drei davon schwer.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/erzgebirgskreis-unfall-mit-elf-verletzten-pick-up-komplett-ausgebrannt-80931216.bild.html",
-      "image_title": "Erzgebirgskreis: Unfall mit acht Verletzten – Pick-up ausgebrannt"
-    },
-    {
-      "title": "Mit Mutter (73) in Klinik : Fahranfängerin (50) knallt mit Opel gegen Hauswand",
-      "teaser": "Kaum hatte sie ihren Führerschein, knallte sie gegen eine Hauswand.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/bensheim-mit-mutter-73-fahranfaengerin-50-knallt-gegen-hauswand-80930962.bild.html",
-      "image_title": "Bensheim: Mit Mutter (73): Fahranfängerin (50) knallt gegen Hauswand"
-    },
-    {
-      "title": "Täter auf der Flucht : Frau in Sachsen getötet, Mann schwer verletzt",
-      "teaser": "In der Nacht zu Samstag wurde in Chemnitz eine Frau getötet, ein Mann schwer verletzt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-frau-46-getoetet-mann-34-schwer-verletzt-80925824.bild.html",
-      "image_title": "Chemnitz: Täter flüchtig! Frau (46) getötet, Mann (34) schwer verletzt"
-    },
-    {
-      "title": "Aus Haftbefehl wird Hicksbefehl : Haftbefehl muss Konzert abbrechen",
-      "url": "https://www.bild.de/video/clip/video/aus-haftbefehl-wird-hicksbefehl-haftbefehl-muss-konzert-abbrechen-80945652,auto=true.bild.html",
-      "image_title": "Aus Haftbefehl wird Hicksbefehl: Haftbefehl muss Konzert abbrechen"
-    },
-    {
-      "title": "Schock um 3 Uhr nachts : Currywurst-Verkäufer erzählt vom Treffen mit den Bayern-Stars",
-      "url": "https://www.bild.de/video/clip/video/ueberraschender-besuch-der-fussball-stars-um-3-12-uhr-wollten-die-bayern-meine-c-80943900,auto=true.bild.html",
-      "image_title": "Überraschender Currywurst-Besuch der Bayern-Stars um 3 Uhr nachts"
-    },
-    {
-      "title": "Frau fliegt aus Wagen - tot! : Fahrt mit der Todes-Achterbahn",
-      "url": "https://www.bild.de/video/clip/video/frau-fliegt-aus-wagen-tot-fahrt-mit-der-todes-achterbahn-80943140,auto=true.bild.html",
-      "image_title": "Frau fliegt aus Wagen - tot! : Fahrt mit der Todes-Achterbahn"
-    }
-  ]
+  "articles": []
 }
