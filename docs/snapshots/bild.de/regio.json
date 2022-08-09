@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-09T19:21:54",
+  "timestamp": "2022-08-09T20:23:26",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,370 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f2697c4d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.b8ac024f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.5bc8fe0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.b68e445b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.d7af7de1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5c8dee70.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Mitarbeiter-Wut beim RBB : Schlesingers Luxus-Etage kostete 1,4 Mio. Euro!",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/mitarbeiter-wut-beim-rbb-schlesingers-luxus-etage-kostete-1-4-mio-euro-80956376.bild.html",
-      "image_title": "Mitarbeiter-Wut beim RBB: Schlesingers Luxus-Etage kostete 1,4 Mio. Euro!"
-    },
-    {
-      "title": "Schrecklicher Unfall bei Start : Heißluftballon reißt Auto mit – ein Toter",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/in-beelitz-unfall-bei-heissluftballon-start-ein-toter-80949990.bild.html",
-      "image_title": "In Beelitz: Unfall bei Heißluftballon-Start – ein Toter"
-    },
-    {
-      "title": "An eingeschleuste Flüchtlinge : Bürgeramts-Mitarbeiterin kassiert 40 000 Euro für Visa",
-      "teaser": "Das Geschäft mit gefälschten Aufenthaltstiteln. Hat eine Frau damit 40 000 Euro kassiert?",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-buergeramts-mitarbeiterin-kassiert-40-000-euro-fuer-visa-80946066.bild.html",
-      "image_title": "Berlin: Bürgeramts-Mitarbeiterin kassiert 40 000 Euro für Visa"
-    },
-    {
-      "title": "Munition von Sprengplatz in Wald geflogen : Neuer Sperrzaun wegen Bombengefahr",
-      "teaser": "Die Lage um den explodierten Sprengplatz bleibt laut Feuerwehr hochgefährlich.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/brand-auf-berliner-sprengplatz-neuer-sperrzaun-wegen-bombengefahr-80947520.bild.html",
-      "image_title": "Brand auf Berliner Sprengplatz: Neuer Sperrzaun wegen Bombengefahr"
-    },
-    {
-      "title": "Ex-Nationalspieler nur vierte Wahl : Stark muss auf Patzer der Kollegen hoffen",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-nur-4-wahl-niklas-stark-muss-auf-patzer-der-kollegen-hoffen-80955122.bild.html",
-      "image_title": "Werder Bremen: Nur 4. Wahl! Niklas Stark muss auf Patzer der Kollegen hoffen"
-    },
-    {
-      "title": "Seeler-Trauerfeier : Lorenz: „Da werden Kerle weinen“",
-      "teaser": "Für Werder-Legende Max Lorenz wird die Trauerfeier seines Freundes ein schwerer Gang.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-trauer-um-uwe-seeler-max-lorenz-da-werden-kerle-weinen-80952748.bild.html",
-      "image_title": "Werder Bremen: Trauer um Uwe Seeler: Max Lorenz: \"Da werden Kerle weinen\""
-    },
-    {
-      "title": "Von Corona und Stage : Schmid doppelt ausgebremst",
-      "teaser": "Romano Schmid war einer der Gewinner der Vorbereitung. Jetzt droht ihm die Bank.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-von-corona-und-jens-stage-romano-schmid-doppelt-ausgebremst-80952092.bild.html",
-      "image_title": "Werder Bremen: Von Corona und Jens Stage: Romano Schmid doppelt ausgebremst"
-    },
-    {
-      "title": "Zwickau - Duisburg 0:1 : Zweite Pleite für harmlosen FSV",
-      "url": "https://www.bild.de/sport/fussball/fussball/zwickau-duisburg-0-1-zweite-pleite-fuer-harmlosen-fsv-80954830.bild.html",
-      "image_title": "Zwickau - Duisburg 0:1! Zweite Pleite für harmlosen FSV"
-    },
-    {
-      "title": "Ex-Wolle Petry Double gehackt : Sex-Bilder statt Schlager-News",
-      "teaser": "Er rückt Künstler ins Rampenlicht, produziert Musikvideos und seine eigene TV-Sendung „Lieblingsschlager“.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/ex-wolle-petry-double-gehackt-sex-bilder-statt-schlager-news-80958340.bild.html",
-      "image_title": "Ex-Wolle Petry Double gehackt: Sex-Bilder statt Schlager-News"
-    },
-    {
-      "title": "Er verlor Bein bei Unfall : Kameraden sammeln Spenden für Morris (20)",
-      "teaser": "Nach einem schweren Motorradunfall ist der Feuerwehrmann selbst auf Hilfe angewiesen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-spendenaktion-fuer-verunglueckten-feuerwehrmann-morris-80957120.bild.html",
-      "image_title": "Sachsen: Spendenaktion für verunglückten Feuerwehrmann Morris"
-    },
-    {
-      "title": "Dynamos Abstiegstrainer Capretti : Was ich heute bei Dynamo anders machen würde",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/dynamos-ex-trainer-capretti-was-ich-jetzt-anders-machen-wuerde-80958970.bild.html",
-      "image_title": "Dynamos Ex-Trainer Capretti: Was ich jetzt anders machen würde"
-    },
-    {
-      "title": "Vorfahrt für Ren(n)tner : Warum die Vollgas-Legenden zu Porsche kamen",
-      "teaser": "Hans-Joachim Stuck (71) war 35 Jahre alt, als er zum ersten Mal im Porsche 962C das 24-Stunden-Rennen von Le Mans gewann.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-warum-vollgas-legenden-auf-die-porsche-strecke-kamen-80959142.bild.html",
-      "image_title": "Leipzig: Warum Vollgas-Legenden auf die Porsche-Strecke kamen"
-    },
-    {
-      "title": "Wo sind die ganzen Touristen hin? : Hotel und Pensionen am Elberadweg leer",
-      "teaser": "Lange Jahre feierte der Elberadweg einen Rekord nach dem anderen. Das ist in diesem Jahr leider ganz anders.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/elbe-hotel-und-pensionen-am-elberadweg-leer-80958774.bild.html",
-      "image_title": "Elbe: Hotel und Pensionen am Elberadweg leer"
-    },
-    {
-      "title": "Prozess um totgeschlagenen Obdachlosen : „Ich zog los, weil ich etwas erleben wollte“",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/prozess-um-getoeteten-obdachlosen-ich-zog-los-weil-ich-etwas-erleben-wollte-80959954.bild.html",
-      "image_title": "Prozess um getöteten Obdachlosen: „Ich zog los, weil ich etwas erleben wollte“"
-    },
-    {
-      "title": "Vom Tor in den Aufsichtsrat : Überraschendes Rensing-Comback!",
-      "teaser": "Das hatte keiner auf dem Zettel! Ex-Torwart Michael Rensing ist neuer Fortuna-Aufsichtsrat.",
-      "url": "https://www.bild.de/sport/fussball/fussball/fortuna-duesseldorf-ueberraschendes-michael-rensing-comeback-80953676.bild.html",
-      "image_title": "Fortuna Düsseldorf: Überraschendes Michael-Rensing-Comeback!"
-    },
-    {
-      "title": "Nach Plea und Hofmann : Hält Gladbach jetzt den nächsten Star?",
-      "teaser": "Der nächste Gladbach-Star könnte verlängern. Wer, das erfahrt ihr nur mit BILDplus!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/borussia-moenchengladbach-haelt-gladbach-den-naechsten-star-80957846.bild.html",
-      "image_title": "Borussia Mönchengladbach: Hält Gladbach den nächsten Star?"
-    },
-    {
-      "title": "Dachterrasse! Kunst im Garten! Aufzug! : Alles neu im Städel",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/dachterrasse-kunst-im-garten-aufzug-alles-neu-im-staedel-80959024.bild.html",
-      "image_title": "Dachterrasse! Kunst im Garten! Aufzug!: Alles neu im Städel"
-    },
-    {
-      "title": "Freizeitpark nach Unglück wieder offen : Nur eine Kette weist auf den Achterbahn-Horror hin",
-      "teaser": "Nach dem tödlichen Unfall öffnete am Dienstag der Freizeitpark wieder.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/nach-toedlichem-unfall-in-achterbahn-freizeitpark-wieder-geoeffnet-80954344.bild.html",
-      "image_title": "Nach tödlichem Unfall in Achterbahn: Freizeitpark wieder geöffnet"
-    },
-    {
-      "title": "Kanzler-Besuch in Frankfurt : Olaf Scholz an Wasserstoff-Tanke",
-      "teaser": "Bundeskanzler Olaf Scholz inspizierte in Frankfurt eine Wasserstoff-Tankstelle.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kanzler-besuch-in-frankfurt-olaf-scholz-an-wasserstoff-tanke-80956904.bild.html",
-      "image_title": "Kanzler-Besuch in Frankfurt: Olaf Scholz an Wasserstoff-Tanke"
-    },
-    {
-      "title": "Harsefeld : Groß-Feuer bei Massivhaus-Riese",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/harsefeld-gross-feuer-bei-fertighaus-riese-80955310.bild.html",
-      "image_title": "Harsefeld: Groß-Feuer bei Massivhaus-Riese"
-    },
-    {
-      "title": "Im Volkspark : Gesundheitsamt beschlagnahmt Klima-Camper-Klo",
-      "teaser": "700 Teilnehmer haben ihre Zelte im Klima-Camp am Volkspark aufgeschlagen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/im-volkspark-gesundheitsamt-beschlagnahmt-klima-camper-klo-80956628.bild.html",
-      "image_title": "Im Volkspark: Gesundheitsamt beschlagnahmt Klima-Camper-Klo"
-    },
-    {
-      "title": "Nach Elbbrücken-Inferno : Immer noch Chaos in der S-Bahn",
-      "teaser": "Nach dem Inferno unter der Elbbrücke müssen Pendler aus dem Süden (S3) nach wie vor Geduld aufbringen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/nach-elbbruecken-inferno-immer-noch-chaos-in-der-s-bahn-80951146.bild.html",
-      "image_title": "Nach Elbbrücken-Inferno: Immer noch Chaos in der S-Bahn"
-    },
-    {
-      "title": "Hannover 1:1 bei Union : Hinten Leo, vorne Nico",
-      "url": "https://www.bild.de/sport/fussball/fussball/hannover-96-1-1-bei-union-berlin-hinten-leo-weinkauf-vorne-nicolo-tresoldi-80958748.bild.html",
-      "image_title": "Hannover 96 1:1 bei Union Berlin! Hinten Leo Weinkauf, vorne Nicolo Tresoldi"
-    },
-    {
-      "title": "Messer-Attacke Auf dem Heimweg : Maschseefest-Besucher niedergestochen",
-      "teaser": "Hannover – Sein netter Abend beim Maschseefest endete später in der Klinik!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/messer-attacke-auf-dem-heimweg-maschseefest-besucher-niedergestochen-80955836.bild.html",
-      "image_title": "Messer-Attacke auf dem Heimweg: Maschseefest-Besucher niedergestochen"
-    },
-    {
-      "title": "8 Kilometer unterwegs : Wolf streift durch die Nordstadt von Hannover!",
-      "teaser": "Aufregung in Hannovers Nordstadt! Dienstagmorgen wurde dort ein Wolf gesichtet.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/8-kilometer-unterwegs-wolf-streift-durch-die-nordstadt-von-hannover-80958050.bild.html",
-      "image_title": "8 Kilometer unterwegs: Wolf streift durch die Nordstadt von Hannover!"
-    },
-    {
-      "title": "Es begann vor 16 Monaten : Die ganze Wahrheit hinter Modestes Köln-Aus!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/es-begann-vor-16-monaten-die-wahrheit-hinter-dem-koeln-aus-von-anthony-modeste-80953618.bild.html",
-      "image_title": "1. FC Köln: Die ganze Wahrheit hinter dem Modeste-Abschied"
-    },
-    {
-      "title": "Bilanz der Schande : 235 000 Passagiere strandeten an NRW-Flughäfen",
-      "teaser": "Warteschlangen, Gerangel vor der Security, geplatzte Urlaubsträume ... für Zehntausende!",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/bilanz-der-schande-235000-passagiere-strandeten-an-nrw-flughaefen-80956162.bild.html",
-      "image_title": "Bilanz der Schande: 235 000 Passagiere strandeten an NRW-Flughäfen"
-    },
-    {
-      "title": "Großes Konzert im Tanzbrunnen : Fööss feiern Familie",
-      "teaser": "„Wenn de Sonn schön schingk“, feiern die Bläck Fööss in Köln wieder ihr „Familienfest“.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/grosses-konzert-im-tanzbrunnen-foeoess-feiern-familie-80955358.bild.html",
-      "image_title": "Großes Konzert im Tanzbrunnen: Fööss feiern Familie"
-    },
-    {
-      "title": "Offiziell : RB vermeldet Werner-Rückkehr!",
-      "url": "https://www.bild.de/sport/fussball/fussball/offiziell-rb-vermeldet-werner-rueckkehr-80958460.bild.html",
-      "image_title": "Offiziell: RB Leipzig vermeldet Werner-Rückkehr!"
-    },
-    {
-      "title": "Lok Leipzig-Verteidiger Eglseder : Baby da, aber nun ist der Stammplatz weg",
-      "teaser": "Sein großes Glück war 54 Zentimeter klein und 3755 Gramm schwer. FC Lok-Verteidiger Mike Eglseder (29) wurde vor wenigen Tagen erstm...",
-      "url": "https://www.bild.de/sport/fussball/fussball/lok-leipzig-eglseder-baby-da-aber-nun-ist-der-stammplatz-weg-80956694.bild.html",
-      "image_title": "Lok Leipzig: Eglseder-Baby da, aber nun ist der Stammplatz weg"
-    },
-    {
-      "title": "Ein Jahr auf Bewährung : Corona-Kritiker benutzte den Kinderwagen als Waffe",
-      "teaser": "Mit einem Kinderwagen ging Enrico S. (35) auf einen Corona-Spaziergang – und so kam er auch am Montag ins Amtsgericht Pirna",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/ein-jahr-auf-bewaehrung-corona-kritiker-benutzte-den-kinderwagen-als-waffe-80945914.bild.html",
-      "image_title": "Sachsen: Corona-Kritiker benutzte den Kinderwagen als Waffe"
-    },
-    {
-      "title": "Hansa-Allrounder Dressel : Er kann's auch hinten links",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansa-allrounder-dressel-er-kanns-auch-hinten-links-80959044.bild.html",
-      "image_title": "Hansa-Allrounder Dressel: Er kann's auch hinten links"
-    },
-    {
-      "title": "Identität und Todesursache unklar : Passantin entdeckt Leiche an Feld",
-      "teaser": "Schrecklicher Fund! An einem Feld im Landkreis Vorpommern-Rügen wurde eine Leiche entdeckt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-passantin-entdeckt-leiche-an-feld-bei-grimmen-80951288.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: Passantin entdeckt Leiche an Feld bei Grimmen"
-    },
-    {
-      "title": "Hansa-Verteidiger Roßbach : Der Mann für die wichtigen Tore",
-      "teaser": "Hansa-Verteidiger Damian Roßbach in seinem 101. Zweitligaspiel sein erstes Tor – zum Sieg!",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansa-verteidiger-rossbach-der-mann-fuer-die-wichtigen-tore-80946636.bild.html",
-      "image_title": "Hansa-Verteidiger Roßbach: Der Mann für die wichtigen Tore"
-    },
-    {
-      "title": "Verzweifelte Suche nach Tobias (25) : Jetzt spricht seine Freundin Anna",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/verzweifelte-suche-nach-tobias-25-wir-sind-in-groesster-sorge-80950312.bild.html",
-      "image_title": "Verzweifelte Suche nach Tobias (25): Jetzt spricht seine Freundin Anna"
-    },
-    {
-      "title": "Polizei sucht Zeugen : Tobias (25) nach Festival spurlos verschwunden",
-      "teaser": "Seit dem 05.08.2022 wird Tobias Dreiseitel aus Eichenried vermisst.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/vermisster-aus-eichenried-tobias-wo-bist-du-80933770.bild.html",
-      "image_title": "Polizei sucht Zeugen: Tobias (25) nach Festival spurlos verschwunden"
-    },
-    {
-      "title": "Festnahme bei Gabalier-Konzert : Ordnungskräfte dealen mit Drogen",
-      "teaser": "Polizeieinsatz beim Konzert von Andreas Gabalier (37) in München.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ordungskraefte-dealen-festnahme-bei-gabalier-konzert-in-muenchen-80959352.bild.html",
-      "image_title": "Andreas-Gabalier-Konzert in München: Ordnungskräfte dealten – Festnahme!"
-    },
-    {
-      "title": "Asta sauer auf Schiri : ...aber Experte widerspricht!",
-      "url": "https://www.bild.de/sport/fussball/fussball/greuther-fuerth-asta-sauer-auf-schiri-aber-experte-widerspricht-80957668.bild.html",
-      "image_title": "Greuther Fürth: Asta sauer auf Schiri: ...aber Experte widerspricht!"
-    },
-    {
-      "title": "BILD erklärt den neuen Geis : Er rennt mehr, spielt härter und trifft",
-      "teaser": "Für sein großes Ballgefühl in seinem rechten Zauberfuß ist Johannes Geis (28) schon...",
-      "url": "https://www.bild.de/sport/fussball/fussball/fcn-der-neue-geis-er-rennt-mehr-spielt-haerter-und-trifft-80957368.bild.html",
-      "image_title": "FCN: Der neue Geis: Er rennt mehr, spielt härter und trifft"
-    },
-    {
-      "title": "Heute Gesundheitsminister-Treffen : Zoff-Alarm wegen neuer Corona-Regeln",
-      "teaser": "Geht jetzt wieder alles von vorn los? Auf der GMK droht mal wieder Corona-Zoff.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/gesundheitsminister-treffen-zoff-wegen-neuer-corona-regeln-droht-80952548.bild.html",
-      "image_title": "Gesundheitsminister-Treffen: Zoff wegen neuer Corona-Regeln droht"
-    },
-    {
-      "title": "Massage für „Fahéj“ im Dortmunder Zoo : Tapir-Dame grinst vor Vergnügen",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-massage-fuer-taipir-dame-im-zoo-80957162.bild.html",
-      "image_title": "Dortmund: Massage für Tapir-Dame im Zoo"
-    },
-    {
-      "title": "Entwarnung am späten Nachmittag : Bombendrohung in Gelsenkirchen!",
-      "teaser": "Nach einem Drohanruf ist das Rathaus in der Innenstadt von Gelsenkirchen geräumt worden.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/polizei-ist-vor-ort-bombendrohung-rathaus-in-gelsenkirchen-geraeumt-80954860.bild.html",
-      "image_title": "Bombendrohung! Rathaus in Gelsenkirchen geräumt"
-    },
-    {
-      "title": "Leiche von Tengelmann-Chef gefunden? : „Die Kleider waren neonfarben im Stil der 80er“",
-      "teaser": "Bergsteiger fanden eine Leiche am Stockji-Gletscher. Ist es Tengelmann-Milliardär Haub?",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/ist-die-gletscher-leiche-doch-nicht-tengelmann-milliardaer-haub-80950770.bild.html",
-      "image_title": "Ist die Gletscher-Leiche doch nicht Tengelmann-Milliardär Haub?"
-    },
-    {
-      "title": "FCS-Oldie macht sein 250. Drittliga-Spiel : JÄNICKE Zum Jubiläum an die Spitze!",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-jaenicke-zum-jubilaeum-an-die-spitze-80959716.bild.html",
-      "image_title": "1. FC Saarbrücken: JÄNICKE Zum Jubiläum an die Spitze!"
-    },
-    {
-      "title": "Verurteilter Rüdiger Schneidewind : Homburger OB bekommt noch immer Gehalt",
-      "teaser": "Er wurde wegen Untreue rechtskräftig verurteilt, bezieht weiter Gehalt.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/verurteilter-ruediger-schneidewind-homburger-ob-bekommt-noch-gehalt-80955470.bild.html",
-      "image_title": "Verurteilter Rüdiger Schneidewind: Homburger OB bekommt noch Gehalt"
-    },
-    {
-      "title": "Saarlands Ex-MP : Berater-Posten für AKK in den USA",
-      "teaser": "Ex-CDU-Bundesvorsitzende Annegret Kramp-Karrenbauer (60, CDU) hat neuen Job in USA.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/saarlands-ex-mp-kramp-karrenbauer-berater-posten-fuer-akk-in-den-usa-80954288.bild.html",
-      "image_title": "Saarlands Ex-MP Kramp-Karrenbauer: Berater-Posten für AKK in den USA"
-    },
-    {
-      "title": "3. Pleite und Doppel-Rot : Schock-Spiel für den HFC",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-dritte-pleite-und-doppel-rot-schock-spiel-fuer-den-hfc-80959248.bild.html",
-      "image_title": "3. Liga: Dritte Pleite und Doppel-Rot – Schock-Spiel für den HFC"
-    },
-    {
-      "title": "Unfall-Drama mit Frontal-Crash : Weinprinzessin (17) schwer verletzt, Mutter tot",
-      "teaser": "Zwei Tage, nachdem Larissa zur Weinkönigin gekrönt wurde, passiert der schreckliche Unfall.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-mutter-53-stirbt-bei-frontal-crash-tochter-17-schwer-verletzt-auf-l-209-80957622.bild.html",
-      "image_title": "Unfall: Mutter (53) stirbt bei Frontal-Crash, Tochter (17) schwer verletzt auf L 209"
-    },
-    {
-      "title": "Nach sieben Jahren Flucht : Ex-Promi-Wirt von Halle in Portugal gefasst",
-      "teaser": "In seinem italienischen Restaurant „Caruso“ gaben sich jahrelang Promis aus Politik, Kultur und Wirtschaft die Klinke in die Hand.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/halle-promi-wirt-in-portugal-gefasst-80948360.bild.html",
-      "image_title": "Halle: Promi-Wirt in Portugal gefasst"
-    },
-    {
-      "title": "Fall Ayleen (†14) : Das Dorf sammelt für ihre Beerdigung",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/fall-ayleen-14-das-dorf-sammelt-fuer-ihre-beerdigung-80952556.bild.html",
-      "image_title": "Fall Ayleen (†14): Das Dorf sammelt für ihre Beerdigung"
-    },
-    {
-      "title": "Millionenwert : Bande soll über 20 000 Handys gestohlen haben",
-      "teaser": "Vier Männer sollen über fast zwei Jahre hinweg rund 20 100 Mobiltelefone geklaut haben.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/prozess-in-offenburg-bande-soll-ueber-20-000-handys-gestohlen-haben-80952906.bild.html",
-      "image_title": "Prozess in Offenburg: Bande soll über 20 000 Handys gestohlen haben"
-    },
-    {
-      "title": "Großeinsatz bei Karlsruhe : 100 Feuerwehrleute löschen Waldbrand",
-      "teaser": "Bei einem Brand bei Karlsruhe sind 5000 Quadratmeter Waldboden zerstört worden.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/grosseinsatz-bei-karlsruhe-100-feuerwehrleute-loeschen-waldbrand-80951516.bild.html",
-      "image_title": "Großeinsatz bei Karlsruhe: 100 Feuerwehrleute löschen Waldbrand"
-    },
-    {
-      "title": "Parteienstreit um Mietrabatt : Zahlt Rot-Weiß Erfurt zu wenig fürs Stadion?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-zahlt-rot-weiss-zu-wenig-fuers-stadion-80958904.bild.html",
-      "image_title": "Erfurt: Zahlt Rot-Weiß zu wenig fürs Stadion?"
-    },
-    {
-      "title": "BILD-Interview mit dem Jena-Boss : „Wir wollen perspektivisch die 2. Liga angreifen!“",
-      "teaser": "Im November wird bei Carl Zeiss gewählt. Aufsichtsratsboss Mario Voigt will weitermachen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/bild-interview-mit-dem-jena-boss-wir-wollen-die-2-liga-angreifen-80957962.bild.html",
-      "image_title": "BILD-Interview mit dem Jena-Boss: „Wir wollen die 2. Liga angreifen!“"
-    },
-    {
-      "title": "Tragischer Unfall : Zwei Tote nach Crash auf der Landstraße",
-      "teaser": "In Sachsen-Anhalt krachten am Montag zwei Autos heftig ineinander. Dabei starben zwei Menschen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-zwei-tote-nach-unfall-auf-der-landstrasse-209-80946000.bild.html",
-      "image_title": "Sachsen-Anhalt: Zwei Tote nach Unfall auf der Landstraße 209 bei Gleina"
-    }
-  ]
+  "articles": []
 }
