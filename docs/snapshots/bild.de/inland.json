@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-10T16:33:45",
+  "timestamp": "2022-08-10T17:25:58",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f75e926b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.efc02547.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.46d797d8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.c6fcb670.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "300 000 Euro Schaden : Zu wenig Löschwasser - Haus abgefackelt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-dachstuhlbrand-fackelt-haus-in-nossen-ab-80962738.bild.html",
-      "image_url": "https://images.bild.de/62f35d1e60a3e73b21ea47e3/cc8a6daacba6b00b582d2fece0f2eb4b,10abbe22?w=656",
-      "image_title": "Sachsen: Dachstuhlbrand fackelt Haus in Nossen ab"
-    },
-    {
-      "title": "Mutmaßlicher Killer (20) in U-Haft : Frau (46) und Mann (34) sterben nach Hinterhof-Attacke",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-mann-34-stirbt-nach-hinterhof-attacke-80964942.bild.html",
-      "image_url": "https://images.bild.de/62f3983bda351c26d06502d1/8f45223b27bb6575831ce72d385c0b1f,f5af943a?w=320",
-      "image_title": "Chemnitz: Mann (34) stirbt nach Hinterhof-Attacke"
-    },
-    {
-      "title": "Früchte an Bord : Hier verbrennen 16 Tonnen Obst",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-obstlaster-verbrennt-auf-der-autobahn-80961412.bild.html",
-      "image_url": "https://images.bild.de/62f357e3816b9a347a503074/11476a337cdf61f26dcf9e240432bb02,b1b63729?w=320",
-      "image_title": "Unfall in Sachsen: Obstlaster verbrennt auf der Autobahn"
-    },
-    {
-      "title": "Lkw-Fahrer verbrennt auf der A2 : Abscheuliche Gaffer-Aktion nach Horror-Unfall",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/lkw-kracht-in-lkw-schon-wieder-todes-crash-auf-der-a-2-80960594.bild.html",
-      "image_url": "https://images.bild.de/62f2d549fb9feb2c6674f8aa/29b241d27088db7d0072c33092b2b608,f6712c0b?w=320",
-      "image_title": "Unfall auf A2 bei Wollin (Brandenburg): Lkw-Fahrer verbrannt, Waldbrand verhindert"
-    },
-    {
-      "title": "Unfallursache noch immer unklar : Landkreis verbietet Todes-Achterbahn im „Klotti“",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/warum-stuerzte-ilonka-in-den-tod-weiter-raetsel-um-achterbahn-horror-80965638.bild.html",
-      "image_url": "https://images.bild.de/62f3a3f560a3e73b21ea488f/ada199048191b7d905f502afa6992718,25268134?w=320",
-      "image_title": "Unfallursache noch immer unklar: Landkreis verbietet Todes-Achterbahn"
-    },
-    {
-      "title": "Frauenleiche am Hoffenheim-Stadion : Blutspuren und Handydaten belasten Ehemann",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/sinsheim-leiche-an-stadion-mordverdacht-gegen-ehemann-erhaertet-sich-80963086.bild.html",
-      "image_title": "Sinsheim: Leiche am Stadion: Blutspuren und Handydaten belasten Ehemann schwer"
-    },
-    {
-      "title": "Rad-Rambo im Drogenrausch : Cornell H. rammte Familienvater ins Koma",
-      "teaser": "Der Rad-Rambo fuhr den Müllfahrer David Hammer (31) an, ließ ihn schwer verletzt zurück.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-rad-rambo-rammte-familienvater-ins-koma-urteil-gefallen-80967220.bild.html",
-      "image_title": "Dresden: Rad-Rambo rammte Familienvater ins Koma – Urteil gefallen"
-    },
-    {
-      "title": "Tatverdächtiger in U-Haft : Bruder (15) ersticht Bruder (19)",
-      "teaser": "Ein Jugendlicher (15) soll nach BILD-Informationen seinen älteren Bruder getötet haben.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/mordkommission-ermittelt-in-essen-bruder-15-ersticht-bruder-19-80950278.bild.html",
-      "image_title": "Mordkommission ermittelt in Essen: Fünfzehnjähriger ersticht Bruder (19)"
-    },
-    {
-      "title": "Tragödie beim Flug nach Frankfurt : Kinder mussten 8 Stunden neben toter Mutter sitzen",
-      "teaser": "Auf dem Flug nach Frankfurt ist eine Britin gestorben – ihre Familie saß acht Stunden neben ihr.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/flug-nach-frankfurt-britin-stirbt-im-schlaf-familie-sass-8-stunden-neben-ihrer-l-80964854.bild.html",
-      "image_title": "Flug nach Frankfurt: Britin stirbt im Schlaf – Familie saß 8 Stunden neben ihrer Leiche"
-    },
-    {
-      "title": "Firma abgefackelt auf eigener Hochzeit : Staatsanwalt will gegen Reifenkönig ermitteln",
-      "teaser": "Nach dem Feuer bei seiner Luxus-Hochzeit hat Bruno Göggel jetzt mächtig Behörden-Ärger.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/hochzeits-brand-staatsanwalt-prueft-vorermittlungen-gegen-reifenkoenig-goeggel-80964254.bild.html",
-      "image_title": "Hochzeits-Brand: Staatsanwalt prüft Vorermittlungen gegen Reifenkönig Göggel"
-    },
-    {
-      "title": "Polizei tötet 16-Jährigen in Dortmund : Fünf Treffer aus der Maschinenpistole!",
-      "teaser": "Schock am Nachmittag mitten in Dortmund: Ein Polizeieinsatz endet tödlich.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-polizei-toetete-16-jaehrigen-mit-fuenf-treffern-aus-der-maschinenpistol-80953518.bild.html",
-      "image_title": "Dortmund: Polizei tötet 16-Jährigen mit fünf Treffern aus der Maschinenpistole"
-    },
-    {
-      "title": "Fehleinschätzung der Polizei zu Tobias : „Den See können wir ausschließen“",
-      "teaser": "Tobias (25) wurde tot im See gefunden. Dabei hatten Ermittler den Fundort ausgeschlossen.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/kommissar-hatte-see-schon-ausgeschlossen-tobias-25-lag-tot-im-wasser-80961734.bild.html",
-      "image_title": "Bayern: Tobias(25) tot im Wasser - Kommissar hatte See schon ausgeschlossen"
-    },
-    {
-      "title": "Dramatischer Unfall : Mann stürzt vor hundert Passanten in den Tod",
-      "teaser": "Ein Mann (38) stürzte Dienstagabend aus dem fünften Stock in den Tod. 100 Gaffer sahen zu.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-mann-stuerzt-aus-fuenften-stock-in-weissenfels-80962306.bild.html",
-      "image_title": "Sachsen-Anhalt: Mann stürzt aus fünften Stock in Weißenfels"
-    },
-    {
-      "title": "Durch Namen „seelisch belastet“ : Gericht erlaubt Alexa (6), ihren Namen zu ändern",
-      "teaser": "Ständig wurde das Kind wegen der Namensgleichheit zum Gerät erniedrigt, litt seelisch.",
-      "url": "https://www.bild.de/news/inland/news-inland/durch-namen-seelisch-belastet-gericht-erlaubt-kleiner-alexa-6-ihren-namen-zu-aen-80957446.bild.html",
-      "image_title": "Durch Namen „seelisch belastet“: Gericht erlaubt kleiner Alexa (6), ihren Namen zu ändern"
-    },
-    {
-      "title": "BILD am nassesten Ort Deutschlands : „Alles wächst, ist grün. Es ist paradiesisch“",
-      "teaser": "Schliersee in Bayern ist die nasseste Gemeinde Deutschlands – ein Fluch oder Segen?",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/news-inland/bild-im-nassesten-ort-deutschlands-in-schliersee-regnet-es-so-viel-wie-nirgendwo-80951652.bild.html",
-      "image_title": "BILD im nassesten Ort Deutschlands: In Schliersee regnet es so viel, wie nirgendwo"
-    },
-    {
-      "title": "Seit Freitag in Bayern verschwunden : Ein Schwimmer fand Tobias (†25) leblos im See",
-      "teaser": "Die Suche endete tragisch: Ein Schwimmer hat die Leiche von Tobias (25) gefunden.",
-      "url": "https://www.bild.de/news/inland/news-inland/er-verschwand-am-freitagabend-bei-einem-festival-in-bayern-tobias-25-tot-aufgefu-80959702.bild.html",
-      "image_title": "Er verschwand bei einem Festival in Bayern: Tobias (25) tot aufgefunden"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 36 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 9. August 2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-9-august-80892262.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 9. August"
-    },
-    {
-      "title": "Tochter versuchte, sie († 57) festzuhalten : Sicherheitsbügel der Todes-Achterbahn defekt?",
-      "teaser": "Die 57-Jährige ist im Sitz in einer Kurve ins Rutschen gekommen und herausgestürzt.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/frankfurt-aktuell/klotti-freizeitpark-das-ist-die-tote-aus-der-achterbahn-80957558.bild.html",
-      "image_title": "Achterbahn-Tote im Klotti: Bügel defekt? Tochter versuchte, Ilonka B. (57) zu halten"
-    },
-    {
-      "title": "Sechs Meter Tiefe : Feuerwehr befreit Hund aus Schacht",
-      "teaser": "Schicht im Schacht: In Oestrich-Winkel rettete die Feuerwehr einen Hund.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/rettung-in-sechs-meter-tiefe-feuerwehr-befreit-hund-aus-schacht-80960774.bild.html",
-      "image_title": "Rettung in sechs Meter Tiefe: Feuerwehr befreit Hund aus Schacht"
-    },
-    {
-      "title": "Er verlor Bein bei Unfall : Kameraden sammeln Spenden für Morris (20)",
-      "teaser": "Nach einem schweren Motorradunfall ist der Feuerwehrmann selbst auf Hilfe angewiesen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-spendenaktion-fuer-verunglueckten-feuerwehrmann-morris-80957120.bild.html",
-      "image_title": "Sachsen: Spendenaktion für verunglückten Feuerwehrmann Morris"
-    },
-    {
-      "title": "Dürre-Katastrophe : Erste Flüsse schon ausgetrocknet",
-      "teaser": "Dresden – Brunnen versiegen, Eichen verdorren, die einst grünen Elbauen sind eine Wüste. Seit Menschengedenken hat es eine solche Dü...",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/duerre-katastrophe-erste-fluesse-schon-ausgetrocknet-80960496.bild.html",
-      "image_title": "Dürre-Katastrophe: Erste Flüsse schon ausgetrocknet"
-    },
-    {
-      "title": "Mildes Urteil nach Zwillings-Tragödie : 20-Jähriger erschoss den eigenen Bruder",
-      "teaser": "Gibt es eine schlimmere Strafe als die Schuld am Tod des eigenen Zwillingsbruders.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/freital-20-jaehriger-erschoss-den-eigenen-bruder-80960420.bild.html",
-      "image_title": "Freital: 20-Jähriger erschoss den eigenen Bruder"
-    },
-    {
-      "title": "Schrecklicher Unfall beim Ballon-Start : Deutscher Top-Agent von fliegendem Auto erschlagen",
-      "teaser": "Bei einem Unfall mit einem Heißluftballon in Brandenburg starb ein Top-Mann des BND.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/potsdam-mittelmark-deutscher-top-agent-bei-ballon-unfall-erschlagen-80956008.bild.html",
-      "image_title": "Potsdam-Mittelmark: Deutscher Top-Agent bei Ballon-Unfall erschlagen"
-    },
-    {
-      "title": "Aufnahmen aus Überwachungskamera : Die Shisha-Killer auf dem Weg zu einer Hinrichtung",
-      "teaser": "Nach den Mord an Terry S. (27) in einer Shisha-Bar fahndet die Mordkommission mit Bildern.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/mordkommission-fahndet-mit-aufnahmen-aus-der-ueberwachungskamera-die-shisha-kill-80951142.bild.html",
-      "image_title": "Mord in Hamburger Shisha-Bar: Aufnahmen zeigen Killer auf dem Weg zu einer Hinrichtung"
-    },
-    {
-      "title": "Festnahme bei Gabalier-Konzert : Ordnungskräfte dealen mit Drogen",
-      "teaser": "Polizeieinsatz beim Konzert von Andreas Gabalier (37) in München.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ordungskraefte-dealen-festnahme-bei-gabalier-konzert-in-muenchen-80959352.bild.html",
-      "image_title": "Andreas-Gabalier-Konzert in München: Ordnungskräfte dealten – Festnahme!"
-    },
-    {
-      "title": "Bei Horror-Unfall : Widerliche Bier-Gaffer beleidigen Feuerwehr",
-      "url": "https://www.bild.de/video/clip/video/lkw-fahrer-verbrannt-abscheuliche-gaffer-aktion-gegen-feuerwehr-80968488,auto=true.bild.html",
-      "image_title": "Bei Horror-Unfall: Widerliche Bier-Gaffer beleidigen Feuerwehr"
-    },
-    {
-      "title": "Als Gutachter ausgegeben : Er ist der dreisteste Gaffer Deutschlands",
-      "url": "https://www.bild.de/video/clip/video/als-gutachter-ausgegeben-er-ist-der-dreisteste-gaffer-deutschlands-80962466,auto=true.bild.html",
-      "image_title": "Als Gutachter ausgegeben: Er ist der dreisteste Gaffer Deutschlands"
-    },
-    {
-      "title": "Tragisches Ende eines Festival-Besuchs : Leiche von Tobias (25) gefunden",
-      "url": "https://www.bild.de/video/clip/video/tragisches-ende-eines-festivals-hier-lag-tobias-25-leblos-im-wasser-80962242,auto=true.bild.html",
-      "image_title": "Tragisches Ende eines Festivals: Hier lag Tobias (25) leblos im Wasser"
-    }
-  ]
+  "articles": []
 }
