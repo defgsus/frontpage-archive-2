@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-10T11:18:03",
+  "timestamp": "2022-08-10T12:41:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday: SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-schliesst-fuenf-Sicherheitsluecken-7216218.html"
+    },
+    {
       "title": "Patchday: Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Luecken-in-Commerce-und-Kreativprogrammen-7215839.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Uebernahme-moeglich-DrayTek-Router-mit-kritischer-Sicherheitsluecke-7206059.html"
     },
     {
-      "title": "Google Chrome, Microsoft Edge",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-und-Microsoft-Edge-104-schliessen-Sicherheitsluecken-7205970.html"
+      "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern",
+      "teaser": "Lernen Sie mit vielen Beispielen aus der Praxis, wie Sie Windows 10 und 11 (Pro und Enterprise) in Ihrem Unternehmen sicher betreiben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-7204399.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Patchday: SAP schließt fünf Sicherheitslücken",
+      "teaser": "Im August veröffentlicht SAP Meldungen zu fünf neu entdeckten Sicherheitslücken. Zudem aktualisiert der Hersteller zwei ältere Berichte zu Schwachstellen.",
+      "url": "https://www.heise.de/news/Patchday-SAP-schliesst-fuenf-Sicherheitsluecken-7216218.html",
+      "image_title": "Aufmacher SAP-Patchday"
     },
     {
       "title": "Patchday: Adobe schließt kritische Lücken in Commerce und Kreativprogrammen",
@@ -59,6 +71,11 @@
       "url": "https://www.heise.de/news/Neue-Sicherheitsluecken-in-AMD-und-Intel-Prozessoren-AEPIC-SQUIP-7211904.html"
     },
     {
+      "title": "Wie Unternehmen mit Bug Bounty Hunting die Sicherheit erhöhen und junge Fachkräfte anziehen",
+      "teaser": "Weg von Standard-Sicherheitsprüfungen hin zu Crowdsourcing-Cybersecurity: Beim Bug Bounty Hunting spüren ethische Hacker effizient Schwachstellen für Unternehmen auf. Viele junge IT-Experten wenden sich diesem Bereich zu – auch, um mehr lernen zu können. Firmen können davon profitieren – gleich doppelt.",
+      "url": "https://www.heise.de/solutions/intigriti/wie-unternehmen-mit-bug-bounty-hunting-die-sicherheit-erhoehen-und-junge-fachkraefte-anziehen/?source=nat_teas"
+    },
+    {
       "title": "Slack ließ jahrelang gehashte Passwörter durchsickern",
       "teaser": "Der Messaging-Anbieter Slack hat zahlreiche Nutzer zum Zurücksetzen ihrer Passwörter aufgefordert. Das sei aber nur eine Vorsichtsmaßnahme, erklärte Slack.",
       "url": "https://www.heise.de/news/Slack-liess-jahrelang-gehashte-Passwoerter-durchsickern-7215316.html",
@@ -69,11 +86,6 @@
       "teaser": "Angestellte des Diensteanbieters Twilio sind Opfer von Phishing-Angriffen geworden. Die Angreifer konnten unbefugt auf Informationen zugreifen.",
       "url": "https://www.heise.de/news/Twilio-Konten-von-Mitarbeitern-und-Kunden-kompromittiert-7207070.html",
       "image_title": "Aufmacher Twilio MItarbeiter- und Kundenkonten gehackt"
-    },
-    {
-      "title": "Wie Unternehmen mit Bug Bounty Hunting die Sicherheit erhöhen und junge Fachkräfte anziehen",
-      "teaser": "Weg von Standard-Sicherheitsprüfungen hin zu Crowdsourcing-Cybersecurity: Beim Bug Bounty Hunting spüren ethische Hacker effizient Schwachstellen für Unternehmen auf. Viele junge IT-Experten wenden sich diesem Bereich zu – auch, um mehr lernen zu können. Firmen können davon profitieren – gleich doppelt.",
-      "url": "https://www.heise.de/solutions/intigriti/wie-unternehmen-mit-bug-bounty-hunting-die-sicherheit-erhoehen-und-junge-fachkraefte-anziehen/?source=nat_teas"
     },
     {
       "title": "IT-Sicherheit: meistverbreitete Malware-Stämme im Jahr 2021",
@@ -155,17 +167,6 @@
       "url": "https://www.heise.de/news/5-4-Millionen-Konten-Twitter-bestaetigt-Leck-und-informiert-betroffene-Nutzer-7205074.html"
     },
     {
-      "title": "BSI-Warnung vor Kaspersky: Interne Dokumente belegen politische Motivation",
-      "teaser": "Nach dem militärischen Überfall Russlands auf die Ukraine blockte das BSI abrupt die Kommunikation mit Kaspersky und sprach sich mit dem Innenministerium ab.",
-      "url": "https://www.heise.de/news/Interne-Dokumente-BSI-Warnung-vor-Kaspersky-war-stark-politisch-motiviert-7205028.html",
-      "image_title": "BSI"
-    },
-    {
-      "title": "Mac App Store: Wie Scammer Apples App-Prüfer austricksen",
-      "teaser": "Apple betont immer wieder die Bedeutung des App Reviews. Doch ein Sicherheitsforscher zeigt: Lückenlos ist das Sicherheitsnetz Apples beileibe nicht.",
-      "url": "https://www.heise.de/news/Mac-App-Store-Wie-Scammer-Apples-App-Pruefer-austricksen-7204589.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "Lernen Sie, wie Sie Angriffe auf die IT erfolgreich abwehren. Denn IT-Sicherheit gewinnt immer weiter an Bedeutung. Steuern Sie jetzt aktiv gegen: Mit der heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0922.lp-security.link.link"
@@ -187,9 +188,9 @@
       "url": "https://www.heise.de/hintergrund/Der-Patch-Alptraum-Wenn-schnell-nicht-schnell-genug-ist-7069924.html"
     },
     {
-      "title": "Nachnachnachtrag",
+      "title": "Korrektur",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Nachnachnachtrag/posting-41431632/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Korrektur/posting-41435950/show/"
     },
     {
       "title": "Re: werden Viren-Sinaturen auf Ventoy-Stick abgelegt?",
