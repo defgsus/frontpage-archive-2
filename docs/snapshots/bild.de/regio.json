@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-10T13:36:52",
+  "timestamp": "2022-08-10T14:19:42",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.8.2-cats-release--22.08/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f75e926b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.efc02547.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.46d797d8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.c6fcb670.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Lkw-Fahrer verbrennt auf der A2 : Abscheuliche Gaffer-Aktion nach Horror-Unfall",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/lkw-kracht-in-lkw-schon-wieder-todes-crash-auf-der-a-2-80960594.bild.html",
-      "image_title": "Unfall auf A2 bei Wollin (Brandenburg): Lkw-Fahrer verbrannt, Waldbrand verhindert"
-    },
-    {
-      "title": "Dramatischer Unfall : Mann stürzt vor hundert Passanten in den Tod",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-mann-stuerzt-aus-fuenften-stock-in-weissenfels-80962306.bild.html",
-      "image_title": "Sachsen-Anhalt: Mann stürzt aus fünften Stock in Weißenfels"
-    },
-    {
-      "title": "Wieder in der Hauptstadt : Homophobe Attacke in Berlin-Lichtenberg",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/wieder-in-der-hauptstadt-homophobe-attacke-in-berlin-lichtenberg-80966298.bild.html",
-      "image_title": "Wieder in der Hauptstadt: Homophobe Attacke in Berlin-Lichtenberg"
-    },
-    {
-      "title": "Grunewald-Inferno : Erster Blick in die Explosions-Zone",
-      "teaser": "Jetzt löscht die Berliner Feuerwehr von allen Seiten, wagt sich zum Sprengplatz vor.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/grunewald-inferno-erster-blick-in-die-explosions-zone-80965074.bild.html",
-      "image_title": "Grunewald-Inferno: Erster Blick in die Explosions-Zone"
-    },
-    {
-      "title": "Mitarbeiterin belästigt : Sex-Skandal bei der Berliner Staatsanwaltschaft",
-      "teaser": "Die Justiz greift bei sexuellen Übergriffen durch – auch gegen eigene Mitarbeiter.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/sex-skandal-bei-der-berliner-staatsanwaltschaft-80956036.bild.html",
-      "image_title": "Sex-Skandal bei der Berliner Staatsanwaltschaft"
-    },
-    {
-      "title": "Nach Fan-Ärger in Wolfsburg : Ministerium widerspricht VfL und Werder",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-nach-fan-aerger-in-wolfsburg-ministerium-widerspricht-den-klubs-80963988.bild.html",
-      "image_title": "Werder Bremen: Nach Fan-Ärger in Wolfsburg: Ministerium widerspricht den Klubs"
-    },
-    {
-      "title": "\"Nicht Clever Gespielt\" : Oldenburgs Fossi schiebt Pleiten-Frust",
-      "teaser": "Nach zwei Pleiten in vier Tagen wartet Oldenburg weiter auf den ersten Drittliga-Sieg.",
-      "url": "https://www.bild.de/regional/bremen/fussball/vfb-oldenburg-nicht-clever-gespielt-trainer-dario-fossi-schiebt-pleiten-frust-80963676.bild.html",
-      "image_title": "VfB Oldenburg: „Nicht clever gespielt!\" Trainer Dario Fossi schiebt Pleiten-Frust"
-    },
-    {
-      "title": "Gewinnspiel BILD BREMEN : Darten Sie ein Leg gegen „The Rapid“ Ricky Evans",
-      "teaser": "Dart ist ein Sport rund um Geschicklichkeit und Präzesion! Kein Wunder also, dass diese...",
-      "url": "https://www.bild.de/bild-plus/regional/bremen/bremen-aktuell/bild-bremen-darten-sie-ein-leg-gegen-the-rapid-ricky-evans-80952810.bild.html",
-      "image_title": "BILD BREMEN: Darten Sie ein Leg gegen „The Rapid“ Ricky Evans!"
-    },
-    {
-      "title": "BILD-Reporter gab entscheidenden Hinweis : Shisha-Raucher sollen schuld am Bastei-Feuer sein",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/verdaechtige-ueberfuehrt-shisha-raucher-sollen-schuld-am-bastei-brand-sein-80961808.bild.html",
-      "image_title": "Polizei: Shisha-Raucher sollen schuld am Bastei-Brand sein"
-    },
-    {
-      "title": "Mutmaßlicher Killer (20) in U-Haft : Frau (46) und Mann (34) sterben nach Hinterhof-Attacke",
-      "teaser": "Chemnitz – In der Nacht zu Samstag wurden im Hinterhof eines Chemnitzer Mehrfamilienhau...",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-mann-34-stirbt-nach-hinterhof-attacke-80964942.bild.html",
-      "image_title": "Chemnitz: Mann (34) stirbt nach Hinterhof-Attacke"
-    },
-    {
-      "title": "Wieder fehlte Löschwasser : Dachstuhlbrand fackelt Haus ab",
-      "teaser": "Der Dachstuhl steht lichterloh in Flammen, schwarze Rauchwolken steigen in den Himmel.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-dachstuhlbrand-fackelt-haus-in-nossen-ab-80962738.bild.html",
-      "image_title": "Sachsen: Dachstuhlbrand fackelt Haus in Nossen ab"
-    },
-    {
-      "title": "„Erst der Trainer, dann die Spieler“ : Becker kontert Kritik von Mai an Dynamo",
-      "url": "https://www.bild.de/sport/fussball/fussball/erst-der-trainer-dann-die-spieler-becker-kontert-kritik-von-mai-an-dynamo-80964696.bild.html",
-      "image_title": "„Erst der Trainer, dann die Spieler“: Becker kontert Kritik von Mai an Dynamo"
-    },
-    {
-      "title": "16 Tonnen Früchte an Bord : Hier verbrennt ein Obstlaster",
-      "teaser": "Ein mit 16 Tonnen Obst und Gemüse beladener Lkw ging auf der A72 in Sachsen in Flammen auf.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-obstlaster-verbrennt-auf-der-autobahn-80961412.bild.html",
-      "image_title": "Sachsen: Obstlaster verbrennt auf der Autobahn"
-    },
-    {
-      "title": "Ex-Wolle-Petry-Double gehackt : Sex-Bilder statt Schlager-News",
-      "teaser": "Er rückt Künstler ins Rampenlicht, produziert Musikvideos und seine eigene TV-Sendung „Lieblingsschlager“.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/ex-wolle-petry-double-gehackt-sex-bilder-statt-schlager-news-80958340.bild.html",
-      "image_title": "Ex-Wolle-Petry-Double gehackt: Sex-Bilder statt Schlager-News"
-    },
-    {
-      "title": "Bewährungsstrafen : Zusteller ließen hunderte Pakete verschwinden",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/bewaehrungsstrafen-zusteller-liessen-hunderte-pakete-verschwinden-80966242.bild.html",
-      "image_title": "Bewährungsstrafen: Zusteller ließen hunderte Pakete verschwinden"
-    },
-    {
-      "title": "Grausame Doppel-Attacke auf Hotelschiff : Ukrainerin (18) nach 10 Minuten zweites Mal vergewaltigt?",
-      "teaser": "Am Mittwoch begann in Düsseldorf der Prozess gegen zwei Männer.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-ukrainerin-18-zweimal-auf-hotelschiff-vergewaltigt-80961656.bild.html",
-      "image_title": "Düsseldorf: Ukrainerin (18) zweimal auf Hotelschiff vergewaltigt?"
-    },
-    {
-      "title": "Gelbliche Haut, wenig Zähne : Erkennen Sie diesen Triebtäter?",
-      "teaser": "Gelbliche Haut, ungepflegt, wenig Zähne. Mit Phantombild fahndet die Neusser Polizei.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/dormagen-versuchte-vergewaltigung-polizei-fahndet-mit-phantombild-80961298.bild.html",
-      "image_title": "Dormagen/Neuss (NRW): Versuchte Vergewaltigung. Polizei sucht mit Phantombild"
-    },
-    {
-      "title": "Sommermärchen-Wahrheit? : Geheim-Tresore in DFB-Zentrale entdeckt!",
-      "url": "https://www.bild.de/sport/fussball/fussball/fussball-geheim-tresore-in-alter-dfb-zentrale-entdeckt-80957388.bild.html",
-      "image_title": "Fußball: Geheim-Tresore in alter DFB-Zentrale entdeckt!"
-    },
-    {
-      "title": "Führungsaufsicht, Anzeigen, Verfahren : Warum wurde Ayleens Killer NICHT gestoppt?",
-      "teaser": "Immer mehr Verfahren kommen über Jan-Heiko P. (29) ans Licht. Warum wurde er nicht gestoppt?",
-      "url": "https://www.bild.de/bild-plus/news/2022/news/anzeigen-verfahren-warum-wurde-ayleens-killer-nicht-gestoppt-80931170.bild.html",
-      "image_title": "Anzeigen, Verfahren: Warum wurde Ayleens Killer NICHT gestoppt?"
-    },
-    {
-      "title": "Frauenleiche an Stadion : Mordverdacht gegen Ehemann erhärtet sich",
-      "teaser": "Er schweigt, doch jetzt sprechen immer mehr Indizien für Ehemann Gerd G. (66) als Killer",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/sinsheim-leiche-an-stadion-mordverdacht-gegen-ehemann-erhaertet-sich-80963086.bild.html",
-      "image_title": "Sinsheim: Leiche an Stadion: Mordverdacht gegen Ehemann erhärtet sich"
-    },
-    {
-      "title": "Reetdach-Inferno auf Sylt : Millionen-Traum Raub der Flammen",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/dichter-qualm-grosseinsatz-feuer-zerstoert-reetdach-haus-auf-sylt-80962276.bild.html",
-      "image_title": "Reetdach-Inferno auf Sylt - 12 Bewohner gerettet: Millionen-Traum Raub der Flammen"
-    },
-    {
-      "title": "Tödliches Freibad-Drama : Senior (79) ertrinkt im Großensee",
-      "teaser": "Hamburg - Die Ehefrau eines 79-Jährigen hatte ihren Mann um 20.54 Uhr als vermisst gemeldet.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/toedliches-freibad-drama-senior-79-ertrinkt-im-grossensee-80965796.bild.html",
-      "image_title": "Tödliches Freibad-Drama: Senior (79) ertrinkt im Großensee"
-    },
-    {
-      "title": "Kurven-Crash an der A24 : Dänen-Trucker aus Schweine-Laster gerettet",
-      "teaser": "Hamburg - Der Trucker kippte um 3.40 Uhr auf der A 24 in einer Kurve mit seinem Gespann um.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kurven-crash-an-der-a24-daenen-trucker-aus-schweine-laster-gerettet-80962498.bild.html",
-      "image_title": "Kurven-Crash an der A24: Dänen-Trucker aus Schweine-Laster gerettet"
-    },
-    {
-      "title": "Auf der Flucht vor der Polizei : Mann verschwindet in der Ihme - Vermisst!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/auf-der-flucht-vor-der-polizei-mann-verschwindet-in-der-ihme-vermisst-80962628.bild.html",
-      "image_title": "Auf der Flucht vor der Polizei: Mann verschwindet in der Ihme - Vermisst!"
-    },
-    {
-      "title": "Durch Namen „seelisch belastet“ : Gericht erlaubt Alexa (6), ihren Namen zu ändern",
-      "teaser": "Ständig wurde das Kind wegen der Namensgleichheit zum Gerät erniedrigt, litt seelisch.",
-      "url": "https://www.bild.de/news/inland/news-inland/durch-namen-seelisch-belastet-gericht-erlaubt-kleiner-alexa-6-ihren-namen-zu-aen-80957446.bild.html",
-      "image_title": "Durch Namen „seelisch belastet“: Gericht erlaubt kleiner Alexa (6), ihren Namen zu ändern"
-    },
-    {
-      "title": "Heiko Engel spürt Klassiker auf : Der Oldtimer-Fahnder von Hannover",
-      "teaser": "Hannover – Wenn Heiko Engel einen Oldtimer sieht, zückt er die Kamera, knipst!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/heiko-engel-spuert-klassiker-auf-der-oldtimer-fahnder-von-hannover-80962162.bild.html",
-      "image_title": "Heiko Engel spürt Klassiker auf: Der Oldtimer-Fahnder von Hannover"
-    },
-    {
-      "title": "DSDS-vierte von 2020 verlässt Köln : Paulina Wagner wohnt wieder bei den Eltern",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/dsds-vierte-verlaesst-koeln-paulina-wagner-wohnt-wieder-bei-den-eltern-80830752.bild.html",
-      "image_title": "DSDS-Vierte verlässt Köln: Paulina Wagner wohnt wieder bei den Eltern"
-    },
-    {
-      "title": "Opfer in die Klinik getreten : Polizei sucht nach brutalem Schläger",
-      "teaser": "Auch als das Opfer bereits am Boden lag, trat der Unbekannte weiter zu.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-windeck-polizei-fahndet-nach-brutalem-schlaeger-80963728.bild.html",
-      "image_title": "Köln/Windeck: Polizei fahndet nach brutalem Schläger"
-    },
-    {
-      "title": "Es begann vor 16 Monaten : Die ganze Wahrheit hinter Modestes Köln-Aus!",
-      "teaser": "Anthony Modeste und Köln – endgültig Geschichte! BILD erklärt, warum es zur Trennung kam.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/es-begann-vor-16-monaten-die-wahrheit-hinter-dem-koeln-aus-von-anthony-modeste-80953618.bild.html",
-      "image_title": "1. FC Köln: Die ganze Wahrheit hinter dem Modeste-Abschied"
-    },
-    {
-      "title": "Erster Leipzig-Arbeitstag : Was Werner in die RB-Kabine brachte",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/rb-leipzig-was-timo-werner-am-1-arbeitstag-mit-in-die-kabine-brachte-80961608.bild.html",
-      "image_title": "RB Leipzig: Was Timo Werner am 1. Arbeitstag mit in die Kabine brachte"
-    },
-    {
-      "title": "Er verlor Bein bei Unfall : Kameraden sammeln Spenden für Morris (20)",
-      "teaser": "Nach einem schweren Motorradunfall ist der Feuerwehrmann selbst auf Hilfe angewiesen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-spendenaktion-fuer-verunglueckten-feuerwehrmann-morris-80957120.bild.html",
-      "image_title": "Sachsen: Spendenaktion für verunglückten Feuerwehrmann Morris"
-    },
-    {
-      "title": "Dürre-Katastrophe : Erste Flüsse schon ausgetrocknet",
-      "teaser": "Dresden – Brunnen versiegen, Eichen verdorren, die einst grünen Elbauen sind eine Wüste. Seit Menschengedenken hat es eine solche Dü...",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/duerre-katastrophe-erste-fluesse-schon-ausgetrocknet-80960496.bild.html",
-      "image_title": "Dürre-Katastrophe: Erste Flüsse schon ausgetrocknet"
-    },
-    {
-      "title": "Hansa-Allrounder Dressel : Er kann's auch hinten links",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansa-allrounder-dressel-er-kanns-auch-hinten-links-80959044.bild.html",
-      "image_title": "Hansa-Allrounder Dressel: Er kann's auch hinten links"
-    },
-    {
-      "title": "Identität und Todesursache unklar : Passantin entdeckt Leiche an Feld",
-      "teaser": "Schrecklicher Fund! An einem Feld im Landkreis Vorpommern-Rügen wurde eine Leiche entdeckt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-passantin-entdeckt-leiche-an-feld-bei-grimmen-80951288.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: Passantin entdeckt Leiche an Feld bei Grimmen"
-    },
-    {
-      "title": "Hansa-Verteidiger Roßbach : Der Mann für die wichtigen Tore",
-      "teaser": "Hansa-Verteidiger Damian Roßbach in seinem 101. Zweitligaspiel sein erstes Tor – zum Sieg!",
-      "url": "https://www.bild.de/sport/fussball/fussball/hansa-verteidiger-rossbach-der-mann-fuer-die-wichtigen-tore-80946636.bild.html",
-      "image_title": "Hansa-Verteidiger Roßbach: Der Mann für die wichtigen Tore"
-    },
-    {
-      "title": "Jetzt muss nur noch das KVR zustimmen : Stadtrat gibt Go für Rammstein-Konzert auf Theresienwiese",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/stadtrat-gibt-go-fuer-rammstein-konzert-auf-theresienwiese-80964124.bild.html",
-      "image_title": "Stadtrat gibt Go für Rammstein-Konzert auf Theresienwiese"
-    },
-    {
-      "title": "Fahrer benötigt Kriseninterventionsteam : Scheidplatz: Bus und Straßenbahn crashen",
-      "teaser": "Bei der Kollision einer Trambahn mit einem Linienbus ist eine Person verletzt worden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/scheidplatz-bus-und-strassenbahn-crashen-80965322.bild.html",
-      "image_title": "Scheidplatz: Bus und Straßenbahn crashen"
-    },
-    {
-      "title": "Behörden sprechen Badewarnung aus : Achtung! Blaualgen im Weißenstädter See",
-      "teaser": "Für den bekannten Badeseen in Oberfranken haben Behörden eine Badewarnung ausgesprochen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/badewarnung-achtung-blaualgen-im-weissenstaedter-see-80965112.bild.html",
-      "image_title": "Badewarnung: Achtung! Blaualgen im Weißenstädter See"
-    },
-    {
-      "title": "Die Inflation bleibt : ... und der Supermarkt-Einkauf wird noch teurer",
-      "url": "https://www.bild.de/politik/inland/politik-inland/die-inflation-bleibt-und-der-supermarkt-einkauf-wird-noch-teurer-80961962.bild.html",
-      "image_title": "Die Inflation bleibt: ... und der Supermarkt-Einkauf wird noch teurer"
-    },
-    {
-      "title": "Oberbayern: Allein 30 Tote dieses Jahr : Immer mehr tödliche Bergunfällen",
-      "teaser": "Schönau - In Oberbayern gibt es immer mehr Todesfälle nach Bergunfällen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/oberbayern-allein-30-tote-nur-in-diesem-jahr-immer-mehr-toedliche-bergunfaellen-80962756.bild.html",
-      "image_title": "Oberbayern: Allein 30 Tote nur in diesem Jahr: Immer mehr tödliche Bergunfällen"
-    },
-    {
-      "title": "Seit Freitag in Bayern verschwunden : Ein Schwimmer fand Tobias (†25) leblos im See",
-      "teaser": "Die Suche endete tragisch: Ein Schwimmer hat die Leiche von Tobias (25) gefunden.",
-      "url": "https://www.bild.de/news/inland/news-inland/er-verschwand-am-freitagabend-bei-einem-festival-in-bayern-tobias-25-tot-aufgefu-80959702.bild.html",
-      "image_title": "Er verschwand bei einem Festival in Bayern: Tobias (25) tot aufgefunden"
-    },
-    {
-      "title": "Polizei tötet 16-Jährigen in Dortmund : Fünf Treffer aus der Maschinenpistole!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-polizei-toetete-16-jaehrigen-mit-fuenf-treffern-aus-der-maschinenpistol-80953518.bild.html",
-      "image_title": "Dortmund: Polizei tötet 16-Jährigen mit fünf Treffern aus der Maschinenpistole"
-    },
-    {
-      "title": "Minigolf-WM-Premiere in Wanne-Eickel : Hier lochen die besten Senioren der Welt ein!",
-      "teaser": "In Wanne-Eickel startet am Mittwoch die erste Senioren-WM der Mini-Golfer.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/wm-in-wanne-eickel-hier-lochen-die-besten-minigolf-senioren-der-welt-ein-80960054.bild.html",
-      "image_title": "WM in Wanne-Eickel: Hier lochen die besten Minigolf-Senioren der Welt ein"
-    },
-    {
-      "title": "Massage für „Fahéj“ im Dortmunder Zoo : Tapir-Dame grinst vor Vergnügen",
-      "teaser": "Es wird gerubbelt und geschubbelt, gekitzelt und gekrault: Herrlich, so eine Massage!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-massage-fuer-taipir-dame-im-zoo-80957162.bild.html",
-      "image_title": "Dortmund: Massage für Tapir-Dame im Zoo"
-    },
-    {
-      "title": "Warum stürzte Ilonka B. in den Tod? : Weiter Rätsel um Achterbahn-Horror",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/warum-stuerzte-ilonka-in-den-tod-weiter-raetsel-um-achterbahn-horror-80965638.bild.html",
-      "image_title": "Warum stürzte Ilonka in den Tod?: Weiter Rätsel um Achterbahn-Horror"
-    },
-    {
-      "title": "Zoff im Gehege : Krähen vertreiben Falken Selly aus Zoo",
-      "teaser": "Neunkirchen – Aufregung in der Falknerei im Zoo!!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/neunkirchen-zoff-im-gehege-kraehen-vertreiben-falken-selly-aus-zoo-80963672.bild.html",
-      "image_title": "Neunkirchen: Zoff im Gehege: Krähen vertreiben Falken Selly aus Zoo"
-    },
-    {
-      "title": "Tochter versuchte, sie († 57) festzuhalten : Sicherheitsbügel der Todes-Achterbahn defekt?",
-      "teaser": "Die 57-Jährige ist im Sitz in einer Kurve ins Rutschen gekommen und herausgestürzt.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/frankfurt-aktuell/klotti-freizeitpark-das-ist-die-tote-aus-der-achterbahn-80957558.bild.html",
-      "image_title": "Achterbahn-Tote im Klotti: Bügel defekt? Tochter versuchte, Ilonka B. (57) zu halten"
-    },
-    {
-      "title": "BILD am nassesten Ort Deutschlands : „Alles wächst, alles ist grün. Es ist paradiesisch“",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/news-inland/bild-im-nassesten-ort-deutschlands-in-schliersee-regnet-es-so-viel-wie-nirgendwo-80951652.bild.html",
-      "image_title": "BILD im nassesten Ort Deutschlands: In Schliersee regnet es so viel, wie nirgendwo"
-    },
-    {
-      "title": "3. Pleite und Doppel-Rot : Schock-Spiel für den HFC",
-      "teaser": "Ein ganz bitterer Dienstagabend für den HFC! 0:2 (0:0) verliert Halle beim SC Freiburg II.",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-dritte-pleite-und-doppel-rot-schock-spiel-fuer-den-hfc-80959248.bild.html",
-      "image_title": "3. Liga: Dritte Pleite und Doppel-Rot – Schock-Spiel für den HFC"
-    },
-    {
-      "title": "Vorfahrt für Ren(n)tner : Warum die Vollgas-Legenden zu Porsche kamen",
-      "teaser": "Hans-Joachim Stuck (71) war 35 Jahre alt, als er zum ersten Mal im Porsche 962C das 24-Stunden-Rennen von Le Mans gewann.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-warum-vollgas-legenden-auf-die-porsche-strecke-kamen-80959142.bild.html",
-      "image_title": "Leipzig: Warum Vollgas-Legenden auf die Porsche-Strecke kamen"
-    },
-    {
-      "title": "Der erste nach 40 Jahren : Kleiner Schabrackentapir in der Wilhelma",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/stuttgart-kleiner-schabrackentapir-in-der-wilhelma-80966440.bild.html",
-      "image_title": "Stuttgart: Kleiner Schabrackentapir in der Wilhelma"
-    },
-    {
-      "title": "Firma abgefackelt auf eigener Hochzeit : Staatsanwalt will gegen Reifenkönig ermitteln",
-      "teaser": "Nach dem Feuer bei seiner Luxus-Hochzeit hat Bruno Göggel jetzt mächtig Behörden-Ärger.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/hochzeits-brand-staatsanwalt-prueft-vorermittlungen-gegen-reifenkoenig-goeggel-80964254.bild.html",
-      "image_title": "Hochzeits-Brand: Staatsanwalt prüft Vorermittlungen gegen Reifenkönig Göggel"
-    },
-    {
-      "title": "Hotel am Schlossgarten : Luxus-Kruscht zu verkaufen!",
-      "teaser": "Das Stuttgarter Hotel am Schlossgarten trennt sich von edlen Möbeln und Accessoires.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/hotel-am-schlossgarten-luxus-kruscht-zu-verkaufen-80956808.bild.html",
-      "image_title": "Hotel am Schlossgarten: Luxus-Kruscht zu verkaufen!"
-    },
-    {
-      "title": "Parteienstreit um Mietrabatt : Zahlt Rot-Weiß Erfurt zu wenig fürs Stadion?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-zahlt-rot-weiss-zu-wenig-fuers-stadion-80958904.bild.html",
-      "image_title": "Erfurt: Zahlt Rot-Weiß zu wenig fürs Stadion?"
-    },
-    {
-      "title": "Unfall-Drama mit Frontal-Crash : Weinprinzessin (17) schwer verletzt, Mutter tot",
-      "teaser": "Zwei Tage, nachdem Larissa zur Weinkönigin gekrönt wurde, passiert der schreckliche Unfall.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-mutter-53-stirbt-bei-frontal-crash-tochter-17-schwer-verletzt-auf-l-209-80957622.bild.html",
-      "image_title": "Unfall: Mutter (53) stirbt bei Frontal-Crash, Tochter (17) schwer verletzt auf L 209"
-    },
-    {
-      "title": "BILD-Interview mit dem Jena-Boss : „Wir wollen perspektivisch die 2. Liga angreifen!“",
-      "teaser": "Im November wird bei Carl Zeiss gewählt. Aufsichtsratsboss Mario Voigt will weitermachen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/bild-interview-mit-dem-jena-boss-wir-wollen-die-2-liga-angreifen-80957962.bild.html",
-      "image_title": "BILD-Interview mit dem Jena-Boss: „Wir wollen die 2. Liga angreifen!“"
-    }
-  ]
+  "articles": []
 }
