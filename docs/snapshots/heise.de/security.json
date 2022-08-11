@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-11T10:24:53",
+  "timestamp": "2022-08-11T11:18:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco ASA und Firepower",
+      "url": "https://www.heise.de/news/Cisco-Angreifer-koennten-an-private-RSA-Schluessel-in-ASA-und-Firepower-gelangen-7216863.html"
+    },
+    {
       "title": "Abus HomeTec Pro CFA3000",
       "url": "https://www.heise.de/news/BSI-warnt-vor-unsicherem-Funk-Tuerschloss-von-Abus-7216682.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-fuenf-Sicherheitsluecken-7216218.html"
     },
     {
-      "title": "Patchday: Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Luecken-in-Commerce-und-Kreativprogrammen-7215839.html"
+      "title": "Cisco: Angreifer könnten an private RSA-Schlüssel in ASA und Firepower gelangen",
+      "teaser": "Der Netzwerkausrüster Cisco schließt mit aktualisierter Software eine Sicherheitslücke in ASA und Firepower. Angreifer könnten private RSA-Keys auslesen.",
+      "url": "https://www.heise.de/news/Cisco-Angreifer-koennten-an-private-RSA-Schluessel-in-ASA-und-Firepower-gelangen-7216863.html",
+      "image_title": "Aufmacher Cisco-Updates"
+    },
+    {
+      "title": "Effizient coden, Ressourcen sparen: Projekt zeigt Wege zu grünerer Software",
+      "teaser": "Das Projekt \"Potentials of Green Coding\" will die Entwicklung nachhaltiger machen. Das soll bereits in der Lehre beginnen und auch in der Wirtschaft Fuß fassen.",
+      "url": "https://www.heise.de/news/Effizient-coden-Ressourcen-sparen-Projekt-zeigt-Wege-zu-gruenerer-Software-7217023.html",
+      "image_title": "Lightbulb,With,Small,Plant,On,Soil,And,Sunshine.,Concept,Saving"
     },
     {
       "title": "Jetzt neue Webinar-Serie zum Datenschutz für Software-Entwickler buchen",
@@ -58,6 +70,11 @@
       "url": "https://www.heise.de/news/In-App-Browser-auf-dem-iPhone-Experte-sieht-Trackingpotenzial-durch-Meta-7217027.html"
     },
     {
+      "title": "Wie Unternehmen mit Bug Bounty Hunting die Sicherheit erhöhen und junge Fachkräfte anziehen",
+      "teaser": "Weg von Standard-Sicherheitsprüfungen hin zu Crowdsourcing-Cybersecurity: Beim Bug Bounty Hunting spüren ethische Hacker effizient Schwachstellen für Unternehmen auf. Viele junge IT-Experten wenden sich diesem Bereich zu – auch, um mehr lernen zu können. Firmen können davon profitieren – gleich doppelt.",
+      "url": "https://www.heise.de/solutions/intigriti/wie-unternehmen-mit-bug-bounty-hunting-die-sicherheit-erhoehen-und-junge-fachkraefte-anziehen/?source=nat_teas"
+    },
+    {
       "title": "AWS, Splunk & Co.: Koalition der Security-Größen will offene Standards schaffen",
       "teaser": "18 Firmen haben das Open Cybersecurity Schema Framework initiiert. Der Open-Source-Ansatz soll helfen, Cyber-Angriffe schneller zu erkennen und abzuwehren.",
       "url": "https://www.heise.de/news/AWS-Splunk-Co-Koalition-der-Security-Groessen-will-offene-Standards-schaffen-7216631.html"
@@ -67,11 +84,6 @@
       "teaser": "Lernen Sie die Vorteile von Azure AD kennen: Mit Active Directory aus der Cloud hybride Identitäten sicher verwalten. 10 Prozent Frühbucherrabatt bis 29.8.",
       "url": "https://www.heise.de/news/iX-Workshop-Azure-AD-als-zentralen-Authentifizierungsdienst-einrichten-7204403.html",
       "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
-    },
-    {
-      "title": "Wie Unternehmen mit Bug Bounty Hunting die Sicherheit erhöhen und junge Fachkräfte anziehen",
-      "teaser": "Weg von Standard-Sicherheitsprüfungen hin zu Crowdsourcing-Cybersecurity: Beim Bug Bounty Hunting spüren ethische Hacker effizient Schwachstellen für Unternehmen auf. Viele junge IT-Experten wenden sich diesem Bereich zu – auch, um mehr lernen zu können. Firmen können davon profitieren – gleich doppelt.",
-      "url": "https://www.heise.de/solutions/intigriti/wie-unternehmen-mit-bug-bounty-hunting-die-sicherheit-erhoehen-und-junge-fachkraefte-anziehen/?source=nat_teas"
     },
     {
       "title": "BSI warnt vor unsicherem Funk-Türschloss von Abus",
@@ -151,17 +163,6 @@
       "teaser": "Die US-IT-Sicherheitsbehörde CISA und das australische Cyber Security Center haben zusammengetragen, welche Malware-Stämme 2021 am häufigsten beobachtet wurden.",
       "url": "https://www.heise.de/news/Cyber-Sicherheitsbehoerden-nennen-meistverbreitete-Malware-Staemme-in-2021-7206775.html",
       "image_title": "Aufmacher Liste verbreitetster Malware 2021 nach CISA und ACSC"
-    },
-    {
-      "title": "GitHub will npm-Pakete besser vor Manipulation schützen",
-      "teaser": "Manipulierte npm-Pakete mit Schadcode werden zu einem immer größeren Problem. GitHub möchte in Zukunft die Authentizität der Pakete überprüfbar machen.",
-      "url": "https://www.heise.de/news/GitHub-will-npm-Pakete-besser-vor-Manipulation-schuetzen-7206862.html",
-      "image_title": "Paketzustellung, Pakete, Online-Shopping"
-    },
-    {
-      "title": "heise Security Tour 2022: Frühbucherpreis endet",
-      "teaser": "Nur noch bis nächsten Montag gibt es den reduzierten Frühbucherpreis für die redaktionelle Eintages-Konferenz zu Sicherheit und Datenschutz.",
-      "url": "https://www.heise.de/news/heise-Security-Tour-2022-Fruehbucherpreis-endet-7206319.html"
     },
     {
       "title": "heise Security Tour 2022",
