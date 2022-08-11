@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-11T15:22:56",
+  "timestamp": "2022-08-11T16:29:31",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -122,28 +128,41 @@
   ],
   "articles": [
     {
+      "title": "38 Fragen an Olaf Scholz",
+      "teaser": "Olaf Scholz muss viel erklären: Wie die Bundesregierung die Gasspeicher voll bekommt, warum er partout nichts weiß über windige Steuerdeals in Hamburg, und überhaupt, dass er gelassen bleibt selbst in diesen Zeiten.",
+      "url": "https://www.sueddeutsche.de/politik/olaf-scholz-kanzler-sommer-pressekonferenz-ukraine-1.5638135",
+      "author": "Daniel Brössler, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638136/1000x420"
+    },
+    {
+      "title": "\"Das ist eine Veränderung der Wirklichkeit, in der wir leben\"",
+      "teaser": "In der Sommer-Pressekonferenz stellt sich der Bundeskanzler hinter Christian Lindners umstrittene Pläne und verspricht, in der Krise niemanden allein zu lassen. Nur zu einem Thema hat er nichts zu sagen. Die zentralen Aussagen im Video.",
+      "url": "https://www.sueddeutsche.de/politik/olaf-scholz-das-ist-eine-veraenderung-der-wirklichkeit-in-der-wir-leben-1.5638060",
+      "author": "Video von Leonie Sanke"
+    },
+    {
+      "title": "Hinterbliebene sagen ab",
+      "teaser": "Die etwa zwei Dutzend Angehörigen der Opfer von 1972 wollen der Gedenkfeier in München fernbleiben - aus Ärger über den deutschen Umgang mit dem Attentat.",
+      "url": "https://www.sueddeutsche.de/politik/olympia-attentat-absage-1.5638181",
+      "author": "Daniel Brössler, Roman Deininger, Paul-Anton Krüger, Georg Mascolo und Uwe Ritzer, Berlin/München",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638182/208x156"
+    },
+    {
       "title": "Die Grenzen der Propaganda",
       "teaser": "Satellitenbilder zeigen die Zerstörung des russischen Militärflughafens auf der Krim - samt Flugzeugwracks. Sie widerlegen die offizielle Darstellung aus Moskau. Welche Gründe hat der Kreml für sein fadenscheiniges Narrativ?",
       "url": "https://www.sueddeutsche.de/politik/russland-ukraine-krim-militaerflughafen-1.5637927",
       "author": "Nicolas Freund",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637929/1000x420"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637929/600x337"
     },
     {
-      "title": "Schnellere Verfahren bei Infrastrukturprojekten",
-      "teaser": "Justizminister Buschmann will Rechtsstreitigkeiten über Windkraftanlagen und Stromtrassen verkürzen.",
-      "url": "https://www.sueddeutsche.de/politik/windkraft-buschmann-klagen-1.5638096",
-      "author": "Paul-Anton Krüger, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638097/208x156"
-    },
-    {
-      "title": "Achterbahnunfall im Legoland - viele Verletzte",
-      "teaser": "In dem Freizeitpark im schwäbischen Günzburg stoßen zwei Züge eines Fahrgeschäfts zusammen. Mindestens 34 Menschen werden dabei verletzt, zwei schwer.",
+      "title": "Achterbahnunfall im Legoland - mehr als 30 Verletzte",
+      "teaser": "In dem Freizeitpark im schwäbischen Günzburg stoßen zwei Züge eines Fahrgeschäfts zusammen. Eine Person wird dabei schwer verletzt.",
       "url": "https://www.sueddeutsche.de/bayern/achterbahn-legoland-guenzburg-unfall-verletzte-1.5637924",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638095/208x156"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638172/208x156"
     },
     {
       "title": "Generalstaatsanwaltschaft übernimmt Ermittlungen gegen Schlesinger",
-      "teaser": "Wegen ihrer Bedeutung sind die Ermittlungen gegen die zurückgetretene RBB-Intendantin Patricia Schlesinger nun an die Generalstaatsanwaltschaft Berlin übergeben worden.",
+      "teaser": "Wegen ihrer Bedeutung sind die Ermittlungen gegen die zurückgetretene RBB-Intendantin nun an die Generalstaatsanwaltschaft Berlin übergeben worden.",
       "url": "https://www.sueddeutsche.de/medien/patricia-schlesinger-rbb-generalstaatsanwaltschaft-ermittlungen-1.5638056",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5638057/208x156",
       "image_title": "Ehemalige rbb-Intendantin Patricia Schlesinger"
@@ -163,33 +182,25 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637792/600x337"
     },
     {
-      "title": "\"Söder spielt mit dem atomaren Feuer\"",
-      "teaser": "In der Debatte um einen Weiterbetrieb des bayerischen Kernkraftwerks Isar 2 melden sich nun auch die Atomgegner vehement zu Wort, der Bund Naturschutz kündigt Klagen an. Warum haben sie so lang geschwiegen?",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-atomkraft-laufzeitverlaengerung-markus-soeder-bund-naturschutz-isar-2-1.5638020",
-      "author": "Christian Sebald",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638021/208x156"
+      "title": "Ein Prozent ist beim Festgeld wieder drin",
+      "teaser": "Der Klassiker der Geldanlage bringt wieder Zinsen. Was welche Banken zahlen und worauf Sparerinnen und Sparer achten sollten.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/geldanlage-festgeld-banken-zinsen-1.5637907",
+      "author": "Harald Freiberger",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637988/208x156"
     },
     {
-      "title": "Wie sicher ist das Video-Ident-Verfahren wirklich?",
-      "teaser": "Wer ein Bankkonto eröffnen will, muss zur Identifizierung oft nur noch einen Ausweis in die Kamera halten. Total einfach - und total sicher, hieß es. Nun hat der Chaos Computer Club nachgewiesen, dass man sehr wohl eine falsche Identität vortäuschen kann.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/video-ident-gematik-ausweis-ccc-1.5637983",
-      "author": "Kaja Adchayan , Helmut Martin-Jung und Nils Wischmeyer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638018/208x156"
+      "title": "Das Krypto-Versprechen ist tot",
+      "teaser": "Digitalwährungen sollten die letzte Bastion sein, wenn es an den Finanzmärkten mal wieder schlecht läuft. Die aktuelle Krise aber zeigt: Das waren sie noch nie - und werden es nie sein.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/kryptowaehrung-kurse-crash-1.5637853",
+      "author": "Kommentar von Nils Wischmeyer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637854/290x163"
     },
     {
-      "title": "Letzter Bulle im Eurofighter",
-      "teaser": "Der ehemalige Zivildienstleistende und \"König von Mallorca\" Henning Baum besucht die Bundeswehr für eine RTL-Doku. Klingt komisch, ist aber toll.",
-      "url": "https://www.sueddeutsche.de/medien/henning-baum-bundeswehr-rtl-doku-1.5624686",
-      "author": "Julia Brader",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5624687/208x156"
-    },
-    {
-      "title": "Spielen erlaubt!",
-      "teaser": "\"Back to the Roofs\": 50 Jahre nach den Sommerspielen 1972 kehrt die Vielfalt des Sports unter das berühmte Dach des Münchner Olympiaparks zurück. Schaut auch der olympische Geist mal wieder vorbei?",
-      "url": "https://www.sueddeutsche.de/sport/european-championships-2022-muenchen-olympiapark-1.5634185",
-      "author": "Volker Kreisl",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5633875/600x337",
-      "image_title": "Olympiapark in München"
+      "title": "Erst mal schauen, was es gratis gibt",
+      "teaser": "Ob Oberschleißheim, Königsplatz oder Olympiapark: Zum Start der Wettkämpfe halten sich die zahlenden Zuschauer noch zurück - manchen sind die Ticketpreise auch zu hoch.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-european-championships-auftakt-atmosphaere-1.5638167",
+      "author": "Joachim Mölter",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638171/600x337"
     },
     {
       "title": "Er zieht ohne Gegenstimmen in den Himmel ein",
@@ -199,11 +210,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5638114/208x156"
     },
     {
-      "title": "An der Schwelle zu einer neuen Ära",
-      "teaser": "Im Dressurviereck ruft das Siegerinnen-Trio um die Britin Charlotte Fry bei der WM ein neues Zeitalter der Leichtigkeit aus. Und die Deutschen? Erleben insgesamt eine ernüchternde Veranstaltung, aber tragen es mit Fassung.",
-      "url": "https://www.sueddeutsche.de/sport/reiten-weltmeisterschaft-herning-benjamin-wendl-1.5637961",
-      "author": "Gabriele Pochhammer, Herning",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637963/208x156"
+      "title": "Im Golf wird der Machtkampf jetzt persönlich",
+      "teaser": "Elf zur saudi-arabischen LIV-Tour gewechselte Golfer klagen gegen ihren Ausschluss von der PGA Tour. Drei Kläger werden zwar zunächst abgewiesen - doch der Schaden der Auseinandersetzung wird nachhaltig sein.",
+      "url": "https://www.sueddeutsche.de/sport/golf-pga-tour-liv-tour-saudi-arabien-kommentar-1.5638033",
+      "author": "Kommentar von Felix Haselsteiner",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638034/290x163"
     },
     {
       "title": "Das Ende der Gletscher",
@@ -212,18 +223,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637832/600x337"
     },
     {
-      "title": "\"Er schleicht sich oft an mich heran\"",
-      "teaser": "Premierminister-Kandidatin Liz Truss versteht sich gut mit einer wichtigen Katze. Die Queen unterschreibt jetzt auch Münzen, und Marcus Mumford singt über Missbrauchserfahrungen.",
-      "url": "https://www.sueddeutsche.de/panorama/promis-panama-absturz-dimitri-flores-queen-elizabeth-liz-truss-1.5637801",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637804/208x156"
+      "title": "Hollywood und Honeymoon",
+      "teaser": "Eine bunte Ablenkung in diesem Katastrophensommer: Ben Affleck und Jennifer Lopz sind auf Grand Tour durch Europa.",
+      "url": "https://www.sueddeutsche.de/stil/prominente-jennifer-lopez-ben-affleck-honeymoon-1.5638143",
+      "author": "Max Scharnigg und Julia Werner",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638146/208x156"
     },
     {
-      "title": "Tropfen ohne Schwips",
-      "teaser": "Unsere Autorin wollte bloß mal alkoholfreien Wein probieren - und steht unversehens vor ganz grundsätzlichen Fragen. Will man das Alte durch etwas Ähnliches ersetzen - oder etwas Neues versuchen, das neben dem Alten bestehen kann?",
-      "url": "https://sz-magazin.sueddeutsche.de/getraenkemarkt/wein-alkoholfrei-getraenke-91769",
-      "author": "Verena Mayer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5633489/208x156",
-      "image_title": "Getränkemarkt"
+      "title": "Ärger im Paradies",
+      "teaser": "In ihrem Berlinale-Gewinner \"Alcarràs - Die letzte Ernte\" beschwört die Spanierin Carla Simón einen wunderbaren letzten Sommer auf dem Land.",
+      "url": "https://www.sueddeutsche.de/kultur/alcarras-die-letzte-ernste-carla-simon-rezension-1.5637845",
+      "author": "Phlipp Stadelmaier",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637846/208x156"
     },
     {
       "title": "Die Kunst der Berührung",
@@ -247,25 +258,23 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637349/208x156"
     },
     {
+      "title": "Auch Frauen sollen in München oben ohne schwimmen dürfen",
+      "teaser": "Die grün-rote Stadtregierung macht sich dafür stark, dass künftig alle in den Bädern ohne Oberteil ins Wasser dürfen.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-schwimmbad-oben-ohne-1.5638027",
+      "author": "Lea Kramer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638028/208x156"
+    },
+    {
+      "title": "Vermummte Schläger rauben 18-Jährigen aus",
+      "teaser": "Nach einer tödlichen Bluttat und vor einer versuchten Gefangenenbefreiung: In der Messestadt Riem ereignet sich ein brutaler Raubüberfall - die Täter türmen.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-riem-raubueberfall-polizei-1.5637953"
+    },
+    {
       "title": "\"Kaum Frauen, die beim Feiern noch keine übergriffigen Erfahrungen gemacht haben\"",
       "teaser": "Das Trio vom Münchner DJ-Kollektiv \"Set-Ambessa\" hat ein Awareness-Konzept für Partys entwickelt, damit sich dort alle Menschen wohlfühlen.",
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-diskriminierung-sexismus-dj-kollektiv-awareness-1.5634753",
       "author": "Amelie Völker",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5634754/208x156"
-    },
-    {
-      "title": "Jugendliche wollen Mordverdächtigen mit Gewalt befreien",
-      "teaser": "Bei der Festnahme eines 16-Jährigen, der am Wochenende einen jungen Coburger erstochen haben soll, kommt es in der Messestadt Riem zu Tumulten. 20 Personen attackieren die Polizisten, auch mit Pfefferspray.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-mordverdacht-gefangenenbefreiung-polizei-riem-1.5637870",
-      "author": "Martin Bernstein",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637871/208x156"
-    },
-    {
-      "title": "Ein Ferientag an der Isar",
-      "teaser": "Schwimmen, grillen, sonnenbaden: Die Isar ist Sehnsuchtsort und Kristallisationspunkt zugleich. Ein Tag zwischen Großhesseloher Brücke und Grünwald zeigt, dass nicht weit reisen muss, wer das Leben erleben und genießen möchte.",
-      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/isar-sommer-gruenwald-grosshesseloher-bruecke-1.5634511",
-      "author": "Bernhard Lohr und Udo Watter; Fotos: Sebastian Gabriel, Grünwald",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5634521/208x156"
     },
     {
       "title": "\"In einer Wolke aus Bier, Hendl und Omikron\"",
@@ -297,17 +306,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637272/208x156"
     },
     {
+      "title": "\"Söder spielt mit dem atomaren Feuer\"",
+      "teaser": "In der Debatte um einen Weiterbetrieb des bayerischen Kernkraftwerks Isar 2 melden sich nun auch die Atomgegner vehement zu Wort, der Bund Naturschutz kündigt Klagen an. Warum haben sie so lang geschwiegen?",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-atomkraft-laufzeitverlaengerung-markus-soeder-bund-naturschutz-isar-2-1.5638020",
+      "author": "Christian Sebald",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638021/208x156"
+    },
+    {
       "title": "Bobbahn am Königsee noch immer unter Schutt begraben",
       "teaser": "Im vergangenen Jahr wurde die älteste Kunsteisbahn der Welt bei einem Starkregen teilweise zerstört. 53 Millionen Euro stehen für den Aufbau bereit. Das wird wohl nicht reichen - und es gibt Zweifel, ob man die Anlage überhaupt erneuern sollte.",
       "url": "https://www.sueddeutsche.de/bayern/koenigssee-bobbahn-wiederaufbau-eissport-rodeln-1.5637426",
       "author": "Matthias Köpf, Schönau am Königssee",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637427/208x156"
-    },
-    {
-      "title": "\"Dass ein Feuer sogar über eine Straße springt, ist ungewöhnlich\"",
-      "teaser": "Nach einem Großbrand im fränkischen Geroda ist ein Großteil der betroffenen Häuser komplett zerstört. Ein Fachmann äußert sich erstaunt über die Dynamik des Feuers.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-bad-kissingen-geroda-brand-feuerwehr-feuer-1.5637485",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637694/208x156"
     },
     {
       "title": "\"Mein Jesus soll nicht über den anderen schweben\"",
@@ -325,12 +335,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5605764/208x156"
     },
     {
-      "title": "Warum so viele Ärzte ans Aufhören denken",
-      "teaser": "Viele Mediziner gehen in Teilzeit oder erwägen einen Jobwechsel. Den Personalmangel in den Krankenhäusern könnte das bald verschärfen. Was heißt das für die Gesundheitsversorgung?",
-      "url": "https://www.sueddeutsche.de/politik/aerzte-mangel-krankenhaus-1.5637695",
-      "author": "Benedikt Peters",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637796/208x156",
-      "image_title": "Operation im Asklepios Klinikum Harburg. Der Deutsche Ärztetag fordert 6000 zusätzliche Medizinstudienplätze."
+      "title": "Schnellere Verfahren bei Infrastrukturprojekten",
+      "teaser": "Justizminister Buschmann will Rechtsstreitigkeiten über Windkraftanlagen und Stromtrassen verkürzen.",
+      "url": "https://www.sueddeutsche.de/politik/windkraft-buschmann-klagen-1.5638096",
+      "author": "Paul-Anton Krüger, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638097/208x156"
+    },
+    {
+      "title": "\"Er schleicht sich oft an mich heran\"",
+      "teaser": "Premierminister-Kandidatin Liz Truss versteht sich gut mit einer wichtigen Katze. Die Queen unterschreibt jetzt auch Münzen, und Marcus Mumford singt über Missbrauchserfahrungen.",
+      "url": "https://www.sueddeutsche.de/panorama/promis-panama-absturz-dimitri-flores-queen-elizabeth-liz-truss-1.5637801",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637804/208x156"
     },
     {
       "title": "Schwammintelligenz",
@@ -346,18 +361,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5638083/208x156"
     },
     {
-      "title": "Ein amerikanischer Mädchentraum",
-      "teaser": "Das Penthouse im Trump-Tower ist ein Protz-Tempel, den Donald und Melania Trump gerne herzeigen. Wie das ehemalige Präsidentenpaar die Privatzimmer im Weißen Haus umdekoriert hat, war dagegen ein Geheimnis. Bis jetzt.",
-      "url": "https://www.sueddeutsche.de/panorama/weisses-haus-melania-trump-privatraeume-umgestaltung-plueschsofas-1.5637635",
-      "author": "Kerstin Lottritz",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637637/208x156"
-    },
-    {
-      "title": "Ein Prozent ist beim Festgeld wieder drin",
-      "teaser": "Der Klassiker der Geldanlage bringt wieder Zinsen. Was welche Banken zahlen und worauf Sparerinnen und Sparer achten sollten.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/geldanlage-festgeld-banken-zinsen-1.5637907",
-      "author": "Harald Freiberger",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637988/208x156"
+      "title": "Wie sicher ist das Video-Ident-Verfahren wirklich?",
+      "teaser": "Wer ein Bankkonto eröffnen will, muss zur Identifizierung oft nur noch einen Ausweis in die Kamera halten. Total einfach - und total sicher, hieß es. Nun hat der Chaos Computer Club nachgewiesen, dass man sehr wohl eine falsche Identität vortäuschen kann.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/video-ident-gematik-ausweis-ccc-1.5637983",
+      "author": "Kaja Adchayan , Helmut Martin-Jung und Nils Wischmeyer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638018/208x156"
     },
     {
       "title": "Wie die FDP sich die Wirtschaft vorstellt",
@@ -437,6 +445,13 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637794/208x156"
     },
     {
+      "title": "Botschafterin für BMX",
+      "teaser": "Die deutsche Medaillenhoffnung Lara Lessmann zieht in München als Dritte ins BMX-Freestyle-Finale ein. Dort will sie weiter für ihre boomende Sportart werben.",
+      "url": "https://www.sueddeutsche.de/sport/european-championships-bmx-olympiapark-lessmann-1.5638076",
+      "author": "Ralf Tögel, München",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5638078/208x156"
+    },
+    {
       "title": "Münchner Zuckerl am Olympiaberg",
       "teaser": "Die European Championships bringen den Sport in den Olympiapark zurück, 50 Jahre nach München 1972? Ja, danke, nett von ihnen. Aber der Sport ist in Wahrheit längst da.",
       "url": "https://www.sueddeutsche.de/sport/kolumne-european-championships-olympiapark-1.5637373",
@@ -444,26 +459,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5637374/208x156"
     },
     {
-      "title": "\"Man kann auch ohne Haare hübsch sein\"",
-      "teaser": "Timo Baumgartl, Abwehrspieler bei Union Berlin, darf nach seiner Hodenkrebs-Diagnose wieder auf den Platz. Nun will er Vorbild sein und ruft junge Männer dazu auf, zur Krebsvorsorge zu gehen.",
-      "url": "https://www.sueddeutsche.de/sport/baumgartl-union-berlin-hodenkrebs-comeback-fussball-1.5637218",
-      "author": "Johannes Korsche, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637401/208x156"
-    },
-    {
-      "title": "Rüdiger muss warten",
-      "teaser": "Nach dem 2:0 gegen Frankfurt lobt Reals Trainer Carlo Ancelotti die Entwicklung von David Alaba. Auch aufgrund der Wertschätzung für den Innenverteidiger hat es Antonio Rüdiger im eingespielten Ensemble erst einmal schwer.",
-      "url": "https://www.sueddeutsche.de/sport/supercup-real-madrid-ruediger-eintracht-frankfurt-alaba-1.5637661",
-      "author": "Javier Cáceres, Helsinki",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637663/208x156",
-      "image_title": "Antonio Rudiger"
+      "title": "An der Schwelle zu einer neuen Ära",
+      "teaser": "Im Dressurviereck ruft das Siegerinnen-Trio um die Britin Charlotte Fry bei der WM ein neues Zeitalter der Leichtigkeit aus. Und die Deutschen? Erleben insgesamt eine ernüchternde Veranstaltung, aber tragen es mit Fassung.",
+      "url": "https://www.sueddeutsche.de/sport/reiten-weltmeisterschaft-herning-benjamin-wendl-1.5637961",
+      "author": "Gabriele Pochhammer, Herning",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637963/208x156"
     },
     {
       "title": "Leben in Stein gehauen",
       "teaser": "Weltbekannt ist der Plattenkalk aus dem Altmühltal. Die Steinbrüche dort sind sie mehr als nur von Menschenhand geschaffene Wunden: Zwischen Schutt und Schlamm verstecken sich paläontologische Schätze und seltene Tierarten. Doch: Wie lange noch?",
       "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/leben-in-stein-gehauen-e670876/",
       "author": "Marlene Kobloch",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637250/208x156"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637081/208x156"
     },
     {
       "title": "Höhepunkt der Perseiden-Sternschnuppen",
