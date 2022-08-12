@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-12T21:19:16",
+  "timestamp": "2022-08-12T22:22:36",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.0-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.0-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6d8a40c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.d4478a75.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0a81e763.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.33ef29a1.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Auto brennt vollständig aus : Mercedes fackelt ab – Brandstiftung?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-mercedes-fackelt-in-bischofswerda-ab-brandstiftung-80991198.bild.html",
-      "image_url": "https://images.bild.de/62f6781b60a3e73b21ea4d0c/1170d205af61b1ed552f036c68f0ad59,f0e238b7?w=656",
-      "image_title": "Sachsen: Mercedes fackelt in Bischofswerda ab – Brandstiftung?"
-    },
-    {
-      "title": "Tierquälerei in Thüringen : 15 Haustiere aus Massenhaltung gerettet",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-15-haustiere-aus-massenhaltung-in-sonneberg-gerettet-80992804.bild.html",
-      "image_url": "https://images.bild.de/62f6ac21b910447030412fca/46f4c6d05e57bb2a2aee1e5d456852d2,614819ee?w=320",
-      "image_title": "Thüringen: 15 Haustiere aus Massenhaltung in Sonneberg gerettet"
-    },
-    {
-      "title": "2060 Kilometer in fünf Tagen : Irre Radtour durch die Mongolei",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringer-macht-irre-radtour-durch-die-mongolei-2060-kilometer-in-5-tagen-80992720.bild.html",
-      "image_url": "https://images.bild.de/62f6a93b9caeb921f7dae472/736b783507351fe7c749fb527655e31b,f15ddb34?w=320",
-      "image_title": "Thüringer macht irre Radtour durch die Mongolei – 2060 Kilometer in 5 Tagen"
-    },
-    {
-      "title": "Polen-Premier behauptet : Chemie-Abfälle mit Absicht in die Oder gekippt",
-      "url": "https://www.bild.de/news/inland/news-inland/polen-premier-behauptet-chemie-abfaelle-mit-absicht-in-die-oder-gekippt-80989154.bild.html",
-      "image_url": "https://images.bild.de/62f658e8fbbe6d6fd2136820/06d5e0b5140ed179010a660f81abf969,9c86f4ac?w=320",
-      "image_title": "Polen-Premier behauptet: Chemie-Abfälle mit Absicht in die Oder gekippt"
-    },
-    {
-      "title": "500 Kameraden gegen das Flammenmeer : Feuerwald Harz – der Nationalpark brennt",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/waldbrand-im-harz-so-heftig-brennt-es-im-nationalpark-harz-80992650.bild.html",
-      "image_url": "https://images.bild.de/62f6a6e09caeb921f7dae46d/98f6326c62e4f1838660ec21eeb5e0d4,eb472234?w=320",
-      "image_title": "Waldbrand im Harz: So heftig brennt es im Nationalpark Harz"
-    },
-    {
-      "title": "Gerichtsmediziner sagt aus : So brutal wurde Jesse L. (†19) ermordet",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-gerichtsmediziner-sagt-im-mordprozess-aus-so-starb-jesse-l-19-80989770.bild.html",
-      "image_title": "Leipzig: Gerichtsmediziner sagt im Mordprozess aus – So starb Jesse L. (19)"
-    },
-    {
-      "title": "Tragischer Unfall : Frau (55) stürzt von Fahrrad – tot",
-      "teaser": "Eine 55-Jährige verunglückte mit ihrem Fahrrad und erlitt tödliche Verletzungen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-frau-55-stuerzt-von-fahrrad-tot-80989948.bild.html",
-      "image_title": "Sachsen: Frau (55) stürzt von Fahrrad – tot"
-    },
-    {
-      "title": "Polizisten-Killer : „Mach, sonst leg ich dich nebendran“",
-      "teaser": "Im Prozess um Polizisten-Morde gab's Details zu einer Tatortbegehung mit dem Komplizen.",
-      "url": "https://www.bild.de/regional/saarland/frankfurt-aktuell/kusel-polizisten-killer-mach-sonst-leg-ich-dich-nebendran-80986944.bild.html",
-      "image_title": "Polizistenmord Kusel: Killer zu Komplizen: „Mach, sonst leg ich dich nebendran“"
-    },
-    {
-      "title": "Familie saß neben ihrer Leiche : Tote Frau aus Flugzeug immer noch in Frankfurt",
-      "teaser": "Helen starb auf einem Flug nach Frankfurt – ihre Leiche liegt eine Woche später noch in der Rechtsmedizin.",
-      "url": "https://www.bild.de/regional/frankfurt/news-ausland/helen-rhodes-starb-auf-flug-todesursache-wird-ermittelt-leiche-noch-immer-in-fra-80986256.bild.html",
-      "image_title": "Helen Rhodes starb auf Flug: Todesursache wird ermittelt – Leiche noch immer in Frankfurt"
-    },
-    {
-      "title": "Entwarnung nach Giftalarm : Kobra entpuppt sich als Gummischlange",
-      "teaser": "Entwarnung in Neustrelitz (21 400 Einwohner). Die gesichtete Kobra ist aus Gummi!",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/giftschlangen-alarm-polizei-warnt-vor-kobra-in-der-innenstadt-80983314.bild.html",
-      "image_title": "Neustrelitz: Kobra entpuppt sich als Gummischlange"
-    },
-    {
-      "title": "Ameisenkönig aus Erfurt : Erfurter lebt mit einer Million Ameisen zusammen",
-      "teaser": "Er ist der Ameisenkönig unter einer Million Ameisenweibchen: Grundschullehrer Kevin Kolbe!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-lehrer-kevin-kolbe-lebt-mit-einer-million-ameisen-zusammen-80982334.bild.html",
-      "image_title": "Thüringen: Lehrer Kevin Kolbe lebt mit einer Million Ameisen zusammen"
-    },
-    {
-      "title": "Bad Fallingbostel, Wuppertal, Solingen : Dreimal Messer-Horror in 21 Stunden",
-      "teaser": "Ein Dreifach-Vater und eine junge Mutter starben – eine Mitarbeiterin im Ausländeramt wurde verletzt.",
-      "url": "https://www.bild.de/news/inland/news-inland/bad-fallingbostel-wuppertal-solingen-dreimal-messer-horror-in-21-stunden-80982418.bild.html",
-      "image_title": "Bad Fallingbostel, Wuppertal, Solingen: Dreimal Messer-Horror in 21 Stunden"
-    },
-    {
-      "title": "Große Anteilnahme für Feuerwehrmann : Spendenziel für Morris (20) erreicht",
-      "teaser": "Gemeinsam haben sie es geschafft. Mehr als 22 000 Euro konnten für Morris gesammelt werden.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-spendenziel-fuer-verunglueckten-feuerwehrmann-morris-20-erreicht-80982892.bild.html",
-      "image_title": "Leipzig: Spendenziel für verunglückten Feuerwehrmann Morris (20) erreicht"
-    },
-    {
-      "title": "Großeinsatz im Nationalpark : Wieder Feuer-Alarm im Harz",
-      "teaser": "Die Rauchwolken waren kilometerweit sichtbar! Der Wald im Nationalpark Harz steht in Flammen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/waldbrand-im-harz-wieder-feuer-alarm-im-nationalpark-bei-schierke-80982852.bild.html",
-      "image_title": "Waldbrand im Harz: Wieder Feuer-Alarm im Nationalpark bei Schierke"
-    },
-    {
-      "title": "Illegale Autorennen und Körperverletzungen : Anwohner trauen sich nicht mehr an ihren See",
-      "teaser": "Bei den Einwohnern ist das Treiben der Traveller Dauerthema. Es herrschen Wut und Angst!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-anwohner-trauen-sich-nicht-mehr-an-den-grossen-schachtsee-80982538.bild.html",
-      "image_title": "Sachsen-Anhalt: Anwohner trauen sich nicht mehr an den Großen Schachtsee"
-    },
-    {
-      "title": "Rettungshubschrauber im Einsatz : Schwerverletzter bei Gasexplosion auf SMS-Festival",
-      "teaser": "Explosion auf Deutschlands größter Techno-Party an der Bleilochtalsperre!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/sms-festival-bei-schleiz-schwerverletzter-bei-gasexplosion-auf-sonnemondsterne-80982048.bild.html",
-      "image_title": "SMS-Festival bei Schleiz: Schwerverletzter bei Gasexplosion auf SonneMondSterne"
-    },
-    {
-      "title": "Quecksilber-Alarm : In der Oder schwimmt nur noch der Tod",
-      "teaser": "Tausende verendete Fische werden seit Tagen im polnischen Grenzgebiet an die Ufer gespült.",
-      "url": "https://www.bild.de/news/inland/news-inland/frankfurt-oder-in-der-oder-schwimmt-nur-noch-der-tod-80979512.bild.html",
-      "image_title": "Frankfurt (Oder): In der Oder schwimmt nur noch der Tod – Quecksilber-Alarm!"
-    },
-    {
-      "title": "20 Jahre nach der Jahrhundertflut : „Es gibt immer ein Restrisiko“",
-      "teaser": "Jahrhundertflut 2002: Die Zerstörungen durch das Mulde-Hochwasser waren in Grimma enorm.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/jahrhundertflut-in-sachsen-2002-ein-restrisiko-besteht-immer-80978048.bild.html",
-      "image_title": "Jahrhundertflut in Sachsen 2002: „Ein Restrisiko besteht immer!“"
-    },
-    {
-      "title": "Ayleens Killer Jan-Heiko P. (29) : Als die Freundin Schluss macht, beginnt die Jagd!",
-      "teaser": "Immer mehr Verfahren kommen über Jan-Heiko P. (29) ans Licht. Warum wurde er nicht gestoppt?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news/anzeigen-verfahren-warum-wurde-ayleens-killer-nicht-gestoppt-80931170.bild.html",
-      "image_title": "Fall Ayleen: Killer Jan-Heiko: Als die Freundin Schluss macht, beginnt die Jagd!"
-    },
-    {
-      "title": "Waffen und 1500 Pflanzen sichergestellt : SEK findet Cannabis-Plantage auf Bauernhof",
-      "teaser": "Großeinsatz für die Polizei! Auf einem Bauernhof wurde eine riesige Indoor-Plantage entdeckt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-sek-findet-cannabis-plantage-auf-bauernhof-80978044.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: SEK findet Cannabis-Plantage auf Bauernhof"
-    },
-    {
-      "title": "Traurige Gewissheit in Sachsen : Mann tot aus Badesee geborgen",
-      "teaser": "Die Suche nach einem vermissten Schwimmer endet tragisch. Polizeitaucher fanden eine Leiche.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-mann-tot-aus-badesee-birkwitz-geborgen-80980510.bild.html",
-      "image_title": "Sachsen: Mann tot aus Badesee Birkwitz geborgen"
-    },
-    {
-      "title": "10 Jahre nach dem Rentermord : Mutmaßlicher Killer von Christa S. (†77) gefasst",
-      "teaser": "Zehn Jahre nach dem brutalen Mord konnte die Polizei einen Tatverdächtigen schnappen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-mutmasslicher-killer-von-christa-s-aus-wegeleben-gefasst-80978868.bild.html",
-      "image_title": "Sachsen-Anhalt: Mutmaßlicher Killer von Christa S. aus Wegeleben gefasst"
-    },
-    {
-      "title": "Experten geben nur noch wenige Jahre : Deutsche Gletscher schmelzen in Rekordtempo",
-      "teaser": "Die ohnehin im Sterben liegenden deutschen Gletscher leiden unter einer Extremschmelze.",
-      "url": "https://www.bild.de/news/inland/news-inland/deutsche-gletscher-schmelzen-schneller-experten-geben-nur-noch-wenige-jahre-80977076.bild.html",
-      "image_title": "Deutsche Gletscher schmelzen schneller – Experten geben nur noch wenige Jahre"
-    },
-    {
-      "title": "Bluttat in Solingen : Messer-Opfer hinterlässt eine Woche altes Baby",
-      "teaser": "Grausamer Messer-Mord in Solingen, ein 31-Jähriger wurde erstochen.",
-      "url": "https://www.bild.de/regional/duesseldorf/news-inland/mann-stirbt-bei-messer-mord-in-solingen-80971750.bild.html",
-      "image_title": "Mann stirbt bei Messer-Mord in Solingen"
-    },
-    {
-      "title": "Kinder misshandelten Kinder : Hausdurchsuchung bei Brutalo-Kids aus Weinheim",
-      "teaser": "Durch ein Gewaltvideo im Netz gerieten zwei Kinder in den Fokus der Ermittler.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/kinder-misshandelten-kinder-hausdurchsuchung-bei-brutalo-kids-80973992.bild.html",
-      "image_title": "Weinheim: Kinder misshandelten Kinder – Hausdurchsuchung bei Brutalo-Kids"
-    },
-    {
-      "title": "Feuerwehrleute schwer verletzt : Gewaltige Explosion bei Großbrand in Gärtnerei",
-      "url": "https://www.bild.de/video/clip/video/feuerwehrleute-schwer-verletzt-gewaltige-explosion-bei-grossbrand-in-gaertnerei-80992830,auto=true.bild.html",
-      "image_title": "Feuerwehrleute schwer verletzt: Gewaltige Explosion bei Großbrand in Gärtnerei"
-    },
-    {
-      "title": "Mindestens 34 Verletzte im Legoland : In dieser Achterbahn geschah der Unfall",
-      "url": "https://www.bild.de/video/clip/video/mindestens-9-verletzte-im-legoland-achterbahn-unfall-in-deutschland-80979650,auto=true.bild.html",
-      "image_title": "Mindestens 9 Verletzte im Legoland: Achterbahn-Unfall in Deutschland"
-    },
-    {
-      "title": "Polizei steht vor einem Rätsel : Tausende tote Fische in der Oder",
-      "url": "https://www.bild.de/video/clip/video/gift-im-wasser-tausende-tote-fische-in-der-oder-80978932,auto=true.bild.html",
-      "image_title": "Polizei steht vor einem Rätsel: Tausende tote Fische in der Oder"
-    }
-  ]
+  "articles": []
 }
