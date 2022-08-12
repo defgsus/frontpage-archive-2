@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-12T22:22:21",
+  "timestamp": "2022-08-12T23:20:46",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.0-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.0-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6d8a40c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.d4478a75.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0a81e763.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.33ef29a1.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Seit 19 Tagen Kran-Wahnsinn in NRW : Warum holt ihn keiner runter?",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/seit-19-tagen-auf-kran-in-muenster-warum-holt-niemand-den-messie-runter-80988924.bild.html",
-      "image_title": "Seit 19 Tagen auf Kran in Münster: Warum holt niemand den Messie runter?"
-    },
-    {
-      "title": "Tomasos (6) toller Tag : So viel kostet Einschulung",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/tomasos-6-toller-tag-so-viel-kostet-einschulung-80980918.bild.html",
-      "image_title": "Tomasos (6) toller Tag: So viel kostet Einschulung"
-    },
-    {
-      "title": "Er hielt sogar ein Schild im Arm : Lkw-Fahrer liegt an Autobahn – und keiner hilft",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/essen-lkw-fahrer-liegt-am-fahrbahnrand-und-keiner-hilft-80986962.bild.html",
-      "image_title": "Essen: Lkw-Fahrer liegt am Fahrbahnrand – und keiner hilft"
-    },
-    {
-      "title": "In Berlin-Grunewald : Großeinsatz wegen Kampfstoffen in Nobel-Siedlung",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-grosseinsatz-im-grunewald-polizei-durchsucht-haus-auf-kampfstoffe-80993302.bild.html",
-      "image_title": "Berlin: Großeinsatz im Grunewald – Polizei durchsucht Haus auf Kampfstoffe"
-    },
-    {
-      "title": "Rolf Eden wurde 92 Jahre alt : Deutschlands letzter großer Playboy ist tot",
-      "teaser": "Deutschlands letzter großer Playboy ist tot. Und mit Rolf Eden stirbt eine Ära.",
-      "url": "https://www.bild.de/regional/berlin/berlin-leute/rolf-eden-wurde-92-jahre-alt-deutschlands-letzter-grosser-playboy-ist-tot-80987522.bild.html",
-      "image_title": "Rolf Eden wurde 92 Jahre alt: Deutschlands letzter großer Playboy ist tot"
-    },
-    {
-      "title": "Gastronomie Rücken gekehrt : Früher Spitzen-Koch, heute an der Supermarkt-Theke",
-      "teaser": "Früher hat Jens Heber (36) erlesene Gerichte kredenzt, heute serviert er Leberkäse.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-frueher-spitzen-koch-heute-an-der-rewe-imbisstheke-80985880.bild.html",
-      "image_title": "Berlin: Früher Spitzen-Koch, heute an der Rewe-Imbisstheke"
-    },
-    {
-      "title": "Vorsicht vor dem weißen Riesen : Kalajdzic ist Werders größte Sorge",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-vorsicht-vor-dem-riesen-sasa-kalajdzic-ist-die-groesste-sorge-80985508.bild.html",
-      "image_title": "Werder Bremen: Vorsicht vor dem Riesen: Sasa Kalajdzic ist die größte Sorge"
-    },
-    {
-      "title": "Nach Werder-Fan-Ärger in Wolfsburg : Minister spricht jetzt von Polizei-Fehler",
-      "teaser": "Neue Erkenntnisse bei der Aufarbeitung des umstrittenen Polizei-Einsatzes in Wolfsburg.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-nach-fan-aerger-in-wolfsburg-minister-spricht-jetzt-von-polizei-fe-80988548.bild.html",
-      "image_title": "Werder Bremen: Nach Fan-Ärger in Wolfsburg: Minister spricht jetzt von Polizei-Fehler"
-    },
-    {
-      "title": "Nasenbeinbruch : Werder: Pavlenka als Masken-Mann gegen Stuttgart",
-      "teaser": "Jiri Pavlenka trägt wegen eines Nasenbeinbruchs eine Gesichtsmaske.",
-      "url": "https://www.bild.de/sport/fussball/fussball/werder-bremen-nasenbeinbruch-jiri-pavlenka-als-masken-mann-gegen-vfb-stuttgart-80985738.bild.html",
-      "image_title": "Werder Bremen: Nasenbeinbruch: Jiri Pavlenka als Masken-Mann gegen VfB Stuttgart"
-    },
-    {
-      "title": "Kaum einer glaubte an seinen Erfolg : Sein Tagebau-Wein räumt Preise ab",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/lausitz-der-tagebau-wein-von-andreas-wobar-raeumt-preise-ab-80991600.bild.html",
-      "image_title": "Lausitz: Der Tagebau-Wein von Andreas Wobar räumt Preise ab"
-    },
-    {
-      "title": "Tino Günther legt Amt nieder : Grapsch-Affäre um FDP-Vize – Rücktritt",
-      "teaser": "Die sächsische FDP verliert ihren Vize-Chef. Nach der Grapsch-Affäre legt er sein Amt nieder.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-nach-grapsch-affaere-um-fdp-vize-ruecktritt-von-tino-guenther-80991322.bild.html",
-      "image_title": "Sachsen: Nach Grapsch-Affäre um FDP-Vize – Rücktritt von Tino Günther"
-    },
-    {
-      "title": "Vom Geretteten zum Retter : „Die Flut 2002 brachte mich zum THW!“",
-      "teaser": "Ralf Mancke (53) wurde vom Geretteten zum Retter und engagiert sich seit dem Hochwasser 2002 beim THW.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/hochwasser-in-sachsen-2002-ralf-mancke-die-flut-2002-brachte-mich-zum-thw-80991406.bild.html",
-      "image_title": "Hochwasser in Sachsen 2002: Ralf Mancke –„Die Flut 2002 brachte mich zum THW!“"
-    },
-    {
-      "title": "Auto brennt vollständig aus : Mercedes fackelt ab – Brandstiftung?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-mercedes-fackelt-in-bischofswerda-ab-brandstiftung-80991198.bild.html",
-      "image_title": "Sachsen: Mercedes fackelt in Bischofswerda ab – Brandstiftung?"
-    },
-    {
-      "title": "20 Jahre nach dem Hochwasser : Milbradt: „Es ist immer noch nicht alles fertig“",
-      "teaser": "In gelben Gummistiefeln managte 2002 Sachsens damaliger MP Georg Milbradt (CDU) die Flut.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/hochwasser-in-sachsen-damaliger-mp-milbradt-es-ist-immer-noch-nicht-alles-fertig-80992218.bild.html",
-      "image_title": "Hochwasser in Sachsen: Damaliger MP Milbradt: „Es ist immer noch nicht alles fertig“"
-    },
-    {
-      "title": "Nach geplatzter Bürgermeisterwahl : OB Hilbert verteidigt seine Entscheidung",
-      "teaser": "OB Hilbert (50, FDP) steht in der Kritik. Er verweigerte seine Zustimmung und ließ die Abstimmung platzen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-ob-hilbert-verteidigt-seine-entscheidung-zur-geplatzen-wahl-80990360.bild.html",
-      "image_title": "Dresden: OB Hilbert verteidigt seine Entscheidung zur geplatzen Wahl"
-    },
-    {
-      "title": "Dramatische Geschichte vor 127 Jahren : Trockenheit lässt Wrack auftauchen",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/emmerich-trockenheit-laesst-altes-schiffswrack-auftauchen-80987846.bild.html",
-      "image_title": "Emmerich: Trockenheit lässt altes Schiffswrack auftauchen"
-    },
-    {
-      "title": "Streit um Minifiguren vor Gericht : Sieg für Lego!",
-      "teaser": "Es ging um Plagiate aus China und endete mit einem Sieg für das Original.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-parderborn-streit-um-minifiguren-vor-gericht-sieg-fuer-lego-80989330.bild.html",
-      "image_title": "Düsseldorf/Paderborn: Streit um Minifiguren vor Gericht – Sieg für Lego!"
-    },
-    {
-      "title": "„Noch Luft nach oben” : Farke macht Thuram Beine!",
-      "teaser": "Marcus Thuram kämpft sich zurück in die Herzen der Fans – der Trainer will noch mehr...",
-      "url": "https://www.bild.de/sport/fussball/fussball/noch-luft-nach-oben-farke-macht-thuram-beine-80980158.bild.html",
-      "image_title": "Borussia Mönchengladbach: Daniel Farke macht Marcus Thuram Beine!"
-    },
-    {
-      "title": "Kilometerweite Rauchsäule : Waldbrand-Alarm im Lahn-Dill-Kreis",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kilometerweite-rauchsaeule-waldbrand-alarm-im-lahn-dill-kreis-80992622.bild.html",
-      "image_title": "Kilometerweite Rauchsäule: Waldbrand-Alarm im Lahn-Dill-Kreis"
-    },
-    {
-      "title": "Sie huldigen dem King : Bad Nauheim im Elvis-Fieber",
-      "teaser": "In der Wetterau steigt das 20. „European Elvis Festival“.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/sie-huldigen-dem-king-bad-nauheim-im-elvis-fieber-80990810.bild.html",
-      "image_title": "Sie huldigen dem King: Bad Nauheim im Elvis-Fieber"
-    },
-    {
-      "title": "Die Schimpf-Schau : Diese Ausstellung zeigt, warum uns Fluchen gut tut",
-      "teaser": "Fluchen ist vernünftig, zeigt die neue Ausstellung „Potz! Blitz!“ in Frankfurt.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/die-schimpf-schau-diese-ausstellung-zeigt-warum-uns-fluchen-gut-tut-80988830.bild.html",
-      "image_title": "Die Schimpf-Schau: Diese Ausstellung zeigt, warum uns Fluchen gut tut"
-    },
-    {
-      "title": "Blutbad nach Erb-Streit im Villenviertel : Mit 80 Stichen metzelte er seine Schwester tot",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/blutbad-nach-erb-streit-im-villenviertel-mit-80-stichen-metzelte-er-schwester-as-80985074.bild.html",
-      "image_title": "Blutbad nach Erb-Streit im Villenviertel: Mit 80 Stichen metzelte er seine Schwester tot"
-    },
-    {
-      "title": "Illegaler Salami-Schmuggel : Die Wurst hatte keine WAL",
-      "teaser": "Zollbeamte erwischen immer häufiger Touristen,, die illegal Wal-Salami ins Land schmuggeln wollen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/illegaler-salami-schmuggel-die-wurst-hatte-keine-wal-80988262.bild.html",
-      "image_title": "Illegaler Salami-Schmuggel: Die Wurst hatte keine WAL"
-    },
-    {
-      "title": "Alle wollen Kaminöfen : Heißer Sommer für Schornsteinfeger",
-      "teaser": "Hamburg - Viele wollen plötzlich einen Kaminofen und suchen Rat bei Frauen und Männern in Schwarz.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/alle-wollen-kaminoefen-heisser-sommer-fuer-schornsteinfeger-80985112.bild.html",
-      "image_title": "Alle wollen Kaminöfen: Heißer Sommer für Schornsteinfeger"
-    },
-    {
-      "title": "Altkanzler will Sonderrechte zurück : Gas-Gerd verklagt Bundestag",
-      "url": "https://www.bild.de/politik/inland/politik-inland/er-will-seine-sonderrechte-zurueck-gerhard-schroeder-verklagt-bundestag-80983258.bild.html",
-      "image_title": "Gerhard Schröder verklagt Bundestag: Alt-Kanzler will Sonderrechte zurück"
-    },
-    {
-      "title": "Schneverdingen im Heidekreis : Im Dachstuhl wüten die Flammen",
-      "teaser": "Schneverdingen – Nachbarn wecken um 2.26 Uhr eine Familie – weil deren Dachstuhl brennt!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/schneverdingen-im-heidekreis-im-dachstuhl-wueten-die-flammen-80985828.bild.html",
-      "image_title": "Schneverdingen im Heidekreis: Im Dachstuhl wüten die Flammen"
-    },
-    {
-      "title": "Schlafplatz von Obdachlosen angezündet : Feuertod in Celle bleibt ungesühnt",
-      "teaser": "18 Monate nach dem Feuer-Tod von Robert M. wird das Verfahren eingestellt.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schlafplatz-von-obdachlosen-angezuendet-feuertod-bleibt-ungesuehnt-80983508.bild.html",
-      "image_title": "Schlafplatz von Obdachlosen angezündet: Feuertod bleibt ungesühnt"
-    },
-    {
-      "title": "Fehervar-Trainer Michael Boris : „Das ,Trömmelche‘ will ich in Köln nicht hören“",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-fehervar-trainer-michael-boris-das-troemmelche-will-ich-in-koeln-nich-80992064.bild.html",
-      "image_title": "1. FC Köln: Fehervar-Trainer Michael Boris: „Das ,Trömmelche‘ will ich in Köln nicht hören“"
-    },
-    {
-      "title": "Keine Perspektive bei RB : Zeigt es Martel jetzt Leipzig?",
-      "teaser": "Neuzugang Eric Martel trifft mit dem 1. FC Köln auf seinen Ex-Klub RB Leipzig.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-keine-perspektive-bei-rb-zeigt-es-martel-jetzt-leipzig-80992776.bild.html",
-      "image_title": "1. FC Köln: Keine Perspektive bei RB: Zeigt es Martel jetzt Leipzig?"
-    },
-    {
-      "title": "Stämme gefällt für eine bessere Aussicht : Stadt Köln jagt Baum-Frevler",
-      "teaser": "Anwohner fällten sie, um besser auf den Rhein blicken zu können. Anzeige von der Stadt!",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-stadt-jagt-baum-frevler-staemme-gefaellt-fuer-bessere-aussicht-80989434.bild.html",
-      "image_title": "Köln – Stadt jagt Baum-Frevler: Stämme gefällt für bessere Aussicht"
-    },
-    {
-      "title": "Nach 2:2 bei Viktoria weiter ungeschlagen : Lok rettet einen Punkt in Berlin",
-      "url": "https://www.bild.de/sport/fussball/fussball/2-2-bei-viktoria-der-1-fc-lok-rettet-einen-punkt-in-berlin-80992506.bild.html",
-      "image_title": "2:2 bei Viktoria: Der 1. FC Lok rettet einen Punkt in Berlin"
-    },
-    {
-      "title": "Gerichtsmediziner sagt aus : So brutal wurde Jesse L. (†19) ermordet",
-      "teaser": "Der Prozess um den Mord an Jesse L. wurde am Freitag zur Leichenschau.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-gerichtsmediziner-sagt-im-mordprozess-aus-so-starb-jesse-l-19-80989770.bild.html",
-      "image_title": "Leipzig: Gerichtsmediziner sagt im Mordprozess aus – So starb Jesse L. (19)"
-    },
-    {
-      "title": "12 Mio.-Neuzugang nur Bankdrücker : Warum Schlager bei Leipzig kein Hit ist",
-      "teaser": "12 Mio. Euro zahlte RB Leipzig für Xaver Schlager. Ein Hit ist er allerdings noch nicht!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/rb-leipzig/nur-bankdruecker-warum-xaver-schlager-bei-rb-leipzig-kein-hit-ist-80989270.bild.html",
-      "image_title": "Nur Bankdrücker: Warum Xaver Schlager bei RB Leipzig kein Hit ist"
-    },
-    {
-      "title": "Darmstadt – Rostock : Abwehr-Härtetest und Standard-Chance für Rhein",
-      "url": "https://www.bild.de/sport/fussball/fussball/darmstadt-rostock-abwehr-haertetest-und-standard-chance-fuer-rhein-80991904.bild.html",
-      "image_title": "Darmstadt – Rostock: Abwehr-Härtetest und Standard-Chance für Rhein"
-    },
-    {
-      "title": "Entwarnung nach Giftalarm : Kobra entpuppt sich als Gummischlange",
-      "teaser": "Entwarnung in Neustrelitz (21 400 Einwohner). Die gesichtete Kobra ist aus Gummi!",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/giftschlangen-alarm-polizei-warnt-vor-kobra-in-der-innenstadt-80983314.bild.html",
-      "image_title": "Neustrelitz: Kobra entpuppt sich als Gummischlange"
-    },
-    {
-      "title": "Waffen und 1500 Pflanzen sichergestellt : SEK findet Cannabis-Plantage auf Bauernhof",
-      "teaser": "Großeinsatz für die Polizei! Auf einem Bauernhof wurde eine riesige Indoor-Plantage entdeckt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-sek-findet-cannabis-plantage-auf-bauernhof-80978044.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: SEK findet Cannabis-Plantage auf Bauernhof"
-    },
-    {
-      "title": "Kochen im Naturschutzgebiet : Gulasch führt zu Anzeige",
-      "teaser": "Anzeige weil er Gulasch über einem offenen Feuer in einem Naturschutzgebiet in Schwaben gekocht hat",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/kochen-im-naturschutzgebiet-gulasch-fuehrt-zu-anzeige-80988130.bild.html",
-      "image_title": "Kochen im Naturschutzgebiet: Gulasch führt zu Anzeige"
-    },
-    {
-      "title": "Energie-Spar-Idee des Sommers? : Hier heizt man bald mit Abwasser",
-      "teaser": "Volles Rohr gegen die Energie-Krise! In Bamberg wird bald mit Abwasser geheizt.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mit-der-waerme-des-abwassers-hier-heizen-kleine-und-grosse-geschaefte-80983860.bild.html",
-      "image_title": "Bamberg: Energie-Spar-Idee des Sommers? Heizen mit Abwasser-Wärme"
-    },
-    {
-      "title": "Endlich erster Fürth-Sieg? : Schneider setzt auf Stimmungshoch",
-      "url": "https://www.bild.de/sport/fussball/fussball/endlich-erster-fuerth-sieg-schneider-setzt-auf-stimmungshoch-80992448.bild.html",
-      "image_title": "Endlich erster Fürth-Sieg? : Schneider setzt auf Stimmungshoch"
-    },
-    {
-      "title": "Schutzengel flog mit : Falke überlebt Crash mit Auto",
-      "teaser": "Dieser Falke hatte einen Schutzengel dabei!",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/schutzengel-flog-mit-falke-ueberlebt-crash-mit-auto-80985618.bild.html",
-      "image_title": "Weiden in der Oberpfalz: Falke überlebt Crash mit Auto"
-    },
-    {
-      "title": "Anleitung vom DDR-Meister : Wie auch SIE Ihren ersten Klimmzug schaffen!",
-      "teaser": "Jeder kann einen Klimmzug schaffen! Ein Personal-Trainer erklärt die effektivsten Tricks.",
-      "url": "https://www.bild.de/bild-plus/lifestyle/wellness-fitness/wellness-und-fitness/klimmzug-kann-jeder-fitnesstraining-fuer-den-ersten-pull-up-80905276.bild.html",
-      "image_title": "Klimmzug kann jeder! Fitnesstraining für den ersten Pull-up"
-    },
-    {
-      "title": "Fanatischer Waffensammler und Nazi : Das ist der Ex-Soldat, der sich in die Luft sprengte",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/attendorn-das-ist-der-ex-soldat-und-nazi-der-sich-in-die-luft-sprengte-80991758.bild.html",
-      "image_title": "Attendorn: Das ist der Ex-Soldat und Nazi, der sich in die Luft sprengte"
-    },
-    {
-      "title": "Dramatischer Einsatz in NRW : Junge (14) ertrinkt in Kanal",
-      "teaser": "Beim Schwimmen mit Freunden ist ein Junge (14) beim im Kanal untergegangen!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dramatischer-einsatz-in-marl-junge-14-leblos-aus-kanal-gezogen-80990706.bild.html",
-      "image_title": "Dramatischer Einsatz in Marl (NRW): Junge (14) ertrinkt in Kanal"
-    },
-    {
-      "title": "Zwei Feuerwehrleute in Spezialklinik : Explosion bei Großbrand in Gärtnereigebäude",
-      "teaser": "Dichter Rauch ist kilometerweit zu sehen, bei der Explosion klirrten Scheiben in ganz Goch.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/goch-explosion-bei-brand-in-gaertnerei-zwei-feuerwehrleute-schwer-verletzt-80991118.bild.html",
-      "image_title": "Goch: Explosion bei Brand in Gärtnerei - zwei Feuerwehrleute schwer verletzt"
-    },
-    {
-      "title": "Mit Bande 30 Mio. ergaunert : 12 Jahre Knast für Abzock-Azem",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/mit-bande-30-mio-ergaunert-12-jahre-knast-fuer-abzock-azem-80989606.bild.html",
-      "image_title": "Mit Bande 30 Mio. ergaunert: 12 Jahre Knast für Abzock-Azem"
-    },
-    {
-      "title": "1. FC Saarbrücken in Ingolstadt : Baller-Duell entscheidet Top-Spiel!",
-      "teaser": "Top-Spiel in Liga 3! Der Dritte Saarbrücken muss Samstag zum Zweiten Ingolstadt.",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-in-ingolstadt-baller-duell-entscheidet-top-spiel-80988338.bild.html",
-      "image_title": "1. FC Saarbrücken in Ingolstadt: Baller-Duell entscheidet Top-Spiel!"
-    },
-    {
-      "title": "Toter Anwalt : Polizei verweigert Auskunft zu Amok-Einsatz",
-      "teaser": "Die internen Ermittlungen sind abgeschlossen, die Polizei schweigt zu möglichen Fehlern.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/toter-anwalt-polizei-verweigert-auskunft-zu-amok-einsatz-80989884.bild.html",
-      "image_title": "Toter Anwalt: Polizei verweigert Auskunft zu Amok-Einsatz"
-    },
-    {
-      "title": "500 Kameraden gegen das Flammenmeer : Feuerwald Harz – der Nationalpark brennt",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/waldbrand-im-harz-so-heftig-brennt-es-im-nationalpark-harz-80992650.bild.html",
-      "image_title": "Waldbrand im Harz: So heftig brennt es im Nationalpark Harz"
-    },
-    {
-      "title": "Modell-Eisenbahn in Sachen-Anhalt : In meinem Garten bin ich der Lokführer",
-      "teaser": "Lutz Ruckhardt (60) kann in seinem Garten Eisenbahnfahren. Er selbst ist der Schaffner der Mini-Bahn.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachen-anhalt-in-seinem-garten-faehrt-eine-modelleisenbahn-und-er-ist-der-schaff-80992528.bild.html",
-      "image_title": "Sachen-Anhalt: In seinem Garten fährt eine Modelleisenbahn und er ist der Schaffner"
-    },
-    {
-      "title": "2:0-Sieg gegen Oldenburg : HFC feiert den ersten Dreier",
-      "teaser": "Erlösung beim Halleschen FC: 2:0 (0:0) gewinnen die Rot-Weißen gegen den Aufsteiger.",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-2-0-sieg-gegen-oldenburg-hfc-feiert-den-ersten-dreier-80991874.bild.html",
-      "image_title": "3. Liga: 2:0-Sieg gegen Oldenburg – HFC feiert den ersten Dreier"
-    },
-    {
-      "title": "Führerschein weg : Autofahrerin mit vier Promille unterwegs",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/fuehrerschein-weg-autofahrerin-mit-vier-promille-unterwegs-80988310.bild.html",
-      "image_title": "Führerschein weg: Autofahrerin mit vier Promille unterwegs"
-    },
-    {
-      "title": "Rekordzahlen bei LVMH, Prada und Co. : Warum Sie jetzt auf Luxus-Aktien setzen sollten",
-      "teaser": "Krisen-Angst? Nicht bei den Luxus-Konzernen! Sie erzielten 2022 bislang Rekordgewinne.",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/leben-und-sparen/lvmh-herms-prada-ferrari-co-warum-sie-jetzt-auf-luxus-aktien-setzen-sollten-80977536.bild.html",
-      "image_title": "LVMH, Hermès, Prada, Ferrari & co.: Warum Sie jetzt auf Luxus-Aktien setzen sollten"
-    },
-    {
-      "title": "Biker (54) hatte das Geschenk verloren : Polizei rettet Teddy von Autobahn",
-      "teaser": "Einen verlorenen Teddybären hat die Polizei in Mannheim von der Autobahn gerettet und seinem Besitzer zurückgegeben.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/biker-54-hatte-das-geschenk-verloren-polizei-rettet-teddy-von-autobahn-80986192.bild.html",
-      "image_title": "Biker (54) hatte das Geschenk verloren: Polizei rettet Teddy von Autobahn"
-    },
-    {
-      "title": "Tierquälerei in Thüringen : 15 Haustiere aus Massenhaltung gerettet",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-15-haustiere-aus-massenhaltung-in-sonneberg-gerettet-80992804.bild.html",
-      "image_title": "Thüringen: 15 Haustiere aus Massenhaltung in Sonneberg gerettet"
-    },
-    {
-      "title": "2060 Kilometer in fünf Tagen : Irre Radtour durch die Mongolei",
-      "teaser": "Diese 2060 Kilometer wurden selbst für Thüringens bekanntesten Extremsportler zur Tour der Qualen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringer-macht-irre-radtour-durch-die-mongolei-2060-kilometer-in-5-tagen-80992720.bild.html",
-      "image_title": "Thüringer macht irre Radtour durch die Mongolei – 2060 Kilometer in 5 Tagen"
-    },
-    {
-      "title": "Jena will drei Punkte in Berlin : Mit Gipson gegen den TeBe-Fluch",
-      "teaser": "Am Sonntag soll es dem TeBe-Fluch endlich an den Kragen gehen! Ab 13 Uhr spielt Carl Zeiss im Berliner Mommenstadion, wo der FCC noc...",
-      "url": "https://www.bild.de/sport/fussball/fussball/jena-will-drei-punkte-in-berlin-mit-gipson-gegen-den-tebe-fluch-80991858.bild.html",
-      "image_title": "Jena will drei Punkte in Berlin: Mit Gipson gegen den TeBe-Fluch"
-    }
-  ]
+  "articles": []
 }
