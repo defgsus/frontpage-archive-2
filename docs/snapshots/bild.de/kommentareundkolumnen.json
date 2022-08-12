@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-11T23:22:18",
+  "timestamp": "2022-08-12T02:04:15",
   "url": "https://www.bild.de/home/hot-on-bild/bild-kommentar/kommentare-meinungen-und-kolumnen-zu-aktuellen-themen-35874522.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.0-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.0-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,43158176.8-72042622.2.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6d8a40c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.d4478a75.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0a81e763.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f549f1a0.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Kommentar : China stoppen, bevor es zu spät ist",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-china-stoppen-bevor-es-zu-spaet-ist-80981064.bild.html",
-      "image_url": "https://images.bild.de/62f53cfd767e3657a399bc1e/90b60f5c8ce0efce4d7721c9a3779611,b5671a20?w=656",
-      "image_title": "Kommentar: China stoppen, bevor es zu spät ist"
-    },
-    {
-      "title": "Post von Wagner : Lieber Herr Bundeskanzler,",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-herr-bundeskanzler-80981132.bild.html",
-      "image_url": "https://images.bild.de/62f53e8060a3e73b21ea4b56/7d28c47b374aa9780896944ce732bf92,2676c202?w=320",
-      "image_title": "Post von Wagner: Lieber Herr Bundeskanzler,"
-    },
-    {
-      "title": "Post von Wagner : Abschied von Uwe Seeler",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-abschied-von-uwe-seeler-80970898.bild.html",
-      "image_url": "https://images.bild.de/62f4075860a3e73b21ea497c/507a5c89571a4d5b9bb035d2bdf33b9f,68eb4656?w=320",
-      "image_title": "Post von Wagner: Abschied von Uwe Seeler"
-    },
-    {
-      "title": "Kommentar zur Corona-Politik : Falsche Farbenlehre",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zur-corona-politik-falsche-farbenlehre-80970848.bild.html",
-      "image_url": "https://images.bild.de/62f40654816b9a347a5031f2/1be892035c3b2c3dba8e5c95373a45b0,92f506cb?w=320",
-      "image_title": "Kommentar zur Corona-Politik: Falsche Farbenlehre"
-    },
-    {
-      "title": "Post von Wagner : Ballermann-Sehnsucht",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-ballermann-sehnsucht-80958752.bild.html",
-      "image_url": "https://images.bild.de/62f296b0de04fb0f1bad0f24/507a5c89571a4d5b9bb035d2bdf33b9f,68eb4656?w=320",
-      "image_title": "Post von Wagner: Ballermann-Sehnsucht"
-    },
-    {
-      "title": "Kommentar : Weg mit der Isolation",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-weg-mit-der-isolation-80958866.bild.html",
-      "image_title": "Kommentar: Weg mit der Isolation"
-    },
-    {
-      "title": "Kommentar : Wo ist die FDP?",
-      "teaser": "Die FDP trat an als Partei der Technologie-Offenheit und der Freiheit. Doch davon ist nicht mehr viel zu erkennen.",
-      "url": "https://www.bild.de/politik/kolumnen/politik-inland/kommentar-wo-ist-die-fdp-80949558.bild.html",
-      "image_title": "Kommentar: Wo ist die FDP?"
-    },
-    {
-      "title": "Post von Wagner : Betrifft: Die Dürre",
-      "teaser": "Ich vermisse das Geräusch des Regens, das anfängliche Tröpfeln.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-betrifft-die-duerre-80949606.bild.html",
-      "image_title": "Post von Wagner: Betrifft: Die Dürre"
-    },
-    {
-      "title": "Kommentar zu den Corona-Plänen : Jetzt reicht’s!",
-      "teaser": "Deutschland ist zurück in der Corona-Krise. Aber nicht wegen des Virus, sondern wegen der Regeln.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zu-den-corona-plaenen-jetzt-reichts-80912492.bild.html",
-      "image_title": "Kommentar zu den Corona-Plänen: Jetzt reicht’s!"
-    },
-    {
-      "title": "Kommentar : Eigenverantwortung statt staatlicher Bevormundung!",
-      "teaser": "In mehr als zwei Jahren mit Corona haben die meisten gelernt, wie man mit dem Virus umgeht.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-eigenverantwortung-statt-staatlicher-bevormundung-80927538.bild.html",
-      "image_title": "Kommentar: Eigenverantwortung statt staatlicher Bevormundung!"
-    },
-    {
-      "title": "Kommentar zum Schlesinger-Skandal : Zurückzahlen jetzt!",
-      "teaser": "Die einstige Enthüllungsjournalistin der ARD hat den Bezug zur Realität verloren.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zum-schlesinger-skandal-zurueckzahlen-jetzt-80937118.bild.html",
-      "image_title": "Kommentar zum Schlesinger-Skandal: Zurückzahlen jetzt!"
-    },
-    {
-      "title": "Post von Wagner : Lieber Männer-Fußball,",
-      "teaser": "Die Männer der Bundesliga sollten von den Frauen lernen.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-maenner-fussball-80938548.bild.html",
-      "image_title": "Post von Wagner: Lieber Männer-Fußball,"
-    },
-    {
-      "title": "Standpunkt : Mehr Eberhofers braucht das Land",
-      "teaser": "Herz und Heimat, Humor und ­hammerharte Morde, Eberhofer erobert die deutschen Kinos.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/standpunkt-mehr-eberhofers-braucht-das-land-80927580.bild.html",
-      "image_title": "Standpunkt: Mehr Eberhofers braucht das Land"
-    },
-    {
-      "title": "Eine Frage der Haltung : Das Schöne an der Dunkelheit",
-      "teaser": "Wir übertreiben es, wenn ständig die Nacht zum Tag gemacht wird.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/margot-kaessmann-das-schoene-an-der-dunkelheit-80928668.bild.html",
-      "image_title": "Margot Käßmann: Das Schöne an der Dunkelheit"
-    },
-    {
-      "title": "Kommentar : Das Erste ist zu oft das Allerletzte",
-      "teaser": "In der ARD löst ein Skandal den anderen ab. Oft erziehen die öffentlich-rechtlichen Sender, statt neutral zu berichten (zum Beispiel...",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-das-erste-ist-zu-oft-das-allerletzte-80922338.bild.html",
-      "image_title": "Kommentar: Das Erste ist zu oft das Allerletzte"
-    },
-    {
-      "title": "Post von Wagner : Lieber Gerhard Schröder,",
-      "teaser": "Einen „Fehler“ nannten Sie Putins Krieg. Das Wort heißt Fehler.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-gerhard-schroeder-80912428.bild.html",
-      "image_title": "Post von Wagner: Lieber Gerhard Schröder,"
-    },
-    {
-      "title": "Kommentar zur Energie-Not : Die Krise ist näher, als wir denken",
-      "teaser": "Deutschland befindet sich am Vorabend einer handfesten Gas- und Stromkrise.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zur-energie-not-die-krise-ist-naeher-als-wir-denken-80901306.bild.html",
-      "image_title": "Kommentar zur Energie-Not: Die Krise ist näher, als wir denken"
-    },
-    {
-      "title": "Post von Wagner : Der Mörder aus dem Internet",
-      "teaser": "Für viele ist das Internet das Fenster zur Welt. Für Ayleens Mörder war es das Fenster zu seinem Opfer.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-der-moerder-aus-dem-internet-80901346.bild.html",
-      "image_title": "Post von Wagner: Der Mörder aus dem Internet"
-    },
-    {
-      "title": "BILD-Analyse : Neue Corona-Regeln treffen wieder die Falschen",
-      "teaser": "Die neuen Corona-Regeln sind beschlossen. Wieder leiden Gastronomen.",
-      "url": "https://www.bild.de/politik/kolumnen/politik-inland/bild-analyse-neue-corona-regeln-treffen-wieder-die-falschen-80900100.bild.html",
-      "image_title": "BILD-Analyse: Neue Corona-Regeln treffen wieder die Falschen"
-    },
-    {
-      "title": "Krasse Kreml-Propaganda im Interview : Darum ist Schröder eine Bedrohung für Deutschland",
-      "teaser": "Kreml-Lobbyist Schröder beweist: Er ist sein Geld wert – und sich für nichts zu schade.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/bild-analyse-darum-ist-gerhard-schroeder-eine-bedrohung-fuer-deutschland-80897444.bild.html",
-      "image_title": "BILD-Analyse: Darum ist Gerhard Schröder eine Bedrohung für Deutschland"
-    },
-    {
-      "title": "Kommentar : Wir dürfen nicht vor China kuschen!",
-      "teaser": "Wir lernen brutal, was es bedeutet, sich in die Abhängigkeit von Diktaturen zu begeben.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-wir-duerfen-nicht-vor-china-kuschen-80895070.bild.html",
-      "image_title": "Kommentar: Wir dürfen nicht vor China kuschen!"
-    },
-    {
-      "title": "Post von Wagner : Lieber Jackpot-Millionär",
-      "teaser": "Sie haben überlegt, ob Sie sich die 23,2 Millionen abholen sollen oder nicht.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-jackpot-millionaer-80890170.bild.html",
-      "image_title": "Post von Wagner: Lieber Jackpot-Millionär"
-    },
-    {
-      "title": "Kommentar : Der Staat hat versagt",
-      "teaser": "Wer sich einmal an einem Kind vergeht, darf nie wieder ein Leben in Freiheit und ohne strenge Aufsicht führen.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-der-staat-hat-versagt-80890136.bild.html",
-      "image_title": "Kommentar: Der Staat hat versagt"
-    },
-    {
-      "title": "Kommentar zu CDU-Chef Merz : Nicht umfallen!",
-      "teaser": "Vergangene Woche beklagte sich Merz lautstark über „Cancel Culture“ – aber ist er selbst besser?",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zu-merz-podiums-absage-nicht-umfallen-80889840.bild.html",
-      "image_title": "Kommentar zu Merz’ Podiums-Absage: Nicht umfallen!"
-    },
-    {
-      "title": "Kommentar zum Zoff um „Layla“ : Die SPD hat ihre Wähler vergessen",
-      "teaser": "Die SPD ist gegen so vieles, dass man nicht mehr weiß, wofür sie ist, meint Johannes Boie.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zum-zoff-um-layla-die-spd-hat-ihre-waehler-vergessen-80878850.bild.html",
-      "image_title": "Kommentar zum Zoff um „Layla“: Die SPD hat ihre Wähler vergessen"
-    },
-    {
-      "title": "BILD-Chef zu Schlesinger-Skandal : „Das ist ein Armutszeugnis für die ARD“",
-      "url": "https://www.bild.de/video/clip/video/bild-chef-zu-schlesinger-skandal-das-ist-ein-armutszeugnis-fuer-die-ard-80923022,auto=true.bild.html",
-      "image_title": "BILD-Chef zu Schlesinger-Skandal: „Das ist ein Armutszeugnis für die ARD“"
-    },
-    {
-      "title": "VERBOT VON REGENBOGENFARBEN : Uefa stärkt Schwulen-Hasser auf der ganzen Welt",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/allianz-arena-nicht-in-regenbogenfarben-die-verlogene-uefa-76858004,auto=true.bild.html",
-      "image_title": "Allianz Arena nicht in Regenbogenfarben: Die verlogene Uefa"
-    },
-    {
-      "title": "Kommentar zu Antisemitismus : Mir wurde beigebracht, Juden zu hassen",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/kommentar-zu-antisemitismus-mir-wurde-beigebracht-juden-zu-hassen-76467928,auto=true.bild.html",
-      "image_title": "Kommentar zu Antisemitismus: Mir wurde beigebracht, Juden zu hassen"
-    }
-  ]
+  "articles": []
 }
