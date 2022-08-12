@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-12T08:27:29",
+  "timestamp": "2022-08-12T09:20:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra",
+      "url": "https://www.heise.de/news/Groupware-Zimbra-Angreifer-missbrauchen-Sicherheitsluecken-zur-Codeausfuehrung-7218354.html"
+    },
+    {
       "title": "Zoho ManageEngine OpManager",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Zoho-ManageEngine-OpManager-7217521.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/BSI-warnt-vor-unsicherem-Funk-Tuerschloss-von-Abus-7216682.html"
     },
     {
-      "title": "VMware",
-      "url": "https://www.heise.de/news/Jetzt-handeln-Exploit-Code-fuer-VMware-Luecke-aufgetaucht-neue-Updates-verfuegbar-7216296.html"
+      "title": "Groupware Zimbra \"trivial angreifbar\" – Admins sollten schnell updaten",
+      "teaser": "Mit der Verkettung zweier Security-Bugs in der Groupware haben Angreifer seit Ende Juni tausende Zimbra-Installationen übernommen.",
+      "url": "https://www.heise.de/news/Groupware-Zimbra-Angreifer-missbrauchen-Sicherheitsluecken-zur-Codeausfuehrung-7218354.html",
+      "image_title": "Aufmacher RCE in Groupware Zimbra"
     },
     {
       "title": "Über eine Million Patientendaten einsehbar – Software zeitweise deaktiviert",
@@ -65,15 +71,15 @@
       "image_title": "Aufmacher Github Copilot erzeugt unsicheren Code"
     },
     {
+      "title": "Wie Unternehmen mit Bug Bounty Hunting die Sicherheit erhöhen und junge Fachkräfte anziehen",
+      "teaser": "Weg von Standard-Sicherheitsprüfungen hin zu Crowdsourcing-Cybersecurity: Beim Bug Bounty Hunting spüren ethische Hacker effizient Schwachstellen für Unternehmen auf. Viele junge IT-Experten wenden sich diesem Bereich zu – auch, um mehr lernen zu können. Firmen können davon profitieren – gleich doppelt.",
+      "url": "https://www.heise.de/solutions/intigriti/wie-unternehmen-mit-bug-bounty-hunting-die-sicherheit-erhoehen-und-junge-fachkraefte-anziehen/?source=nat_teas"
+    },
+    {
       "title": "Cisco: Angreifer könnten an private RSA-Schlüssel in ASA und Firepower gelangen",
       "teaser": "Der Netzwerkausrüster Cisco schließt mit aktualisierter Software eine Sicherheitslücke in ASA und Firepower. Angreifer könnten private RSA-Keys auslesen.",
       "url": "https://www.heise.de/news/Cisco-Angreifer-koennten-an-private-RSA-Schluessel-in-ASA-und-Firepower-gelangen-7216863.html",
       "image_title": "Aufmacher Cisco-Updates"
-    },
-    {
-      "title": "Wie Unternehmen mit Bug Bounty Hunting die Sicherheit erhöhen und junge Fachkräfte anziehen",
-      "teaser": "Weg von Standard-Sicherheitsprüfungen hin zu Crowdsourcing-Cybersecurity: Beim Bug Bounty Hunting spüren ethische Hacker effizient Schwachstellen für Unternehmen auf. Viele junge IT-Experten wenden sich diesem Bereich zu – auch, um mehr lernen zu können. Firmen können davon profitieren – gleich doppelt.",
-      "url": "https://www.heise.de/solutions/intigriti/wie-unternehmen-mit-bug-bounty-hunting-die-sicherheit-erhoehen-und-junge-fachkraefte-anziehen/?source=nat_teas"
     },
     {
       "title": "Effizient coden, Ressourcen sparen: Projekt zeigt Wege zu grünerer Software",
@@ -158,12 +164,6 @@
       "teaser": "Adobe schließt zum August-Patchday mehrere, teils kritische Sicherheitslücken. Betroffen sind Adobe Commerce und Magento sowie PDF- und Kreativ-Software.",
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Luecken-in-Commerce-und-Kreativprogrammen-7215839.html",
       "image_title": "Aufmacher Patchday Adobe"
-    },
-    {
-      "title": "Patchday: Microsoft dichtet Zero-Day-Lücke und 120 weitere Sicherheitslecks ab",
-      "teaser": "121 Schwachstellen wurden im großen Produktportfolio von Microsoft zum August-Patchday gefunden. Eine davon wird bereits von Cyberkriminellen missbraucht.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-dichtet-Zero-Day-Luecke-und-120-weitere-Sicherheitslecks-ab-7215686.html",
-      "image_title": "Aufmacher Microsoft August-Patchday"
     },
     {
       "title": "heise Security Tour 2022",
