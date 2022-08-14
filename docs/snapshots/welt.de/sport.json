@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-14T17:20:38",
+  "timestamp": "2022-08-14T18:25:19",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile240476681/7262501127-ci102l-w1024/Germany-Soccer-Bundesliga.jpg",
+      "image_title": "Germany Soccer Bundesliga",
+      "topic": "Sieg gegen Wolfsburg"
+    },
     {
       "title": "Sport",
       "url": "https://www.welt.de/sport/",
@@ -43,11 +50,12 @@
       "topic": "Telekom verlängert als Sponsor"
     },
     {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile240473249/1112505637-ci102l-w1024/GAMES-EUROPE.jpg",
-      "image_title": "Aus der Traum: Oliver Zeidler auf der Olympiastrecke von 1972",
-      "topic": "European Championships"
+      "title": "Musiala führt FC Bayern mit genialer Einzelaktion zum Sieg – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video240421217/FC-Bayern-Muenchen-VfL-Wolfsburg-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240476591/1932506177-ci102l-w1024/Bundesliga-Bayern-Munich-v-VfL-Wolfsburg.jpg",
+      "image_title": "Bundesliga - Bayern Munich v VfL Wolfsburg",
+      "topic": "Zwei Wolfsburger düpiert",
+      "author": "4 Min"
     },
     {
       "title": "Mainzer Kapitän vernascht drei Union-Verteidiger – Die Highlights im Video",
@@ -110,14 +118,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240465435/3992503097-ci102l-w1024/MicrosoftTeams-image-1-png.jpg",
       "topic": "Gladbach kassiert Elfmeter",
       "author": "6 Min"
-    },
-    {
-      "title": "Trubel in Leverkusen! Tiki-Taka, Kopftritt und Last-Minute-Tor – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/video240421103/Bayer-04-Leverkusen-FC-Augsburg-Video-Highlights-Bayer-nach-Spektakel-in-der-Krise-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240463857/4772503797-ci102l-w1024/Bayer-Leverkusen-FC-Augsburg.jpg",
-      "image_title": "Bayer Leverkusen - FC Augsburg",
-      "topic": "Augsburger Spektakelsieg",
-      "author": "5 Min"
     },
     {
       "title": "Sport",
@@ -202,6 +202,13 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Fernando Alonso im Alpine und Sebastian Vettel im Aston Martin nebeneinander auf der Strecke. Zur nächsten Saison übernimmt der Spanier das Auto des Deutschen",
       "topic": "Formel 1"
+    },
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Aus der Traum: Oliver Zeidler auf der Olympiastrecke von 1972",
+      "topic": "European Championships"
     },
     {
       "title": "Sport",
@@ -368,13 +375,6 @@
       "topic": "Bundesliga"
     },
     {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Robert Lewandowski steht vor seinem Pflichtspieldebüt beim FC Barcelona",
-      "topic": "Weitere Rechte verkauft"
-    },
-    {
       "title": "Der Menschenfänger mit den sehenden Händen",
       "url": "https://www.welt.de/sport/plus240388855/FC-Bayern-Menschenfaenger-Mueller-Wohlfahrt.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -447,6 +447,14 @@
       "author": "Adrian Rehling"
     },
     {
+      "title": "Trubel in Leverkusen! Tiki-Taka, Kopftritt und Last-Minute-Tor – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video240421103/Bayer-04-Leverkusen-FC-Augsburg-Video-Highlights-Bayer-nach-Spektakel-in-der-Krise-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240463857/4772503797-ci102l-w1024/Bayer-Leverkusen-FC-Augsburg.jpg",
+      "image_title": "Bayer Leverkusen - FC Augsburg",
+      "topic": "Augsburger Spektakelsieg",
+      "author": "5 Min"
+    },
+    {
       "title": "Köln vermiest Timo Werners Tor-Debüt für Leipzig - Die Highlights im Video",
       "url": "https://www.welt.de/sport/fussball/bundesliga/video240421171/RB-Leipzig-1-FC-Koeln-Video-Highlights-Koeln-vermiest-Werners-Tor-Comeback-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240463911/8742507557-ci102l-w1024/RB-Leipzig-v-1-FC-Koeln-Bundesliga.jpg",
@@ -487,7 +495,7 @@
       "author": "4 Min"
     },
     {
-      "title": "Zwei mal jongliert, dann trifft Kiel genial per Drop-Kick – Die Highlights im Video",
+      "title": "Zweimal jongliert, dann trifft Kiel genial per Drop-Kick – Die Highlights im Video",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video240422181/Holstein-Kiel-Eintracht-Braunschweig-Highlights-Die-Zusammenfassung-im-Video-2-Liga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile240461401/3322504927-ci102l-w1024/Screenshot-179-png.jpg",
       "topic": "Kantersieg gegen Braunschweig",
@@ -507,14 +515,6 @@
       "image_title": "FBL-GER-BUNDESLIGA-FREIBURG-DORTMUND",
       "topic": "Späte Wende in Freiburg",
       "author": "6 Min"
-    },
-    {
-      "title": "Wilde Szenen auf dem Betzenberg! Paderborn in Überzahl an die Spitze – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video240422123/1-FC-Kaiserslautern-SC-Paderborn-07-Video-Highlights-Wilde-Sekunden-auf-dem-Betze-2-Liga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile240454259/7792501847-ci102l-w1024/1-FC-Kaiserslautern-SC-Paderborn-07.jpg",
-      "image_title": "1. FC Kaiserslautern - SC Paderborn 07",
-      "topic": "Rot und Rudelbildung",
-      "author": "4 Min"
     }
   ]
 }
