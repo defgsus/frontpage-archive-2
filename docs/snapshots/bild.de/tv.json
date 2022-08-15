@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-15T18:28:32",
+  "timestamp": "2022-08-15T19:17:42",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,24842784.1-24840000.19.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6d8a40c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.d4478a75.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0a81e763.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.33ef29a1.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Ab dem 15. August : Diese Filme starten bei Amazon Prime",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-ab-dem-15-august-80963132.bild.html",
-      "image_url": "https://images.bild.de/62f3767c60a3e73b21ea4837/1128f09cdcf64a1630496d33562485ba,b7cb1d0?w=656",
-      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten ab dem 15. August"
-    },
-    {
-      "title": "Ab dem 15. August : Diese Filme & Serien sind neu bei Netflix",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-netflix-diese-filme-und-serien-gibt-es-ab-dem-15-august-80963150.bild.html",
-      "image_url": "https://images.bild.de/62f376814c5f0a0916fbdc6b/77af35f656581e3d3ccf708663c5a84d,3d9c90e8?w=320",
-      "image_title": "Neu auf Netflix: Diese Filme und Serien gibt es ab dem 15. August"
-    },
-    {
-      "title": "Laura Wontorra und Kim Fisher : Schlüpfrig-Sprüche bei „Grill den Henssler“",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/grill-den-henssler-schluepfrig-sprueche-von-laura-wontorra-81008408.bild.html",
-      "image_url": "https://images.bild.de/62f976c960a3e73b21ea509a/2e9bc4ae9b3e3adcf211468fee14d793,3b555e13?w=320",
-      "image_title": "„Grill den Henssler“: Schlüpfrig-Sprüche von Laura Wontorra"
-    },
-    {
-      "title": "Kandidat schockt TV-Star Evelyn Burdecki : Er kam mit Kondom zum Date",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/topf-sucht-burdecki-dieser-kandidat-kam-mit-kondom-zum-date-81007536.bild.html",
-      "image_url": "https://images.bild.de/62f93e09f8e4d743fc587800/5f739c2a9b50c3d7aed18be8087a6263,a67185ac?w=320",
-      "image_title": "„Topf sucht Burdecki“: Dieser Kandidat kam mit Kondom zum Date"
-    },
-    {
-      "title": "Neue RTL2-Doku : Kelly Family reist in ihre Vergangenheit",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/kelly-family-reist-fuer-rtl2-doku-in-ihre-vergangenheit-81004088.bild.html",
-      "image_url": "https://images.bild.de/62f8ef80e749df7eb8c078c1/717270ade7a42d68a89e3e2d2e5831d2,f82e757?w=320",
-      "image_title": "Kelly Family reist für RTL2-Doku in ihre Vergangenheit"
-    },
-    {
-      "title": "Tatort München : Das sind die Ermittler Batic, Leitmayr und Hammermann",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-muenchen-miroslav-nemec-und-udo-wachtveil-ermitteln-seit-ueber-30-jahren-80048252.bild.html",
-      "image_title": "Tatort München: Miroslav Nemec und Udo Wachtveil ermitteln seit über 30 Jahren"
-    },
-    {
-      "title": "RTL zieht die Reißleine : Hartwich-Show wird in die Nacht verbannt",
-      "teaser": "Riesen-Enttäuschung: RTL wirft „Zeig uns deine Stimme“ aus dem Programm.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/zeig-uns-deine-stimme-hartwich-show-wird-in-die-nacht-verbannt-80999368.bild.html",
-      "image_title": "„Zeig uns deine Stimme“: Hartwich-Show wird in die Nacht verbannt"
-    },
-    {
-      "title": "Am Sonntag, den 14.08.2022 : Dieser Fall aus Dresden läuft heute im TV",
-      "teaser": "Der neue Tatort läuft am Sonntag, den 14.08.2022. Alle Infos zum Fall in Dresden!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-dieser-spannende-fall-aus-dresden-laeuft-heute-im-tv-80950898.bild.html",
-      "image_title": "Tatort heute: Dieser spannende Fall aus Dresden läuft heute im TV"
-    },
-    {
-      "title": "Finale DSDS-Staffel : Titan total!",
-      "teaser": "Jury-Chef Dieter Bohlen hat große Pläne für die letzte DSDS-Staffel.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/dsds-beim-abschied-hat-dieter-bohlen-das-sagen-80995958.bild.html",
-      "image_title": "DSDS: Beim Abschied hat Dieter Bohlen das Sagen"
-    },
-    {
-      "title": "Lara Mandoki und Teres Weißbach : Krimi-Stars zeigen ihr Erzgebirge",
-      "teaser": "Lara Mandoki und Teres Weißbach zeigen ihre Lieblingsorte im Erzgebirge.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/lara-mandoki-und-teresa-weissbach-krimi-stars-zeigen-ihr-erzgebirge-80990420.bild.html",
-      "image_title": "Lara Mandoki und Teresa Weißbach: Krimi-Stars zeigen ihr Erzgebirge"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-top-10-die-zehn-beliebtesten-filme-serien-fuers-wochenende-80985402.bild.html",
-      "image_title": "Netflix Top 10: Die zehn beliebtesten Filme & Serien fürs Wochenende!"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80985394.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende"
-    },
-    {
-      "title": "Regeln & Kandidaten : Alle Infos zu „Das große Promi-Büßen“!",
-      "teaser": "Die Regeln der neuen ProSieben-Show und alle Infos zu den Kandidaten lesen Sie hier!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/das-grosse-promi-buessen-alle-kandidaten-regeln-konzept-wer-raus-ist-80486916.bild.html",
-      "image_title": "„Das große Promi-Büßen“: Wer hat gewonnen? - Alle Infos zum großen Finale"
-    },
-    {
-      "title": "Amazon Top 10 : Die besten Film- & Serientipps fürs Wochenende!",
-      "teaser": "Wofür es sich am Wochenende lohnt, Amazon Prime einzuschalten lesen Sie bei BILD.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/amazon-prime-die-zehn-beliebtesten-filme-und-serien-fuers-wochenende-80915322.bild.html",
-      "image_title": "Amazon Prime: Die zehn beliebtesten Filme und Serien fürs Wochenende"
-    },
-    {
-      "title": "Netflix Top 10 : Die beliebtesten Filme & Serien fürs Wochenende!",
-      "teaser": "Die aktuell beliebtesten Filme und Serien bei Netflix im Überblick!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/netflix-top-10-die-zehn-beliebtesten-filme-serien-fuers-wochenende-80915338.bild.html",
-      "image_title": "Netflix Top 10: Die zehn beliebtesten Filme & Serien fürs Wochenende!"
-    },
-    {
-      "title": "Jochen Bendel schimpft über Danni : „Sie hat’s völlig versemmelt!“",
-      "teaser": "Danni Büchner wollte sich eigentlich einen Hund zulegen. Das ging in die Hose …",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/danni-buechner-voellig-versemmelt-eklat-in-tv-show-80961614.bild.html",
-      "image_title": "Danni Büchner: „Sie hat’s völlig versemmelt!“"
-    },
-    {
-      "title": "„Sturm der Liebe“-Star Tanja Lanäus : Oben-ohne-Botschaft an alle Frauen",
-      "teaser": "Die Schauspielerin lud ein Oben-ohne-Foto auf Instagram hoch.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/sturm-der-liebe-star-tanja-laenaus-postet-oben-ohne-foto-80979122.bild.html",
-      "image_title": "„Sturm der Liebe“-Star: Tanja Länaus postet Oben-ohne-Foto"
-    },
-    {
-      "title": "„Das große Promi-Büßen“ : SIE sind die Gewinner!",
-      "teaser": "Das große „Promi-Büßen“ ist vorbei. Wer hat die TV-Show gewonnen?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/das-grosse-promi-buessen-sie-sind-die-gewinner-80977484.bild.html",
-      "image_title": "„Das große Promi-Büßen“: SIE sind die Gewinner!"
-    },
-    {
-      "title": "Streaming Wars : Disney holt Netflix ein",
-      "teaser": "Netflix galt lange Zeit als DER Streaming-Gigant – bis jetzt …",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/disney-holt-marktfuehrer-netflix-ein-streaming-wars-80975934.bild.html",
-      "image_title": "Disney holt Marktführer Netflix ein: Streaming Wars!"
-    },
-    {
-      "title": "Tatort Dresden : Infos zum Ermittler-Trio Gorniak, Schnabel und Winkler",
-      "teaser": "Zwei junge Frauen und ein konservativer Chef ermitteln in der sächsischen Landeshauptstadt",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-dresden-alle-infos-zum-ermittler-trio-gorniak-schnabel-und-winkler-80257942.bild.html",
-      "image_title": "Tatort Dresden: Das sind die Ermittler Gorniak, Schnabel und Winkler"
-    },
-    {
-      "title": "Ab dem 8. August : Diese Filme starten bei Amazon Prime",
-      "teaser": "BILD zeigt hier die neuen Filme der Woche vom 8. August",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/neu-auf-amazon-prime-diese-filme-und-serien-starten-ab-dem-8-august-80893332.bild.html",
-      "image_title": "Neu auf Amazon Prime: Diese Filme und Serien starten ab dem 8. August"
-    },
-    {
-      "title": "„Wer stiehlt mir die Show“ : TV-Star Fahri Yardim: „Mann, bin ich besoffen“",
-      "teaser": "Schauspieler Fahri Yardim wurden am Dienstagabend ein paar Promille zum Verhängnis.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/wer-stiehlt-mir-die-show-tv-star-fahri-yardim-mann-bin-ich-besoffen-80960252.bild.html",
-      "image_title": "„Wer stiehlt mir die Show“: TV-Star Fahri Yardim: „Mann, bin ich besoffen“"
-    },
-    {
-      "title": "Nachfolgerin von Chrishell : „Selling Sunset“-Millionär liebt deutsches Model",
-      "teaser": "Eine Deutsche verdreht „Selling Sunset“-Star Jason Oppenheim den Kopf.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/selling-sunset-millionaer-liebt-deutsches-model-sie-ist-die-chrishell-nachfolger-80954590.bild.html",
-      "image_title": "„Selling Sunset“-Millionär Oppenheim liebt deutsches Model"
-    },
-    {
-      "title": "„Are You The One - Realitystars In Love“ : Alle Ergebnisse der Matchbox und Matching-Nights",
-      "teaser": "Alle Infos zu den Matching-Nights und Matchbox-Ergebnissen lesen Sie hier!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/are-you-the-one-alle-matching-nights-und-matchbox-ergebnisse-im-ueberblick-80882122.bild.html",
-      "image_title": "„Are You The One“: Alle Matching-Nights und Matchbox-Ergebnisse im Überblick"
-    },
-    {
-      "title": "Are you the One - Reality Stars in Love : Alle Kandidaten im Überblick!",
-      "teaser": "Heiße Singles suchen ihr Perfect Match: Was Sie über die Kandidaten wissen müssen!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/are-you-the-one-alle-kandidaten-im-ueberblick-80830390.bild.html",
-      "image_title": "„Are You The One“: Alle Kandidaten im Überblick!"
-    },
-    {
-      "title": "Der neue Trailer! : „Der Herr der Ringe: Die Ringe der Macht“",
-      "url": "https://www.bild.de/video/clip/video/der-serientrailer-der-herr-der-ringe-die-ringe-der-macht-80714512,auto=true.bild.html",
-      "image_title": "Der neue Trailer!: „Der Herr der Ringe: Die Ringe der Macht“"
-    },
-    {
-      "title": "Ausraster bei „Das grosse Promi-Büßen” : „F*** dich!“ - Calvin beleidigt Carina",
-      "url": "https://www.bild.de/video/clip/glomex/ausraster-bei-das-grosse-promi-buessen-f-dich-calvin-beleidigt-carina-80706238,auto=true.bild.html",
-      "image_title": "Ausraster bei „Das grosse Promi-Büßen”: „F*** dich!“ - Calvin beleidigt Carina"
-    },
-    {
-      "title": "Eifersuchts-Eklat : Bei DIESEM Anblick platzt Cora der Kragen",
-      "url": "https://www.bild.de/video/clip/glomex/eifersuchts-eklat-bei-diesem-anblick-platzt-cora-der-kragen-v-cl1p6on8an21-80556420,auto=true.bild.html",
-      "image_title": "Eifersuchts-Eklat: Bei DIESEM Anblick platzt Cora der Kragen"
-    }
-  ]
+  "articles": []
 }
