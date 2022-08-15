@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-15T07:19:58",
+  "timestamp": "2022-08-15T08:27:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HPE Integrated Lights-Out",
+      "url": "https://www.heise.de/news/Fernwartung-Kritische-Sicherheitsluecken-in-HPE-Integrated-Lights-Out-iLO-7219923.html"
+    },
+    {
       "title": "Zimbra",
       "url": "https://www.heise.de/news/Groupware-Zimbra-Angreifer-missbrauchen-Sicherheitsluecken-zur-Codeausfuehrung-7218354.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Cisco-Angreifer-koennten-an-private-RSA-Schluessel-in-ASA-und-Firepower-gelangen-7216863.html"
     },
     {
-      "title": "Abus HomeTec Pro CFA3000",
-      "url": "https://www.heise.de/news/BSI-warnt-vor-unsicherem-Funk-Tuerschloss-von-Abus-7216682.html"
+      "title": "Zoom für macOS: Update-Funktion reißt Sicherheitslücke",
+      "teaser": "Die populäre Videokonferenz-App hat auf dem Mac einmal mehr ein Security-Problem. Nutzer sollten dringend aktualisieren. Perfekt ist der Fix noch nicht.",
+      "url": "https://www.heise.de/news/Zoom-fuer-macOS-Update-Funktion-reisst-Sicherheitsluecke-7219942.html"
+    },
+    {
+      "title": "Fernwartung: Kritische Sicherheitslücken in HPE Integrated Lights-Out (iLO)",
+      "teaser": "Die Fernverwaltung HPE Integrated Lights-Out ermöglichte Angreifern das Einschmuggeln von Schadcode. Aktualisierte Software behebt die Fehler.",
+      "url": "https://www.heise.de/news/Fernwartung-Kritische-Sicherheitsluecken-in-HPE-Integrated-Lights-Out-iLO-7219923.html",
+      "image_title": "Aufmacher kritische Sicherheitslücken in HPEs Integrated Lights-Out"
     },
     {
       "title": "iX-Workshop: Moderne Kryptographie im Unternehmenseinsatz",
@@ -147,17 +158,6 @@
       "teaser": "VMware hat für neu entdeckte Sicherheitslücken Updates bereitgestellt. Für eine ältere Schwachstelle ist jetzt Exploit-Code aufgetaucht, warnt der Hersteller.",
       "url": "https://www.heise.de/news/Jetzt-handeln-Exploit-Code-fuer-VMware-Luecke-aufgetaucht-neue-Updates-verfuegbar-7216296.html",
       "image_title": "Aufmacher VMware Updates und Exploit"
-    },
-    {
-      "title": "Kali Linux 2022.3: Security-Training im Test Lab und verbesserter VM-Support",
-      "teaser": "Neben einem erweiterten Funktionsumfang kündigt Offensive Security mit Kali 2022.3 auch regelmäßige Q&A-Sessions mit den Entwicklern der Linux-Distribution an.",
-      "url": "https://www.heise.de/news/Kali-Linux-2022-3-Security-Training-im-Test-Lab-und-verbesserter-VM-Support-7216025.html"
-    },
-    {
-      "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern",
-      "teaser": "Lernen Sie mit vielen Beispielen aus der Praxis, wie Sie Windows 10 und 11 (Pro und Enterprise) in Ihrem Unternehmen sicher betreiben.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-7204399.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "heise Security Tour 2022",
