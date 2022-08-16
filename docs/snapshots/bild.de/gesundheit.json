@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-16T09:18:41",
+  "timestamp": "2022-08-16T10:23:58",
   "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/home-15734752.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,221 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.6d8a40c3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.d4478a75.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.0a81e763.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.39548af4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.011dcb27.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.33ef29a1.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Durchbruch in der Medizin : Forscher ändern Blutgruppe von Spendernieren",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/spenderorgane-fuer-alle-forscher-aendern-die-blutgruppe-von-nieren-81011308.bild.html",
-      "image_url": "https://images.bild.de/62fa0411512fb7307915e365/6bc2f933307ed17b4e167f56aefc96a4,b065cd6c?w=656",
-      "image_title": "Spenderorgane für alle: Forscher ändern die Blutgruppe von Nieren"
-    },
-    {
-      "title": "Ärztin warnt : Fitness-Nahrung erhöht Risiko für Schlaganfälle",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/ratgeber/fitness-nahrung-mit-l-carnitin-kann-zu-schlaganfaellen-fuehren-80872188.bild.html",
-      "image_url": "https://images.bild.de/62e782e660a3e73b21ea37a4/04ea333707dd1bc1005a4cc432ee60aa,ba6bdd56?w=320",
-      "image_title": "Fitness-Nahrung mit L-Carnitin kann zu Schlaganfällen führen"
-    },
-    {
-      "title": "Alkohol-Pausen : Ein Fehler macht Sie krank",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/wunderorgan-leber-radikale-alkohol-pausen-sind-ungesund-75363926.bild.html",
-      "image_url": "https://images.bild.de/60294b380c919b0001aa3e93/4e8ac9c3edfb2252c7a68de7b5d6c79b,7082170b?w=320",
-      "image_title": "Weniger Alkohol: Darum sind radikale Pausen ungesund für die Leber"
-    },
-    {
-      "title": "Podcast über Geheimnisse der Gesundheit : Dickmacher! Kennen Sie den Heiligenschein-Effekt?",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/abnehmen-bis-schlafen-medizin-podcast-ueber-geheimnisse-der-gesundheit-80768178.bild.html",
-      "image_url": "https://images.bild.de/62d90be760a3e73b21ea238d/5996d8159ef0b04ffcabdc70788fb8f0,297d647f?w=320",
-      "image_title": "Abnehmen bis schlafen: Medizin-Podcast über Geheimnisse der Gesundheit"
-    },
-    {
-      "title": "Erfreuliche Neuigkeiten vom RKI! : Höhepunkt der Corona-Welle überschritten",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/neue-corona-zahlen-rki-meldet-wellengipfel-ueberschritten-80984018.bild.html",
-      "image_url": "https://images.bild.de/62f5f5ea60a3e73b21ea4c19/15c2b9b45e178ab7d97ed1dcb3de5f49,b56e0df7?w=320",
-      "image_title": "Neue Corona-Zahlen – RKI meldet: „Wellengipfel überschritten“"
-    },
-    {
-      "title": "die berauschende Zukunft der Medizin? : „Cannabis ist für mich ein kleines Wunder“",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/cannabis-die-berauschende-zukunft-der-medizin-65660278.bild.html",
-      "image_title": "Doku über die berauschende Zukunft der Medizin : „Cannabis ist für mich ein kleines Wunder“"
-    },
-    {
-      "title": "Schon im OP-Saal bewegten sich die Beine : Nach dieser OP können Gelähmte wieder laufen",
-      "teaser": "BILD erklärt dieses Wunder, das Nerven und Muskeln mit einem Trick schaffen können.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/gelaehmte-koennen-wieder-gehen-schon-im-op-saal-bewegten-sich-siegfrieds-beine-80888724.bild.html",
-      "image_title": "Neue Therapie bei Querschnittslähmung: Nach dieser OP können Gelähmte wieder laufen"
-    },
-    {
-      "title": "Zwei Studien, gleiches Ergebnis : Rätselhafte Hepatitis-Fälle bei Kindern geklärt?",
-      "teaser": "Britische Wissenschaftler erforschten die Ursachen für den weltweiten Ausbruch.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/raetselhafte-hepatitis-faelle-bei-kindern-geklaert-80884418.bild.html",
-      "image_title": "Rätselhafte Hepatitis-Fälle bei Kindern geklärt?"
-    },
-    {
-      "title": "Stöhr über Omikron : „Es geht eigentlich alles in die richtige Richtung“",
-      "teaser": "Epidemiologe Klaus Stöhr sagt, wie die aktuelle Corona-Lage zu bewerten ist.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/epidemiologe-stoehr-ueber-omikron-es-geht-eigentlich-alles-in-die-richtige-richt-78653048.bild.html",
-      "image_title": "Epidemiologe Stöhr über Omikron: „Es geht eigentlich alles in die richtige Richtung“"
-    },
-    {
-      "title": "Viele Männer verweigern Arztbesuch : Urologische Probleme? Die ignoriere ich einfach!",
-      "teaser": "Häufiger Harndrang und Erektionsstörungen: Nur jeder Vierte geht damit zum Hausarzt.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/maenner-verweigern-trotz-symptomen-den-arztbesuch-80840058.bild.html",
-      "image_title": "Männer verweigern trotz Symptomen den Arztbesuch"
-    },
-    {
-      "title": "Trotz Corona-Wundermittel : Warum Präsident Biden einen Virus-Rückfall hat",
-      "teaser": "Wenige Tagen nach Ende der Isolation wurde US-Präsident Biden erneut positiv getestet.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/corona-medikament-paxlovid-warum-joe-biden-trotz-einnahme-einen-virus-rueckfall-80865242.bild.html",
-      "image_title": "Corona-Medikament Paxlovid: Warum Joe Biden trotz Einnahme einen Virus-Rückfall hat"
-    },
-    {
-      "title": "Nachlassender Geruchssinn? : Es könnte Demenz sein",
-      "teaser": "Forscher entdeckten, dass ein rascher Verlust des Geruchssinns auf Demenz hinweisen kann.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/demenz-verlust-des-geruchssinns-kann-ein-hinweis-sein-80856180.bild.html",
-      "image_title": "Demenz: Verlust des Geruchssinns kann ein Hinweis sein"
-    },
-    {
-      "title": "Versteckte Symptome einer Zirrhose : Eine kranke Leber macht bei ihm die Haare weich",
-      "teaser": "Lebererkrankungen bleiben oft lange unentdeckt. Es gibt aber einige ungewöhnliche Symptome",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/symptome-einer-zirrhose-eine-kranke-leber-macht-die-haare-bei-maennern-weich-80758398.bild.html",
-      "image_title": "Symptome einer Zirrhose: Eine kranke Leber macht die Haare bei Männern weich"
-    },
-    {
-      "title": "„Couple on Tour“-Influencerin im Koma : Schlaganfälle treffen immer öfter junge Leute",
-      "teaser": "Ein Neurologe erklärt die Ursachen – und wieso die Prognose oft ungünstig ist.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/couple-on-tour-influencerin-schlaganfall-trifft-immer-oefter-juengere-80807760.bild.html",
-      "image_title": "„Couple on Tour“-Influencerin: Schlaganfall trifft immer öfter Jüngere"
-    },
-    {
-      "title": "Verbands-Chef im Interview : Kassenärzte wollen Quarantäne abschaffen",
-      "teaser": "Laut Andreas Gassen ist eine hohe Inzidenz eine Chance und Isolation nicht immer nötig.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/ratgeber/kassenaerzte-chef-quarantaeneregeln-geben-nur-schein-sicherheit-80791180.bild.html",
-      "image_title": "Corona: Kassenärtze-Chef Andreas Gassen fordert Ende der Quarantäne"
-    },
-    {
-      "title": "Corona-Überraschung : Endlich mal gute Zahlen vom RKI",
-      "teaser": "Laut RKI haben „nur“ 86,7 Prozent mindestens eine Corona-Impfung erhalten – eigentlich.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/corona-ueberraschung-laut-rki-anscheinend-doch-mehr-erwachsene-geimpft-als-gedac-80771466.bild.html",
-      "image_title": "Corona-Überraschung: Laut RKI anscheinend doch mehr Erwachsene geimpft als gedacht"
-    },
-    {
-      "title": "Die meisten trifft es zwischen 25 und 45 : Es entscheidet sich früh, wer Hodenkrebs bekommt",
-      "teaser": "Ein Urologe erklärt Ursachen, Heilungschancen – und wie Sie sich schützen können.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/hodenkrebs-ursachen-heilungschancen-und-wie-sich-mann-schuetzen-kann-80744090.bild.html",
-      "image_title": "Hodenkrebs: Ursachen, Heilungschancen und wie sich Mann schützen kann"
-    },
-    {
-      "title": "Umweltmedizinerin warnt : Deutschland braucht dringend einen Hitzeschutzplan",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/bis-zu-40-grad-so-schuetzen-sie-sich-vor-der-moerder-hitze-80642326.bild.html",
-      "image_title": "Was tun bei Hitze? Medizinerin fordert Hitzeschutzplan für Deutschland"
-    },
-    {
-      "title": "Lieferengpass : Fiebersäfte für Kinder sind knapp",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/fiebersaefte-fuer-kinder-sind-knapp-80720118.bild.html",
-      "image_title": "Fiebersäfte für Kinder sind knapp"
-    },
-    {
-      "title": "Studie warnt : Unter-40-Jährige sollten keinen Alkohol trinken",
-      "teaser": "Erst älteren Menschen kann ein Feierabendbier gesundheitliche Vorteile bringen.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/unter-40-jaehrige-sollten-keinen-alkohol-trinken-80717738.bild.html",
-      "image_title": "Unter 40-Jährige sollten keinen Alkohol trinken"
-    },
-    {
-      "title": "Pillen zum Schnäppchen-Preis : Krebs-Öl hilft gegen Kater",
-      "teaser": "Forscher aus Korea haben herausgefunden, wie man Übelkeit und Dehydration bekämpfen kann.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/nach-durchzechter-nacht-dieses-krebs-oel-hilft-gegen-den-kater-80648706.bild.html",
-      "image_title": "Pillen zum Schnäppchen-Preis: Krebs-Öl hilft gegen Kater"
-    },
-    {
-      "title": "Neuartiges Verfahren in Rostock : Radioaktive Paste kann weißen Hautkrebs heilen",
-      "teaser": "Wissenschaftler haben weißen Hautkrebs erfolgreich mit einer neuartigen Methode behandelt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/hautkrebs-heilen-radioaktive-paste-toetet-weissen-hautkrebs-80684406.bild.html",
-      "image_title": "Hautkrebs heilen: Radioaktive Paste tötet weißen Hautkrebs"
-    },
-    {
-      "title": "So werden Sie Schmerzen in drei Monaten los : Vögelchen-Essen gegen Menstruationsbeschwerden",
-      "teaser": "Eine Expertin erklärt, wie auch Sie die Schmerzen hinter sich lassen können.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/ohne-pms-und-regelschmerzen-in-drei-monaten-tipps-vom-zyklus-coach-80597308.bild.html",
-      "image_title": "Menstruationsbeschwerden: So werden Sie Schmerzen in drei Monaten los"
-    },
-    {
-      "title": "Ähnliche Symptome : Habe ich Heuschnupfen oder Corona?",
-      "teaser": "Die Pollen fliegen. Ab wann es keine Allergie mehr ist – sondern Corona.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/allergie-heuschnupfen-oder-corona-aehnliche-symptome-woran-erkenne-ich-es-69958036.bild.html",
-      "image_title": "Heuschnupfen: Allergie oder Corona? Deutschland niest und schnieft"
-    },
-    {
-      "title": "Neues Sensationsverfahren : Wrestler ringt Alzheimer nieder",
-      "teaser": "Claude Lerognon (78) ist ehemaliger Catcher. Jetzt kämpft er gegen Alzheimer.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/sensationsverfahren-bringt-erinnerung-zurueck-wrestler-ringt-alzheimer-nieder-80358858.bild.html",
-      "image_title": "Sensationsverfahren bringt Erinnerung zurück: Wrestler ringt Alzheimer nieder"
-    },
-    {
-      "title": "Der Busen-Horror : Wenn große Brüste zum Albtraum werden!",
-      "url": "https://www.bild.de/video/clip/ratgeber/panikattacken-und-sehstoerungen-wenn-grosse-brueste-zum-albtraum-werden-76062312,auto=true.bild.html",
-      "image_title": "Panikattacken und Sehstörungen: Wenn große Brüste zum Albtraum werden!"
-    },
-    {
-      "title": "Humanoide Pflege-Maschine : Schwester Grace, der Roboter",
-      "url": "https://www.bild.de/video/clip/news-inland/humanoide-pflege-maschine-schwester-grace-der-roboter-77588426,auto=true.bild.html",
-      "image_title": "Humanoide Pflege-Maschine: Schwester Grace, der Roboter"
-    },
-    {
-      "title": "Vielversprechendes Mittel „Molnupiravir“ : Kommt jetzt die Wunderpille gegen Corona?",
-      "url": "https://www.bild.de/video/clip/ratgeber/vielversprechendes-mittel-molnupiravir-kommt-jetzt-die-wunderpille-gegen-corona-77430676,auto=true.bild.html",
-      "image_title": "Vielversprechendes Mittel „Molnupiravir“ : Kommt jetzt die Wunderpille gegen Corona?"
-    }
-  ]
+  "articles": []
 }
