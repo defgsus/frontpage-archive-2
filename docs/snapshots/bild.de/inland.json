@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-17T13:51:33",
+  "timestamp": "2022-08-17T14:26:07",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.18ba8297.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7bca1646.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.6146dd0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cb11a3bd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.88bfc46b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7bfc685f.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Am Brauneck : Gleitschirmfliegerin stürzt in den Tod",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/am-braunec-gleitschirmfliegerin-stuerzt-in-den-tod-81035526.bild.html",
-      "image_url": "https://images.bild.de/62fcec8f050f044cb728cf48/0c3bf97d207eadc411058e3cc3217da4/Kennung_Symbolfoto,a48ec42d?w=656",
-      "image_title": "Am Brauneck: Gleitschirmfliegerin stürzt in den Tod"
-    },
-    {
-      "title": "Drama an der Oder : „Wir Angler sind Zeugen, Ersthelfer und Opfer“",
-      "url": "https://www.bild.de/bild-plus/news/inland/news/fisch-sterben-in-der-oder-wir-angler-sind-zeugen-ersthelfer-und-opfer-81029588.bild.html",
-      "image_url": "https://images.bild.de/62fc7bbb27fae00d9b1caa6a/23ef505a4ac586b8eb6b4e5d2f857283,a95bcad3?w=320",
-      "image_title": "Fisch-Sterben in der Oder: „Wir Angler sind Zeugen, Ersthelfer und Opfer“"
-    },
-    {
-      "title": "1 Tote, 8 Verletzte bei Boots-Unglück : Staatsanwaltschaft ermittelt gegen beide Kapitäne",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-frau-66-stirbt-bei-schwerem-sportboot-unfall-81029656.bild.html",
-      "image_url": "https://images.bild.de/62fc78c127fae00d9b1caa67/b57a4a181f51e878c0f376f8c8f6c1a6,e8235256?w=320",
-      "image_title": "Mecklenburg-Vorpommern: 1 Tote, 8 Verletzt bei Boots-Unglück auf Ribnitzer See"
-    },
-    {
-      "title": "100 Tonnen tote Fische in der Oder : Angst vor der Giftwelle im Stettiner Haff",
-      "url": "https://www.bild.de/news/inland/news/fischsterben-in-der-oder-angst-vor-der-giftwelle-im-stettiner-haff-81033074.bild.html",
-      "image_url": "https://images.bild.de/62fc9d73050f044cb728ceb4/30334edc4e13b3a3c3f9febb9d872d26,66a99c46?w=320",
-      "image_title": "Fischsterben in der Oder: Angst vor der Giftwelle im Stettiner Haff"
-    },
-    {
-      "title": "Streit auf Firmengelände eskaliert : 62-Jähriger stirbt nach Messer-Attacke",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-maenner-attackieren-sich-in-zerbst-mit-messern-62-jaehriger-stirb-81033742.bild.html",
-      "image_url": "https://images.bild.de/62fcd4c827fae00d9b1cab17/7c3ffad67519abbcdd5ea5ce904eb301/Kennung_Symbolfoto,a48e5750?w=320",
-      "image_title": "Sachsen-Anhalt: Männer attackieren sich in Zerbst mit Messern – 62-Jähriger stirbt"
-    },
-    {
-      "title": "Athleten besuchten Münchner Gedenkstätte : Wachmann zeigt Israel-Sportlern Hitlergruß",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/hitlergruss-im-olympiapark-antisemitischer-vorfall-bei-european-championships-81031096.bild.html",
-      "image_title": "Athleten besuchten Münchner Gedenkstätte des Terror-Anschlags: Wachmann zeigt israelischen Sportlern Hitlergruß"
-    },
-    {
-      "title": "Mordete Mutter wegen Sorgerecht? : SIE stach ihrer Tochter (†6) dreimal in den Hals",
-      "teaser": "Larissa H. (46) hat zugegeben, ihre eigene Tochter (6) im Schlaf getötet zu haben!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bottrop-nrw-mutter-erstach-ihre-schlafende-tochter-emma-6-wegen-sorgerechtsstrei-81029550.bild.html",
-      "image_title": "Bottrop (NRW): Mutter erstach ihre schlafende Tochter Emma (6) wohl wegen Sorgerechtsstreit"
-    },
-    {
-      "title": "Knapp zwei Promille : Betrunkene rammt mit Auto Baum – Sohn (9) stirbt",
-      "teaser": "Eine Mutter verursachte mit knapp zwei Promille Alkohol einen Unfall. Mit bösen Folgen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/neuried-betrunkene-rammt-mit-auto-baum-sohn-9-stirbt-81033352.bild.html",
-      "image_title": "Neuried: Betrunkene rammt mit Auto Baum – Sohn (9) stirbt"
-    },
-    {
-      "title": "Technischer Defekt? : Autotransport auf A2 fackelt ab",
-      "teaser": "Flammen loderten aus dem Lkw, Reifen platzen bei der Hitze. Die A2 musste gesperrt werden.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-auf-der-a2-in-sachsen-anhalt-autotransport-fackelt-ab-81032972.bild.html",
-      "image_title": "Unfall auf der A2 in Sachsen-Anhalt: Autotransport fackelt ab"
-    },
-    {
-      "title": "Flughafen München : 45 Aushilfen aus Türkei erwartet",
-      "teaser": "In den kommenden Wochen kommen insgesamt 45 Aushilfen aus der Türkei.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/flughafen-muenchen-45-aushilfen-aus-tuerkei-erwartet-81033276.bild.html",
-      "image_title": "Flughafen München: 45 Aushilfen aus Türkei erwartet"
-    },
-    {
-      "title": "Mord-Rätsel in Ingolstadt : Eltern finden getötete Tochter (23) in Mercedes",
-      "teaser": "Ein brutales Verbrechen schockt Ingolstadt! Eine junge Frau wurde getötet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ingolstadt-23-jaehrige-auf-der-strasse-getoetet-81031452.bild.html",
-      "image_title": "Eltern entdeckten die Leiche: 23-Jährige lag tot auf Rücksitz von Mercedes"
-    },
-    {
-      "title": "Jäger-Trio festgenommen : Ist das das Wohnzimmer des Wilderers?",
-      "teaser": "Drei Männer sollen in einer Nacht 30 Tiere getötet haben. Die Polizei eine groß angelegte Razzia bei dem Trio durch.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/wilderer-drei-maenner-sollen-in-einer-nacht-30-tiere-getoetet-haben-81017130.bild.html",
-      "image_title": "Wilderer: Drei Männer sollen in einer Nacht 30 Tiere getötet haben"
-    },
-    {
-      "title": "Seit sechs Tagen : 16-jährige Schülerin vermisst",
-      "teaser": "Seit dem 10. August ist Valerie Baitz verschwunden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/seit-sechs-tagen-16-jaehrige-schuelerin-vermisst-81030288.bild.html",
-      "image_title": "Seit sechs Tagen: 16-jährige Schülerin vermisst"
-    },
-    {
-      "title": "Schülerin (†14) beigesetzt : Ein letzter Gruß für ermordete Ayleen",
-      "teaser": "Zur Beerdigung am Donnerstag kam nur der engste Familienkreis zusammen.",
-      "url": "https://www.bild.de/news/inland/news-inland/ayleen-14-beigesetzt-ein-letzter-gruss-fuer-ermordete-schuelerin-81027730.bild.html",
-      "image_title": "Ayleen (†14) beigesetzt: Ein letzter Gruß für ermordete Schülerin"
-    },
-    {
-      "title": "Gäubodenvolksfest in Bayern : Karussell-Seil gerissen! 3 Kirmes-Unfälle in 3 Tagen",
-      "teaser": "Auf dem Volksfest hat es den dritten Unfall mit einem Fahrgeschäft binnen drei Tagen gegeben.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/gaeubodenvolksfest-in-bayern-karussell-seil-gerissen-3-kirmes-unfaelle-in-3-tage-81029354.bild.html",
-      "image_title": "Gäubodenvolksfest in Bayern: Karussell-Seil gerissen! 3 Kirmes-Unfälle in 3 Tagen"
-    },
-    {
-      "title": "Menschliche Überreste? : Knochen-Fund im Badesee",
-      "teaser": "Gruselfund am Nachmittag im kleinen Örtchen Waldsee in RLP!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/waldssee-war-es-ein-mensch-knochen-fund-im-badesee-81027056.bild.html",
-      "image_title": "Waldssee: War es ein Mensch? Knochen-Fund im Badesee"
-    },
-    {
-      "title": "Mehr E-Ladesäulen pro Kopf als Wolfsburg : Dieses Dorf ist total elektrisch",
-      "teaser": "Ruderting – So geht Energiewende! Ein Dorf in Niederbayern ist der Republik um Jahre voraus. Regenerative Energie, E-Mobilität: in der kleinen Gemeinde Alltag.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/mehr-ladesaeulen-als-wolfsburg-dieses-dorf-zeigt-wie-energiewende-geht-81024284.bild.html",
-      "image_title": "Mehr Ladesäulen als Wolfsburg: Dieses Dorf zeigt, wie Energiewende geht"
-    },
-    {
-      "title": "„Eiskalt: Die größten Vermisstenfälle“ : Von diesen Menschen fehlt jede Spur",
-      "teaser": "8.800 Menschen gelten in Deutschland aktuell als vermisst. Was ist mit ihnen passiert? ...",
-      "url": "https://www.bild.de/tv/2022/eiskalt-die-groessten-vermisstenfaelle-von-diesen-menschen-fehlt-jede-spur-81012902.bild.html",
-      "image_title": "„Eiskalt: Die größten Vermisstenfälle“: Von diesen Menschen fehlt jede Spur"
-    },
-    {
-      "title": "Tragödie in Baden-Württemberg : Siebenjährige stirbt nach Unfall in Spaßbad",
-      "teaser": "Ein sieben Jahre altes Mädchen ist nach einem Unfall im Wellenbad Miramar gestorben.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/weinheim-bad-drama-siebenjaehrige-stirbt-nach-unfall-im-wellenbad-81024618.bild.html",
-      "image_title": "Weinheim: Kind (7) stirbt nach Unfall im Wellenbad Miramar"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 10 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 16. August 2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-die-gewinnzahlen-und-quoten-vom-16-august-80962460.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen und Quoten vom 16. August"
-    },
-    {
-      "title": "Iraner und Afghane vor Gericht : Mord wegen eines falschen Wortes?",
-      "teaser": "Wenn es um ihre sogenannte „Ehre“ geht, ist ein Menschenleben offenbar nichts wert.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/prozess-mord-wegen-eines-falschen-wortes-81028664.bild.html",
-      "image_title": "Prozess: Mord wegen eines falschen Wortes?"
-    },
-    {
-      "title": "Sachsens Bäume im Trockenstress : Herbst schon im August",
-      "teaser": "Mitten im Hochsommer – und damit gut zwei Monate zu früh – sieht Sachsen herbstlich aus.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-baeume-im-trockenstress-herbst-schon-im-august-81028434.bild.html",
-      "image_title": "Sachsen: Bäume im Trockenstress - Herbst schon im August"
-    },
-    {
-      "title": "Nur Bewährungsstrafe : Rentner (82) missbrauchte eigene Ur-Enkelin (9)",
-      "teaser": "Weil die Schule wegen Corona im Februar geschlossen war, nahm Jürgen G. (82) seine Ur-Enkelin (9), wie zuvor bereits öfter, mit auf seine Datsche in Weinböhla.",
-      "url": "https://www.bild.de/regional/dresden/chemnitz-news/sexueller-missbrauch-rentner-82-missbrauchte-eigene-ur-enkelin-9-81028026.bild.html",
-      "image_title": "Sexueller Missbrauch: Rentner (82) missbrauchte eigene Ur-Enkelin (9)"
-    },
-    {
-      "title": "RBB-Skandal nur die Spitze des Eisbergs? : Vetternwirtschaft-Vorwürfe auch beim NDR",
-      "teaser": "Hamburg - Vetternwirtschaft wird jetzt auch dem zweitgrößten ARD-Sender NDR vorgeworfen!",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/vorwuerfe-der-vetternwirtschaft-auch-beim-ndr-rbb-skandal-nur-die-spitze-des-eis-81019964.bild.html",
-      "image_title": "RBB-Skandal nur die Spitze des Eisbergs?: Vetternwirtschaft-Vorwürfe auch beim NDR"
-    },
-    {
-      "title": "Josefines Killer muss 9,5 Jahre in Haft : 15-Jähriger tötete seine Ex-Freundin (14)",
-      "teaser": "Josefine H. wurde nur 14 Jahre alt. Sie musste sterben, weil ihr Ex-Freund sie überhatte.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/mord-15-jaehriger-toetete-seine-ex-freundin-14-81026534.bild.html",
-      "image_title": "Mord: 15-Jähriger tötete seine Ex-Freundin (14)"
-    },
-    {
-      "title": "Konzert abgebrochen : Der Torkel-Auftritt von „Haftbefehl“",
-      "url": "https://www.bild.de/video/clip/video/aus-haftbefehl-wird-hicksbefehl-haftbefehl-muss-konzert-abbrechen-80945652,auto=true.bild.html",
-      "image_title": "Konzert abgebrochen: Der Torkel-Auftritt von „Haftbefehl“"
-    },
-    {
-      "title": "Generation Saustall : Was Festival-Besucher alles zurücklassen",
-      "url": "https://www.bild.de/video/clip/video/generation-saustall-was-festival-besucher-alles-zuruecklassen-81020758,auto=true.bild.html",
-      "image_title": "Generation Saustall: Was Festival-Besucher alles zurücklassen"
-    },
-    {
-      "title": "Massensterben in der Saale : Fische springen im Todeskampf aus dem Wasser",
-      "url": "https://www.bild.de/video/clip/video/massensterben-in-der-saale-fische-springen-im-todeskampf-aus-dem-wasser-81027160,auto=true.bild.html",
-      "image_title": "Massensterben in der Saale: Fische springen im Todeskampf aus dem Wasser"
-    }
-  ]
+  "articles": []
 }
