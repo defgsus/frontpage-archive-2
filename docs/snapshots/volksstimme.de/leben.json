@@ -1,16 +1,690 @@
 {
-  "timestamp": "2022-08-17T10:24:50",
+  "timestamp": "2022-08-17T11:18:34",
   "url": "https://www.volksstimme.de/leben",
   "response": {
-    "status": 404
+    "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/z5mjk7M6AD3Ze6keS.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://data-9f47bd3ec3.volksstimme.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_volksstimme_relaunch/metaTag.min.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.volksstimme.de/static/scripts/scripts.f078c8a0.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/adScripts.f078c8a0.js",
+      "id": null,
+      "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Urlaub 2022: Falsche Hotel-Bewertungen im Internet - So können Fakes enttarnt werden",
+      "url": "https://www.volksstimme.de/leben/reisen/urlaub-buchen-urlaub-2022-falsche-hotel-bewertungen-im-internet-so-koennen-fakes-enttarnt-werden-3370986",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/04/28/d97ce477-23c2-4d8a-b06e-cee391249bf0.jpeg?rect=0%2C207%2C4000%2C2250&width=100",
+      "image_title": "Urlauber verlassen sich bei der Buchung auf die Bewertung von anderen Gästen. Bei den Rezensionen im Netz kann es sich jedoch auch um ein Fake handeln.",
+      "topic": "Urlaub buchen"
+    },
+    {
+      "title": "Luxusurlaub oder Horrortrip? - Das bedeutet die Sternebewertung bei Hotels",
+      "url": "https://www.volksstimme.de/leben/reisen/luxusurlaub-oder-horrortrip-das-bedeutet-sternebewertung-im-hotel-3427356",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/7308972c-75b9-497c-aae9-83035d0444fa.jpeg?rect=0%2C209%2C4000%2C2250&width=100",
+      "image_title": "Bei der Wahl des richtigen Hotels orierntieren sich viele Urlauber an der Sternebewertung. Aber wofür stehen die Sterne eigentlich?",
+      "topic": "Hotelbewertung"
+    },
+    {
+      "title": "Schwarz-gelbe Tischgäste: Ist 2022 ein Wespenjahr?",
+      "url": "https://www.volksstimme.de/leben/haustiere/schwarz-gelbe-tischgaste-ist-2022-ein-wespenjahr-3427371",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/a9b13f8a-c24c-4cf0-b02d-d52eaa2eaeed.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Dieses Jahr scheint ein Wespenjahr zu sein.",
+      "topic": "Nabu-Prognose"
+    },
+    {
+      "title": "Für schöne Zähne auf Zigaretten verzichten",
+      "url": "https://www.volksstimme.de/leben/gesundheit/fur-schone-zahne-auf-zigaretten-verzichten-3427273",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/45f1f6ac-30af-42e6-9a2e-7e8dedbe6cda.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Zigaretten sind nicht hilfreich für ein schönes Lächeln. Denn wer raucht, riskiert nicht nur Zahnverfärbungenn, sondern auch Probleme mit dem Zahnfleisch und Karies.",
+      "topic": "Verfärbungen und Löcher"
+    },
+    {
+      "title": "Porsche-Umbauer Singer bringt Cabrio",
+      "url": "https://www.volksstimme.de/leben/auto/porsche-umbauer-singer-bringt-cabrio-3426991",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/ed1ceeff-e2f2-41ad-b198-13581df9c058.jpeg?rect=114%2C0%2C1820%2C1024&width=100",
+      "image_title": "Ein Klassiker der 90er wird modernisiert. Für das nötige Kleingeld macht Singer aus dem 964 Turbo eine veredelte Neuinterpretation.",
+      "topic": "964er oben ohne"
+    },
+    {
+      "title": "Was macht eigentlich ein Insektenforscher?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/was-macht-eigentlich-ein-insektenforscher-3427155",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/f162b34f-f686-484d-8841-a33f4437d94e.jpeg?rect=0%2C54%2C2048%2C1152&width=100",
+      "image_title": "Ob auf Exkursion am Äquator oder mit Kittel im Labor: Insektenforscher haben vielfältige berufliche Einsatzmöglichkeiten.",
+      "topic": "Job-Protokoll"
+    },
+    {
+      "title": "Original amerikanisches Ranch Dressing",
+      "url": "https://www.volksstimme.de/leben/gesundheit/original-amerikanisches-ranch-dressing-3427154",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/7a23e1ea-ff8b-4344-9d99-0d7de2037985.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Saure Sahne, Crème fraîche, Buttermilch, etwas Knoblauchgranulat, Pfeffer und Salz verrühren - und fertig ist das Ranch Dressing.",
+      "topic": "Ratzfatz zum Grillen"
+    },
+    {
+      "title": "Scharfes Chili-Einmaleins",
+      "url": "https://www.volksstimme.de/leben/gesundheit/scharfes-chili-einmaleins-3427159",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/135c0d40-0ee2-4ff9-a7a1-40c333bbef9d.jpeg?rect=0%2C116%2C2048%2C1152&width=100",
+      "image_title": "Schärfe kann auch süchtig machen. Chili, oder besser gesagt, der Schmerz, den es im Nerv auslöst, fördert den Ausstoß von Glückshormonen.",
+      "topic": "Spiel mit dem Feuer"
+    },
+    {
+      "title": "Energiepreispauschale: Finanzministerium klärt offene Fragen",
+      "url": "https://www.volksstimme.de/leben/finanzen/energiepreispauschale-finanzministerium-klart-offene-fragen-3427158",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/9074199d-b533-4446-95da-0ecde7120ba9.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Die Energiekosten steigen, eine Pauschale soll entlasten. Das Geld soll ab September mit dem Gehalt ausgezahlt werden.",
+      "topic": "Staatliche Entlastung"
+    },
+    {
+      "title": "Forscher identifizieren fünf Gründe für das Weinen",
+      "url": "https://www.volksstimme.de/leben/gesundheit/forscher-identifizieren-funf-grunde-fur-das-weinen-3426905",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/f09fc07c-0894-4dae-9c49-40776309af46.jpeg?rect=0%2C128%2C2048%2C1152&width=100",
+      "image_title": "Nur der Mensch weint aus emotionalen Gründen. Forscher haben dafür nun fünf Kategorien vorgestellt.",
+      "topic": "Emotionale Tränen"
+    },
+    {
+      "title": "Urlaub 2022: Falsche Hotel-Bewertungen im Internet - So können Fakes enttarnt werden",
+      "url": "https://www.volksstimme.de/leben/reisen/urlaub-buchen-urlaub-2022-falsche-hotel-bewertungen-im-internet-so-koennen-fakes-enttarnt-werden-3370986",
+      "topic": "Urlaub buchen"
+    },
+    {
+      "title": "Luxusurlaub oder Horrortrip? - Das bedeutet die Sternebewertung bei Hotels",
+      "url": "https://www.volksstimme.de/leben/reisen/luxusurlaub-oder-horrortrip-das-bedeutet-sternebewertung-im-hotel-3427356",
+      "topic": "Hotelbewertung"
+    },
+    {
+      "title": "Schwarz-gelbe Tischgäste: Ist 2022 ein Wespenjahr?",
+      "url": "https://www.volksstimme.de/leben/haustiere/schwarz-gelbe-tischgaste-ist-2022-ein-wespenjahr-3427371",
+      "topic": "Nabu-Prognose"
+    },
+    {
+      "title": "Für schöne Zähne auf Zigaretten verzichten",
+      "url": "https://www.volksstimme.de/leben/gesundheit/fur-schone-zahne-auf-zigaretten-verzichten-3427273",
+      "topic": "Verfärbungen und Löcher"
+    },
+    {
+      "title": "Was der Energievorrang für Bahnkunden bedeutet",
+      "url": "https://www.volksstimme.de/leben/auto/was-der-energievorrang-fur-bahnkunden-bedeutet-3426698",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/6ae1d3e7-927c-49b6-b394-426c2da75a45.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Güterzüge sollen Vorrang vor Personenzügen Vorrang erhalten, wenn sie Kohle, Gas, Öl oder Trafos geladen haben.",
+      "topic": "Kohle vor Fahrgast"
+    },
+    {
+      "title": "Mit dabei: So werden Fahrassistenzsysteme getestet",
+      "url": "https://www.volksstimme.de/leben/auto/mit-dabei-so-werden-fahrassistenzsysteme-getestet-3426484",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/4aa34d95-cd69-43b5-af8e-581fd3abfd55.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Informationszentrale: Der Ingenieur am Steuer leitet den Fahrversuch ein.",
+      "topic": "Autonomes Fahren"
+    },
+    {
+      "title": "Der Toyota Yaris (2010 bis 2020)",
+      "url": "https://www.volksstimme.de/leben/auto/der-toyota-yaris-2010-bis-2020-3426475",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/d33a72be-bcec-4d38-b147-2a670ffab537.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Zum Themendienst-Bericht vom 16. August 2022: Kleiner großer Auftritt: Nicht immer ist bauliche Größe der Schlüssel zu automobiler Zufriedenheit, wie moderne Kleinwagen wie der Toyota Yaris zeigen.",
+      "topic": "Gebrauchtwagen-Check"
+    },
+    {
+      "title": "Polizei: App für Durchblick im Verkehrsrecht-Dschungel",
+      "url": "https://www.volksstimme.de/leben/auto/polizei-app-fur-durchblick-im-verkehrsrecht-dschungel-3425850",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/828d6934-c0c4-4948-832c-c24c96ea8838.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Für Profis gemacht - praktisch für Laien: Die App „GdP“ von der Gewerkschaft der Polizei.",
+      "topic": "Wie war die Rechtslage?"
+    },
+    {
+      "title": "Auf dem Standstreifen fahren: Im Ausnahmefall erlaubt?",
+      "url": "https://www.volksstimme.de/leben/auto/auf-dem-standstreifen-fahren-im-ausnahmefall-erlaubt-3424366",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/30875d92-bf70-43a2-a3be-9902ba5ac12f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ich muss vorbei: Den Stand- und Pannenstreifen etwa bei Staus zu befahren, ist in der Regel tabu - bekommt ein Journalist eine Ausnahmegenehmigung?",
+      "topic": "Verkehrsrecht"
+    },
+    {
+      "title": "Auf was bei Fahrradhelmen zu achten ist",
+      "url": "https://www.volksstimme.de/leben/auto/auf-was-bei-fahrradhelmen-zu-achten-ist-3424369",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/2d2e4eec-d7d5-40cb-87e4-b114406d5334.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wie steigen die Preise zu Kopf? Je teurer Fahrradhelme sind, desto weniger Gewicht und umso mehr Komfortfunktionen bieten sie oft.",
+      "topic": "Radeln mit sicherem Köpfchen"
+    },
+    {
+      "title": "Was der Mercedes Marco Polo zu bieten hat und was nicht",
+      "url": "https://www.volksstimme.de/leben/auto/was-der-mercedes-marco-polo-zu-bieten-hat-und-was-nicht-3427156",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/d59bece2-32a2-4ab7-9529-72e0a4ce7988.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
+      "image_title": "Für Abenteurer und Individualisten: Mit dem Marco Polo macht Mercedes die V-Klasse zum Campervan.",
+      "topic": "Campervan im Test"
+    },
+    {
+      "title": "Spritpreise: 12 Cent Unterschied zwischen Morgen und Abend",
+      "url": "https://www.volksstimme.de/leben/auto/spritpreise-12-cent-unterschied-zwischen-morgen-und-abend-3423839",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/11/85cfa850-ed32-4495-b053-012ee4c7de7b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Autofahrer tanken am Abend günstiger als am Morgen. Bis zu 12 Cent pro Liter lassen sich zur richtigen Tageszeit sparen.",
+      "topic": "ADAC"
+    },
+    {
+      "title": "Viele Autofahrer trauen sich Fahrprüfung nicht mehr zu",
+      "url": "https://www.volksstimme.de/leben/auto/viele-autofahrer-trauen-sich-fahrprufung-nicht-mehr-zu-3422859",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/11/c23827b3-f198-4a86-94b9-587d9e33fd6e.jpeg?rect=0%2C109%2C2048%2C1152&width=100",
+      "image_title": "Mal ehrlich: Wüssten Sie bei jedem dieser Schilder noch, was genau sie bedeuten?",
+      "topic": "Umfrage"
+    },
+    {
+      "title": "Weiterfahren oder abschleppen? Auto nach Wildunfall checken",
+      "url": "https://www.volksstimme.de/leben/auto/weiterfahren-oder-abschleppen-auto-nach-wildunfall-checken-3422564",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/09/397802ac-1066-431d-8350-0e3a2fc7f924.jpeg?rect=0%2C140%2C2048%2C1152&width=100",
+      "image_title": "Wenn ein Tier unter die Räder gekommen ist, sollte das Auto auch auf versteckte Schäden untersucht werden.",
+      "topic": "Roadkill"
+    },
+    {
+      "title": "Elster: In drei Schritten das Zertifikat erneuern",
+      "url": "https://www.volksstimme.de/leben/finanzen/elster-in-drei-schritten-das-zertifikat-erneuern-3427001",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/ca77acf8-6718-42a6-aed7-7cd1761cc6d1.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bevor der Log-in nicht mehr möglich ist: Die Elster-Zertifikatsdatei muss regelmäßig erneuert werden.",
+      "topic": "Steuersoftware"
+    },
+    {
+      "title": "Urlaub auf Pump: 14 Prozent wollen Dispokredit nutzen",
+      "url": "https://www.volksstimme.de/leben/finanzen/urlaub-auf-pump-14-prozent-wollen-dispokredit-nutzen-3426940",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/c9b86aa0-d5d6-47bb-9dce-33fde3b1bcea.jpeg?rect=0%2C41%2C2048%2C1152&width=100",
+      "image_title": "14 Prozent der Menschen in Deutschland sind bereit, für die schönsten Wochen des Jahres ihr Konto mit einem Dispositionskredit zu überziehen. Das geht aus einer Yougov-Umfrage im Auftrag des Vergleichsportals Check24 hervor.",
+      "topic": "Umfrage"
+    },
+    {
+      "title": "Kartenzahlung: Nach Urlaubs-Rückkehr Konto prüfen",
+      "url": "https://www.volksstimme.de/leben/finanzen/kartenzahlung-nach-urlaubs-ruckkehr-konto-prufen-3426812",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/e6e00679-a2c9-448a-87a0-a4574a88afd2.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Nach dem Urlaub ist ein Kassensturz ratsam: Was wurde abgebucht - und ist alles korrekt?",
+      "topic": "Betrug früh entdecken"
+    },
+    {
+      "title": "Höhe der Gasumlage berechnen: Diese Mehrkosten kommen auf Sie zu",
+      "url": "https://www.volksstimme.de/leben/finanzen/gasumlage-berechnen-hoehe-der-mehrkosten-laut-gasverbrauch-ermitteln-3426694",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/d0522b93-de38-4f93-96a6-5ffdb015fdc4.jpeg?rect=0%2C156%2C3504%2C1971&width=100",
+      "image_title": "Die Gasumlage beschert Verbrauchern höhere Preise.",
+      "topic": "Höhere Preise für Verbraucher"
+    },
+    {
+      "title": "Bauzinsen sinken wieder leicht",
+      "url": "https://www.volksstimme.de/leben/finanzen/bauzinsen-sinken-wieder-leicht-3426509",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/dfce8a1b-36e9-45af-bf52-30b9c57ab1f5.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
+      "image_title": "Nach Höhenflug folgt kleiner Rücksetzer: Die Bauzinsen liegen wieder unter drei Prozent.",
+      "topic": "„Finanztest“"
+    },
+    {
+      "title": "So gleichen Sie steigende Energiekosten aus",
+      "url": "https://www.volksstimme.de/leben/finanzen/so-gleichen-sie-steigende-energiekosten-aus-3425851",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/221758eb-991b-4b9e-b050-959a795a6633.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Gemeinsam ins Auto: Fahrgemeinschaften können angesichts steigender Verbraucherpreise eine echte finanzielle Entlastung bieten.",
+      "topic": "8 Spartipps"
+    },
+    {
+      "title": "Bei Zahlungsschwierigkeiten Schuldnerberatung aufsuchen",
+      "url": "https://www.volksstimme.de/leben/finanzen/bei-zahlungsschwierigkeiten-schuldnerberatung-aufsuchen-3425430",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/0e9c4cf6-3807-4d94-9738-910b07350178.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Lebe ich auf zu großem Fuß? Ein Blick auf die Ein- und Ausgaben schafft Klarheit.",
+      "topic": "Kostenloses Angebot"
+    },
+    {
+      "title": "Förder-Reform: Das müssen Sie für Ihre Sanierung wissen",
+      "url": "https://www.volksstimme.de/leben/finanzen/forder-reform-das-mussen-sie-fur-ihre-sanierung-wissen-3424596",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/476c9fd4-5a1f-436d-b306-8a959826b6c0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Mehr als nur ein neuer Anstrich: Wer seine Immobilie energetisch saniert, kann mit Zuschüssen vom Staat rechnen.",
+      "topic": "Geld vom Staat"
+    },
+    {
+      "title": "Ticketportal haftet nicht für Konzert-Ausfall wegen Corona",
+      "url": "https://www.volksstimme.de/leben/finanzen/ticketportal-haftet-nicht-fur-konzert-ausfall-wegen-corona-3423456",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/aee3afaa-66d0-418f-a109-2a8b83d26027.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Laut BGH haftet ein Ticketanbieter üblicherweise nicht für die Durchführung der Veranstaltung - er hat seinen Teil des Vertrags erfüllt, sobald er die Eintrittskarten ausgehändigt hat.",
+      "topic": "BGH"
+    },
+    {
+      "title": "IW-Studie: Knapp fünf Minuten Arbeit für ein Speiseeis",
+      "url": "https://www.volksstimme.de/leben/finanzen/iw-studie-knapp-funf-minuten-arbeit-fur-ein-speiseeis-3423286",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/10/7e0060ec-521e-43f7-b279-738a640da122.jpeg?rect=0%2C151%2C2048%2C1152&width=100",
+      "image_title": "Ein Speiseeis kostet die Deutschen durchschnittlich knapp fünf Minuten Arbeit.",
+      "topic": "Inflation"
+    },
+    {
+      "title": "Salben, Dusche, Feuchttücher: Das hilft, wenn der Po juckt",
+      "url": "https://www.volksstimme.de/leben/gesundheit/salben-dusche-feuchttucher-das-hilft-wenn-der-po-juckt-3426751",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/ed1c05be-7a01-4aac-8737-dfe2a2adbfc5.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Zinkhaltige Salben eignen sich gut, wenn es darum geht, Juckreiz zu lindern - auch am Po.",
+      "topic": "Wie unangenehm!"
+    },
+    {
+      "title": "Videotherapie spart Zeit und Wege",
+      "url": "https://www.volksstimme.de/leben/gesundheit/videotherapie-spart-zeit-und-wege-3426507",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/b6909f45-7b39-4cc2-9662-af2d64fad97c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bei Online-Sitzungen spricht man via Videotelefonat mit der Therapeutin oder dem Therapeuten.",
+      "topic": "Sitzung aus der Ferne"
+    },
+    {
+      "title": "Fachbegriffe: Gut vorbereitet ins Arztgespräch gehen",
+      "url": "https://www.volksstimme.de/leben/gesundheit/fachbegriffe-gut-vorbereitet-ins-arztgesprach-gehen-3426478",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/16338d05-6b5f-4e46-b9e2-6e96ee425cdf.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Keine Scheu vor Nachfragen: Ärztinnen und Ärzte nutzen immer wieder Fachbegriffe, die nicht jeder kennt. Wer sich das Gesagte in einfachen Worten noch einmal erklären lässt, geht besser informiert aus der Sprechstunde.",
+      "topic": "Moment, was heißt das genau?"
+    },
+    {
+      "title": "Corona-Schnelltest funktioniert nicht mit Leitungswasser",
+      "url": "https://www.volksstimme.de/leben/gesundheit/kann-corona-ueber-trinkwasser-uebertragen-werden--3425522",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/14/df07b1e2-be56-463b-bac3-2ed034a9562f.jpeg?rect=0%2C209%2C4000%2C2250&width=100",
+      "image_title": "Zwei Striche auf einem Teststäbchen lassen sich auch mit Wasser herbeiführen. Ein Nachweis über Corona-Viren in Wasser ist das jedoch nicht.",
+      "topic": "Faktencheck"
+    },
+    {
+      "title": "Rohes Fleisch kaufen: Kühlkette nicht unterbrechen",
+      "url": "https://www.volksstimme.de/leben/gesundheit/rohes-fleisch-kaufen-kuhlkette-nicht-unterbrechen-3427202",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/0e471d5e-6a79-40ff-a6e2-bc718ebe6f69.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wer Fleisch einkauft, sollte auf Frische und Qualität achten - und die Ware erst am Ende des Einkaufes einpacken.",
+      "topic": "Schön kalt halten"
+    },
+    {
+      "title": "Einölen oder vorkochen: So gelingt Gemüse auf dem Grill",
+      "url": "https://www.volksstimme.de/leben/gesundheit/einolen-oder-vorkochen-so-gelingt-gemuse-auf-dem-grill-3425884",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/5e34e96a-85f7-4667-8b7b-508f3c0c6d14.jpeg?rect=0%2C91%2C2048%2C1152&width=100",
+      "image_title": "Nicht jedes Gemüse sollte gleichlang auf dem Rost brutzeln: Bei Paprika reichen beispielsweise fünf Minuten. Vorgegarter Mais kann auch mal zehn Minuten lang rösten.",
+      "topic": "Aubergine bis Zucchini"
+    },
+    {
+      "title": "Steinobst übrig: Wie wäre es mit einer fruchtigen Galette?",
+      "url": "https://www.volksstimme.de/leben/gesundheit/steinobst-ubrig-wie-ware-es-mit-einer-fruchtigen-galette-3426486",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/d62b2830-9dc2-4b9a-b91a-c83f0486c800.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
+      "image_title": "Am besten schmeckt die Galette mit Steinobst, wenn sie noch lauwarm ist.",
+      "topic": "Rezept und Tipps"
+    },
+    {
+      "title": "Hitze kann Wirkung von Medikamenten auf den Körper verändern",
+      "url": "https://www.volksstimme.de/leben/gesundheit/hitze-kann-wirkung-von-medikamenten-auf-den-korper-verandern-3424380",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/7d1e82dd-73a2-4add-9bf3-963705730eb2.jpeg?rect=0%2C151%2C2048%2C1152&width=100",
+      "image_title": "Genügend trinken ist an heißen Tagen besonders wichtig - doch Wirkstoffe in Medikamenten können etwa das Durstgefühl verändern.",
+      "topic": "Rat vom Arzt holen"
+    },
+    {
+      "title": "Anzeichen deuten: Nur Vergesslichkeit oder schon Alzheimer?",
+      "url": "https://www.volksstimme.de/leben/gesundheit/anzeichen-deuten-nur-vergesslichkeit-oder-schon-alzheimer-3424009",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/11/bc351c0d-cf1e-4d3f-9bfc-f9685c6067ba.jpeg?rect=0%2C117%2C2048%2C1152&width=100",
+      "image_title": "Wie war das Wort nochmal? Wer regelmäßig vergessliche Momente hat, hat oft Sorge, dass sich eine Alzheimer-Erkrankung anbahnt.",
+      "topic": "Krankheit"
+    },
+    {
+      "title": "Mit Spielzeug-Förmchen Eiswürfel zubereiten?",
+      "url": "https://www.volksstimme.de/leben/gesundheit/mit-spielzeug-formchen-eiswurfel-zubereiten-3423934",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/b324f061-0a2f-4c5f-bfe7-dfbe7b804702.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Wenn man beim Pop-It-Fidget die Kugeln in die Mulde drückt, geben sie ein lautes Plopp von sich.",
+      "topic": "Pop-It-Fidget"
+    },
+    {
+      "title": "Energiepreis-Rechner: Welche Abschläge sind angemessen?",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/energiepreis-rechner-welche-abschlage-sind-angemessen-3426896",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/1a352bdf-4b9b-4928-8eb3-c44a7846ad4c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Welchen Vebrauch misst mein Zähler pro Jahr? Spätestens auf der Jahresabrechnung steht es.",
+      "topic": "Steigende Kosten"
+    },
+    {
+      "title": "So wird der Oleander wieder gesund",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/so-wird-der-oleander-wieder-gesund-3426804",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/fff26f5f-fd6c-41ec-9bf2-60dc1bf24c91.jpeg?rect=0%2C85%2C2048%2C1152&width=100",
+      "image_title": "Eigentlich sollten Oleander mit prächtiger Blüte noch bis September auf dem Höhepunkt ihres Gartenjahres sein. Doch diverse Schädlinge können die Pflanze befallen.",
+      "topic": "Schädlingsbefall"
+    },
+    {
+      "title": "Diese Krokusse muss man schon jetzt setzen",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/diese-krokusse-muss-man-schon-jetzt-setzen-3426520",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/4ca04fc4-4666-4e5b-aa1c-8653037267ca.jpeg?rect=0%2C651%2C1328%2C747&width=100",
+      "image_title": "Der Prachtkrokus (Crocus speciosus 'Aitchinsonii') erblüht erst im Herbst.",
+      "topic": "Frühling im Herbst"
+    },
+    {
+      "title": "So vertreiben Sie Schnecken aus Ihrem Garten",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/so-vertreiben-sie-schnecken-aus-ihrem-garten-3426194",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/f4d40d16-f8ca-4a3a-a622-5e210d491505.jpeg?rect=0%2C90%2C2048%2C1152&width=100",
+      "image_title": "Nacktschnecken lassen sich die saftigen Blätter vieler Gartenpflanzen schmecken.",
+      "topic": "Ungebetene Gäste"
+    },
+    {
+      "title": "Trockenheit: Hecken schützen Pflanzen eher vor Verdursten",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/trockenheit-hecken-schutzen-pflanzen-eher-vor-verdursten-3424601",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/996db060-ae2b-484e-9758-1e8a35ec7f67.jpeg?rect=0%2C194%2C2048%2C1152&width=100",
+      "image_title": "Eine Hecke ist Schutz in mehrfacher Hinsicht: Sie ist Sichtschutz, aber auch eine Windbarriere, die Pflanzen im Garteninneren hilft.",
+      "topic": "Zu wenig Wasser"
+    },
+    {
+      "title": "Bevor der Winter kommt: Vorlauftemperatur der Heizung senken",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/bevor-der-winter-kommt-vorlauftemperatur-der-heizung-senken-3424356",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/30495285-7b50-4dd4-95e0-423bcb4a0b58.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Es gibt noch Sparpotenzial: Viele Heizungen sind noch nicht effizient eingestellt.",
+      "topic": "Energiespartipp"
+    },
+    {
+      "title": "Neue Eigentümer alter Häuser müssen energetisch nachrüsten",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/neue-eigentumer-alter-hauser-mussen-energetisch-nachrusten-3424357",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/4d317417-b01a-4a3a-8cab-aa2918fc4f44.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Klingt schwieriger als es ist: Das Dämmen von Rohrleitungen können geschickte Eigentümer auch selbst übernehmen.",
+      "topic": "Sanierungspflicht"
+    },
+    {
+      "title": "Spätsommer: Das Ausgeizen der Tomaten lohnt sich weiterhin",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/spatsommer-das-ausgeizen-der-tomaten-lohnt-sich-weiterhin-3424354",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/87781e1a-06a6-42ed-a8a0-1763ca31917d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Für eine sichere Ernte sollte man Tomaten auch im Spätsommer noch ausgeizen.",
+      "topic": "Gartenkalender"
+    },
+    {
+      "title": "Wespe, Biene, Hornisse: So unterscheiden sich die Insekten",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/insekten-wespe-biene-hornisse-so-unterscheiden-sich-die-insekten-3423986",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/11/b4a6650c-0856-4ed0-bb8b-2e7547cac4d7.jpeg?rect=0%2C345%2C3367%2C1894&width=100",
+      "image_title": "Im Sommer fliegen viele Insekten durch die Luft. Einige sind harmlos, bei anderen ist Vorsicht geboten. Worin unterscheiden sich Biene, Wespe und Hornisse?",
+      "topic": "Insekten"
+    },
+    {
+      "title": "1,51 Euro pro Liter: Heizöl bleibt teuer",
+      "url": "https://www.volksstimme.de/leben/haus-und-garten/1-51-euro-pro-liter-heizol-bleibt-teuer-3424044",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/013f853a-6024-4d01-b36e-6729f1aea118.jpeg?rect=0%2C101%2C2048%2C1152&width=100",
+      "image_title": "Ein Liter Heizöl kostet derzeit 1,51 Euro.",
+      "topic": "Auswertung eines Onlineportals"
+    },
+    {
+      "title": "Ist kurze Arbeitskleidung erlaubt?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/ist-kurze-arbeitskleidung-erlaubt-3426883",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/4b737d7f-664b-4ff7-9f3d-a48c22cabe55.jpeg?rect=0%2C56%2C2048%2C1152&width=100",
+      "image_title": "Für bestimmte Tätigkeiten ist spezielle Schutzausrüstung zwingend vorgeschrieben - die müssen Beschäftigte dann natürlich auch bei hohen Außentemperaturen tragen.",
+      "topic": "In Shorts auf dem Bau"
+    },
+    {
+      "title": "Mehr als 200.000 Promovierende an deutschen Universitäten",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/mehr-als-200-000-promovierende-an-deutschen-universitaten-3426841",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/47e83118-4c3c-4881-9aa9-5dd06bb20393.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bis zum Doktortitel ist es ein weiter Weg - dennoch steigt die Zahl der Promovierenden.",
+      "topic": "Statistik"
+    },
+    {
+      "title": "Zurück im Job: So steigern Sie die Motivation",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/zuruck-im-job-so-steigern-sie-die-motivation-3426482",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/2791c3fb-a1dd-47ca-9396-f84779e59b2a.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "In der ersten Woche nach dem Urlaub muss sich der Körper erst wieder umstellen. Deswegen gilt: Am besten nicht gleich von Null auf Hundert.",
+      "topic": "Nach dem Urlaub"
+    },
+    {
+      "title": "Dienstunfähig? Versetzung in vorzeitigen Ruhestand möglich",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/dienstunfahig-versetzung-in-vorzeitigen-ruhestand-moglich-3426115",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/4216bd74-7174-4e23-97d2-f0c16891b530.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Arbeitgeber können dienstunfähig geschriebene Feuerwehrbeamte vorzeitig in den Ruhestand versetzen - auch ohne vorher ein sogenanntes BEM-Verfahren durchzuführen.",
+      "topic": "Urteil"
+    },
+    {
+      "title": "Unterdurchschnittliche Leistung kann zu Kündigung führen",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/unterdurchschnittliche-leistung-kann-zu-kundigung-fuhren-3424600",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/4f5f1e70-7cf5-4366-b690-84d1506264ea.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Kündigung ist die Ausnahme: Für Arbeitgeber ist es in der Regel schwer, nachzuweisen, dass jemand absichtlich unter einem definierten Leistungsniveau bleibt.",
+      "topic": "Urteil"
+    },
+    {
+      "title": "Darf der Arbeitgeber mich ins Homeoffice schicken?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/darf-der-arbeitgeber-mich-ins-homeoffice-schicken-3425853",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/b3485553-e60d-4bc5-be0c-e4166cdc8c75.jpeg?rect=0%2C143%2C2048%2C1152&width=100",
+      "image_title": "Licht aus, Heizung aus? Arbeitgeber können ihre Beschäftigten nicht einfach so ins Homeoffice verbannen, um Energie zu sparen.",
+      "topic": "Energiesparen"
+    },
+    {
+      "title": "Schulanfang: Ranzen nicht zu schwer und gut passend",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/schulanfang-ranzen-nicht-zu-schwer-und-gut-passend-1589523",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/11/1e510805-6b2b-4a6a-a438-1c7b748b5fb2.jpeg?rect=0%2C209%2C4000%2C2250&width=100",
+      "image_title": "Beim Schulranzen sollte auf einiges geachtet werden. Uwe Hannemann vom Servicezentrum der DAK-Gesundheit gibt Tipps zum Thema Schulranzen.",
+      "topic": "Einschulung"
+    },
+    {
+      "title": "Sehnenriss bei Postbeamten ist Dienstunfall",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/sehnenriss-bei-postbeamten-ist-dienstunfall-3423997",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/ee1d0a89-dcfd-4d1d-90bb-8ca6037ba22f.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Zusteller müssen täglich kiloschwere Pakete tragen - das kann auch gesundheitliche Folgen haben.",
+      "topic": "Urteil"
+    },
+    {
+      "title": "Nach Urlaub in Quarantäne: Wann Beschäftigten Lohn zusteht",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/nach-urlaub-in-quarantane-wann-beschaftigten-lohn-zusteht-3423543",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/a38ba3a1-bfec-4cd4-928a-665b7f5d1715.jpeg?rect=0%2C99%2C2048%2C1152&width=100",
+      "image_title": "Arbeitgeber, die härtere Corona-Regeln aufstellen als von den Behörden vorgesehen, dürfen Urlaubsrückkehrer nicht ohne Bezahlung in Quarantäne schicken.",
+      "topic": "Arbeitsrecht"
+    },
+    {
+      "title": "Wie funktioniert eigentlich ein Bildungsgutschein?",
+      "url": "https://www.volksstimme.de/leben/job-und-bildung/wie-funktioniert-eigentlich-ein-bildungsgutschein-3423693",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/f8a9c8a3-8a72-464a-bbc0-63077d286541.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Unter bestimmten Umständen kommt das Jobcenter mittels Bildungsgutschein für die Kosten einer Weiterbildung auf.",
+      "topic": "Vom Jobcenter"
+    },
+    {
+      "title": "Getaria im Baskenland: Die Heimat des ersten Weltumseglers",
+      "url": "https://www.volksstimme.de/leben/reisen/getaria-im-baskenland-die-heimat-des-ersten-weltumseglers-3427160",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/25df56f0-71cb-4b7d-ba93-018811355a9d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Sonnenuntergang am Gaztetape-Strand von Getaria: Er liegt dem offenen Meer zugewandt, was ihn wegen der Wellen für Surfer attraktiv macht.",
+      "topic": "Küstendorf"
+    },
+    {
+      "title": "Prignitz - hier wird Gin gebrannt",
+      "url": "https://www.volksstimme.de/leben/reisen/prignitz-hier-wird-gin-gebrannt-3426839",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/07537ac6-7119-4d0d-8c14-f717a882c5c2.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "In einem großen, kupferfarbenen Kessel wird der edle Tropfen mit heimischen Kräutern wie Brombeeren, Haferstroh oder Gänseblümchen gebrannt.",
+      "topic": "Blutorange und Hopfen"
+    },
+    {
+      "title": "Mietwagen können für Extrakosten im Hotel sorgen",
+      "url": "https://www.volksstimme.de/leben/reisen/mietwagen-konnen-fur-extrakosten-im-hotel-sorgen-3426808",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/c3b0cf66-2b6a-4484-89fe-4b44446bdaed.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Mietwagen im Urlaubsland geht ohnehin schon ins Geld und kann auch noch für unerwartete Zusatzkosten sorgen: Wenn das Hotel Parkgebühren verlangt.",
+      "topic": "Parkgebühr"
+    },
+    {
+      "title": "Reisanbau gefährdet Tansanias bedrohte Tiere",
+      "url": "https://www.volksstimme.de/leben/reisen/reisanbau-gefahrdet-tansanias-bedrohte-tiere-3426805",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/8d89d7ec-a191-4414-81c8-cab69ad481e0.jpeg?rect=0%2C131%2C2048%2C1152&width=100",
+      "image_title": "Mehr als 500 vom Aussterben bedrohte Afrikanische Wildhunde leben im Ruaha-Nationalpark in Tansania.",
+      "topic": "Der Kampf um Wasser"
+    },
+    {
+      "title": "Elsässer bringen Schwung in früheres Kaiser-Fort",
+      "url": "https://www.volksstimme.de/leben/reisen/elsasser-bringen-schwung-in-fruheres-kaiser-fort-3426737",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/a80a3be9-2ace-4e30-9702-c7e208a4fc24.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Modell der Festungsanlage zeigt den restaurierten Teil der „Feste Kaiser Wilhelm II.“.",
+      "topic": "Militärische Musteranlage"
+    },
+    {
+      "title": "Tourismusverband wirbt für Urlaub in Sächsischer Schweiz",
+      "url": "https://www.volksstimme.de/leben/reisen/tourismusverband-wirbt-fur-urlaub-in-sachsischer-schweiz-3426691",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/cd098d9a-11ca-407d-a48e-c178de7e7da6.jpeg?rect=0%2C181%2C2048%2C1152&width=100",
+      "image_title": "Die Lage im Waldbrandgebiet der Sächsischen Schweiz entspannt sich weiter. Aktuell gibt es nur geringe Einschränkungen für Urlauber.",
+      "topic": "Nach Waldbrand"
+    },
+    {
+      "title": "Das lassen Urlauber aus dem Hotel mitgehen",
+      "url": "https://www.volksstimme.de/leben/reisen/das-lassen-urlauber-aus-dem-hotel-mitgehen-3424913",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/ef89b38b-197f-4995-b610-230f017621ad.jpeg?rect=0%2C131%2C2048%2C1152&width=100",
+      "image_title": "Beliebte Souvenirs: Noch sind die Bademäntel da, später hat sie vielleicht schon ein Hotelgast „aus Versehen eingepackt“.",
+      "topic": "Bademantel und Bibel"
+    },
+    {
+      "title": "Falklandinseln: Die Luftbrücke zu den Pinguinen",
+      "url": "https://www.volksstimme.de/leben/reisen/falklandinseln-die-luftbrucke-zu-den-pinguinen-3425846",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/47e28c86-cbeb-4695-b678-76f3912c0bc6.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Im Schnee wirken sie fast noch possierlicher als ohnehin schon: Pinguine in der Yorke Bay.",
+      "topic": "Südatlantik"
+    },
+    {
+      "title": "Beißende Fische schrecken Schwimmer in Südfrankreich auf",
+      "url": "https://www.volksstimme.de/leben/reisen/beissende-fische-schrecken-schwimmer-in-sudfrankreich-auf-3424184",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/12/16fd8b6e-a4db-47df-8b6e-0942efd7d6e7.jpeg?rect=0%2C6%2C2048%2C1152&width=100",
+      "image_title": "In Südfrankreich werden Badegäste derzeit von aggressiven Drückerfischen attackiert.",
+      "topic": "Wegen Wassertemperatur"
+    },
+    {
+      "title": "Mehr Bahn-Reisen in Tourismusregionen durch 9-Euro-Ticket",
+      "url": "https://www.volksstimme.de/leben/reisen/mehr-bahn-reisen-in-tourismusregionen-durch-9-euro-ticket-3423947",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/11/9b122830-4130-44c9-9e17-5e59b5f0f10a.jpeg?rect=0%2C57%2C2048%2C1152&width=100",
+      "image_title": "Laut dem Statistischen Bundesamt reisten durch das 9-Euro-Ticket deutlich mehr Menschen mit dem Zug in deutsche Tourismusregionen.",
+      "topic": "Statistisches Bundesamt"
+    },
+    {
+      "title": "Signal mit PIN und Registrierungssperre nutzen",
+      "url": "https://www.volksstimme.de/leben/technik/signal-mit-pin-und-registrierungssperre-nutzen-3426901",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/6d1dcb49-f89b-4c09-9e5e-8be6e213a47b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Signal ist auf Sicherheit und Privatsphäre bedacht. Einige wichtige Features müssen aber extra aktiviert werden.",
+      "topic": "Sicherheit"
+    },
+    {
+      "title": "Computerspielbranche wächst deutlich langsamer",
+      "url": "https://www.volksstimme.de/leben/technik/computerspielbranche-wachst-deutlich-langsamer-3426769",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/8c3971f4-749c-463f-a0c8-e50560196bac.jpeg?rect=0%2C101%2C2048%2C1152&width=100",
+      "image_title": "Besucher der Gamescom testen an einem Stand ein Spiel.",
+      "topic": "Gaming"
+    },
+    {
+      "title": "Jugendliche etwas weniger online - aber mehr als vor Corona",
+      "url": "https://www.volksstimme.de/leben/technik/jugendliche-etwas-weniger-online-aber-mehr-als-vor-corona-3426669",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/17/79652a57-a8db-4c1b-9c9c-4b14fa068b25.jpeg?rect=0%2C237%2C2048%2C1152&width=100",
+      "image_title": "Ein junger Mann spielt ein Online-Computerspiel.",
+      "topic": "Studie"
+    },
+    {
+      "title": "Phishing hat viele Gesichter",
+      "url": "https://www.volksstimme.de/leben/technik/phishing-hat-viele-gesichter-3426506",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/16/14c7c963-d467-4f76-9a0b-4023be822f95.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Augen auf beim Chatten und bei Kurznachrichten: Phishing-Angriffe gibt es längst auch über Messenger oder SMS.",
+      "topic": "Gefährliches Datenangeln"
+    },
+    {
+      "title": "BDS ist Weltmeister der Rocket League Championship Series",
+      "url": "https://www.volksstimme.de/leben/technik/bds-ist-weltmeister-der-rocket-league-championship-series-3426214",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/c92d299b-e144-46a1-bf90-ab25b01a4512.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "BDS brachte bei der Rocket-League-WM die Konkurrenz zum Schweigen.",
+      "topic": "Rocket League"
+    },
+    {
+      "title": "Vancouver überrennt Paris in der Overwatch League",
+      "url": "https://www.volksstimme.de/leben/technik/vancouver-uberrennt-paris-in-der-overwatch-league-3426147",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/c5f3bcce-1345-4be1-bc09-f84b71d8653a.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Vancouver Titans haben ihren ersten Saisonsieg in der Overwatch League errungen. (Archivbild)",
+      "topic": "Erster Saison-Soeg"
+    },
+    {
+      "title": "Spirit besiegt PSG.LGD mit 3:1 im Finale des Arlington Major",
+      "url": "https://www.volksstimme.de/leben/technik/spirit-besiegt-psg-lgd-mit-3-1-im-finale-des-arlington-major-3426141",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/16136180-456f-46c8-8866-bfa1c7f70bb5.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Das Dota-2-Team Spirit schließt eine wackelige Saison mit der Major-Trophäe in Arlington ab.",
+      "topic": "Dota 2"
+    },
+    {
+      "title": "Fnatic und Excel retten sich in die LEC-Playoffs",
+      "url": "https://www.volksstimme.de/leben/technik/fnatic-und-excel-retten-sich-in-die-lec-playoffs-3425806",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/32545561-cc97-47ac-b768-89858b1e5a66.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Excel schafft es im Entscheidungsspiel gegen Vitality in die LEC-Playoffs.",
+      "topic": "League of Legends"
+    },
+    {
+      "title": "Fnatic Rising holt Titel in CS:GO WePlay Academy League",
+      "url": "https://www.volksstimme.de/leben/technik/fnatic-rising-holt-titel-in-cs-go-weplay-academy-league-3425802",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/555214c4-246e-4e12-b23e-86afa0148b65.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Nach dem Ausscheiden von Mouz NXT wurde Fnatic Rising zum zweiten Meister der CS:GO-Nachwuchsliga WePlay Academy League.",
+      "topic": "BIG scheitert im Halbfinale"
+    },
+    {
+      "title": "Last-Chance-Turnier: Liquid nach Sieg bei Valorant-WM dabei",
+      "url": "https://www.volksstimme.de/leben/technik/last-chance-turnier-liquid-nach-sieg-bei-valorant-wm-dabei-3425800",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/08/15/71c8cb85-d512-4ce3-9411-3328a63c406b.jpeg?rect=0%2C192%2C2048%2C1152&width=100",
+      "image_title": "Die europäischen Teilnehmer für die Valorant-WM stehen fest.",
+      "topic": "Acend und G2 raus"
+    },
+    {
+      "title": "Verein für Bestattungskultur begrüßt Ausnahmen zur Sargpflicht",
+      "url": "https://www.volksstimme.de/leben/trauer/verein-fur-bestattungskultur-begrusst-ausnahmen-zur-sargpflicht-3178779",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/5/31/54e8d537-c00d-403b-b3ec-3778c092212b.jpeg?rect=4%2C18%2C1996%2C962&width=100",
+      "image_title": "Beisetzung ohne Sarg soll für alle Menschen möglich sein, auch wenn keine religiösen Gründe vorliegen.",
+      "topic": "Bestattung"
+    },
+    {
+      "title": "Den Tag X planen: Schon zu Lebzeiten an die Beerdigung denken",
+      "url": "https://www.volksstimme.de/leben/trauer/den-tag-x-planen-schon-zu-lebzeiten-an-die-beerdigung-denken-3178777",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/5/31/49385b6c-0e35-420e-8d26-904f66e80e92.jpeg?rect=3%2C1972%2C2991%2C1824&width=100",
+      "image_title": "Der Gedanke an den eigenen Tod ist für viele Menschen natürlich nicht angenehm.",
+      "topic": "Bestattung"
+    },
+    {
+      "title": "Recht: Was bei Bestattungen erlaubt ist",
+      "url": "https://www.volksstimme.de/leben/trauer/recht-was-bei-bestattungen-erlaubt-ist-1097500",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/be37c0b9-ad54-48bf-b38b-7ab2a203d39e.jpeg?width=100",
+      "image_title": "Recht: Was bei Bestattungen erlaubt ist",
+      "topic": "Friedhof"
+    },
+    {
+      "title": "Was im Todesfall zu tun ist",
+      "url": "https://www.volksstimme.de/leben/trauer/was-im-todesfall-zu-tun-ist-1004229",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/bcdccc4b-e0bf-40f8-8eb0-2bf93b7fd83e.jpeg?width=100",
+      "image_title": "Was im Todesfall zu tun ist",
+      "topic": "Hinterbliebene"
+    },
+    {
+      "title": "Tipps für die eigene Beerdigung",
+      "url": "https://www.volksstimme.de/leben/trauer/tipps-fur-die-eigene-beerdigung-884541",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/98d84f4d-42a2-4cbb-8594-32769d9a3480.jpeg?width=100",
+      "image_title": "Tipps für die eigene Beerdigung",
+      "topic": "Bestattung"
+    },
+    {
+      "title": "Bei der Grabpflege helfen lassen",
+      "url": "https://www.volksstimme.de/leben/trauer/bei-der-grabpflege-helfen-lassen-1937745",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/20/680f54ee-c313-481b-8662-77850da6c459.jpeg?width=100",
+      "image_title": "Bei der Grabpflege helfen lassen",
+      "topic": "Friedhof"
+    },
+    {
+      "title": "Den Tod nicht verdrängen",
+      "url": "https://www.volksstimme.de/leben/trauer/den-tod-nicht-verdrangen-1907417",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/20/c5d13c63-5f43-44df-86fa-3a184ef4ebe6.jpeg?width=100",
+      "image_title": "Den Tod nicht verdrängen",
+      "topic": "Trauer"
+    },
+    {
+      "title": "Wenn Trauer krank macht",
+      "url": "https://www.volksstimme.de/leben/trauer/wenn-trauer-krank-macht-734679",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/ecd98a6f-5038-44e6-b077-cdde32ebe891.jpeg?width=100",
+      "image_title": "Wenn Trauer krank macht",
+      "topic": "Trauerarbeit"
+    },
+    {
+      "title": "Erbvertrag kann Testament ersetzen",
+      "url": "https://www.volksstimme.de/leben/trauer/erbvertrag-kann-testament-ersetzen-693214",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/a8455531-7d9e-4dda-be0c-51dd36817c81.jpeg?width=100",
+      "image_title": "Erbvertrag kann Testament ersetzen",
+      "topic": "Erbrecht"
+    },
+    {
+      "title": "Über Leben, Tod und Sterben: \"Jenseite\" will Tod und Trauer aus dem Abseits holen",
+      "url": "https://www.volksstimme.de/leben/trauer/uber-leben-tod-und-sterben-jenseite-will-tod-und-trauer-aus-dem-abseits-holen-570571",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/3/4e1e10bc-09c0-4329-99a9-8ad61d929d23.jpeg?width=100",
+      "image_title": "Über Leben, Tod und Sterben: \"Jenseite\" will Tod und Trauer aus dem Abseits holen"
+    }
+  ]
 }
