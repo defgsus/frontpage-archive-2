@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-17T07:19:43",
+  "timestamp": "2022-08-17T08:28:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-7222389.html"
+    },
+    {
       "title": "HPE Integrated Lights-Out",
       "url": "https://www.heise.de/news/Fernwartung-Kritische-Sicherheitsluecken-in-HPE-Integrated-Lights-Out-iLO-7219923.html"
     },
@@ -42,16 +46,6 @@
     {
       "title": "Zoho ManageEngine OpManager",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Zoho-ManageEngine-OpManager-7217521.html"
-    },
-    {
-      "title": "Cisco ASA und Firepower",
-      "url": "https://www.heise.de/news/Cisco-Angreifer-koennten-an-private-RSA-Schluessel-in-ASA-und-Firepower-gelangen-7216863.html"
-    },
-    {
-      "title": "Facebook verschlüsselt Links – und umgeht dadurch Schutz vor Tracking",
-      "teaser": "Facebook umgeht anscheinend durch Verschlüsselung von URLs Schutzmaßnahmen der Webbrowser gegen Nutzerverfolgung. Das Unternehmen wiegelt ab.",
-      "url": "https://www.heise.de/news/Facebook-verschluesselt-Links-und-umgeht-dadurch-Schutz-vor-Tracking-7221942.html",
-      "image_title": "Aufmacher: Umgeht Facebook den Tracking-Schutz?"
     },
     {
       "title": "DefCon 30: Unsicherheiten durch Microsoft in UEFI Secure Boot",
@@ -65,6 +59,12 @@
       "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
     },
     {
+      "title": "Messenger Signal: Nutzer von Twilio-Einbruch betroffen",
+      "teaser": "Vergangene Woche wurde bekannt, dass Einbrecher beim Dienstanbieter Twilio Zugriff auf Daten hatten. 1900 Signal-Nutzer waren potenziell davon betroffen.",
+      "url": "https://www.heise.de/news/Messenger-Signal-Nutzer-von-Twilio-Datenklau-betroffen-7221259.html",
+      "image_title": "Aufmacher 1900 Signal-Nutzer von Twilio-Datenklau betroffen"
+    },
+    {
       "title": "Datenleck bei MailChimp betrifft Krypto- und Cloud-Kunden",
       "teaser": "Bei MailChimp sind erneut unerlaubt Kundendaten kopiert worden. Der Maildienstleister vermutet gezielte Angriffe gegen Nutzer aus der Kryptobranche.",
       "url": "https://www.heise.de/news/Datenleck-bei-MailChimp-betrifft-Krypto-und-Cloud-Kunden-7221177.html",
@@ -75,6 +75,11 @@
       "teaser": "Zwang zum regelmäßigen Ändern von Passwörtern ist eine schlechte Idee. Standardpasswörter in Geräten auch.",
       "url": "https://www.heise.de/news/BSI-Beirat-warnt-vor-ueberkomplexen-Passwoertern-und-staendiger-Erneuerung-7221073.html",
       "image_title": "Türschloss mit Codeinegabe - darauf die Aufschrift \"Code 1, 2, 3, 4\""
+    },
+    {
+      "title": "UEFI Secure Boot: Microsoft sperrt unsichere Bootloader per Windows-Update",
+      "teaser": "Der UEFI-Code von drei Firmen enthält Sicherheitslücken, die Secure Boot aushebeln können. Microsoft zieht Konsequenzen per Windows-Update.",
+      "url": "https://www.heise.de/news/UEFI-Secure-Boot-Microsoft-sperrt-unsichere-Bootloader-per-Windows-Update-7220634.html"
     },
     {
       "title": "John Deere: Root-Zugang auf dem Trecker durch Hack",
@@ -153,12 +158,6 @@
       "teaser": "Zoho hat Updates veröffentlicht, die eine kritische und weitere Sicherheitslücken in ManageEngine OpManager schließen. Angreifer könnten unbefugt zugreifen.",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Zoho-ManageEngine-OpManager-7217521.html",
       "image_title": "Aufmacher Sicherheitsupdate Zoho ManageEngine OpManager"
-    },
-    {
-      "title": "Programmierhilfe GitHub Copilot macht Code unsicherer",
-      "teaser": "Gut 40 Prozent des von GitHub Copilot vorgeschlagenen Codes enthält Schwachstellen. Zu diesem Schluss kommen US-Professoren, die die Copilot-Vorschläge prüften.",
-      "url": "https://www.heise.de/news/Programmierhilfe-GitHub-Copilot-macht-Code-unsicherer-7217314.html",
-      "image_title": "Aufmacher Github Copilot erzeugt unsicheren Code"
     },
     {
       "title": "heise Security Tour 2022",
