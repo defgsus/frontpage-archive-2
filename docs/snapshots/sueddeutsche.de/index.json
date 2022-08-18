@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-18T15:37:27",
+  "timestamp": "2022-08-18T16:37:30",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -122,8 +128,8 @@
   ],
   "articles": [
     {
-      "title": "Die Bundesregierung muss beweisen, dass sie es ernst meint",
-      "teaser": "SPD und Grüne sind mit dem Versprechen zur Wahl angetreten, das Land gerechter zu machen. Es wird Zeit, dass sie ihre Ankündigungen umsetzen - selbst gegen den Widerstand der FDP.",
+      "title": "Deutschland muss gerechter werden",
+      "teaser": "Mit diesem Versprechen sind SPD und Grüne zur Wahl angetreten. Es wird Zeit, dass sie ihre Ankündigungen umsetzen - selbst gegen den Widerstand der FDP.",
       "url": "https://www.sueddeutsche.de/meinung/inflation-gaspreise-gasumlage-entlastung-ampel-koalition-christian-lindner-olaf-scholz-robert-habeck-afd-1.5641392",
       "author": "Kommentar von Alexander Hagelüken",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5641393/1000x420"
@@ -143,8 +149,8 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5448029/208x156"
     },
     {
-      "title": "Stiko empfiehlt vierte Impfung ab 60 Jahren",
-      "teaser": "Die Ständige Impfkommission erweitert ihre bisherige Empfehlung und spricht sich auch für den Einsatz des Proteinimpfstoffs von Novavax zur Grundimmunisierung für Jugendliche ab zwölf aus.",
+      "title": "Stiko empfiehlt vierte Impfung von 60 Jahren an",
+      "teaser": "Die Ständige Impfkommission erweitert ihre bisherige Empfehlung und spricht sich auch für den Einsatz des Proteinimpfstoffs von Novavax zur Grundimmunisierung für Jugendliche von zwölf Jahren an aus.",
       "url": "https://www.sueddeutsche.de/politik/stiko-vierte-impfung-corona-1.5641495",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5640982/208x156"
     },
@@ -168,13 +174,6 @@
       "author": "Interview von Katrin Börsch",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5636396/600x337",
       "image_title": "Energiesparen"
-    },
-    {
-      "title": "Bald gibt's Geld vom Staat - aber nicht für alle",
-      "teaser": "Von September an erhalten Erwerbstätige die Energiepreispauschale. Sie soll die hohen Kosten für Öl und Gas abfedern. Warum nicht jeder Bürger Anspruch darauf hat und wie viel unterm Strich übrig bleibt.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/energiepreispauschale-so-bekommt-man-die-300-euro-vom-staat-e508068/",
-      "author": "Andreas Jalsovec",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5640676/208x156"
     },
     {
       "title": "Volle Transparenz sieht anders aus",
@@ -204,15 +203,22 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.3148013/600x337"
     },
     {
-      "title": "Münzen im Wert von 10 bis 15 Euro",
-      "teaser": "Der DFB lässt zwei mysteriöse Tresore von professionellen Panzerknackern öffnen und stellt fest: Es sind nur Briefmarken und Gedenkmünzen drin. Nochmal Glück gehabt.",
-      "url": "https://www.sueddeutsche.de/sport/dfb-tresore-panzerknacker-1.5641402",
-      "author": "Thomas Kistner",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5057283/600x337"
+      "title": "\"Das war eine Form der polizeilichen Repression\"",
+      "teaser": "Werder-Präsident Hubertus Hess-Grunewald kritisiert den Polizeieinsatz beim Auftaktspiel in Wolfsburg, fordert ein politisches Korrektiv für solche Maßnahmen - und spricht sich für die Legalisierung von Pyrotechnik aus.",
+      "url": "https://www.sueddeutsche.de/sport/hess-grunewald-interview-polizei-wolfsburg-pyrotechnik-1.5641496",
+      "author": "Interview von Thomas Hürner, Bremen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5641498/208x156"
+    },
+    {
+      "title": "Vertuschen, wegschauen, unterlassen",
+      "teaser": "Perfekte Körper und eine Abhängigkeit zwischen Trainern und Athleten: Der Leistungssport ist besonders anfällig für Grenzüberschreitungen. Wie man damit nicht umgehen darf, zeigt mal wieder der Deutsche Schwimm-Verband.",
+      "url": "https://www.sueddeutsche.de/sport/schwimmen-missbrauch-hempel-kommentar-1.5641470",
+      "author": "Kommentar von Claudio Catuogno",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5641543/600x337"
     },
     {
       "title": "Ein wildes Partyvideo mit Sanna Marin",
-      "teaser": "Die finnische Regierungschefin hat Ärger wegen privater Aufnahmen. Ein Song von Janet Jackson brachte einst Laptops zum Absturz, und Jonah Hill meidet künftig den roten Teppich.",
+      "teaser": "Die finnische Regierungschefin hat Ärger wegen privater Aufnahmen. Und Jonah Hill meidet wegen Angstattacken künftig den roten Teppich.",
       "url": "https://www.sueddeutsche.de/panorama/promis-janet-jackson-laptops-rhythm-nation-peter-maffay-jonah-hill-1.5641237",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5641372/208x156"
     },
@@ -225,7 +231,7 @@
     },
     {
       "title": "Rammstein hatte angeblich noch gar nicht zugesagt",
-      "teaser": "Der Plan sorgte für hitzige Debatten in München: Ein Veranstalter wollte die Band zu Silvester auf der Theresienwiese auftreten lassen. Das Konzert wurde abgesagt, doch nun meldet sich Rammstein selbst zu Wort.",
+      "teaser": "Der Plan eines Silvesterkonzerts auf der Theresienwiese sorgte für hitzige Debatten in München. Nach der Absage meldet sich nun Rammstein selbst zu Wort - und die Grünen attackieren den CSU-Wirtschaftsreferenten.",
       "url": "https://www.sueddeutsche.de/muenchen/rammstein-konzert-muenchen-till-lindemann-1.5641137",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5641138/208x156"
     },
@@ -441,11 +447,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5641366/208x156"
     },
     {
-      "title": "\"Das war eine Form der polizeilichen Repression\"",
-      "teaser": "Werder-Präsident Hubertus Hess-Grunewald kritisiert den Polizeieinsatz beim Auftaktspiel in Wolfsburg, fordert ein politisches Korrektiv für solche Maßnahmen - und spricht sich für die Legalisierung von Pyrotechnik aus.",
-      "url": "https://www.sueddeutsche.de/sport/hess-grunewald-interview-polizei-wolfsburg-pyrotechnik-1.5641496",
-      "author": "Interview von Thomas Hürner, Bremen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5641498/208x156"
+      "title": "Münzen im Wert von 10 bis 15 Euro",
+      "teaser": "Der DFB lässt zwei mysteriöse Tresore von professionellen Panzerknackern öffnen und stellt fest: Es sind nur Briefmarken und Gedenkmünzen drin. Nochmal Glück gehabt.",
+      "url": "https://www.sueddeutsche.de/sport/dfb-tresore-panzerknacker-1.5641402",
+      "author": "Thomas Kistner",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5057283/208x156"
     },
     {
       "title": "\"Ich sehe den Sport bald ganz, ganz groß\"",
