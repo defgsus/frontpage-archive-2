@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-18T09:22:54",
+  "timestamp": "2022-08-18T10:25:22",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,380 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.18ba8297.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.7bca1646.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.6146dd0c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.cb11a3bd.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.88bfc46b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.7bfc685f.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Münchner (43) verschwand beim Wandern spurlos : Steigt hier der vermisste Pietro M. in den Bus?",
+      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/muenchner-verschwindet-spurlos-ehefrau-er-wollte-seinen-tod-vortaeuschen-81038062.bild.html",
+      "image_title": "Münchner verschwindet spurlos – Ehefrau: „Er wollte seinen Tod vortäuschen“"
+    },
+    {
+      "title": "„Ey, du bist auf Kamera“ : Anwohner filmt Regenrinnen-Räuber bei der Arbeit",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/regenrinnen-raeuber-aus-schiss-auf-der-flucht-81032376.bild.html",
+      "image_title": "Kupfer geklaut – Anwohner filmt Regenrinnen-Räuber: „Ey, du bist auf Kamera“"
+    },
+    {
+      "title": "Öko-Posse : Tierschützer stoppen unseren Alm-Abtrieb",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/oeko-posse-tierschuetzer-stoppen-unseren-almabtrieb-81037642.bild.html",
+      "image_title": "Öko-Posse: Tierschützer stoppen unseren Alm-Abtrieb"
+    },
+    {
+      "title": "Teuer-Schock für Erstklässler : Die Einschulung meines Sohnes kostet 407 Euro!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/die-einschulung-meines-sohnes-kostet-407-euro-81039066.bild.html",
+      "image_title": "Die Einschulung meines Sohnes kostet 407 Euro!"
+    },
+    {
+      "title": "Wegen Fischsterbens : Hobbykapitäne sitzen im Oder-Spree-Kanal fest",
+      "teaser": "Die Umweltkatastrophe in der Oder hat auch Folgen für zwei Freizeit-Kapitäne aus Sachsen.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/wegen-fischsterbens-hobbykapitaene-sitzen-im-oder-spree-kanal-fest-81041460.bild.html",
+      "image_title": "Wegen Fischsterbens: Hobbykapitäne sitzen im Oder-Spree-Kanal fest"
+    },
+    {
+      "title": "Schlesingers Bezüge nicht mitgeteilt : RBB-Geschäftsleitung legt Gehälter offen",
+      "teaser": "Die RBB-Geschäftsleitung hat ihre Gehälter und Bonuszahlungen offengelegt.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/schlesingers-bezuege-weiter-geheim-rbb-geschaeftsleitung-legt-gehaelter-offen-81037846.bild.html",
+      "image_title": "Schlesingers Bezüge nicht mitgeteilt: RBB-Geschäftsleitung legt Gehälter offen"
+    },
+    {
+      "title": "Nach Polizei-Ärger in Wolfsburg : Werder verspricht entspannte Fan-Anreise zum BVB",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-nach-polizei-aerger-klub-verspricht-entspannte-fan-anreise-zum-bvb-81042208.bild.html",
+      "image_title": "Werder Bremen: Nach Polizei-Ärger! Klub verspricht entspannte Fan-Anreise zum BVB"
+    },
+    {
+      "title": "Mole in Bremerhaven abgesackt : Leuchtturm droht umzukippen",
+      "teaser": "Der Leuchtturm ist in der Nacht zu Donnerstag abgesunken und droht nun zu kippen!",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/er-war-seit-jahren-baufaellig-moleturm-in-bremerhaven-droht-umzukippen-81041568.bild.html",
+      "image_title": "Mole in Bremerhaven abgesackt: Leuchtturm droht umzukippen"
+    },
+    {
+      "title": "Drogen gefunden! : Sieben Wettbüros vor dem Aus",
+      "teaser": "Das Prüfverfahren läuft. Und für einige Büro-Betreiber wird es jetzt eng.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/drogen-gefunden-sieben-wettbueros-vor-dem-aus-81041378.bild.html",
+      "image_title": "Drogen gefunden!: Sieben Wettbüros vor dem Aus"
+    },
+    {
+      "title": "Brötchen aus dem Kohle-Ofen : Familien-Unternehmen trotzt der Gaskrise",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-dieses-familien-unternehmen-trotzt-der-gaskrise-81038962.bild.html",
+      "image_title": "Sachsen: Dieses Familien-Unternehmen trotzt der Gaskrise"
+    },
+    {
+      "title": "Demo-Forscher sicher : Mit der Energiekrise kommt die nächste Wutwelle",
+      "teaser": "Angesichts der drohenden Energiekrise und Inflation erwarten Sozialforscher Proteste.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/energie-krise-experten-rechnen-mit-neuer-protest-welle-im-herbst-81035038.bild.html",
+      "image_title": "Energie-Krise: Experten rechnen mit neuer Protest-Welle im Herbst"
+    },
+    {
+      "title": "Kripo sucht dringend Zeugen : Junge (3) stirbt nach Badeunfall in Freibad",
+      "teaser": "Ein dreijähriges Kind ist vier Tage nach einem Badeunfall in einem Freibad in Bad Düben (Sachsen) gestorben.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/bad-dueben-junge-3-stirbt-nach-badeunfall-in-freibad-81023274.bild.html",
+      "image_title": "Ertrunken: Junge (3) stirbt nach Badeunfall in Freibad"
+    },
+    {
+      "title": "Verleumdungs-Prozess gegen Gil Ofarim : Staatsanwalt wehrt sich gegen Vorwürfe",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/prozess-gegen-gil-ofarim-staatsanwalt-wehrt-sich-gegen-vorwuerfe-81038822.bild.html",
+      "image_title": "Prozess gegen Gil Ofarim: Staatsanwalt wehrt sich gegen Vorwürfe"
+    },
+    {
+      "title": "Wertvolle Skulptur weg : Dieb klaute das Erbe meines Hundes",
+      "teaser": "Wut bei Land- und Mühlenbesitzer Bernd Engelmann (72), zornig bellt Erb-Hündin Anna (5).",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-dieb-klaute-das-erbe-meines-hundes-81039292.bild.html",
+      "image_title": "Sachsen: Dieb klaute das Erbe meines Hundes"
+    },
+    {
+      "title": "Sportchef hat Geld für Verstärkungen : Heißes Transfergerücht bei Dynamo Dresden",
+      "teaser": "Dynamos Saisonstart war bisher durchwachsen. Grund genug, um zwei Wochen vor Transferschluss noch mal personelle Alternativen zu prüfen.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/sportchef-hat-geld-fuer-verstaerkung-heisses-transfergeruecht-bei-dynamo-81037978.bild.html",
+      "image_title": "Sportchef hat Geld für Verstärkung: Heißes Transfergerücht bei Dynamo"
+    },
+    {
+      "title": "„Keine Wunderdinge erwarten” : So plant Farke mit Koné!",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-so-plant-daniel-farke-mit-manu-kon-81035860.bild.html",
+      "image_title": "Borussia Mönchengladbach: So plant Daniel Farke mit Manu Koné!"
+    },
+    {
+      "title": "Düsseldorf bald noch schöner : Heinrich-Heine-Platz wird tiefergelegt",
+      "teaser": "Jetzt liegt er auf dem Tisch: der endgültige Entwurf für Düsseldorfs neues Aushängeschild.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-bald-noch-schoener-heinrich-heine-platz-wird-tiefergelegt-81039044.bild.html",
+      "image_title": "Düsseldorf bald noch schöner: Heinrich-Heine-Platz wird tiefergelegt"
+    },
+    {
+      "title": "BILD zeigt die ersten Super-Camper : Caravan Salon 2022 auf Rekord-Jagd",
+      "teaser": "In sieben Tagen startet die weltweit größte Schau für mobile Freizeit in Düsseldorf.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-caravan-salon-2022-auf-rekord-jagd-81038650.bild.html",
+      "image_title": "Düsseldorf: Caravan Salon 2022 auf Rekord-Jagd"
+    },
+    {
+      "title": "Bedrohte Unterart : Baby-Hirsch im Opel Zoo",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/bedrohte-unterart-baby-hirsch-im-opel-zoo-81041410.bild.html",
+      "image_title": "Bedrohte Unterart: Baby-Hirsch im Opel Zoo"
+    },
+    {
+      "title": "In Gießener Teich : Feuerwehr birgt zwei Tonnen tote Fische",
+      "teaser": "Trauriger Anblick im Stadtpark Wieseckaue: Auf dem „Neuen Teich“ trieben unzählige tote Fische.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/in-giessener-teich-feuerwehr-fischt-zwei-tonnen-tote-fische-81040066.bild.html",
+      "image_title": "In Gießener Teich: Feuerwehr birgt zwei Tonnen tote Fische"
+    },
+    {
+      "title": "Schul-Neubau statt grüne Oase? : Kein Bestandsschutz für 113 Kleingärten",
+      "teaser": "Wegen eines Schul-Neubaus fürchten 113 Schrebergärtner am Riederwald um ihre grüne Oase",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/schulbau-statt-gruene-oase-kein-bestandsschutz-fuer-113-kleingaerten-81036432.bild.html",
+      "image_title": "Schulbau statt grüne Oase?: Kein Bestandsschutz für 113 Kleingärten"
+    },
+    {
+      "title": "Prozess-Auftakt gegen Henrik B. : Koks-Trickser in Fesseln vor Gericht",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/prozess-auftakt-gegen-den-mann-der-drei-leben-im-rausch-ausloeschte-koks-trickse-81042080.bild.html",
+      "image_title": "Prozess-Auftakt gegen den Mann, der drei Leben im Rausch auslöschte: Koks-Trickser in Fesseln vor Gericht"
+    },
+    {
+      "title": "Noch 4000 herrenlose Gepäckstücke : Ferien-Ende! Koffer-Chaos bleibt",
+      "teaser": "Hamburg - Ein Mitarbeiter, der am Flughafen arbeitet, hat sich mit einem Brandbrief an BILD gewandt.",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/noch-immer-4-000-herrenlose-gepaeckstuecke-auf-hamburgs-flughafen-ferien-ende-ko-81032220.bild.html",
+      "image_title": "Noch immer 4 000 herrenlose Gepäckstücke auf Hamburgs Flughafen: Ferien-Ende! Koffer-Chaos bleibt"
+    },
+    {
+      "title": "Ruhestätte von Quinns Frau verwildert : Junge, komm bald wieder zum Grab",
+      "teaser": "Hamburg - Ihr Grab war jahrelang liebevoll gepflegt. Jetzt hat sich hier lange niemand mehr blicken lassen.",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/ruhestaette-von-freddy-quinns-frau-auf-dem-ohlsdorfer-friedhof-voellig-verwilder-81031470.bild.html",
+      "image_title": "Ruhestätte von Freddy Quinns Frau auf dem Ohlsdorfer Friedhof völlig verwildert: Junge, komm bald wieder zum Grab"
+    },
+    {
+      "title": "Familie aus Nienburg in großer Sorge : Backpacker Oliver (23) auf Gran Canaria verschollen",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/familie-aus-nienburg-in-grosser-sorge-backpacker-oliver-23-auf-gran-canaria-vers-81041720.bild.html",
+      "image_title": "Familie aus Nienburg in großer Sorge: Backpacker Oliver (23) auf Gran Canaria verschollen"
+    },
+    {
+      "title": "Überraschung! : So holte 96 das geklaute Foti-Tor zurück",
+      "teaser": "Jetzt hat Antonio Foti sein Tor zurück. Er traf gegen Regensburg. Erste Wertung: Eigentor.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/hannover-96/hannover-96-kein-eigentor-solte-96-das-geklaute-foti-tor-zurueck-81037278.bild.html",
+      "image_title": "Hannover 96: Kein Eigentor! Solte 96 das geklaute Foti-Tor zurück"
+    },
+    {
+      "title": "Nach Gerichts-Urteil : Schalten Vereins-Chefs jetzt DFL & DFB ein?",
+      "teaser": "Martin Kind bleibt vorerst Profi-Boss, aber die Vereins-Chefs wollen ihn weiter absetzen.",
+      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-nach-gerichts-urteil-schalten-die-vereins-chefs-dfl-dfb-ein-81037442.bild.html",
+      "image_title": "Hannover 96: Nach Gerichts-Urteil: Schalten die Vereins-Chefs DFL & DFB ein?"
+    },
+    {
+      "title": "1. Europa-Spiel für Kölns Coach : Darum ist es ein Baumgart-Märchen",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-1-europa-spiel-fuer-koelns-coach-darum-ist-es-ein-baumgart-maerchen-81041280.bild.html",
+      "image_title": "1. FC Köln: 1. Europa-Spiel für Kölns Coach: Darum ist es ein Baumgart-Märchen"
+    },
+    {
+      "title": "Schuldenaufnahme explodiert : Köln in der Kosten-Krise",
+      "teaser": "Im Haushaltsplan-Entwurf für die nächsten beiden Jahre stehen elf Milliarden Euro.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-in-der-kosten-krise-schuldenaufnahme-explodiert-auf-450-mio-euro-81035926.bild.html",
+      "image_title": "Köln in der Kosten-Krise: Schuldenaufnahme explodiert auf 450 Mio. Euro"
+    },
+    {
+      "title": "Top-Band der Kultsitzung im Tanzbrunnen : Köbes Underground macht Stunk",
+      "teaser": "Die Kultband aus der legendären Stunksitzung kommt wieder in den Kölner Tanzbrunnen.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-koebes-underground-macht-stunk-im-tanzbrunnen-81035388.bild.html",
+      "image_title": "Köln: Köbes Underground macht Stunk im Tanzbrunnen"
+    },
+    {
+      "title": "Verdächtiger in Haft : Mann (34) stirbt nach Prügelei vor Studentenclub",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-mann-34-stirbt-nach-pruegelei-vor-club-verdaechtiger-gefasst-81041598.bild.html",
+      "image_title": "Leipzig: Mann stirbt nach Prügelei vor Club – Verdächtiger gefasst"
+    },
+    {
+      "title": "Großübung : Zugunglück im Leipziger Citytunnel",
+      "teaser": "Feuerwehr und Rettungsdienst machten in der Nacht eine Katastrophenübung im Citytunnel.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/grossuebung-vermeintliches-zugunglueck-im-leipziger-citytunnel-81040004.bild.html",
+      "image_title": "Großübung: Vermeintliches Zugunglück im Leipziger Citytunnel"
+    },
+    {
+      "title": "Die Schausteller beim Vogelschießen : Nach zwei Jahren Corona-Pause sind sie wieder da",
+      "teaser": "Nach zwei Jahren Corona-Pause kehrt das größte Volksfest Thüringens rechtzeitig zum 300. Jubiläum zurück.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/die-schausteller-beim-vogelschiessen-nach-zwei-jahren-corona-pause-sind-sie-wied-81041202.bild.html",
+      "image_title": "Rudolstadt: Nach zwei Jahren Corona-Pause sind sie wieder da"
+    },
+    {
+      "title": "Eine Tote, acht Schwerverletzte bei Boots-Unglück : Staatsanwaltschaft ermittelt gegen beide Kapitäne",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-frau-66-stirbt-bei-schwerem-sportboot-unfall-81029656.bild.html",
+      "image_title": "Mecklenburg-Vorpommern: 1 Tote, 8 Verletzt bei Boots-Unglück auf Ribnitzer See"
+    },
+    {
+      "title": "Hansa Rostock : Schumacher spielt sich fest",
+      "teaser": "Auch bei der 0:4-Pleite in Darmstadt gab es bei Hansa Lichtblicke – wie Kevin Schumacher.",
+      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostock-schumacher-spielt-sich-fest-81037636.bild.html",
+      "image_title": "Hansa Rostock: Schumacher spielt sich fest"
+    },
+    {
+      "title": "100 Tonnen tote Fische in der Oder : Angst vor der Giftwelle im Stettiner Haff",
+      "teaser": "Im Mündungsdelta der Oder herrscht Angst, dass auch sie die Öko-Katastrophe erreicht.",
+      "url": "https://www.bild.de/news/inland/news/fischsterben-in-der-oder-angst-vor-der-giftwelle-im-stettiner-haff-81033074.bild.html",
+      "image_title": "Fischsterben in der Oder: Angst vor der Giftwelle im Stettiner Haff"
+    },
+    {
+      "title": "Rammstein über geplantes Münchner Silvester-Konzert : Es gab keine „finale Zusage“",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/silvesterkonzert-in-muenchen-rammstein-gab-keine-finale-zusage-81043560.bild.html",
+      "image_title": "Silvesterkonzert in München? Rammstein: gab keine „finale Zusage“"
+    },
+    {
+      "title": "200 000 qm Wald : Zwei Waldbrände in der Oberpfalz",
+      "teaser": "Mehr als 20 000 Quadratmeter Wald haben im Landkreis Schwandorf gebrannt.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/200-000-qm-wald-zwei-waldbraende-in-der-oberpfalz-81043420.bild.html",
+      "image_title": "200 000 qm Wald: Zwei Waldbrände in der Oberpfalz"
+    },
+    {
+      "title": "Zugverkehr gestoppt : Buben (10) klettern auf Strommast an Bahngleisen",
+      "teaser": "Zwei Buben (beide 10) sind auf einen Strommast an der Bahnstrecke zwischen München und Rosenheim geklettert",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/zugverkehr-gestoppt-buben-10-klettern-auf-strommast-an-bahngleisen-81043148.bild.html",
+      "image_title": "Zugverkehr gestoppt: Buben (10) klettern auf Strommast an Bahngleisen"
+    },
+    {
+      "title": "Niedrigwasser im Bodensee : Drei Landestellen für Schiffe gesperrt",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/niedrigwasser-im-bodensee-drei-landestellen-fuer-schiffe-gesperrt-81042870.bild.html",
+      "image_title": "Niedrigwasser im Bodensee: Drei Landestellen für Schiffe gesperrt"
+    },
+    {
+      "title": "Einfamilienhaus angezündet : Feuerteufel nach Flucht gefasst",
+      "teaser": "Ein Mann (42) soll ein Einfamilienhaus im Landkreis Würzburg angezündet haben.",
+      "url": "https://www.bild.de/regional/nuernberg/stuttgart-aktuell/einfamilienhaus-angezuendet-feuerteufel-nach-flucht-gefasst-81042360.bild.html",
+      "image_title": "Einfamilienhaus angezündet: Feuerteufel nach Flucht gefasst"
+    },
+    {
+      "title": "Oberstes Gericht urteilt : Masern-Impfpflicht ist „zumutbar“",
+      "teaser": "Die Masern-Impfpflicht unter anderem für Kita-Kinder bleibt in Kraft.",
+      "url": "https://www.bild.de/ratgeber/2022/ratgeber/masern-impfpflicht-zumutbar-gericht-weist-verfassungs-beschwerden-zurueck-81041050.bild.html",
+      "image_title": "Masern-Impfpflicht „zumutbar“! Gericht weist Verfassungs-Beschwerden zurück"
+    },
+    {
+      "title": "Mann (21) erneut mit falscher Uniform unterwegs : Möchtegern-Polizist hat nichts dazu gelernt",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bochum-hagen-moechtegern-polizist-mit-falscher-uniform-unterwegs-81040630.bild.html",
+      "image_title": "Bochum/Hagen: Möchtegern-Polizist mit falscher Uniform unterwegs"
+    },
+    {
+      "title": "Schiffsführer in Klinik : Kohlefrachter rammt Brücke",
+      "teaser": "Sowohl das Führerhaus des Kohlefrachters als auch die Brücke wurden beschädigt.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dorsten-schiffsfuehrer-schwer-verletzt-kohlefrachter-rammt-bruecke-81039946.bild.html",
+      "image_title": "Dorsten – Kanal und Straße gesperrt: Kohlefrachter rammt Brücke"
+    },
+    {
+      "title": "Luxus für Samtpfoten : Diese Kratzbäume sind Katzenträume",
+      "teaser": "Der Familienbetrieb „Diworo“ in Hagen fertigt in Handarbeit Luxus-Kratzbäume.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hagen-luxus-fuer-samtpfoten-diese-kratzbaeume-sind-katzentraeume-81035732.bild.html",
+      "image_title": "Hagen – Luxus für Samtpfoten: Diese Kratzbäume sind Katzenträume"
+    },
+    {
+      "title": "Pflanzen vertrocknen, Blätter werden braun : Herbst im August",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/pflanzen-vertrocknen-blaetter-werden-braun-herbst-im-august-81034752.bild.html",
+      "image_title": "Pflanzen vertrocknen, Blätter werden braun: Herbst im August"
+    },
+    {
+      "title": "Polizei zeigt Herz : 99-Jährige im Rollstuhl nachhause gebracht",
+      "teaser": "Am Mittwoch meldete sich am frühen Nachmittag ein Anwohner bei der Polizei. Eine ältere Dame im Rollstuhl wirke hilflos.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/polizei-zeigt-herz-99-jaehrige-im-rollstuhl-nach-hause-gebracht-81036876.bild.html",
+      "image_title": "Polizei zeigt Herz: 99-Jährige im Rollstuhl nach Hause gebracht"
+    },
+    {
+      "title": "Energiespar-Tipps : „Wärmepumpen gibt es erst nächstes Jahr wieder“",
+      "teaser": "Energiekrise, Angst vor dem kalten Winter und Kostenexplosion",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/energiespar-tipps-waermepumpen-gibt-es-erst-naechstes-jahr-wieder-81036010.bild.html",
+      "image_title": "Energiespar-Tipps: „Wärmepumpen gibt es erst nächstes Jahr wieder“"
+    },
+    {
+      "title": "Elisabeth Pähtz : Wer schlägt diesen Schach-Star?",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/elisabeth-paehtz-wer-schlaegt-diesen-schach-star-81039760.bild.html",
+      "image_title": "Elisabeth Pähtz: Wer schlägt diesen Schach-Star?"
+    },
+    {
+      "title": "Garage angezündet, Auto demoliert : Rätselhafte Attacken gegen SPD-Politiker",
+      "teaser": "Derzeit beschäftigen ihn weniger Polit-Probleme, sondern die rätselhaften Attacken auf ihn und seine Lebensgefährtin (36).",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/maik-reichel-wer-steckt-hinter-den-attacken-gegen-diesen-spd-politiker-81038878.bild.html",
+      "image_title": "Maik Reichel: Wer steckt hinter den Attacken gegen diesen SPD-Politiker?"
+    },
+    {
+      "title": "Streit auf Firmengelände eskaliert : 62-Jähriger stirbt nach Messer-Attacke",
+      "teaser": "Auf einem Firmengelände in Sachsen-Anhalt eskalierte ein Streit zwischen zwei Männern (62, 54).",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-maenner-attackieren-sich-in-zerbst-mit-messern-62-jaehriger-stirb-81033742.bild.html",
+      "image_title": "Sachsen-Anhalt: Männer attackieren sich in Zerbst mit Messern – 62-Jähriger stirbt"
+    },
+    {
+      "title": "Hitze und kaum Regen : Viele Bauern erwarten sehr schlechte Ernte",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/hitze-und-kaum-regen-viele-bauern-erwarten-sehr-schlechte-ernte-81042634.bild.html",
+      "image_title": "Hitze und kaum Regen: Viele Bauern erwarten sehr schlechte Ernte"
+    },
+    {
+      "title": "In der S-Bahn : Hund beißt Mädchen (3) ins Gesicht",
+      "teaser": "Ein Hund hat ein dreijähriges Kind in einer S-Bahn ins Gesicht gebissen.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/in-der-s-bahn-hund-beisst-maedchen-3-ins-gesicht-81042004.bild.html",
+      "image_title": "In der S-Bahn: Hund beißt Mädchen (3) ins Gesicht"
+    },
+    {
+      "title": "Baden-Württemberg : Positive Polizei-Bilanz nach Fußball-Saisonstart",
+      "teaser": "Mit Blick auf die Sicherheit sind die ersten Fußballspiele der Saison gut verlaufen.",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/baden-wuerttemberg-positive-polizei-bilanz-nach-fussball-saisonstart-81041894.bild.html",
+      "image_title": "Baden-Württemberg: Positive Polizei-Bilanz nach Fußball-Saisonstart"
+    },
+    {
+      "title": "Halb Hund, halb tot : Neue Wolfs-Hybride in Thüringen",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/halb-hund-halb-tot-neue-wolfs-hybride-in-thueringen-81025468.bild.html",
+      "image_title": "Dermbach: Halb Hund, halb tot: Neue Wolfs-Hybride in Thüringen"
+    },
+    {
+      "title": "Umgekippt : Traktor-Fahrer bei Unfall schwer verletzt",
+      "teaser": "Schwerer Unfall am Mittwoch auf einer Landstraße nahe der Gemeinde Großbrüchter (Thüringen)",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-traktor-umgekippt-fahrer-schwer-verletzt-81039654.bild.html",
+      "image_title": "Unfall: Traktor umgekippt - Fahrer schwer verletzt"
+    },
+    {
+      "title": "Jena-Trainer Andreas Patz : Warum wir keine Neuen mehr brauchen",
+      "teaser": "Nach vier Punkten aus zwei Spielen hat Carl Zeiss Jena das Transferfenster geschlossen.",
+      "url": "https://www.bild.de/sport/fussball/fussball/carl-zeiss-jena-trainer-patz-warum-wir-keine-neuen-mehr-brauchen-81037964.bild.html",
+      "image_title": "Carl-Zeiss-Jena-Trainer Patz: Warum wir keine Neuen mehr brauchen"
+    }
+  ]
 }
