@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-18T23:22:18",
+  "timestamp": "2022-08-19T02:20:32",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.18ba8297.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7bca1646.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.6146dd0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cb11a3bd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.88bfc46b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7bfc685f.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Bilder wie bei George Floyd! : Security-Kontrolle in München eskaliert",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-wie-bei-george-floyd-security-mann-kniet-auf-hals-von-verdaechtigem-81049560.bild.html",
-      "image_url": "https://images.bild.de/62fe7c7e889afc78e83913e7/e07dd2b3b4e2b57d70d10ef14835d3a9,eb4443b7?w=656",
-      "image_title": "München: Wie bei George Floyd! Security-Mann kniet auf Hals von Verdächtigem"
-    },
-    {
-      "title": "Info-Tafeln zeigten Sex-Videos : Porno-Rätsel auf Hiddensee gelöst",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/videos-auf-info-point-porno-raetsel-auf-hiddensee-geloest-81045856.bild.html",
-      "image_url": "https://images.bild.de/62fe2fe5213f78096e55e7c1/8b846d36779465b5164ff3c960249b49,cd9354c7?w=320",
-      "image_title": "Sex-Videos auf Info-Point: Porno-Rätsel auf Hiddensee gelöst"
-    },
-    {
-      "title": "Brötchen aus dem Kohle-Ofen : Familien-Unternehmen trotzt der Gaskrise",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-dieses-familien-unternehmen-trotzt-der-gaskrise-81038962.bild.html",
-      "image_url": "https://images.bild.de/62fd39cb27fae00d9b1cabf7/9dec0f1c34cdd6f833283d3210535fbf,2333b279?w=320",
-      "image_title": "Kohle statt Gas: Bäcker in Sachsen trotzt der Gas-Krise"
-    },
-    {
-      "title": "Mord-Anklage : Kita-Totraser soll lebenslang in Psychiatrie",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mord-anklage-kita-totraser-von-witzenhausen-soll-in-psychiatrie-81043712.bild.html",
-      "image_url": "https://images.bild.de/62fe129e213f78096e55e764/bbc0fd8f5f824f905af5a6c0b9f7d9d9,e33d6df?w=320",
-      "image_title": "Mord-Anklage: Kita-Totraser soll lebenslang in Psychiatrie"
-    },
-    {
-      "title": "Wertvolle Skulptur weg : Dieb klaute Erbe meines Hundes",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-dieb-klaute-das-erbe-meines-hundes-81039292.bild.html",
-      "image_title": "Sachsen: Dieb klaute das Erbe meines Hundes"
-    },
-    {
-      "title": "Mann mit 220 km/h totgefahren : Raser muss erneut vor Gericht",
-      "teaser": "Der Raser-Prozess muss neu aufgerollt werden! Das hat der Bundsgerichtshof entschieden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/ingolstadt-bmw-raser-prozess-kommt-erneut-vor-gericht-81045096.bild.html",
-      "image_title": "Ingolstadt –BMW-Raser-Prozess kommt erneut vor Gericht"
-    },
-    {
-      "title": "Gefährliche Körperverletzung : Promi-Dinner-Statist (50) schlägt Prostituierte",
-      "teaser": "Weinhändler Fabrizio B. muss sich vor Gericht in München verantworten.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/koerperverletzung-promi-dinner-statist-schlaegt-prostituierte-81034988.bild.html",
-      "image_title": "Körperverletzung: Promi-Dinner-Statist schlägt Prostituierte"
-    },
-    {
-      "title": "1 Tote, 8 Schwerverletzte bei Boots-Unglück : Staatsanwaltschaft ermittelt gegen beide Kapitäne",
-      "teaser": "Eine Frau starb bei einem Sportboot-Unfall. Acht Menschen wurden schwer verletzt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-frau-66-stirbt-bei-schwerem-sportboot-unfall-81029656.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: 1 Tote, 8 Verletzt bei Boots-Unglück auf Ribnitzer See"
-    },
-    {
-      "title": "Knapp zwei Promille : Betrunkene rammt mit Auto Baum – Sohn (9) stirbt",
-      "teaser": "Eine Mutter verursachte mit knapp zwei Promille Alkohol einen Unfall. Mit bösen Folgen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/neuried-betrunkene-rammt-mit-auto-baum-sohn-9-stirbt-81033352.bild.html",
-      "image_title": "Neuried: Betrunkene rammt mit Auto Baum – Sohn (9) stirbt"
-    },
-    {
-      "title": "Die Schausteller beim Vogelschießen : Nach zwei Jahren Corona-Pause sind sie wieder da",
-      "teaser": "Nach zwei Jahren Corona-Pause kehrt das größte Volksfest Thüringens rechtzeitig zum 300. Jubiläum zurück.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/die-schausteller-beim-vogelschiessen-nach-zwei-jahren-corona-pause-sind-sie-wied-81041202.bild.html",
-      "image_title": "Rudolstadt: Nach zwei Jahren Corona-Pause sind sie wieder da"
-    },
-    {
-      "title": "Eltern finden Tochter erstochen im Auto : Die Polizei sucht ihren Noch-Ehemann",
-      "teaser": "München – Die letzte Aussprache mit ihrem Mann überlebte Schahrabahn K. (23) nicht!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/eltern-finden-tochter-erstochen-im-auto-polizei-sucht-ihren-ex-mann-81039210.bild.html",
-      "image_title": "Tote Frau im Auto in Ingolstadt: Polizei sucht Noch-Ehemann"
-    },
-    {
-      "title": "Südbad testet Künstliche Intelligenz : Meine Uhr kann Leben retten",
-      "teaser": "Zwei Jahre lang erproben die Münchner Stadtwerke ein System, das vor Ertrinkenden warnt.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/suedbad-testet-kuenstliche-intelligenz-meine-uhr-kann-leben-retten-81032650.bild.html",
-      "image_title": "Südbad testet Künstliche Intelligenz: Meine Uhr kann Leben retten"
-    },
-    {
-      "title": "Münchner (43) verschwand spurlos : „Mein Mann wollte seinen Tod vortäuschen“",
-      "teaser": "Pietro M. ging auf einen Berg – und kam nie nach Hause zurück. Was dahintersteckt.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/muenchner-verschwindet-spurlos-ehefrau-er-wollte-seinen-tod-vortaeuschen-81038062.bild.html",
-      "image_title": "Münchner verschwindet spurlos – Ehefrau: „Er wollte seinen Tod vortäuschen“"
-    },
-    {
-      "title": "Ganz schön kauzig durch Franken : Diese Eule reiste Erste Klasse!",
-      "teaser": "Nürnberg – In Nordbayern wurden 16 Habichtskäuze ausgewildert. Einer kam 1. Klasse.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/diese-eule-reiste-mit-der-bahn-durch-bayern-erste-klasse-81036212.bild.html",
-      "image_title": "Diese Eule reiste mit der Bahn durch Bayern Erste Klasse"
-    },
-    {
-      "title": "Klima-Demo vor Hauptbahnhof : Blockierer zahlen Polizeieinsatz mit Spenden",
-      "teaser": "Nürnberg – Die Blockade-Aktion vor dem Hauptbahnhof (BILD berichtete): Müssen die Klima-Aktivisten für den Großeinsatz zahlen?",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/klima-demo-vor-hauptbahnhof-blockierer-zahlen-polizeieinsatz-mit-spenden-81039048.bild.html",
-      "image_title": "Klima-Demo vor Hauptbahnhof: Blockierer zahlen Polizeieinsatz mit Spenden"
-    },
-    {
-      "title": "Trotz Steuerprozess und Rückzug aus Betrieb : So kassiert Ex-Wirt Radlinger im Stillen bei Wiesn mit",
-      "teaser": "München – Wegen eines Steuerprozesses hatte sich Edmund Radlinger als Wirt des Münchner Weißbiergartens zurückgezogen. Doch er verdient nach wie vor am Betrieb.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/trotz-steuerprozess-so-kassiert-ex-wirt-radlinger-bei-wiesn-mit-80896800.bild.html",
-      "image_title": "Trotz Steuerprozess: So kassiert Ex-Wirt Radlinger bei Wiesn mit"
-    },
-    {
-      "title": "Trotz Vetternwirtschafts-Vorwürfen : NDR lässt „Musikberater“ weiterarbeiten",
-      "teaser": "Hamburg - Der NDR zieht keine sofortigen Konsequenzen aus den Vetternwirtschafts-Vorwürfen.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/trotz-vetternwirtschafts-vorwuerfen-ndr-laesst-musikberater-weiterarbeiten-81031426.bild.html",
-      "image_title": "Trotz Vetternwirtschafts-Vorwürfen: NDR lässt „Musikberater“ weiterarbeiten"
-    },
-    {
-      "title": "Kripo sucht dringend Zeugen : Junge (3) stirbt nach Badeunfall in Freibad",
-      "teaser": "Ein dreijähriges Kind ist vier Tage nach einem Badeunfall in einem Freibad in Bad Düben (Sachsen) gestorben.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/bad-dueben-junge-3-stirbt-nach-badeunfall-in-freibad-81023274.bild.html",
-      "image_title": "Ertrunken: Junge (3) stirbt nach Badeunfall in Freibad"
-    },
-    {
-      "title": "Das große Fischsterben : Ließ Papierfabrik tödliches Abwasser in die Oder?",
-      "teaser": "Während täglich tonnenweise Fisch geborgen wird, suchen alle nach der Ursache.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/das-grosse-fischsterben-welche-rolle-spielt-diese-papierfabrik-81039202.bild.html",
-      "image_title": "Das große Fischsterben: Welche Rolle spielt diese Papierfabrik?"
-    },
-    {
-      "title": "Umgekippt : Traktor-Fahrer bei Unfall schwer verletzt",
-      "teaser": "Schwerer Unfall am Mittwoch auf einer Landstraße nahe der Gemeinde Großbrüchter (Thüringen)",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-traktor-umgekippt-fahrer-schwer-verletzt-81039654.bild.html",
-      "image_title": "Unfall: Traktor umgekippt - Fahrer schwer verletzt"
-    },
-    {
-      "title": "Prozess gegen Gil Ofarim : Staatsanwalt wehrt sich gegen Vorwürfe",
-      "teaser": "Der Justiz-Zoff um Gil Ofarim (40) geht weiter..",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/prozess-gegen-gil-ofarim-staatsanwalt-wehrt-sich-gegen-vorwuerfe-81038822.bild.html",
-      "image_title": "Prozess gegen Gil Ofarim: Staatsanwalt wehrt sich gegen Vorwürfe"
-    },
-    {
-      "title": "FDP-Abgeordnete fordern : Mehr Geld für Opfer von Olympia-Attentat",
-      "teaser": "München – Im Streit über Entschädigungen für Angehörigen der Opfer des Olympia-Attentats haben sich FDP-Abgeordnete für höhere Zahlungen ausgesprochen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/fdp-abgeordnete-fordern-mehr-geld-fuer-opfer-von-olympia-attentat-81039488.bild.html",
-      "image_title": "FDP-Abgeordnete fordern: Mehr Geld für Opfer von Olympia-Attentat"
-    },
-    {
-      "title": "Mordfall Ayleen († 14) : Kripo sucht Tatort erneut ab",
-      "teaser": "Ließ Ayleen-Killer Jan P. (29) möglicherweise Beweise im Teufelsee verschwinden?",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mordfall-ayleen-14-kripo-sucht-tatort-erneut-ab-81037012.bild.html",
-      "image_title": "Mordfall Ayleen († 14) : Kripo sucht Tatort erneut ab"
-    },
-    {
-      "title": "Athleten besuchten Münchner Gedenkstätte : Wachmann zeigt Israel-Sportlern Hitlergruß",
-      "teaser": "München – Antisemitische Straftat mitten bei den „European Championships“! Dienstagaben...",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/hitlergruss-im-olympiapark-antisemitischer-vorfall-bei-european-championships-81031096.bild.html",
-      "image_title": "Athleten besuchten Münchner Gedenkstätte des Terror-Anschlags: Wachmann (19) zeigt israelischen Sportlern Hitlergruß"
-    },
-    {
-      "title": "Bilder wie bei George Floyd : Security-Kontrolle in München eskaliert",
-      "url": "https://www.bild.de/video/clip/video/bilder-wie-bei-george-floyd-security-kontrolle-in-muenchen-eskaliert-81050792,auto=true.bild.html",
-      "image_title": "Bilder wie bei George Floyd: Security-Kontrolle in München eskaliert"
-    },
-    {
-      "title": "Mole in Bremerhaven abgesackt : Leuchtturm droht umzukippen",
-      "url": "https://www.bild.de/video/clip/video/mole-in-bremerhaven-abgesackt-leuchtturm-droht-umzukippen-81044362,auto=true.bild.html",
-      "image_title": "Mole in Bremerhaven abgesackt: Leuchtturm droht umzukippen"
-    },
-    {
-      "title": "Unwetter in Deutschland : Hier gibt es heute Gewitter mit Starkregen",
-      "url": "https://www.bild.de/video/clip/video/unwetter-in-deutschland-hier-gibt-es-heute-gewitter-mit-starkregen-81042052,auto=true.bild.html",
-      "image_title": "Unwetter in Deutschland: Hier gibt es heute Gewitter mit Starkregen"
-    }
-  ]
+  "articles": []
 }
