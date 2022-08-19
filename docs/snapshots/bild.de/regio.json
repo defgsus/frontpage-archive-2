@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-19T09:22:25",
+  "timestamp": "2022-08-19T10:26:59",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.18ba8297.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7bca1646.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.6146dd0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cb11a3bd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.88bfc46b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7bfc685f.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Bilder wie bei George Floyd! : Security-Kontrolle in München eskaliert",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-wie-bei-george-floyd-security-mann-kniet-auf-hals-von-verdaechtigem-81049560.bild.html",
-      "image_title": "München: Wie bei George Floyd! Security-Mann kniet auf Hals von Verdächtigem"
-    },
-    {
-      "title": "Im Whisky-Rausch! : Juwelier-Söhnchen randaliert in Luxus-Villa",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/im-whisky-rausch-juwelier-soehnchen-randaliert-in-luxus-villa-81044504.bild.html",
-      "image_title": "Im Whisky-Rausch! Juwelier-Söhnchen randaliert in Luxus-Villa"
-    },
-    {
-      "title": "13 Tote bei schweren Unwettern : Baum erschlägt zwei Mädchen (4, 8) an Badesee",
-      "url": "https://www.bild.de/news/ausland/news-ausland/unwetter-in-europa-mindestens-13-tote-auf-korsika-in-italien-und-oesterreich-81052194.bild.html",
-      "image_title": "Unwetter in Europa: Mindestens 13 Tote auf Korsika, in Italien und Österreich"
-    },
-    {
-      "title": "Anfangsverdacht der Volksverhetzung : Ermittlungen gegen Abbas wegen Holocaust-Aussage",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/ermittlungen-gegen-abbas-wegen-holocaust-aussage-81053376.bild.html",
-      "image_title": "Ermittlungen gegen Abbas wegen Holocaust-Aussage"
-    },
-    {
-      "title": "12 000 Menschen müssen Häuser verlassen : 500-Kilo-Weltkriegsbombe in Berlin gefunden!",
-      "teaser": "In Berlin-Friedrichshain kommt es zu weiträumigen Absperrungen.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-tausende-menschen-muessen-haeuser-verlassen-weltkriegsbombe-gefunden-81047428.bild.html",
-      "image_title": "Berlin – Tausende müssen Häuser verlassen: Weltkriegs-Bombe gefunden!"
-    },
-    {
-      "title": "Letzte Sommerferientage : Erneut volles Wochenende am BER erwartet",
-      "teaser": "Am letzten Ferienwochenende in Berlin und Brandenburg wird es noch einmal voll am BER.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/letzte-sommerferientage-erneut-volles-wochenende-am-ber-erwartet-81051274.bild.html",
-      "image_title": "Letzte Sommerferientage: Erneut volles Wochenende am BER erwartet"
-    },
-    {
-      "title": "Wirtschaftssenatorin Vogt über die Energie-Krise : „Bei einer Nachzahlung kamen mir die Tränen“",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/wirtschaftssenatorin-vogt-ueber-die-energie-krise-bei-einer-nachzahlung-kamen-mi-81043260.bild.html",
-      "image_title": "Wirtschaftssenatorin Vogt über die Energie-Krise: „Bei einer Nachzahlung kamen mir die Tränen“"
-    },
-    {
-      "title": "24000 Beamte betroffen : Computer-Chaos bei der Polizei in Niedersachsen",
-      "teaser": "Seit drei Tagen gibt es große Software-Probleme bei der Polizei in Niedersachsen.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/24000-beamte-betroffen-computer-chaos-bei-der-polizei-in-niedersachsen-81053370.bild.html",
-      "image_title": "24000 Beamte betroffen: Computer-Chaos bei der Polizei in Niedersachsen"
-    },
-    {
-      "title": "Mole in Bremerhaven abgesackt : Leuchtturm droht umzukippen",
-      "teaser": "Der Leuchtturm ist in der Nacht zu Donnerstag abgesunken und droht nun zu kippen!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/er-war-seit-jahren-baufaellig-moleturm-in-bremerhaven-droht-umzukippen-81041568.bild.html",
-      "image_title": "Mole in Bremerhaven abgesackt: Leuchtturm droht umzukippen"
-    },
-    {
-      "title": "Kuriose Rettungsaktion : Dampfschiff angelt Mazda aus der Elbe",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-in-sachsen-dampfschiff-angelt-mazda-aus-der-elbe-81051866.bild.html",
-      "image_title": "Unfall in Sachsen: Dampfschiff angelt Mazda aus der Elbe"
-    },
-    {
-      "title": "Unwetter in Teilen Deutschlands : Endlich Regen! Aber reicht es?",
-      "teaser": "Es sollte regnen. Viel regnen. Doch wirklich viel kam im Westen nicht.",
-      "url": "https://www.bild.de/news/wetter/wetter/unwetter-in-teilen-deutschlands-endlich-regen-aber-reicht-es-81041220.bild.html",
-      "image_title": "Unwetter in Teilen Deutschlands: Endlich Regen! Aber reicht es?"
-    },
-    {
-      "title": "Vollgas in Österreich : Schrötter heiß aufs „Heimrennen“",
-      "teaser": "Besonderes Rennen für Moto2-Pilot Marcel Schrötter am Wochenende in Österreich.",
-      "url": "https://www.bild.de/sport/motorsport/rb-leipzig/motorrad-motogp-schroetter-heiss-aufs-heimrennen-81048604.bild.html",
-      "image_title": "Motorrad, MotoGP: Schrötter heiß aufs „Heimrennen“"
-    },
-    {
-      "title": "Dynamo-Keeper Drljaca : So tickt Elversberg!",
-      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-keeper-drljaca-so-tickt-elversberg-81052636.bild.html",
-      "image_title": "Dynamo-Keeper Drljaca: So tickt Elversberg!"
-    },
-    {
-      "title": "Missbrauchsvorwürfe wohl ignoriert : Wassersprung-Nationaltrainer gefeuert!",
-      "teaser": "Der Deutsche Schwimm-Verband hat Wassersprung-Bundestrainer Lutz Buschkow suspendiert.",
-      "url": "https://www.bild.de/sport/2022/sport/er-soll-missbrauchsvorwuerfe-ignoriert-haben-wassersprung-nationaltrainer-gefeue-81048926.bild.html",
-      "image_title": "Er soll Missbrauchsvorwürfe ignoriert haben: Wassersprung-Nationaltrainer gefeuert!"
-    },
-    {
-      "title": "Weil’s trockener und wärmer ist : Frühstart für Weinlese im Elbtal",
-      "teaser": "Lustige Weinlieder singend tragen Winzer die erste Traubenpracht zu den Pressen.",
-      "url": "https://www.bild.de/regional/dresden/sachsen-anhalt-news/radebeul-weils-trockener-ist-fruehstart-fuer-weinlese-im-elbtal-81048982.bild.html",
-      "image_title": "Radebeul: Weil’s trockener ist – Frühstart für Weinlese im Elbtal"
-    },
-    {
-      "title": "Opfer mischte Beton an und wurde dann erschossen : Kronzeuge Ramadan I. ist nirgendwo mehr sicher",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/rocker-prozess-verraet-kronzeuge-ramadan-i-seine-brueder-fuer-die-eigene-freihei-81048740.bild.html",
-      "image_title": "Rocker-Prozess in Duisburg: Verrät der Kronzeuge seine Brüder für die Freiheit?"
-    },
-    {
-      "title": "Bäcker schlagen Alarm : Bald kriegen wir nix mehr gebacken…",
-      "teaser": "Ihre Kosten explodieren, gleichzeitig bleiben die Kunden weg. In BILD erzählen drei Bäcker.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/inflations-baecker-schlagen-alarm-bald-kriegen-wir-nix-mehr-gebacken-81051228.bild.html",
-      "image_title": "Inflation! Bäcker schlagen Alarm: Bald kriegen wir nix mehr gebacken…"
-    },
-    {
-      "title": "Fakten zum Hertha-Spiel : Gladbach will sich die Spitze krallen!",
-      "teaser": "Freitag (20.30 Uhr) will Gladbach im Heimspiel gegen Hertha die Tabellenführung erobern",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-fakten-zum-spiel-gegen-hertha-bsc-berlin-81049824.bild.html",
-      "image_title": "Borussia Mönchengladbach: Fakten zum Spiel gegen Hertha BSC Berlin"
-    },
-    {
-      "title": "Neue Tour in den Frankfurter Drogensumpf : Crack, Koks, Heroin! 25-Euro-Ausflug ins Elend",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/neue-tour-in-den-drogensumpf-frankfurter-bahnhofsviertel-ausflug-ins-elend-81047670.bild.html",
-      "image_title": "Neue Tour in den Frankfurter Drogensumpf: 25-Euro-Ausflug ins Elend"
-    },
-    {
-      "title": "134 Tote im Ahrtal : 705 Polizei-Notrufe in der Flutnacht",
-      "teaser": "Bei der verheerenden Flut in RLP starben im vergangenen Sommer 134 Menschen im Ahrtal.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/134-tote-im-ahrtal-705-polizei-notrufe-in-der-flutnacht-81046098.bild.html",
-      "image_title": "134 Tote im Ahrtal: 705 Polizei-Notrufe in der Flutnacht"
-    },
-    {
-      "title": "RTW und LKW ausgebrannt : Aus diesen Wracks kamen alle lebend raus!",
-      "teaser": "Schlimmer Unfall am Donnerstagmittag in Nordhessen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/melsungen-aus-diesen-wracks-kamen-alle-lebend-raus-81048006.bild.html",
-      "image_title": "Melsungen: Aus diesen Wracks kamen alle lebend raus!"
-    },
-    {
-      "title": "Details der Polizei zu erschossenem Entführer (37) : Polizei-Verhör mit Pistole in der Unterhose",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/behoerden-gegen-details-bekannt-polizei-verhoer-mit-pistole-in-der-unterhose-81050962.bild.html",
-      "image_title": "Behörden gegen Details bekannt: Polizei-Verhör mit Pistole in der Unterhose"
-    },
-    {
-      "title": "2-Mio.-Spritze für Karine : Mein neues buntes Leben",
-      "teaser": "Sie ist zum ersten Mal auf einem Spielplatz und schaukelt in ihr neues Leben!",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/kleine-karine-nach-2-mio-spritze-endlich-gluecklich-mein-neues-buntes-leben-81042048.bild.html",
-      "image_title": "Kleine Karine nach 2-Mio.-Spritze endlich glücklich: Mein neues buntes Leben"
-    },
-    {
-      "title": "Schlammschlacht : Radio-Preis schmeißt Radio-Legende raus",
-      "teaser": "Riesen-Krach hinter den Kulissen des Deutschen Radiopreises!",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/schlammschlacht-um-marzel-becker-radio-preis-schmeisst-radio-legende-raus-81042296.bild.html",
-      "image_title": "Schlammschlacht um Marzel Becker: Radio-Preis schmeißt Radio-Legende raus"
-    },
-    {
-      "title": "Surfer-Paradies auf der Leine wächst! : Wir machen die Welle",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/surfer-paradies-auf-der-leine-waechst-bild-erklaert-die-baustelle-wir-machen-die-81043308.bild.html",
-      "image_title": "Surfer-Paradies auf der Leine wächst! BILD erklärt die Baustelle: Wir machen die Welle"
-    },
-    {
-      "title": "Am Bahnhof in Ahlten : Eidechse stoppt Parkplatz-Ausbau",
-      "teaser": "Zauneidechsen verzögern den Ausbau der P+R-Anlage in Ahlten – womöglich um mehrere Jahre",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/am-bahnhof-in-ahlten-eidechse-stoppt-parkplatz-ausbau-81043290.bild.html",
-      "image_title": "Am Bahnhof in Ahlten: Eidechse stoppt Parkplatz-Ausbau"
-    },
-    {
-      "title": "Cold Case bei „Aktenzeichen XY“ : Ermittler rollen Regenschirm-Mord auf",
-      "teaser": "Dies ist einer der rätselhaftesten Kriminalfälle Hannovers!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/cold-case-bei-aktenzeichen-xy-ermittler-rollen-regenschirm-mord-auf-81043340.bild.html",
-      "image_title": "Cold Case bei „Aktenzeichen XY“: Ermittler rollen Regenschirm-Mord auf"
-    },
-    {
-      "title": "Köln-Schwur nach Euro-Schock : „Wir drehen das Ding in Ungarn!“",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-koeln-schwur-nach-europa-schock-wir-drehen-das-ding-in-ungarn-81052338.bild.html",
-      "image_title": "1. FC Köln: Köln-Schwur nach Europa-Schock: „Wir drehen das Ding in Ungarn!“"
-    },
-    {
-      "title": "Feuerwehr muss ihn befreien : Hund klemmt im Treppenlift fest",
-      "teaser": "Eine neun Monate alte Hunde-Dame ist mit ihrem Wedel in einem Treppenlift hängengeblieben.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/kreuzau-hund-klemmt-mit-schwanz-im-treppenlift-fest-81051792.bild.html",
-      "image_title": "Kreuzau: Hund klemmt mit Schwanz im Treppenlift fest"
-    },
-    {
-      "title": "NRW verlängert Corona-Regeln : Maskenpflicht in Bus und Bahn bleibt",
-      "teaser": "Das Gesundheitsministerium hat die Corona-Maßnahmen bis zum 23.9. verlängert.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/nrw-verlaengert-corona-regeln-maskenpflicht-in-bus-und-bahn-bleibt-81049544.bild.html",
-      "image_title": "NRW verlängert Corona-Regeln: Maskenpflicht in Bus und Bahn bleibt"
-    },
-    {
-      "title": "Inselteich und Karl-Heine-Kanal betroffen : Blaualgen-Alarm in Leipzig",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-blaualgen-alarm-im-karl-heine-kanal-und-inselteich-im-zetkin-park-81053688.bild.html",
-      "image_title": "Leipzig: Blaualgen-Alarm im Karl-Heine-Kanal und Inselteich im Zetkin-Park"
-    },
-    {
-      "title": "Weil er 10 Zentimeter zu schmal ist! : Leipzig lässt Radweg abreißen",
-      "teaser": "Eine Verwaltungsvorschrift schreibt eine Mindestbreite von 1,50 Meter vor.",
-      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/leipzig-10-zentimeter-zu-schmal-stadt-laesst-radweg-abreissen-81048894.bild.html",
-      "image_title": "Leipzig: 10 Zentimeter zu schmal! Stadt lässt Radweg abreißen"
-    },
-    {
-      "title": "Verdächtiger in Haft : Mann (34) stirbt nach Prügelei vor Studentenclub",
-      "teaser": "Ein Mann starb nach einer Prügelei vor einem Leipziger Club. Der Täter war geflüchtet.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-mann-34-stirbt-nach-pruegelei-vor-club-verdaechtiger-gefasst-81041598.bild.html",
-      "image_title": "Leipzig: Mann stirbt nach Prügelei vor Club – Verdächtiger gefasst"
-    },
-    {
-      "title": "Fröde bleibt cool : „Es gibt schlimmere Situationen“",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/froede-bleibt-cool-es-gibt-schlimmere-situationen-81048316.bild.html",
-      "image_title": "Fröde bleibt cool: „Es gibt schlimmere Situationen“"
-    },
-    {
-      "title": "„All inklusiv“ : Das neue Leben von Olympiasieger Schenk",
-      "teaser": "Zehnkampf-Olympiasieger Christian Schenk hat eine neue Berufung gefunden: Inklusion!",
-      "url": "https://www.bild.de/sport/mehr-sport/sport-mix/all-inklusiv-das-neue-leben-von-olympiasieger-schenk-81048446.bild.html",
-      "image_title": "„All inklusiv“: Das neue Leben von Olympiasieger Schenk"
-    },
-    {
-      "title": "Info-Tafeln zeigten Sex-Videos : Porno-Rätsel auf Hiddensee gelöst",
-      "teaser": "Hiddensee (Mecklenburg-Vorpommern) – Ein Tourist war wohl der Porno-Publizist ... Ende ...",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/videos-auf-info-point-porno-raetsel-auf-hiddensee-geloest-81045856.bild.html",
-      "image_title": "Sex-Videos auf Info-Point: Porno-Rätsel auf Hiddensee gelöst"
-    },
-    {
-      "title": "In Bayern : 15 Millionen Flugpassagiere im ersten Halbjahr",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/in-bayern-15-millionen-flugpassagiere-im-ersten-halbjahr-81053732.bild.html",
-      "image_title": "In Bayern: 15 Millionen Flugpassagiere im ersten Halbjahr"
-    },
-    {
-      "title": "Nach Doppelgänger-Mord : Vater der vermeintlich Toten: „Sie kann kein Blut sehen“",
-      "teaser": "Nach der spektakulären Wende in einem Mordfall aus Ingolstadt kommen mehr Details ans Licht.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/doppelgaenger-mord-in-ingolstadt-das-sagt-der-vater-der-vermeintlich-toten-81052990.bild.html",
-      "image_title": "Doppelgänger-Mord in Ingolstadt: Das sagt der Vater der vermeintlich Toten"
-    },
-    {
-      "title": "Nach Unglück in Garmisch : Schwellen-Austausch noch bis Ende des Jahres",
-      "teaser": "Der Austausch der Betonschwellen nach dem Zugunglück in Garmisch-Patenkirchen dauert an",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-unglueck-in-garmisch-schwellen-austausch-noch-bis-ende-des-jahres-81053218.bild.html",
-      "image_title": "Nach Unglück in Garmisch: Schwellen-Austausch noch bis Ende des Jahres"
-    },
-    {
-      "title": "Ärger wegen einer einzigen Filiale : Keine Pommes mehr bei Ikea?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/aerger-um-pommes-bei-ikea-filiale-in-wuerzburg-streicht-fritten-von-der-karte-81050412.bild.html",
-      "image_title": "Ärger um Pommes bei Ikea: Filiale in Würzburg streicht Fritten von der Karte"
-    },
-    {
-      "title": "Sie musste eingeschläfert werden : Schwangere Kuh nachts aufgeschreckt",
-      "teaser": "Eine trächtige Kuh ist in Mittelfranken von einem Unbekannten aufgeschreckt worden",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/sie-musste-eingeschlaefert-werden-schwangere-kuh-nachts-aufgeschreckt-81053474.bild.html",
-      "image_title": "Sie musste eingeschläfert werden: Schwangere Kuh nachts aufgeschreckt"
-    },
-    {
-      "title": "Pferd erschlägt Frau : 37-Jährige stirbt bei Spaziergang",
-      "teaser": "Eine 37-Jährige ist in Hahnbach von einem Pferd tödlich verletzt worden.",
-      "url": "https://www.bild.de/news/inland/news-inland/pferd-erschlaegt-frau-37-jaehrige-stirbt-bei-spaziergang-81051060.bild.html",
-      "image_title": "Pferd erschlägt Frau: 37-Jährige stirbt bei Spaziergang"
-    },
-    {
-      "title": "Senegalese bei Polizeieinsatz in Dortmund erschossen : Mouhamed (16) in seinem Heimatdorf beigesetzt",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bei-polizeieinsatz-in-dortmund-erschossen-mouhamed-16-beigesetzt-81053018.bild.html",
-      "image_title": "Bei Polizeieinsatz in Dortmund erschossen: Mouhamed (16) beigesetzt"
-    },
-    {
-      "title": "Massives Feuer in Greven : Millionenschaden bei Großbrand in Tischlerei",
-      "teaser": "Verletzt wurde niemand. Zu der Zeit waren auch keine Personen mehr in dem Gebäude.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/greven-millionenschaden-bei-grossbrand-in-tischlerei-81052508.bild.html",
-      "image_title": "Greven: Millionenschaden bei Großbrand in Tischlerei"
-    },
-    {
-      "title": "Großkreutz eröffnet bald zweite Kneipe : Kurze kippen bei Kevin",
-      "teaser": "Noch 2022 eröffnet der Kult-Kicker seine zweite Kneipe im Dortmunder Kreuzviertel.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/bvb-kultkicker-kevin-grosskreutz-eroeffnet-bald-zweite-kneipe-in-dortmund-81051248.bild.html",
-      "image_title": "BVB-Kultkicker Kevin Großkreutz eröffnet bald zweite Kneipe in Dortmund"
-    },
-    {
-      "title": "Kappen, Klavier, Kalorien verbrennen : Viel los bei Ortsvorsteher Boos",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/kappen-klavier-kalorien-verbrennen-viel-los-bei-ortsvorsteher-boos-81047666.bild.html",
-      "image_title": "Kappen, Klavier, Kalorien verbrennen: Viel los bei Ortsvorsteher Boos"
-    },
-    {
-      "title": "Teure Immobilien, wenig Geld für Opfer : Saarland im Städtevergleich",
-      "teaser": "Schaut man sich die aktuellen Städte-Rankings an, läuft es alles andere als rosig!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/teure-immobilien-wenig-geld-fuer-opfer-saarland-im-staedtevergleich-81043682.bild.html",
-      "image_title": "Teure Immobilien, wenig Geld für Opfer: Saarland im Städtevergleich"
-    },
-    {
-      "title": "1. FC Saarbrücken : Notfall-Plan mit diesem Verteidiger",
-      "teaser": "Schlägt Saarbrücken doch noch mal auf dem Transfermarkt zu? Vor allem hinten ist's eng.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fc-saarbruecken-notfall-plan-mit-diesem-verteidiger-81046696.bild.html",
-      "image_title": "1. FC Saarbrücken: Notfall-Plan mit diesem Verteidiger"
-    },
-    {
-      "title": "Forscher untersuchen Bindersee : Eine Röhre voller Vergangenheit",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/wie-vor-10-000-jahren-klima-und-temperaturen-im-bindersee-waren-81048816.bild.html",
-      "image_title": "Wie vor 10 000 Jahren Klima und Temperaturen im Bindersee waren"
-    },
-    {
-      "title": "Demo-Forscher sicher : Mit der Energiekrise kommt die nächste Wutwelle",
-      "teaser": "Angesichts der drohenden Energiekrise und Inflation erwarten Sozialforscher Proteste.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/energie-krise-experten-rechnen-mit-neuer-protest-welle-im-herbst-81035038.bild.html",
-      "image_title": "Energie-Krise: Experten rechnen mit neuer Protest-Welle im Herbst"
-    },
-    {
-      "title": "Wegen Fischsterbens : Hobbykapitäne sitzen im Oder-Spree-Kanal fest",
-      "teaser": "Die Umweltkatastrophe in der Oder hat auch Folgen für zwei Freizeit-Kapitäne aus Sachsen.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/wegen-fischsterbens-hobbykapitaene-sitzen-im-oder-spree-kanal-fest-81041460.bild.html",
-      "image_title": "Wegen Fischsterbens: Hobbykapitäne sitzen im Oder-Spree-Kanal fest"
-    },
-    {
-      "title": "Postsendung aus Grossbritannien : Zollbeamte finden echten Elefantenfuß",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/in-post-zollbeamte-finden-echten-elefantenfuss-81052428.bild.html",
-      "image_title": "Lörrach: Zollbeamte finden echten Elefantenfuß in Paket aus England"
-    },
-    {
-      "title": "Kretschmann-Rat : „Der Waschlappen ist eine brauchbare Erfindung“",
-      "teaser": "Baden-Württembergs Ministerpräsident Winfried Kretschmann sieht sich als energiesparer",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/kretschmann-rat-der-waschlappen-ist-eine-brauchbare-erfindung-81051698.bild.html",
-      "image_title": "Kretschmann-Rat: „Der Waschlappen ist eine brauchbare Erfindung“"
-    },
-    {
-      "title": "Wetterdienst warnt : „Extrem ergiebiger Dauerregen“ am Alpenrand",
-      "teaser": "München – Der Deutsche Wetterdienst warnt vor Dauerstarkregen am Alpenrand.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wetterdienst-warnt-extrem-ergiebiger-dauerregen-am-alpenrand-81051472.bild.html",
-      "image_title": "Wetterdienst warnt: „Extrem ergiebiger Dauerregen“ am Alpenrand"
-    },
-    {
-      "title": "Teurer als in der Bundesliga! : Was Carl Zeiss Jena am Trikot-Verkauf verdient",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/teurer-als-in-der-bundesliga-trikot-abzocke-bei-carl-zeiss-jena-81049960.bild.html",
-      "image_title": "Teurer als Bundesliga! Was Carl Zeiss Jena am Trikot-Verkauf verdient"
-    },
-    {
-      "title": "Polizist über Kunstraub von Gotha : Hier hängt mein größter Fall",
-      "teaser": "„Einmal Polizist, immer Polizist“, sagt Kurt Basler (91) und blättert in einem dicken Ordner.",
-      "url": "https://www.bild.de/regional/thueringen/sachsen-anhalt-news/gotha-polizist-ueber-kunstraub-hier-haengt-mein-groesster-fall-81048586.bild.html",
-      "image_title": "Gotha: Polizist über Kunstraub – Hier hängt mein größter Fall"
-    },
-    {
-      "title": "Leiche in Wohnung in Thüringen entdeckt : Vorbestrafter soll Frau (25) getötet haben",
-      "teaser": "Die Polizei geht von einem Verbrechen aus – ein 29-Jähriger wurde festgenommen.",
-      "url": "https://www.bild.de/regional/thueringen/sachsen-anhalt-news/geraberg-frau-25-tot-in-wohnung-entdeckt-81047600.bild.html",
-      "image_title": "Geraberg: Frau (25) tot in Wohnung entdeckt – Vorbestrafter festgenommen"
-    }
-  ]
+  "articles": []
 }
