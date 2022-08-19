@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-19T07:20:55",
+  "timestamp": "2022-08-19T08:26:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.760c0c489d0ccfdad464",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.71e8d06760b18be8885b",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "McAfee Security Scan Plus",
+      "url": "https://www.heise.de/news/Virenscanner-Schwachstelle-von-McAfee-erleichtert-Angreifern-das-Einnisten-7235809.html"
+    },
     {
       "title": "TP-Link TL-WR841N",
       "url": "https://www.heise.de/news/Remote-Code-Exploit-in-TP-Link-Routern-7224392.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-7222389.html"
     },
     {
-      "title": "HPE Integrated Lights-Out",
-      "url": "https://www.heise.de/news/Fernwartung-Kritische-Sicherheitsluecken-in-HPE-Integrated-Lights-Out-iLO-7219923.html"
+      "title": "Ältere macOS-Versionen: Apple zieht Safari-Patch für aktiven Exploit nach",
+      "teaser": "Nachdem zunächst nicht klar war, ob nur macOS 12 betroffen ist, steht nun fest: Auch Big Sur und Catalnia sind betroffen. Apple reagierte verzögert.",
+      "url": "https://www.heise.de/news/Aeltere-macOS-Versionen-Apple-zieht-Safari-Patch-fuer-aktiven-Exploit-nach-7235847.html",
+      "image_title": "Safari von Apple"
+    },
+    {
+      "title": "Virenscanner: Schwachstelle von McAfee erleichtert Angreifern das Einnisten",
+      "teaser": "Angreifer hätten aufgrund einer Sicherheitslücke im Virenschutz McAfee Security Scan Plus ihre Rechte erhöhen können. Das erleichterte das Einnisten im System.",
+      "url": "https://www.heise.de/news/Virenscanner-Schwachstelle-von-McAfee-erleichtert-Angreifern-das-Einnisten-7235809.html",
+      "image_title": "Aufmacher McAfee-Sicherheitslücke erleichter Einnisten von Einbrechern"
     },
     {
       "title": "IT-Experten: Mit \"Zero Trust\" das nächste Security-Desaster verhindern",
@@ -149,17 +161,6 @@
       "teaser": "Zwang zum regelmäßigen Ändern von Passwörtern ist eine schlechte Idee. Standardpasswörter in Geräten auch.",
       "url": "https://www.heise.de/news/BSI-Beirat-warnt-vor-ueberkomplexen-Passwoertern-und-staendiger-Erneuerung-7221073.html",
       "image_title": "Türschloss mit Codeinegabe - darauf die Aufschrift \"Code 1, 2, 3, 4\""
-    },
-    {
-      "title": "UEFI Secure Boot: Microsoft sperrt unsichere Bootloader per Windows-Update",
-      "teaser": "Der UEFI-Code von drei Firmen enthält Sicherheitslücken, die Secure Boot aushebeln können. Microsoft zieht Konsequenzen per Windows-Update.",
-      "url": "https://www.heise.de/news/UEFI-Secure-Boot-Microsoft-sperrt-unsichere-Bootloader-per-Windows-Update-7220634.html"
-    },
-    {
-      "title": "John Deere: Root-Zugang auf dem Trecker durch Hack",
-      "teaser": "Auf der DefCon-Konferenz hat der Hacker \"Sick.Codes\" einen Hack von John-Deere-Traktoren vorgestellt. Danke Rootzugriff konnte er Doom installieren und spielen.",
-      "url": "https://www.heise.de/news/John-Deere-Root-Zugang-auf-dem-Trecker-durch-Hack-7220437.html",
-      "image_title": "Aufmacher John Deere-Trecker gehackt"
     },
     {
       "title": "heise Security Tour 2022",
