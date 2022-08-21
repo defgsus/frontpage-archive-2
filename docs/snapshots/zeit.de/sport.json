@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-21T03:58:20",
+  "timestamp": "2022-08-21T04:40:29",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung: Die Liegestütz-Planke",
+      "teaser": "Diese Übung verbindet gleich zwei Klassiker, die jeder fürchtet. Wer aber Liegestütz und Planke zusammen schafft, trainiert seinen ganzen Körper so effektiv wie selten.",
+      "url": "https://www.zeit.de/sport/2022-08/fitnessuebung-liegestuetz-planke-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2022-08/wochendende-34-fitnessuebung-liegestuetz-planke-personal-trainer-teaser-bild/cinema__980x420"
+    },
+    {
       "title": "Bundesliga 3. Spieltag: Union schlägt Leipzig – Bremen dreht Spiel beim BVB in Nachspielzeit",
-      "teaser": "RB Leipzig verliert zum vierten mal in Folge bei Union Berlin. Werder liegt beim BVB bis zur 89. Minute mit zwei Toren zurück und gewinnt noch. Die Spielberichte 114 Kommentare",
+      "teaser": "RB Leipzig verliert zum vierten mal in Folge bei Union Berlin. Werder liegt beim BVB bis zur 89. Minute mit zwei Toren zurück und gewinnt noch. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2022-08/bundesliga-spieltag-3-moenchengladbach-hertha",
-      "image_url": "https://img.zeit.de/sport/2022-08/fussball-bundesliga-fc-union-berlin-rb-leipzig/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-08/fussball-bundesliga-fc-union-berlin-rb-leipzig/wide__822x462",
+      "image_title": "Bundesliga 3. Spieltag: Union schlägt Leipzig – Bremen dreht Spiel beim BVB in Nachspielzeit"
     },
     {
       "title": "Sexueller Missbrauch im Schwimmen: \"Da wird über Leichen gegangen\"",
@@ -67,13 +74,6 @@
       "url": "https://www.zeit.de/sport/2022-08/sexueller-missbrauch-schwimmen-doku-jan-hempel",
       "image_url": "https://img.zeit.de/sport/2022-08/sexueller-missbrauch-schwimmen-doku-jan-hempel-bild/wide__822x462",
       "image_title": "Sexueller Missbrauch im Schwimmen: \"Da wird über Leichen gegangen\""
-    },
-    {
-      "title": "Bundesliga-Vorschau: Guter Osten gegen böser Osten",
-      "teaser": "Topspiel in Köpenick – Union Berlin will die Leipziger Stimmung noch weiter drücken. Und der Videobeweis feiert Jubiläum, das gilt es unbedingt zu feiern. Der 3. Spieltag",
-      "url": "https://www.zeit.de/sport/2022-08/bundesliga-vorschau-union-berlin-rb-leipzig",
-      "image_url": "https://img.zeit.de/sport/2022-08/fans-rb-leipzig/wide__822x462",
-      "image_title": "Bundesliga-Vorschau: Guter Osten gegen böser Osten"
     },
     {
       "title": "Club-O-Mat 2022/23: Welcher Fußballverein passt zu mir?",
@@ -90,6 +90,13 @@
       "image_title": "England – Deutschland: Die Nacht der Tränen"
     },
     {
+      "title": "Bundesliga-Vorschau: Guter Osten gegen böser Osten",
+      "teaser": "Topspiel in Köpenick – Union Berlin will die Leipziger Stimmung noch weiter drücken. Und der Videobeweis feiert Jubiläum, das gilt es unbedingt zu feiern. Der 3. Spieltag",
+      "url": "https://www.zeit.de/sport/2022-08/bundesliga-vorschau-union-berlin-rb-leipzig",
+      "image_url": "https://img.zeit.de/sport/2022-08/fans-rb-leipzig/wide__822x462",
+      "image_title": "Bundesliga-Vorschau: Guter Osten gegen böser Osten"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Thomas Tuchel und Antonio Conte: Der Affenfels Coachingzone",
       "teaser": "Wenn sich die zwei Silberrücken Thomas Tuchel und Antonio Conte die Hände geben, heißt das: Fight. Was haben wir ihn vermisst, den testosterongeladenen Männerfußball!",
       "url": "https://www.zeit.de/sport/2022-08/thomas-tuchel-antonio-conte-premier-league",
@@ -104,13 +111,6 @@
       "image_title": "Leichtathletik-EM: Klosterhalfen Europameisterin über 5.000 Meter – Mihambo verpasst Gold"
     },
     {
-      "title": "Missbrauchs-Affäre: Deutscher Schwimm-Verband suspendiert Bundestrainer",
-      "teaser": "Der frühere Weltklasse-Springer Jan Hempel wirft Bundestrainer Lutz Buschkow vor, Missbrauchsvorwürfen nicht nachgegangen zu sein. Der DSV will das nun überprüfen.",
-      "url": "https://www.zeit.de/sport/2022-08/sexueller-missbrauch-jan-hempel-vorwurf-bundestrainer",
-      "image_url": "https://img.zeit.de/sport/2022-08/missbrauch-wassersprung-bundestrainer-lutz-buschkow-bild/wide__822x462",
-      "image_title": "Missbrauchs-Affäre: Deutscher Schwimm-Verband suspendiert Bundestrainer"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -118,11 +118,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Sexueller Missbrauch im Schwimmen : \"Täglich zu sexuellen Handlungen genötigt\"",
-      "teaser": "Der ehemalige Wasserspringer Jan Hempel berichtet in einer ARD-Doku von sexuellem Missbrauch durch seinen Trainer. Vorwürfe macht er auch dem Deutschen Schwimm-Verband.",
-      "url": "https://www.zeit.de/sport/2022-08/sexueller-missbrauch-schwimmen-jan-hempel",
-      "image_url": "https://img.zeit.de/sport/2022-08/sexueller-missbrauch-schwimmen-jan-hempel-bild/wide__822x462",
-      "image_title": "Sexueller Missbrauch im Schwimmen : \"Täglich zu sexuellen Handlungen genötigt\""
+      "title": "Missbrauchs-Affäre: Deutscher Schwimm-Verband suspendiert Bundestrainer",
+      "teaser": "Der frühere Weltklasse-Springer Jan Hempel wirft Bundestrainer Lutz Buschkow vor, Missbrauchsvorwürfen nicht nachgegangen zu sein. Der DSV will das nun überprüfen.",
+      "url": "https://www.zeit.de/sport/2022-08/sexueller-missbrauch-jan-hempel-vorwurf-bundestrainer",
+      "image_url": "https://img.zeit.de/sport/2022-08/missbrauch-wassersprung-bundestrainer-lutz-buschkow-bild/wide__822x462",
+      "image_title": "Missbrauchs-Affäre: Deutscher Schwimm-Verband suspendiert Bundestrainer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fitnessübung: Das Beinheben",
@@ -139,6 +139,13 @@
       "image_title": "Sport bei Hitze: \"Es gibt auch Leute, die zu viel trinken\""
     },
     {
+      "title": "Sexueller Missbrauch im Schwimmen : \"Täglich zu sexuellen Handlungen genötigt\"",
+      "teaser": "Der ehemalige Wasserspringer Jan Hempel berichtet in einer ARD-Doku von sexuellem Missbrauch durch seinen Trainer. Vorwürfe macht er auch dem Deutschen Schwimm-Verband.",
+      "url": "https://www.zeit.de/sport/2022-08/sexueller-missbrauch-schwimmen-jan-hempel",
+      "image_url": "https://img.zeit.de/sport/2022-08/sexueller-missbrauch-schwimmen-jan-hempel-bild/wide__822x462",
+      "image_title": "Sexueller Missbrauch im Schwimmen : \"Täglich zu sexuellen Handlungen genötigt\""
+    },
+    {
       "title": "Dynamo Kiew: Seht her, wir spielen noch",
       "teaser": "Fußball, während Freunde an der Front sind: In Polen spielt Dynamo Kiew gegen Lissabon. Die Ukrainer finden Ablenkung vom Krieg und es kommt zu einem ergreifenden Moment.",
       "url": "https://www.zeit.de/sport/2022-08/dynamo-kiew-benfica-lissabon-champions-league",
@@ -151,13 +158,6 @@
       "url": "https://www.zeit.de/sport/2022-08/gefluechtete-afghanistan-kabul-muenchen-bmx-club",
       "image_url": "https://img.zeit.de/sport/2022-08/gefluechtete-afghanistan-kabul-1/wide__822x462",
       "image_title": "Geflüchtete aus Afghanistan: Lass die Waffe fallen und fahr!"
-    },
-    {
-      "title": "Schwimm-Europameisterschaft: Märtens und Gose holen Gold über 400 Meter Freistil",
-      "teaser": "Bei der Schwimm-EM in Rom haben zwei Deutsche Gold über 400 Meter Freistil gewonnen. Lukas Märtens siegte bei den Männern, Isabel Gose bei den Frauen.",
-      "url": "https://www.zeit.de/sport/2022-08/schwimm-em-rom-lukas-maertens-isabel-gose-400-meter-freistil",
-      "image_url": "https://img.zeit.de/sport/2022-08/schwimm-em-rom-lukas-maertens-isabel-gose-400-meter-freistil-bild/wide__822x462",
-      "image_title": "Schwimm-Europameisterschaft: Märtens und Gose holen Gold über 400 Meter Freistil"
     },
     {
       "title": "Sexueller Missbrauch im Schwimmen : \"Täglich zu sexuellen Handlungen genötigt\"",
