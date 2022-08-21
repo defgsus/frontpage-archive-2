@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-21T13:31:33",
+  "timestamp": "2022-08-21T14:19:08",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.18ba8297.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7bca1646.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.6146dd0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cb11a3bd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.6e0d4353.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7bfc685f.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Nach Feuer-Drama : Anschlag auf Thüringer Traditions-Hotel",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/bad-koestritz-thueringen-anschlag-mit-rauchgranate-auf-traditions-hotel-81071848.bild.html",
-      "image_url": "https://images.bild.de/6302270060a3e73b21ea5ccb/758c20360541688d95874f6d882ad4f6,9a6c0125?w=656",
-      "image_title": "Bad Köstritz (Thüringen): Anschlag auf Thüringer Traditions-Hotel"
-    },
-    {
-      "title": "Nahe Leipziger Eisenbahnstraße : Mann nach Schlägerei schwer verletzt in Klinik",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-mann-nach-schlaegerei-schwer-verletzt-in-klinik-81069104.bild.html",
-      "image_url": "https://images.bild.de/6301eaa92683a53e6af4edb9/ddab81f4019cb4a56f6767d4e246ae75/Kennung_Archivfoto,f6bed121?w=320",
-      "image_title": "Leipzig: Mann nach Schlägerei schwer verletzt in Klinik"
-    },
-    {
-      "title": "Beim Freigang abgehauen : „Joker“-Messerstecher nach Flucht aus Knast gefasst",
-      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/fahndung-gefaehrlicher-haeftling-aus-sachsen-auf-der-flucht-81065234.bild.html",
-      "image_url": "https://images.bild.de/6300f69e6344917e1d2b660a/2b89314c1aeb2bf53960f34485070c4d,4af950e6?w=320",
-      "image_title": "Sachsen: „Joker“-Messerstecher nach Flucht aus Knast gefasst"
-    },
-    {
-      "title": "Vier Verletzte bei Bahnunfall in Halle : Tram im Haus!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/halle-strassenbahn-entgleist-und-kracht-in-wohnhaus-81070838.bild.html",
-      "image_url": "https://images.bild.de/6302110707fa9912a64b5355/bd12db431c453cfdf37d81358470fac8,29352dd6?w=320",
-      "image_title": "Halle: Straßenbahn entgleist und kracht in Wohnhaus"
-    },
-    {
-      "title": "Angriff in Mühlhausen : Mann (38) mit Machete attackiert",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/muehlhausen-mann-38-mit-machete-attackiert-81070044.bild.html",
-      "image_url": "https://images.bild.de/6302023460a3e73b21ea5c7e/0ddf14eaeeef67e8582560c6fa37bf38/Kennung_Symbolfoto,a48e5750?w=320",
-      "image_title": "Mühlhausen: Mann (38) mit Machete attackiert"
-    },
-    {
-      "title": "In Aufführung geplatzt : Autofahrer folgt Navi und landet auf Freilichtbühne",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/theater-auto-fahrer-folgt-navi-und-landet-auf-freilichtbuehne-81054114.bild.html",
-      "image_title": "Theater in Waren: Autofahrer folgt Navi und landet auf Freilichtbühne"
-    },
-    {
-      "title": "50 Deutsche zum Mieten-Irrsinn : „Familienausflüge können wir uns nicht leisten“",
-      "teaser": "50 Deutsche erzählen, wie viel Miete sie zahlen – und ob sie es sich leisten können.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/teuer-schock-auch-beim-wohnen-50-deutsche-erzaehlen-wie-viel-miete-sie-zahlen-80902838.bild.html",
-      "image_title": "Teuer-Schock auch beim Wohnen: 50 Deutsche erzählen, wie viel Miete sie zahlen"
-    },
-    {
-      "title": "Doppelgänger-Mord von Ingolstadt : Ihr Papa glaubte eineinhalb Tage, sie sei tot",
-      "teaser": "Shahraban K. (23) ließ ihre Familie anderthalb Tage im Glauben, ermordet worden zu sein.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/news-inland/doppelgaenger-mord-in-ingolstadt-vater-glaubte-eineinhalb-tage-seine-tochter-sei-81062422.bild.html",
-      "image_title": "Doppelgänger-Mord in Ingolstadt: Vater glaubte eineinhalb Tage, seine Tochter sei tot"
-    },
-    {
-      "title": "Horror-Unfall in Bad Doberan : Auto rast in Menschengruppe – fünf Verletzte",
-      "teaser": "Horror-Unfall an der Ostsee! In Bad Doberan raste ein Auto in eine Personengruppe.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/bad-doberan-auto-rast-in-personengruppe-fuenf-verletzte-81067968.bild.html",
-      "image_title": "Bad Doberan: Auto rast in Menschengruppe – fünf Verletzte"
-    },
-    {
-      "title": "Notärzte schlagen Alarm : Lange geht das nicht mehr gut",
-      "teaser": "Zwei Drittel der Notaufnahmen melden eine „gefährliche Überbelegung“.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/aerzte-schlagen-alarm-lange-geht-das-nicht-mehr-gut-81053400.bild.html",
-      "image_title": "Ärzte schlagen Alarm: Lange geht das nicht mehr gut"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "teaser": "9 Mio € Lotto-Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 20. August 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-20-august-81031044.bild.html",
-      "image_title": "Lotto am Samstag: Die Lottozahlen vom 20. August"
-    },
-    {
-      "title": "Gullydeckel von Brücke auf Autobahn 7 bei Hildesheim geworfen : Polizei nimmt Tatverdächtigen (50) fest",
-      "teaser": "Hildesheim – Wahnsinns-Attacke auf der Autobahn 7! Am frühen Samstagmorgen (20. August)...",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/bei-hildesheim-gullydeckel-von-bruecke-auf-a7-geworfen-81062184.bild.html",
-      "image_title": "Hildesheim: Gullydeckel von Brücke auf Autobahn geworfen – Frau in Lebensgefahr"
-    },
-    {
-      "title": "Pilot antwortete nicht : Kampfjets der Bundeswehr überprüfen Urlaubsflieger",
-      "teaser": "Weil sich die Crew eines Urlaubsfliegers nicht meldete, hoben Kampfjets der Bundeswehr ab.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wuerzburg-kampfjets-der-bundeswehr-ueberpruefen-urlaubsflieger-81064018.bild.html",
-      "image_title": "Würzburg: Kampfjets der Bundeswehr überprüfen Urlaubsflieger"
-    },
-    {
-      "title": "Stellwerk in Dortmund ausgefallen : Bahn-Chaos zum ausverkauften BVB-Spiel",
-      "teaser": "Seit dem frühen Samstagmorgen ist der Dortmunder Hauptbahnhof für den Zugverkehr gesperrt.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-bahn-chaos-hat-auswirkung-auf-fussball-samstag-81063526.bild.html",
-      "image_title": "Dortmund: Bahn-Chaos hat Auswirkung auf Fußball-Samstag"
-    },
-    {
-      "title": "Weil er Streit schlichten wollte : Mann (53) brutal zusammengeschlagen",
-      "teaser": "Unfassbare Tat: Jugendlichen schubsten einen Mann zu Boden, traten gegen seinen Kopf.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/weil-er-streit-schlichten-wollte-mann-53-brutal-zusammengeschlagen-81063144.bild.html",
-      "image_title": "Weil er Streit schlichten wollte: Mann (53) brutal zusammengeschlagen"
-    },
-    {
-      "title": "Ab 5. Oktober auf der Anklagebank : Schuhbeck erwartet ein langer Prozess",
-      "teaser": "München – Ab 5. Oktober sitzt Starkoch Alfons Schuhbeck (73) auf der Anklagebank wegen Steuerhinterziehung – ihm droht sogar Knast!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/ab-5-oktober-auf-der-anklagebank-schuhbeck-erwartet-langer-prozess-81057924.bild.html",
-      "image_title": "Ab 5. Oktober auf der Anklagebank: Schuhbeck erwartet langer Prozess"
-    },
-    {
-      "title": "Horror-Unfall in Herrenberg : Bus stürzt ab, crasht in Aldi-Filiale!",
-      "teaser": "Nur die Vorderreifen berühren den Boden, die Vorderseite ist gegen eine Aldi-Filiale gequetscht.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/horror-unfall-in-herrenberg-bus-stuerzt-ab-crasht-in-aldi-filiale-81061648.bild.html",
-      "image_title": "Horror-Unfall: Bus stürzt acht Meter in die Tiefe, crasht in Aldi-Filiale!"
-    },
-    {
-      "title": "Uniper beauftragt Graffiti-Sprayer : Hier haut ein Gas-Versorger unsere Kohle an die Wand",
-      "teaser": "München – Mit der Gas-Umlage, die alle Bürger zahlen, sollen strauchelnde Energie-Konzerne gerettet werden. Aber bei Uniper scheint das Steuergeld recht locker zu sitzen ...",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/uniper-beauftragt-sprayer-hier-haut-gas-versorger-unsere-kohle-an-die-wand-81057792.bild.html",
-      "image_title": "Uniper beauftragt Sprayer: Hier haut Gas-Versorger unsere Kohle an die Wand"
-    },
-    {
-      "title": "Eurojackpot am Freitag : Haben Sie den 18 Millionen Euro Jackpot geknackt?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 19. August 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-und-quoten-vom-19-august-81030974.bild.html",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen und Quoten vom 19. August"
-    },
-    {
-      "title": "Ehefrau beschreibt Fleischerbeil-Angriff : „Wie ein Tier auf mich los, hackte auf mir rum“",
-      "teaser": "Wie viel Mut kann man haben, um diesem Grusel-Grinsen noch entgegenzutreten?",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/fleischerbeil-horror-wie-ein-tier-auf-mich-los-hackte-auf-mir-rum-81057006.bild.html",
-      "image_title": "Fleischerbeil-Horror: „Wie ein Tier auf mich los, hackte auf mir rum“"
-    },
-    {
-      "title": "Staatsanwältin sicher : Mutter tötete Baby, weil es ein „Störfaktor“ war",
-      "teaser": "Es war ein kaltblütiges Verbrechen, das Ende Oktober 2021 in Sachsen begangen wurde.",
-      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/leipzig-mutter-soll-baby-getoetet-haben-weil-es-ein-stoerfaktor-war-81056688.bild.html",
-      "image_title": "Leipzig: Mutter soll Baby getötet haben, weil es ein „Störfaktor“ war"
-    },
-    {
-      "title": "Kuriose Rettungsaktion : Dampfschiff angelt Mazda aus der Elbe",
-      "teaser": "Die Besatzung eines Elbe-Dampfers zog Donnerstagabend einen ganz besonders dicken Fisch an Land.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-in-sachsen-dampfschiff-angelt-mazda-aus-der-elbe-81051866.bild.html",
-      "image_title": "Unfall in Sachsen: Dampfschiff angelt Mazda aus der Elbe"
-    },
-    {
-      "title": "Neue Tour in Frankfurter Drogensumpf : Crack, Koks, Heroin! 25-Euro-Ausflug ins Elend",
-      "teaser": "Drogensumpf, Elend, Kriminalität im Bahnhofsviertel – gibt‘s kommerzielle Führungen.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/neue-tour-in-den-drogensumpf-frankfurter-bahnhofsviertel-ausflug-ins-elend-81047670.bild.html",
-      "image_title": "Neue Tour in den Frankfurter Drogensumpf: 25-Euro-Ausflug ins Elend"
-    },
-    {
-      "title": "Pferd erschlägt Frau : 37-Jährige stirbt bei Spaziergang",
-      "teaser": "Eine 37-Jährige ist in Hahnbach von einem Pferd tödlich verletzt worden.",
-      "url": "https://www.bild.de/news/inland/news-inland/pferd-erschlaegt-frau-37-jaehrige-stirbt-bei-spaziergang-81051060.bild.html",
-      "image_title": "Pferd erschlägt Frau: 37-Jährige stirbt bei Spaziergang"
-    },
-    {
-      "title": "Opfer mischte Beton, wurde dann getötet : Kronzeuge Ramadan I. ist nirgendwo mehr sicher",
-      "teaser": "Kronzeuge Ramadan I. (43) schwebt in ständiger Lebensgefahr.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/rocker-prozess-verraet-kronzeuge-ramadan-i-seine-brueder-fuer-die-eigene-freihei-81048740.bild.html",
-      "image_title": "Rocker-Prozess in Duisburg: Verrät der Kronzeuge seine Brüder für die Freiheit?"
-    },
-    {
-      "title": "Mega-Konzert von Helene Fischer : Fans warten stundenlang im Regen",
-      "url": "https://www.bild.de/video/clip/video/mega-konzert-von-helene-fischer-fans-warten-stundenlang-im-regen-81064968,auto=true.bild.html",
-      "image_title": "Mega-Konzert von Helene Fischer : Fans warten stundenlang im Regen"
-    },
-    {
-      "title": "Doppelgänger - Mord : Vermeintliches Opfer wird zur Täterin",
-      "url": "https://www.bild.de/video/clip/video/doppelgaenger-mord-vermeintliches-opfer-wird-zur-taeterin-81062080,auto=true.bild.html",
-      "image_title": "Doppelgänger - Mord: Vermeintliches Opfer wird zur Täterin"
-    },
-    {
-      "title": "Bilder wie bei George Floyd : Security-Kontrolle in München eskaliert",
-      "url": "https://www.bild.de/video/clip/video/bilder-wie-bei-george-floyd-security-kontrolle-in-muenchen-eskaliert-81050792,auto=true.bild.html",
-      "image_title": "Bilder wie bei George Floyd: Security-Kontrolle in München eskaliert"
-    }
-  ]
+  "articles": []
 }
