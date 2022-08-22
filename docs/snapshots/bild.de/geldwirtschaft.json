@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-22T16:29:48",
+  "timestamp": "2022-08-22T17:22:37",
   "url": "https://www.bild.de/geld/startseite/geld/geld-15683376.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,255 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.1-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,73846946.1.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.18ba8297.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7bca1646.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.6146dd0c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cb11a3bd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.6e0d4353.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7bfc685f.js",
+      "src": "https://widgets.finanzcheck.de/static/js/LoanSealForm.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Deutsche Börse : Dax kracht richtig runter",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/deutsche-boerse-dax-tendiert-hoeher-81084078.bild.html",
-      "image_url": "https://images.bild.de/6303a5de9f3e3b0a2bb07f19/96fda8f5819d63e856aea4728d6088b0,a832757f?w=656",
-      "image_title": "Deutsche Börse: Dax tendiert höher"
-    },
-    {
-      "title": "Kasper Rorsted (60) : Adidas-Boss muss gehen",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/adidas-boss-kasper-rorsted-verlaesst-sport-giganten-im-jahr-2023-81080974.bild.html",
-      "image_url": "https://images.bild.de/6303703007ce7d0e07dbf050/d48f0218bc0d547941f82f5a0d15b53f,be102b4?w=320",
-      "image_title": "Adidas: Boss Kasper Rorsted verlässt Sport-Giganten im Jahr 2023"
-    },
-    {
-      "title": "800 Euro Zuschuss Chaos beim Wärme-Scheck in Dänemark",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/heizkosten-zuschuss-chaos-beim-waerme-scheck-in-daenemark-81079058.bild.html"
-    },
-    {
-      "title": "Telekom-Chef schlägt Alarm „Made in Germany bröckelt überall“",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/telekom-chef-schlaegt-alarm-made-in-germany-broeckelt-ueberall-81077348.bild.html"
-    },
-    {
-      "title": "Mega-Schadensersatz Todes-Crash! Ford muss 1,6 Milliarden Euro zahlen",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/todes-crash-ford-muss-1-6-milliarden-euro-zahlen-81076702.bild.html"
-    },
-    {
-      "title": "Musk will ihn wieder „zwitschern“ lassen : Trump-Comeback bei Twitter?",
-      "url": "https://www.bild.de/video/clip/video/musk-will-ihn-wieder-zwitschern-lassen-trump-comeback-bei-twitter-80046052,auto=true.bild.html",
-      "image_title": "Musk will ihn wieder „zwitschern“ lassen: Trump-Comeback bei Twitter?"
-    },
-    {
-      "title": "Finanzminister Olaf Scholz bei BILD LIVE : „Moralische Verpflichtung, Preise zu senken“",
-      "url": "https://www.bild.de/video/clip/politik-inland/finanzminister-olaf-scholz-bei-bild-live-moralische-verpflichtung-preise-zu-senk-71613620-71615334,auto=true.bild.html",
-      "image_title": "Finanzminister Olaf Scholz bei BILD LIVE: „Moralische Verpflichtung, Preise zu senken“"
-    },
-    {
-      "title": "Extreme Inflation in Venezuela : Das Geld liegt auf der Straße",
-      "url": "https://www.bild.de/video/clip/video/extreme-inflation-in-venezuela-das-geld-liegt-auf-der-strasse-78957952,auto=true.bild.html",
-      "image_title": "Extreme Inflation in Venezuela: Das Geld liegt auf der Straße"
-    },
-    {
-      "title": "Was steckt hinter dem Mega-Hype? : Mit diesem Video versteht jeder den Bitcoin-Boom",
-      "url": "https://www.bild.de/video/clip/wirtschaft/was-steckt-hinter-dem-mega-hype-mit-diesem-video-versteht-jeder-den-bitcoin-boom-76199578,auto=true.bild.html",
-      "image_title": "Blockchain: Mit diesem Video versteht jeder den Bitcoin-Boom"
-    },
-    {
-      "title": "Reise-Chaos : Mein Koffer ist weg! Wie bekomme ich ihn schnell wieder?",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/mein-geld/reise-chaos-was-muss-ich-tun-wenn-mein-koffer-verloren-geht-81065800.bild.html",
-      "image_title": "Reise-Chaos: Was muss ich tun, wenn mein Koffer verloren geht?"
-    },
-    {
-      "title": "Hat Ihr Nachbar etwa eine? : DAS sparen Nutzer einer Ölheizung",
-      "teaser": "Die Ölheizung gilt längst als Auslaufmodell. Doch nun erweist sie sich als Kostenvorteil.",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/mein-geld/hat-ihr-nachbar-etwa-eine-das-sparen-nutzer-einer-oelheizung-81038642.bild.html",
-      "image_title": "Hat Ihr Nachbar etwa eine?: DAS sparen Nutzer einer Ölheizung"
-    },
-    {
-      "title": "Erhöhung durch die Hintertür : Gas-Umlage deutlich teurer!",
-      "teaser": "Gerade haben Millionen Kunden die neue Gas-Umlage verdaut, da kommen schon neue Abgaben.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/sparfochs/erhoehung-durch-die-hintertuer-gas-umlage-deutlich-teurer-81055504.bild.html",
-      "image_title": "Erhöhung durch die Hintertür: Gas-Umlage deutlich teurer!"
-    },
-    {
-      "title": "Polit-Talk „Die richtigen Fragen“ : Heizen unbezahlbar – schafft sich Deutschland ab?",
-      "teaser": "Polit-Talk Sonntag ab 22.45 Uhr bei BILD TV. Zu Gast bei Kai Weise: u.a. Thilo Sarrazin.",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/polit-talk-die-richtigen-fragen-heizen-verboten-schafft-sich-deutschland-ab-81069730.bild.html",
-      "image_title": "Polit-Talk „Die richtigen Fragen“: Heizen unbezahlbar – schafft sich Deutschland ab?"
-    },
-    {
-      "title": "Bei mehr als jedem Zweiten wird’s eng : Die finstere Geld-Prognose des Sparkassen-Chefs",
-      "teaser": "Mehr als jeder zweiter Deutsche kommt zunehmend an finanzielle Grenzen, so der Banken-Präsident.",
-      "url": "https://www.bild.de/geld/mein-geld/mein-geld/mega-inflation-die-finstere-geld-prognose-des-sparkassen-chefs-81067762.bild.html",
-      "image_title": "Inflation: Die finstere Geld-Prognose des Sparkassen-Chefs"
-    },
-    {
-      "title": "Aktien und ETFs : Öko-Investments, die Ihre Rendite aufblühen lassen",
-      "teaser": "Nachhaltige Investments machen viele Unternehmen reich – Sie können daran teilhaben.",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/leben-und-sparen/sauber-investieren-mit-diesen-nachhaltigen-aktien-und-etfs-sahnen-sie-richtig-ab-80464554.bild.html",
-      "image_title": "Sauber investieren: Mit diesen nachhaltigen Aktien und ETFs sahnen Sie richtig ab"
-    },
-    {
-      "title": "Um später krass abzusahnen : Börsen-Millionär: Diese Top-Aktien kaufe ich JETZT",
-      "teaser": "Tim Schäfers Millionen-Depot schmilzt – trotzdem freut er sich über die fallenden Kurse.",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/leben-und-sparen/nach-aktien-absturz-verraet-boersen-millionaer-diese-aktien-kaufe-ich-jetzt-80207256.bild.html",
-      "image_title": "Nach Korrektur: Börsen-Millionär: Diese Aktien kaufe ich jetzt"
-    },
-    {
-      "title": "TESLA RUTSCHT AB! : Drei Aktien-Alternativen im E-Auto-Business",
-      "teaser": "Tesla schmiert ab. Kein Problem. Die BILD-Finanz-Diva hat drei Top-Alternativen für Sie.",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/leben-und-sparen/finanz-diva-drei-top-aktien-gegen-die-tesla-misere-80168902.bild.html",
-      "image_title": "Finanz-Diva: Drei Top-Aktien gegen die Tesla-Misere"
-    },
-    {
-      "title": "Trotz Inflation! : So sparen Sie für Ihre Kinder",
-      "teaser": "Wichtig, dass wir unseren Kindern möglichst FRÜH einen umsichtigen Umgang mit Geld beibringen.",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/wirtschaft/trotz-inflation-so-sparen-sie-am-besten-fuer-ihre-kinder-80164204.bild.html",
-      "image_title": "Trotz Inflation! So sparen Sie am besten für Ihre Kinder"
-    },
-    {
-      "title": "Trotz Mehrwertsteuersenkung wird’s teuer : DAS zahlen Sie wirklich mehr fürs Gas!",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/trotz-mehrwertsteuer-senkung-die-teuer-tabelle-das-zahlen-sie-bald-mehr-fuers-ga-81061098.bild.html",
-      "image_title": "Trotz Mehrwertsteuer-Senkung: Die Teuer-Tabelle – DAS zahlen Sie bald mehr fürs Gas!"
-    },
-    {
-      "title": "Kommt jetzt das Immobilien-Beben? : DIESE drei Szenarien sollten Eigentümer kennen",
-      "teaser": "Soll ich jetzt noch ins Eigenheim oder ist es längst zu spät?",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/kommt-jetzt-das-immobilien-beben-diese-drei-szenarien-sollten-eigentuemer-und-ka-80300616.bild.html",
-      "image_title": "Kommt jetzt das Immobilien-Beben? Drei Szenarien sollten Eigentümer kennen"
-    },
-    {
-      "title": "Um Energie zu sparen : Diese Verbote plant Habeck ab September",
-      "teaser": "Habeck will Einzelhändlern verbieten, ihre Türen offenzuhalten. Was er außerdem plant.",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/um-energie-zu-sparen-habeck-will-offene-ladentueren-verbieten-81050070.bild.html",
-      "image_title": "Um Energie zu sparen: Diese Verbote plant Habeck ab September"
-    },
-    {
-      "title": "Habecks neue Gas-Umlage : Bis zu 1152 Euro mehr!",
-      "teaser": "Ab Oktober kommt der nächste Kostenschock: Für Millionen Bürger wird dann die Gasumlage fällig.",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/habecks-neue-gas-umlage-bis-zu-1152-euro-mehr-81017074.bild.html",
-      "image_title": "Habecks neue Gas-Umlage: Bis zu 1152 Euro mehr!"
-    },
-    {
-      "title": "Die besten Wertanlagen gegen die Krise! : So würde ich JETZT 5000 Euro investieren",
-      "teaser": "Inflation. Energie-Preisexplosion. Lohn-Stagnation: Während EU-Gehälter automatisch mit...",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/finanz-diva-nennt-die-besten-wertanlagen-so-wuerde-ich-jetzt-5000-euro-investier-81005554.bild.html",
-      "image_title": "Finanz-Diva nennt die besten Wertanlagen: So würde ich JETZT 5000 Euro investieren"
-    },
-    {
-      "title": "Strom- und Gas-Börsen drehen durch : So teuer wird die Energie bald für Sie",
-      "teaser": "Die Preise knallen durch die Decke – und jetzt kommt auch noch die neue Umlage obendrauf!",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/preis-schock-bei-strom-und-gas-so-teuer-wird-die-energie-bald-fuer-sie-80988038.bild.html",
-      "image_title": "Preis-Schock bei Strom und Gas: So teuer wird die Energie bald für Sie"
-    },
-    {
-      "title": "Wende an den Finanzmärkten : Wie sichere ich mir jetzt niedrige Zinsen für später?",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/mein-geld-kolumne-wie-sichere-ich-mir-niedrige-zinsen-79858810.bild.html",
-      "image_title": "„Mein Geld“-Kolumne: Wie sichere ich mir niedrige Zinsen?"
-    },
-    {
-      "title": "Angebotsliste auf einen Blick : Das kostet heute ein Einfamilienhaus in Deutschland",
-      "teaser": "Am teuersten sind die Häuser im bayerischen Miesbach, am günstigsten im Kyffhäuserkreis.",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/wirtschaft/auf-einen-blick-das-kostet-heute-ein-einfamilienhaus-in-deutschland-77583838.bild.html",
-      "image_title": "Angebotsliste auf einen Blick: Das kostet heute ein Einfamilienhaus in Deutschland"
-    },
-    {
-      "title": "Reicht das „Eigenkapital“? : 7 Fehler, die Sie beim Haus-Kauf vermeiden müssen!",
-      "teaser": "Was sind die größten Fehler beim Immobilienkauf? Und wann gehen die Haus-Preise wieder runter? Das lesen Sie in der Mein-Geld-Kolumne.",
-      "url": "https://www.bild.de/bild-plus/politik/2021/politik/hauskauf-ratgeber-das-sind-die-groessten-fehler-beim-immobilienkauf-75033944.bild.html",
-      "image_title": "Reicht das „Eigenkapital“?: 7 Fehler, die Sie beim Haus-Kauf vermeiden müssen!"
-    },
-    {
-      "title": "Trotz Niedrigzinsen : Banken plötzlich strenger bei Immobilien-Krediten!",
-      "teaser": "Hilfreiche Tipps zur Immo-Finanzierung: Erfahren Sie, was sich durch Corona verändert hat – und wie Sie darauf reagieren sollten!",
-      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/corona-und-immobilien-finanzierung-kredit-zu-kriegen-ist-schwerer-geworden-71942926.bild.html",
-      "image_title": "Trotz Niedrigzinsen: Banken plötzlich strenger bei Immobilien-Krediten!"
-    },
-    {
-      "title": "Kehrtwende auf Immo-Markt : Wer eine Wohnung sucht, hat jetzt gute Chancen",
-      "teaser": "Auf der Suche nach einer Immobilie sind starke Nerven wichtig. Hier könnte die Corona-Krise ausnahmsweise positive Auswirkungen haben.",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/coronavirus-und-immobilien-die-krise-erhoeht-chancen-auf-wunschobjekt-70525902.bild.html",
-      "image_title": "Krasse Corona-Kehrtwende auf dem Immo-Markt: Wer eine Wohnung sucht, hat jetzt plötzlich gute Chancen"
-    },
-    {
-      "title": "Wenn jetzt die Kohle knapp wird : Schnell kündigen! Versicherungen, die nur Ihr Geld fressen",
-      "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/sparfochs/fix-kuendigen-diese-versicherungen-koennen-sie-sich-sparen-80816596.bild.html",
-      "image_title": "Fix kündigen! Diese Versicherungen können Sie sich sparen"
-    },
-    {
-      "title": "Mein Geld : Lebensversicherung: Wo ist das Problem?",
-      "teaser": "Die Inflation lässt die Rendite dieser wichtigen Säule der Altersvorsorge abschmelzen.",
-      "url": "https://www.bild.de/geld/mein-geld/wirtschaft/mein-geld-lebensversicherung-wo-ist-das-problem-80792450.bild.html",
-      "image_title": "Mein Geld: Lebensversicherung: Wo ist das Problem?"
-    },
-    {
-      "title": "Edel-Restaurant an der Elbe : Tim hat Mut zur Flut",
-      "teaser": "Der Mann hat Mut, und das ist gut. Er trotzt der Flut.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/gastronom-steckt-hunderttausende-in-edel-restaurant-an-der-elbe-das-immer-uebers-80756744.bild.html",
-      "image_title": "Gastronom steckt Hunderttausende in Edel-Restaurant an der Elbe, das immer überschwemmt wird: Tim hat Mut zur Flut"
-    },
-    {
-      "title": "Nach Lagerhallenbrand in Dreieich : Wir sollen Boden von abgebrannter Wohnung zahlen",
-      "teaser": "Sie sollen für einen Schaden ihrer Miet-Wohnung aufkommen, den es nicht mehr gibt.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/nach-lagerhallenbrand-in-dreieich-wir-sollen-den-boden-von-abgebrannter-wohnung-80680184.bild.html",
-      "image_title": "Nach Lagerhallenbrand in Dreieich: Wir sollen den Boden von abgebrannter Wohnung zahlen"
-    },
-    {
-      "title": "Horror-Einbruch bei Verona : „Ich kämpfe täglich um die noch offene Summe“",
-      "teaser": "Der Einbruch bei Verona Pooth wurde ad acta gelegt, Verona ermittelt weiter.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/einbruch-bei-verona-pooth-ich-kaempfe-taeglich-um-die-noch-offene-summe-80637732.bild.html",
-      "image_title": "Einbruch bei Verona Pooth: „Ich kämpfe täglich um die noch offene Summe“"
-    },
-    {
-      "title": "Leukämie bleibt Hürde : „Mein Krebs soll endlich gelöscht werden“",
-      "teaser": "Miriam hatte Leukämie, ist heute gesund. Doch Versicherungen vergessen den Krebs nicht.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/huerden-nach-krebs-miriams-leukaemie-soll-in-vergessenheit-geraten-80002382.bild.html",
-      "image_title": "Hürden nach Krebs: Miriams Leukämie soll in Vergessenheit geraten"
-    }
-  ]
+  "articles": []
 }
