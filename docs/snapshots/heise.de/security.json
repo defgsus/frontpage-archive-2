@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-23T11:18:41",
+  "timestamp": "2022-08-23T12:42:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3327bb85e37dcec345ed",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.659b3274bb3d7d4a8744",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "PAN-OS, SAP & weitere",
+      "url": "https://www.heise.de/news/Cyber-Attacken-CISA-warnt-vor-Angriffen-auf-junge-Sicherheitsluecken-7240372.html"
+    },
     {
       "title": "ChromeOS",
       "url": "https://www.heise.de/news/Microsoft-Sicherheitsforscher-entdecken-kritische-Luecke-in-ChromeOS-7240286.html"
@@ -44,13 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-PCs-mit-IBM-Software-attackieren-7236808.html"
     },
     {
-      "title": "McAfee Security Scan Plus",
-      "url": "https://www.heise.de/news/Virenscanner-Schwachstelle-von-McAfee-erleichtert-Angreifern-das-Einnisten-7235809.html"
-    },
-    {
-      "title": "Microsoft-Sicherheitsforscher entdecken kritische Lücke - in ChromeOS",
-      "teaser": "Google Betriebssystem ChromeOS ist verwundbar. Das mögliche Schlupfloch für Schadcode entdeckte aber die Konkurrenz.",
-      "url": "https://www.heise.de/news/Microsoft-Sicherheitsforscher-entdecken-kritische-Luecke-in-ChromeOS-7240286.html"
+      "title": "Cyber-Attacken: CISA warnt vor Angriffen auf neu entdeckte Sicherheitslücken",
+      "teaser": "Die US-Cybersicherheitsbehörde CISA warnt vor einigen erst seit Kurzem bekannten Sicherheitslücken. Cyberkriminelle greifen diese bereits aktiv an.",
+      "url": "https://www.heise.de/news/Cyber-Attacken-CISA-warnt-vor-Angriffen-auf-junge-Sicherheitsluecken-7240372.html",
+      "image_title": "Aufmacher CISA warnt vor mehreren angegriffenen Lücken"
     },
     {
       "title": "Die Webinar-Serie von Heise: Ethical Hacking für Admins",
@@ -63,10 +64,15 @@
       "url": "https://www.heise.de/news/Nach-dem-Entrust-Hack-kaempfen-nun-die-Taeter-von-Lockbit-gegen-DDoS-Attacken-7240141.html"
     },
     {
-      "title": "Einbruchsgefahr: Über 80.000 Hikvision-Kameras verwundbar",
-      "teaser": "Hikvision hat zwar Updates für die Kameras veröffentlicht, mehr als 2300 Firmen ignorieren diese jedoch. Angreifer könnten dadurch in deren Netze einbrechen.",
-      "url": "https://www.heise.de/news/Einbruchsgefahr-Ueber-80-000-Hikvision-Kameras-verwundbar-7239986.html",
-      "image_title": "Aufmacher 80.000 Hikvision-Kameras ungepatcht"
+      "title": "Windows Update: Nebenwirkung BitLocker-Wiederherstellung",
+      "teaser": "Die August-Updates haben einige Nebenwirkungen: Unter Windows 11 könnte der Rechner mit BitLocker-Wiederherstellung starten. Windows 10 kann Tonprobleme haben.",
+      "url": "https://www.heise.de/news/Windows-Update-Nebenwirkung-BitLocker-Wiederherstellung-7239504.html",
+      "image_title": "Aufmacher Windows Update mit Nebenwirkungen"
+    },
+    {
+      "title": "MS-Office: So funktioniert der neue Office-Makroschutz",
+      "teaser": "Eines der Haupteinfallstore für Ransomware sind Makros in Office-Dateien. Microsoft bessert da jetzt beim Schutz nach und auch bei 7-zip hat sich was getan.",
+      "url": "https://www.heise.de/hintergrund/MS-Office-So-funktioniert-der-neue-Office-Makroschutz-7164134.html"
     },
     {
       "title": "Internet Security Days 2022 mit praxisnahen Workshops und Netzwerkoptionen",
@@ -151,11 +157,6 @@
       "teaser": "Sicherheitsforscher aus Vietnam haben im WLAN-Router TL-WR841N von TP-Link einen kritischen Fehler festgestellt, der Code-Ausführung auf dem Gerät ermöglicht.",
       "url": "https://www.heise.de/news/Remote-Code-Exploit-in-TP-Link-Routern-7224392.html",
       "image_title": "Aufmacher RCE-Lücke in TP-Link TL-WR841N"
-    },
-    {
-      "title": "Resonanzfrequenz: Song von Janet Jackson crashte reproduzierbar Laptops",
-      "teaser": "Schon vor Jahren hat ein Notebook-Hersteller bemerkt, dass der Song \"Rhythm Nation\" Laptops crashte. Selbst solche, auf denen er gar nicht abgespielt wurde.",
-      "url": "https://www.heise.de/news/Resonanzfrequenz-Song-von-Janet-Jackson-crashte-reproduzierbar-Laptops-7224035.html"
     },
     {
       "title": "heise Security Tour 2022",
