@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-23T08:27:21",
+  "timestamp": "2022-08-23T09:21:36",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,14 +32,20 @@
   ],
   "articles": [
     {
-      "title": "Microsoft Office: So funktioniert der neue Office-Makroschutz",
-      "teaser": "Eines der Haupteinfallstore für Ransomware sind Makros in Office-Dateien. Microsoft bessert da jetzt beim Schutz nach und auch bei 7-zip hat sich was getan.",
-      "url": "https://www.heise.de/hintergrund/MS-Office-So-funktioniert-der-neue-Office-Makroschutz-7164134.html"
+      "title": "Content-Scanner und KinderschutzWer kontrolliert Google?",
+      "teaser": "Kritik an Googles Kinderschutz gibt es bereits. Nun taucht ein Fallbeispiel auf, bei dem die Technik scheitert – aber auch die Eltern, meint Eva-Maria Weiß.",
+      "url": "https://www.heise.de/meinung/Content-Scanner-und-Kinderschutz-Wer-kontrolliert-Google-7239350.html",
+      "image_title": "Google Drive auf einem Smartphone, links daneben ein Laptop und ein Stift"
     },
     {
       "title": "IT Gehälter 2022Das verdienen SAP-Berater in Deutschland",
       "teaser": "Als SAP-Berater muss man sich mit wirtschaftlichen Prozessen, IT und natürlich den Produkten von SAP auseinandersetzen. Dafür winkt ein hohes Gehalt.",
       "url": "https://www.heise.de/ratgeber/Gehaelter-2022-Das-verdienen-SAP-Berater-in-Deutschland-7224294.html"
+    },
+    {
+      "title": "UpdateInternet-Kernprotokoll TCPDas Transmission Control Protocol erhält Update",
+      "teaser": "TCP ist der Motor des Internet. Mit einem gerade aktualisierten RFC bekommt er eine Generalüberholung. Aber kann er sich gegen neue Konkurrenz behaupten?",
+      "url": "https://www.heise.de/news/Internet-Kernprotokoll-Das-Transmission-Control-Protocol-erhaelt-Update-7239713.html"
     },
     {
       "title": "E-LuftfahrtWarum Elektroflugzeuge einfach nicht abheben wollen",
@@ -48,15 +54,9 @@
       "image_title": "Ein Techniker inspiziert eine Flugzeugturbine"
     },
     {
-      "title": "Telecom-BetreiberVodafone Ungarn wird verkauft und (teil)verstaatlicht",
-      "teaser": "Neue Steuern machen Ungarn weniger attraktiv für Telecom-Betreiber. Vodafone zieht sich zurück, Ungarns Staatschef Orbán freut sich.",
-      "url": "https://www.heise.de/news/Vodafone-Ungarn-wird-verkauft-und-teil-verstaatlicht-7239887.html",
-      "image_title": "Rechts ein Mobilfunk-Sendemast mit mehreren Antennen, links schwebt die ungarische Flagge"
-    },
-    {
-      "title": "Sony PlayStationMilliarden-Sammelklage in Großbritannien",
-      "teaser": "Das Unternehmen soll Millionen von Kunden zu viel berechnet haben. Kartellklagen gegen große Konzerne liegen im Trend.",
-      "url": "https://www.heise.de/news/Sony-PlayStation-Milliarden-Sammelklage-in-Grossbritannien-7239855.html"
+      "title": "Microsoft OfficeSo funktioniert der neue Office-Makroschutz",
+      "teaser": "Eines der Haupteinfallstore für Ransomware sind Makros in Office-Dateien. Microsoft bessert da jetzt beim Schutz nach und auch bei 7-zip hat sich was getan.",
+      "url": "https://www.heise.de/hintergrund/MS-Office-So-funktioniert-der-neue-Office-Makroschutz-7164134.html"
     },
     {
       "title": "Von 200 bis 2000 EuroKaufberatung: NAS-Systeme für die eigene Cloud im Test",
@@ -88,15 +88,15 @@
       "image_title": "Modern,High,Frequency,Radio,Amateur,Transceiver,Closeup"
     },
     {
+      "title": "Weltraumteleskop James WebbFaszinierende Infrarotaufnahmen des Jupiter",
+      "teaser": "Zwei neue Aufnahmen zeigen den größten Planeten des Sonnensystems so, wie unsere Augen ihn nie sehen könnten. Verarbeitet hat die Bilder eine Citizen Scientist.",
+      "url": "https://www.heise.de/news/Weltraumteleskop-James-Webb-Faszinierende-Infrarotaufnahmen-des-Jupiter-7240033.html"
+    },
+    {
       "title": "AlertUpdates veröffentlichtEinbruchsgefahr: Über 80.000 Hikvision-Kameras verwundbar",
       "teaser": "Hikvision hat zwar Updates für die Kameras veröffentlicht, mehr als 2300 Firmen ignorieren diese jedoch. Angreifer könnten dadurch in deren Netze einbrechen.",
       "url": "https://www.heise.de/news/Einbruchsgefahr-Ueber-80-000-Hikvision-Kameras-verwundbar-7239986.html",
       "image_title": "Aufmacher 80.000 Hikvision-Kameras ungepatcht"
-    },
-    {
-      "title": "MissbrauchsverdachtIntime Fotos vom Kind für den Arzt – Google-Dienste gesperrt",
-      "teaser": "In den USA haben Eltern Zugang zu allen Google-Diensten verloren, weil sie Fotos vom Genitalbereich ihrer Kinder für eine Vorabdiagnose an Ärzte gesendet haben.",
-      "url": "https://www.heise.de/news/Nacktscanner-Unbedachte-Fotos-vom-Kind-fuer-den-Arzt-Google-Dienste-gesperrt-7238900.html"
     },
     {
       "title": "Gebrauchte HardwareSo wählen Sie das richtige Notebook aus",
@@ -148,8 +148,23 @@
       "image_title": ", Thorsten Hübner"
     },
     {
+      "title": "Die Webinar-Serie von Heise: Ethical Hacking für Admins",
+      "teaser": "In fünf Online-Trainings, vom 1. bis zum 29. September, können sich Interessierte zum Penetration Tester ausbilden lassen.",
+      "url": "https://www.heise.de/news/Die-Webinar-Serie-von-Heise-Ethical-Hacking-fuer-Admins-7220270.html"
+    },
+    {
+      "title": "Nach dem Entrust-Hack kämpfen nun die Täter von Lockbit gegen DDoS-Attacken",
+      "teaser": "Der Angreifer wird zum Gejagten: Nachdem die Lockbit-Gruppe interne Daten der Security-Firma kopiert und geleakt hat, erliegen ihre Server DDoS-Attacken.",
+      "url": "https://www.heise.de/news/Nach-dem-Entrust-Hack-kaempfen-nun-die-Taeter-von-Lockbit-gegen-DDoS-Attacken-7240141.html"
+    },
+    {
+      "title": "Grünen-Fraktionsvize fordert Moratorium für Einsatz von Staatstrojanern",
+      "teaser": "Konstantin von Notz, Vorsitzender des Geheimdienst-Kontrollgremiums, drängt auf eine Pause bei der Anwendung von Überwachungssoftware etwa zur Quellen-TKÜ.",
+      "url": "https://www.heise.de/news/Gruenen-Fraktionsvize-fordert-Moratorium-fuer-Einsatz-von-Staatstrojanern-7240177.html"
+    },
+    {
       "title": "Content-Scanner und Kinderschutz: Wer kontrolliert Google?",
-      "teaser": "Kritik an Googles Durchsuchungs-Kinderschutz gibt es bereits. Nun taucht ein Fallbeispiel auf, bei dem die Technik scheitert – aber auch die Eltern.",
+      "teaser": "Kritik an Googles Kinderschutz gibt es bereits. Nun taucht ein Fallbeispiel auf, bei dem die Technik scheitert – aber auch die Eltern, meint Eva-Maria Weiß.",
       "url": "https://www.heise.de/meinung/Content-Scanner-und-Kinderschutz-Wer-kontrolliert-Google-7239350.html",
       "image_title": "Google Drive auf einem Smartphone, links daneben ein Laptop und ein Stift"
     },
@@ -176,23 +191,6 @@
       "image_title": "Gaming-Community"
     },
     {
-      "title": "AlertEinbruchsgefahr: Über 80.000 Hikvision-Kameras verwundbar",
-      "teaser": "Hikvision hat zwar Updates für die Kameras veröffentlicht, mehr als 2300 Firmen ignorieren diese jedoch. Angreifer könnten dadurch in deren Netze einbrechen.",
-      "url": "https://www.heise.de/news/Einbruchsgefahr-Ueber-80-000-Hikvision-Kameras-verwundbar-7239986.html",
-      "image_title": "Aufmacher 80.000 Hikvision-Kameras ungepatcht"
-    },
-    {
-      "title": "Gebrauchte Hardware: So wählen Sie das richtige Notebook aus",
-      "teaser": "Wiederaufbereitete Notebooks gibt es für 150 Euro ebenso wie für 1500 Euro. In vielen Schnäppchen steckt alte Hardware. Wir erklären, worauf Sie achten müssen.",
-      "url": "https://www.heise.de/ratgeber/Gebrauchte-Hardware-So-waehlen-Sie-das-richtige-Notebook-aus-7220138.html",
-      "image_title": ", Thorsten Hübner"
-    },
-    {
-      "title": "Weiteres Reserve-Steinkohlekraftwerk soll wieder an den Markt – mit Befristung",
-      "teaser": "Das Steinkohlekraftwerk von Uniper soll zunächst bis zum 30. April 2023 die Stromerzeugung unterstützen, das aber mit einigen Einschränkungen.",
-      "url": "https://www.heise.de/news/Weiteres-Reserve-Steinkohlekraftwerk-soll-wieder-an-den-Markt-mit-Befristung-7239971.html"
-    },
-    {
       "title": "CybercrimeErwartete Angriffswelle auf Zwei-Faktor-Authentifizierung & wie man sich schützt",
       "url": "https://www.heise.de/hintergrund/Erwartete-Angriffswelle-auf-2FA-Authentifizierung-und-wie-man-sich-schuetzt-7221201.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
     },
@@ -208,6 +206,23 @@
       "title": "heise+ Jahresabo:",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "AlertEinbruchsgefahr: Über 80.000 Hikvision-Kameras verwundbar",
+      "teaser": "Hikvision hat zwar Updates für die Kameras veröffentlicht, mehr als 2300 Firmen ignorieren diese jedoch. Angreifer könnten dadurch in deren Netze einbrechen.",
+      "url": "https://www.heise.de/news/Einbruchsgefahr-Ueber-80-000-Hikvision-Kameras-verwundbar-7239986.html",
+      "image_title": "Aufmacher 80.000 Hikvision-Kameras ungepatcht"
+    },
+    {
+      "title": "Gebrauchte Hardware: So wählen Sie das richtige Notebook aus",
+      "teaser": "Wiederaufbereitete Notebooks gibt es für 150 Euro ebenso wie für 1500 Euro. In vielen Schnäppchen steckt alte Hardware. Wir erklären, worauf Sie achten müssen.",
+      "url": "https://www.heise.de/ratgeber/Gebrauchte-Hardware-So-waehlen-Sie-das-richtige-Notebook-aus-7220138.html",
+      "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "Weiteres Reserve-Steinkohlekraftwerk soll wieder an den Markt – mit Befristung",
+      "teaser": "Das Steinkohlekraftwerk von Uniper soll zunächst bis zum 30. April 2023 die Stromerzeugung unterstützen, das aber mit einigen Einschränkungen.",
+      "url": "https://www.heise.de/news/Weiteres-Reserve-Steinkohlekraftwerk-soll-wieder-an-den-Markt-mit-Befristung-7239971.html"
     },
     {
       "title": "Studie: Deutscher Automarkt bleibt unter Vorkrisen-Niveau",
@@ -262,6 +277,11 @@
       "url": "https://www.heise.de/news/Wachstum-bei-Zoom-verlangsamt-sich-weiter-7239913.html"
     },
     {
+      "title": "Multi-Faktor-Authentifizierung für mobile und hybride Arbeitsplätze",
+      "teaser": "Mobiles Arbeiten gehört mittlerweile zu einem modernen Unternehmen. Der Einsatz einer soliden Multi-Faktor-Authentifizierung gewährleistet, dass Mitarbeiter flexibel auch remote arbeiten können, ohne dass Unternehmen unnötige Risiken eingehen. Wie dies einfach und dennoch sicher umsetzbar ist, erläutert dieser Webcast am 15. September.",
+      "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/multi-faktor-authentifizierung-fuer-mobile-arbeitsplaetze-und-hybride-einsatzszenarien-4384/?source=HBSadersatz"
+    },
+    {
       "title": "Smartwatches, Sportuhren und Co.: Wie genau Schlaftracker messen",
       "teaser": "Ein Drittel unseres Lebens verbringen wir schlafend. Manche versuchen bei schlechtem Schlaf ihre Nachtruhe von Wearables auswerten zu lassen.",
       "url": "https://www.heise.de/hintergrund/Smartwatches-Sportuhren-und-Co-Wie-genau-Schlaftracker-messen-7204780.html",
@@ -280,11 +300,6 @@
       "image_title": "Ein Arbeiter schließt Glasfasern an"
     },
     {
-      "title": "Mehr IT-Sicherheit mit einem autonomen SOC",
-      "teaser": "Viele Firmen können die großen Datenmengen im Cybersecurity-Umfeld nicht mehr effizient für die Verteidigungsstrategie nutzen – viele Sicherheitsalarme bleiben deshalb ohne Konsequenz. Besser könnte es mit einem ausgelagerten Security Operations Center (SOC) laufen, wie ein Webcast am 20. September zeigen wird.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/autonomes-security-operations-center-modern-agil-und-wirkungsvoll-4381/?source=hbsad-ersatz"
-    },
-    {
       "title": "Vodafone Ungarn wird verkauft und (teil)verstaatlicht",
       "teaser": "Neue Steuern machen Ungarn weniger attraktiv für Telecom-Betreiber. Vodafone zieht sich zurück, Ungarns Staatschef Orbán freut sich.",
       "url": "https://www.heise.de/news/Vodafone-Ungarn-wird-verkauft-und-teil-verstaatlicht-7239887.html",
@@ -299,21 +314,6 @@
       "title": "Sony PlayStation: Milliarden-Sammelklage in Großbritannien",
       "teaser": "Das Unternehmen soll Millionen von Kunden zu viel berechnet haben. Kartellklagen gegen große Konzerne liegen im Trend.",
       "url": "https://www.heise.de/news/Sony-PlayStation-Milliarden-Sammelklage-in-Grossbritannien-7239855.html"
-    },
-    {
-      "title": "Techstage Top 10: Die besten Handys bis 100 Euro – Wiko, ZTE und Motorola vor Xiaomi",
-      "teaser": "Billig soll es sein und dennoch möglichst viel können? TechStage erklärt, was Smartphones bis 100 Euro bieten – und was nicht.",
-      "url": "https://www.techstage.de/bestenliste/top-10-das-sind-die-besten-smartphones-2022-bis-100-euro/rrsd2sz?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "UpdateInternet-Kernprotokoll: Das Transmission Control Protocol erhält Update",
-      "teaser": "TCP ist der Motor des Internet. Mit einem gerade aktualisierten RFC bekommt er eine Generalüberholung. Aber kann er sich gegen neue Konkurrenz behaupten?",
-      "url": "https://www.heise.de/news/Internet-Kernprotokoll-Das-Transmission-Control-Protocol-erhaelt-Update-7239713.html"
-    },
-    {
-      "title": "Raw-Entwickler: Videobearbeitung mit Adobe Lightroom Classic im Test",
-      "teaser": "Im Fotoabo schnürt Adobe ein Paket aus Lightroom und Photoshop für umfassende Bildbearbeitung. Lightroom Classic soll neben Fotos auch Videos entwickeln können.",
-      "url": "https://www.heise.de/tests/Raw-Entwickler-Videobearbeitung-mit-Adobe-Lightroom-Classic-im-Test-7222750.html"
     },
     {
       "title": "Rekord-Angriff mit DDoS auf Layer 7 scheitert an Google",
