@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-26T08:28:10",
+  "timestamp": "2022-08-26T09:21:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco FXOS & NX-OS",
+      "url": "https://www.heise.de/news/Luecken-in-Ciscos-FXOS-und-NX-OS-ermoeglichen-Uebernahme-der-Kontrolle-7244032.html"
+    },
+    {
       "title": "Firefox ESR, Thunderbird",
       "url": "https://www.heise.de/news/Firefox-ESR-Thunderbird-Angreifer-koennten-Nutzereingaben-abfangen-7242897.html"
     },
@@ -44,13 +48,10 @@
       "url": "https://www.heise.de/news/Updates-fuer-GitLab-schliessen-kritische-Sicherheitsluecke-7241481.html"
     },
     {
-      "title": "IBM MQ",
-      "url": "https://www.heise.de/news/Middleware-IBM-stopft-Sicherheitsluecken-in-MQ-7240770.html"
-    },
-    {
-      "title": "Passwortmanager: Einbrecher kopieren Quellcode bei LastPass",
-      "teaser": "Es gab unbefugte Zugriffe auf die Entwicklungsumgebung vom Anbieter des Passwortmanagers LastPass. Kundendaten sollen nicht gefährdet sein.",
-      "url": "https://www.heise.de/news/Passwortmanager-Einbrecher-kopieren-Quellcode-bei-LastPass-7244048.html"
+      "title": "Lücken in Ciscos FXOS und NX-OS ermöglichen Übernahme der Kontrolle",
+      "teaser": "In Ciscos Router- und Firewall-Betriebssystemen FXOS und NX-OS hätten Angreifer beliebigen Code mit root-Rechten ausführen können. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Luecken-in-Ciscos-FXOS-und-NX-OS-ermoeglichen-Uebernahme-der-Kontrolle-7244032.html",
+      "image_title": "Aufmacher Sicherheitsupdates für Ciscos FXOS und NX-OS"
     },
     {
       "title": "iX-Workshop: In drei Tagen zum IT-Grundschutz-Praktiker mit Zertifikat",
@@ -67,6 +68,11 @@
       "title": "Firefox ESR, Thunderbird: Angreifer könnten Nutzereingaben abfangen",
       "teaser": "Es gibt wichtige Sicherheitsupdates für den Mailclient Thunderbird und den Webbrowser Firefox ESR.",
       "url": "https://www.heise.de/news/Firefox-ESR-Thunderbird-Angreifer-koennten-Nutzereingaben-abfangen-7242897.html"
+    },
+    {
+      "title": "EDR: Nachfolger der Antiviren-Software kämpfen mit altbekannten Problemen",
+      "teaser": "Die Security-Industrie preist Endpoint Detection & Response als das bessere Antivirus an. Tests zeigen, dass es oft an den gleichen Problemen scheitert.",
+      "url": "https://www.heise.de/news/EDR-Nachfolger-der-Antiviren-Software-kaempfen-mit-altbekannten-Problemen-7241955.html"
     },
     {
       "title": "Bugs in VMware-Produkten verursachen Bluescreens und Rechteausweitung",
@@ -150,12 +156,6 @@
       "teaser": "Hikvision hat zwar Updates für die Kameras veröffentlicht, mehr als 2300 Firmen ignorieren diese jedoch. Angreifer könnten dadurch in deren Netze einbrechen.",
       "url": "https://www.heise.de/news/Einbruchsgefahr-Ueber-80-000-Hikvision-Kameras-verwundbar-7239986.html",
       "image_title": "Aufmacher 80.000 Hikvision-Kameras ungepatcht"
-    },
-    {
-      "title": "Windows Update: Nebenwirkung BitLocker-Wiederherstellung",
-      "teaser": "Die August-Updates haben einige Nebenwirkungen: Unter Windows 11 könnte der Rechner mit BitLocker-Wiederherstellung starten. Windows 10 kann Tonprobleme haben.",
-      "url": "https://www.heise.de/news/Windows-Update-Nebenwirkung-BitLocker-Wiederherstellung-7239504.html",
-      "image_title": "Aufmacher Windows Update mit Nebenwirkungen"
     },
     {
       "title": "heise Security Tour 2022",
