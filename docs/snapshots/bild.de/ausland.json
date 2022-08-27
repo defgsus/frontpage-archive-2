@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-27T05:31:50",
+  "timestamp": "2022-08-27T06:26:51",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.a8f965a3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.3f4db007.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.958bca9c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ead8ee11.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.f1a53cda.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9c823f62.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Vorfall in Brüssel, Hintergründe unklar : Transporter-Fahrer rast in Café – 6 Verletzte",
-      "url": "https://www.bild.de/news/ausland/news-ausland/vorfall-in-bruessel-hintergruende-unklar-transporter-fahrer-rast-in-caf-6-verlet-81133544.bild.html",
-      "image_url": "https://images.bild.de/6309303626e03646633ff4a8/fae463cfc24738a22779deefe7512889,bede3973?w=656",
-      "image_title": "Vorfall in Brüssel, Hintergründe unklar: Transporter-Fahrer rast in Café – 6 Verletzte"
-    },
-    {
-      "title": "Gewalt gegen Kinder : US-Schule führt Schläge als Bestrafung ein",
-      "url": "https://www.bild.de/news/ausland/news-inland/schule-in-usa-fuehrt-schlaege-als-bestrafung-ein-81122872.bild.html",
-      "image_url": "https://images.bild.de/63087b2654cea04afde2c257/ea100c82b470e23f166d117a7c0f6259,ff3c52a8?w=320",
-      "image_title": "Schule in USA führt Schläge als Bestrafung ein"
-    },
-    {
-      "title": "Sie starb zweimal : „Totes“ Mädchen (3) wacht bei Beerdigung auf",
-      "url": "https://www.bild.de/news/ausland/news-ausland/camila-aus-mexiko-starb-zweimal-totes-maedchen-3-wacht-bei-beerdigung-auf-81125108.bild.html",
-      "image_url": "https://images.bild.de/63089d636cafcb4218e17f9e/0348bf7abfcf3de6fb4c2d472911bd6a,e7a3fa67?w=320",
-      "image_title": "Camila aus Mexiko starb zweimal: „Totes“ Mädchen (3) wacht bei Beerdigung auf"
-    },
-    {
-      "title": "Mädchen (9) zu Hause erschossen : Olivias Killer jagte eigentlich diesen Mann",
-      "url": "https://www.bild.de/news/ausland/news/liverpool-olivia-9-in-haus-erschossen-killer-feuerte-auf-gangster-81113846.bild.html",
-      "image_url": "https://images.bild.de/630751af50c4505c8f431a62/a9a5bb2d6c41649fdb4a6674626f88ee,7d321802?w=320",
-      "image_title": "Liverpool: Olivia (9) in Haus erschossen – Killer feuerte auf Gangster"
-    },
-    {
-      "title": "Fall in Norwegen : Schwestern sollen Mutter (99) misshandelt haben",
-      "url": "https://www.bild.de/news/ausland/news-ausland/norwegen-schwestern-ueber-70-sollen-mutter-99-misshandelt-haben-81124898.bild.html",
-      "image_url": "https://images.bild.de/63089a5654cea04afde2c2a5/5c6b4e40fc0155b1080dc5f557ecb870,a9d70c65?w=320",
-      "image_title": "Norwegen: Schwestern (über 70) sollen Mutter (99) misshandelt haben"
-    },
-    {
-      "title": "Frau tagelang auf Toilette eingesperrt : Ihr letzter Wille stand schon an der Klo-Wand",
-      "url": "https://www.bild.de/news/ausland/news-ausland/thailand-frau-tagelang-auf-toilette-eingesperrt-ihr-testament-stand-schon-an-der-81125044.bild.html",
-      "image_title": "Thailand: Frau tagelang auf Toilette eingesperrt! Ihr Testament stand schon an der Klo-Wand"
-    },
-    {
-      "title": "Ermittlungen gestartet : Konzert-Abbruch jetzt Fall für den Staatsanwalt",
-      "teaser": "Die Reggae-Band musste ihren Auftritt abbrechen, weil dem Publikum ihre Frisuren nicht passten.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/ermittlungen-konzert-abbruch-jetzt-fall-fuer-den-staatsanwalt-81109680.bild.html",
-      "image_title": "Ermittlungen! Konzert-Abbruch jetzt Fall für den Staatsanwalt"
-    },
-    {
-      "title": "Bier-Sorge bei den Briten : Jetzt wird auch noch die Kohlensäure knapp",
-      "teaser": "Die Entscheidung von Düngemittelherstellern, die Produktion zu kürzen, könne „nicht schlimmer sein“, sagte die Vorsitzende des Kneipenverbandes.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/kohlensaeure-mangel-bier-sorge-bei-den-briten-81115458.bild.html",
-      "image_title": "Kohlensäure-Mangel: Bier-Sorge bei den Briten"
-    },
-    {
-      "title": "43 Studenten in Mexiko verschwunden : Ex-Staatsanwalt wegen Folter vor Gericht",
-      "teaser": "Dem Juristen werden u.a. das Verschwindenlassen von Menschen sowie Folter vorgeworfen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mexiko-43-studenten-verschwunden-anklage-gegen-ex-generalstaatsanwalt-81114022.bild.html",
-      "image_title": "Mexiko: 43 Studenten verschwunden – Anklage gegen Ex-Generalstaatsanwalt"
-    },
-    {
-      "title": "Hinrichtung soll stattfinden : Keine Gnade für Hammer-Killer von Oklahoma",
-      "teaser": "James Coddington ermordete 1997 einen Kollegen. Er soll am Donnerstag hingerichtet werden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-keine-gnade-hammer-moerder-james-coddington-wird-in-oklahoma-hingerichtet-81109662.bild.html",
-      "image_title": "USA: Keine Gnade! Hammer-Mörder James Coddington wird in Oklahoma hingerichtet"
-    },
-    {
-      "title": "Ehemals Blinde sieht erstmals ihren Mann : „Er war schöner, als ich es mir vorstellen konnte“",
-      "teaser": "Als Sophia ihren Mann zum ersten Mal sehen konnte, waren sie längst ineinander verliebt …",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-ehemals-blinde-sieht-nach-op-zum-ersten-mal-wie-gut-ihr-mann-aussieht-81102744.bild.html",
-      "image_title": "USA: Ehemals Blinde sieht nach OP zum ersten Mal, wie gut ihr Mann aussieht"
-    },
-    {
-      "title": "Gewaltwelle erschüttert Liverpool : Olivia (9) kurz vor dem Zu-Bett-Gehen erschossen",
-      "teaser": "Als ihre Mutter die Haustür öffnete, traf eine Kugel die neunjährige Olivia in die Brust.",
-      "url": "https://www.bild.de/news/ausland/news-inland/gewaltwelle-erschuettert-liverpool-olivia-9-wurde-erschossen-als-sie-ins-bett-ge-81099490.bild.html",
-      "image_title": "Gewaltwelle erschüttert Liverpool: Olivia (9) wurde erschossen, als sie ins Bett gehen wollte"
-    },
-    {
-      "title": "Dürre in den USA : Echter Jurassic Park aufgetaucht",
-      "teaser": "Das ist keine Filmkulisse, das ist echt. Allerdings schon vor Millionen Jahren passiert.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/duerre-in-den-usa-echter-jurassic-park-aufgetaucht-81100732.bild.html",
-      "image_title": "Dürre: Echter Jurassic Park in den USA aufgetaucht"
-    },
-    {
-      "title": "Keine Anklage wegen Immunität : UN-Diplomat soll Nachbarin vergewaltigt haben",
-      "teaser": "Ein UN-Diplomat wird der Vergewaltigung beschuldigt, doch die Polizei ließ ihn wieder frei.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/un-diplomat-soll-nachbarin-vergewaltigt-haben-und-geniesst-immunitaet-81102156.bild.html",
-      "image_title": "UN-Diplomat soll Nachbarin vergewaltigt haben – und genießt Immunität"
-    },
-    {
-      "title": "Nach Stausee-Party verschollen : Youtube-Taucher finden vermisste Kiely (†16)",
-      "teaser": "Taucher hatten in einem Stausee in Kalifornien ein Auto entdeckt – und eine Tote!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/youtube-taucher-finden-vermisstes-maedchen-tot-nach-stausee-party-in-kalifornien-81100154.bild.html",
-      "image_title": "Youtube-Taucher finden vermisstes Mädchen tot nach Stausee-Party in Kalifornien"
-    },
-    {
-      "title": "Raten Sie mal die Monatsmiete ... : 4,7 Quadratmeter! Paris empört über Mikro-Wohnung",
-      "teaser": "Was für ein Wucher! Die Stadt Paris geht gegen die Vermietung einer Mikro-Wohnung mit Mega-Preis vor.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/paris-miet-wahnsinn-mikro-wohnung-hat-4-7-quadratmeter-aber-es-wohnt-jemand-drin-81101942.bild.html",
-      "image_title": "Paris: Miet-Wahnsinn! Mikro-Wohnung hat 4,7 Quadratmeter – da drin wohnt wirklich jemand"
-    },
-    {
-      "title": "„Wie in einem Katastrophenfilm“ : Passagiere stecken fünf Stunden im Eurotunnel fest",
-      "teaser": "Ein Autozug fiel am Dienstagnachmittag auf dem Weg von Calais nach Folkstone aus.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/eurotunnel-passagiere-stecken-nach-zugausfall-fuenf-stunden-fest-81100332.bild.html",
-      "image_title": "Eurotunnel: Passagiere stecken nach Zugausfall fünf Stunden fest"
-    },
-    {
-      "title": "Gesetz aus der Kolonialherrschaft : Singapur entkriminalisiert schwulen Sex",
-      "teaser": "Einvernehmlicher Geschlechtsverkehr zwischen Männern soll bald nicht länger strafbar sein.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/gesetz-aus-der-kolonialzeit-homosexualitaet-in-singapur-bald-straffrei-81078060.bild.html",
-      "image_title": "Gesetz aus der Kolonialzeit: Homosexualität in Singapur bald straffrei"
-    },
-    {
-      "title": "Neue Enthüllung : US-Politiker sahen Fotos von Ufos",
-      "teaser": "Angeblich wurden US-Politikern Ufo-Fotos gezeigt. Wann kommt die ganze Wahrheit ans Licht?",
-      "url": "https://www.bild.de/news/ausland/news-ausland/neue-ufo-enthuellung-us-politiker-sahen-fotos-von-fliegender-untertasse-81092186.bild.html",
-      "image_title": "Neue Ufo-Enthüllung: US-Politiker sahen Fotos von „fliegender Untertasse“"
-    },
-    {
-      "title": "Unglück auf der Bergspitze : Deutscher stürzt bei Gipfelfoto rückwärts ab – tot",
-      "teaser": "Ein deutscher Wanderer ist beim Versuch, ein Gipfelfoto seiner Begleiterin zu machen in den Tod gestürzt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/oesterreich-deutscher-stuerzt-bei-gipfelfoto-auf-der-greitspitze-rueckwaerts-in-81097652.bild.html",
-      "image_title": "Österreich: Deutscher stürzt bei Gipfelfoto auf der Greitspitze rückwärts in den Tod"
-    },
-    {
-      "title": "Grausige Bilder aus Mexiko : Hunderte Meeresschildkröten in Netzen verendet",
-      "teaser": "Hunderte Meeresschildkröten sind in Mexiko in Fischernetzen verendet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mexiko-hunderte-meeresschildkroeten-in-fischernetzen-verendet-81097648.bild.html",
-      "image_title": "Mexiko: Hunderte Meeresschildkröten in Fischernetzen verendet"
-    },
-    {
-      "title": "Ihr Mann badete im Fluss : Sumatra-Tiger zerfleischt Arbeiterin",
-      "teaser": "In Indonesien ist eine Plantagenarbeiterin von einem Sumatra-Tiger getötet worden",
-      "url": "https://www.bild.de/news/ausland/news-ausland/indonesien-sumatra-tiger-toetet-arbeiterin-81097106.bild.html",
-      "image_title": "Indonesien: Sumatra-Tiger tötet Arbeiterin – ihr badender Mann hörte ihre Schreie"
-    },
-    {
-      "title": "Polens Wasserbehörde schlägt Alarm! : Mehr als 280 illegale Abflüsse in die Oder",
-      "teaser": "Mehr als 280 illegale Abflüsse in die Oder hat Polens Wasserbehörde festgestellt.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/polens-wasserbehoerde-mehr-als-280-illegale-abfluesse-in-die-oder-81091314.bild.html",
-      "image_title": "Polens Wasserbehörde: Mehr als 280 illegale Abflüsse in die Oder"
-    },
-    {
-      "title": "Strand in Thailand : Angebliche Leiche entpuppt sich als Sexspielzeug",
-      "teaser": "Weicher Sand, sanfte Wellen. Das Wasser umspült einen leblosen Körper …",
-      "url": "https://www.bild.de/news/ausland/wirtschaft/thailand-angespuelte-leiche-entpuppt-sich-als-sexspielzeug-81088238.bild.html",
-      "image_title": "Thailand: Angespülte Leiche entpuppt sich als Sexspielzeug"
-    },
-    {
-      "title": "Bewiesen! : Ihr Hund ist keine Dramaqueen, er weint vor Freude",
-      "teaser": "Diese Liebe ist echt! In einer Studie beweisen Forscher jetzt: Hunde weinen vor Freude.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/ihr-hund-ist-keine-dramaqueen-er-weint-vor-freude-81087878.bild.html",
-      "image_title": "Ihr Hund ist keine Dramaqueen, er weint vor Freude"
-    },
-    {
-      "title": "Erotik-Model sexuell belästigt : Widerliche Grabsch-Attacke in Supermarkt",
-      "url": "https://www.bild.de/video/clip/video/model-im-supermarkt-sexuell-belaestigt-widerliche-grabsch-attacke-vor-dem-kuehlr-81131068.bild.html",
-      "image_title": "Erotik-Model sexuell belästigt: Widerliche Grabsch-Attacke in Supermarkt"
-    },
-    {
-      "title": "Horror für Passagiere : Flugzeug verliert Triebwerk-Teile",
-      "url": "https://www.bild.de/video/clip/video/kurz-nach-dem-start-passagiere-filmen-schockmoment-81103288.bild.html",
-      "image_title": "Horror für Passagiere: Flugzeug verliert Triebwerk-Teile"
-    },
-    {
-      "title": "Das wird Putin nicht gefallen : Letten reißen gewaltiges Russen-Denkmal ab",
-      "url": "https://www.bild.de/video/clip/video/als-es-faellt-jubeln-alle-letten-reissen-gewaltiges-russen-denkmal-ab-81129872.bild.html",
-      "image_title": "Das wird Putin nicht gefallen: Letten reißen gewaltiges Russen-Denkmal ab"
-    }
-  ]
+  "articles": []
 }
