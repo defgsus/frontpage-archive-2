@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-28T21:21:10",
+  "timestamp": "2022-08-28T22:21:12",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.a8f965a3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.3f4db007.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.958bca9c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ead8ee11.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.f1a53cda.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9c823f62.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Zwei Menschen sterben in Thüringen : Mann (53) springt bei Feuer aus Fenster – tot!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/brand-in-thueringen-mann-springt-in-apolda-bei-feuer-aus-fenster-und-stirbt-81139980.bild.html",
-      "image_url": "https://images.bild.de/630b0d2c8bd6831a3b3960df/83fe903e64981fb1c295a6d89b38b404,15d8ca85?w=656",
-      "image_title": "Brand in Thüringen: Zwei Leichen bei Hausbrand in Apolda gefunden"
-    },
-    {
-      "title": "Bis zu 2000 Euro : Erster Chef zahlt Mitarbeitern die Energiekosten",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-erster-chef-zahlt-mitarbeitern-die-energiekosten-81146270.bild.html",
-      "image_url": "https://images.bild.de/630ba64e770bbb5865db2ad0/dde2823be3a5968434e2a57aa0b781dc,c1ae983f?w=320",
-      "image_title": "Sachsen: Erster Chef zahlt Mitarbeitern die Energiekosten"
-    },
-    {
-      "title": "BILD war in Leipzig dabei : Im Klima-Camp der milden Kerle",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-im-klima-camp-der-milden-kerle-81145730.bild.html",
-      "image_url": "https://images.bild.de/630b91d50fec6a72f25f9147/55dbcba396e40dbb3cde556ca29be57c-miniSquare,ce672e7d?w=320",
-      "image_title": "Sachsen: Im Klima-Camp der milden Kerle"
-    },
-    {
-      "title": "Hauptbahnhof in Dresden : Sind diese Einreise-Kontrollen im Hauptbahnhof?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-sind-einreise-kontrollen-im-hauptbahnhof-rassistisch-81145898.bild.html",
-      "image_url": "https://images.bild.de/630b9cc58bd6831a3b396200/4bf18915f9756990e6a202daf2b5ff45,3f52b72c?w=320",
-      "image_title": "Dresden: Sind Einreise-Kontrollen im Hauptbahnhof rassistisch?"
-    },
-    {
-      "title": "Er drohte, ihren Sohn zu töten : Kioskfrau bittet um Gnade für Kioskräuber",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/er-drohte-mit-einer-waffe-kioskfrau-bittet-um-gnade-fuer-einen-raeuber-81137446.bild.html",
-      "image_url": "https://images.bild.de/630a1591c6a800431aaae6d0/a50223efb2dc3550293fb86dacd41d94,b3937e34?w=320",
-      "image_title": "Er drohte mit einer Waffe: Kioskfrau bittet um Gnade für einen Räuber"
-    },
-    {
-      "title": "Er darf seinen Führerschein behalten : Vater raste mit bewusstlosem Kind in Blitzer",
-      "url": "https://www.bild.de/regional/ruhrgebiet/koeln-aktuell/er-raste-mit-bewusstlosem-kind-in-blitzer-fuehrerschein-doch-nicht-weg-81138102.bild.html",
-      "image_title": "Er raste mit bewusstlosem Kind in Blitzer – Führerschein doch nicht weg"
-    },
-    {
-      "title": "Schämt euch, ihr Ego-Fahrer! : Autos wenden in Rettungsgasse",
-      "teaser": "Nach einem Unfall auf der A 24 bei Suckow (Mecklenburg-Vorpommern) wendeten zahlreiche Autofahrer auf der Autobahn, fuhren zurück und blockierten so die Rettungsgasse.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-autos-wenden-auf-a-24-in-rettungsgasse-81145182.bild.html",
-      "image_title": "Unfall: Autos wenden auf A 24 in Rettungsgasse"
-    },
-    {
-      "title": "Mädchen (11) traumatisiert, Täter frei : Warum ist der Vergewaltiger meiner Tochter frei?",
-      "teaser": "Nachdem seine Tochter vergewaltigt wurde, kann Mark Seher das milde Urteil nicht verstehen",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/ein-vater-klagt-an-warum-ist-der-vergewaltiger-meiner-tochter-frei-81136990.bild.html",
-      "image_title": "Ein Vater klagt an: Warum ist der Vergewaltiger meiner Tochter frei?"
-    },
-    {
-      "title": "Ekel-Alarm in Mainz : Das Haus der tausenden Spinnen",
-      "teaser": "Spinnweben überziehen Fenster und die Fassade des „Pandion Doxx“ im Mainzer Zollhafen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/tausende-krabbler-bevoelkern-mainzer-gebaeude-das-goldene-spinnen-haus-81081856.bild.html",
-      "image_title": "Mainz, Zollhafen: Tausende Spinnen-Plage am goldenen Haus"
-    },
-    {
-      "title": "Vier Jahre nach dem Stadtfest-Mord : Wieder blutige Messerstecherei vor Döner-Imbiss",
-      "teaser": "Die Probleme rings ums Alanya-Dönerhaus in Chemnitz reißen nicht ab!",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-wieder-blutige-messerstecherei-vor-doener-imbiss-81144872.bild.html",
-      "image_title": "Chemnitz: Wieder blutige Messerstecherei vor Döner-Imbiss"
-    },
-    {
-      "title": "Feuerserie auf Borkum : Zündete ein Touristenhasser 13 Autos an?",
-      "teaser": "In der Nacht zu Sonntag loderten Flammen. Ein Brandstifter hatte 13 Autos abgefackelt.",
-      "url": "https://www.bild.de/news/inland/news-inland/feuerserie-auf-borkum-zuendete-ein-touristenhasser-13-autos-an-81136760.bild.html",
-      "image_title": "Feuerserie auf Borkum: Zündete ein Touristenhasser 13 Autos an?"
-    },
-    {
-      "title": "Im Rostocker „Sonnenblumenhaus“ : Chili-Attacke durchs offene Fenster",
-      "teaser": "Kam es hier zu einer Rache-Aktion von Linksextremen?",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/rostock-lichtenhagen-mann-mit-reizender-fluessigkeit-attackiert-81140376.bild.html",
-      "image_title": "Rostock-Lichtenhagen: Im „Sonnenblumenhaus“: Chili-Attacke durchs offene Fenster"
-    },
-    {
-      "title": "Starkregen am Samstag : Bis zu 50 Liter pro Quadratmeter – in kurzer Zeit!",
-      "teaser": "Am Samstag erwarten Meteorologen Sturmböen, Starkregen, Hagel.",
-      "url": "https://www.bild.de/news/inland/news-inland/unwetter-gewitter-front-macht-deutschland-nass-81130778.bild.html",
-      "image_title": "Schwere Unwetter: Starkregen am Samstag – bis zu 50 Liter pro Quadratmeter!"
-    },
-    {
-      "title": "Gläubige erzählen : Deshalb gehen wir trotzdem weiter in die Kirche",
-      "teaser": "Erstmals sind weniger als die Hälfte der Deutschen in der Kirche registriert.",
-      "url": "https://www.bild.de/news/inland/news-inland/kirche-mitglieder-zahl-niedrig-wie-nie-deshalb-gehen-wir-weiter-hin-81137032.bild.html",
-      "image_title": "Kirche: Mitglieder-Zahl niedrig wie nie: Deshalb gehen wir weiter hin"
-    },
-    {
-      "title": "Schülerin war nach einer Feier verschwunden : Vermisste Sabrina (15) aus Stralsund wieder da",
-      "teaser": "Stralsund – Seit Freitagabend, 20 Uhr, wurde die 15-jährige Sabrina A. vermisst. Die Sc...",
-      "url": "https://www.bild.de/news/inland/news-inland/schuelerin-war-auf-einer-feier-sabrina-15-in-stralsund-verschwunden-81138702.bild.html",
-      "image_title": "Schülerin war nach einer Feier verschwunden: Vermisste Sabrina (15) aus Stralsund wieder da"
-    },
-    {
-      "title": "Verarmte Haustierbesitzer : Wenn das Geld nicht mehr fürs Hundefutter reicht",
-      "teaser": "Die Preise in den Geschäften steigen. Auch Tierbesitzer müssen tiefer in die Tasche greifen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-was-tun-wenn-das-geld-nicht-fuers-hundefutter-reicht-81139646.bild.html",
-      "image_title": "Sachsen-Anhalt: Was tun, wenn das Geld nicht fürs Hundefutter reicht?"
-    },
-    {
-      "title": "Unwetter-Bilanz : Schlammlawinen in Sachsen und Thüringen",
-      "teaser": "Wasser marsch! In den vergangenen zwei Tagen regnete es im Osten so viel wie seit langem nicht mehr.",
-      "url": "https://www.bild.de/regional/chemnitz/dresden-aktuell/unwetter-bilanz-schlammlawinen-in-sachsen-und-thueringen-81139446.bild.html",
-      "image_title": "Unwetter-Bilanz: Schlammlawinen in Sachsen und Thüringen"
-    },
-    {
-      "title": "Fahranfänger (17) gibt mit Porsche Vollgas : Deutschlands irrster Raser",
-      "teaser": "Ein junger Raser wurde von der Polizei gestoppt. Seine Mutter saß auf dem Beifahrersitz!",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/fahranfaenger-17-gibt-mit-porsche-vollgas-deutschlands-irrster-raser-81137662.bild.html",
-      "image_title": "Fahranfänger (17) gibt mit Porsche Vollgas: Deutschlands irrster Raser"
-    },
-    {
-      "title": "Ihr Wagen überschlug sich : 4 Jugendliche bei Baum-Crash schwer verletzt",
-      "teaser": "In der Nacht zu Sonntag hat sich in Niedersachsen ein schlimmer Unfall ereignet.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/unfall-in-cloppenburg-vier-jugendliche-bei-baum-crash-schwer-verletzt-81139350.bild.html",
-      "image_title": "Unfall in Cloppenburg: Vier Jugendliche bei Baum-Crash schwer verletzt"
-    },
-    {
-      "title": "Mord in Mehrfamilienhaus : Demenzkranke (89) ersticht Mitbewohnerin (84)",
-      "teaser": "In Duisburg hat eine demente Frau ihre Mitbewohnerin erstochen. Der Fall wirft Fragen auf.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/mord-motiv-demenz-demenzkranke-frau-89-soll-verwirrt-getoetet-haben-81136058.bild.html",
-      "image_title": "Mord-Motiv Demenz – Demenzkranke Frau (89) soll verwirrt getötet haben"
-    },
-    {
-      "title": "Der todkranke Milas (13) : Mein Buch für das Jenseits ist fast fertig",
-      "teaser": "Milas möchte auf seine letzte Reise Botschaften mitnehmen, um Hinterbliebene zu trösten.",
-      "url": "https://www.bild.de/news/inland/news-inland/der-todkranke-milas-13-mein-buch-fuer-das-jenseits-ist-fast-fertig-81136324.bild.html",
-      "image_title": "Der todkranke Milas (13): Mein Buch für das Jenseits ist fast fertig"
-    },
-    {
-      "title": "Tragischer Unfall in NRW : Rentner (88) überfährt Jungen (2) bei Parkplatzsuche",
-      "teaser": "Der Senior (88) übersah den kleinen Jungen (2) offenbar bei der Parkplatzsuche.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/marienheide-senior-ueberfaehrt-laufrad-junge-2-bei-parkplatz-suche-81136856.bild.html",
-      "image_title": "Marienheide: Senior überfährt Laufrad-Junge (2) bei Parkplatzsuche"
-    },
-    {
-      "title": "Für eine gesunde Work-Life-Sleep-Balance : NRW-Polizei bietet Beamten „Schlafseminare“ an",
-      "teaser": "Die Polizei in NRW will ihren Bediensteten erstmals Schlafseminare anbieten...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/nrw-polizei-bietet-beamten-schlafseminare-an-81137898.bild.html",
-      "image_title": "NRW: Polizei bietet Beamten „Schlafseminare“ an"
-    },
-    {
-      "title": "30 Jahre nach Lichtenhagen-Pogrom : Brandanschlag auf Flüchtlingsheim in Leipzig",
-      "teaser": "Freitagnacht wurden Brandsätze gegen ein Flüchtlingsheim im Leipziger Westen geworfen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-brandanschlag-auf-fluechtlingsheim-in-leipzig-81136372.bild.html",
-      "image_title": "Sachsen: Brandanschlag auf Flüchtlingsheim in Leipzig"
-    },
-    {
-      "title": "Krankenschwester Ramona Z. festgenommen : Legte sie Feuer aus Neid auf Freundin?",
-      "teaser": "Sie soll für Brandstiftungen verantwortlich sein. Handelte sie aus krankhaftem Neid?",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/dorsten-ramona-z-in-u-haft-legte-sie-feuer-aus-neid-auf-freundin-81135368.bild.html",
-      "image_title": "Dorsten: Ramona Z. in U-Haft – Legte sie Feuer aus Neid auf Freundin?"
-    },
-    {
-      "title": "„Schon viel früher als geplant“ : DSDS-Star Menowin im Krankenhaus",
-      "url": "https://www.bild.de/video/clip/video/schon-viel-frueher-als-geplant-dsds-star-menowin-im-krankenhaus-81144418.bild.html",
-      "image_title": "„Schon viel früher als geplant“: DSDS-Star Menowin im Krankenhaus"
-    },
-    {
-      "title": "Hirnlos-Aktion auf der A24 : Autofahrer drehen im Stau einfach um!",
-      "url": "https://www.bild.de/video/clip/video/polizei-kommt-nicht-durch-irre-fahrer-wenden-nach-unfall-auf-autobahn-81138692.bild.html",
-      "image_title": "Polizei kommt nicht durch! Irre Fahrer wenden nach Unfall auf Autobahn"
-    },
-    {
-      "title": "Millionen Fans gucken zu : Sexy Klippenspringer aus Bayern",
-      "url": "https://www.bild.de/video/clip/video/millionen-fans-gucken-zu-sexy-klippenspringer-aus-bayern-81045452.bild.html",
-      "image_title": "Millionen Fans gucken zu: Sexy Klippenspringer aus Bayern"
-    }
-  ]
+  "articles": []
 }
