@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-29T11:19:48",
+  "timestamp": "2022-08-29T12:46:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Lexmark-Drucker",
+      "url": "https://www.heise.de/news/Luecke-in-Lexmark-Firmwares-ermoeglicht-Angreifern-das-Einnisten-7247068.html"
+    },
+    {
       "title": "Nvidia Flare",
       "url": "https://www.heise.de/news/KI-Lernsoftware-Kritische-Luecke-in-Nvidias-Flare-SDK-7246528.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Luecken-in-Ciscos-FXOS-und-NX-OS-ermoeglichen-Uebernahme-der-Kontrolle-7244032.html"
     },
     {
-      "title": "Firefox ESR, Thunderbird",
-      "url": "https://www.heise.de/news/Firefox-ESR-Thunderbird-Angreifer-koennten-Nutzereingaben-abfangen-7242897.html"
+      "title": "Lexmark: Angreifer können sich durch Firmware-Lücke einnisten",
+      "teaser": "In über 100 Drucker-Modellen von Lexmark steckt eine kritische Lücke in der Firmware. Angreifer könnten sich nach einem Einbruch in den Geräten einnisten.",
+      "url": "https://www.heise.de/news/Luecke-in-Lexmark-Firmwares-ermoeglicht-Angreifern-das-Einnisten-7247068.html",
+      "image_title": "Aufmacher Kritische Lücke in Lexmark-Firmware ermöglicht Einnisten"
     },
     {
       "title": "KI-Lernsoftware: Kritische Lücke in Nvidias Flare-SDK",
@@ -150,11 +156,6 @@
       "title": "WithSecure: Fehlerhaftes Update blockt Programm-Start auf Windows-Systemen",
       "teaser": "Ein Update des Sicherheits-Anbieters WithSecure verhinderte das Ausführen von Programmen von externen und virtuellen Laufwerken. Der Fehler ist wieder behoben.",
       "url": "https://www.heise.de/news/WithSecure-Fehlerhaftes-Update-blockt-Programm-Start-auf-Windows-Systemen-7240918.html"
-    },
-    {
-      "title": "Firefox 104: Stromverbrauch-Profiler und Fixes für Sicherheitslücken",
-      "teaser": "Die neue Version von Firefox bringt neben sechs gefixten Sicherheitslücken auch die Möglichkeiten Scroll-Snap-Stop und Re-Snapping einzubauen.",
-      "url": "https://www.heise.de/news/Firefox-104-Verbesserungen-am-PDF-Viewer-und-Stromverbrauch-Profiler-7240408.html"
     },
     {
       "title": "heise Security Tour 2022",
