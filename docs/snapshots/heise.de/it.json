@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-30T11:19:46",
+  "timestamp": "2022-08-30T12:49:46",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,18 +13,24 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.71e8d06760b18be8885b",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.852015d3f73369e6f54e",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.88d2532028a186974a1c",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.ace7100fbd2b906b3124",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Foxit PDF Editor und Reader: Schadcode-Schmuggel durch Lücken möglich",
+      "teaser": "Angreifer könnten etwa mit manipulierten Dokumenten in Foxit PDF Editor und Reader Schadcode einschleusen. Aktualisierte Software schließt die Sicherheitslücke.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Foxit-PDF-Editor-und-Reader-ermoeglichen-Codeschmuggel-7247760.html",
+      "image_title": "Aufmacher Sicherheitslücken in Foxit PDF Editor"
+    },
     {
       "title": "Ransomware: Einbrecher deaktivieren Virenschutz mit Anti-Cheat-Treiber",
       "teaser": "Cyberkriminelle deaktivieren den Virenschutz mit einem verwundbaren und signierten Anti-Cheat-Treiber eines Spiels. Das ist jedoch gar nicht installiert.",
@@ -37,12 +43,6 @@
       "url": "https://www.heise.de/news/KI-baut-Lego-Modelle-7245180.html"
     },
     {
-      "title": "Nach Datenschutz-Eklat: Ärzte und Apotheker stellen Bedingungen für E-Rezept",
-      "teaser": "Der Rückzug der schleswig-holsteinischen Kassenärzte aus der Testphase des E-Rezepts sorgt für Trubel. Auch Westfalen-Lippe könnte das Vorhaben bald beenden.",
-      "url": "https://www.heise.de/news/Nach-Datenschutz-Eklat-Aerzte-und-Apotheker-stellen-Bedingungen-fuer-E-Rezept-7240455.html",
-      "image_title": "geschreddertes Papier"
-    },
-    {
       "title": "Wie Sie mit dem Picaxe Analoge Eingangsspannungen messen können",
       "teaser": "Um mit analogen Signalen zu experimentieren, reicht uns eine handelsübliche Batterie. Wir zeigen Ihnen, wie das geht.",
       "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-dem-Picaxe-Analoge-Eingangsspannungen-messen-koennen-7235831.html"
@@ -51,6 +51,22 @@
       "title": "QR-Codes scannen: Das sind die Tricks von Kriminellen",
       "teaser": "QR-Codes können Träger gefährlicher URLs sein. Wir erklären, welche Tricks sich Kriminelle ausgedacht haben und worauf Sie beim Scan von QR-Codes achten müssen.",
       "url": "https://www.heise.de/hintergrund/QR-Codes-scannen-Das-sind-die-Tricks-von-Kriminellen-7242850.html"
+    },
+    {
+      "title": "Microsoft ändert Lizenzmodell für Outsourcing und Hosting in der Cloud",
+      "teaser": "Ab dem ersten Oktober gilt Microsofts überarbeitete Cloud-Lizenz. Das soll Partnern ein individuelleres Angebot ermöglichen, manche Anbieter bleiben außen vor.",
+      "url": "https://www.heise.de/news/Microsoft-aendert-Lizenzmodell-fuer-Outsourcing-und-Hosting-in-der-Cloud-7248136.html",
+      "image_title": "Microsoft"
+    },
+    {
+      "title": "l+f: Trennt euren Game Boy Color vom Internet!",
+      "teaser": "Beim Kampf zwischen Pokémons kann es zu Remote Code Execution kommen.",
+      "url": "https://www.heise.de/news/l-f-Trennt-euren-Game-Boy-Color-vom-Internet-7248232.html"
+    },
+    {
+      "title": "c’t-Workshop: Dienste mit SELinux absichern",
+      "teaser": "Nützlicher Helfer statt lästiges Ärgernis: Der c’t-Workshop zeigt, wie man \"Security Enhanced Linux\" optimal einsetzt und konfiguriert, um Systeme abzusichern.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Dienste-mit-SELinux-absichern-7247598.html"
     },
     {
       "title": "Sicherheitslücke: Zwischenablage in Chromium-basierten Browsern frei zugreifbar",
@@ -64,7 +80,7 @@
       "url": "https://www.heise.de/news/Grafikkarten-Demo-AMD-zeigt-Radeon-RX-7000-mit-Ryzen-9-7950X-in-Aktion-7248091.html"
     },
     {
-      "title": "Affiliate-Betrug: Browser-Erweiterungen mit 1,4 Millionen Installationen",
+      "title": "Affiliate-Betrug: Chrome-Browser-Add-ons mit 1,4 Millionen Installationen",
       "teaser": "Fünf Chrome-Add-ons hat McAfee identifiziert, die Browserdaten manipulieren und Affiliate-Abzocke betreiben. Sie kommen auf 1,4 Millionen Installationen.",
       "url": "https://www.heise.de/news/Affiliate-Betrug-Browser-Erweiterungen-mit-1-4-Millionen-Installationen-7247888.html",
       "image_title": "Aufmacher Affiliate-Abzocke durch Chrome-Add-ons"
@@ -90,12 +106,6 @@
       "teaser": "Lernen Sie an vier Tagen die Ins-and-Outs von Kubernetes als Orchestrierungswerkzeug für Container kennen. Mit 10% Frühbucherrabatt bis 12.9.",
       "url": "https://www.heise.de/news/iX-Workshop-Container-orchestrieren-mit-Kubernetes-7246820.html",
       "image_title": "iX-Workshop Containerorchestrierung mit Kubernetes"
-    },
-    {
-      "title": "Foxit PDF Editor und Reader: Schadcode-Schmuggel durch Lücken möglich",
-      "teaser": "Angreifer könnten etwa mit manipulierten Dokumenten in Foxit PDF Editor und Reader Schadcode einschleusen. Aktualisierte Software schließt die Sicherheitslücke.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Foxit-PDF-Editor-und-Reader-ermoeglichen-Codeschmuggel-7247760.html",
-      "image_title": "Aufmacher Sicherheitslücken in Foxit PDF Editor"
     },
     {
       "title": "Superschnelles USB: Was USB 3.2 Gen 2x2, USB4 und Thunderbolt bringen",
@@ -124,16 +134,6 @@
       "title": "PS/2-Tastatur wird nicht erkannt",
       "teaser": "Ich habe den \"Ryzen Allrounder\" nachgebaut. Wenn ich meine 25 Jahre alte Model-M-Tastatur von IBM anschließe, erkennt der Rechner manchmal nicht die Tastatur.",
       "url": "https://www.heise.de/ratgeber/PS-2-Tastatur-wird-nicht-erkannt-7237023.html"
-    },
-    {
-      "title": "AMD Ryzen 7000 ab 27. September: CPUs kommen mit kräftigem Leistungsplus",
-      "teaser": "Pro Takt im Schnitt 13 Prozent schneller und 50 Prozent mehr Leistung pro Watt als ihre Vorgänger: AMD will mit Ryzen 7000 im Desktop unangefochten führen.",
-      "url": "https://www.heise.de/news/Offiziell-AMD-Ryzen-7000-ab-27-September-mit-bis-zu-16-Kernen-und-5-7-GHz-7247539.html"
-    },
-    {
-      "title": "US-Wettbewerbshüter verklagen Datenmakler wegen Tracking von Klinikbesuchern",
-      "teaser": "Der Datenbroker Kochava soll Standortdaten verkauft haben, die Abtreibungswillige enttarnen könnten. Der Schutz gesundheitsbezogener Daten rückt in den Fokus.",
-      "url": "https://www.heise.de/news/US-Wettbewerbshueter-verklagen-Datenmakler-wegen-Tracking-von-Klinikbesuchern-7247692.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
