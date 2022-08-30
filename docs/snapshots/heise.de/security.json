@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-30T10:24:12",
+  "timestamp": "2022-08-30T11:19:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Chromium-basierte Webbrowser",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Zwischenablage-in-Chromium-basierten-Browsern-frei-zugreifbar-7248070.html"
+    },
+    {
       "title": "Foxit PDF Editor & Reader",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Foxit-PDF-Editor-und-Reader-ermoeglichen-Codeschmuggel-7247760.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/KI-Lernsoftware-Kritische-Luecke-in-Nvidias-Flare-SDK-7246528.html"
     },
     {
-      "title": "Atlassian Bitbucket, Data Center",
-      "url": "https://www.heise.de/news/Praeparierte-HTTP-Anfragen-koennten-Atlassian-Bitbucket-Server-gefaehrlich-werden-7244370.html"
+      "title": "Sicherheitslücke: Zwischenablage in Chromium-basierten Browsern frei zugreifbar",
+      "teaser": "Webseiten können derzeit in aktuellen Chromium-basierten Webbrowsern beliebig auf die Zwischenablage zugreifen. Das ermöglicht etwa Angriffe auf Nutzer.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Zwischenablage-in-Chromium-basierten-Browsern-frei-zugreifbar-7248070.html",
+      "image_title": "Aufmacher Zwischenablage in Chromium-basierten Browsern frei zugreifbar"
     },
     {
       "title": "Foxit PDF Editor und Reader: Schadcode-Schmuggel durch Lücken möglich",
@@ -152,11 +158,6 @@
       "teaser": "Für die GitLab Community- und Enterprise-Edition haben die Entwickler aktualisierte Versionen veröffentlicht, die eine kritische Sicherheitslücke schließen.",
       "url": "https://www.heise.de/news/Updates-fuer-GitLab-schliessen-kritische-Sicherheitsluecke-7241481.html",
       "image_title": "Aufmacher kritische Sicherheitslücke in GitLab"
-    },
-    {
-      "title": "l+f: Krypto-Facepalm für Hyundai",
-      "teaser": "Die Programmierer von Hyundais Infotainment-System wissen offensichtlich nicht, was ein Geheimnis ist.",
-      "url": "https://www.heise.de/news/l-f-Krypto-Facepalm-fuer-Hyundai-7241461.html"
     },
     {
       "title": "heise Security Tour 2022",
