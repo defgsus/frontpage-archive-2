@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-30T12:49:51",
+  "timestamp": "2022-08-30T13:51:26",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,375 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.349e3d03.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.a1ee8524.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.958bca9c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.ead8ee11.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.847495f8.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.9c823f62.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Meteorologen ziehen Wetterbilanz : So einen Sommer hatten wir noch nie!",
+      "url": "https://www.bild.de/news/wetter/wetter/meteorologen-ziehen-wetterbilanz-so-einen-sommer-hatten-wir-noch-nie-81159694.bild.html",
+      "image_title": "Meteorologen ziehen Wetterbilanz: So einen Sommer hatten wir noch nie!"
+    },
+    {
+      "title": "Nah an Großstädten, aber nicht so teuer : 25 Top-Regionen mit Immobilien-Schnäppchen",
+      "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/sparfochs/25-top-regionen-mit-immobilien-schnaeppchen-nahe-einer-grossstadt-81148476.bild.html",
+      "image_title": "25 Top-Regionen mit Immobilien-Schnäppchen nahe einer Großstadt"
+    },
+    {
+      "title": "Michel Friedman : „Allein, einsam, depressiv“",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-michel-friedman-ueber-krisen-allein-einsam-depressiv-81118036.bild.html",
+      "image_title": "Frankfurt: Michel Friedman über Krisen: „Allein, einsam, depressiv“"
+    },
+    {
+      "title": "Hartes Durchgreifen : Falschparken in Berlin-Mitte kostet jetzt 22-mal so viel!",
+      "teaser": "Falschparken wird in Berlin-Mitte jetzt richtig teuer!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/falschparken-in-berlin-mitte-kostet-jetzt-22-mal-so-viel-81159638.bild.html",
+      "image_title": "Falschparken in Berlin-Mitte kostet jetzt 22 Mal so viel!"
+    },
+    {
+      "title": "Tumult in Berlin-Neukölln : Großfamilien gehen nach Unfall aufeinander los",
+      "teaser": "Nach einem Unfall spielten sich am Montagabend tumultartige Szenen in Berlin-Neukölln ab.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-neukoelln-grossfamilien-gehen-nach-unfall-aufeinander-los-81159632.bild.html",
+      "image_title": "Berlin-Neukölln: Großfamilien gehen nach Unfall aufeinander los"
+    },
+    {
+      "title": "„Sind in der 3. Liga angekommen!“ : Oldenburg in Derby-Form",
+      "url": "https://www.bild.de/regional/bremen/regiosport-bremen/vor-derby-gegen-vfl-osnabrueck-vfb-oldenburg-ist-in-der-3-liga-angekommen-81165390.bild.html",
+      "image_title": "Vor Derby gegen VfL Osnabrück: VfB Oldenburg ist in der 3. Liga angekommen"
+    },
+    {
+      "title": "Kennen Sie ihn noch? : Ex-Bundesliga-Star macht jetzt Hip-Hop!",
+      "teaser": "Er machte 118 Bundesliga-Spiele. Jetzt will er neben dem Fußball ein Star werden.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/sogar-ein-eigenes-album-ex-bundesliga-star-macht-jetzt-hip-hop-80384164.bild.html",
+      "image_title": "Sogar ein eigenes Album: Ex-Bundesliga-Star macht jetzt Hip-Hop!"
+    },
+    {
+      "title": "BILD-Umfrage : Muss Werder auf dem Transfermarkt nachlegen?",
+      "teaser": "Das Transferfenster hat noch bis Donnerstag (18 Uhr) geöffnet.",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/bild-umfrage-muss-werder-bremen-auf-dem-transfermarkt-nachlegen-81154228.bild.html",
+      "image_title": "BILD-Umfrage: Muss Werder Bremen auf dem Transfermarkt nachlegen?"
+    },
+    {
+      "title": "Brandsatz geworfen? : Anschlag auf Flüchtlings-Kita",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-brandanschlag-auf-kita-mit-gefluechteten-in-leipzig-81162756.bild.html",
+      "image_title": "Sachsen: Brandanschlag auf Kita mit Geflüchteten in Leipzig"
+    },
+    {
+      "title": "Lehrermangel immer dramatischer : Jetzt sollen schon Eltern in Schulen aushelfen",
+      "teaser": "Letzte Woche waren es noch Zahlen auf dem Papier, zum Schulstart am Montag bittere Realität.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/lehrermangel-in-sachsen-jetzt-sollen-schon-eltern-in-schulen-aushelfen-81158310.bild.html",
+      "image_title": "Lehrermangel in Sachsen: Jetzt sollen schon Eltern in Schulen aushelfen"
+    },
+    {
+      "title": "Nach sechs Spielen noch kein Sieg : Die Wahrheit über die Aue-Krise",
+      "teaser": "Abstiegsplatz statt Aufstiegskampf - Aue ist nach sechs Spieltagen noch ohne Sieg!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/nach-sechs-spielen-noch-kein-sieg-die-wahrheit-ueber-die-aue-krise-81153918.bild.html",
+      "image_title": "Trainer Rost enthüllt überraschende Details: Die Wahrheit über die Aue-Krise"
+    },
+    {
+      "title": "Crash auf A4 : Drogen-Fahrer (42) rammt Lkw",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-auf-a4-drogen-fahrer-42-rammt-lkw-bei-eichelborn-81159730.bild.html",
+      "image_title": "Unfall auf A4: Drogen-Fahrer (42) rammt Lkw bei Eichelborn"
+    },
+    {
+      "title": "Sie verwüstete Vorgärten : Randale-Wölfin jetzt mit Verstärkung unterwegs",
+      "teaser": "Wo vorher zwei Augen aus der Dunkelheit in die Wildkamera gefunkelt haben, sind jetzt vier.",
+      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/liebschuetzberg-randale-woelfin-jetzt-mit-verstaerkung-unterwegs-81158154.bild.html",
+      "image_title": "Tiere: Randale-Wölfin jetzt mit Verstärkung unterwegs"
+    },
+    {
+      "title": "Jetzt bangt er um seine Wohnung : Bernd (61) hat 138 Euro im Monat für Lebensmittel",
+      "teaser": "Bernd Franke (61) hat in den letzten Jahren gelernt, jeden Euro dreimal umzudrehen.",
+      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/jetzt-bangt-er-um-seine-wohnung-bernd-61-hat-138-euro-im-monat-fuer-lebensmittel-81143768.bild.html",
+      "image_title": "Jetzt bangt er um seine Wohnung: Bernd (61) hat 138 Euro im Monat für Lebensmittel"
+    },
+    {
+      "title": "In Syrien auch auf Zivilisten geschossen? : Terror-Verdächtiger in Düsseldorf vor Gericht",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorfer-terror-verdaechtiger-aus-eschweiler-soll-in-syrien-gekaempft-haben-81160454.bild.html",
+      "image_title": "Düsseldorfer: Terror-Verdächtiger aus Eschweiler soll in Syrien gekämpft haben"
+    },
+    {
+      "title": "Finale von „Topf sucht Burdecki“ : Evelyn: „Die Liebe zum Essen war da, aber ...“",
+      "teaser": "Im Finale von „Topf sucht Burdecki“ wurde es spannend: Hat sich die Blondine verliebt?",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/finale-von-topf-sucht-burdecki-so-sieht-es-bei-evelyn-mit-der-liebe-aus-81146456.bild.html",
+      "image_title": "Finale von „Topf sucht Burdecki“: So sieht es bei Evelyn mit der Liebe aus"
+    },
+    {
+      "title": "18 Zweikämpfe in 38 Minuten : Joker Wolf bissig wie nie!",
+      "teaser": "Hannes Wolf kam gegen Bayern (1:1) erst nach 52 Minuten – war dann aber bissig wie nie",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-joker-hannes-wolf-bissig-wie-nie-81142480.bild.html",
+      "image_title": "Borussia Mönchengladbach: Joker Hannes Wolf bissig wie nie!"
+    },
+    {
+      "title": "In Tasche ausgesetzt! : Wer kennt diesen süßen Mops-Mischling?",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/in-tasche-ausgesetzt-wer-kennt-diesen-suessen-mops-mischling-81166650.bild.html",
+      "image_title": "In Tasche ausgesetzt!: Wer kennt diesen süßen Mops-Mischling?"
+    },
+    {
+      "title": "Prozess um Party-Tragödie : Ihre Ersatzdroge tötete einen 16-Jährigen",
+      "teaser": "Absicht kann man der 56-Jährigen sicherlich nicht vorwerfen, aber unfassbare Schlamperei.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/weil-sie-mit-drogen-schlampt-junge-16-stirbt-bei-party-81165432.bild.html",
+      "image_title": "Weil SIE mit Drogen schlampt: Junge (16) stirbt bei Party"
+    },
+    {
+      "title": "Schrecklicher Fund in Rheinland-Pfalz : Angler findet totes Baby in Dorfweiher",
+      "teaser": "Schrecklicher Fund im Westerwald: In einem Dorfweiher lag ein totes Baby.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/westerwald-angler-findet-totes-baby-in-dorfweiher-81164320.bild.html",
+      "image_title": "Westerwald: Angler findet totes Baby in Dorfweiher"
+    },
+    {
+      "title": "Schock-Aussage im KZ-Prozess : „In Stutthof gab es Kannibalismus - es war die Hölle“",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kz-ueberlebende-sagt-aus-in-stutthof-gab-es-kannibalismus-es-war-die-hoelle-81160318.bild.html",
+      "image_title": "Schock-Aussage im KZ-Prozess: „In Stutthof gab es Kannibalismus - es war die Hölle“"
+    },
+    {
+      "title": "„MS Europa“ dockt bei Blohm + Voss ein : Schönstes Schiff der Welt wird schön gemacht",
+      "teaser": "Das Edel-Traumschiff „Europa“ steht nach dem Nordeuropa-Törn zur Schönheitskur in Schwimmdock 11.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/ms-europa-dockt-bei-blohm-voss-ein-schoenstes-schiff-der-welt-wird-schoen-gemach-81163230.bild.html",
+      "image_title": "„MS Europa“ dockt bei Blohm + Voss ein: Schönstes Schiff der Welt wird schön gemacht"
+    },
+    {
+      "title": "Für Bau der Belt-Querung : Letzte Fahrt nach Fehmarn",
+      "teaser": "Jetzt wird die Ostsee-Insel Fehmarn vom Bahnverkehr abgeschnitten!",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/fur-bau-der-belt-querung-letzte-fahrt-nach-fehmarn-81161840.bild.html",
+      "image_title": "Für Bau der Belt-Querung: Letzte Fahrt nach Fehmarn"
+    },
+    {
+      "title": "TSV Hannover-Burgdorf vor Saison-Start : Kampf-Versprechen der Recken",
+      "url": "https://www.bild.de/sport/mehr-sport/handball/tsv-hannover-burgdorf-recken-mit-kampf-versprechen-vor-dem-saisonstart-81163372.bild.html",
+      "image_title": "TSV Hannover-Burgdorf: Recken mit Kampf-Versprechen vor dem Saisonstart"
+    },
+    {
+      "title": "Bakterien-Alarm in Niedersachsen : 10 Tage ohne Wasser!",
+      "teaser": "Es ist das schlimmste, was in einem Sommer wie diesem passieren kann. Kein Wasser!",
+      "url": "https://www.bild.de/regional/hannover/hamburg-aktuell/bakterien-alarm-seit-einer-woche-ist-die-gemeinde-gleidingen-ohne-wasser-jetzt-s-81159476.bild.html",
+      "image_title": "Bakterien-Alarm! Jetzt schickt der Katastrophenschutz Tankwagen: 10 Tage ohne Wasser!"
+    },
+    {
+      "title": "Sandra und Sascha Czok : Lieber Liebe, als Peitschen & Hiebe",
+      "teaser": "Die Ehe ist hart – aber DAS war zu hart für die frisch Vermählten!",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/sandra-und-sascha-czok-lieber-liebe-als-peitschen-hiebe-81155806.bild.html",
+      "image_title": "Sandra und Sascha Czok: Lieber Liebe, als Peitschen & Hiebe"
+    },
+    {
+      "title": "Mirja Boes ist raus : Der Henssler macht’s jetzt mit Jana Ina",
+      "url": "https://www.bild.de/unterhaltung/leute/leute/jana-ina-zarrella-moderatorin-ersetzt-mirja-boes-bei-grill-den-henssler-81164346.bild.html",
+      "image_title": "Jana Ina Zarrella: Moderatorin ersetzt Mirja Boes bei „Grill den Henssler“"
+    },
+    {
+      "title": "Hier haben Haufen oberste Priorität : Bürgermeisterin fordert DNS-Kartei – für Hunde!",
+      "teaser": "Halter, die Hundehaufen nicht wegmachen, sollen in Weilerswist bald aufgespürt werden können.",
+      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/hundehaufen-problem-in-weilerswist-buergermeisterin-fordert-dns-kartei-fuer-hund-81157204.bild.html",
+      "image_title": "Hundehaufen-Problem in Weilerswist: Bürgermeisterin fordert DNS-Kartei für Hunde"
+    },
+    {
+      "title": "Transfer jetzt offiziell : Darum ist Kölns „Easy“-Deal fahrlässig",
+      "teaser": "Kurioser Köln-Transfer. Trotz größter Verletzungs-Not gibt der FC seinen Verteidiger ab.....",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-italiener-feiern-schon-darum-ist-koelns-ehizibue-deal-fahrlaessig-81158750.bild.html",
+      "image_title": "1. FC Köln: Transfer offiziell: Darum ist Kölns Ehizibue-Deal fahrlässig"
+    },
+    {
+      "title": "Vollsperrung auf A 38 : Lkw übersieht Auto – zwei Menschen verletzt",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/vollsperrung-auf-a-38-lkw-uebersieht-auto-zwei-menschen-verletzt-81161828.bild.html",
+      "image_title": "Vollsperrung auf A 38: Lkw übersieht Auto – zwei Menschen verletzt"
+    },
+    {
+      "title": "Pokal-Kracher in Leipzig : Teutonia-Trainer hofft auf sensationellen Tag",
+      "teaser": "Für Teutonia-Trainer David Bergner wird der Pokal-Hit Dienstag in Leipzig zum Heimspiel.",
+      "url": "https://www.bild.de/sport/fussball/dfb-pokal/pokal-kracher-in-leipzig-teutonia-trainer-hofft-auf-sensationellen-tag-81156156.bild.html",
+      "image_title": "Pokal-Kracher in Leipzig: Teutonia-Trainer hofft auf sensationellen Tag"
+    },
+    {
+      "title": "Stau auf der A 14 : Lkw kippt um – Fahrer (63) schwer verletzt",
+      "teaser": "Ein Lkw-Fahrer verunglückte in Fahrtrichtung Magdeburg schwer. Bei Taucha gibt es Stau.",
+      "url": "https://www.bild.de/regional/leipzig/thueringen-aktuell/unfall-auf-der-a-14-lkw-kracht-durch-leitplanke-fahrer-schwer-verletzt-81160476.bild.html",
+      "image_title": "Unfall auf der A 14: Lkw kracht durch Leitplanke – Fahrer schwer verletzt"
+    },
+    {
+      "title": "Nur 5 Tore in 6 Spielen : Hansa-Offensive fehlt der letzte Kick",
+      "url": "https://www.bild.de/sport/fussball/hansa-rostock/nur-5-tore-in-6-spielen-offensive-von-hansa-rostock-lahmt-81154366.bild.html",
+      "image_title": "Nur 5 Tore in 6 Spielen: Offensive von Hansa Rostock lahmt"
+    },
+    {
+      "title": "Lena wieder da : Elfjährige wurde nach Besuch auf Spielplatz vermisst",
+      "teaser": "Seit Sonntag wurde die 11-jährige Lena vermisst, am Montag meldete sie sich wohlbehalten zurück.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/maedchen-vermisst-elfjaehrige-lena-seit-besuch-auf-spielplatz-vermisst-81149052.bild.html",
+      "image_title": "Mädchen wurde vermisst: Elfjährige Lena wieder da"
+    },
+    {
+      "title": "Auf Anordnung der Polizei : Autos wenden in Rettungsgasse",
+      "teaser": "Suckow – Nach einem Unfall auf der A 24 bei Suckow (Mecklenburg-Vorpommern) wendeten za...",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-autos-wenden-auf-a-24-in-rettungsgasse-81145182.bild.html",
+      "image_title": "Unfall: Autos wenden auf A 24 in Rettungsgasse"
+    },
+    {
+      "title": "Alpenwanderung : Frau (55) stürzt ab und stirbt",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/alpenwanderung-frau-55-stuerzt-ab-und-stirbt-81165884.bild.html",
+      "image_title": "Alpenwanderung: Frau (55) stürzt ab und stirbt"
+    },
+    {
+      "title": "Vermisster Deutscher in der Schweiz : Leiche nach 32 Jahren entdeckt",
+      "teaser": "Rund 32 Jahre nach seinem Verschwinden wurde die Leiche eines Deutschen entdeckt.",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/deutscher-auf-gletscher-vermisst-leiche-nach-32-jahre-entdeckt-81163534.bild.html",
+      "image_title": "Schweizer Alpen: Leiche von vermisstem Deutschen gefunden – nach 32 Jahren!"
+    },
+    {
+      "title": "Im Südwesten : Naturschützer sammeln Daten zu Nosferatu-Spinne",
+      "teaser": "Die Nosferatu Spinne wird in Baden-Württemberg immer häufiger gesichtet.",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/naturschuetzer-sammeln-daten-immer-mehr-nosferatu-spinnen-im-suedwesten-81161750.bild.html",
+      "image_title": "Naturschützer sammeln Daten: Immer mehr Nosferatu-Spinnen im Südwesten"
+    },
+    {
+      "title": "Polizei verwarnt Falschparker der ganz besonderen Art : „Aug'n zuadruckt hobt's“",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/viraler-hit-polizei-verwarnt-falschparker-in-dinkelsbuehl-81160444.bild.html",
+      "image_title": "Dinkelsbühl: Viraler Hit – Polizei verwarnt Falschparker"
+    },
+    {
+      "title": "„Bauer sucht Frau“-Paar Josef und Narumol : Wir sind noch lange nicht fick und fertig",
+      "teaser": "Kult-Paar der Herzen: Josef (59) und seine Narumol (57) wollen sich noch einmal Ja sagen!",
+      "url": "https://www.bild.de/unterhaltung/leute/leute/bauer-sucht-frau-stars-josef-und-narumol-kult-paar-will-wieder-heiraten-81156914.bild.html",
+      "image_title": "„Bauer sucht Frau“-Stars Josef und Narumol: Kult-Paar will wieder heiraten"
+    },
+    {
+      "title": "Psychologin & Internistin : Nürnbergerinnen schreiben Long Covid-Ratgeber",
+      "teaser": "Nürnberg – Das Buch „Mit Long Covid zurück ins Leben“ soll Betroffenen helfen.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/psychologin-internistin-long-covid-ratgeber-veroeffentlicht-81155874.bild.html",
+      "image_title": "Psychologin & Internistin: Long Covid-Ratgeber veröffentlicht"
+    },
+    {
+      "title": "Hagener Ordnungsamts-Mann gesteht vor Gericht : Prostituierten-Jäger steckte einen (Haufen Geld) weg",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hagen-prostituierten-jaeger-der-stadt-steckte-einen-haufen-geld-weg-81160884.bild.html",
+      "image_title": "Hagen: Prostituierten-Jäger der Stadt steckte einen Haufen Geld weg"
+    },
+    {
+      "title": "Malte C. außer Lebensgefahr : Er verteidigte CSD-Teilnehmer – Krankenhaus!",
+      "teaser": "Der am Samstag ins Krankenhaus eingelieferte Mann ist laut Polizei außer Lebensgefahr.",
+      "url": "https://www.bild.de/lgbt/2022/lgbt/ausser-lebensgefahr-malte-verteidigte-csd-teilnehmer-und-wurde-selbst-zum-opfer-81153662.bild.html",
+      "image_title": "Außer Lebensgefahr: Malte verteidigte CSD-Teilnehmer und wurde selbst zum Opfer"
+    },
+    {
+      "title": "Ablöse von 15 bis 20 Mio Euro im Gespräch : Meunier vor Barca-Biege?",
+      "teaser": "Der 1. Transfer-Kandidat steht vorm BVB-Abflug! Wie spanische Medien berichten, soll sich Rechtsverteidiger Thomas Meunier (30) mit ...",
+      "url": "https://www.bild.de/sport/fussball/borussia-dortmund/bvb-abloese-15-bis-20-mio-euro-meunier-vor-barca-biege-81162850.bild.html",
+      "image_title": "BVB: Ablöse 15 bis 20 Mio Euro: Meunier vor Barca-Biege"
+    },
+    {
+      "title": "Im Saarbrücker Rathaus : EC-Karten-Dieb klaut 90-Jähriger 2000 Euro",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/saarbruecken-gangster-klaut-90-jaehriger-2000-euro-81161348.bild.html",
+      "image_title": "Saarbrücken: Gangster klaut 90-Jähriger 2000 Euro"
+    },
+    {
+      "title": "Zufriedenheitsstudie unter Bundesländern : HIER sind die Menschen am frustriertesten!",
+      "teaser": "Bei einer aktuellen Zufriedenheitsstudie schneidet das Bundesland extrem schlecht ab.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/zufriedenheitsstudie-keiner-ist-so-frustriert-wie-die-saarlaender-81155144.bild.html",
+      "image_title": "Zufriedenheitsstudie unter Bundesländern: HIER sind die Menschen am frustriertesten!"
+    },
+    {
+      "title": "Häkeln statt frieren : Bommel-Bande bekämpft Bibber-Winter",
+      "teaser": "Dank der Benders aus dem saarländischen Altforweiler kann jeder der Energiekrise trotzen.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/haekeln-statt-frieren-bommel-bande-bekaempft-bibber-winter-81152408.bild.html",
+      "image_title": "Häkeln statt frieren: Bommel-Bande bekämpft Bibber-Winter"
+    },
+    {
+      "title": "Identität bestätigt : Leiche aus See ist vermisster Stehpaddler",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-leiche-aus-badesee-ist-vermisster-stand-up-paddler-81165186.bild.html",
+      "image_title": "Sachsen-Anhalt: Leiche aus Badesee ist vermisster Stand-up-Paddler"
+    },
+    {
+      "title": "Auf Saale und Bode : Millionen-Investition in den Wasser-Tourismus",
+      "teaser": "Weil zuletzt jeder Tourist pro Tag durchschnittlich 70 Euro daließ, will der Salzlandkreis nun klotzen.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/auf-saale-und-bode-millionen-investition-in-den-wasser-tourismus-81158198.bild.html",
+      "image_title": "Auf Saale und Bode: Millionen-Investition in den Wasser-Tourismus"
+    },
+    {
+      "title": "Vier Tote bei Horror-Feuer in Apolda : Verdächtiger Brandstifter (35) festgenommen",
+      "teaser": "Grausame Neuigkeiten! Mindestens vier Menschen starben bei dem Brand in Thüringen.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/brand-in-apolda-weitere-todesopfer-vermutet-polizei-geht-von-brandstiftung-aus-81151250.bild.html",
+      "image_title": "Brand in Apolda: Weitere Todesopfer vermutet – Polizei geht von Brandstiftung aus"
+    },
+    {
+      "title": "Übergriff auf Parkbank : Polizei rettet 15-Jährige vor Sex-Gangster",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mannheim-polizei-rettet-15-jaehrige-vor-sex-gangster-81162826.bild.html",
+      "image_title": "Mannheim: Polizei rettet 15-Jährige vor Sex-Gangster"
+    },
+    {
+      "title": "Von 0 auf 100 in unter 1,5 Sekunden : Super-Flitzer von der Uni soll Weltrekord knacken",
+      "teaser": "Studenten aus Stuttgart wollen mit selbstgebauten Flitzer ins Guinness-Buch der Rekorde.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/von-0-auf-100-in-unter-1-5-sekunden-super-flitzer-soll-rekord-knacken-81139926.bild.html",
+      "image_title": "Von 0 auf 100 in unter 1,5 Sekunden: Super-Flitzer soll Rekord knacken"
+    },
+    {
+      "title": "Mitmachen! 1000 Euro gewinnen! : BILD sucht Sommer-Girl & -Boy",
+      "teaser": "DIE Gute-Laune-Aktion des Sommers! Mitmachen und Foto an 1414@bild.de schicken.",
+      "url": "https://www.bild.de/lifestyle/2022/leserreporter/1000-euro-und-shooting-gewinnen-bild-sucht-sommer-girl-und-sommer-boy-80457220.bild.html",
+      "image_title": "1000 Euro und Shooting gewinnen: BILD sucht Sommer-Girl und Sommer-Boy"
+    },
+    {
+      "title": "17-Jährige wurde vermisst : Saskia ist wieder Zuhause!",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/vermisst-saskia-bitte-komm-heim-junge-frau-17-aus-thueringen-verschwunden-81147948.bild.html",
+      "image_title": "Thüringen: Saskia wurde vermisst – Jetzt ist die junge Frau (17) wieder da"
+    },
+    {
+      "title": "Havarie in Erfurt : Ferien verlängert, weil Schule unter Wasser",
+      "teaser": "Für die Schüler des Albert-Schweitzer-Gymnasiums gab es am Montag einen zusätzlichen Ferientag wegen eines Wasserschadens.",
+      "url": "https://www.bild.de/regional/thueringen/sachsen-anhalt-news/erfurt-ferien-verlaengert-weil-schule-unter-wasser-81158256.bild.html",
+      "image_title": "Erfurt: Ferien verlängert, weil Schule unter Wasser"
+    },
+    {
+      "title": "Jenas Heimlich-Kapitän René Lange : „Wir knicken jetzt nicht ab\"",
+      "teaser": "Carl Zeiss Jena überrascht die Liga, ist nach einem Super-Start in die Saison Zweiter.",
+      "url": "https://www.bild.de/sport/fussball/fussball/jenas-heimlich-kapitaen-ren-lange-wir-knicken-jetzt-nicht-ab-81157190.bild.html",
+      "image_title": "Jenas Heimlich-Kapitän René Lange: „Wir knicken jetzt nicht ab\""
+    }
+  ]
 }
