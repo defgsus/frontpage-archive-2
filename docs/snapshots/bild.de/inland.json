@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-30T09:22:08",
+  "timestamp": "2022-08-30T10:24:33",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c14833a6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.3f4db007.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.958bca9c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ead8ee11.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.847495f8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9c823f62.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Naturschützer sammeln jetzt Daten : Immer mehr Nosferatu-Spinnen!",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/naturschuetzer-sammeln-daten-immer-mehr-nosferatu-spinnen-im-suedwesten-81161750.bild.html",
-      "image_url": "https://images.bild.de/630dd0308bd6831a3b396517/e62862b4aa70ee98128914c6bd583643,79033176?w=656",
-      "image_title": "Naturschützer sammeln Daten: Immer mehr Nosferatu-Spinnen im Südwesten"
-    },
-    {
-      "title": "Psychologin & Internistin : Nürnbergerinnen schreiben Long Covid-Ratgeber",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/psychologin-internistin-long-covid-ratgeber-veroeffentlicht-81155874.bild.html",
-      "image_url": "https://images.bild.de/630cd27decd39d4b3e75e9aa/8d4b0e3c7ba89e15eb1a2e297225cc92,858291df?w=320",
-      "image_title": "Psychologin & Internistin: Long Covid-Ratgeber veröffentlicht"
-    },
-    {
-      "title": "Vollsperrung auf A 38 : Lkw übersieht Auto – zwei Menschen verletzt",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/vollsperrung-auf-a-38-lkw-uebersieht-auto-zwei-menschen-verletzt-81161828.bild.html",
-      "image_url": "https://images.bild.de/630dc9daa326bf5998627855/35caebadab5c19104973ce139e71fa76,58a3ab23?w=320",
-      "image_title": "Vollsperrung auf A 38: Lkw übersieht Auto – zwei Menschen verletzt"
-    },
-    {
-      "title": "Stau auf der A 14 : Lkw kippt um – Fahrer (63) schwer verletzt",
-      "url": "https://www.bild.de/regional/leipzig/thueringen-aktuell/unfall-auf-der-a-14-lkw-kracht-durch-leitplanke-fahrer-schwer-verletzt-81160476.bild.html",
-      "image_url": "https://images.bild.de/630db6ac8bd6831a3b3964e1/499cf2da58d3c8d40cadc2aa98a613c7,c73b2b2c?w=320",
-      "image_title": "Unfall auf der A 14: Lkw kracht durch Leitplanke – Fahrer schwer verletzt"
-    },
-    {
-      "title": "Von 0 auf 100 in unter 1,5 Sekunden : Super-Flitzer von der Uni soll Weltrekord knacken",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/von-0-auf-100-in-unter-1-5-sekunden-super-flitzer-soll-rekord-knacken-81139926.bild.html",
-      "image_url": "https://images.bild.de/630b137962de9a1dcef6ab2c/8be06a40df6c618c2cbbb98f56a4143c-miniSquare,cbfa53ac?w=320",
-      "image_title": "Von 0 auf 100 in unter 1,5 Sekunden: Super-Flitzer soll Rekord knacken"
-    },
-    {
-      "title": "Crash auf A4 : Drogen-Fahrer (42) rammt Lkw",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-auf-a4-drogen-fahrer-42-rammt-lkw-bei-eichelborn-81159730.bild.html",
-      "image_title": "Unfall auf A4: Drogen-Fahrer (42) rammt Lkw bei Eichelborn"
-    },
-    {
-      "title": "Die wohl „geilste Tankstelle von Landshut“ : Bayerns erstes Öko-Puff",
-      "teaser": "Landshut – Niederbayern macht vor, wie cool öko sein kann.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/sie-nennen-sich-die-geilste-tankstelle-von-landshut-bayerns-erstes-oeko-puff-80805786.bild.html",
-      "image_title": "Sie nennen sich „Die geilste Tankstelle von Landshut“: Bayerns erstes Öko-Puff"
-    },
-    {
-      "title": "Junger BMW-Raser muss blechen : 1000 Euro Strafe für 207 km/h",
-      "teaser": "Diesen BMW-Raser (25) kommt seine Spritztour teuer zu stehen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/a6-bei-karlsruhe-bmw-raser-muss-blechen-1000-euro-strafe-fuer-207-km-h-81159290.bild.html",
-      "image_title": "A6 bei Karlsruhe: BMW-Raser muss blechen – 1000 Euro Strafe für 207 km/h"
-    },
-    {
-      "title": "Vier Gehirn-OPs! : Taube Larissa (29) will Miss Germany werden",
-      "teaser": "Sie wäre die erste Miss Germany mit Schwerbehindertenausweis: Larissa Käfer.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/vier-gehirn-ops-larissa-xx-81103392.bild.html",
-      "image_title": "Vier Gehirn-OPs!: Taube Larissa (29) will Miss Germany werden"
-    },
-    {
-      "title": "Ausgrabung in Franken : Forscher finden 1400 Jahre alten Klappstuhl",
-      "teaser": "Archäologen haben einen eisernen Faltstuhl in einem Frauengrab entdeckt.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/ausgrabung-in-franken-forscher-finden-1400-jahre-alten-klappstuhl-81153590.bild.html",
-      "image_title": "Ausgrabung in Franken: Forscher finden 1400 Jahre alten Klappstuhl"
-    },
-    {
-      "title": "Sven (23) will die Nase von Brad Pitt : 15 000 Euro für einen neuen Riecher",
-      "teaser": "Sven Zieglers (23) Problem ist mitten in seinem Gesicht: seine Nase.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/mann-in-hof-will-die-nase-von-brad-pitt-15-000-euro-fuer-neuen-riecher-81155334.bild.html",
-      "image_title": "Mann in Hof will die Nase von Brad Pitt: 15 000 Euro für neuen Riecher"
-    },
-    {
-      "title": "Sie verwüstete Vorgärten : Randale-Wölfin jetzt mit Verstärkung unterwegs",
-      "teaser": "Wo vorher zwei Augen aus der Dunkelheit in die Wildkamera gefunkelt haben, sind jetzt vier.",
-      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/liebschuetzberg-randale-woelfin-jetzt-mit-verstaerkung-unterwegs-81158154.bild.html",
-      "image_title": "Tiere: Randale-Wölfin jetzt mit Verstärkung unterwegs"
-    },
-    {
-      "title": "Lehrermangel immer dramatischer : Jetzt sollen schon Eltern in Schulen aushelfen",
-      "teaser": "Letzte Woche waren es noch Zahlen auf dem Papier, zum Schulstart am Montag bittere Realität.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/lehrermangel-in-sachsen-jetzt-sollen-schon-eltern-in-schulen-aushelfen-81158310.bild.html",
-      "image_title": "Lehrermangel in Sachsen: Jetzt sollen schon Eltern in Schulen aushelfen"
-    },
-    {
-      "title": "Vier Tote bei Horror-Feuer in Apolda : Verdächtiger Brandstifter (35) festgenommen",
-      "teaser": "Grausame Neuigkeiten! Mindestens vier Menschen starben bei dem Brand in Thüringen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/brand-in-apolda-weitere-todesopfer-vermutet-polizei-geht-von-brandstiftung-aus-81151250.bild.html",
-      "image_title": "Brand in Apolda: Weitere Todesopfer vermutet – Polizei geht von Brandstiftung aus"
-    },
-    {
-      "title": "Lena wieder da : Elfjährige wurde nach Besuch auf Spielplatz vermisst",
-      "teaser": "Seit Sonntag wurde die 11-jährige Lena vermisst, am Montag meldete sie sich wohlbehalten zurück.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/maedchen-vermisst-elfjaehrige-lena-seit-besuch-auf-spielplatz-vermisst-81149052.bild.html",
-      "image_title": "Mädchen wurde vermisst: Elfjährige Lena wieder da"
-    },
-    {
-      "title": "Sie gaukelt Geliebten schwere Krankheiten vor : Falsches Model zockte Männer auf Flirtportal ab",
-      "teaser": "Gleich neunmal hat die heute 21-jährige Linda S. aus Dresden liebes-hungrige junge Männer um ihr Geld erleichtert.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-falsches-model-zockte-maenner-auf-flirtportal-ab-81157636.bild.html",
-      "image_title": "Dresden: Falsches Model zockte Männer auf Flirtportal ab"
-    },
-    {
-      "title": "Vier Tote bei Feuer in Mehrfamilienhaus : „Die Schreie der Mieter werde ich nie wieder vergessen“",
-      "teaser": "Die verzweifelten Schreie der Menschen, die im Feuer eingeschlossen waren, werden ihr wohl nie wieder aus dem Kopf gehen",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/feuer-in-apolda-die-schreie-der-mieter-werde-ich-nie-wieder-vergessen-81156940.bild.html",
-      "image_title": "Feuer in Apolda: „Die Schreie der Mieter werde ich nie wieder vergessen“"
-    },
-    {
-      "title": "15 000 Euro erbeutet : Polizei sucht diesen Betrüger",
-      "teaser": "Mit diesem Bild wird nach einem Mann gefahndet, der 15 000 Euro von Rentnern ergaunerte.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-polizei-sucht-diesen-rentner-betrueger-81156500.bild.html",
-      "image_title": "Sachsen: Polizei sucht diesen Rentner-Betrüger"
-    },
-    {
-      "title": "Bis zu 2000 Euro : Erster Chef zahlt Mitarbeitern die Energiekosten",
-      "teaser": "Die Energiekosten steigen rasant. Viele wissen nicht, wie sie ab 2023 ihre Nebenkosten zahlen sollen. Dieser Firmenchef hilft seinen Mitarbeitern.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-erster-chef-zahlt-mitarbeitern-die-energiekosten-81146270.bild.html",
-      "image_title": "Sachsen: Erster Chef zahlt Mitarbeitern die Energiekosten"
-    },
-    {
-      "title": "Er hatte 2,7 Promille im Blut : Suff-Raser brettert in Biker und Auto – Polizist tot!",
-      "teaser": "Horror-Crash am Sonntagabend bei Berlin. Auf der A10 wurde ein Biker tödlich verletzt.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/horror-unfall-bei-berlin-raser-brettert-ueber-a10-biker-stirbt-81147992.bild.html",
-      "image_title": "Horror-Unfall bei Berlin: Raser brettert über A10 – Biker stirbt"
-    },
-    {
-      "title": "Lavinia (7) von Garten-Statue erschlagen : Jetzt ermittelt die Staatsanwaltschaft",
-      "teaser": "Nach Lavinias Tod hat die Staatsanwaltschaft ein Todesermittlungsverfahren eingeleitet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-nach-tod-von-lavinia-7-jetzt-ermittelt-die-staatsanwaltschaft-81152444.bild.html",
-      "image_title": "München – Nach Tod von Lavinia (7): Jetzt ermittelt die Staatsanwaltschaft"
-    },
-    {
-      "title": "Bizarre Polizei-Fahndung : Wem gehört das Flucht-Schaf?",
-      "teaser": "Schaf-Alarm im Landkreis Bad Tölz-Wolfratshausen! Wem gehört dieses Tier?",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/polizei-fahndung-in-bad-toelz-wolfratshausen-wem-gehoert-das-schaf-81149724.bild.html",
-      "image_title": "Polizei-Fahndung in Bad Tölz-Wolfratshausen!: Wem gehört das Schaf?"
-    },
-    {
-      "title": "Polizisten-Tochter (16) ermordet : Ecstasy-Trick, Wodkaflaschen-Attacke, 6 brutale Messerstiche",
-      "teaser": "Der Angeklagte und die zierliche Schülerin waren mal ein Paar. Jetzt sind sie vor Gericht.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/polizisten-tochter-brutal-erstochen-prozess-in-memmingen-gestartet-81150342.bild.html",
-      "image_title": "Polizisten-Tochter brutal erstochen: Prozess in Memmingen gestartet"
-    },
-    {
-      "title": "Crash in Sachsen : Transporter kracht rückwärts in Restaurant",
-      "teaser": "Durch und gegen das Ristorante Romantica am Markt in Werdau ist ein Transporter gerollt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/crash-in-sachsen-transporter-kracht-rueckwaerts-in-restaurant-81150090.bild.html",
-      "image_title": "Crash in Sachsen: Transporter kracht rückwärts in Restaurant"
-    },
-    {
-      "title": "Beim Feiern verschwunden : Jaqueline ist wieder da!",
-      "teaser": "Die 30-Jährige verschwand beim Mädels-Abend in Kassel. Jetzt war die Fahndung erfolgreich.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/30-jaehrige-vermisst-jaqueline-verschwand-beim-maedels-abend-81147938.bild.html",
-      "image_title": "Beim Feiern verschwunden: Jaqueline ist wieder da!"
-    },
-    {
-      "title": "Wetterexperte verrät : So kalt wird der Winter 2022",
-      "url": "https://www.bild.de/video/clip/video/nach-dem-teuer-schock-milder-sparwinter-macht-hoffnung-81161584.bild.html",
-      "image_title": "Nach dem Teuer-Schock: Milder Sparwinter macht Hoffnung"
-    },
-    {
-      "title": "Größter Schlachthofskandal : „Das Monster von Bad Iburg“ vor Gericht",
-      "url": "https://www.bild.de/video/clip/news/groesster-schlachthofskandal-das-monster-von-bad-iburg-vor-gericht-81149872.bild.html",
-      "image_title": "Größter Schlachthofskandal: „Das Monster von Bad Iburg“ vor Gericht"
-    },
-    {
-      "title": "Hitze vorbei? : So wird das Wetter zum Herbstanfang",
-      "url": "https://www.bild.de/video/clip/video/hitze-vorbei-so-wird-das-wetter-zum-herbstanfang-81148522.bild.html",
-      "image_title": "Hitze vorbei?: So wird das Wetter zum Herbstanfang"
-    }
-  ]
+  "articles": []
 }
