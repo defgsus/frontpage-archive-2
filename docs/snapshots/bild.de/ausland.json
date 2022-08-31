@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-08-31T11:19:18",
+  "timestamp": "2022-08-31T12:49:23",
   "url": "https://www.bild.de/news/ausland/news-ausland/home-15681774.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.349e3d03.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a1ee8524.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.958bca9c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.ead8ee11.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.847495f8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9c823f62.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Minuten nach dem Abflug : Deutsche Familie stürzt mit Flugzeug in Namibia ab",
-      "url": "https://www.bild.de/news/ausland/news-ausland/namibia-deutsche-familie-stirbt-bei-flugzeugabsturz-ueber-nationalpark-81173574.bild.html",
-      "image_url": "https://images.bild.de/630f107469479f178aa8a321/61b0bad4d018b097f04c7a70d786f8e5,7a354906?w=656",
-      "image_title": "Namibia: Deutsche Familie stirbt bei Flugzeugabsturz über Nationalpark"
-    },
-    {
-      "title": "10 Kilo Crystal Meth im Koffer entdeckt : Deutsche Drogen-Rentner in Australien angeklagt",
-      "url": "https://www.bild.de/news/ausland/news-ausland/deutsche-rentner-in-australien-angeklagt-sie-hatten-10-kilo-crystal-meth-im-gepa-81172432.bild.html",
-      "image_url": "https://images.bild.de/630ef90b6d7ee5556a9c98c8/fba050a58abb3b615b62afa7f75aef5b,fdcad4b6?w=320",
-      "image_title": "Deutsche Rentner in Australien angeklagt – sie hatten 10 Kilo Crystal Meth im Gepäck"
-    },
-    {
-      "title": "Ketchup-Crash in Kalifornien : 150 000 Tomaten, mehrere Unfälle, vier Verletzte",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-unfall-mit-150000-tomaten-in-kalifornien-ketchup-crash-auf-dem-highway-81172352.bild.html",
-      "image_url": "https://images.bild.de/630ef5bcd166e1034ca0890a/6c9d20579ab83b16066343896a6b1184,350f6c19?w=320",
-      "image_title": "USA: Unfall mit 150 000 Tomaten in Kalifornien! Ketchup-Crash auf dem Highway"
-    },
-    {
-      "title": "US-Häftling angeklagt : Mord an Claire (†20) nach 36 Jahren aufgeklärt",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-cold-case-um-mord-an-claire-gravel-vor-aufklaerung-us-haeftling-angeklagt-81173458.bild.html",
-      "image_url": "https://images.bild.de/630f0d18e892b76e68e4f3e7/87e83eeb00b94192381f42fe0fe14614,49b3e02d?w=320",
-      "image_title": "USA: Cold Case um Mord an Claire Gravel vor Aufklärung – US-Häftling angeklagt!"
-    },
-    {
-      "title": "Chefermittlerin im Fall um Leon (†6) : „Schnelle Lösung wie im TV-Krimi gibt es nicht“",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/tirol-chefermittlerin-im-fall-leon-6-schnelle-loesung-wie-im-tv-gibt-es-nicht-81172270.bild.html",
-      "image_url": "https://images.bild.de/630ef8cda7fb985a30a6978b/949d95eaaf6cc906d830c1f3adc0793e,cf55d7a8?w=320",
-      "image_title": "Tirol: Chefermittlerin im Fall Leon (†6): „Schnelle Lösung wie im TV gibt es nicht“"
-    },
-    {
-      "title": "Lkw kracht in Grillparty, tötet Familie : „Fahrer nahm die Hände vom Steuer und gab Gas“",
-      "url": "https://www.bild.de/news/ausland/news-ausland/lkw-kracht-in-grillparty-toetet-familie-fahrer-nahm-die-haende-vom-steuer-und-ga-81146182.bild.html",
-      "image_title": "Lkw kracht in Grillparty, tötet Familie: „Fahrer nahm die Hände vom Steuer und gab Gas“"
-    },
-    {
-      "title": "Rätsel um den Tod des kleinen Leon (†6) : Was geschah Sonntagmorgen im österreichischen Idyll?",
-      "teaser": "Der tragische Fall wirft immer mehr Fragen auf – was geschah am vergangenen Sonntagmorgen?",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/drama-um-kleinen-leon-6-freunde-von-familie-zweifeln-an-raubueberfall-81170808.bild.html",
-      "image_title": "Rätsel um den Tod des kleinen Leon (†6): Was geschah Sonntagmorgen im österreichischen Idyll?"
-    },
-    {
-      "title": "Aliens oder doch die US-Space Force? : Forscher entdecken UFOs über der Ukraine",
-      "teaser": "Astronomen entdeckten unbekannte Flugobjekte (UFOs oder auch UAP) über der Ukraine.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/aliens-oder-doch-die-us-space-force-forscher-entdecken-ufos-ueber-der-ukraine-81169560.bild.html",
-      "image_title": "Aliens oder doch die US-Space Force?: Forscher entdecken UFOs über der Ukraine"
-    },
-    {
-      "title": "Fahndung in Ho : Deutscher (33) bei Wohnungs-Verkauf getötet",
-      "teaser": "Grausames Verbrechen im deutsch-niederländischen Grenzgebiet.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/holland-deutscher-33-bei-wohnungs-verkauf-getoetet-polizei-fahndet-nach-diesen-t-81171942.bild.html",
-      "image_title": "Holland: Deutscher (33) bei Wohnungs-Verkauf getötet – Polizei fahndet nach DIESEN Tätern"
-    },
-    {
-      "title": "Weil er Junges klauen wollte : Zoo-Löwe zerfleischt Einbrecher",
-      "teaser": "Blut-Drama im Zoo von Accra (Ghana)! Ein Löwe hat einen Einbrecher zerfleischt.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/zoo-loewe-zerfleischt-einbrecher-weil-er-junges-klauen-wollte-81169200.bild.html",
-      "image_title": "Zoo-Löwe zerfleischt Einbrecher, weil er Junges klauen wollte"
-    },
-    {
-      "title": "Vermisster Deutscher in der Schweiz : Leiche nach 32 Jahren entdeckt",
-      "teaser": "Rund 32 Jahre nach seinem Verschwinden wurde die Leiche eines Deutschen entdeckt.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/deutscher-auf-gletscher-vermisst-leiche-nach-32-jahre-entdeckt-81163534.bild.html",
-      "image_title": "Schweizer Alpen: Leiche von vermisstem Deutschen gefunden – nach 32 Jahren!"
-    },
-    {
-      "title": "Unter Mordverdacht abgetaucht : Interpol jagt deutschen Diplomaten",
-      "teaser": "Der deutsche Diplomat soll in Rio de Janeiro seinen Ehemann erschlagen haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/brasilien-deutscher-diplomat-unter-mordverdacht-jetzt-sucht-ihn-interpol-81159456.bild.html",
-      "image_title": "Brasilien: Deutscher Diplomat unter Mordverdacht! Jetzt sucht ihn Interpol"
-    },
-    {
-      "title": "Lebenslänglich für Mutter aus Florida : Sie ließ ihr 18 Monate altes Baby verhungern",
-      "teaser": "Sheila O’Leary hat noch vier weitere Kinder, die alle unterernährt waren.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/mord-in-den-usa-mutter-liess-18-monate-altes-baby-verhungern-81162370.bild.html",
-      "image_title": "Mord in den USA: Mutter ließ 18 Monate altes Baby verhungern"
-    },
-    {
-      "title": "Vater niedergeschlagen, Leon (6) ertrinkt : LKA-Chefin: „Der Bub war von Was­ser fasziniert“",
-      "teaser": "Florian P. (37) wurde niedergeschlagen, dann ertrank sein Sohn in der nahe gelegenen Ache.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/tirol-vater-ueberfallen-leon-6-ertrinkt-lka-chefin-der-bub-war-von-wasser-faszin-81162702.bild.html",
-      "image_title": "Tirol: Vater überfallen, Leon (6) ertrinkt: LKA-Chefin: „Der Bub war von Was­ser fasziniert“"
-    },
-    {
-      "title": "Nach Brand und Havarie : 299 Menschen von Pannen-Fähre gerettet",
-      "teaser": "Zuerst brannte es, dann fiel der Strom aus – und das Schiff trieb Richtung Küste ab!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/nynaeshamn-nach-brand-und-havarie-299-menschen-von-pannen-faehre-gerettet-81160432.bild.html",
-      "image_title": "Nynäshamn – Nach Brand und Havarie: 299 Menschen von Pannen-Fähre gerettet"
-    },
-    {
-      "title": "Ihm galt die Kugel, die Olivia (9) tötete : Entschuldigt sich hier die Familie des Einbrechers?",
-      "teaser": "In dem Blumenmeer in Liverpool gibt es eine Beileidskarte, die auffällt ...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/liverpool-olivia-9-tot-entschuldigt-sich-hier-die-familie-des-einbrechers-81160976.bild.html",
-      "image_title": "Liverpool: Olivia (9) tot – entschuldigt sich hier die Familie des Einbrechers?"
-    },
-    {
-      "title": "Größter Dinosaurier-Fund Europas? : Riesiges Skelett in Portugal ausgegraben",
-      "teaser": "Bei dem Fund in Pombal in Portugal handele es sich vermutlich um einen Sauropoden.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/dinosaurier-riesiges-skelett-in-portugal-ausgegraben-81157616.bild.html",
-      "image_title": "Dinosaurier: Riesiges Skelett in Portugal ausgegraben"
-    },
-    {
-      "title": "Er hatte einen Zellengenossen erwürgt : Todestrakt-Insasse (45) tot aufgefunden",
-      "teaser": "Patrick Schroeder hatte im Knast seinen Zellengenossen getötet, weil der ihm zu viel quasselte.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/im-us-staat-nebraska-todestrakt-insasse-45-tot-aufgefunden-81159310.bild.html",
-      "image_title": "Im US-Staat Nebraska: Todestrakt-Insasse (45) tot aufgefunden"
-    },
-    {
-      "title": "Deutscher Konsul in Brasilien unter Mordverdacht : Starb der Ehemann beim Sadomaso-Sex?",
-      "teaser": "Der Diplomat steht unter Verdacht, seinen Ehemann Walter B. (52) getötet zu haben.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/starb-der-ehemann-beim-sadomaso-sex-deutscher-konsul-unter-mordverdacht-80949248.bild.html",
-      "image_title": "Starb der Ehemann beim Sadomaso-Sex?:Deutscher Konsul unter Mordverdacht"
-    },
-    {
-      "title": "Verbrechen in Tirol : Ihr letzter Nacht-Spaziergang endete tödlich",
-      "teaser": "Florian A. (37) war in Tirol mit seinem kleinen Sohn (6) im Morgengrauen unterwegs.",
-      "url": "https://www.bild.de/bild-plus/news/ausland/news-ausland/verbrechen-in-tirol-ihr-letzter-nacht-spaziergang-endete-toedlich-81158292.bild.html",
-      "image_title": "Verbrechen in Tirol: Ihr letzter Nacht-Spaziergang endete tödlich"
-    },
-    {
-      "title": "Verbrechen in Tirol : Leon ertrank, nachdem sein Papa überfallen wurde",
-      "teaser": "Ein deutscher Vater war in Tirol mit seinem kleinen Sohn (6) im Morgengrauen unterwegs.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/tirol-vater-nach-schlag-mit-flasche-bewusstlos-todesraetsel-um-jungen-6-im-fluss-81154516.bild.html",
-      "image_title": "Tirol: Vater nach Schlag mit Flasche bewusstlos: Todesrätsel um Jungen (†6) im Fluss"
-    },
-    {
-      "title": "Intelligenztest beweist : Kevin (11) hat einen höheren IQ als Einstein!",
-      "teaser": "Eltern halten ihre Kinder oft für Genies, Kevin Sweeneys Papa hat dazu allen Grund.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/intelligenztest-beweist-kevin-sweeney-11-hat-hoeheren-iq-als-einstein-und-hawkin-81149364.bild.html",
-      "image_title": "Intelligenztest beweist: Kevin Sweeney (11) hat höheren IQ als Einstein und Hawking"
-    },
-    {
-      "title": "Noella ist 10 Jahre alt : Jüngstes Transgender-Model bei Fashion Week",
-      "teaser": "New York – Es ist einfach unbegreiflich: 10 Jahre jung, transgender und auf den Laufste...",
-      "url": "https://www.bild.de/news/ausland/news-ausland/noella-mcmaher-10-jaehriges-transgender-model-laeuft-bei-fashion-week-81145878.bild.html",
-      "image_title": "Noella McMaher: 10-jähriges Transgender-Model läuft bei Fashion Week"
-    },
-    {
-      "title": "Die meisten werden an Delfinarien verkauft : Japan beginnt Delfin-Jagd",
-      "teaser": "Sobald Fischer Delfine ausgemacht haben, treiben sie die Meeressäuger in einer Bucht zusammen.",
-      "url": "https://www.bild.de/news/ausland/news-ausland/japan-beginnt-delfin-jagd-die-meisten-werden-an-delfinarien-verkauft-81149382.bild.html",
-      "image_title": "Japan beginnt Delfin-Jagd: Die meisten werden an Delfinarien verkauft"
-    },
-    {
-      "title": "Für 100 000 Dollar : Ekel-Opa (85) will Mutter ihre Tochter (8) abkaufen",
-      "teaser": "In Florida bot ein Mann 100 000 Dollar für ein Kind – auf einem Supermarkt-Parkplatz! Festnahme!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/usa-sexualstraftaeter-85-bietet-mutter-vor-supermarkt-100000-dollar-fuer-tochter-81148484.bild.html",
-      "image_title": "USA: Sexualstraftäter (85) bietet Mutter vor Supermarkt 100 000 Dollar für Tochter (8)"
-    },
-    {
-      "title": "Gegenoffensive : Ukraine schlägt im Süden zurück",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/video-630ddd3ea326bf5998627899-81162814.bild.html",
-      "image_title": "Gegenoffensive: Ukraine schlägt im Süden zurück"
-    },
-    {
-      "title": "Kurz nach dem Auslaufen : Größtes Briten-Kriegsschiff hat Mega-Panne",
-      "url": "https://www.bild.de/video/clip/news-ausland/kurz-nach-dem-auslaufen-groesstes-briten-kriegsschiff-hat-mega-panne-81159250.bild.html",
-      "image_title": "Kurz nach dem Auslaufen: Größtes Briten-Kriegsschiff hat Mega-Panne"
-    },
-    {
-      "title": "Beim Müllrausbringen : Mann versucht Mädchen (6) zu entführen",
-      "url": "https://www.bild.de/video/clip/video/beim-muellrausbringen-mann-versucht-maedchen-6-zu-entfuehren-81160602.bild.html",
-      "image_title": "Beim Müllrausbringen: Mann versucht Mädchen (6) zu entführen"
-    }
-  ]
+  "articles": []
 }
