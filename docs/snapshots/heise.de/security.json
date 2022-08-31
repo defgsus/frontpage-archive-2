@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-08-31T06:57:50",
+  "timestamp": "2022-08-31T07:39:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-105-dichtet-kritische-Sicherheitsluecke-ab-7248845.html"
+    },
+    {
       "title": "Chromium-basierte Webbrowser",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Zwischenablage-in-Chromium-basierten-Browsern-frei-zugreifbar-7248070.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Luecke-in-Lexmark-Firmwares-ermoeglicht-Angreifern-das-Einnisten-7247068.html"
     },
     {
-      "title": "Nvidia Flare",
-      "url": "https://www.heise.de/news/KI-Lernsoftware-Kritische-Luecke-in-Nvidias-Flare-SDK-7246528.html"
+      "title": "zwei iX-Workshops: Incident Response (DFIR) und Penetrationstests ausschreiben",
+      "teaser": "1) Professionelle Incident-Response-Workflows implementieren, und 2) Penetrationstests: Methodik, Auswertung und Ausschreibung, mit Frühbucherrabatt.",
+      "url": "https://www.heise.de/news/zwei-iX-Workshops-Incident-Response-DFIR-und-Penetrationstests-ausschreiben-7246933.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
+    },
+    {
+      "title": "Webbrowser: Google Chrome 105 dichtet kritische Sicherheitslücke ab",
+      "teaser": "Google hat den Webbrowser Chrome auf den Stand 105 gehoben. Darin schließen die Entwickler zahlreiche Sicherheitslücken, darunter mindestens eine kritische.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-105-dichtet-kritische-Sicherheitsluecke-ab-7248845.html",
+      "image_title": "Aufmacher Kritische Sicherheitslücke in Google Chrome 105 gefixt"
     },
     {
       "title": "Sicherheitslücke: Zwischenablage in Chromium-basierten Browsern frei zugreifbar",
@@ -145,18 +157,6 @@
       "title": "Bugs in VMware-Produkten verursachen Bluescreens und Rechteausweitung",
       "teaser": "Eine Sicherheitslücke in den VMware Tools ermöglicht eine Ausweitung der Rechte in einer VM. Ein Fehler in Carbon Black brachte Windows-Systeme zum Absturz.",
       "url": "https://www.heise.de/news/Bugs-in-VMware-Produkten-verursachen-Bluescreens-und-Rechteausweitung-7242479.html"
-    },
-    {
-      "title": "Einbruch bei Plex: Daten abgezogen, Passwortänderung nötig",
-      "teaser": "Bösartige Akteure sind offenbar in die Datenbanken des Streaming-Dienstes und Medienservers Plex eingebrochen. Dort konnten sie persönliche Daten stehlen.",
-      "url": "https://www.heise.de/news/Einbruch-bei-Plex-Daten-abgezogen-Passwortaenderung-noetig-7241975.html",
-      "image_title": "Aufmacher: Eibruch bei Plex, Passwort-Reset nötig"
-    },
-    {
-      "title": "Gefährliche Lücken bedrohen Sicherheit von kritischen Infrastrukturen",
-      "teaser": "Angreifer könnten Industrie-Steuerungssysteme attackieren und im schlimmsten Fall die volle Kontrolle erlangen. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Sicherheit-von-kritischen-Infrastrukturen-7241733.html",
-      "image_title": "Raffinerie, Fabrik, Industrie"
     },
     {
       "title": "heise Security Tour 2022",
