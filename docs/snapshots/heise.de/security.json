@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-01T07:23:17",
+  "timestamp": "2022-09-01T08:30:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "GitLab",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Erneut-kritische-Sicherheitsluecke-in-GitLab-geschlossen-7250150.html"
+    },
+    {
+      "title": "zlib",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-zlib-Bibliothek-ermoeglicht-Codeschmuggel-7250044.html"
+    },
+    {
       "title": "WordPress",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennten-WordPress-Websites-attackieren-7249431.html"
     },
@@ -40,17 +48,15 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-105-dichtet-kritische-Sicherheitsluecke-ab-7248845.html"
     },
     {
-      "title": "Chromium-basierte Webbrowser",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Zwischenablage-in-Chromium-basierten-Browsern-frei-zugreifbar-7248070.html"
+      "title": "Softwareentwicklung: Erneut kritische Sicherheitslücke in GitLab geschlossen",
+      "teaser": "Angreifer könnten durch Schwachstellen in GitLab etwa trotz Zwei-Faktor-Authentifizierung Passwörter erraten oder Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Erneut-kritische-Sicherheitsluecke-in-GitLab-geschlossen-7250150.html"
     },
     {
-      "title": "Foxit PDF Editor & Reader",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Foxit-PDF-Editor-und-Reader-ermoeglichen-Codeschmuggel-7247760.html"
-    },
-    {
-      "title": "heise Security Tour \"Wissen schützt!\": Der Termin im Herbst",
-      "teaser": "Da der Online-Termin ausgebucht war, gibt es am 27. September noch mal unsere praxisrelevanten Informationen zu aktuellen Security-Themen als 1-Tages-Konferenz.",
-      "url": "https://www.heise.de/news/heise-Security-Tour-Wissen-schuetzt-Der-Termin-im-Herbst-7249483.html"
+      "title": "Kritische Lücke in zlib-Bibliothek ermöglicht Codeschmuggel",
+      "teaser": "In der weit verbreiteten Kompressionsbibliothek zlib könnten Angreifer unter Umständen Schadcode einschleusen und ausführen. Erste Patches sind verfügbar.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-zlib-Bibliothek-ermoeglicht-Codeschmuggel-7250044.html",
+      "image_title": "Aufmacher Sicherheitslücke in zlib"
     },
     {
       "title": "iX-Workshop: Angriffsziel lokales Active Directory: effiziente Absicherung",
@@ -153,12 +159,6 @@
       "title": "Präparierte HTTP-Anfragen könnten Atlassian Bitbucket Server gefährlich werden",
       "teaser": "Wichtige Sicherheitsupdates für Atlassian Bitbucket Server und Bitbucket Data Center schließen eine kritische Schadcode-Lücke.",
       "url": "https://www.heise.de/news/Praeparierte-HTTP-Anfragen-koennten-Atlassian-Bitbucket-Server-gefaehrlich-werden-7244370.html"
-    },
-    {
-      "title": "Lücken in Ciscos FXOS und NX-OS ermöglichen Übernahme der Kontrolle",
-      "teaser": "In Ciscos Router- und Firewall-Betriebssystemen FXOS und NX-OS hätten Angreifer beliebigen Code mit root-Rechten ausführen können. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Luecken-in-Ciscos-FXOS-und-NX-OS-ermoeglichen-Uebernahme-der-Kontrolle-7244032.html",
-      "image_title": "Aufmacher Sicherheitsupdates für Ciscos FXOS und NX-OS"
     },
     {
       "title": "heise Security Tour 2022",
