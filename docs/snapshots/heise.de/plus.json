@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-01T15:25:38",
+  "timestamp": "2022-09-01T16:31:46",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.24484052c50233f9290d",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.d03f85adbb8cad5a01b7",
       "id": null,
       "text": null
     }
@@ -60,6 +60,17 @@
       "url": "https://www.heise.de/tests/Raw-Entwickler-Videobearbeitung-mit-Adobe-Lightroom-Classic-im-Test-7222750.html"
     },
     {
+      "title": "Server automatisiert konfigurieren mit Salt",
+      "teaser": "Je größer ein Server-Cluster, desto aufwendiger sind Konfiguration und Wartung. Das Open-Source-Tool Salt vereinfacht Admins die Arbeit und ist sehr flexibel.",
+      "url": "https://www.heise.de/ratgeber/Server-automatisiert-konfigurieren-mit-Salt-7247950.html"
+    },
+    {
+      "title": "Glasfaseranschluss: Wie Sie rankommen und was Sie beachten müssen",
+      "teaser": "Glasfaser ist in aller Munde, immer mehr Ausbaugebiete kommen hinzu. Was gilt es für den rasanten Gigabit-Anschluss zu tun?",
+      "url": "https://www.heise.de/ratgeber/Glasfaseranschluss-Wie-Sie-rankommen-und-was-Sie-beachten-muessen-7248926.html",
+      "image_title": "Glasfaser"
+    },
+    {
       "title": "Malware-Analyse für Anfänger, Teil 1: Mit VirtualBox schnell & kostenlos starten",
       "teaser": "Schadcode in einer Windows-VM Geheimnisse zu entlocken, klappt (fast) ohne Vorwissen. Im ersten von zwei Teilen helfen wir beim Einrichten der Analyseumgebung.",
       "url": "https://www.heise.de/ratgeber/Malware-Analyse-fuer-Anfaenger-Teil-1-Mit-VirtualBox-schnell-kostenlos-starten-7242424.html"
@@ -87,7 +98,7 @@
       "image_title": ", Illustration: Edel Rodriguez"
     },
     {
-      "title": "Webcams am Mac: Extern kontra eingebaut",
+      "title": "Webcams am Mac im Test: Extern kontra eingebaut",
       "teaser": "Ob Videochat, Meeting oder Livestream: Webcams gehören zur Grundausstattung und dürfen an keinem Mac fehlen. Doch muss es eine externe sein? Unser Test zeigt's.",
       "url": "https://www.heise.de/tests/Webcams-am-Mac-Extern-kontra-eingebaut-7249504.html",
       "image_title": ","
@@ -133,17 +144,6 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-dem-Picaxe-Analoge-Eingangsspannungen-messen-koennen-7235831.html"
     },
     {
-      "title": "QR-Codes scannen: Das sind die Tricks von Kriminellen",
-      "teaser": "QR-Codes können Träger gefährlicher URLs sein. Wir erklären, welche Tricks sich Kriminelle ausgedacht haben und worauf Sie beim Scan von QR-Codes achten müssen.",
-      "url": "https://www.heise.de/hintergrund/QR-Codes-scannen-Das-sind-die-Tricks-von-Kriminellen-7242850.html"
-    },
-    {
-      "title": "Arbeiten für die KI: Clickworker erhalten 90 Cent pro Stunde",
-      "teaser": "Der Niedergang von Venezuela führte zu einer neuen Form digitaler Ausbeutung im Dienste der Künstlichen Intelligenz. Billige Gig-Worker bearbeiten Datensätze.",
-      "url": "https://www.heise.de/hintergrund/Arbeiten-fuer-die-KI-Clickworker-erhalten-90-Cent-pro-Stunde-7219329.html",
-      "image_title": ", Illustration: Edel Rodriguez"
-    },
-    {
       "title": "Solarenergie nutzenPhotovoltaik auf dem Balkon realisieren",
       "teaser": "Wir zeigen, wie aus alten Solarmodulen sinnvolle Balkonsolargeräte werden. Mit denen erzeugen Sie CO2-freien Strom.",
       "url": "https://www.heise.de/hintergrund/Upcycling-Photovoltaik-auf-dem-Balkon-realisieren-6351883.html",
@@ -166,6 +166,17 @@
     {
       "title": "Upcycling: Werkzeuge für Maker herstellen und nutzen",
       "url": "https://www.heise.de/ratgeber/Upcycling-Werkzeuge-fuer-Maker-herstellen-und-nutzen-6319834.html"
+    },
+    {
+      "title": "QR-Codes scannen: Das sind die Tricks von Kriminellen",
+      "teaser": "QR-Codes können Träger gefährlicher URLs sein. Wir erklären, welche Tricks sich Kriminelle ausgedacht haben und worauf Sie beim Scan von QR-Codes achten müssen.",
+      "url": "https://www.heise.de/hintergrund/QR-Codes-scannen-Das-sind-die-Tricks-von-Kriminellen-7242850.html"
+    },
+    {
+      "title": "Arbeiten für die KI: Clickworker erhalten 90 Cent pro Stunde",
+      "teaser": "Der Niedergang von Venezuela führte zu einer neuen Form digitaler Ausbeutung im Dienste der Künstlichen Intelligenz. Billige Gig-Worker bearbeiten Datensätze.",
+      "url": "https://www.heise.de/hintergrund/Arbeiten-fuer-die-KI-Clickworker-erhalten-90-Cent-pro-Stunde-7219329.html",
+      "image_title": ", Illustration: Edel Rodriguez"
     },
     {
       "title": "So funktioniert Cloud-Deployment mit GitHub Actions",
@@ -239,12 +250,7 @@
       "image_title": ", Olezzo, iStock.com"
     },
     {
-      "title": "Entra: Microsofts Identitätsverwaltung im Test",
-      "teaser": "Die Verbreitung von Cloud-Diensten lässt Microsoft das Thema Identitätsverwaltung strategisch angehen. Entra soll damit verbundene Herausforderungen meistern.",
-      "url": "https://www.heise.de/tests/Entra-Microsofts-Identitaetsverwaltung-im-Test-7239147.html"
-    },
-    {
-      "title": "Kabelfritz-Monitor: Die Leitungsgüte von Fritzboxen mit dem Raspi überwachen",
+      "title": "Kabelfritz-MonitorDie Leitungsgüte von Fritzboxen mit dem Raspi überwachen",
       "teaser": "Mit einem Kabelfritz-Monitor können Sie die von Fritzboxen erfassten Leitungsparameter auf einem Linux-Rechner dauerhaft speichern. Wir zeigen, wie das geht.",
       "url": "https://www.heise.de/ratgeber/Kabelfritz-Monitor-Die-Leistungsguete-von-Fritzboxen-mit-dem-Raspi-ueberwachen-7240786.html",
       "image_title": ", Thorsten Hübner"
@@ -256,10 +262,8 @@
       "image_title": ", Peterschreiber.media, stock.adobe.com; Montage: Mac &amp; i"
     },
     {
-      "title": "Internet in Haus oder WohnungFritzbox 5590 für Glasfaseranschlüsse im Test",
-      "teaser": "AVMs Fritzbox 5590 bringt das Internet über einen schnellen Glasfaseranschluss in Haus oder Wohnung und verteilt es mit modernem Wi-Fi-6-WLAN weiter.",
-      "url": "https://www.heise.de/tests/Fritzbox-5590-fuer-Glasfaseranschluesse-im-Test-7139896.html",
-      "image_title": ","
+      "title": "Kurztests: Schnelle USB-SSD, Luftqualitätsmesser, smartes Heizungsthermostat",
+      "url": "https://www.heise.de/tests/Kurztests-Schnelle-USB-SSD-Luftqualitaetsmesser-smartes-Heizungsthermostat-6669464.html"
     },
     {
       "title": "Smartes VernetzenSmart-Home zentral steuern mit Raspberry Pi",
@@ -268,10 +272,6 @@
     {
       "title": "Anleitung: IPv6 für Fritzbox einrichten",
       "url": "https://www.heise.de/ratgeber/Anleitung-IPv6-fuer-Fritzbox-einrichten-6554758.html"
-    },
-    {
-      "title": "Fritzbox-KaufberatungPassende Router für schnelles Internet, WLAN & Smart Home",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-Kaufberatung-Passende-Router-fuer-schnelles-Internet-WLAN-Smart-Home-6592574.html"
     },
     {
       "title": "DuinocoinUmweltfreundliches Krypto-Mining auf Arduino & Co.",
