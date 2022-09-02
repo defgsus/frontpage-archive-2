@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-02T02:26:02",
+  "timestamp": "2022-09-02T04:46:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Chrome-Browser: Was Googles Manifest V3 für Werbeblocker bedeutet",
+      "teaser": "AdGuard stellt eine Beta-Version seines Chrome-Plug-ins vor, die den neuen Vorgaben von Google folgt. Sie erlauben weniger Filterregeln als bisher.",
+      "url": "https://www.heise.de/news/Chrome-Browser-Was-Googles-Manifest-V3-fuer-Werbeblocker-bedeutet-7250436.html",
+      "image_title": "Beijing,,China-,April,29,,2017:,Google,Sign,Is,Seen,At"
+    },
+    {
+      "title": "Wie das E-Rezept läuft: Gespräch mit einem Arzt aus einer Pilotpraxis",
+      "teaser": "Das E-Rezept startet in der Testregion wohl in ungefähr 250 Praxen. Wir haben einen Hausarzt aus einer der Pilotpraxen zum Start befragt.",
+      "url": "https://www.heise.de/meinung/Elektronische-Verordnung-Arzt-aus-Testpraxis-zum-zoegerlichen-E-Rezept-Start-7249928.html",
+      "image_title": "Medizin, Patient, Arzt, Papier"
+    },
+    {
       "title": "Doch nicht Russland? – Montenegro sieht Ransomware-Gangster hinter Cyberangriff",
       "teaser": "Unmittelbar nach Beginn eines heftigen Cyberangriffs hat Montenegro Russland beschuldigt. Nun übernehmen Cybercrime-Gangster die Verantwortung.",
       "url": "https://www.heise.de/news/Doch-nicht-Russland-Montenegro-sieht-Ransomware-Gangster-hinter-Cyberangriff-7250597.html"
     },
     {
-      "title": "Foxit PDF Editor und Reader: Schadcode-Schmuggel durch Lücken möglich",
-      "teaser": "Angreifer könnten etwa mit manipulierten Dokumenten in Foxit PDF Editor und Reader Schadcode einschleusen. Aktualisierte Software schließt die Sicherheitslücke.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Foxit-PDF-Editor-und-Reader-ermoeglichen-Codeschmuggel-7247760.html",
-      "image_title": "Aufmacher Sicherheitslücken in Foxit PDF Editor"
-    },
-    {
-      "title": "Ransomware: Einbrecher deaktivieren Virenschutz mit Anti-Cheat-Treiber",
-      "teaser": "Cyberkriminelle deaktivieren den Virenschutz mit einem verwundbaren und signierten Anti-Cheat-Treiber eines Spiels. Das ist jedoch gar nicht installiert.",
-      "url": "https://www.heise.de/news/Ransomware-Einbrecher-deaktivieren-Virenschutz-mit-Anti-Cheat-Treiber-7244566.html",
-      "image_title": "Aufmacher Anti-Cheat-Treiber zum Deaktivieren von AV missbraucht"
+      "title": "Bootloader-Signaturen per Update zurückgezogen: Microsoft bootet Linux aus",
+      "teaser": "Microsoft hat etliche Bootloader-Signaturen per Windows Update zurückgezogen. Faktisch hat das Unternehmen damit Linuxe lahmgelegt.",
+      "url": "https://www.heise.de/hintergrund/Bootloader-Signaturen-per-Update-zurueckgezogen-Microsoft-bootet-Linux-aus-7250544.html",
+      "image_title": "Aufmacher Microsoft bootet Linux aus"
     },
     {
       "title": "Server automatisiert konfigurieren mit Salt",
@@ -48,10 +54,19 @@
       "url": "https://www.heise.de/ratgeber/Server-automatisiert-konfigurieren-mit-Salt-7247950.html"
     },
     {
-      "title": "Glasfaseranschluss: Wie Sie rankommen und was Sie beachten müssen",
-      "teaser": "Glasfaser ist in aller Munde, immer mehr Ausbaugebiete kommen hinzu. Was gilt es für den rasanten Gigabit-Anschluss zu tun?",
-      "url": "https://www.heise.de/ratgeber/Glasfaseranschluss-Wie-Sie-rankommen-und-was-Sie-beachten-muessen-7248926.html",
-      "image_title": "Glasfaser"
+      "title": "Volkswagen: Cloud für Updates, Apps und Konfigurationen soll bis 2025 stehen",
+      "teaser": "Updates over-the-air sind für Tesla nichts Neues. Volkswagen arbeitet noch immer an einer eigenen Umsetzung, möchte aber bis 2025 eine Einheitslösung haben.",
+      "url": "https://www.heise.de/news/Volkswagen-Cloud-fuer-Updates-Apps-und-Konfigurationen-soll-bis-2025-stehen-7251086.html"
+    },
+    {
+      "title": "Mittelfinger an alle Gamer: Grafikkarten immer noch zu teuer",
+      "teaser": "Überfüllte Lager, neue Grafikkartengeneration in den nächsten Monaten, versprochene Rabattaktionen … wo bleiben die günstigen GPUs, fragt sich Mark Mantel.",
+      "url": "https://www.heise.de/meinung/Mittelfinger-an-alle-Gamer-Grafikkarten-immer-noch-zu-teuer-7250780.html"
+    },
+    {
+      "title": "Arch-Linux-Update bricht ab",
+      "teaser": "Das Update meines Arch-Linux-Systems läuft nicht durch, sondern bricht mit der Fehlermeldung \"Vorgang konnte nicht vorbereitet werden\" ab. Was kann ich tun?",
+      "url": "https://www.heise.de/ratgeber/Arch-Linux-Update-bricht-ab-7237035.html"
     },
     {
       "title": "VMware vSphere 8: Die Multicloud im eigenen Rechenzentrum",
@@ -68,6 +83,12 @@
       "teaser": "Mit dem elektronischen Rezept sollen Medikamente schneller und bequemer bestellt werden können. Hier finden Sie die wichtigsten Antworten rund um das E-Rezept.",
       "url": "https://www.heise.de/ratgeber/eHealth-So-funktioniert-das-E-Rezept-7154231.html",
       "image_title": "E-Rezept-Werbung am Bahnhof"
+    },
+    {
+      "title": "Glasfaseranschluss: Wie Sie rankommen und was Sie beachten müssen",
+      "teaser": "Glasfaser ist in aller Munde, immer mehr Ausbaugebiete kommen hinzu. Was gilt es für den rasanten Gigabit-Anschluss zu tun?",
+      "url": "https://www.heise.de/ratgeber/Glasfaseranschluss-Wie-Sie-rankommen-und-was-Sie-beachten-muessen-7248926.html",
+      "image_title": "Glasfaser"
     },
     {
       "title": "Gießkanne statt Großprojekte – KI Bundesverband kritisiert Digitalstrategie",
@@ -105,31 +126,9 @@
       "url": "https://www.heise.de/news/Google-findet-Das-Weihnachtsgeschaeft-hat-begonnen-7250378.html"
     },
     {
-      "title": "Chrome-Browser: Was Googles Manifest V3 für Werbeblocker bedeutet",
-      "teaser": "AdGuard stellt eine Beta-Version seines Chrome-Plug-ins vor, die den neuen Vorgaben von Google folgt. Sie erlauben weniger Filterregeln als bisher.",
-      "url": "https://www.heise.de/news/Chrome-Browser-Was-Googles-Manifest-V3-fuer-Werbeblocker-bedeutet-7250436.html",
-      "image_title": "Beijing,,China-,April,29,,2017:,Google,Sign,Is,Seen,At"
-    },
-    {
       "title": "JavaLand 2023: Das Ende des Call for Papers rückt näher",
       "teaser": "Bis 26. September kann man sich mit Beiträgen für die Java-Konferenz bewerben. Jedoch nur noch bis 6. September ist die Bewerbung fürs Newcomer-Programm offen.",
       "url": "https://www.heise.de/news/JavaLand-2023-Das-Ende-des-Call-for-Papers-rueckt-naeher-7250162.html"
-    },
-    {
-      "title": "Cross-Plattform-Entwicklung: Flutter 3.3 erlaubt globale Textauswahl",
-      "teaser": "Das Release ermöglicht eine globale Textselektion per Wischgeste und arbeitet weiter an der Integration des Material Design 3. Dart erreicht Version 2.18.",
-      "url": "https://www.heise.de/news/Cross-Plattform-Entwicklung-Flutter-3-3-erlaubt-globale-Textauswahl-7250337.html",
-      "image_title": "White,Dove,Flies,Beautifully,On,A,Sunny,Day,,Wildlife"
-    },
-    {
-      "title": "IT-Automatisierung: mehr Optionen mit Dell PowerFlex 4.0",
-      "teaser": "Dells Plattform für Software-defined IT bietet neue Funktionen, Module und Services für das Lifecycle-Management und IT Operations.",
-      "url": "https://www.heise.de/news/IT-Automatisierung-mehr-Optionen-mit-Dell-PowerFlex-4-0-7250080.html"
-    },
-    {
-      "title": "softwarearchitektur.tv: SCS – der Architekturansatz Self-contained Systems",
-      "teaser": "heise Developer präsentiert den Videocast von Eberhard Wolff und Lisa Moritz: In dieser Folge stellt Wolff den Ansatz der Self-contained Systems (SCS) vor.",
-      "url": "https://www.heise.de/news/softwarearchitektur-tv-SCS-der-Architekturansatz-Self-contained-Systems-7249377.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
