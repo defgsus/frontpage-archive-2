@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-02T20:23:54",
+  "timestamp": "2022-09-02T21:18:12",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile240838859/1392500087-ci102l-w1024/FBL-GER-BUNDESLIGA-DORTMUND-HOFFENHEIM.jpg",
+      "image_title": "FBL-GER-BUNDESLIGA-DORTMUND-HOFFENHEIM",
+      "topic": "Sieg gegen Hoffenheim"
+    },
     {
       "title": "Sport",
       "url": "https://www.welt.de/sport/",
@@ -44,11 +51,12 @@
       "topic": "Europameisterschaft"
     },
     {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile240827783/8662508757-ci102l-w1024/BESTPIX-F1-Grand-Prix-of-The-Netherlands-Previews.jpg",
-      "image_title": "Lewis Hamilton liegt in der WM-Fahrerwertung auf Platz sechs, hinter Teamkollege Russell und 136 Punkte hinter dem Führenden Verstappen",
-      "topic": "Die Mercedes-Krise"
+      "title": "Borussia Dortmund kombiniert sich an die Spitze",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video240807389/Dortmund-gegen-Hoffenheim-Borussia-Dortmund-kombiniert-sich-an-die-Spitze.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240838829/6482509097-ci102l-w1024/Germany-Soccer-Bundesliga.jpg",
+      "image_title": "Dortmund's Marco Reus celebrates af",
+      "topic": "Dortmund gegen Hoffenheim",
+      "author": "5 Min"
     },
     {
       "title": "Heidenheim schlägt Düsseldorf im Spitzenspiel",
@@ -111,14 +119,6 @@
       "image_title": "1. FC Köln v VfB Stuttgart - Bundesliga",
       "topic": "Kopf-Karambolage und übles Foul",
       "author": "5 Min"
-    },
-    {
-      "title": "Skrzybskis Sonntagsschuss erlöst Holstein Kiel gegen Sandhausen",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video240700517/Holstein-Kiel-SV-Sandhausen-Wiedergutmachung-der-Stoerche-gegen-Sandhausen-Highlights-im-Video-2-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile240725847/4012504047-ci102l-w1024/Holstein-Kiel-SV-Sandhausen.jpg",
-      "image_title": "Holstein Kiel - SV Sandhausen",
-      "topic": "6. Spieltag",
-      "author": "3 Min"
     },
     {
       "title": "„Viele sagten, die machen jetzt mal ein Jahr Bundesliga ...“",
@@ -188,6 +188,13 @@
       "title": "Sport",
       "url": "https://www.welt.de/sport/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Lewis Hamilton liegt in der WM-Fahrerwertung auf Platz sechs, hinter Teamkollege Russell und 136 Punkte hinter dem Führenden Verstappen",
+      "topic": "Die Mercedes-Krise"
+    },
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Mick Schumacher sammlete in dieser Saison in zwei Rennen (Silverstone und Spielberg) seine ersten Punkte in der Formel 1",
       "topic": "Formel 1"
     },
@@ -198,13 +205,6 @@
       "image_title": "Max Verstappen liegt in der WM-Wertung nach 14 Rennen 98 Punkte vor seinem schärfsten Rivalen, Ferrari-Pilot Charles Leclerc",
       "topic": "Formel 1",
       "author": "Silja Rulle"
-    },
-    {
-      "title": "Formel 1",
-      "url": "https://www.welt.de/sport/formel1/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Belgium F1 GP Auto Racing",
-      "topic": "Großer Preis von Belgien"
     },
     {
       "title": "„Wir müssen uns mehr muskulär beanspruchen. Wir ruinieren uns selbst“",
@@ -457,6 +457,14 @@
       "author": "Martin Lewicki"
     },
     {
+      "title": "Skrzybskis Sonntagsschuss erlöst Holstein Kiel gegen Sandhausen",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video240700517/Holstein-Kiel-SV-Sandhausen-Wiedergutmachung-der-Stoerche-gegen-Sandhausen-Highlights-im-Video-2-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile240725847/4012504047-ci102l-w1024/Holstein-Kiel-SV-Sandhausen.jpg",
+      "image_title": "Holstein Kiel - SV Sandhausen",
+      "topic": "6. Spieltag",
+      "author": "3 Min"
+    },
+    {
       "title": "Serie hält – Leitl gewinnt mit Hannover auch gegen Ex-Club Fürth",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video240700545/Hannover-96-SpVgg-Greuther-Fuerth-Die-Niedersachsen-gegen-das-Kleeblatt-Highlights-im-Video-2-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile240725549/0432507557-ci102l-w1024/Hannover-96-SpVgg-Greuther-Fuerth.jpg",
@@ -519,14 +527,6 @@
       "image_title": "RB Leipzig - VfL Wolfsburg",
       "topic": "4. Spieltag",
       "author": "4 Min"
-    },
-    {
-      "title": "Geiger vollendet Traum-Kombination mit Knaller in den Winkel",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/video240698149/TSG-Hoffenheim-FC-Augsburg-Highlights-Die-Zusammenfassung-im-Video-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile240715633/4392502367-ci102l-w1024/TSG-1899-Hoffenheim-FC-Augsburg.jpg",
-      "image_title": "TSG 1899 Hoffenheim - FC Augsburg",
-      "topic": "Hoffenheim - Augsburg",
-      "author": "3 Min"
     }
   ]
 }
