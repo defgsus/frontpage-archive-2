@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-08T08:28:44",
+  "timestamp": "2022-09-08T09:24:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/VPN-Luecke-in-aelteren-Cisco-Routern-wird-nicht-mehr-geschlossen-7257206.html"
+    },
+    {
       "title": "D-Link-Router",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-bauen-MooBot-Botnetz-mit-D-Link-Routern-aus-7256202.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "IBM",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Kritische-Schadcode-Luecken-bedrohen-IBM-Software-7254493.html"
-    },
-    {
-      "title": "Qnap NAS",
-      "url": "https://www.heise.de/news/Erpressungstrojaner-DeadBolt-nimmt-erneut-NAS-Systeme-von-Qnap-ins-Visier-7253566.html"
     },
     {
       "title": "iX-Workshop: Moderne Kryptographie im Unternehmenseinsatz (Last Call)",
@@ -59,19 +59,25 @@
       "url": "https://www.heise.de/news/Wegen-Cyberattacke-Albanien-kappt-diplomatische-Beziehungen-zum-Iran-7256264.html"
     },
     {
+      "title": "Jetzt patchen! Angreifer bauen MooBot-Botnetz mit D-Link-Routern aus",
+      "teaser": "Sicherheitsforscher warnen vor derzeit vermehrten Attacken auf ältere und aktuelle kritische Sicherheitslücken in Routern von D-Link.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-bauen-MooBot-Botnetz-mit-D-Link-Routern-aus-7256202.html",
+      "image_title": "Botnetz, Cybercrime, Sicherheit, Matrix"
+    },
+    {
       "title": "Programmiersprache Go bekommt integriertes Schwachstellenmanagement",
       "teaser": "Das Securityteam pflegt die Go Vulnerability Database, und ein neues Tool zeigt die für Projekte relevanten Schwachstellen an.",
       "url": "https://www.heise.de/news/Programmiersprache-Go-bekommt-integriertes-Schwachstellenmanagement-7255474.html"
     },
     {
-      "title": "Auf NAS-Systeme von Zyxel könnte Schadcode gelangen",
-      "teaser": "Aktualisierte Firmware-Versionen schließen eine kritische Sicherheitslücke in mehreren NAS-Modellen des Herstellers Zyxel.",
-      "url": "https://www.heise.de/news/Auf-NAS-Systeme-von-Zyxel-koennte-Schadcode-gelangen-7255585.html"
-    },
-    {
       "title": "Alles unter Kontrolle: Wie Unified Monitoring das IT-Management revolutioniert",
       "teaser": "Moderne IT-Infrastrukturen bestehen aus einer Vielzahl unterschiedlichster Systeme und Services. Nur mit einem umfassenden Monitoring auf allen Ebenen können IT-Verantwortliche den Überblick bewahren, Fehler schnell erkennen und Verfügbarkeit garantieren. Dabei sind vor allem fünf Bereiche entscheidend.",
       "url": "https://www.heise.de/solutions/wuerth/alles-unter-kontrolle-wie-unified-monitoring-das-it-management-revolutioniert/?source=nat_teas"
+    },
+    {
+      "title": "Auf NAS-Systeme von Zyxel könnte Schadcode gelangen",
+      "teaser": "Aktualisierte Firmware-Versionen schließen eine kritische Sicherheitslücke in mehreren NAS-Modellen des Herstellers Zyxel.",
+      "url": "https://www.heise.de/news/Auf-NAS-Systeme-von-Zyxel-koennte-Schadcode-gelangen-7255585.html"
     },
     {
       "title": "Sicherheitsupdates: Kritische Schadcode-Lücken bedrohen IBM-Software",
@@ -150,11 +156,6 @@
       "title": "Webinarserie für Software-Entwickler zum Datenschutz: Jetzt günstig buchen!",
       "teaser": "Zwei halbtägige Online-Trainings vermitteln praxisnah das Grundwissen, damit Developer von Anfang an datenschutzfreundliche Entscheidungen treffen können.",
       "url": "https://www.heise.de/news/Webinarserie-fuer-Software-Entwickler-zum-Datenschutz-Jetzt-guenstig-buchen-7251404.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer könnten auf Aruba-Switches Schadcode ausführen",
-      "teaser": "Arubas Software-Entwickler haben mehrere Lücken im Switch-Betriebssystem AOX-CX geschlossen. Das von den Lücken ausgehende Risiko gilt insgesamt als hoch.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-auf-Aruba-Switches-Schadcode-ausfuehren-7251319.html"
     },
     {
       "title": "heise Security Tour 2022",
