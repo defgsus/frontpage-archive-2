@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-08T12:44:40",
+  "timestamp": "2022-09-08T13:37:22",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -14,10 +14,25 @@
   ],
   "articles": [
     {
+      "title": "Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile240937807/4952503467-ci102l-w1024/Global-2-MV-WERFTEN-Rostock.jpg",
+      "image_title": "Kielsektionen für das Kreuzfahrtschiff „Global 2“ im Trockendock der Werft in Rostock-Warnemünde, die verschrottet werden. Seit August betreibt der Bund die Werft als Arsenal für die Deutsche Marine",
+      "topic": "Werftindustrie",
+      "author": "Olaf Preuß"
+    },
+    {
       "title": "Wirtschaft",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile240937535/7462504827-ci102l-w1024/FILES-GERMANY-BANKING-ECB-EUROZONE-INFLATION-RATE.jpg",
-      "image_title": "FILES-GERMANY-BANKING-ECB-EUROZONE-INFLATION-RATE",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile240934203/4152505177-ci102l-w1024/Lebensmittelpreise.jpg",
+      "image_title": "ARCHIV - 14.04.2021, Berlin: Ein Einkauf liegt in einem Einkaufswagen in einem Supermarkt. Bundeskanzler Scholz (SPD) hat das große Volumen der neuen Entlastungsmaßnahmen angesichts steigender Preise betont. Vorgesehen sind mehr als 65 Milliarden Euro für das dritte Entlastungspaket. Foto: Fabian Sommer/dpa +++ dpa-Bildfunk +++",
+      "topic": "Kieler Wirtschaftsforscher"
+    },
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile240938385/4472501847-ci102l-w1024/EZB-Ratssitzung-mit-Zinsentscheidung.jpg",
+      "image_title": "EZB-Ratssitzung mit Zinsentscheidung",
       "topic": "Kampf gegen Inflation"
     },
     {
@@ -36,21 +51,6 @@
       "topic": "Sorge vor Engpässen"
     },
     {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile240780343/5762508747-ci102l-w1024/Tankstelle-in-Muenchen.jpg",
-      "image_title": "Tankstelle in München",
-      "topic": "Bundeskartellamt"
-    },
-    {
-      "title": "Gründerszene",
-      "url": "https://www.welt.de/wirtschaft/gruenderszene/",
-      "image_url": "https://img.welt.de/img/wirtschaft/gruenderszene/mobile240803001/3892503217-ci102l-w1024/Engineers-are-inspecting-the-pouring-of-the-cement-floor-with-tab.jpg",
-      "image_title": "Insbesondere Zementklinker gilt als klimaschädlich – durch ein neues Verfahren könnte der bald weniger gebraucht werden",
-      "topic": "Spezialsoftware",
-      "author": "Fiona Mathewson"
-    },
-    {
       "title": "Besser Busfahren mit künstlicher Intelligenz",
       "url": "https://www.welt.de/sponsored/o2-telefonica/article240111909/ANZEIGE-Mobilitaet-Besser-Busfahren-mit-kuenstlicher-Intelligenz.html",
       "image_url": "https://img.welt.de/img/sponsored/o2-telefonica/mobile240112077/8972501467-ci102l-w1024/o2-telefonica-awake-m-04-welt-MFBQ-v2-jpg.jpg",
@@ -67,6 +67,20 @@
       "url": "https://www.welt.de/sponsored/o2-telefonica/article240226189/ANZEIGE-Gesundheit-Wenn-es-drauf-ankommt-Diese-Technik-hilft.html",
       "image_url": "https://img.welt.de/img/sponsored/o2-telefonica/mobile240109657/6032503857-ci102l-w1024/o2-telefonica-libify-m-10-welt-MFBQ-v2-jpg.jpg",
       "topic": "Gesundheit"
+    },
+    {
+      "title": "Dr. Frank Umbach im Interview",
+      "url": "https://www.welt.de/wirtschaft/video240938597/AKW-Betriebsverlaengerung-Dr-Frank-Umbach-im-Interview.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile240939131/4092504447-ci102l-w1024/umbach-jpg.jpg",
+      "topic": "AKW-Betriebsverlängerung",
+      "author": "4 Min"
+    },
+    {
+      "title": "„Kredite werden teurer, Bauzinsen ziehen wieder an“",
+      "url": "https://www.welt.de/wirtschaft/video240937861/Wegen-Rekordinflation-EZB-erhoeht-Leitzins-im-Euroraum-um-0-75-Prozentpunkte-auf-1-25-Prozent.html",
+      "image_url": "https://img.welt.de/img/videos/mobile240937979/9422504977-ci102l-w1024/dietmar-1-jpg.jpg",
+      "topic": "EZB erhöht Leitzins",
+      "author": "4 Min"
     },
     {
       "title": "„Die Auswirkungen der Energiekrise werden größer sein als die zwei Jahre Pandemie“",
@@ -90,18 +104,12 @@
       "author": "2 Min"
     },
     {
-      "title": "„Viele Firmen sagen schon, wir müssen weniger produzieren“",
-      "url": "https://www.welt.de/wirtschaft/video240930703/Immer-mehr-Insolvenzen-Das-sind-die-Gruende-fuer-Firmenpleiten.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile240930825/9602509047-ci102l-w1024/Marie-Vidi-jpg.jpg",
-      "topic": "Insolvenzen",
-      "author": "4 Min"
-    },
-    {
-      "title": "Können wir unseren Wohlstand halten?",
-      "url": "https://www.welt.de/politik/video240928933/Energie-Krise-in-Deutschland-Koennen-wir-unseren-Wohlstand-halten.html",
-      "image_url": "https://img.welt.de/img/videos/mobile240929023/4792509567-ci102l-w1024/welt-talk-2-jpg.jpg",
-      "topic": "WELT Talk mit Hofreiter, Spahn und Wagenknecht",
-      "author": "2 Min"
+      "title": "Gründerszene",
+      "url": "https://www.welt.de/wirtschaft/gruenderszene/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Insbesondere Zementklinker gilt als klimaschädlich – durch ein neues Verfahren könnte der bald weniger gebraucht werden",
+      "topic": "Spezialsoftware",
+      "author": "Fiona Mathewson"
     },
     {
       "title": "Webwelt & Technik",
@@ -134,13 +142,6 @@
       "author": "Thomas Heuzeroth"
     },
     {
-      "title": "Webwelt & Technik",
-      "url": "https://www.welt.de/wirtschaft/webwelt/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Fünf Tipps: Wie Sie beim Waschen Ressourcen und Geld sparen",
-      "topic": "Haushaltsgeräte"
-    },
-    {
       "title": "Gründerszene",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -165,6 +166,13 @@
       "author": "Nina Anika Klotz"
     },
     {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Tankstelle in München",
+      "topic": "Bundeskartellamt"
+    },
+    {
       "title": "Mobilität",
       "url": "https://www.welt.de/wirtschaft/mobilitaet/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -172,8 +180,8 @@
       "topic": "Auf Pendlerstrecken"
     },
     {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
+      "title": "Ein Jahr bis zum Windpark – So will die EU den Ausbau der Erneuerbaren beschleunigen",
+      "url": "https://www.welt.de/wirtschaft/plus240920765/Erneuerbare-Energien-So-will-die-EU-den-Ausbau-beschleunigen.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Der Artenschutz steht dem Ausbau erneuerbarer Energien oft im Weg",
       "topic": "Ende des Artenschutzes?",
@@ -341,14 +349,6 @@
       "image_title": "Habeck zu den Ergebnissen des Stresstests",
       "topic": "Anstieg der Insolvenzzahlen",
       "author": "Carsten Dierig"
-    },
-    {
-      "title": "So wird Inflation zum Wohlstands-Motor",
-      "url": "https://www.welt.de/wirtschaft/article240889655/Kehrseite-der-Entlastung-So-wird-die-Inflation-zum-Wohlstands-Motor.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Straubhaar kombo spritpreise",
-      "topic": "Hohe Preise als Chance",
-      "author": "Thomas Straubhaar"
     },
     {
       "title": "Strompreis fast verzehnfacht – Diese Kurve ist Vorbote der nächsten Mega-Krise",
