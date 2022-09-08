@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-08T07:34:46",
+  "timestamp": "2022-09-08T08:28:34",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -122,7 +128,7 @@
   ],
   "articles": [
     {
-      "title": "\"Wir arbeiten in Monaten das auf, was Sie in 16 Jahren verbockt haben\"",
+      "title": "\"Wir räumen in Monaten das auf, was Sie in 16 Jahren verbockt haben\"",
       "teaser": "Bei der Generaldebatte am Mittwoch durfte der Wirtschaftsminister nicht reden, obwohl er das Hauptziel der Angriffe aus der Opposition war. Nun greift er seinerseits die Union an.",
       "url": "https://www.sueddeutsche.de/politik/bundestag-habeck-wirtschaftsministerium-1.5653160",
       "author": "Oliver Klasen",
@@ -139,9 +145,10 @@
     {
       "title": "EZB entscheidet über Erhöhung des Leitzinses",
       "teaser": "Kaum ein Thema plagt die Menschen derzeit so sehr wie die steigenden Preise. Um die Inflation zu bekämpfen, hebt die EZB wohl erneut den Leitzins an. Doch damit wächst auch die Gefahr einer Rezession.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/inflation-ezb-1.5652693",
+      "url": "https://www.sueddeutsche.de/wirtschaft/inflation-ezb-leitzins-1.5652693",
       "author": "Markus Zydra, Frankfurt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652694/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652694/600x337",
+      "image_title": "Christine Lagarde, Präsidentin der EZB"
     },
     {
       "title": "Atomkonzern wirft Russland Folter und Verschleppung vor",
@@ -152,24 +159,17 @@
       "image_title": "Ukraine-Krieg - Kernkraftwerk Saporischschja"
     },
     {
+      "title": "Erneut US-Abgeordnete zu Besuch in Taiwan",
+      "teaser": "Vor dem Hintergrund wachsender Spannungen mit China treffen die Mitglieder des Repräsentantenhauses sich mit der Präsidentin des Inselstaats Tsai. Die größte Delegation seit zehn Jahren will \"ein Symbol der felsenfesten Verpflichtung des Kongresses für Taiwan\" demonstrieren.",
+      "url": "https://www.sueddeutsche.de/politik/taiwan-kongress-besuch-1.5653161",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653189/208x156"
+    },
+    {
       "title": "Zehn Milliarden Euro in der Fußnote",
       "teaser": "Von Kindergeld über Energiepauschale bis Wohngeldreform: Was die versprochenen Entlastungen jeweils genau kosten, war bislang unklar. Nun hat das Finanzministerium vorgerechnet.",
       "url": "https://www.sueddeutsche.de/politik/entlastungspaket-christian-lindner-kosten-1.5653043",
       "author": "Henrike Roßbach, Berlin",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5557470/600x337"
-    },
-    {
-      "title": "Beide Verdächtige sind tot",
-      "teaser": "Nach den Messerangriffen mit zehn Toten hatten die Ermittler zunächst einen der beiden mordverdächtigen Brüder tot aufgefunden. Nun wurde der andere gefasst und starb kurz nach der Festnahme.",
-      "url": "https://www.sueddeutsche.de/panorama/kanada-messer-tote-1.5653125",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653126/208x156"
-    },
-    {
-      "title": "Caipirinha, Bier und Bolsonaro",
-      "teaser": "Eigentlich wollte Brasilien seine 200-jährige Unabhängigkeit feiern. Doch der Präsident kapert den Tag für seine Wahlkampagne und feiert sich lieber selbst. Ein Besuch an der Copacabana.",
-      "url": "https://www.sueddeutsche.de/politik/brasilien-bolsonaro-lula-da-silva-1.5653132",
-      "author": "Christoph Gurk, Rio de Janeiro",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653133/600x337"
     },
     {
       "title": "Die Obamas kehren zurück ins Weiße Haus",
@@ -179,25 +179,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5653131/600x337"
     },
     {
-      "title": "\"In Deutschland fühle ich mich zu Hause\"",
-      "teaser": "Ob sie nun zugewandert sind oder alteingesessen: In einer Umfrage bekunden viele Menschen eine hohe Verbundenheit mit der Bundesrepublik.",
-      "url": "https://www.sueddeutsche.de/politik/migration-zufriedenheit-einwanderung-1.5652897",
-      "author": "Nina von Hardenberg",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652900/208x156"
+      "title": "Beide Verdächtige sind tot",
+      "teaser": "Nach den Messerangriffen mit zehn Toten hatten die Ermittler zunächst einen der beiden mordverdächtigen Brüder tot aufgefunden. Nun wurde der andere gefasst und starb kurz nach der Festnahme.",
+      "url": "https://www.sueddeutsche.de/panorama/kanada-messer-tote-1.5653125",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653126/208x156"
     },
     {
-      "title": "Böses Erwachen beim Krankentagegeld",
-      "teaser": "Eine Krankentagegeldversicherung soll längerfristig Erkrankte finanziell absichern. Doch schwammige Klauseln können dazu führen, dass sie weniger Geld bekommen als erwartet.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/krankentagegeld-pkv-arbeitsunfaehigkeit-1.5652947",
-      "author": "Christian Bellmann, Köln",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652948/208x156"
-    },
-    {
-      "title": "Katrin Vernau wird Interimsintendantin beim RBB",
-      "teaser": "Die 49-Jährige war bisher oberste Verwaltungsfrau im WDR. Jetzt soll sie den RBB nach dem Schlesinger-Skandal aus der Krise führen.",
-      "url": "https://www.sueddeutsche.de/medien/rbb-intendantin-katrin-vernau-schlesinger-1.5652922",
-      "author": "Claudia Tieschky",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653052/600x337"
+      "title": "\"München droht ein Symbol für Gefühllosigkeit zu werden\"",
+      "teaser": "Die Athleten jubeln wieder nach Erfolgen, die Zuschauer klatschen - ganz wie vor dem Attentat. Die \"New York Times\" hält das für unanständig. Verfolgen Sie die Ereignisse bei Olympia 1972 im historischen Liveblog.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-olympia-72-attentat-wettkaempfe-1.5644573",
+      "author": "Barbara Galaktionow und Lisa Sonnabend",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653149/600x337"
     },
     {
       "title": "Sané zeigt seine ganze Kunst",
@@ -214,38 +206,47 @@
     },
     {
       "title": "Trainer in einem brennenden Haus",
-      "teaser": "Im Abschied von Domenico Tedesco spiegelt sich bei RB Leipzig das Scheitern der Klubführung. Für die mutmaßlichen Zugänge Max Eberl und Marco Rose wäre es kein einfacher Einstieg.",
+      "teaser": "Im Abschied von Domenico Tedesco spiegelt sich bei RB Leipzig das Scheitern der Klubführung. Für die mutmaßlichen Zugang Max Eberl und den neuen Trainer Marco Rose wäre es kein einfacher Einstieg.",
       "url": "https://www.sueddeutsche.de/sport/rb-leipzig-tedesco-mintzlaff-kommentar-1.5652887",
       "author": "Kommentar von Javier Cáceres, Leipzig",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5652888/290x163"
     },
     {
-      "title": "\"München droht ein Symbol für Gefühllosigkeit zu werden\"",
-      "teaser": "Die Athleten jubeln wieder nach Erfolgen, die Zuschauer klatschen - ganz wie vor dem Attentat. Die \"New York Times\" hält das für unanständig. Verfolgen Sie die Ereignisse bei Olympia 1972 im historischen Liveblog.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-olympia-72-attentat-wettkaempfe-1.5644573",
-      "author": "Barbara Galaktionow und Lisa Sonnabend",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653149/600x337"
+      "title": "\"Hitler-Linde\" stirbt",
+      "teaser": "Mit dem 1939 zum Geburtstag des Diktators gepflanzten Baum in der Mitte von Pullach geht es langsam zu Ende. Warum genau, weiß niemand. In dem Ort wird gerätselt: Ist der geschichtliche Rucksack der Linde zu schwer geworden?",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/pullach-hitler-linde-kirchplatz-1.5652735",
+      "author": "Michael Morosow, Pullach",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652737/208x156"
     },
     {
-      "title": "\"Wir wissen quasi nichts\"",
-      "teaser": "Corona-Wirrwarr, kalte Klos und keine Lehrer: Wenige Tage vor dem Ferienende stehen Bayerns Schulen vor großen Fragezeichen. Aus dem Kultusministerium gibt es bisher keine Antworten. Droht schon wieder ein Krisenjahr?",
-      "url": "https://www.sueddeutsche.de/bayern/schulbeginn-bayern-lehrermangel-corona-brueckenklassen-1.5652950",
-      "author": "Anna Günther",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5389332/208x156"
-    },
-    {
-      "title": "Katerkulturfrühstück (mit Humor)",
-      "teaser": "Als kilometerlange Tafeln mit blassen Brötchen plötzlich nicht mehr das Unappetitlichste waren, mit dem sich Ruth Herzberg bei ihrer schlimmsten Lesung herumzuschlagen hatte.",
-      "url": "https://www.sueddeutsche.de/kultur/meine-schlimmste-loesung-ruth-herzberg-mensa-1.5652640",
-      "author": "Gastbeitrag von Ruth Herzberg",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652641/208x156"
+      "title": "\"Die Leute werden tierisch sauer sein\"",
+      "teaser": "Der Bundestag berät das neue Infektionsschutzgesetz - und die deutschen Konzertveranstalter fürchten ein \"ganz schweres Jahr\".",
+      "url": "https://www.sueddeutsche.de/kultur/infektionsschutzgesetz-corona-deutschland-konzerte-1.5652839",
+      "author": "Michael Stallknecht",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652840/208x156",
+      "image_title": "Jahrhunderthalle in Bochum"
     },
     {
       "title": "Welche Filme sich lohnen - und welche nicht",
       "teaser": "\"Das Leben ein Tanz\" erzählt von den geplatzten Träumen einer Ballerina, im Teenie-Musikfilm \"Alle für Ella\" geht es um Pop und Follower. Die Starts der Woche in Kürze.",
       "url": "https://www.sueddeutsche.de/kultur/kino-filmstarts-streaming-1.5652435",
       "author": "den SZ-Kritikern",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652436/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652436/208x156"
+    },
+    {
+      "title": "Lies meine Gedanken",
+      "teaser": "Jennifer Egans Roman über die Melancholie der Jahrtausendwende war ein großes Erzählexperiment. Jetzt kommt die Fortsetzung.",
+      "url": "https://www.sueddeutsche.de/kultur/jennifer-egan-candy-haus-goon-squad-tech-industrie-rezension-1.5652848",
+      "author": "Marie Schmidt",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652850/208x156"
+    },
+    {
+      "title": "\"Knallharte Vorsätze durchzuhalten, kann sehr ungesund sein\"",
+      "teaser": "Wir essen zu süß, aber wie kommt man weg vom Zucker? Hat man gegen frühkindliche Prägungen überhaupt eine Chance? Ja, sagt der Ernährungspsychologe Thomas Ellrott, und verrät, wie \"flexible Kontrolle\" aussehen kann.",
+      "url": "https://sz-magazin.sueddeutsche.de/essen-und-trinken/auf-zucker-verzichten-91804",
+      "author": "Interview von Ines Schipperges",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5637856/600x337",
+      "image_title": "Zucker Ellrott Interview"
     },
     {
       "title": "In Putins Falle",
@@ -262,25 +263,26 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5652961/208x156"
     },
     {
+      "title": "Mehr Sicherheit für die Werke der Altmeister",
+      "teaser": "Nach Aktionen von Klimaaktivisten dürfen in einigen Museen Taschen nicht mehr in Ausstellungen mitgenommen werden. Ziel der Attacken sind bislang immer Altmeistersammlungen.",
+      "url": "https://www.sueddeutsche.de/muenchen/letzte-generation-festklebeaktion-sicherheitsmassnahmen-museen-pinakothek-1.5652914",
+      "author": "Evelyn Vogel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653029/208x156",
+      "image_title": "Rubens-Gemälde ´Der bethlehemitische Kindermord\""
+    },
+    {
+      "title": "\"Wir dürfen nicht zulassen, dass Menschen sterben\"",
+      "teaser": "Die Stadt und der Hilfsverein Condrobs fordern schon lange Räume, in denen Abhängige Drogen sauberer und sicherer konsumieren können als auf der Straße. Doch der Freistaat sperrt sich dagegen. Unterstützung bekommen die Befürworter nun vom Suchtbeauftragten der Bundesregierung.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-1.5653028",
+      "author": "Daniel Thoma",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.4003652/208x156",
+      "image_title": "Drogenkonsumraum"
+    },
+    {
       "title": "Das Winterwarmfreibad bleibt kalt",
       "teaser": "950 000 Besucher, Keime und ein Brand: In den Münchner Bädern endet der Sommerbetrieb. Nur das Schyrenbad bleibt offen, aber ungeheizt - ein Vorgeschmack auf weitere Energiesparmaßnahmen.",
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-freibaeder-dantebad-schyrenbad-winter-energiesparen-1.5652830",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5621437/208x156"
-    },
-    {
-      "title": "Schulkinder aus bedürftigen Familien bekommen 100 Euro",
-      "teaser": "Kommende Woche startet auch in München wieder der Unterricht. Allerhand Anschaffungen stehen an. Doch Schulmaterialien werden teurer. Die Stadt unterstützt deshalb etwa 5000 Kinder und Jugendliche.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-schulstart-zuschuss-familien-armut-1.5652854",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653136/208x156",
-      "image_title": "Einschulung Grundschule Hessen"
-    },
-    {
-      "title": "Ein sicherer Ort für Mädchen und Frauen",
-      "teaser": "Die Aktion \"Sichere Wiesn\" hilft bei sexueller Gewalt, aber auch wenn die Handtasche geraubt wird oder die Freunde verloren gehen. 2019 nahmen so viele Besucherinnen wie noch nie die Unterstützung in Anspruch.",
-      "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-sichere-wiesn-fuer-maedchen-und-frauen-safe-space-theresienwiese-1.5652944",
-      "author": "Katharina Haase",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653023/208x156",
-      "image_title": "Oktoberfest München das vollbesetzte Festzelt Paulaner Winzerer Fähndl Bayern Deutschland *** Okt"
     },
     {
       "title": "\"Es gibt auf die Münchner Mieter Feuer von allen Seiten\"",
@@ -311,17 +313,19 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5652095/208x156"
     },
     {
-      "title": "\"Heute bin ich 72 und trinke immer noch eineinhalb Liter Spezi am Tag\"",
-      "teaser": "Das Brauhaus Riegele hat das Mischgetränk einst erfunden. Im Interview sprechen die Firmenchefs über seine Entstehung, den Markenkampf mit Paulaner und erklären, warum Spezi vor allem in Bayern so gut ankommt.",
-      "url": "https://www.sueddeutsche.de/bayern/spezi-muenchen-paulaner-bayern-streit-brauerei-bier-riegele-1.5652606",
-      "author": "Interview von Florian Fuchs, Augsburg",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652607/208x156"
+      "title": "Holetschek: Keine Maskenpflicht zum Schulstart",
+      "teaser": "Am Dienstag geht in Bayern das neue Schuljahr los. Laut dem Gesundheitsminister sollen Schülerinnen und Schüler dann in den Klassen keine Masken tragen müssen.",
+      "url": "https://www.sueddeutsche.de/bayern/corona-bayern-aktuell-holetschek-masken-schulstart-klasse-1.5560203",
+      "author": "Alle Entwicklungen im Überblick",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5550955/208x156",
+      "image_title": "Debatte um Maskenpflicht an Schulen"
     },
     {
-      "title": "Nachfolger fürs Neun-Euro-Ticket: Bayern stellt sich weiter quer",
-      "teaser": "Die vom Bund in Aussicht gestellten 1,5 Milliarden Euro würden bei Weitem nicht reichen, sagt Finanzminister Füracker und warnt vor unkalkulierbaren Folgekosten. Die Grünen kritisieren die Blockade der Regierung.",
-      "url": "https://www.sueddeutsche.de/bayern/9-euro-ticket-finanzminister-folgekosten-bayern-fueracker-nachfolger-bahn-1.5653014",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5640103/208x156"
+      "title": "\"Wir wissen quasi nichts\"",
+      "teaser": "Corona-Wirrwarr, kalte Klos und keine Lehrer: Wenige Tage vor dem Ferienende stehen Bayerns Schulen vor großen Fragezeichen. Aus dem Kultusministerium gibt es bisher keine Antworten. Droht schon wieder ein Krisenjahr?",
+      "url": "https://www.sueddeutsche.de/bayern/schulbeginn-bayern-lehrermangel-corona-brueckenklassen-1.5652950",
+      "author": "Anna Günther",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5389332/208x156"
     },
     {
       "title": "Söders Hartz-IV-Äußerungen sind schwer erträglich",
@@ -331,18 +335,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5651632/208x156"
     },
     {
+      "title": "\"In Deutschland fühle ich mich zu Hause\"",
+      "teaser": "Ob sie nun zugewandert sind oder alteingesessen: In einer Umfrage bekunden viele Menschen eine hohe Verbundenheit mit der Bundesrepublik.",
+      "url": "https://www.sueddeutsche.de/politik/migration-zufriedenheit-einwanderung-1.5652897",
+      "author": "Nina von Hardenberg",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652900/208x156"
+    },
+    {
       "title": "\"Eine existenzielle Frage\"",
       "teaser": "Der große Mangel an Fachkräften bedroht den Wohlstand, die Bundesregierung will mit einer Fünf-Punkte-Strategie gegensteuern. Darin geht es nicht nur um Einwanderung.",
       "url": "https://www.sueddeutsche.de/politik/fachkraefte-bundesregierung-strategie-1.5652904",
       "author": "Roland Preuß, Berlin",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5652963/208x156"
-    },
-    {
-      "title": "Die Pflicht, ein verlässlicher Partner zu sein",
-      "teaser": "Die Bundeswehr nimmt ihren Einsatz in Mali wieder auf. FDP-Politiker fordern das Engagement sogar auszuweiten - auch im eigenen Interesse.",
-      "url": "https://www.sueddeutsche.de/politik/bundeswehr-mali-minusma-1.5652997",
-      "author": "Paul-Anton Krüger und Mike Szymanski, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652998/208x156"
     },
     {
       "title": "Die doppelte Liz Truss",
@@ -379,11 +383,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5652870/208x156"
     },
     {
-      "title": "\"Der Mythos Porsche wird nie untergehen\"",
-      "teaser": "VW und der Sportwagenbauer haben eine lange Geschichte, die einst unter den Nazis begann. Jetzt soll der geplante Börsengang nicht nur Geld bringen: Es werden auch alte Rechnungen beglichen.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/porsche-boersengang-geschichte-uebernahmekampf-volkswagen-1.5652955",
-      "author": "Caspar Busse",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652959/208x156"
+      "title": "Böses Erwachen beim Krankentagegeld",
+      "teaser": "Eine Krankentagegeldversicherung soll längerfristig Erkrankte finanziell absichern. Doch schwammige Klauseln können dazu führen, dass sie weniger Geld bekommen als erwartet.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/krankentagegeld-pkv-arbeitsunfaehigkeit-1.5652947",
+      "author": "Christian Bellmann, Köln",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652948/208x156"
     },
     {
       "title": "Großbritannien: Was will Liz Truss?",
@@ -444,11 +448,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5652864/208x156"
     },
     {
-      "title": "Hundstage beim NDR",
-      "teaser": "Familiäre Verwicklungen und Beiträge über Haustier-Orakel: Was beim NDR ans Licht kommt, übertrifft selbst den Skandal beim RBB. Diesmal steht die journalistische Unabhängigkeit in einem Sender infrage.",
-      "url": "https://www.sueddeutsche.de/medien/ndr-vorwuerfe-hamburg-kiel-rossbach-1.5652915",
-      "author": "Aurelie von Blazekovic",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5652917/208x156"
+      "title": "Katrin Vernau wird Interimsintendantin beim RBB",
+      "teaser": "Die 49-Jährige war bisher oberste Verwaltungsfrau im WDR. Jetzt soll sie den RBB nach dem Schlesinger-Skandal aus der Krise führen.",
+      "url": "https://www.sueddeutsche.de/medien/rbb-intendantin-katrin-vernau-schlesinger-1.5652922",
+      "author": "Claudia Tieschky",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5653052/208x156"
     },
     {
       "title": "Kann man so machen",
@@ -577,18 +581,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5649143/208x156"
     },
     {
-      "title": "Schau! Mich! An!",
-      "teaser": "Bei den Video Music Awards gab es wieder viel Ausgeflipptes zu sehen - manches bleibt besonders in Erinnerung, wie diese Looks von Lizzo und Billy Eichner.",
-      "url": "https://www.sueddeutsche.de/stil/mode-lizzo-billy-eichner-look-1.5649472",
-      "author": "Max Scharnigg und Julia Werner",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5649475/208x156"
+      "title": "Die Aubergine, ein immer noch missverstandenes Gemüse",
+      "teaser": "Sie ist ein Fruchtgemüse, enthält ein schwaches Nervengift und nicht fachgerecht behandelt, nimmt sie schnell die Konsistenz eines alten Küchenschwamms an. Aber sonst sind die Einsatzmöglichkeiten der Aubergine quasi unendlich.",
+      "url": "https://www.sueddeutsche.de/stil/gemuesekueche-auberginen-low-carb-sommerkueche-1.5649352",
+      "author": "Titus Arnu",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5649353/208x156"
     },
     {
-      "title": "Bling-bling bei Tiffanys",
-      "teaser": "Glitzernde Steine und schwere Goldketten haben es von der Hip-Hop-Kultur in den Mainstream geschafft. Warum Traditionsjuweliere plötzlich um Rapper buhlen.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/stil/trends-schmuck-rapper-bling-bling-ice-cool-jewelry-rap-hip-hop-e779951/",
-      "author": "Jan Kedves",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5646118/208x156"
+      "title": "Schreiben wie eine Eins",
+      "teaser": "Zum Schulstart bekommen viele Kinder jetzt ihren ersten Füller. Aber welcher schreibt am besten? Und welcher liegt gut in der Hand? Eine erfahrene Lehrerin und vier Schüler haben für uns beliebte Modelle verglichen.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/stil/schule-schulkinder-schreibfueller-schreiben-lernen-test-tinte-grundschueler-schulanfang-e687467/",
+      "author": "Christine Mortag und Carolin Fries",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5649663/208x156"
     },
     {
       "title": "Wer liebt eigentlich die Deutschen?",
