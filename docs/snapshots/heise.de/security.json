@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-08T10:26:41",
+  "timestamp": "2022-09-08T11:20:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Hitachi RAID Manager SRA",
+      "url": "https://www.heise.de/news/RAID-Manager-von-Hitachi-koennte-Ansatzpunkt-fuer-Schadcode-Attacken-sein-7257664.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/VPN-Luecke-in-aelteren-Cisco-Routern-wird-nicht-mehr-geschlossen-7257206.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Auf-NAS-Systeme-von-Zyxel-koennte-Schadcode-gelangen-7255585.html"
     },
     {
-      "title": "IBM",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Kritische-Schadcode-Luecken-bedrohen-IBM-Software-7254493.html"
+      "title": "RAID-Manager von Hitachi könnte Ansatzpunkt für Schadcode-Attacken sein",
+      "teaser": "Für einige Versionen von Hitachi RAID Manager SRA sind Sicherheitsupdates erschienen. Für einige Ausgaben gibt es jedoch keinen Support mehr.",
+      "url": "https://www.heise.de/news/RAID-Manager-von-Hitachi-koennte-Ansatzpunkt-fuer-Schadcode-Attacken-sein-7257664.html"
     },
     {
       "title": "IT-Sicherheitstag 2022 zu Security-Angriffen und erfolgreichen Gegenmaßnahmen",
@@ -64,15 +69,15 @@
       "url": "https://www.heise.de/news/Wegen-Cyberattacke-Albanien-kappt-diplomatische-Beziehungen-zum-Iran-7256264.html"
     },
     {
+      "title": "Alles unter Kontrolle: Wie Unified Monitoring das IT-Management revolutioniert",
+      "teaser": "Moderne IT-Infrastrukturen bestehen aus einer Vielzahl unterschiedlichster Systeme und Services. Nur mit einem umfassenden Monitoring auf allen Ebenen können IT-Verantwortliche den Überblick bewahren, Fehler schnell erkennen und Verfügbarkeit garantieren. Dabei sind vor allem fünf Bereiche entscheidend.",
+      "url": "https://www.heise.de/solutions/wuerth/alles-unter-kontrolle-wie-unified-monitoring-das-it-management-revolutioniert/?source=nat_teas"
+    },
+    {
       "title": "Jetzt patchen! Angreifer bauen MooBot-Botnetz mit D-Link-Routern aus",
       "teaser": "Sicherheitsforscher warnen vor derzeit vermehrten Attacken auf ältere und aktuelle kritische Sicherheitslücken in Routern von D-Link.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-bauen-MooBot-Botnetz-mit-D-Link-Routern-aus-7256202.html",
       "image_title": "Botnetz, Cybercrime, Sicherheit, Matrix"
-    },
-    {
-      "title": "Alles unter Kontrolle: Wie Unified Monitoring das IT-Management revolutioniert",
-      "teaser": "Moderne IT-Infrastrukturen bestehen aus einer Vielzahl unterschiedlichster Systeme und Services. Nur mit einem umfassenden Monitoring auf allen Ebenen können IT-Verantwortliche den Überblick bewahren, Fehler schnell erkennen und Verfügbarkeit garantieren. Dabei sind vor allem fünf Bereiche entscheidend.",
-      "url": "https://www.heise.de/solutions/wuerth/alles-unter-kontrolle-wie-unified-monitoring-das-it-management-revolutioniert/?source=nat_teas"
     },
     {
       "title": "Programmiersprache Go bekommt integriertes Schwachstellenmanagement",
@@ -152,12 +157,6 @@
       "url": "https://www.heise.de/news/NSA-gibt-Sicherheitstipps-gegen-Supply-Chain-Attacken-7251765.html"
     },
     {
-      "title": "l+f: Keine Ehre unter Dieben, Folge 243",
-      "teaser": "Ein im Untergrund kommerziell gehandelter Infostealer bestahl auch seine Käufer – sofern man den Diebstahl gestohlener Daten als Diebstahl bezeichnen will.",
-      "url": "https://www.heise.de/news/l-f-Keine-Ehre-unter-Dieben-Folge-243-7251490.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "Lernen Sie, wie Sie Angriffe auf die IT erfolgreich abwehren. Denn IT-Sicherheit gewinnt immer weiter an Bedeutung. Steuern Sie jetzt aktiv gegen: Mit der heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0922.lp-security.link.link"
@@ -180,7 +179,7 @@
     {
       "title": "Re: desinfec't usb stick bootet nicht mehr nach Windows Security Update KB501217",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfec-t-usb-stick-bootet-nicht-mehr-nach-Windows-Security-Update-KB501217/posting-41572373/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfec-t-usb-stick-bootet-nicht-mehr-nach-Windows-Security-Update-KB501217/posting-41574855/show/"
     },
     {
       "title": "Scannen von Linux Partitionen",
