@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-09T09:24:58",
+  "timestamp": "2022-09-09T10:26:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "OpenWrt: Bessere Firewall, etwas WiFi 6 und frisch für 292 Milliarden Jahre",
+      "teaser": "Im Release 22.03.0 erweitert OpenWrt das freie Betriebssystem für Netzwerkgeräte deutlich. Unter anderem erfolgt der wichtige Umstieg von iptables auf nftables.",
+      "url": "https://www.heise.de/news/OpenWrt-Bessere-Firewall-etwas-WiFi-6-und-frisch-fuer-292-Milliarden-Jahre-7258213.html"
+    },
+    {
       "title": "\"Unmittelbare Gefahr für Menschenleben\": Cloudflare blockiert Hetzforum",
       "teaser": "Cloudflare hat einem berüchtigten Onlineforum den Schutz vor DDoS-Attacken entzogen. Wenige Tage vorher hatte das US-Unternehmen genau das noch ausgeschlossen.",
       "url": "https://www.heise.de/news/Unmittelbare-Gefahr-fuer-Menschenleben-Cloudflare-blockiert-Hetzforum-7253422.html"
@@ -37,11 +42,6 @@
       "image_title": "Circular,Economy,Concept.,Energy,Consumption,And,Co2,Emissions,Are,Increasing."
     },
     {
-      "title": "Unverschlüsselte Zugriffsschlüssel für Amazon Cloud in tausenden Apps",
-      "teaser": "Sicherheitsforscher warnen vor unverschlüsselten Access Tokens in Apps. Oft holen sich Entwickler Probleme ungewollt ins Haus. Besonders betroffen: iOS-Apps.",
-      "url": "https://www.heise.de/news/Unverschluesselte-Access-Tokens-Sicherheitsluecke-in-tausenden-Apps-7252134.html"
-    },
-    {
       "title": "KI spielt NetHack: Was die Grenzen von Machine-Learning-Agenten sind",
       "teaser": "Bei der NetHack Challenge traten Machine-Learning-Agenten gegen das Spiel an – eine Herausforderung für das Reinforcement Learning.",
       "url": "https://www.heise.de/hintergrund/KI-spielt-NetHack-Was-die-Grenzen-von-Machine-Learning-Agenten-sind-7255751.html"
@@ -50,6 +50,27 @@
       "title": "Digitale Unterschrift: Der rechtliche Wert eingescannter Unterschriften",
       "teaser": "Manch einer behilft sich damit, einen unterzeichneten Vertrag zu scannen und als PDF-Datei zu mailen. Rechtlich ist eine Willenserklärung damit jedoch unsicher.",
       "url": "https://www.heise.de/hintergrund/Digitale-Unterschrift-Der-rechtliche-Wert-eingescannter-Unterschriften-7255873.html"
+    },
+    {
+      "title": "Angreifer ergaunern durch Passwort-Ausprobieren fast 200.000 North-Face-Accounts",
+      "teaser": "Die Website des Herstellers von Outdoor-Bekleidung North Face war das Ziel einer Credential-Stuffing-Attacke.",
+      "url": "https://www.heise.de/news/Angreifer-ergaunern-durch-Passwort-Ausprobieren-fast-200-000-North-Face-Accounts-7259169.html"
+    },
+    {
+      "title": "Open Source Adieu: JVM-Toolkit Akka verabschiedet sich von der Apache-Lizenz",
+      "teaser": "Die Implementierung des Aktorenmodells steht künftig unter der BSL 1.1. Das Apache-Flink-Team, das auf Akka setzt, gibt derweil Entwarnung für die Flink-Lizenz.",
+      "url": "https://www.heise.de/news/Open-Source-Adieu-JVM-Toolkit-Akka-verabschiedet-sich-von-der-Apache-Lizenz-7258703.html"
+    },
+    {
+      "title": "Python: Compiler-Optionen können bei Gleitkommaberechnungen zu Fehlern führen",
+      "teaser": "Ein Wissenschaftler einer New Yorker Universität hat festgestellt, dass es bei einigen Python-Paketen zu Problemen mit nummerischen Berechnungen kommen kann.",
+      "url": "https://www.heise.de/news/Python-Compiler-Optionen-koennen-bei-Gleitkommaberechnungen-zu-Fehlern-fuehren-7257654.html",
+      "image_title": "Cybercrime"
+    },
+    {
+      "title": "c’t-Webinar: IT-Sicherheit für Bürohelden",
+      "teaser": "Gute IT-Security gibt es nur, wenn alle Angestellten eines Unternehmens mithelfen – auch die ohne IT-Kenntnisse. Unser Webinar liefert die nötigen Grundlagen.",
+      "url": "https://www.heise.de/news/c-t-Webinar-IT-Sicherheit-fuer-Buerohelden-7257875.html"
     },
     {
       "title": "iX-Workshop: Azure AD als zentralen Authentifizierungsdienst einrichten",
@@ -111,27 +132,6 @@
       "teaser": "Die 7. Europameisterschaft für \"Nachwuchshacker\" ECSC 2022 steigt kommende Woche in Wien. Parallel gibt es die erste openECSC für jedermann.",
       "url": "https://www.heise.de/news/Hack-Wettbewerb-online-fuer-alle-Online-European-Cyber-Security-Challenge-7258616.html",
       "image_title": "Menschen mit Laptops sitzen an einem Tisch, auf dem ein deutscher Wimpel steht"
-    },
-    {
-      "title": "Gerichtsentscheidung: kein pauschaler Ausschluss von US-Cloud-Anbietern",
-      "teaser": "Das OLG Karlsruhe entscheidet: Tochterunternehmen von US-Konzernen dürfen nicht pauschal aus Vergabeverfahren ausgeschlossen werden.",
-      "url": "https://www.heise.de/news/Gerichtsentscheidung-kein-pauschaler-Ausschluss-von-US-Cloud-Anbietern-7258377.html"
-    },
-    {
-      "title": "Unterversorgung: Erste Haushalte profitieren vom Recht auf \"schnelles\" Internet",
-      "teaser": "Die Bundesnetzagentur hat erstmals förmlich eine Unterversorgung mit Telekommunikationsdiensten in mehreren niedersächsischen Gemeinden festgestellt.",
-      "url": "https://www.heise.de/news/Unterversorgung-Erste-Haushalte-profitieren-vom-Recht-auf-schnelles-Internet-7258367.html"
-    },
-    {
-      "title": "HTTPS-Zertifikate: Die Rückkehr der Sperrlisten",
-      "teaser": "Zukünftig soll es endlich wieder möglich sein, kompromittierte Zertifikate einfach zu sperren. Apple und Mozilla preschen vor und Let's Encrypt zieht mit.",
-      "url": "https://www.heise.de/news/HTTPS-Zertifikate-Die-Rueckkehr-der-Sperrlisten-7257554.html",
-      "image_title": "Zertifikat"
-    },
-    {
-      "title": "Alles im Fluss: Arbeiten an LNG-Terminal in Wilhelmshaven im Zeitplan",
-      "teaser": "Ende des Jahres soll Deutschlands erstes Flüssigerdgas-Terminal in Betrieb gehen. Bislang liegen die Arbeiten im Zeitplan. Entscheidend ist das Wetter.",
-      "url": "https://www.heise.de/news/Alles-im-Fluss-Arbeiten-an-LNG-Terminal-in-Wilhelmshaven-im-Zeitplan-7258325.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
