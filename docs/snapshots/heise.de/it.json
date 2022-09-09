@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-09T11:20:46",
+  "timestamp": "2022-09-09T12:48:33",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "HTTPS-Zertifikate: Die Rückkehr der Sperrlisten",
+      "teaser": "Zukünftig soll es endlich wieder möglich sein, kompromittierte Zertifikate einfach zu sperren. Apple und Mozilla preschen vor und Let's Encrypt zieht mit.",
+      "url": "https://www.heise.de/news/HTTPS-Zertifikate-Die-Rueckkehr-der-Sperrlisten-7257554.html",
+      "image_title": "Zertifikat"
+    },
+    {
       "title": "OpenWrt: Bessere Firewall, etwas WiFi 6 und frisch für 292 Milliarden Jahre",
       "teaser": "Im Release 22.03.0 erweitert OpenWrt das freie Betriebssystem für Netzwerkgeräte deutlich. Unter anderem erfolgt der wichtige Umstieg von iptables auf nftables.",
       "url": "https://www.heise.de/news/OpenWrt-Bessere-Firewall-etwas-WiFi-6-und-frisch-fuer-292-Milliarden-Jahre-7258213.html"
@@ -36,12 +42,6 @@
       "url": "https://www.heise.de/news/Unmittelbare-Gefahr-fuer-Menschenleben-Cloudflare-blockiert-Hetzforum-7253422.html"
     },
     {
-      "title": "\"Bits & Bäume\": Warum die Digitalisierung nachhaltig sein muss",
-      "teaser": "Ende September/Anfang Oktober findet in Berlin die Konferenz \"Bits & Bäume\" statt. Im Vorfeld wird jetzt ein Forderungskatalog an die Politik übersandt.",
-      "url": "https://www.heise.de/news/Bits-Baeume-Warum-die-Digitalisierung-nachhaltig-sein-muss-7252680.html",
-      "image_title": "Circular,Economy,Concept.,Energy,Consumption,And,Co2,Emissions,Are,Increasing."
-    },
-    {
       "title": "KI spielt NetHack: Was die Grenzen von Machine-Learning-Agenten sind",
       "teaser": "Bei der NetHack Challenge traten Machine-Learning-Agenten gegen das Spiel an – eine Herausforderung für das Reinforcement Learning.",
       "url": "https://www.heise.de/hintergrund/KI-spielt-NetHack-Was-die-Grenzen-von-Machine-Learning-Agenten-sind-7255751.html"
@@ -50,6 +50,27 @@
       "title": "Digitale Unterschrift: Der rechtliche Wert eingescannter Unterschriften",
       "teaser": "Manch einer behilft sich damit, einen unterzeichneten Vertrag zu scannen und als PDF-Datei zu mailen. Rechtlich ist eine Willenserklärung damit jedoch unsicher.",
       "url": "https://www.heise.de/hintergrund/Digitale-Unterschrift-Der-rechtliche-Wert-eingescannter-Unterschriften-7255873.html"
+    },
+    {
+      "title": "Grünes Programmieren: C und Rust energieeffizient, Python und Perl Schlusslicht",
+      "teaser": "Eine Studie hat den Energieverbrauch von Programmiersprachen untersucht und bietet Tipps für energiebewusstes Programmieren. C und Rust schneiden am besten ab.",
+      "url": "https://www.heise.de/news/Gruenes-Programmieren-C-und-Rust-energieeffizient-Python-und-Perl-Schlusslicht-7259319.html"
+    },
+    {
+      "title": "Facebook bekräftigt pseudonymisierte Identifier als Schutz vor Scrapern",
+      "teaser": "Um vor Scraping zu schützen, führt Facebook pseudonymisierte Identifier mit Zeitstempel ein. Das schützt Facebook auch für Tracking-Blockern.",
+      "url": "https://www.heise.de/news/Facebook-bekraeftigt-pseudonymisierte-Identifier-als-Schutz-vor-Scapern-7259333.html"
+    },
+    {
+      "title": "Vorbestellung startet: Apple schickt iPhone 14 und 14 Pro ins Rennen",
+      "teaser": "Apple, Telekom, Vodafone und O2 haben die neuesten iPhone-Modelle ins Programm aufgenommen. Laufzeittarife sollen Apples Preiserhöhung kaschieren.",
+      "url": "https://www.heise.de/news/Vorbestellung-startet-Apple-schickt-iPhone-14-und-14-Pro-ins-Rennen-7259501.html",
+      "image_title": "iPhone 14 Pro"
+    },
+    {
+      "title": "Live-Webinar: iOS im Unternehmen einsetzen (Last Call)",
+      "teaser": "Bereitstellungsprogramme, Geräteverwaltung, User Enrollment, BYOD: Das Live-Webinar zeigt am 27.9., wie iPhones und iPads in Firmen richtig zum Einsatz kommen.",
+      "url": "https://www.heise.de/news/Live-Webinar-iOS-im-Unternehmen-einsetzen-Last-Call-7258906.html"
     },
     {
       "title": "Analyst: Ab dem iPhone 15 noch mehr Funktionen nur beim teuersten Modell",
@@ -109,29 +130,6 @@
       "title": "Moderne Spieleprogrammierung mit dem Entity Component System und der Engine Bevy",
       "teaser": "Die Game-Engine Bevy verwendet die Programmiersprache Rust und das in der Spieleentwicklung zunehmend verbreitete Entity Component System.",
       "url": "https://www.heise.de/hintergrund/Moderne-Spieleprogrammierung-mit-dem-Entity-Component-System-und-der-Engine-Bevy-7257412.html"
-    },
-    {
-      "title": "iX-Workshop: Penetrationstests – Methodik, Ausschreibung, Auswertung",
-      "teaser": "Pentests erfolgreich beauftragen und einsetzen, um Schwachstellen in der eigenen IT aufzuspüren und zu beseitigen. Noch bis 12.9. mit 10% Frühbucherrabatt.",
-      "url": "https://www.heise.de/news/iX-Workshop-Penetrationstests-Methodik-Ausschreibung-Auswertung-7255799.html",
-      "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
-    },
-    {
-      "title": "GirlsDoPorn-Besitzer jetzt eine der meistgesuchten Personen des FBI",
-      "teaser": "Die US-Bundespolizei FBI hat 100.000 US-Dollar Belohnung für Hinweise ausgeschrieben, die zur Ergreifung des Mannes führen, der GirlsDoPorn betrieben hat.",
-      "url": "https://www.heise.de/news/GirlsDoPorn-Besitzer-jetzt-eine-der-meistgesuchten-Personen-des-FBI-7258667.html"
-    },
-    {
-      "title": "Reinigung statt Recycling: Alte Tintendrucker in Schuss bringen",
-      "teaser": "Tintendrucker mit verstopften Düsen müssen kein Fall fürs Recycling sein. Mehrere Reinigungsvorgänge lohnen sich. Wir haben das mit dem Epson EcoTank getestet.",
-      "url": "https://www.heise.de/ratgeber/Reinigung-statt-Recycling-Alte-Tintendrucker-in-Schuss-bringen-7255538.html",
-      "image_title": ","
-    },
-    {
-      "title": "Heizungs-Upgrade: Nachrüst-Technik für sparsames Heizen",
-      "teaser": "Energiesparen mit smarten Thermostaten, Heizmodulen, Zwischensteckern und einem Balkonkraftwerk. Wir zeigen Ihnen, wie Sie mit Technik sparsamer Heizen.",
-      "url": "https://www.heise.de/ratgeber/Heizungs-Upgrade-Nachruest-Technik-fuer-sparsames-Heizen-7254706.html",
-      "image_title": "Moritz Reichartz"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
