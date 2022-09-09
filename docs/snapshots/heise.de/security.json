@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-09T07:28:12",
+  "timestamp": "2022-09-09T08:32:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP Support Assistant",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-vorinstalliertem-Tool-HP-Support-Assistant-geschlossen-7258790.html"
+    },
+    {
       "title": "Hitachi RAID Manager SRA",
       "url": "https://www.heise.de/news/RAID-Manager-von-Hitachi-koennte-Ansatzpunkt-fuer-Schadcode-Attacken-sein-7257664.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-bauen-MooBot-Botnetz-mit-D-Link-Routern-aus-7256202.html"
     },
     {
-      "title": "Zyxel NAS",
-      "url": "https://www.heise.de/news/Auf-NAS-Systeme-von-Zyxel-koennte-Schadcode-gelangen-7255585.html"
+      "title": "iX-Workshop: Azure AD als zentralen Authentifizierungsdienst einrichten",
+      "teaser": "Lernen Sie, wie Sie das Active Directory aus der Cloud als Authentifizierungsprovider einsetzen und mit Azure AD hybride Identitäten sicher verwalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Azure-AD-als-zentralen-Authentifizierungsdienst-einrichten-7255706.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Sicherheitslücke in vorinstalliertem Tool HP Support Assistant geschlossen",
+      "teaser": "HP Support Assistant ist standardmäßig auf HP-Computern installiert. Eine Schwachstelle gefährdet nun Systeme.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-vorinstalliertem-Tool-HP-Support-Assistant-geschlossen-7258790.html"
     },
     {
       "title": "iX-Workshop: Penetrationstests – Methodik, Ausschreibung, Auswertung",
@@ -59,6 +70,11 @@
       "url": "https://www.heise.de/ratgeber/Malware-Analyse-fuer-Anfaenger-Tools-und-Schadcode-sicher-haendeln-7250304.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
     },
     {
+      "title": "Alles unter Kontrolle: Wie Unified Monitoring das IT-Management revolutioniert",
+      "teaser": "Moderne IT-Infrastrukturen bestehen aus einer Vielzahl unterschiedlichster Systeme und Services. Nur mit einem umfassenden Monitoring auf allen Ebenen können IT-Verantwortliche den Überblick bewahren, Fehler schnell erkennen und Verfügbarkeit garantieren. Dabei sind vor allem fünf Bereiche entscheidend.",
+      "url": "https://www.heise.de/solutions/wuerth/alles-unter-kontrolle-wie-unified-monitoring-das-it-management-revolutioniert/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 umsetzen (Last Call)",
       "teaser": "Lernen Sie an zwei Vormittagen die Security-Norm ISO 27001 mit ihren Herausforderungen, aber auch Chancen für Ihr Unternehmen kennen. Noch Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-umsetzen-Last-Call-7254477.html",
@@ -68,11 +84,6 @@
       "title": "RAID-Manager von Hitachi könnte Ansatzpunkt für Schadcode-Attacken sein",
       "teaser": "Für einige Versionen von Hitachi RAID Manager SRA sind Sicherheitsupdates erschienen. Für einige Ausgaben gibt es jedoch keinen Support mehr.",
       "url": "https://www.heise.de/news/RAID-Manager-von-Hitachi-koennte-Ansatzpunkt-fuer-Schadcode-Attacken-sein-7257664.html"
-    },
-    {
-      "title": "Alles unter Kontrolle: Wie Unified Monitoring das IT-Management revolutioniert",
-      "teaser": "Moderne IT-Infrastrukturen bestehen aus einer Vielzahl unterschiedlichster Systeme und Services. Nur mit einem umfassenden Monitoring auf allen Ebenen können IT-Verantwortliche den Überblick bewahren, Fehler schnell erkennen und Verfügbarkeit garantieren. Dabei sind vor allem fünf Bereiche entscheidend.",
-      "url": "https://www.heise.de/solutions/wuerth/alles-unter-kontrolle-wie-unified-monitoring-das-it-management-revolutioniert/?source=nat_teas"
     },
     {
       "title": "IT-Sicherheitstag 2022 zu Security-Angriffen und erfolgreichen Gegenmaßnahmen",
@@ -148,16 +159,6 @@
       "title": "Ransomware: Der Trend geht zum Angriff auf Linux-Server",
       "teaser": "Trend Micro sieht im ersten Halbjahr 2022 ein Wachstum bei Ransomware-Angriffen. Linux-Umgebungen sind 75 Prozent häufiger ein Ziel als im Vorjahreszeitraum.",
       "url": "https://www.heise.de/news/Ransomware-Der-Trend-geht-zum-Angriff-auf-Linux-Server-7254059.html"
-    },
-    {
-      "title": "Erpressungstrojaner DeadBolt nimmt erneut NAS-Systeme von Qnap ins Visier",
-      "teaser": "Stimmen die Voraussetzungen, schieben Angreifer derzeit die Ransomware DeadBolt auf Netzwerkspeicher von Qnap. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Erpressungstrojaner-DeadBolt-nimmt-erneut-NAS-Systeme-von-Qnap-ins-Visier-7253566.html"
-    },
-    {
-      "title": "Win32/Hive.ZY: Update stoppt Fehlalarmserie von Microsoft Defender unter Windows",
-      "teaser": "Die Windows-Virenabwehr Defender hat fälschlicherweise Chrome, Edge & Co. als Trojaner eingestuft.",
-      "url": "https://www.heise.de/news/Win32-Hive-ZY-Update-stoppt-Fehlalarmserie-von-Microsoft-Defender-unter-Windows-7253919.html"
     },
     {
       "title": "heise Security Tour 2022",
