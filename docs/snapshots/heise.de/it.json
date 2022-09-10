@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-10T07:22:12",
+  "timestamp": "2022-09-10T08:29:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Grünes Programmieren: C und Rust energieeffizient, Python und Perl Schlusslicht",
+      "teaser": "Eine Studie hat den Energieverbrauch von Programmiersprachen untersucht und bietet Tipps für energiebewusstes Programmieren. C und Rust schneiden am besten ab.",
+      "url": "https://www.heise.de/news/Gruenes-Programmieren-C-und-Rust-energieeffizient-Python-und-Perl-Schlusslicht-7259319.html"
+    },
+    {
       "title": "HTTPS-Zertifikate: Die Rückkehr der Sperrlisten",
       "teaser": "Zukünftig soll es endlich wieder möglich sein, kompromittierte Zertifikate einfach zu sperren. Apple und Mozilla preschen vor und Let's Encrypt zieht mit.",
       "url": "https://www.heise.de/news/HTTPS-Zertifikate-Die-Rueckkehr-der-Sperrlisten-7257554.html",
@@ -35,11 +40,6 @@
       "title": "OpenWrt: Bessere Firewall, etwas WiFi 6 und frisch für 292 Milliarden Jahre",
       "teaser": "Im Release 22.03.0 erweitert OpenWrt das freie Betriebssystem für Netzwerkgeräte deutlich. Unter anderem erfolgt der wichtige Umstieg von iptables auf nftables.",
       "url": "https://www.heise.de/news/OpenWrt-Bessere-Firewall-etwas-WiFi-6-und-frisch-fuer-292-Milliarden-Jahre-7258213.html"
-    },
-    {
-      "title": "\"Unmittelbare Gefahr für Menschenleben\": Cloudflare blockiert Hetzforum",
-      "teaser": "Cloudflare hat einem berüchtigten Onlineforum den Schutz vor DDoS-Attacken entzogen. Wenige Tage vorher hatte das US-Unternehmen genau das noch ausgeschlossen.",
-      "url": "https://www.heise.de/news/Unmittelbare-Gefahr-fuer-Menschenleben-Cloudflare-blockiert-Hetzforum-7253422.html"
     },
     {
       "title": "KI spielt NetHack: Was die Grenzen von Machine-Learning-Agenten sind",
@@ -88,11 +88,6 @@
       "image_title": "Das iPhone 14 Pro mit der Dynamic-Island-Anzeige."
     },
     {
-      "title": "Grünes Programmieren: C und Rust energieeffizient, Python und Perl Schlusslicht",
-      "teaser": "Eine Studie hat den Energieverbrauch von Programmiersprachen untersucht und bietet Tipps für energiebewusstes Programmieren. C und Rust schneiden am besten ab.",
-      "url": "https://www.heise.de/news/Gruenes-Programmieren-C-und-Rust-energieeffizient-Python-und-Perl-Schlusslicht-7259319.html"
-    },
-    {
       "title": "Facebook bekräftigt pseudonymisierte Identifier als Schutz vor Scrapern",
       "teaser": "Um vor Scraping zu schützen, führt Facebook pseudonymisierte Identifier mit Zeitstempel ein. Das schützt Facebook auch für Tracking-Blockern.",
       "url": "https://www.heise.de/news/Facebook-bekraeftigt-pseudonymisierte-Identifier-als-Schutz-vor-Scapern-7259333.html"
@@ -129,6 +124,11 @@
       "title": "Angreifer ergaunern durch Passwort-Ausprobieren fast 200.000 North-Face-Accounts",
       "teaser": "Die Website des Herstellers von Outdoor-Bekleidung North Face war das Ziel einer Credential-Stuffing-Attacke.",
       "url": "https://www.heise.de/news/Angreifer-ergaunern-durch-Passwort-Ausprobieren-fast-200-000-North-Face-Accounts-7259169.html"
+    },
+    {
+      "title": "Open Source Adieu: JVM-Toolkit Akka verabschiedet sich von der Apache-Lizenz",
+      "teaser": "Die Implementierung des Aktorenmodells steht künftig unter der BSL 1.1. Das Apache-Flink-Team, das auf Akka setzt, gibt derweil Entwarnung für die Flink-Lizenz.",
+      "url": "https://www.heise.de/news/Open-Source-Adieu-JVM-Toolkit-Akka-verabschiedet-sich-von-der-Apache-Lizenz-7258703.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
