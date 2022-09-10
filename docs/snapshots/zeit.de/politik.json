@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-09T23:26:09",
+  "timestamp": "2022-09-10T02:32:25",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -62,10 +62,17 @@
   ],
   "articles": [
     {
+      "title": "Energiekrise: Luisa Neubauer fordert mehr Aufmerksamkeit für erneuerbare Energien",
+      "teaser": "Die Aktivistin von Fridays for Future kritisiert, dass zu viel über Kohle und Atomkraft geredet wird. Potenziale von Erneuerbaren würden \"systematisch ausgeblendet\".",
+      "url": "https://www.zeit.de/politik/deutschland/2022-09/luisa-neubauer-erneuerbare-energien-atomkraft-kohle",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-09/luisa-neubauer-erneuerbare-energien/cinema__980x420"
+    },
+    {
       "title": "Frauenquote in der CDU: Zur Quote gequält",
       "teaser": "Emotional wie lange nicht ringt die CDU um die Frauenquote. Am Ende ist es der Parteichef Friedrich Merz, der ins Risiko geht – mit einer eindrücklichen Positionierung.",
       "url": "https://www.zeit.de/politik/deutschland/2022-09/cdu-frauenquote-parteitag-friedrich-merz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-09/cdu-frauenquote-parteitag-friedrich-merz-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-09/cdu-frauenquote-parteitag-friedrich-merz-bild/wide__822x462",
+      "image_title": "Frauenquote in der CDU: Zur Quote gequält"
     },
     {
       "title": "Iran: UN \"zutiefst besorgt\" über Todesurteile gegen lesbische Aktivistinnen",
@@ -73,13 +80,6 @@
       "url": "https://www.zeit.de/politik/ausland/2022-09/un-besorgt-todesurteil-lgbt-aktivistinnen",
       "image_url": "https://img.zeit.de/politik/ausland/2022-09/iran-lesbische-aktivistinnen-todesurteil/wide__822x462",
       "image_title": "Iran: UN \"zutiefst besorgt\" über Todesurteile gegen lesbische Aktivistinnen"
-    },
-    {
-      "title": "Neuer König von Großbritannien: König Charles nennt Queen als Vorbild für eigene Regentschaft",
-      "teaser": "Seine Mutter sei ihm ein Leben lang eine Inspiration gewesen, sagt der neue britische König. Wie sie wolle er seinem Volk mit Loyalität und Respekt dienen.",
-      "url": "https://www.zeit.de/politik/ausland/2022-09/koenig-charles-rede-nation",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-09/koenig-charles-rede-bild/wide__822x462",
-      "image_title": "Neuer König von Großbritannien: König Charles nennt Queen als Vorbild für eigene Regentschaft"
     },
     {
       "title": "Liveblog: Queen Elizabeth II: Die Königin ist tot, der König regiert",
@@ -174,11 +174,11 @@
       "image_title": "Russische Spionage im BMWi?: Moskau sieht mit"
     },
     {
-      "title": "CDU-Parteitag: CDU entscheidet sich für Einführung einer Frauenquote",
-      "teaser": "Schritt für Schritt sollen in den nächsten Jahren mehr Frauen in die Vorstandsämter der CDU kommen. Zum ersten Mal hat die Partei eine Vizegeneralsekretärin.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-09/cdu-parteitag-stellvertretende-generalsekretaerin-christina-stumpp-frauenquote",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-09/cdu-frauenquote-christina-stumpp-bild/cinema__980x420",
-      "image_title": "CDU-Parteitag: CDU entscheidet sich für Einführung einer Frauenquote"
+      "title": "Neuer König von Großbritannien: König Charles nennt Queen als Vorbild für eigene Regentschaft",
+      "teaser": "Seine Mutter sei ihm ein Leben lang eine Inspiration gewesen, sagt der neue britische König. Wie sie wolle er seinem Volk mit Loyalität und Respekt dienen.",
+      "url": "https://www.zeit.de/politik/ausland/2022-09/koenig-charles-rede-nation",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-09/koenig-charles-rede-bild/cinema__980x420",
+      "image_title": "Neuer König von Großbritannien: König Charles nennt Queen als Vorbild für eigene Regentschaft"
     },
     {
       "title": "Anzeige15 Jahre wie ein Jahrhundert – das kurze Leben zwischen den Kriegen",
@@ -186,6 +186,13 @@
       "url": "https://www.zeit.de/angebote/hoehenrausch/index",
       "image_url": "https://img.zeit.de/angebote/hoehenrausch/artikelbild-1-jaehner/wide__822x462",
       "image_title": "15 Jahre wie ein Jahrhundert – das kurze Leben zwischen den Kriegen"
+    },
+    {
+      "title": "CDU-Parteitag: CDU entscheidet sich für Einführung einer Frauenquote",
+      "teaser": "Schritt für Schritt sollen in den nächsten Jahren mehr Frauen in die Vorstandsämter der CDU kommen. Zum ersten Mal hat die Partei eine Vizegeneralsekretärin.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-09/cdu-parteitag-stellvertretende-generalsekretaerin-christina-stumpp-frauenquote",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-09/cdu-frauenquote-christina-stumpp-bild/wide__822x462",
+      "image_title": "CDU-Parteitag: CDU entscheidet sich für Einführung einer Frauenquote"
     },
     {
       "title": "Friedrich Merz: Schon Kanzler der Reserve?",
@@ -198,14 +205,14 @@
       "title": "Nachruf auf Queen Elizabeth II: Niemals beschweren. Niemals erklären",
       "teaser": "Königin Elisabeth II. stand vor allem für eines: Pflichterfüllung. Ihr Einsatz bis ins hohe Alter macht sie zu einer der größten englischen und britischen Herrscherinnen.",
       "url": "https://www.zeit.de/politik/ausland/2022-09/queen-elizabeth-ii-nachruf-tod-grossbritannien",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-09/queen-elizabeth-ii-nachruf-tod-grossbritannien-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-09/queen-elizabeth-ii-nachruf-tod-grossbritannien-bild/cinema__980x420",
       "image_title": "Nachruf auf Queen Elizabeth II: Niemals beschweren. Niemals erklären"
     },
     {
       "title": "Britisches Königshaus: Die Macht der Machtlosigkeit",
       "teaser": "Ein Leben lang war die Queen Beobachterin und entfesselte doch eine große politkulturelle Kraft. Warum man den Briten ihre Monarchie neiden darf – gerade in Krisenzeiten.",
       "url": "https://www.zeit.de/politik/ausland/2022-09/britisches-koenigshaus-koenigin-elisabeth-ii",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-09/queen-tod/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-09/queen-tod/wide__822x462",
       "image_title": "Britisches Königshaus: Die Macht der Machtlosigkeit"
     },
     {
@@ -219,14 +226,14 @@
       "title": "FDP : Fast wie unter Westerwelle",
       "teaser": "Steuern runter, Freiheit vor: Die FDP flüchtet in Reflexe aus Zeiten ihres früheren Vorsitzenden Guido Westerwelle. Dabei schadet sie sich selbst.",
       "url": "https://www.zeit.de/2022/37/fdp-christian-lindner-guido-westerwelle-liberalismus",
-      "image_url": "https://img.zeit.de/2022/37/d-j-vu-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2022/37/d-j-vu-bild-1/cinema__980x420",
       "image_title": "FDP : Fast wie unter Westerwelle"
     },
     {
       "title": "Nachrichtenpodcast: Das Vermächtnis der Königin",
       "teaser": "Am Donnerstag ist Queen Elizabeth II gestorben – was geht mit ihr verloren? Und was folgt? Außerdem: Die EU-Staaten wollen Zufallsgewinne von Stromerzeugern abschöpfen.",
       "url": "https://www.zeit.de/politik/2022-09/queen-elizabeth-ii-tod-trauer-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Das Vermächtnis der Königin"
     },
     {
@@ -240,14 +247,14 @@
       "title": "Corona-Hotspot Ischgl: Verbraucherschützer kündigen Sammelklage zu Corona in Ischgl an",
       "teaser": "Ischgl war im März 2020 ein Corona-Hotspot. Der österreichische Verbraucherschutzverein will nun eine Sammelklage einbringen – finanziert von deutschen Unternehmern.",
       "url": "https://www.zeit.de/gesellschaft/2022-09/corona-ischgl-verbraucherschutz-klage-oesterreich",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-09/corona-ischgl-verbraucherschutz-klage-oesterreich-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-09/corona-ischgl-verbraucherschutz-klage-oesterreich-bild/cinema__980x420",
       "image_title": "Corona-Hotspot Ischgl: Verbraucherschützer kündigen Sammelklage zu Corona in Ischgl an"
     },
     {
       "title": "Energiekrise: Hälfte der Bevölkerung findet Entlastungspaket unzureichend",
-      "teaser": "Eine repräsentative Umfrage hat ergeben, dass jeder zweite Deutsche sich mehr Entlastung von der Regierung erhofft. Sorgen wegen der Energiekrise sind weitverbreitet. 106 Kommentare",
+      "teaser": "Eine repräsentative Umfrage hat ergeben, dass jeder zweite Deutsche sich mehr Entlastung von der Regierung erhofft. Sorgen wegen der Energiekrise sind weitverbreitet.",
       "url": "https://www.zeit.de/politik/deutschland/2022-09/energiekrise-entlastungspaket-massnahmen-gaspreis",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-09/energiekrise-entlastungspaket-massnahmen-gaspreis-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-09/energiekrise-entlastungspaket-massnahmen-gaspreis-bild/wide__822x462",
       "image_title": "Energiekrise: Hälfte der Bevölkerung findet Entlastungspaket unzureichend"
     },
     {
@@ -277,13 +284,6 @@
       "url": "https://www.zeit.de/politik/ausland/2022-09/liz-truss-energiekrise-hilfsprogramm-grossbritannien",
       "image_url": "https://img.zeit.de/politik/ausland/2022-09/liz-truss-energie-hilfsprogramm/wide__822x462",
       "image_title": "Liz Truss: Mit Fracking und 150 Milliarden Pfund gegen die Krise"
-    },
-    {
-      "title": "Friedrich Merz : \"Ratlos, ratlos, ratlos\"",
-      "teaser": "Die CDU ist auf Sinnsuche. Zwei Fragen quälen die Christdemokraten: Wer sind wir eigentlich? Und: Ist Friedrich Merz der Richtige, um uns zurück zur Macht zu führen?",
-      "url": "https://www.zeit.de/politik/2022-09/friedrich-merz-cdu-bundestag-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2022-09/friedrich-merz-cdu-bundestag-politikpodcast-bild/wide__822x462",
-      "image_title": "Friedrich Merz : \"Ratlos, ratlos, ratlos\""
     },
     {
       "title": "CDU-Politikerin: Dagmar Schipanski ist tot",
