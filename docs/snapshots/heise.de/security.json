@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-13T11:21:04",
+  "timestamp": "2022-09-13T12:51:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Mitel MiVoice",
+      "url": "https://www.heise.de/news/Lorenz-Ransomware-nutzt-VoIP-Telefone-MiVoice-Connect-von-Mitel-als-Sprungbrett-7261947.html"
+    },
+    {
       "title": "HP-Computer",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Einige-HP-Computer-sind-seit-Monaten-verwundbar-7261657.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "HP Support Assistant",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-vorinstalliertem-Tool-HP-Support-Assistant-geschlossen-7258790.html"
-    },
-    {
-      "title": "Hitachi RAID Manager SRA",
-      "url": "https://www.heise.de/news/RAID-Manager-von-Hitachi-koennte-Ansatzpunkt-fuer-Schadcode-Attacken-sein-7257664.html"
     },
     {
       "title": "iX-Workshop: IT-Produkte nach EU-Recht prüfen und zertifizieren (Last Call)",
@@ -64,6 +64,11 @@
       "teaser": "Der Patch, der im Linux-Kernel 5.19 die Spectre-Variante Retbleed schließt, bringt große Leistungseinbußen bei VMs von VMware: Das zeigen Tests des Anbieters.",
       "url": "https://www.heise.de/news/Bis-zu-70-Prozent-langsamer-Kernel-Fix-gegen-Retbleed-macht-Linux-VMs-lahm-7261222.html",
       "image_title": "Linux Kernel 5.1"
+    },
+    {
+      "title": "Bericht: Um nicht erwischt zu werden, verschlüsselt Ransomware Daten partiell",
+      "teaser": "Sicherheitsforscher beobachten bei Erpressungstrojanern einen Trend zur schnelleren Verschlüsselung.",
+      "url": "https://www.heise.de/news/Bericht-Um-nicht-erwischt-zu-werden-verschluesselt-Ransomware-Daten-partiell-7261001.html"
     },
     {
       "title": "Krypto-Malware Shikitega überlistet den herkömmlichen Linux-Schutz",
@@ -153,12 +158,6 @@
       "title": "VPN-Lücke in älteren Cisco-Routern wird nicht mehr geschlossen",
       "teaser": "Für einige Cisco-Router ist der Support ausgelaufen. Es gibt wichtige Sicherheitsupdates für unter anderem Webex.",
       "url": "https://www.heise.de/news/VPN-Luecke-in-aelteren-Cisco-Routern-wird-nicht-mehr-geschlossen-7257206.html"
-    },
-    {
-      "title": "iX-Workshop: Moderne Kryptographie im Unternehmenseinsatz (Last Call)",
-      "teaser": "Wie funktionieren Verschlüsselung und digitale Signaturen und wie helfen sie, Unternehmensdaten abzusichern? Ein Kryptographie 101 an zwei Vormittagen (online).",
-      "url": "https://www.heise.de/news/iX-Workshop-Moderne-Kryptographie-im-Unternehmenseinsatz-Last-Call-7253826.html",
-      "image_title": "iX-Workshop Moderne Kryptographie"
     },
     {
       "title": "heise Security Tour 2022",
