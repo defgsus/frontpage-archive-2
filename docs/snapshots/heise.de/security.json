@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-13T07:39:11",
+  "timestamp": "2022-09-13T08:30:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP-Computer",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Einige-HP-Computer-sind-seit-Monaten-verwundbar-7261657.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Ansatzpunkte-fuer-Angreifer-in-Android-10-11-und-12-geschlossen-7260572.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/RAID-Manager-von-Hitachi-koennte-Ansatzpunkt-fuer-Schadcode-Attacken-sein-7257664.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/VPN-Luecke-in-aelteren-Cisco-Routern-wird-nicht-mehr-geschlossen-7257206.html"
+      "title": "iX-Workshop: IT-Produkte nach EU-Recht prüfen und zertifizieren (Last Call)",
+      "teaser": "An zwei Tagen werden Sie auf die Prüfung und Zertifizierung Ihrer IT-Produkte nach Standards wie CC, BSZ und NESAS vorbereitet.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-Last-Call-7260690.html",
+      "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
+    },
+    {
+      "title": "iPadOS, macOS Monterey und altes iOS: Apple patcht Lücken",
+      "teaser": "iPadOS 16 ist noch nicht fertig, dafür kommt ein Sicherheitsupdate. Auf dem Mac gibt's nun Safari 16 – und ebenfalls viele Patches. Auch iOS 15 wird bedacht.",
+      "url": "https://www.heise.de/news/iPadOS-macOS-Monterey-und-altes-iOS-Apple-patcht-Luecken-7261410.html",
+      "image_title": "iOS 15"
     },
     {
       "title": "Bis zu 70 Prozent langsamer: Kernel-Fix gegen Retbleed macht Linux-VMs lahm",
@@ -58,6 +70,11 @@
       "teaser": "AT&T Alien Labs hat eine Analyse zur neuen Linux-Malware Shikitega veröffentlicht. Der Schädling verschafft sich Root-Zugriff, seine Entdeckung ist schwierig.",
       "url": "https://www.heise.de/news/Krypto-Malware-Shikitega-ueberlistet-den-herkoemmlichen-Linux-Schutz-7260803.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "Patchday: Ansatzpunkte für Angreifer in Android 10, 11 und 12 geschlossen",
+      "teaser": "Angreifer könnten sich auf Android-Geräten weitreichende Nutzerrechte erschleichen. In Googles Pixel-Serie wurden kritische Lücken ausgebessert.",
+      "url": "https://www.heise.de/news/Patchday-Ansatzpunkte-fuer-Angreifer-in-Android-10-11-und-12-geschlossen-7260572.html"
     },
     {
       "title": "Albanien wehrt angeblich erneut iranische Cyberattacke ab",
@@ -142,23 +159,6 @@
       "teaser": "Wie funktionieren Verschlüsselung und digitale Signaturen und wie helfen sie, Unternehmensdaten abzusichern? Ein Kryptographie 101 an zwei Vormittagen (online).",
       "url": "https://www.heise.de/news/iX-Workshop-Moderne-Kryptographie-im-Unternehmenseinsatz-Last-Call-7253826.html",
       "image_title": "iX-Workshop Moderne Kryptographie"
-    },
-    {
-      "title": "Wegen Cyberattacke: Albanien kappt diplomatische Beziehungen zum Iran",
-      "teaser": "Zwei Monate nach einem heftigen Cyberangriff behauptet Albanien, die Schuldigen zu kennen. Die Islamische Republik Iran soll ihre Botschaft räumen.",
-      "url": "https://www.heise.de/news/Wegen-Cyberattacke-Albanien-kappt-diplomatische-Beziehungen-zum-Iran-7256264.html"
-    },
-    {
-      "title": "Jetzt patchen! Angreifer bauen MooBot-Botnetz mit D-Link-Routern aus",
-      "teaser": "Sicherheitsforscher warnen vor derzeit vermehrten Attacken auf ältere und aktuelle kritische Sicherheitslücken in Routern von D-Link.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-bauen-MooBot-Botnetz-mit-D-Link-Routern-aus-7256202.html",
-      "image_title": "Botnetz, Cybercrime, Sicherheit, Matrix"
-    },
-    {
-      "title": "l+f: Erster Security-Bug in Lotus 1-2-3 seit 30 Jahren",
-      "teaser": "IT-Boomer, die mit dem Linux-Port der einstmals marktführenden Tabellenkalkulation arbeiten, sollten zügig updaten, es droht ein 32 Jahre alter Buffer Overflow.",
-      "url": "https://www.heise.de/news/l-f-Erster-Security-Bug-in-Lotus-1-2-3-seit-30-Jahren-7255948.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
       "title": "heise Security Tour 2022",
