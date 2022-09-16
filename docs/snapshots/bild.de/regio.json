@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-09-16T06:09:16",
+  "timestamp": "2022-09-16T07:32:01",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,385 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.c53f2511.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.da62510d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.aaf43bc2.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.394a2048.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.996deb4d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.6bf47003.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Von-oben-herab-Tipps von Kretschmann & Co. : Haltet Ihr uns eigentlich für blöd?",
+      "url": "https://www.bild.de/politik/inland/politik-inland/von-oben-herab-tipps-von-kretschmann-co-fuer-wie-bloed-haltet-ihr-uns-eigentlich-81336404.bild.html",
+      "image_title": "Von-oben-herab-Tipps von Kretschmann & Co.: Für wie blöd haltet Ihr uns eigentlich?"
+    },
+    {
+      "title": "Hammer-Prognose für NÄCHSTES Jahr : Stadtwerke-Strom 60 Prozent teurer!",
+      "url": "https://www.bild.de/geld/mein-geld/talk-kritk/strompreis-prognose-2023-stadtwerke-im-naechsten-jahr-60-prozent-teurer-81338904.bild.html",
+      "image_title": "Strompreis-Prognose 2023: Stadtwerke im nächsten Jahr 60 Prozent teurer"
+    },
+    {
+      "title": "Zur Energiesicherung : Treuhand übernimmt Rosneft Deutschland",
+      "url": "https://www.bild.de/politik/2022/politik/fuer-energiesicherung-treuhand-uebernimmt-rosneft-deutschland-81339114.bild.html",
+      "image_title": "Zur Energiesicherung: Treuhand übernimmt Rosneft Deutschland"
+    },
+    {
+      "title": "Hier lag Peter Maffay voll daneben : Fehlentscheidung bei „The Voice“",
+      "url": "https://www.bild.de/unterhaltung/tv/tv/the-voice-of-germany-fehlentscheidung-peter-maffay-lag-daneben-81337922.bild.html",
+      "image_title": "„The Voice of Germany“: Fehlentscheidung! Peter Maffay lag daneben"
+    },
+    {
+      "title": "Wegen 11 Milliarden Fördergeld! : Batteriefabrik von Tesla auf der Kippe",
+      "url": "https://www.bild.de/regional/berlin/berlin-regional-politik-und-wirtschaft/wsj-berichtet-tesla-legt-batterieherstellung-in-guenheide-auf-eis-81333634.bild.html",
+      "image_title": "Wegen 11 Milliarden Fördergeld: Teslas Batteriefabrik in Grünheide steht auf der Kippe"
+    },
+    {
+      "title": "Mann (33) in S-Bahn verprügelt : Erneut antisemitischer Angriff in Berlin",
+      "teaser": "Erneut ist ein Mann in Berlin antisemitisch beleidigt und angegriffen worden!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/erneut-antisemitischer-angriff-in-berlin-mann-in-s-bahn-verpruegelt-81331612.bild.html",
+      "image_title": "Erneut antisemitischer Angriff in Berlin – Mann in S-Bahn verprügelt"
+    },
+    {
+      "title": "Geschmacklos am Flughafen BER : Museums-Shop verkauft DDR-Souvenirs",
+      "teaser": "In einem Museums-Shop am Flughafen BER werden DDR-Devotionalien verkauft.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/geschmacklos-am-flughafen-ber-museums-shop-verkauft-ddr-souvenirs-81325212.bild.html",
+      "image_title": "Geschmacklos am Flughafen BER: Museums-Shop verkauft DDR-Souvenirs"
+    },
+    {
+      "title": "Saison-Ende im Wohnwagen-Land Nummer 1 : Camper, kommt bald wieder!",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/saison-ende-im-wohnwagen-land-nummer-1-camper-kommt-bald-wieder-81336534.bild.html",
+      "image_title": "Saison-Ende im Wohnwagen-Land Nummer 1: Camper, kommt bald wieder!"
+    },
+    {
+      "title": "Wegen EM-Euphorie : Oldenburg hofft auf Basketball-Boom",
+      "teaser": "Deutschland im Basketball-Fieber. Davon könnten auch die Baskets Oldenburg profitieren.",
+      "url": "https://www.bild.de/sport/mehr-sport/regiosport-bremen/baskets-oldenburg-wegen-em-euphorie-hoffnung-auf-basketball-boom-81335004.bild.html",
+      "image_title": "Baskets Oldenburg: Wegen EM-Euphorie: Hoffnung auf Basketball-Boom"
+    },
+    {
+      "title": "Zwei Tests, dann Doppel-Pause : So läuft der Werder-Winter",
+      "teaser": "Wie Werder die lange WM-Pause nutzt, ist jetzt entschieden.",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-zwei-tests-dann-doppel-pause-so-laeuft-der-winter-81335910.bild.html",
+      "image_title": "Werder Bremen Zwei Tests, dann Doppel-Pause: So läuft der Winter"
+    },
+    {
+      "title": "Aufruhr in Aue : Sponsoren-Aufstand gegen FCE-Bosse",
+      "url": "https://www.bild.de/sport/fussball/fussball/aufruhr-in-aue-sponsoren-aufstand-gegen-fce-bosse-81339370.bild.html",
+      "image_title": "Aufruhr in Aue: Sponsoren-Aufstand gegen FCE-Bosse"
+    },
+    {
+      "title": "Knochen im Wald in Sachsen entdeckt : Löst dieses Etikett das Rätsel um ein totes Baby?",
+      "teaser": "Ein Jahr nach dem Fund einer Babyleiche in Ostsachsen sucht die Polizei nach Zeugen.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-loest-dieses-etikett-das-raetsel-um-ein-totes-baby-81331604.bild.html",
+      "image_title": "Sachsen: Löst dieses Etikett das Rätsel um ein totes Baby?"
+    },
+    {
+      "title": "Energiekosten-Schock : Liftbetreiber bibbern um Ski-Saison in Sachsen",
+      "teaser": "Vermasseln uns die steigenden Energiepreise nun auch noch den Winterspaß?",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/energiekosten-schock-liftbetreiber-bibbern-um-ski-saison-in-sachsen-81337932.bild.html",
+      "image_title": "Energiekosten-Schock: Liftbetreiber bibbern um Ski-Saison in Sachsen"
+    },
+    {
+      "title": "In Gegenverkehr gerauscht : Mehrere Verletzte nach Frontal-Crash",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/unfall-in-sachsen-in-gegenverkehr-gerauscht-ein-schwerverletzter-81330568.bild.html",
+      "image_title": "Unfall in Sachsen: In Gegenverkehr gerauscht – ein Schwerverletzter"
+    },
+    {
+      "title": "Ex-Torjäger kommt mit Ingolstadt : Herr Testroet, wollte Sie Dynamo zurückholen?",
+      "teaser": "Seine Dynamo-Zeit liegt inzwischen über vier Jahre zurück. Trotzdem schlägt das Herz von Pascal Testroet (31) immer noch höher, wenn er zurückkehrt.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/ex-torjaeger-kommt-herr-testroet-wollte-sie-dynamo-zurueckholen-81329406.bild.html",
+      "image_title": "Ex-Torjäger kommt: Herr Testroet, wollte Sie Dynamo zurückholen?"
+    },
+    {
+      "title": "Gründlich gefilzt : Dealer (18) mit Drogen im Schlüpfer erwischt",
+      "teaser": "Das Versteck war gut, aber nicht gut genug für die Polizei im Grenzgebiet bei Zittau.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-dealer-18-mit-drogen-im-schluepfer-erwischt-81330370.bild.html",
+      "image_title": "Sachsen: Dealer (18) mit Drogen im Schlüpfer erwischt"
+    },
+    {
+      "title": "Termin mit Fortuna-Aufsichtsrat : Allofs-Vertragspoker gestartet!",
+      "url": "https://www.bild.de/sport/fussball/fortuna-duesseldorf/termin-mit-fortuna-aufsichtsrat-allofs-vertragspoker-gestartet-81334794.bild.html",
+      "image_title": "Termin mit Fortuna-Aufsichtsrat: Allofs-Vertragspoker gestartet!"
+    },
+    {
+      "title": "„Tony ist ein harter Hund“ : Farke adelt ewigen Jantschke!",
+      "teaser": "Tony Jantschke lässt sich nicht unterkriegen – und meldet sich nach schon wieder fit",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-daniel-farke-adelt-tony-jantschke-81336582.bild.html",
+      "image_title": "Borussia Mönchengladbach: Daniel Farke adelt Tony Jantschke!"
+    },
+    {
+      "title": "Ausgerechnet gegen Mentor Rose : Lainer wieder nur Bankdrücker!",
+      "teaser": "Drei Jahre war Stefan Lainer (30) bei Borussia gesetzt – jetzt ist er nur noch Bankdrücker",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-stefan-lainer-gegen-marco-rose-nur-ersatz-81337264.bild.html",
+      "image_title": "Borussia Mönchengladbach: Stefan Lainer gegen Marco Rose nur Ersatz!"
+    },
+    {
+      "title": "Tatverdächtiger festgenommen : Toter bei Messerstecherei in Frankfurt",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/tatverdaechtiger-festgenommen-toter-bei-messerstecherei-in-frankfurt-81339172.bild.html",
+      "image_title": "Tatverdächtiger festgenommen: Toter bei Messerstecherei in Frankfurt"
+    },
+    {
+      "title": "Horror-Gegend : 1. Bahnhofsviertel-Wirt gibt auf!",
+      "teaser": "Die Schande im Bahnhofsviertel – jetzt gibt der erste Restaurant-Besitzer auf!",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/frankfurts-horror-gegend-1-bahnhofsviertel-wirt-gibt-auf-81335382.bild.html",
+      "image_title": "Frankfurts Horror-Gegend: 1. Bahnhofsviertel-Wirt gibt auf!"
+    },
+    {
+      "title": "Dr. Gerhard Sattler starb mit 66 : Schönheits-Doc der Stars tot!",
+      "teaser": "Er war DER Beauty-Doc von Rhein-Main: Schönheitschirurg Dr. Gerhard Sattler († 66).",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/dr-gerhard-sattler-starb-mit-66-schoenheits-doc-der-stars-tot-81335592.bild.html",
+      "image_title": "Dr. Gerhard Sattler starb mit 66: Schönheits-Doc der Stars tot!"
+    },
+    {
+      "title": "833. Hafen-Geburtstag : So kommen Sie zur Sause – und wieder weg",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/833-hafen-geburtstag-so-kommen-sie-zur-sause-und-wieder-weg-81320350.bild.html",
+      "image_title": "833. Hafen-Geburtstag: So kommen Sie zur Sause – und wieder weg"
+    },
+    {
+      "title": "Party im Hafen : Hafenkäpt'n Rosenkranz macht's zum 1. Mal",
+      "teaser": "Der Hafenkapitän Simon Rosenkranz steht das erste Mal auf der Brücke des größten Hafenfestes der Welt.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/party-im-hafen-hafenkaeptn-rosenkranz-machts-zum-1-mal-81320414.bild.html",
+      "image_title": "Party im Hafen: Hafenkäpt'n Rosenkranz macht's zum 1. Mal"
+    },
+    {
+      "title": "833. Hafengeburtstag : Schlepper, Segler, Seebären",
+      "teaser": "Nach zwei Jahren Pandemie-Pause dürfen wir endlich wieder kräftig anstoßen – 833. Hafengeburtstag!",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/bild-kaeptn-joekoe-erklaert-den-833-hafengeburtstag-schlepper-segler-seebaeren-81319848.bild.html",
+      "image_title": "BILD-Käpt'n Jökö erklärt den 833. Hafengeburtstag: Schlepper, Segler, Seebären"
+    },
+    {
+      "title": "BILD-Aktion auf dem Steinhuder Meer : Althusmann (CDU) beantwortet Leser-Fragen",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/bild-aktion-cdu-kandidat-althusmann-beantwortet-leser-fragen-81336272.bild.html",
+      "image_title": "BILD-Aktion: CDU-Kandidat Althusmann beantwortet Leser-Fragen"
+    },
+    {
+      "title": "Kiffer trickst Polizei aus - jetzt Gericht : Mit falschem Penis zum Urin-Test",
+      "teaser": "Ein Autofahrer hatte versucht, Polizisten hereinzulegen – mit einem falschen Penis!",
+      "url": "https://www.bild.de/regional/hannover/hamburg-aktuell/kiffer-trickst-polizei-aus-jetzt-steht-er-vor-gericht-mit-falschem-penis-zum-uri-81334608.bild.html",
+      "image_title": "Kiffer trickst Polizei aus – Mit falschem Penis zum Urin-Test"
+    },
+    {
+      "title": "Keine Angst vorm Angstgegner : Leitl greift mit Hannover Platz 3 an",
+      "teaser": "96 hat noch nie in Sandhausen gewonnen. Stefan Leitl hat einen Plan, wie es klappen kann.",
+      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-stefan-leitl-greift-in-sandhausen-relegations-platz-3-an-81335962.bild.html",
+      "image_title": "Hannover 96: Stefan Leitl greift in Sandhausen Relegations-Platz 3 an"
+    },
+    {
+      "title": "Zwei Jahre Haft wegen Raubs : Er fesselte seinen Lover und klaute dessen E-Bike",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-er-fesselte-seinen-lover-und-klaute-dessen-e-bike-81338778.bild.html",
+      "image_title": "Köln: Er fesselte seinen Lover und klaute dessen E-Bike"
+    },
+    {
+      "title": "Weil sie nichts taugen! : Lehrer in Köln geben iPads zurück",
+      "teaser": "Rund 1000 Kölner Lehrer haben aus Protest ihre dienstlichen iPads zurückgegeben.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-weil-sie-nichts-taugen-lehrer-geben-ipads-zurueck-81334642.bild.html",
+      "image_title": "Köln: Weil sie nichts taugen! Lehrer geben iPads zurück"
+    },
+    {
+      "title": "Wolfnachwuchs im Hohen Venn : Zum Jaulen süß",
+      "teaser": "Die Wölfe im Hohen Venn haben wieder Nachwuchs bekommen.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/wolfsnachwuchs-im-hohen-venn-von-wildkamera-geknipst-zum-jaulen-suess-81334214.bild.html",
+      "image_title": "Wolfsnachwuchs im Hohen Venn von Wildkamera geknipst: Zum Jaulen süß"
+    },
+    {
+      "title": "Rechtsstreit um verschwundene Kunst : 5000 Euro! Fischer-Art setzt Kopfgeld auf eigenes Bild aus",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-5000-euro-fischer-art-setzt-kopfgeld-auf-eigenes-bild-aus-81337874.bild.html",
+      "image_title": "Leipzig: 5000 Euro! Fischer-Art setzt Kopfgeld auf eigenes Bild aus"
+    },
+    {
+      "title": "„Tank leer machen“ : Gulacsi-Ansage an müde Leipziger",
+      "teaser": "Müde Beine bei RB Leipzig vorm Bundesliga-Duell in Gladbach.",
+      "url": "https://www.bild.de/sport/fussball/rb-leipzig/rb-leipzig-gulacsi-ansage-an-muede-leipziger-81335056.bild.html",
+      "image_title": "RB Leipzig: Gulacsi-Ansage an müde Leipziger"
+    },
+    {
+      "title": "Mord an Jesse L. (†19) aus Leipzig : War das Geständnis des Kopfschuss-Killers eine Lüge?",
+      "teaser": "Nach dem sechsten Verhandlungstag gerät Zahnarzt-Sohn Max D. in Erklärungsnot.",
+      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/mordfall-jesse-l-aus-leipzig-war-das-gestaendnis-des-killers-eine-luege-81331608.bild.html",
+      "image_title": "Mordfall Jesse L. aus Leipzig: War das Geständnis des Killers eine Lüge?"
+    },
+    {
+      "title": "Fahrer entkommt Flammenhölle : Truck verbrennt nach Baumcrash",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-bei-greifswald-truck-verbrennt-nach-baumcrash-81339548.bild.html",
+      "image_title": "Unfall bei Greifswald: Truck verbrennt nach Baumcrash"
+    },
+    {
+      "title": "Hansa-Manager Pieckenhagen : „Es müssen Lösungen gefunden werden“",
+      "teaser": "Angespannte Situation bei Hansa nach 3 Pleiten in Folge. Manager Pieckenhagen im Interview.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hansa-manager-pieckenhagen-es-muessen-loesungen-gefunden-werden-81323542.bild.html",
+      "image_title": "Hansa-Manager Pieckenhagen: „Es müssen Lösungen gefunden werden“"
+    },
+    {
+      "title": "Gefährliche Aktion in MVP : Diebe entfernen 20 Gully-Deckel",
+      "teaser": "In Mecklenburg-Vorpommern treiben sich Gully-Diebe umher. Tiefe Löcher klaffen im Boden!",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-diebe-entfernen-20-gully-deckel-81324496.bild.html",
+      "image_title": "Mecklenburg-Vorpommern: Diebe entfernen 20 Gully-Deckel"
+    },
+    {
+      "title": "Angekettet wie ein Hund : Bruder sperrt Schwester 22 Jahre in Zimmer ein",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/italien-bruder-sperrt-schwester-22-jahre-in-zimmer-ein-81339938.bild.html",
+      "image_title": "Italien: Bruder sperrt Schwester 22 Jahre in Zimmer ein"
+    },
+    {
+      "title": "TV-Star Doreen Dietel : Ein Stalker will mein Leben zerstören",
+      "teaser": "Die Nerven liegen blank. TV-Star Doreen Dietel wird von einem Stalker verfolgt.",
+      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/doreen-dietel-ein-stalker-will-mein-leben-zerstoeren-81336944.bild.html",
+      "image_title": "Doreen Dietel: Ein Stalker will mein Leben zerstören"
+    },
+    {
+      "title": "Sehen Sie die Schlager-Königin in Ihrer Wunschstadt : 800 Tickets für Andrea Bergs Arena-Tour zu gewinnen!",
+      "teaser": "Sie ist die Königin des deutschen Schlagers: Andrea Berg! Ab November 2022 geht sie wie...",
+      "url": "https://www.bild.de/bild-plus/gewinnspiele/bildplus-aktion/andrea-berg-gewinnen-sie-hier-tickets-fuer-die-mosaik-live-arena-tour-2022-80743942.bild.html",
+      "image_title": "Andrea Berg: Gewinnen Sie hier Tickets für die „MOSAIK Live“-Arena-Tour 2022"
+    },
+    {
+      "title": "Tomas V. (31) legte Klein-Anleger rein : 8 Mio. Abzocke mit „Höhle der Löwen“-Trick",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-8-mio-euro-abzocke-mit-hoehle-der-loewen-trick-81334868.bild.html",
+      "image_title": "München: 8 Mio. Euro Abzocke mit Höhle der Löwen Trick"
+    },
+    {
+      "title": "„Nürnberger Rassegesetze“ : Nürnberg gedenkt der NS-Opfer",
+      "teaser": "Nürnberg – Nürnbergs Oberbürgermeister Marcus König (41, CSU) legte einen Kranz nieder.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/nuernberger-rassegesetze-nuernbergs-gedenkt-der-ns-opfer-81335080.bild.html",
+      "image_title": "„Nürnberger Rassegesetze“: Nürnbergs gedenkt der NS-Opfer"
+    },
+    {
+      "title": "Neue Ausstellung : So hat sich Nürnberg verändert",
+      "teaser": "Eine neue Ausstellung beweist es: Nürnberg wird immer schöner und lebenswerter.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/neue-ausstellung-so-hat-sich-nuernberg-veraendert-81338066.bild.html",
+      "image_title": "Neue Ausstellung: So hat sich Nürnberg verändert"
+    },
+    {
+      "title": "Zeppelin wird neuer Ankermieter in Mülheim : Das Ruhrgebiet bekommt ein zweites Luftschiff",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/2-luftschiff-zeppelin-wird-neuer-ankermieter-am-flughafen-essen-muelheim-81339628.bild.html",
+      "image_title": "2. Luftschiff! Zeppelin wird neuer Ankermieter am Flughafen Essen/Mülheim"
+    },
+    {
+      "title": "Autofahrer aufgepasst! : Brückenabriss – A1 bei Münster voll gesperrt",
+      "teaser": "Autofahrer müssen sich an diesem Wochenende auf längere Fahrzeiten auf der A1 einstellen.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/autofahrer-aufgepasst-brueckenabriss-a1-bei-muenster-voll-gesperrt-81339218.bild.html",
+      "image_title": "Autofahrer aufgepasst!: Brückenabriss – A1 bei Münster voll gesperrt"
+    },
+    {
+      "title": "Katis Kuh-Coup! : Arnsbergerin züchtet die teuersten Rinder der Welt",
+      "teaser": "Als sich andere Mädchen ein eigenes Pony wünschten, träumte Katrin Schütz schon von Kühen.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/arnsberg-kati-zuechtet-die-teuersten-rinder-der-welt-81338694.bild.html",
+      "image_title": "Arnsberg: Kati züchtet die teuersten Rinder der Welt"
+    },
+    {
+      "title": "Brandanschlag auf Asylbewerberunterkunft in Saarlouis 1991 : Neonazi kommt nach 31 Jahren vor Gericht",
+      "url": "https://www.bild.de/regional/saarland/frankfurt-aktuell/saarlouis-brandanschlag-1991-prozess-gegen-neonazi-nach-31-jahren-81339280.bild.html",
+      "image_title": "Saarlouis: Brandanschlag 1991: Prozess gegen Neonazi nach 31 Jahren"
+    },
+    {
+      "title": "Millionen Fans : Mein Bus ist meine Bühne",
+      "teaser": "Der Mann gehört eigentlich nicht in den Bus,sondern auf die Bühne! Anthony ist TikTok-Star",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/saarbruecken-millionen-fans-im-netz-mein-bus-ist-meine-buehne-81334374.bild.html",
+      "image_title": "Saarbrücken: Millionen Fans im Netz: Mein Bus ist meine Bühne"
+    },
+    {
+      "title": "1. FC Saarbrücken : Jetzt spricht der neue FCS-Boss!",
+      "teaser": "Er ist der neue starke Mann beim 1. FC Saarbrücken! Der neue Manager Rüdiger Ziehl (44).",
+      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-jetzt-spricht-der-neue-fcs-boss-81334388.bild.html",
+      "image_title": "1. FC Saarbrücken: Jetzt spricht der neue FCS-Boss!"
+    },
+    {
+      "title": "Ehefrau getötet : Killer entschuldigt sich vor Gericht",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/ehefrau-getoetet-killer-entschuldigt-sich-vor-gericht-81337814.bild.html",
+      "image_title": "Ehefrau getötet: Killer entschuldigt sich vor Gericht"
+    },
+    {
+      "title": "Rentner soll sechsfachen Gaspreis zahlen : Sitz-Protest am Straßenrand",
+      "teaser": "Mit Schild und Plastikstuhl hat er es bereits zu lokaler Berühmtheit gebracht!",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-rentner-protestiert-am-strassenrand-gegen-gas-krise-81327570.bild.html",
+      "image_title": "Sachsen-Anhalt: Rentner protestiert am Straßenrand gegen Gas-Krise"
+    },
+    {
+      "title": "Maschine ist Teil des Ensembles : Theater bringt Roboter auf die Bühne",
+      "teaser": "In Magdeburg werden nun zwei Roboter Theater-Stars!",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-theater-magdeburg-bringt-roboter-auf-die-buehne-81329018.bild.html",
+      "image_title": "Sachsen-Anhalt: Theater Magdeburg bringt Roboter auf die Bühne"
+    },
+    {
+      "title": "Schwäbisch Hall : 90-Jährige will Auto ausweichen – schwer verletzt",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/schwaebisch-hall-90-jaehrige-will-auto-ausweichen-schwer-verletzt-81339264.bild.html",
+      "image_title": "Schwäbisch Hall: 90-Jährige will Auto ausweichen – schwer verletzt"
+    },
+    {
+      "title": "Firmenbosse sprechen in BILD : So geht clever sparen, Herr Minister!",
+      "teaser": "300 000 Euro Steuergeld für Kretschmanns Spartipps, die jeder kennt. In BILD sprechen jetzt Firmenbosse.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/nach-cleverlaend-gau-unternehmer-aus-dem-laendle-sprechen-in-bild-81332516.bild.html",
+      "image_title": "Nach Cleverländ-Gau: Unternehmer aus dem Ländle sprechen in BILD"
+    },
+    {
+      "title": "Neue Highlights auf dem Volksfest : Wasen, was los ist!",
+      "teaser": "Nur noch sieben Tage, dann steigt nach drei Jahren Corona-Pause endlich wieder das Cannstatter Volksfest.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/neue-highlights-auf-dem-volksfest-wasen-was-los-ist-81335574.bild.html",
+      "image_title": "Neue Highlights auf dem Volksfest: Wasen, was los ist!"
+    },
+    {
+      "title": "Wohnung verwüstet, Kumpel verprügelt : Hilfe, mein Ex war zu Besuch",
+      "url": "https://www.bild.de/regional/thueringen/sachsen-anhalt-news/stalking-wohnung-verwuestet-hilfe-mein-ex-war-zu-besuch-81337710.bild.html",
+      "image_title": "Stalking: Wohnung verwüstet – Hilfe, mein Ex war zu Besuch"
+    },
+    {
+      "title": "Er trainierte RWE und Carl Zeiss : Warum Raab Jena vorm Derby warnt",
+      "teaser": "Was Jürgen Raab (63) am Sonntag macht, steht langem fest. Er schaut sich das Derby an.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/er-trainierte-rwe-und-carl-zeiss-warum-raab-jena-vorm-derby-warnt-81335888.bild.html",
+      "image_title": "Er trainierte RWE und Carl Zeiss: Warum Raab Jena vorm Derby warnt"
+    },
+    {
+      "title": "Ausgeraubt und schwer verletzt : Neonazis nach Attacke auf Journalisten verurteilt",
+      "teaser": "Milde Strafen für zwei Neonazis im Prozess um einen Angriff auf Journalisten.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/prozess-neonazis-nach-attacke-auf-journalisten-verurteilt-81334592.bild.html",
+      "image_title": "Prozess: Neonazis nach Attacke auf Journalisten verurteilt"
+    }
+  ]
 }
