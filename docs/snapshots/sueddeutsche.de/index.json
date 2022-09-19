@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-19T17:37:50",
+  "timestamp": "2022-09-19T18:32:28",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,12 +78,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-88a78cd55bcdad2e6c2f.mjs",
       "id": null,
@@ -128,19 +122,25 @@
   ],
   "articles": [
     {
+      "title": "The Last Goodbye",
+      "teaser": "Ob in Parks, Kinos, Pubs oder auf den Straßen, die Menschen verabschieden sich von Elizabeth II. und wissen sehr genau, dass von jetzt an vieles anders sein wird. Szenen aus dem in Trauer vereinigten Königreich.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/queen-beerdigung-elizabeth-grossbritannien-koenig-charles-e235274/",
+      "author": "Michael Neudecker, London",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5660193/1000x420"
+    },
+    {
+      "title": "Wahlkampf am Sarg der Queen",
+      "teaser": "In London nutzt Brasiliens Staatschef Jair Bolsonaro die Trauerfeierlichkeiten, um sich selbst zu loben. Zu Hause brennt es derweil lichterloh im Amazonas-Regenwald.",
+      "url": "https://www.sueddeutsche.de/politik/brasilien-jair-bolsonaro-begraebnis-der-queen-wahlkampf-1.5660035",
+      "author": "Christoph Gurk, Buenos Aires",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5660074/208x156"
+    },
+    {
       "title": "\"Wir gehen über die Schmerzgrenze hinaus\"",
       "teaser": "Liefert Deutschland genug Waffen, um die Ukraine zu unterstützen? Der Generalinspekteur der Bundeswehr, Eberhard Zorn, über die schwierige Balance, zu geben, was möglich ist - aber zu behalten, was nötig ist.",
       "url": "https://www.sueddeutsche.de/politik/ukraine-bundeswehr-waffenlieferung-zorn-1.5659958",
       "author": "Interview von Joachim Käppner und Mike Szymanski",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5659959/1000x420"
-    },
-    {
-      "title": "Deutschland liefert Ukraine vier weitere Panzerhaubitzen",
-      "teaser": "Die Ukraine meldet einen Angriff auf das Atomkraftwerk Süd-Ukraine. Den Vorwurf, Russland habe im Bezirk Charkiw Kriegsverbrechen begangen, weist der Kreml als \"Lüge\" zurück.",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-panzerhaubitzen-1.5657501",
-      "author": "Alle Entwicklungen im Liveblog",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5660027/208x156",
-      "image_title": "A German self-propelled gun Panzerhaubitze 2000 is seen at the frontline in Donetsk region"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5659959/208x156"
     },
     {
       "title": "Immer Ärger mit Isar 2",
@@ -148,17 +148,6 @@
       "url": "https://www.sueddeutsche.de/politik/energiekrise-isar-2-atomkraft-1.5660058",
       "author": "Michael Bauchmüller, Berlin",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5632217/208x156"
-    },
-    {
-      "title": "Gedenken an Queen Elizabeth II.",
-      "url": "https://www.sueddeutsche.de/thema/Queen_Elizabeth"
-    },
-    {
-      "title": "Sarg der Queen in königliche Gruft hinabgelassen",
-      "teaser": "Der Erzbischof von Canterbury bittet zum Abschluss der Zeremonie um den Segen Gottes für die Königin. Später wird Elizabeth im kleinen Familienkreis in Windsor beigesetzt.",
-      "url": "https://www.sueddeutsche.de/politik/queen-elizabeth-news-london-live-1.5657507",
-      "author": "Alle Entwicklungen im Liveblog",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5660151/600x337"
     },
     {
       "title": "Linke diskutiert offen über Spaltung",
@@ -184,6 +173,20 @@
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-beziehung-fremdgehen-1.5660030",
       "author": "Interview von Katharina Haase",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5657135/600x337"
+    },
+    {
+      "title": "Wenn die 911 zur Glückszahl werden soll",
+      "teaser": "Jetzt geht es ganz schnell: Schon in der kommenden Woche sollen die Porsche-Aktien erstmals gehandelt werden. Es ist einer der größten Börsengänge, das Interesse ist überraschend hoch.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/porsche-vw-boerse-boersengang-911-1.5659990",
+      "author": "Caspar Busse",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5659994/600x337"
+    },
+    {
+      "title": "Neun-Euro-Nachfolger soll zum Jahreswechsel kommen",
+      "teaser": "Die Verkehrsminister stellen einen Zeitplan für ein neues bundesweites Ticket auf. Doch noch immer tobt Streit darüber, wer dafür zahlt und was es Passagiere kosten soll.",
+      "url": "https://www.sueddeutsche.de/politik/nahverkehr-ticket-wissing-streit-1.5660065",
+      "author": "Markus Balser und Henrike Roßbach, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5660091/208x156"
     },
     {
       "title": "Christan Lindner wird die ARD nicht retten",
