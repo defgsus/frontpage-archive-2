@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-21T19:22:20",
+  "timestamp": "2022-09-21T20:26:21",
   "url": "https://www.bild.de/sport/startseite/sport/sport-home-15479124.bild.html",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
   ],
   "articles": [
     {
+      "title": "Diese Stars werden für Köln zu teuer"
+    },
+    {
+      "title": "Koundé bekommt seine Kohle"
+    },
+    {
       "title": "Neuer Job für Kohfeldt?"
     },
     {
@@ -87,12 +93,6 @@
     },
     {
       "title": "Bundestrainer macht 96-Star Hoffnung"
-    },
-    {
-      "title": "Stadionverbot für Platzsturm oder Pyro in England"
-    },
-    {
-      "title": "Das sind Englands WM-Trikots"
     },
     {
       "title": "BILD kennt die Details : So läuft Bochums Letsch-Deal",
@@ -137,16 +137,16 @@
       "image_title": "Podcast: Täglich alle Fußball-News aus der Bundesliga im Stammplatz"
     },
     {
+      "title": "Fifa 23 Alle Informationen zum Start",
+      "url": "https://www.bild.de/sport/esports/e-sport/fifa-23-preise-ratings-release-und-mehr-alle-infos-zum-start-81377728.bild.html"
+    },
+    {
       "title": "Bauer-Comeback bei BILD Am Energiebaum holte er sich die Kraft",
       "url": "https://www.bild.de/sport/mehr-sport/boxen/boxen-bauer-comeback-am-energiebaum-holte-er-sich-die-kraft-81392650.bild.html"
     },
     {
       "title": "Mega-Event am Samstag aus Ludwigshafen Hier anmelden und Titel-Boxen schauen",
       "url": "https://www.bild.de/bild-plus/sport/mehr-sport/boxen/boxen-mega-event-am-samstag-hier-anmelden-und-titel-boxen-schauen-81370424.bild.html"
-    },
-    {
-      "title": "Haberer happy „Mit Union habe ich alles richtig gemacht“",
-      "url": "https://www.bild.de/sport/fussball/union-berlin/union-berlin-so-denkt-janik-haberer-ueber-seinen-wechsel-zu-den-eisernen-81397284.bild.html"
     },
     {
       "title": "„Ich habe Sex mit Männern!“ : Auf DFB-Kongress: Klare Ansage an WM-Gastgeber Katar",
@@ -249,7 +249,13 @@
       "image_title": "FC Chelsea: Star gesteht – Diese Tuchel-Entscheidung hat mich „fassungslos“ gemacht"
     },
     {
+      "title": "Haberer happy : „Mit Union habe ich alles richtig gemacht“",
+      "url": "https://www.bild.de/sport/fussball/union-berlin/union-berlin-so-denkt-janik-haberer-ueber-seinen-wechsel-zu-den-eisernen-81397284.bild.html",
+      "image_title": "Union Berlin: So denkt Janik Haberer über seinen Wechsel zu den Eisernen"
+    },
+    {
       "title": "Nach langer Krisen-Analyse : Darum hält Bayer an Seoane fest",
+      "teaser": "Aus diesen Gründen stärken die Bosse dem Schweizer nach ihrer Krisen-Analyse den Rücken.",
       "url": "https://www.bild.de/sport/fussball/bayer-leverkusen/bayer-leverkusen-darum-halten-die-bosse-an-gerardo-seoane-fest-81397206.bild.html",
       "image_title": "Bayer Leverkusen: Darum halten die Bosse an Gerardo Seoane fest"
     },
@@ -270,12 +276,6 @@
       "teaser": "Elf Zähler hat Mainz bisher geholt. Dennoch läuft noch nicht alles rund für den 05-Coach.",
       "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fsv-mainz-05-diese-baustellen-muss-svensson-schliessen-81396850.bild.html",
       "image_title": "1. FSV Mainz 05: Diese Baustellen muss Svensson schließen"
-    },
-    {
-      "title": "Damit beide Seiten profitieren... : DIESER Gladbach-Profi soll im Winter weg!",
-      "teaser": "Mit BILDplus lesen Sie alle Hintergründe und erfahren, welcher Spieler gehen soll!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-dieser-profi-soll-im-winter-weg-81374692.bild.html",
-      "image_title": "Borussia Mönchengladbach: DIESER Profi soll im Winter weg!"
     },
     {
       "title": "Wer ist dabei? Läuft es im TV? : Die wichtigsten Infos zu Pizarros Abschiedsspiel",
@@ -403,7 +403,13 @@
       "image_title": "Handball-Champions-League: Wo läuft SC Magdeburg – RK Zagreb morgen live im TV?"
     },
     {
+      "title": "Damit beide Seiten profitieren... : DIESER Gladbach-Profi soll im Winter weg!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-dieser-profi-soll-im-winter-weg-81374692.bild.html",
+      "image_title": "Borussia Mönchengladbach: DIESER Profi soll im Winter weg!"
+    },
+    {
       "title": "Da winkt richtig Kohle... : Eberls letztes Millionen-Geschenk an Gladbach!",
+      "teaser": "Ob das die Fans besänftigt, die nach dem Leipzig-Wechsel stinksauer auf Max Eberl sind?",
       "url": "https://www.bild.de/bild-plus/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-das-ist-eberls-letztes-millionen-geschenk-81387886.bild.html",
       "image_title": "Borussia Mönchengladbach: DAS ist Eberls letztes Millionen-Geschenk!"
     },
@@ -412,12 +418,6 @@
       "teaser": "Hertha-Manager Bobic und Vorgänger Preetz reisen zusammen in die USA. BILD verrät, warum.",
       "url": "https://www.bild.de/bild-plus/sport/fussball/hertha-bsc/hertha-bsc-fredi-bobic-und-michael-preetz-gemeinsam-auf-usa-reise-81394656.bild.html",
       "image_title": "Hertha BSC: Fredi Bobic und Michael Preetz gemeinsam auf USA-Reise"
-    },
-    {
-      "title": "Spannende Details : Darum ist Weltmeister Götze Frankfurts Laufwunder",
-      "teaser": "Er läuft und läuft, Mario Götze! Jetzt erklärt er, was hinter seiner Lauf-Explosion steckt",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/eintracht-frankfurt-darum-ist-weltmeister-goetze-frankfurts-laufwunder-81394936.bild.html",
-      "image_title": "Eintracht Frankfurt: Darum ist Weltmeister Götze Frankfurts Laufwunder"
     },
     {
       "title": "Was steckt dahinter? : Millionen-Absturz bei Mané",
