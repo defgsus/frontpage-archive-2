@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-22T11:20:41",
+  "timestamp": "2022-09-22T12:49:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Python",
+      "url": "https://www.heise.de/news/Python-15-Jahre-alte-Schwachstelle-betrifft-potenziell-350-000-Projekte-7272186.html"
+    },
+    {
       "title": "Microsoft Endpoint Configuration Manager",
       "url": "https://www.heise.de/news/Notfallpatch-fuer-Microsoft-Endpoint-Configuration-Manager-erschienen-7272195.html"
     },
@@ -44,23 +48,19 @@
       "url": "https://www.heise.de/news/Supply-Chain-Attacke-Trojaner-in-FishPig-Software-bedroht-Onlineshops-7265052.html"
     },
     {
-      "title": "Lenovo-PCs",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-BIOS-Luecken-gefaehrden-unzaehlige-Lenovo-PCs-7264659.html"
-    },
-    {
       "title": "Microsoft will Windows-Firmenkunden standardmäßig besser vor Ransomware schützen",
       "teaser": "Um Attacken von Verschlüsselungstrojanern vorzubeugen, soll Microsofts Manipulationsschutz Sicherheitseinstellungen jetzt automatisch schützen.",
       "url": "https://www.heise.de/news/Microsoft-will-Windows-Firmenkunden-standardmaessig-besser-vor-Ransomware-schuetzen-7272508.html"
     },
     {
-      "title": "Python: 15 Jahre alte Schwachstelle betrifft potenziell 350.000 Projekte",
-      "teaser": "Das Issue zu der Directory-Traversal-Schwachstelle in dem Modul tarfile existiert seit 2007. Geschlossen wurde es mit einem Hinweis in der Dokumentation.",
-      "url": "https://www.heise.de/news/Python-15-Jahre-alte-Schwachstelle-betrifft-potenziell-350-000-Projekte-7272186.html"
-    },
-    {
       "title": "Testing: Code Intelligence holt Fuzzing auf die Kommandozeile",
       "teaser": "Das Kommandozeilenwerkzeug CI Fuzz CLI zum Aufspüren von Schwachstellen über Fuzzing soll möglichst einsteigerfreundlich sein.",
       "url": "https://www.heise.de/news/Testing-Code-Intelligence-holt-Fuzzing-auf-die-Kommandozeile-7271424.html"
+    },
+    {
+      "title": "Notfallpatch für Microsoft Endpoint Configuration Manager erschienen",
+      "teaser": "Admins sollten die IT-Managementlösung Endpoint Configuration Manager von Microsoft aktualisieren. Es könnten Attacken bevorstehen.",
+      "url": "https://www.heise.de/news/Notfallpatch-fuer-Microsoft-Endpoint-Configuration-Manager-erschienen-7272195.html"
     },
     {
       "title": "Support-System von Videospiel-Publisher 2K gehackt, Malware an Gamer verschickt",
@@ -71,6 +71,12 @@
       "title": "Angreifer könnten eigenen Code im Kontext von Thunderbird und Firefox ausführen",
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Lücken im E-Mail-Client Thunderbird und den Webbrowsern Firefox und Firefox ESR.",
       "url": "https://www.heise.de/news/Angreifer-koennten-eigenen-Code-im-Kontext-von-Firefox-und-Thunderbird-ausfuehren-7270944.html"
+    },
+    {
+      "title": "Schadcode finden: Wie Sie PDF- und Office-Dateien sicher untersuchen",
+      "teaser": "Office- und PDF-Dokumente können gefährlich sein und ausführbaren Code enthalten. Mit Analyse-Tools entdecken Sie vor dem Öffnen, ob solcher Code drinsteckt.",
+      "url": "https://www.heise.de/ratgeber/Schadcode-finden-Wie-Sie-PDF-und-Office-Dateien-sicher-untersuchen-7262138.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser",
+      "image_title": ", Andreas Martini"
     },
     {
       "title": "CTO von MS Azure: Nehmt Rust für neue Projekte und erklärt C/C++ für überholt!",
@@ -142,12 +148,6 @@
       "title": "Sicherheitslücke in WordPress-Plug-in WPGateway macht Angreifer zu Admins",
       "teaser": "Angreifer attackieren WordPress-Websites mit WPGateway. Sicherheitsupdates sind noch nicht verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-WordPress-Plug-in-WPGateway-macht-Angreifer-zu-Admins-7265906.html"
-    },
-    {
-      "title": "\"Total kompromittiert\": 18-Jähriger hackt Uber, interne Dienste offline",
-      "teaser": "Ein Unbekannter hat sich angeblich Zugangsdaten eines Uber-Mitarbeiters erschlichen und jetzt Zugriff auf alle internen Systeme des US-Unternehmens.",
-      "url": "https://www.heise.de/news/Total-kompromittiert-18-Jaehriger-hackt-Uber-interne-Dienste-offline-7265743.html",
-      "image_title": "August,21,,2019,San,Francisco,/,Ca,/,Usa,-"
     },
     {
       "title": "heise Security Tour 2022",
