@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-23T06:03:22",
+  "timestamp": "2022-09-23T07:38:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP-Drucker",
+      "url": "https://www.heise.de/news/HP-Drucker-Kritische-Luecke-erlaubt-Codeschmuggel-in-diversen-Modellen-7250538.html"
+    },
+    {
       "title": "Python",
       "url": "https://www.heise.de/news/Python-15-Jahre-alte-Schwachstelle-betrifft-potenziell-350-000-Projekte-7272186.html"
     },
@@ -44,13 +48,14 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-eigenen-Code-im-Kontext-von-Firefox-und-Thunderbird-ausfuehren-7270944.html"
     },
     {
-      "title": "Onlineshops auf FishPig-Basis",
-      "url": "https://www.heise.de/news/Supply-Chain-Attacke-Trojaner-in-FishPig-Software-bedroht-Onlineshops-7265052.html"
-    },
-    {
       "title": "Microsoft will Windows-Firmenkunden standardmäßig besser vor Ransomware schützen",
       "teaser": "Um Attacken von Verschlüsselungstrojanern vorzubeugen, soll Microsofts Manipulationsschutz Sicherheitseinstellungen jetzt automatisch schützen.",
       "url": "https://www.heise.de/news/Microsoft-will-Windows-Firmenkunden-standardmaessig-besser-vor-Ransomware-schuetzen-7272508.html"
+    },
+    {
+      "title": "Python: 15 Jahre alte Schwachstelle betrifft potenziell 350.000 Projekte",
+      "teaser": "Das Issue zu der Directory-Traversal-Schwachstelle in dem Modul tarfile existiert seit 2007. Geschlossen wurde es mit einem Hinweis in der Dokumentation.",
+      "url": "https://www.heise.de/news/Python-15-Jahre-alte-Schwachstelle-betrifft-potenziell-350-000-Projekte-7272186.html"
     },
     {
       "title": "Testing: Code Intelligence holt Fuzzing auf die Kommandozeile",
@@ -145,11 +150,6 @@
       "url": "https://www.heise.de/news/Konferenz-zu-sicherer-Softwareentwicklung-Jetzt-noch-zur-heise-devSec-anmelden-7266261.html"
     },
     {
-      "title": "Sicherheitslücke in WordPress-Plug-in WPGateway macht Angreifer zu Admins",
-      "teaser": "Angreifer attackieren WordPress-Websites mit WPGateway. Sicherheitsupdates sind noch nicht verfügbar.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-WordPress-Plug-in-WPGateway-macht-Angreifer-zu-Admins-7265906.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "Lernen Sie, wie Sie Angriffe auf die IT erfolgreich abwehren. Denn IT-Sicherheit gewinnt immer weiter an Bedeutung. Steuern Sie jetzt aktiv gegen: Mit der heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0922.lp-security.link.link"
@@ -170,6 +170,11 @@
       "url": "https://www.heise.de/meinung/Utimaco-der-Krypto-Miner-und-ein-Disclosure-Desaster-7079962.html"
     },
     {
+      "title": "Scan-Assistent reagiert nicht mehr nach Auswahl \"Einen Ordner scannen\"",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Scan-Assistent-reagiert-nicht-mehr-nach-Auswahl-Einen-Ordner-scannen/posting-41645500/show/"
+    },
+    {
       "title": "Re: desinfec't usb stick bootet nicht mehr nach Windows Security Update KB501217",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfec-t-usb-stick-bootet-nicht-mehr-nach-Windows-Security-Update-KB501217/posting-41628786/show/"
@@ -178,11 +183,6 @@
       "title": "Re: Desinfect 2023 bootfähig?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2023-bootfaehig/posting-41622430/show/"
-    },
-    {
-      "title": "Re: IP gesperrt bei virustotal.com durch zu viele Thor Scanner Abfragen?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-IP-gesperrt-bei-virustotal-com-durch-zu-viele-Thor-Scanner-Abfragen/posting-41620977/show/"
     }
   ]
 }
