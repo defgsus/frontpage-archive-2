@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-09-24T13:38:08",
+  "timestamp": "2022-09-24T14:20:57",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,385 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.f087d62f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.facaf355.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.c5315721.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.6759c7c1.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.493dfebd.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.fa86a7f1.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Als Paar – und ohne hartes Sportprogramm : Sandra und René nahmen zusammen 111 Kilo ab",
+      "url": "https://www.bild.de/bild-plus/ratgeber/diaet/diaet/ganz-ohne-schweren-sport-sandra-und-ren-nahmen-zusammen-111-kilo-ab-81366068.bild.html",
+      "image_title": "Ohne Sport-Programm: Sandra und René nahmen zusammen 111 Kilo ab"
+    },
+    {
+      "title": "Nur noch 2,50 Euro : Erster Bäcker führt Brotpreis-Bremse ein!",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/alle-laibe-kosten-2-50-euro-erster-baecker-fuehrt-brotpreis-bremse-ein-81412938.bild.html",
+      "image_title": "Alle Laibe kosten 2,50 Euro: Erster Bäcker führt Brotpreis-Bremse ein!"
+    },
+    {
+      "title": "Drama bei Kirchenfest : Autofahrer (49) fährt in Gruppe Feiernder",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/drama-bei-kirchenfest-autofahrer-49-faehrt-in-gruppe-feiernder-81421232.bild.html",
+      "image_title": "Drama bei Kirchenfest: Autofahrer (49) fährt in Gruppe Feiernder"
+    },
+    {
+      "title": "Vor laufender Kamera! : Dieb klaut Bike aus dem Laden von Ex-Radprofi",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-dieb-klaut-bike-aus-dem-laden-von-ex-radprofi-robert-foerster-81420604.bild.html",
+      "image_title": "Sachsen: Dieb klaut Bike aus dem Laden von Ex-Radprofi Robert Förster"
+    },
+    {
+      "title": "Vermieter hat die Heizung noch nicht angestellt : Familie Schmidt bibbert bei 9 Grad in der Wohnung",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/heizung-noch-nicht-angestellt-familie-bibbert-bei-9-grad-in-wohnung-81418046.bild.html",
+      "image_title": "Heizung noch nicht angestellt: Familie bibbert bei 9 Grad in Wohnung"
+    },
+    {
+      "title": "Ermittlungen gegen Wachleiter : Neuer Rassismus-Vorwurf bei der Berliner Polizei",
+      "teaser": "Die Polizei ermittelt in den eigenen Reihen wegen eines fremdenfeindlichen Ausfalls.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-neuer-rassismus-vorwurf-bei-der-polizei-81417712.bild.html",
+      "image_title": "Berlin: Neuer Rassismus-Vorwurf bei der Polizei"
+    },
+    {
+      "title": "Öffentliche Polizeifahndung! : Dieser Knirps soll ein brutaler Räuber sein",
+      "teaser": "Überfall auf eine Seniorin (87) in Potsdam – und der Verdächtige ist noch ein Kind!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/ueberfall-auf-seniorin-polizei-fahndet-nach-diesem-jungen-81412854.bild.html",
+      "image_title": "Überfall in Potsdam: Polizei fahndet nach diesem Jungen!"
+    },
+    {
+      "title": "Adios, Claudio! : Heute weint Bremen Freudentränen",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-adios-claudio-pizarro-heute-weint-bremen-freudentraenen-81419682.bild.html",
+      "image_title": "Werder Bremen: Adios, Claudio Pizarro! Heute weint Bremen Freudentränen"
+    },
+    {
+      "title": "Die schräge Rechnung des Freimarkt-Chefs : Rummel-Bummel spart Strom",
+      "teaser": "Wird nach Corona nun die Strom- und Gaskrise zur Spaßbremse?",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/die-schraege-rechnung-des-freimarkt-chefs-rummel-bummel-spart-strom-81412690.bild.html",
+      "image_title": "Die schräge Rechnung des Freimarkt-Chefs: Rummel-Bummel spart Strom"
+    },
+    {
+      "title": "142 Mio. Euro fehlen : Lebensgefahr für Kliniken im Land",
+      "teaser": "Inflation, Energiepreise, Kostendruck. Den Krankenhäusern steht das Wasser bis zum Hals.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/142-mio-euro-fehlen-bis-ende-2023-lebensgefahr-fuer-kliniken-im-land-81412650.bild.html",
+      "image_title": "142 Mio. Euro fehlen bis Ende 2023: Lebensgefahr für Kliniken im Land"
+    },
+    {
+      "title": "Über die Landstraße : Findling zwei Kilometer weit auf Kreuzung gezerrt",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/ueber-die-landstrasse-findling-zwei-kilometer-weit-auf-kreuzung-gezerrt-81422260.bild.html",
+      "image_title": "Über die Landstraße: Findling zwei Kilometer weit auf Kreuzung gezerrt"
+    },
+    {
+      "title": "Das schnellste Bügeleisen der DDR : Erster Melkus-Wartburg in Schuppen entdeckt",
+      "teaser": "Wahnsinnsfund! Er entdeckte das schnellste Bügeleisen der DDR in einem Schuppen wieder.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/das-schnellste-buegeleisen-der-ddr-erster-melkus-wartburg-in-scheune-entdeckt-81420010.bild.html",
+      "image_title": "Das schnellste Bügeleisen der DDR: Erster Melkus-Wartburg in Scheune entdeckt"
+    },
+    {
+      "title": "„Ideologie können wir uns nicht leisten“ : Kretschmer will Atommeiler noch Jahre betreiben",
+      "teaser": "Sachsens Ministerpräsident Michael Kretschmer (47, CDU) will Atommeiler länger betreiben.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsens-mp-kretschmer-will-atommeiler-noch-jahre-betreiben-81421340.bild.html",
+      "image_title": "Dresden: Sachsens MP Kretschmer will Atommeiler noch Jahre betreiben"
+    },
+    {
+      "title": "Sachsenpokal gegen Wurzen : Müller steht im Dynamo-Tor!",
+      "url": "https://www.bild.de/sport/fussball/fussball/sachsenpokal-gegen-wurzen-mueller-steht-im-dynamo-tor-81421604.bild.html",
+      "image_title": "Sachsenpokal gegen Wurzen: Müller steht im Dynamo-Tor!"
+    },
+    {
+      "title": "Dynamos Rückkehrer Gogia verrät : „Kreuzbandriss hat mir meine Frau geschenkt“",
+      "teaser": "Akaki Gogia (30) ist wieder ein Dynamo. Im BILD-Interview verrät er, warum eine schwere Verletzung für den Spielmacher zum Glücksfall wurde.",
+      "url": "https://www.bild.de/sport/fussball/fussball/dynamos-rueckkehrer-gogia-kreuzbandriss-hat-mir-meine-frau-geschenkt-81421554.bild.html",
+      "image_title": "Dynamos Rückkehrer Gogia: „Kreuzbandriss hat mir meine Frau geschenkt“"
+    },
+    {
+      "title": "Erzgebirgskreis findet neuen Betreiber : Rettung für Fichtelberghaus!",
+      "teaser": "Gute Nachrichten von Sachsens höchstem Berg. Das Fichtelberghaus bleibt offen.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/oberwiesenthal-rettung-fuer-fichtelberghaus-neuer-betreiber-gefunden-81420910.bild.html",
+      "image_title": "Oberwiesenthal: Rettung für Fichtelberghaus – neuer Betreiber gefunden!"
+    },
+    {
+      "title": "Borussia-Stiftung erspielt 75.000 Euro : Bonhof kann's auch mit dem Golfball!",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-rainer-bonhof-kanns-auch-mit-dem-golfball-81422792.bild.html",
+      "image_title": "Borussia Mönchengladbach: Rainer Bonhof kann's auch mit dem Golfball!"
+    },
+    {
+      "title": "Talent sammelt endlich Spielpraxis : Netz-Comeback gegen Kumpel Ngoumou!",
+      "teaser": "Bei der U21 gegen Frankreich (0:1) durfte Luca Netz (19) endlich Spielpraxis sammeln",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-luca-netz-im-duell-mit-nathan-ngoumou-81421122.bild.html",
+      "image_title": "Borussia Mönchengladbach: Luca Netz im Duell mit Nathan Ngoumou!"
+    },
+    {
+      "title": "Schon vor den Herbstferien : Chaos an NRW-Airports vorprogrammiert?",
+      "teaser": "Noch haben die Herbstferien nicht einmal angefangen und schon herrscht Chaos am Kölner Flughafen!",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/chaos-an-nrw-airports-vorprogrammiert-schon-vor-den-herbstferien-81422398.bild.html",
+      "image_title": "Chaos an NRW-Airports vorprogrammiert?"
+    },
+    {
+      "title": "Versagen in der Flut : CDU fordert Rücktritt des Innenministers",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/cdu-attackiert-rlp-innenminister-im-flutausschuss-rundum-versagen-81419230.bild.html",
+      "image_title": "Versagen in der Flut: CDU fordert Rücktritt von Innenminister Lewentz"
+    },
+    {
+      "title": "Influencer-Rosenkrieg : „Von ihr hätte ich das nie erwartet“",
+      "teaser": "Da ist jemand mal mächtig böse: Rosenkrieg der Internet-Stars!.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-leute/frankfurt-influencer-rosenkrieg-von-ihr-haette-ich-das-nie-erwartet-81414714.bild.html",
+      "image_title": "Frankfurt: Influencer-Rosenkrieg: „Von ihr hätte ich das nie erwartet“"
+    },
+    {
+      "title": "Renten-Report RLP : Darum müssen Frauen länger arbeiten",
+      "teaser": "In RLP müssen Frauen länger arbeiten als Männer, um in Rente zu gehen. Das hat Gründe.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/mainz-renten-report-rlp-darum-muessen-frauen-laenger-arbeiten-81413060.bild.html",
+      "image_title": "Mainz: Renten-Report RLP: Darum müssen Frauen länger arbeiten"
+    },
+    {
+      "title": "Professor Püschel arbeitet auch im Ruhestand : Leichen-Papst kann nicht von den Toten lassen",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/professor-pueschel-klaert-auch-im-ruhestand-noch-verbrechen-auf-leichen-papst-ka-81411172.bild.html",
+      "image_title": "Professor Püschel klärt auch im Ruhestand noch Verbrechen auf: Leichen-Papst kann nicht von den Toten lassen"
+    },
+    {
+      "title": "Bau-Gau : Uni-Institut kostet 102 Mio. Euro mehr",
+      "teaser": "Das „MIN-Forum“ der Universität an der Bundesstraße wird teurer als geplant.",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/bau-gau-uni-institut-kostet-102-mio-euro-mehr-81411180.bild.html",
+      "image_title": "Bau-Gau! Uni-Institut kostet 102 Mio. Euro mehr"
+    },
+    {
+      "title": "„Drombusch“-Star : Marion hat EheKRACHT",
+      "teaser": "„Drombusch“-Star Marion Kracht (59) steht in einer Komödie im Winterhuder Fährhaus auf der Bühne.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/drombusch-star-macht-viel-theater-um-den-hund-marion-hat-ehekracht-81411102.bild.html",
+      "image_title": "„Drombusch“-Star macht viel Theater um den Hund: Marion hat EheKRACHT"
+    },
+    {
+      "title": "42 Abgeordnete hören auf : Tränen-Abschied im Landtag",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/42-abgeordnete-hoeren-auf-traenen-abschied-im-landtag-81417994.bild.html",
+      "image_title": "42 Abgeordnete hören auf: Tränen-Abschied im Landtag"
+    },
+    {
+      "title": "Dashcam filmt mysteriösen Mann : Wartet hier der Killer auf sein Opfer?",
+      "teaser": "Wartet hier der Killer von Luxuslimousinen-Händler Boris L. (†43) auf sein Opfer?",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/dashcam-filmt-mysterioesen-mann-vor-toetung-des-luxusautohaendlers-wartet-hier-d-81412802.bild.html",
+      "image_title": "Dashcam filmt mysteriösen Mann vor Tötung des Luxusautohändlers: Wartet hier der Killer auf sein Opfer?"
+    },
+    {
+      "title": "Weil die Maschinenpistole klemmte : Er entkam dem Mord-Kommando",
+      "teaser": "Der Mord an Boris L. (†43) in der „Autogalerie“ – hatte der Killer noch ein zweites Opfer im Visier?",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/weil-die-maschinenpistole-klemmte-er-entkam-dem-mord-kommando-81412896.bild.html",
+      "image_title": "Weil die Maschinenpistole klemmte: Er entkam dem Mord-Kommando"
+    },
+    {
+      "title": "Ohne Fans nach Belgrad & Slovacko : Harte Uefa-Strafe für Kölner Prügel-Skandal",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-ohne-fans-nach-belgrad-slovacko-harte-uefa-strafe-gegen-koeln-81420232.bild.html",
+      "image_title": "1. FC Köln: Ohne Fans nach Belgrad & Slovacko: Harte UEFA-Strafe gegen Köln"
+    },
+    {
+      "title": "Bei Jana Azizi läuft‘s : Schöne Moderatorin macht den „Half-Ironman“",
+      "teaser": "Jana Azizi (33) stellt sich bald der größten sportlichen Herausforderung ihres Lebens!",
+      "url": "https://www.bild.de/regional/koeln/koeln-leute/bei-jana-azizi-laeufts-schoene-moderatorin-macht-den-half-ironman-81416126.bild.html",
+      "image_title": "Bei Jana Azizi läuft‘s: Schöne Moderatorin macht den „Half-Ironman“"
+    },
+    {
+      "title": "Angst vor Diebstahl in der Energiekrise : GPS-Tracker sollen Baum-Klau verhindern",
+      "teaser": "Mit moderner Technik geht das Land NRW gegen Holz-Klau vor.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/diebstaehle-wegen-energiekrise-gps-tracker-sollen-baum-klau-verhindern-81416400.bild.html",
+      "image_title": "Diebstähle wegen Energiekrise? GPS-Tracker sollen Baum-Klau verhindern"
+    },
+    {
+      "title": "Ihr Opfer überlebte ZWEI Mordversuche : „Blut-Zwillinge“ wollten Ex mit Stromschlag töten!",
+      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-blut-zwillinge-wollten-ex-mit-stromschlag-toeten-81420246.bild.html",
+      "image_title": "Sachsen-Anhalt: „Blut-Zwillinge“ wollten Ex mit Stromschlag töten!"
+    },
+    {
+      "title": "Kliniken erreichen ihre Grenze : Ärzte warnen vor Notstand in der Notaufnahme!",
+      "teaser": "Notaufnahmen in Sachsen werden sich künftig auf „echte“ Notfälle konzentrieren müssen!",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/krankenhaeuser-in-leipzig-aerzte-warnen-vor-notstand-in-der-notaufnahme-81420758.bild.html",
+      "image_title": "Krankenhäuser in Sachsen: Ärzte warnen vor Notstand in der Notaufnahme!"
+    },
+    {
+      "title": "Geheim-Gig in Sachsen-Anhalt : Kraftklub rockt bei Spontankonzert",
+      "teaser": "Pünktlich zum Album-Release überrascht die Band Kraftklub in Halle mit einem geheimen Gig.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/kraftklub-spielt-in-halle-spontan-konzert-zum-album-release-81419208.bild.html",
+      "image_title": "Kraftklub spielt in Halle: Spontan-Konzert zum Album-Release"
+    },
+    {
+      "title": "Neuer Jahresbericht : Ostdeutsche immer unzufriedener",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/neuer-jahresbericht-ostdeutsche-immer-unzufriedenen-81410650.bild.html",
+      "image_title": "Neuer Jahresbericht: Ostdeutsche immer unzufriedener"
+    },
+    {
+      "title": "Wo steckt Madina? : 15-Jährige spurlos verschwunden!",
+      "teaser": "Das Mädchen türmte aus einer Klinik in Rostock! Seitdem wird Madina (15) gesucht.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/maedchen-vermisst-madina-15-ist-spurlos-verschwunden-wer-hat-sie-gesehen-81417132.bild.html",
+      "image_title": "Mädchen vermisst: Madina (15) ist spurlos verschwunden – Wer hat sie gesehen?"
+    },
+    {
+      "title": "Sorge um Ballermann-Star : Melanie Müller: Schlaganfall mit 34!",
+      "teaser": "Dass Melanie Müller (34) derzeit auf einer Bühne stehen kann, grenzt an ein Wunder.",
+      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/saengerin-melanie-mueller-schlaganfall-mit-34-jahren-81405328.bild.html",
+      "image_title": "Ballermann-Sängerin Melanie Müller: Schlaganfall mit 34 Jahren!"
+    },
+    {
+      "title": "Experte über Sport mit Bandscheibenvorfall : Wie trainiere ich richtig?",
+      "url": "https://www.bild.de/bild-plus/lifestyle/wellness-fitness/wellness-und-fitness/bandscheibenvorfall-welches-training-ist-das-richtige-81381758.bild.html",
+      "image_title": "Bandscheibenvorfall: Welches Training ist das richtige?"
+    },
+    {
+      "title": "Star-Gast : Stefanie Hertel tritt als Jodlerin vor die Kamera",
+      "teaser": "In der Serie „Dahoam is Dahoam“ gibt es einen Gastauftritt eines Stars.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/star-gast-stefanie-hertel-tritt-als-jodlerin-vor-die-kamera-81422714.bild.html",
+      "image_title": "Star-Gast: Stefanie Hertel tritt als Jodlerin vor die Kamera"
+    },
+    {
+      "title": "Kulturschock Oktoberfest : Mein erster Wiesn-Abend",
+      "teaser": "Mein erster Abend auf dem Oktoberfest – ein Kulturschock der besonderen Art.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/kulturschock-oktoberfest-mein-erster-wiesn-abend-81413952.bild.html",
+      "image_title": "Kulturschock Oktoberfest: Mein erster Wiesn-Abend"
+    },
+    {
+      "title": "Polizei München ermittelt : Mädchen (5) stirbt in Hotel am Hauptbahnhof",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/unklare-todesursache-totes-kind-im-hotel-am-hauptbahnhof-81413834.bild.html",
+      "image_title": "Unklare Todesursache : Totes Kind (5) im Hotel am Hauptbahnhof"
+    },
+    {
+      "title": "Masterplan mit vielen Maßnahmen : So fahren Busse & Bahnen pünktlich",
+      "teaser": "Nürnberg – Busse und Bahnen in unserer Stadt sollen attraktiver werden – und pünktlicher!",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/masterplan-mit-vielen-massnahmen-so-fahren-busse-bahnen-puenktlich-81415746.bild.html",
+      "image_title": "Masterplan mit vielen Maßnahmen: So fahren Busse & Bahnen pünktlich"
+    },
+    {
+      "title": "Home-Office auf Wiesn – ist das erlaubt? : Hängt vom Arbeitgeber ab ...",
+      "teaser": "Ein Wiesn-Gast macht Home-Office. Ist das erlaubt? Das sagt ein Arbeitsrechtler dazu.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/home-office-auf-dem-oktoberfest-das-sagt-ein-arbeitsrechtler-dazu-81412784.bild.html",
+      "image_title": "Home-Office auf dem Oktoberfest: Das sagt ein Arbeitsrechtler dazu."
+    },
+    {
+      "title": "Falsch auf A42 aufgefahren : Laster wendet auf Autobahn – Trike-Fahrer tot",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/herne-laster-wendet-auf-autobahn-42-trike-fahrer-tot-81421442.bild.html",
+      "image_title": "Herne: Laster wendet auf Autobahn 42 – Trike-Fahrer tot"
+    },
+    {
+      "title": "„Bonnie und Clyde“ à la Ruhrpott : Pärchen flüchtet durch Wasser und über Gleise",
+      "teaser": "Es waren Szenen wie in einem Actionfilm, die sich am frühen Freitagabend abgespielt haben.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/herne-herten-gangster-paerchen-fluechtet-durch-wasser-und-ueber-gleise-81422014.bild.html",
+      "image_title": "Herne/Herten: Gangster-Pärchen flüchtet durch Wasser und über Gleise"
+    },
+    {
+      "title": "Dirk Heimes tritt in TV-Show auf : Pott-Puppen für Gottschalk",
+      "teaser": "In der RTL-Talentshow „Die Puppenstars“ gibt‘s mit Dirk Heimes Puppen-Power aus dem Pott.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dirk-heimes-und-seine-fantastischen-figuren-pott-puppen-fuer-gottschalks-tv-show-81416672.bild.html",
+      "image_title": "Dirk Heimes und seine fantastischen Figuren: Pott-Puppen für Gottschalks TV-Show"
+    },
+    {
+      "title": "Flipper-Expo in Völklingen : Völlig ausgeflippt!",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/flipper-expo-in-voelklingen-voellig-ausgeflippt-81415120.bild.html",
+      "image_title": "Flipper-Expo in Völklingen: Völlig ausgeflippt!"
+    },
+    {
+      "title": "Neue Entwicklung vor Gericht : Platzt jetzt der Prozess um den Doppelmord von Kusel?",
+      "teaser": "Ein neuer Antrag bringt den Prozess durcheinander – im schlimmsten Fall droht er zu platzen!",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/48-000-euro-familie-von-toter-polizistin-fordert-schmerzensgeld-81414926.bild.html",
+      "image_title": "Platzt jetzt der Prozess um den Doppelmord von Kusel?"
+    },
+    {
+      "title": "Mit 10 Jahren : Schneeleopard „Sagar“ gestorben",
+      "teaser": "Er war eines der bekanntesten Tiere im Zoo. Jetzt ist Sagar tot.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/neunkirchen-mit-10-jahren-schneeleopard-sagar-gestorben-81415614.bild.html",
+      "image_title": "Neunkirchen: Mit 10 Jahren: Schneeleopard „Sagar“ gestorben"
+    },
+    {
+      "title": "Aus 25 000 Steinen! : ER baute die Marktkirche aus Lego nach",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/marktkirche-in-halle-er-baute-die-marktkirche-aus-lego-nach-mit-25-000-steinen-81420562.bild.html",
+      "image_title": "Marktkirche in Halle: Er baute die Marktkirche aus Lego nach – mit 25 000 Steinen"
+    },
+    {
+      "title": "Nächste HFC-Blamage? : Minge warnt vor Pokal-Schock",
+      "teaser": "Landespokal-Auftritt für den Halleschen FC: In der 2. Runde muss der Drittligist am Sonntag (14 Uhr) bei Eintracht Elster (Landeslig...",
+      "url": "https://www.bild.de/sport/fussball/fussball/landespokal-naechste-hfc-blamage-ralf-minge-warnt-vor-pokal-schock-81417380.bild.html",
+      "image_title": "Landespokal: Nächste HFC-Blamage? – Ralf Minge warnt vor Pokal-Schock"
+    },
+    {
+      "title": "Ehestreit eskaliert : Tötete sie ihren Mann mit einem Stich?",
+      "teaser": "In Sachsen-Anhalt soll eine Frau ihren Ehemann im Streit tödlich verletzt haben!",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-toetete-sie-ihren-mann-im-ehestreit-mit-nur-einem-messerstich-81415508.bild.html",
+      "image_title": "Sachsen-Anhalt: Tötete sie ihren Mann im Ehestreit mit nur einem Messerstich?"
+    },
+    {
+      "title": "Rekordversuch : E-Rennwagen ist so schnell wie eine Rakete",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/rekordversuch-dieser-e-rennwagen-ist-so-schnell-wie-eine-rakete-81423404.bild.html",
+      "image_title": "Rekordversuch: Dieser E-Rennwagen ist so schnell wie eine Rakete"
+    },
+    {
+      "title": "Handwerker-Patzer : Kunstwerk überstrichen",
+      "teaser": "Ein Fassaden-Kunstwerk in Tübingen wurde bei einer Gebäude-Sanierung zerstört.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/handwerker-patzer-kunstwerk-ueberstrichen-81417604.bild.html",
+      "image_title": "Handwerker-Patzer: Kunstwerk überstrichen"
+    },
+    {
+      "title": "Bub (10) am Steuer? : Großvater und Junge demolieren mehrere Autos",
+      "teaser": "Ein Bub (10) und sein Großvater (65) haben bei einem Fahrversuch in Stuttgart mehrere Autos demoliert.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/bub-10-am-steuer-grossvater-und-junge-demolieren-mehrere-autos-81418994.bild.html",
+      "image_title": "Bub (10) am Steuer?: Großvater und Junge demolieren mehrere Autos"
+    },
+    {
+      "title": "Sie überlebte schwer verletzt : Polizei erklärt Unfallopfer aus Versehen für tot!",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/nach-unfall-frau-69-von-eigenem-auto-an-leitplanke-zerquetscht-81412914.bild.html",
+      "image_title": "Sie überlebte schwer verletzt: Polizei erklärt Unfallopfer versehentlich für tot!"
+    },
+    {
+      "title": "Wegen Energie-Krise! : Erster Profi-Klub muss kalt duschen",
+      "teaser": "Das könnte für einen Verein ein richtig kalter Herbst und Winter werden.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/wegen-energie-krise-erster-profi-klub-muss-kalt-duschen-81404806.bild.html",
+      "image_title": "Wegen Energie-Krise!: Erster Profi-Klub muss kalt duschen"
+    },
+    {
+      "title": "Sie agieren im Verborgenen : Experten vermuten 200 Islamisten in Thüringen",
+      "teaser": "Die Bedrohung sei weiterhin hoch. Vieles geschehe im privaten Raum und im Verborgenen.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-experten-vermuten-200-islamisten-in-thueringen-81408964.bild.html",
+      "image_title": "Thüringen: Experten vermuten 200 Islamisten in Thüringen"
+    }
+  ]
 }
