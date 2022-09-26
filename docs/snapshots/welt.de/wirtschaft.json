@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-26T14:36:28",
+  "timestamp": "2022-09-26T15:27:55",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -13,6 +13,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "Energie",
+      "url": "https://www.welt.de/wirtschaft/energie/",
+      "image_url": "https://img.welt.de/img/wirtschaft/energie/mobile241276419/3232501087-ci102l-w1024/Nord-Stream-2-Pipeline-Construction-Continues.jpg",
+      "image_title": "Arbeiter bei der Verlegung der Nord Stream 2 Pipeline im Jahr 2017",
+      "topic": "Pipeline-Leck",
+      "author": "Philipp Vetter"
+    },
+    {
+      "title": "Verbraucher",
+      "url": "https://www.welt.de/finanzen/verbraucher/",
+      "image_url": "https://img.welt.de/img/kaufberatung/angebote-und-aktionen/mobile240895531/4762509187-ci102l-w1024/Koop-Amazon-Aufmacher-Septemberangebote.jpg",
+      "topic": "Anzeige"
+    },
     {
       "title": "Die Wut der deutschen Waldbesitzer auf die EU",
       "url": "https://www.welt.de/wirtschaft/plus241243759/Nachhaltigkeit-Die-Wut-der-deutschen-Waldbesitzer-auf-die-EU.html",
@@ -36,22 +50,6 @@
       "image_title": "Kamin- und Kachelöfen dürfen nur unter bestimmten Bedingungen betrieben werden",
       "topic": "Alternative Energiequelle",
       "author": "Richard Haimann"
-    },
-    {
-      "title": "Mit dem 15-Minuten-Trick werden Sie im Job schlagfertiger",
-      "url": "https://www.welt.de/wirtschaft/karriere/plus241267237/Rhetorik-Mit-dem-15-Minuten-Trick-werden-Sie-im-Job-schlagfertiger.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/karriere/mobile241273577/2362504447-ci102l-w1024/Transgender-Woman-Talking-During-Morning-Meeting-In-Office.jpg",
-      "image_title": "Wer mit einem lässigen Spruch reagiert, wirkt souverän – das lässt sich schon mit kleinen Tricks trainieren",
-      "topic": "Selbstsicherer Auftritt",
-      "author": "Frederik Thrien"
-    },
-    {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile241243369/2932504457-ci102l-w1024/Father-teaching-son-in-workshop.jpg",
-      "image_title": "Im vergangenen Jahr wurden 51.000 Auszubildende ohne deutschen Pass gezählt",
-      "topic": "Arbeitsmarkt",
-      "author": "Jan Klauth"
     },
     {
       "title": "Besser Busfahren mit künstlicher Intelligenz",
@@ -116,12 +114,6 @@
       "topic": "Apple Keynote 2022"
     },
     {
-      "title": "Verbraucher",
-      "url": "https://www.welt.de/finanzen/verbraucher/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Anzeige"
-    },
-    {
       "title": "So realistisch ist das Smarthome-Sparversprechen für Ihr Zuhause",
       "url": "https://www.welt.de/wirtschaft/webwelt/plus241186953/36-Prozent-weniger-Energie-mit-Smarthome-So-realistisch-ist-das-Sparversprechen-fuer-Ihr-Zuhause.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -141,6 +133,14 @@
       "url": "https://www.welt.de/wirtschaft/webwelt/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Neue Senderfrequenz"
+    },
+    {
+      "title": "Webwelt & Technik",
+      "url": "https://www.welt.de/wirtschaft/webwelt/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Für die Sitzoberflächen und Türverkleidungen verwendet VW einen Mix aus recycelten PET-Flaschen und geschredderten T-Shirts",
+      "topic": "BMW, Mercedes und Co.",
+      "author": "Fabian Hoberg"
     },
     {
       "title": "Gründerszene",
@@ -165,6 +165,22 @@
       "image_title": "Gründerduo Fabian Schmitt und Yannick Brand",
       "topic": "Hattec",
       "author": "Fiona Mathewson"
+    },
+    {
+      "title": "Mit dem 15-Minuten-Trick werden Sie im Job schlagfertiger",
+      "url": "https://www.welt.de/wirtschaft/karriere/plus241267237/Rhetorik-Mit-dem-15-Minuten-Trick-werden-Sie-im-Job-schlagfertiger.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Wer mit einem lässigen Spruch reagiert, wirkt souverän – das lässt sich schon mit kleinen Tricks trainieren",
+      "topic": "Selbstsicherer Auftritt",
+      "author": "Frederik Thrien"
+    },
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Im vergangenen Jahr wurden 51.000 Auszubildende ohne deutschen Pass gezählt",
+      "topic": "Arbeitsmarkt",
+      "author": "Jan Klauth"
     },
     {
       "title": "Wirtschaft",
@@ -331,22 +347,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Börsen-Podcast",
       "author": "Nando Sommerfeldt"
-    },
-    {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Energiekrise in Deutschland",
-      "topic": "Strommarkt",
-      "author": "Daniel Wetzel"
-    },
-    {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "TThyssenkrupp reduziert nach eigenen Angaben seine Geschäftsaktivitäten in Russland",
-      "topic": "Teilmobilisierung",
-      "author": "Anja Ettel"
     },
     {
       "title": "14 statt 33 Cent – Plötzlich wird die Grundversorgung wieder zur Alternative",
