@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-26T08:33:02",
+  "timestamp": "2022-09-26T09:27:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Windows-11-2022-Update (22H2) macht Nvidia-Grafikkarten langsam",
+      "teaser": "Nvidias GeForce-Experience-Software beißt sich mit dem Windows-11-Update, die Leistung kann laut heise-Tests stark einbrechen. Ein Patch steht schon bereit.",
+      "url": "https://www.heise.de/news/Windows-11-2022-Update-22H2-macht-Nvidia-Grafikkarten-langsam-7274637.html"
+    },
+    {
       "title": "Gratis-Entschlüsselungstool: Opfer von Ransomware LockerGoga können aufatmen",
       "teaser": "Wer sich den Erpressungstrojaner LockerGoga unter Windows eingefangen hat, kann seine Daten nun ohne Lösegeldzahlung entschlüsseln.",
       "url": "https://www.heise.de/news/Gratis-Entschluesselungstool-Opfer-von-Ransomware-LockerGoga-koennen-aufatmen-7268170.html"
@@ -36,20 +41,31 @@
       "url": "https://www.heise.de/news/ERNIE-ViLG-Chinesischer-KI-Bildgenerator-mit-Staerken-und-politischer-Zensur-7265415.html"
     },
     {
-      "title": "Mit Technik von Googles Balloninternet Loon: Aalyria verspricht neuartiges Netz",
-      "teaser": "Loon und seine Internetverbindung über Stratosphärenballons sind Geschichte, aber die Arbeit soll nicht umsonst gewesen sein. Eine neue Firma baut darauf auf.",
-      "url": "https://www.heise.de/news/Mit-Technik-von-Googles-Balloninternet-Loon-Aalyria-verspricht-neuartiges-Netz-7263152.html"
+      "title": "Windows-Image sichern: Drive Snapshot vs. c’t-WIMage",
+      "teaser": "Wenn Windows streikt oder ein Sicherungsnetz zur Datenrettung gebraucht wird, hilft ein Imager. Wir erläutern die Stärken von Drive Snapshot und c’t-WIMage.",
+      "url": "https://www.heise.de/ratgeber/Windows-Image-sichern-Drive-Snapshot-vs-c-t-WIMage-7270097.html",
+      "image_title": ", Rudolf A. Blaha"
     },
     {
-      "title": "Web-Apps mit SvelteKit erstellen",
-      "teaser": "SvelteKit verspricht, schlanke Apps schnell zu erstellen. Den Umgang mit der Svelte-Erweiterung erläutern wir an einem konkreten Beispiel in diesem Artikel.",
-      "url": "https://www.heise.de/ratgeber/Web-Apps-mit-SvelteKit-erstellen-7272223.html"
+      "title": "Kurztests: Adapter für Ethernet, WLAN-Steckdose und Einsteigergrafikkarte",
+      "teaser": "Wir haben die Adapter Gigacopper G4201TM und G4202T, die Hama WLAN-Steckdose Mini und die Grafikkarte Asrock Radeon RX 6400 Challenger ITX getestet.",
+      "url": "https://www.heise.de/tests/Kurztests-Adapter-fuer-Ethernet-WLAN-Steckdose-und-Einsteigergrafikkarte-7268131.html"
     },
     {
-      "title": "Programme unter Windows isolieren: Sandboxie-Plus im Test",
-      "teaser": "Unter Windows haben Programme viele Befugnisse – und nutzen das teils schamlos aus. Sandboxie-Plus schränkt die Zugriffsrechte aufs Nötigste ein. Ein Überblick.",
-      "url": "https://www.heise.de/tests/Programme-unter-Windows-isolieren-Sandboxie-Plus-im-Test-7271191.html",
-      "image_title": ", Albert Hulm"
+      "title": "Speichervorgabe: VPN-Dienste flüchten aus Indien, um Nutzungsdaten zu schützen",
+      "teaser": "Seit Montag müssen VPN-Anbieter in Indien umfangreiche Daten zu Nutzern und Nutzerinnen erheben. Die Großen der Branche haben ihre Server abgebaut.",
+      "url": "https://www.heise.de/news/Speichervorgabe-VPN-Dienste-fluechten-aus-Indien-um-Nutzungsdaten-zu-schuetzen-7275508.html"
+    },
+    {
+      "title": "13,8 Millionen Downloads: Werbebetrugs-Apps unter Android und iOS",
+      "teaser": "Ein IT-Sicherheitsunternehmen hat Werbebetrugs-Apps in Google Play und im Apple Store gefunden, die auf insgesamt 13,8 Millionen Downloads kommen.",
+      "url": "https://www.heise.de/news/13-8-Millionen-Downloads-Werbebetrugs-Apps-unter-Android-und-iOS-7275295.html",
+      "image_title": "Aufmacher Scylla - Werbebetrugs-Apps unter iOS und Android"
+    },
+    {
+      "title": "Speedtests: Satelliteninternet Starlink teilweise deutlich langsamer geworden",
+      "teaser": "Die mittleren Downloadgeschwindigkeiten mit Starlink sind in mehreren Staaten zuletzt deutlich zurückgegangen. Das zeigen Speedtests von Ookla.",
+      "url": "https://www.heise.de/news/Speedtests-Satelliteninternet-Starlink-teilweise-deutlich-langsamer-geworden-7275243.html"
     },
     {
       "title": "Qualcomm: Ein Zentralrechner für alle Aufgaben im Auto",
@@ -63,10 +79,21 @@
       "image_title": "Workshop DevSecOps: Automatisierte Sicherheitstests für die Webentwicklung"
     },
     {
+      "title": "Web-Apps mit SvelteKit erstellen",
+      "teaser": "SvelteKit verspricht, schlanke Apps schnell zu erstellen. Den Umgang mit der Svelte-Erweiterung erläutern wir an einem konkreten Beispiel in diesem Artikel.",
+      "url": "https://www.heise.de/ratgeber/Web-Apps-mit-SvelteKit-erstellen-7272223.html"
+    },
+    {
       "title": "Sophos Firewalls: Kritische Sicherheitslücke wird angegriffen",
       "teaser": "Angreifer nutzen eine Schwachstelle in Sophos Firewalls aus, durch die sie eigenen Code auf verwundbare Maschinen schieben. Softwareflicken dichten das Leck ab.",
       "url": "https://www.heise.de/news/Sophos-Firewalls-Kritische-Sicherheitsluecke-wird-angegriffen-7275195.html",
       "image_title": "Aufmacher Angegriffene Sicherheitslücke in Sophos Firewalls"
+    },
+    {
+      "title": "Programme unter Windows isolieren: Sandboxie-Plus im Test",
+      "teaser": "Unter Windows haben Programme viele Befugnisse – und nutzen das teils schamlos aus. Sandboxie-Plus schränkt die Zugriffsrechte aufs Nötigste ein. Ein Überblick.",
+      "url": "https://www.heise.de/tests/Programme-unter-Windows-isolieren-Sandboxie-Plus-im-Test-7271191.html",
+      "image_title": ", Albert Hulm"
     },
     {
       "title": "Sachsen-Anhalt plant neue Testläufe für digitales Schulzeugnis",
@@ -106,31 +133,6 @@
       "teaser": "Die Übernahme durch Alphabet hat Folgen: Fitbit-Geräte lassen sich ab dem nächsten Jahr nur noch mit einem Google-Konto aktivieren.",
       "url": "https://www.heise.de/news/Fitbit-Tracker-und-Smartwatches-ab-2023-nur-noch-mit-Google-Konto-7274720.html",
       "image_title": "Fitbit"
-    },
-    {
-      "title": "Windows-11-2022-Update (22H2) macht Nvidia-Grafikkarten langsam",
-      "teaser": "Nvidias GeForce-Experience-Software beißt sich mit dem Windows-11-Update, die Leistung kann laut heise-Tests stark einbrechen. Ein Patch steht schon bereit.",
-      "url": "https://www.heise.de/news/Windows-11-2022-Update-22H2-macht-Nvidia-Grafikkarten-langsam-7274637.html"
-    },
-    {
-      "title": "Drohnen unter 250 Gramm | c’t uplink 45.0",
-      "teaser": "Kleine Drohnen darf man fast überall ohne Führerschein fliegen und sie passen in die Jackentasche. Wir diskutieren den c't-Test und erzählen übers Fliegen.",
-      "url": "https://www.heise.de/news/Drohnen-unter-250-Gramm-c-t-uplink-45-0-7187896.html"
-    },
-    {
-      "title": "Betriebssystem VSE: Der große Unbekannte im Mainframe",
-      "teaser": "Neben z/OS wird heute beim IBM-Mainframe meist an Linux als Betriebssystem gedacht. Doch auch VSE spielt noch immer eine Rolle – wir zeigen, warum.",
-      "url": "https://www.heise.de/news/Das-Betriebssystem-VSE-der-grosse-Unbekannte-beim-Mainframe-7273630.html"
-    },
-    {
-      "title": "Git-Repo nur teilweise klonen",
-      "teaser": "Ich interessiere mich für einen bestimmten Ordner in einem Git-Repository. Ich will aber nicht alles klonen. Gibt es einen Weg, nur einen Teil zu laden?",
-      "url": "https://www.heise.de/ratgeber/Git-Repo-nur-teilweise-klonen-7267830.html"
-    },
-    {
-      "title": "Mehr Teamarbeit: Microsoft erweitert Viva",
-      "teaser": "Microsoft spendiert seiner Employee Experience Platform Viva diverse neue Funktionen, darunter zur vertraulichen Kommunikation mit Führungskräften.",
-      "url": "https://www.heise.de/news/Mehr-Teamarbeit-Microsoft-erweitert-Viva-7273883.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
