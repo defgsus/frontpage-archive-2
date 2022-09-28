@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-28T10:29:28",
+  "timestamp": "2022-09-28T11:21:57",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,19 +32,19 @@
   ],
   "articles": [
     {
-      "title": "ElektroautoLuxuriöses SUV Polestar 3 mit bis zu 380 kW und Level-3 Autonomie",
-      "teaser": "Anfang 2023 soll mit dem Polestar 3 ein weiteres großes SUV-Modell mit batterieelektrischem Allradantrieb und teilautonomer Fahrfunktion auf den Markt kommen.",
-      "url": "https://www.heise.de/news/Elektroauto-luxurioeses-SUV-Polestar-3-mit-bis-zu-380-kW-und-Level-3-Autonomie-7277380.html"
-    },
-    {
-      "title": "Architektur, Fertigung, UnterbauRyzen 7000 versus Intel: Desktop-Prozessoren im großen Vergleichstest",
-      "teaser": "AMD bringt vier Ryzen-7000-Prozessoren mit neuer Architektur, neuer Fertigung und neuem Unterbau. Sie sollen Intels letzte Performance-Bastionen einreißen.",
-      "url": "https://www.heise.de/tests/Ryzen-7000-Vier-Desktop-Prozessoren-fuer-die-Fassung-AM5-im-Vergleichstest-7277012.html"
+      "title": "Intel \"Raptor Lake\"Core i9-13900KS mit 6 GHz und 34-Kern-CPUs",
+      "teaser": "Offiziell hat Intel den Core i9-13900KS als schnellste Desktop-CPU angekündigt. Versehentlich (?) wurde ein Wafer mit 34-Kern-CPUs und Octa-Channel-RAM gezeigt.",
+      "url": "https://www.heise.de/news/Intel-Raptor-Lake-Core-i9-13900KS-mit-6-GHz-und-34-Kern-CPUs-7278300.html"
     },
     {
       "title": "Mehr Kerne, Takt und CacheIntel-Prozessoren Core i-13000K mit sattem Leistungsplus",
       "teaser": "Mehr Kerne, mehr Takt, mehr Cache, aber auch mehr Abwärme: Die dreizehnte Generation der Core-i-Prozessoren \"Raptor Lake\" soll dem AMD Ryzen 7000 Paroli bieten.",
       "url": "https://www.heise.de/tests/Intel-Prozessoren-Core-i-13000K-mit-sattem-Leistungsplus-7276955.html"
+    },
+    {
+      "title": "ElektroautoLuxuriöses SUV Polestar 3 mit bis zu 380 kW und Level-3 Autonomie",
+      "teaser": "Anfang 2023 soll mit dem Polestar 3 ein weiteres großes SUV-Modell mit batterieelektrischem Allradantrieb und teilautonomer Fahrfunktion auf den Markt kommen.",
+      "url": "https://www.heise.de/news/Elektroauto-luxurioeses-SUV-Polestar-3-mit-bis-zu-380-kW-und-Level-3-Autonomie-7277380.html"
     },
     {
       "title": "Update\"Härteste Konsequenzen\"Mögliche Sabotage von Nordstream 1 und 2: Von der Leyen droht Tätern",
@@ -144,6 +144,27 @@
       "image_title": "Moritz Reichartz"
     },
     {
+      "title": "Smart Home mit Matter: Wie HomeKit, Assistant, Alexa & Co. kompatibel werden",
+      "teaser": "Noch ein weiterer Standard oder endlich das Ende der Sprachverwirrung? Matter soll die Kommunikation im Smart Home vereinheitlichen. Doch was heißt das konkret?",
+      "url": "https://www.heise.de/hintergrund/Smart-Home-Geht-das-jetzt-endlich-einfach-7246792.html",
+      "image_title": "Der Traum der Smart-Home-Fans ist, von der Beleuchtung bis zur Heizung alles zu verbinden und mit einer App steuern zu können., Philips Hue"
+    },
+    {
+      "title": "Neue Zweifel an Sensationsfund: Doch kein flüssiges Wasser am Südpol des Mars?",
+      "teaser": "2018 hatte eine ESA-Sonde Reflexionen gesehen, die auf flüssiges Wasser unter dem Südpol des Mars hindeuteten. Nun gibt es eine weitere alternative Erklärung.",
+      "url": "https://www.heise.de/news/Neue-Zweifel-an-Sensationsfund-Doch-kein-fluessiges-Wasser-am-Suedpol-des-Mars-7278161.html"
+    },
+    {
+      "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
+      "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
+      "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
+    },
+    {
+      "title": "Intel \"Raptor Lake\": Core i9-13900KS mit 6 GHz und 34-Kern-CPUs",
+      "teaser": "Offiziell hat Intel den Core i9-13900KS als schnellste Desktop-CPU angekündigt. Versehentlich (?) wurde ein Wafer mit 34-Kern-CPUs und Octa-Channel-RAM gezeigt.",
+      "url": "https://www.heise.de/news/Intel-Raptor-Lake-Core-i9-13900KS-mit-6-GHz-und-34-Kern-CPUs-7278300.html"
+    },
+    {
       "title": "Malware: Infektion durch Mausbewegung in Powerpoint",
       "teaser": "IT-Sicherheitsforscher haben ein Powerpoint-Dokument entdeckt, das beim Anzeigen nach einer Mausbewegung Schadcode lädt und ausführt. Es stammt aus Russland.",
       "url": "https://www.heise.de/news/Malware-Infektion-durch-Mausbewegung-in-Powerpoint-7277979.html"
@@ -152,11 +173,6 @@
       "title": "betterCode() Clean Architecture: Konferenz für ein nachhaltiges Software-Design",
       "teaser": "Die Heise-Onlinekonferenz gibt Softwarearchitekten Hilfestellung dabei, wie sich Systeme wartbarer, testbarer und nachvollziehbarer designen lassen.",
       "url": "https://www.heise.de/news/betterCode-Clean-Architecture-Konferenz-fuer-ein-nachhaltiges-Software-Design-7278002.html"
-    },
-    {
-      "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
-      "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
-      "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
     },
     {
       "title": "Gericht: Hohe Maut-Nachforderungen aus Ungarn sind erlaubt",
@@ -172,21 +188,6 @@
       "title": "Netflix gründet Entwicklerstudio und führt Gamer-Tags ein",
       "teaser": "Netflix intensiviert sein Bemühen um den Spielemarkt: In Finnland gründet der Streaming-Dienst ein eigenes Entwicklerstudio, außerdem gibt es jetzt Gamer-Tags.",
       "url": "https://www.heise.de/news/Netflix-gruendet-Entwicklerstudio-und-fuehrt-Gamer-Tags-ein-7278123.html"
-    },
-    {
-      "title": "Studie: Sprachassistenten können Entwicklung von Kindern negativ beeinflussen",
-      "teaser": "Cambridge-Wissenschaftler sehen, dass Sprachassistenten bei Kindern negative Auswirkungen auf Sprache, Mitgefühl und kritisches Denken haben können.",
-      "url": "https://www.heise.de/news/Studie-Sprachassistenten-koennen-Entwicklung-von-Kindern-negativ-beeinflussen-7277886.html"
-    },
-    {
-      "title": "Android: Klone von Dynamic Island und Apples iOS-16-Lockscreen im Anmarsch",
-      "teaser": "Samsungs One UI sowie mehrere chinesische Android-Anbauten bedienen sich bei Apple. Das betrifft sowohl die Lockscreens-Konfiguration als auch Dynamic Island.",
-      "url": "https://www.heise.de/news/Android-Klone-von-Dynamic-Island-und-Apples-iOS-16-Lockscreen-im-Anmarsch-7278051.html"
-    },
-    {
-      "title": "AMD Ryzen Embedded V3000: Dual 10-Gbit/s-Ethernet direkt im Prozessor",
-      "teaser": "Die Ryzen-Embedded-CPUs bekommen mit der V3000-Serie ein großes Upgrade. Kurios allerdings: Die integrierte Grafikeinheit fällt weg.",
-      "url": "https://www.heise.de/news/AMD-Ryzen-Embedded-V3000-Dual-10-Gbit-s-Ethernet-direkt-im-Prozessor-7278055.html"
     },
     {
       "title": "ElektroautoVW ID.5 GTX im Test: Komfortabel statt sportiv",
@@ -205,6 +206,21 @@
       "title": "heise+ Jahresabo:",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Studie: Sprachassistenten können Entwicklung von Kindern negativ beeinflussen",
+      "teaser": "Cambridge-Wissenschaftler sehen, dass Sprachassistenten bei Kindern negative Auswirkungen auf Sprache, Mitgefühl und kritisches Denken haben können.",
+      "url": "https://www.heise.de/news/Studie-Sprachassistenten-koennen-Entwicklung-von-Kindern-negativ-beeinflussen-7277886.html"
+    },
+    {
+      "title": "Android: Klone von Dynamic Island und Apples iOS-16-Lockscreen im Anmarsch",
+      "teaser": "Samsungs One UI sowie mehrere chinesische Android-Anbauten bedienen sich bei Apple. Das betrifft sowohl die Lockscreens-Konfiguration als auch Dynamic Island.",
+      "url": "https://www.heise.de/news/Android-Klone-von-Dynamic-Island-und-Apples-iOS-16-Lockscreen-im-Anmarsch-7278051.html"
+    },
+    {
+      "title": "AMD Ryzen Embedded V3000: Dual 10-Gbit/s-Ethernet direkt im Prozessor",
+      "teaser": "Die Ryzen-Embedded-CPUs bekommen mit der V3000-Serie ein großes Upgrade. Kurios allerdings: Die integrierte Grafikeinheit fällt weg.",
+      "url": "https://www.heise.de/news/AMD-Ryzen-Embedded-V3000-Dual-10-Gbit-s-Ethernet-direkt-im-Prozessor-7278055.html"
     },
     {
       "title": "Projekt: Daten für die Solar-Wetterstation als JSON-Objekt aufbereiten",
@@ -263,6 +279,11 @@
       "url": "https://www.heise.de/news/Elektroauto-luxurioeses-SUV-Polestar-3-mit-bis-zu-380-kW-und-Level-3-Autonomie-7277380.html"
     },
     {
+      "title": "Computing made in Europe – wie Europas IT resilienter, flexibler und unabhängiger werden soll",
+      "teaser": "Die internationale Verflechtung von Waren-, Energie- und Datenströmen kann ein signifikantes Risiko für staatliche Souveränität und Versorgungssicherheit sein – das haben die jüngsten Krisen gezeigt. Mit Initiativen wie Gaia-X und dem EU Chips Act will Europa im IT-Bereich gegensteuern. Dabei kommt robusten Lieferketten eine besondere Bedeutung zu.",
+      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/cloud/beitrag/computing-made-in-europe-wie-europas-it-resilienter-flexibler-und-unabhaengiger-werden-soll-4412"
+    },
+    {
       "title": "NASA-Mondmission Artemis-1: Zwischenfall bei Rücktransport, nur Kernteam vor Ort",
       "teaser": "Frühestens Ende Oktober, aber wohl erst Mitte November wird die NASA erneut versuchen, die Riesenrakete SLS zu starten. Erst muss sie einen Hurrikan überstehen.",
       "url": "https://www.heise.de/news/NASA-Mondmission-Artemis-1-Naechster-Startversuch-nach-Hurrikan-wohl-im-November-7277901.html"
@@ -279,11 +300,6 @@
       "image_title": "Aufmacher Google Chrome 106 dichtet 20 Sicherheitslecks"
     },
     {
-      "title": "Computing made in Europe – wie Europas IT resilienter, flexibler und unabhängiger werden soll",
-      "teaser": "Die internationale Verflechtung von Waren-, Energie- und Datenströmen kann ein signifikantes Risiko für staatliche Souveränität und Versorgungssicherheit sein – das haben die jüngsten Krisen gezeigt. Mit Initiativen wie Gaia-X und dem EU Chips Act will Europa im IT-Bereich gegensteuern. Dabei kommt robusten Lieferketten eine besondere Bedeutung zu.",
-      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/cloud/beitrag/computing-made-in-europe-wie-europas-it-resilienter-flexibler-und-unabhaengiger-werden-soll-4412"
-    },
-    {
       "title": "Nachhaltiges Bauen: Weltweit erstes Carbonhaus in Dresden entsteht",
       "teaser": "Das Bauen von Häusern soll irgendwann klimaneutral erfolgen. Carbonbeton könnte ein Baustein dafür sein, wie ein experimentelles Bauprojekt in Dresden zeigt.",
       "url": "https://www.heise.de/news/Nachhaltiges-Bauen-Weltweit-erstes-Carbonhaus-in-Dresden-entsteht-7277843.html"
@@ -297,23 +313,6 @@
       "title": "Großes Stift-Display für Profis: Wacom Cintiq Pro 27",
       "teaser": "Das Wacom Cintiq Pro 27 verspricht aktuelle Stift-Technik und Farbtreue auf einem neigbaren Monitor. Es reiht sich zwischen das 24- und 32-Zoll-Modell ein.",
       "url": "https://www.heise.de/news/Grosses-Stift-Display-fuer-Profis-Wacom-Cintiq-Pro-27-7274838.html"
-    },
-    {
-      "title": "UpdateMögliche Sabotage von Nordstream 1 und 2: Von der Leyen droht Tätern",
-      "teaser": "EU-Kommissionspräsidentin Ursula von der Leyen kündigt möglichen Gaspipeline-Saboteuren \"härteste Konsequenzen\" an. Eine Untersuchung steht noch aus.",
-      "url": "https://www.heise.de/news/Moegliche-Sabotage-von-Nordstream-1-und-2-Von-der-Leyen-droht-Taetern-7277811.html"
-    },
-    {
-      "title": "Umweltverbände kritisieren Weiterbetrieb von Atomkraftwerken",
-      "teaser": "In Frankreich machen Atomkraftwerke Probleme, deshalb werden zwei deutsche AKW wohl über Silvester hinaus Strom produzieren. Kritik kommt von Umweltverbänden.",
-      "url": "https://www.heise.de/news/Umweltverbaende-kritisieren-Weiterbetrieb-von-Atomkraftwerken-7277807.html",
-      "image_title": "Luftbild des AKW Isar 2"
-    },
-    {
-      "title": "Mittwoch: Elektro-Flugtaxi für US-Fluglinie, Meta gegen Desinformations-Netze",
-      "teaser": "E-Flugtaxi abgehoben + Desinformation aus Russland & China + Strafe für Oracle + Astra GSe als PHEV + Sonden-Kollision mit Asteroid + Bit-Rauschen zu Ryzen 7000",
-      "url": "https://www.heise.de/news/Mittwoch-Elektro-Flugtaxi-fuer-US-Fluglinie-Meta-gegen-Desinformations-Netze-7277797.html",
-      "image_title": "Taxis am Flughafen"
     },
     {
       "title": "NASA-Sonde Dart schafft Einschlag auf Asteroiden – jetzt heißt es warten",
@@ -544,15 +543,14 @@
       "image_title": "De-Mail"
     },
     {
+      "title": "Interview Warum sich Apple laut seiner Hardware-Chefin nicht als Chipfirma betrachtet",
+      "teaser": "Apple drängt Urgesteine wie Intel mit eigenen Chips aus seiner Hardware. Man könne und wolle aber nicht alles selbst machen, so Apple im Gespräch mit Mac & i.",
+      "url": "https://www.heise.de/news/Interview-mit-Apples-Hardware-Technikchefin-Wir-sind-keine-Chip-Firma-7277563.html"
+    },
+    {
       "title": "iPhone-BetriebssystemiOS 16: Was aktuell Probleme macht – und was man tun kann",
       "teaser": "iOS 16.0 hat noch raue Ecken, manche Nutzer vermissen Funktionen. Wir nennen Workarounds und wie sich ungewohnte Neuerungen abschalten lassen.",
       "url": "https://www.heise.de/news/iOS-16-Was-aktuell-Probleme-macht-und-was-man-tun-kann-7262590.html"
-    },
-    {
-      "title": "Smarte Heizkörperthermostate im Test: Beim Heizen sparen",
-      "teaser": "Die Preise für Gas und Öl steigen und steigen – ein Grund mehr, den Energieverbrauch zu senken. Vernetzte Thermostate können dabei gute Dienste leisten.",
-      "url": "https://www.heise.de/tests/Smarte-Heizkoerperthermostate-im-Test-Beim-Heizen-sparen-7077778.html",
-      "image_title": "Smart heizen mit iPhone"
     },
     {
       "title": "SmartwatchApple-Watch-Konkurrent: Die Huawei Watch GT 3 Pro im Kurztest",
@@ -582,21 +580,21 @@
       "url": "https://www.heise.de/news/c-t-Fotografie-Neue-Perspektiven-auf-Reisen-7250767.html"
     },
     {
+      "title": "LandschaftfsfotografieParks und Gärten einfach und eindrucksvoll fotografieren",
+      "teaser": "Öffentliche Gärten und Parks bieten eine große Motivvielfalt auf begrenztem Raum. So finden Sie die richtige Perspektive für spannende Bildkompositionen.",
+      "url": "https://www.heise.de/ratgeber/Landschaftfsfotografie-Parks-und-Gaerten-einfach-und-eindrucksvoll-fotografieren-7276055.html",
+      "image_title": ", Sibylle Pietrek 2020"
+    },
+    {
+      "title": "KaufberatungGebraucht-Guide für Kameras und Objektive",
+      "teaser": "Der Markt für gebrauchte Kameras und Objektive ist riesig. Doch wie trennt man die Spreu vom Weizen? Wir helfen Ihnen, einen besseren Überblick zu finden.",
+      "url": "https://www.heise.de/ratgeber/Lohnt-sich-das-Gebraucht-Guide-fuer-Kameras-und-Objektive-7274438.html",
+      "image_title": ","
+    },
+    {
       "title": "Systemkamera für Vlogger: Nikon Z 30 im Labortest",
       "teaser": "Mit der Z 30 will Nikon alle ansprechen, die gerne Videos aufzeichnen. Tatsächlich ist sie endlich mal wieder eine unkomplizierte Immer-dabei-Kamera. Oder?",
       "url": "https://www.heise.de/tests/Systemkamera-fuer-Vlogger-Nikon-Z-30-im-Labortest-7272688.html"
-    },
-    {
-      "title": "Ausrüstung, Motive, Technik und BildgestaltungMakro-Fotografie vor der Haustür",
-      "teaser": "Für spektakuläre Makros müssen Sie nicht weit reisen. Viele heimische Insekten, Amphibien und Pflanzen sind äußerst fotogen. Inspirationen zum Gleichloslegen.",
-      "url": "https://www.heise.de/ratgeber/Makro-Fotografie-vor-der-Haustuer-Ausruestung-Motive-Technik-und-Bildgestaltung-7090358.html",
-      "image_title": "So ein Motiv ist ein absoluter Glückstreffer. Der kleine Laubfrosch hat die Kamillenblüte erobert und schaut hier beinahe neckisch in die Kamera. Erwischt habe ich das Tier an einem Augustmorgen. Canon EOS 7D Mark II mit EF 100mm f/2.8L ISO 320 f/8.0 1/200 s,"
-    },
-    {
-      "title": "StädtereisenFotostadt Lissabon entdecken",
-      "teaser": "Portugals Hauptstadt ist die Stadt der Hügel und bunten Häuser. Fotografen finden an fast jeder Ecke lohnende Motive und spannende Perspektiven.",
-      "url": "https://www.heise.de/ratgeber/Fotostadt-Lissabon-entdecken-7271469.html",
-      "image_title": "Das \"Denkmal der Entdeckungen\" steht am Ufer des Flusses Tejo.und beherbergt ein Auditorium, eine Ausstellungshalle und eine Aussichtsplattform. , Joachim Kiner"
     },
     {
       "title": "Tutorial, Teil 3Nebenläufigkeit mit Swift: Bestehende Anwendungen parallelisieren",
