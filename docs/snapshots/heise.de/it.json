@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-09-29T15:28:52",
+  "timestamp": "2022-09-29T16:38:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,25 @@
   ],
   "articles": [
     {
+      "title": "PlayStation 4 und PlayStation 5: Manipulierter USB-Stick ermöglichte Jailbreak",
+      "teaser": "Ein Hacker hat eine Lücke in Sonys Umsetzung des exFAT-Dateisystems entdeckt. Die ermöglichte ein Jailbreak von PS4 und PS5 per manipuliertem USB-Stick.",
+      "url": "https://www.heise.de/news/PlayStation-4-5-Manipulierter-USB-Stick-ermoeglichte-Jailbreak-7278999.html"
+    },
+    {
+      "title": "Root-Lücke: Selbstheilungsfunktion gefährdet Cisco-Netzwerkhardware",
+      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Lücken in Ciscos Netzwerkbetriebssystem IOS und weiterer Software.",
+      "url": "https://www.heise.de/news/Root-Luecke-Selbtsheilungsfunktion-gefaehrdet-Cisco-Netzwerkhardware-7279116.html"
+    },
+    {
       "title": "Proteste im Iran: Starlink angeblich aktiviert, viele Hindernisse verbleiben",
       "teaser": "Um Proteste niederzuschlagen, hat die Islamische Republik auch das Internet eingeschränkt. Trotz Elon Musks Versprechen dürfte Starlink da nicht viel helfen.",
       "url": "https://www.heise.de/news/Proteste-im-Iran-Starlink-angeblich-aktiviert-viele-Hindernisse-verbleiben-7276693.html",
       "image_title": "Tehran,iran-april,28,2019:,Skyscrapers,In,Tehran,,Iran"
     },
     {
-      "title": "Ransomware: Nach Verschlüsseln kommt jetzt Kopieren & Zerstören",
-      "teaser": "Das mit dem Verschlüsseln ist aufwendig und fehleranfällig – das denken sich wohl auch Cybercrime-Banden, die zuvor kopierte Daten unbrauchbar machen.",
-      "url": "https://www.heise.de/news/Ransomware-Nach-Verschluesseln-kommt-jetzt-Kopieren-Zerstoeren-7275667.html"
-    },
-    {
-      "title": "Ukrainisches Verteidigungsministerium: Russland plant massive Cyber-Angriffe",
-      "teaser": "Laut den Aufklärern des ukrainischen Verteidigungsministeriums plant Russland massive Cyber-Attacken auf kritische Infrastrukturen der Ukraine und Alliierter.",
-      "url": "https://www.heise.de/news/Ukrainisches-Verteidigungsministerium-Russland-plant-massive-Cyber-Angriffe-7276474.html",
-      "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten"
+      "title": "Gehälter 2022: Das verdienen Softwaretester in Deutschland",
+      "teaser": "Softwaretester müssen ein Programm wie ein Entwickler verstehen, es aber wie ein Endnutzer bedienen. Dafür zahlen Firmen ein gutes Gehalt.",
+      "url": "https://www.heise.de/hintergrund/Gehaelter-2022-Das-verdienen-Softwaretester-in-Deutschland-7279889.html"
     },
     {
       "title": "eHealth: Fünf Hautscan-Apps mit KI im Vergleich",
@@ -49,9 +53,26 @@
       "image_title": ", Fraunhofer AICOS"
     },
     {
-      "title": "Sicherheit im Unternehmen: Security Operations Center vorgestellt",
-      "teaser": "Ein externes Security Operations Center (SOC) soll häufig die interne Securityabteilung ersetzen. Die Nachfrage und Leistungsvielfalt sind groß. Ein Überblick.",
-      "url": "https://www.heise.de/hintergrund/Sicherheit-im-Unternehmen-Security-Operations-Center-vorgestellt-7273653.html"
+      "title": "iOS 16.1 beta 3: Weniger Wartezeit bei Apps und Spielen, die Inhalte nachladen",
+      "teaser": "Ein neuer Wahlschalter ermöglicht das automatische Laden von In-App-Inhalten direkt nach dem Download im App Store. Entdeckt wurde er in Beta 3 von iOS 16.1.",
+      "url": "https://www.heise.de/news/iOS-16-1-beta-3-Weniger-Wartezeit-bei-Apps-und-Spielen-die-Inhalte-nachladen-7280180.html",
+      "image_title": "Sankt-petersburg,,Russia,,April,27,,2018:,Apple,Store,Application,Icon,On"
+    },
+    {
+      "title": "Intel-Chef verbreitet Zuversicht: Fertigungstechnik, CPUs und GPUs auf dem Weg",
+      "teaser": "Intel-CEO Pat Gelsinger erklärt die ambitionierte Aufholjagd seines Unternehmens bei Grafikchips und Fertigungstechnik.",
+      "url": "https://www.heise.de/news/Intel-Chef-verbreitet-Zuversicht-Fertigungstechnik-CPUs-und-GPUs-auf-dem-Weg-7280152.html"
+    },
+    {
+      "title": "AirPods Pro 2: Keine Verbesserung bei Reparierbarkeit",
+      "teaser": "Apple hat nach sechs Jahren keinerlei Fortschritte bei der Reparierbarkeit seiner True-Wireless-Ohrhörer gemacht, bemängelt ein Reparaturdienstleister.",
+      "url": "https://www.heise.de/news/AirPods-Pro-2-Keine-Verbesserung-bei-Reparierbarkeit-7280103.html",
+      "image_title": "AirPods Pro 2"
+    },
+    {
+      "title": "Digitaler Zwilling: Eclipse Ditto 3 spart Ressourcen und passt den Suchindex an",
+      "teaser": "Das IoT-Werkzeug zum Verwalten digitaler Zwillinge reduziert die Services, ändert das Indexverfahren für die Suche und führt eine UI zum Verwalten ein.",
+      "url": "https://www.heise.de/news/Digitaler-Zwilling-Eclipse-Ditto-3-spart-Ressourcen-und-passt-den-Suchindex-an-7279518.html"
     },
     {
       "title": "T-Systems betreibt Validator-Knoten für Ethereum und steigt bei Staking-DAO ein",
@@ -109,26 +130,6 @@
       "title": "Service-Mesh: Googles Istio darf sich bei der CNCF bewähren",
       "teaser": "Im Frühjahr hatte Google sein Service-Mesh Istio an die Cloud Native Computing Foundation übergeben – nun ist es offiziell in deren Inkubator aufgenommen.",
       "url": "https://www.heise.de/news/Service-Mesh-Googles-Istio-darf-sich-bei-der-CNCF-bewaehren-7279328.html"
-    },
-    {
-      "title": "Root-Lücke: Selbstheilungsfunktion gefährdet Cisco-Netzwerkhardware",
-      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Lücken in Ciscos Netzwerkbetriebssystem IOS und weiterer Software.",
-      "url": "https://www.heise.de/news/Root-Luecke-Selbtsheilungsfunktion-gefaehrdet-Cisco-Netzwerkhardware-7279116.html"
-    },
-    {
-      "title": "KI-Bildgenerator DALL·E ab sofort ohne Warteliste verfügbar",
-      "teaser": "Zwar befindet sich das KI-System weiterhin in der Betaphase, aber OpenAI nimmt nun alle Interessierten direkt auf.",
-      "url": "https://www.heise.de/news/KI-Bildgenerator-DALL-E-ab-sofort-ohne-Warteliste-verfuegbar-7279059.html"
-    },
-    {
-      "title": "Chip-Inflation: Apple will TSMC-Preiserhöhung nicht zahlen",
-      "teaser": "Apples einziger SoC-Fertiger würde gerne mehr Geld für seine Produkte sehen. Doch da will der Konzern einem Bericht zufolge nicht mitspielen.",
-      "url": "https://www.heise.de/news/Chip-Inflation-Apple-will-TSMC-Preiserhoehung-nicht-zahlen-7279190.html"
-    },
-    {
-      "title": "Nie mehr Ampeln, Enten und Busse suchen: Cloudflare startet CAPTCHA-Konkurrenten",
-      "teaser": "Turnstile soll Googles marktdominierenden reCAPTCHA den Rang ablaufen. Für die Validierung braucht das Tool keine Interaktion, wie etwa nervige Bildersuchen.",
-      "url": "https://www.heise.de/news/Nie-mehr-Ampeln-Enten-und-Busse-suchen-Cloudflare-startet-CAPTCHA-Konkurrenten-7279154.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
