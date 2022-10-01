@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-01T09:27:28",
+  "timestamp": "2022-10-01T10:27:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,16 +32,25 @@
   ],
   "articles": [
     {
-      "title": "Exchange Server"
+      "title": "Exchange Server",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
     },
     {
-      "title": "Cisco"
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Root-Luecke-Selbtsheilungsfunktion-gefaehrdet-Cisco-Netzwerkhardware-7279116.html"
     },
     {
-      "title": "Google Chrome"
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-106-Neue-Funktionen-und-20-abgedichtete-Sicherheitslecks-7277825.html"
     },
     {
-      "title": "Sophos Firewalls"
+      "title": "Sophos Firewalls",
+      "url": "https://www.heise.de/news/Sophos-Firewalls-Kritische-Sicherheitsluecke-wird-angegriffen-7275195.html"
+    },
+    {
+      "title": "Exchange Server Zero-Day: Microsoft veröffentlicht Skript für Workaround​",
+      "teaser": "Mit einem Powershell-Skript können Administratoren den Workaround gegen die neu entdeckten Zero-Day-Lücken in Exchange Server einspielen.",
+      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Microsoft-veroeffentlicht-Skript-fuer-Workaround-7282055.html"
     },
     {
       "title": "Root-Lücke: Selbstheilungsfunktion gefährdet Cisco-Netzwerkhardware",
@@ -59,14 +68,14 @@
       "url": "https://www.heise.de/news/Fuer-Software-Entwickler-Zwei-Webinare-fuer-den-guten-Umgang-mit-dem-Datenschutz-7255821.html"
     },
     {
-      "title": "PlayStation 4 und PlayStation 5: Manipulierter USB-Stick ermöglichte Jailbreak",
-      "teaser": "Ein Hacker hat eine Lücke in Sonys Umsetzung des exFAT-Dateisystems entdeckt. Die ermöglichte ein Jailbreak von PS4 und PS5 per manipuliertem USB-Stick.",
-      "url": "https://www.heise.de/news/PlayStation-4-5-Manipulierter-USB-Stick-ermoeglichte-Jailbreak-7278999.html"
-    },
-    {
       "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
       "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
       "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
+    },
+    {
+      "title": "PlayStation 4 und PlayStation 5: Manipulierter USB-Stick ermöglichte Jailbreak",
+      "teaser": "Ein Hacker hat eine Lücke in Sonys Umsetzung des exFAT-Dateisystems entdeckt. Die ermöglichte ein Jailbreak von PS4 und PS5 per manipuliertem USB-Stick.",
+      "url": "https://www.heise.de/news/PlayStation-4-5-Manipulierter-USB-Stick-ermoeglichte-Jailbreak-7278999.html"
     },
     {
       "title": "Zielscheibe Open Source: Angriffe acht mal häufiger als vor drei Jahren",
@@ -152,12 +161,6 @@
       "teaser": "Mehrere Schwachstellen im DNS-Server bind könnten Angreifer missbrauchen, um verwundbare Maschinen lahmzulegen. Aktualisierte Softwarepakete beheben die Fehler.",
       "url": "https://www.heise.de/news/Angreifer-koennten-DNS-Server-bind-lahmlegen-7274982.html",
       "image_title": "Aufmacher bind-Updates gegen DoS-Lücken"
-    },
-    {
-      "title": "WhatsApp: Kritische Sicherheitslücke erlaubt Codeschmuggel bei Videoanrufen",
-      "teaser": "Zwei Sicherheitslücken in WhatsApp ermöglichen Angreifern, Opfern Schadcode unterzujubeln. Aktualisierte App-Versionen dichten die Lecks ab.",
-      "url": "https://www.heise.de/news/WhatsApp-Kritische-Sicherheitsluecke-erlaubt-Codeschmuggel-bei-Videoanrufen-7274930.html",
-      "image_title": "Aufmacher kritische Sicherheitslücke in WhatsApp"
     },
     {
       "title": "heise Security Tour 2022",
