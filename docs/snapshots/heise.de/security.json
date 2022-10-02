@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-02T11:20:53",
+  "timestamp": "2022-10-02T12:46:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Drupal",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Drupal-Angreifer-koennten-auf-Zugangsdaten-zugreifen-7282401.html"
+    },
+    {
       "title": "Atlassian Bitbucket Server",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Atlassian-Bitbucket-Server-7282369.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html"
     },
     {
-      "title": "Exchange Server",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
+      "title": "Sicherheitsupdate Drupal: Angreifer könnten auf Zugangsdaten zugreifen",
+      "teaser": "Es gibt ein wichtiges Sicherheitsupdate für das Content Management System Drupal.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Drupal-Angreifer-koennten-auf-Zugangsdaten-zugreifen-7282401.html"
     },
     {
       "title": "Jetzt patchen! Attacken auf Atlassian Bitbucket Server",
@@ -63,15 +68,15 @@
       "url": "https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html"
     },
     {
+      "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
+      "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
+      "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
+    },
+    {
       "title": "macOS: Apps können Festplattenvollzugriff des Terminals missbrauchen",
       "teaser": "Programme, die nicht in einer Sandbox laufen, können den Systemschutz TCC von macOS umgehen, sobald man dem Terminal Festplattenvollzugriff gestattet.​",
       "url": "https://www.heise.de/news/macOS-Festplattenvollzugriff-des-Terminals-koennen-andere-Apps-missbrauchen-7282104.html",
       "image_title": "Systemeinstellung \"Sicherheit & Datenschutz\" von macOS"
-    },
-    {
-      "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
-      "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
-      "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
     },
     {
       "title": "Zero-Day-Attacken auf Microsoft Exchange Server – Sicherheitspatches fehlen",
@@ -155,12 +160,6 @@
       "url": "https://www.heise.de/news/IT-Sicherheitstag-2022-zu-Security-Angriffen-und-erfolgreichen-Gegenmassnahmen-7276039.html"
     },
     {
-      "title": "Angreifer nisten sich in Exchange Online ein – mit bösartigen OAuth-Apps",
-      "teaser": "Microsoft hat Angriffe auf Cloud-Exchange analysiert, bei denen Angreifer mit bösartigen OAuth-Apps nachhaltig Zugang erlangten und ihn für Spam missbrauchen.",
-      "url": "https://www.heise.de/news/Angreifer-nisten-sich-in-Exchange-Online-ein-mit-boesartigen-OAuth-Apps-7275757.html",
-      "image_title": "Aufmacher Bösartige OAuth-Apps zum Einnisten in Exchange Online"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "Lernen Sie, wie Sie Angriffe auf die IT erfolgreich abwehren. Denn IT-Sicherheit gewinnt immer weiter an Bedeutung. Steuern Sie jetzt aktiv gegen: Mit der heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0922.lp-security.link.link"
@@ -181,9 +180,9 @@
       "url": "https://www.heise.de/meinung/Utimaco-der-Krypto-Miner-und-ein-Disclosure-Desaster-7079962.html"
     },
     {
-      "title": "USB-Stick auf Mac erstellen?",
+      "title": "Re: USB-Stick auf Mac erstellen?",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/USB-Stick-auf-Mac-erstellen/posting-41693319/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-USB-Stick-auf-Mac-erstellen/posting-41693669/show/"
     },
     {
       "title": "Noob Frage",
