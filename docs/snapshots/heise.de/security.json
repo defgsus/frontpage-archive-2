@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-02T10:27:19",
+  "timestamp": "2022-10-02T11:20:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Bitbucket Server",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Atlassian-Bitbucket-Server-7282369.html"
+    },
+    {
       "title": "Thunderbird",
       "url": "https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Root-Luecke-Selbtsheilungsfunktion-gefaehrdet-Cisco-Netzwerkhardware-7279116.html"
+      "title": "Jetzt patchen! Attacken auf Atlassian Bitbucket Server",
+      "teaser": "Sicherheitsforscher und eine US-Sicherheitsbehörde warnen davor, dass Angreifer Bitbucket Server im Visier haben.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Atlassian-Bitbucket-Server-7282369.html"
     },
     {
-      "title": "Thunderbird: Angreifer könnten Absender verschlüsselter Mails fälschen",
+      "title": "Thunderbird: Angreifer könnten Absender verschlüsselter Nachrichten fälschen",
       "teaser": "Sicherheitslücken im Matrix-Chat-SDK machen den Mail-Client Thunderbird verwundbar. Eine aktualisierte Version schafft Abhilfe.",
       "url": "https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html"
     },
@@ -64,14 +69,14 @@
       "image_title": "Systemeinstellung \"Sicherheit & Datenschutz\" von macOS"
     },
     {
-      "title": "Zero-Day-Attacken auf Microsoft Exchange Server – Sicherheitspatches fehlen",
-      "teaser": "Aufgrund von Angriffen und bislang fehlenden Patches sollten Admins Exchange Server über einen Workaround absichern.",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
-    },
-    {
       "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
       "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
       "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
+    },
+    {
+      "title": "Zero-Day-Attacken auf Microsoft Exchange Server – Sicherheitspatches fehlen",
+      "teaser": "Aufgrund von Angriffen und bislang fehlenden Patches sollten Admins Exchange Server über einen Workaround absichern.",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
     },
     {
       "title": "Root-Lücke: Selbstheilungsfunktion gefährdet Cisco-Netzwerkhardware",
@@ -156,12 +161,6 @@
       "image_title": "Aufmacher Bösartige OAuth-Apps zum Einnisten in Exchange Online"
     },
     {
-      "title": "13,8 Millionen Downloads: Malware-Apps unter Android und iOS",
-      "teaser": "Ein IT-Sicherheitsunternehmen hat Werbebetrugs-Apps in Google Play und im Apple Store gefunden, die auf insgesamt 13,8 Millionen Downloads kommen.",
-      "url": "https://www.heise.de/news/13-8-Millionen-Downloads-Werbebetrugs-Apps-unter-Android-und-iOS-7275295.html",
-      "image_title": "Aufmacher Scylla - Werbebetrugs-Apps unter iOS und Android"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "Lernen Sie, wie Sie Angriffe auf die IT erfolgreich abwehren. Denn IT-Sicherheit gewinnt immer weiter an Bedeutung. Steuern Sie jetzt aktiv gegen: Mit der heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0922.lp-security.link.link"
@@ -182,6 +181,11 @@
       "url": "https://www.heise.de/meinung/Utimaco-der-Krypto-Miner-und-ein-Disclosure-Desaster-7079962.html"
     },
     {
+      "title": "USB-Stick auf Mac erstellen?",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/USB-Stick-auf-Mac-erstellen/posting-41693319/show/"
+    },
+    {
       "title": "Noob Frage",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Noob-Frage/posting-41689315/show/"
@@ -190,11 +194,6 @@
       "title": "Re: Detaillierte logs der Scanvorgänge",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Detaillierte-logs-der-Scanvorgaenge/posting-41678555/show/"
-    },
-    {
-      "title": "Re: Boot-Patch Tester gesucht",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Boot-Patch-Tester-gesucht/posting-41668123/show/"
     }
   ]
 }
