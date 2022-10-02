@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-02T09:26:39",
+  "timestamp": "2022-10-02T10:27:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Thunderbird",
+      "url": "https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html"
+    },
+    {
+      "title": "Matrix-SDK",
+      "url": "https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html"
+    },
+    {
       "title": "Exchange Server",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Root-Luecke-Selbtsheilungsfunktion-gefaehrdet-Cisco-Netzwerkhardware-7279116.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-106-Neue-Funktionen-und-20-abgedichtete-Sicherheitslecks-7277825.html"
+      "title": "Thunderbird: Angreifer könnten Absender verschlüsselter Mails fälschen",
+      "teaser": "Sicherheitslücken im Matrix-Chat-SDK machen den Mail-Client Thunderbird verwundbar. Eine aktualisierte Version schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html"
     },
     {
-      "title": "Sophos Firewalls",
-      "url": "https://www.heise.de/news/Sophos-Firewalls-Kritische-Sicherheitsluecke-wird-angegriffen-7275195.html"
+      "title": "Chat-Clients: Lücken im Matrix-SDK gefährden Ende-zu-Ende-Verschlüsselung",
+      "teaser": "Aufgrund von zwei kritischen Schwachstellen ist das Versenden von verschlüsselten Nachrichten mit verschiedenen Messengern gefährdet.",
+      "url": "https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html"
     },
     {
       "title": "macOS: Apps können Festplattenvollzugriff des Terminals missbrauchen",
@@ -59,6 +69,11 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitsupdates-Zero-Day-Attacken-auf-Microsoft-Exchange-Server-7280460.html"
     },
     {
+      "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
+      "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
+      "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
+    },
+    {
       "title": "Root-Lücke: Selbstheilungsfunktion gefährdet Cisco-Netzwerkhardware",
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Lücken in Ciscos Netzwerkbetriebssystem IOS und weiterer Software.",
       "url": "https://www.heise.de/news/Root-Luecke-Selbtsheilungsfunktion-gefaehrdet-Cisco-Netzwerkhardware-7279116.html"
@@ -67,11 +82,6 @@
       "title": "Nie mehr Ampeln, Enten und Busse suchen: Cloudflare startet CAPTCHA-Konkurrenten",
       "teaser": "Turnstile soll Googles marktdominierenden reCAPTCHA den Rang ablaufen. Für die Validierung braucht das Tool keine Interaktion, wie etwa nervige Bildersuchen.",
       "url": "https://www.heise.de/news/Nie-mehr-Ampeln-Enten-und-Busse-suchen-Cloudflare-startet-CAPTCHA-Konkurrenten-7279154.html"
-    },
-    {
-      "title": "Wie Unternehmen das Active Directory gegen Cyberangriffe abschotten – und warum das dringend notwendig ist",
-      "teaser": "Bei vielen Ransomware-Attacken nutzen Kriminelle das Active Directory als Einfallstor. Der Verzeichnisdienst benötigt darum nicht nur besonderen Schutz, er muss auch im Schadensfall so schnell wie möglich wiederhergestellt werden. Bei der Absicherung hilft ein fünfstufiger Ansatz nach den Prinzipien des NIST Cybersecurity Frameworks.",
-      "url": "https://www.heise.de/solutions/quest/wie-unternehmen-das-active-directory-gegen-cyberangriffe-abschotten-und-warum-das-dringend-notwendig-ist/?source=nat_teas"
     },
     {
       "title": "Für Software-Entwickler: Zwei Webinare für den guten Umgang mit dem Datenschutz",
@@ -150,17 +160,6 @@
       "teaser": "Ein IT-Sicherheitsunternehmen hat Werbebetrugs-Apps in Google Play und im Apple Store gefunden, die auf insgesamt 13,8 Millionen Downloads kommen.",
       "url": "https://www.heise.de/news/13-8-Millionen-Downloads-Werbebetrugs-Apps-unter-Android-und-iOS-7275295.html",
       "image_title": "Aufmacher Scylla - Werbebetrugs-Apps unter iOS und Android"
-    },
-    {
-      "title": "Sophos Firewalls: Kritische Sicherheitslücke wird angegriffen",
-      "teaser": "Angreifer nutzen eine Schwachstelle in Sophos Firewalls aus, durch die sie eigenen Code auf verwundbare Maschinen schieben. Softwareflicken dichten das Leck ab.",
-      "url": "https://www.heise.de/news/Sophos-Firewalls-Kritische-Sicherheitsluecke-wird-angegriffen-7275195.html",
-      "image_title": "Aufmacher Angegriffene Sicherheitslücke in Sophos Firewalls"
-    },
-    {
-      "title": "IT-Sicherheitslücke bei Lufthansa: Chef der Fluglinie selbst betroffen",
-      "teaser": "Lufthansa-Chef Carsten Spohr ist offenbar auf eine Sicherheitslücke der Fluglinie hereingefallen. Unbekannte ergatterten Daten mithilfe seines Boarding-Passes.",
-      "url": "https://www.heise.de/news/IT-Sicherheitsluecke-bei-Lufthansa-Chef-der-Fluglinie-selbst-betroffen-7275048.html"
     },
     {
       "title": "heise Security Tour 2022",
