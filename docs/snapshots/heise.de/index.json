@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-04T12:56:30",
+  "timestamp": "2022-10-04T14:02:02",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,10 +32,9 @@
   ],
   "articles": [
     {
-      "title": "AlertIT SecurityExchange-Server Zero-Day: Bisheriger Workaround unzureichend",
-      "teaser": "Für die zum Wochenende bekannt gewordene Zero-Day-Lücke in Exchange hat Microsoft einen Workaround angeboten. Der dichtet das Leck jedoch nicht ausreichend ab.",
-      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html",
-      "image_title": "Aufmacher Workaorund für Exhange-Zero-Day unzureichend"
+      "title": "Beschluss des EU-ParlamentsDas einheitliche Ladekabel kommt",
+      "teaser": "Auch das EU-Parlament hat sich auf USB-C als Anschluss für einheitliche Ladekabel geeinigt. Nun müssen nur noch die Mitgliedsstaaten zustimmen.",
+      "url": "https://www.heise.de/news/USB-C-EU-Parlament-beschliesst-einheitliches-Ladekabel-7283455.html"
     },
     {
       "title": "UpdateKosten sparenSmarte Heizkörperthermostate im Vergleich: 13 Modelle fürs effiziente Heizen",
@@ -54,9 +53,10 @@
       "url": "https://www.heise.de/hintergrund/Es-braucht-oft-lange-Vorlaufzeiten-und-das-ist-eine-gewaltige-Herausforderung-7279124.html"
     },
     {
-      "title": "Beschluss des EU-ParlamentsDas einheitliche Ladekabel kommt",
-      "teaser": "Auch das EU-Parlament hat sich auf USB-C als Anschluss für einheitliche Ladekabel geeinigt. Nun müssen nur noch die Mitgliedsstaaten zustimmen.",
-      "url": "https://www.heise.de/news/USB-C-EU-Parlament-beschliesst-einheitliches-Ladekabel-7283455.html"
+      "title": "AlertIT SecurityExchange-Server Zero-Day: Bisheriger Workaround unzureichend",
+      "teaser": "Für die zum Wochenende bekannt gewordene Zero-Day-Lücke in Exchange hat Microsoft einen Workaround angeboten. Der dichtet das Leck jedoch nicht ausreichend ab.",
+      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html",
+      "image_title": "Aufmacher Workaorund für Exhange-Zero-Day unzureichend"
     },
     {
       "title": "Angriffe auf RegierungenBackdoor in Windows-Logo versteckt",
@@ -152,19 +152,74 @@
       "image_title": "Moritz Reichartz"
     },
     {
+      "title": "Flugtaxi: Wisk stellt automatischen Viersitzer vor",
+      "teaser": "Wisk hat für seinen neuen Prototyp unter anderem darauf geachtet, dass Passagiere besser einsteigen können und der Multikopter nicht so viel Lärm macht.",
+      "url": "https://www.heise.de/news/Flugtaxi-Wisk-stellt-automatischen-Viersitzer-vor-7283830.html"
+    },
+    {
+      "title": "Team Up! Teamdynamiken begreifen mit der Konferenz für agile Teamentwicklung",
+      "teaser": "Am 26. Oktober 2022 setzt Team Up! Impulse: Das Online-Event vermittelt, wie gelungene Teamentwicklung funktioniert – Tickets noch bis 11. Oktober mit Rabatt.",
+      "url": "https://www.heise.de/news/Team-Up-Teamdynamiken-begreifen-mit-der-Konferenz-fuer-agile-Teamentwicklung-7283223.html",
+      "image_title": "Team Up! Die Konferenz zum Teambuilding, Online am 26. Oktober 2022"
+    },
+    {
+      "title": "Strom sparen im Rechenzentrum - mit effizienteren Server-CPUs",
+      "teaser": "Im Lichte steigender Energiekosten nimmt die Bedeutung energieeffizienter IT-Systeme deutlich zu. Gerade im Rechenzentrum lässt sich viel Strom sparen. Lesen Sie hier, wie AMD mit seinen EPYC-Prozessoren dazu beiträgt – und welche ehrgeizigen Ziele der Hersteller sich für die nächsten Jahre gesteckt hat.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/strom-sparen-im-rechenzentrum-mit-effizienteren-server-cpus-4388/?source=hbsad-ersatz"
+    },
+    {
+      "title": "Xiaomi Robot Vacuum X10+ wäscht und trocknet sich nach dem Wischen selbst",
+      "teaser": "Der Saug- und Wischroboter Xiaomi X10+ reinigt sich selbst von der Ausbeute, die zum Beispiel bei Xiaomis smartem Haustier-Futterautomaten danebenging. ​",
+      "url": "https://www.heise.de/news/Xiaomi-Robot-Vacuum-X10-waescht-und-trocknet-sich-nach-dem-Wischen-selbst-7283739.html"
+    },
+    {
+      "title": "Google: Nest Wifi Pro 6E und neue Home-App angekündigt",
+      "teaser": "Google bringt seinen neuen Router Nest Wifi Pro 6E im Oktober in den Handel. Dazu gibt es Bekenntnisse zu Matter und eine überarbeitete Home-App.",
+      "url": "https://www.heise.de/news/Google-Nest-Wifi-Pro-6E-und-neue-Home-App-angekuendigt-7283727.html"
+    },
+    {
+      "title": "Xiaomi 12T und 12T Pro: Megapixel-Protz im Doppelpack",
+      "teaser": "Top-SoC, schnelles Laden und 200-Megapixel-Kamera: Xiaomis neue Topmodelle Xiaomi 12T und 12T Pro starten ab 600 Euro.",
+      "url": "https://www.heise.de/news/Xiaomi-12T-und-12T-Pro-Megapixel-Protz-im-Doppelpack-7283483.html"
+    },
+    {
+      "title": "Kurztests: SSD-Kühler mit Lüfter, Nackenlautsprecher und Raumklimasensor",
+      "teaser": "Wir haben den SSD-Kühler Jiushark M.2-Three, den Nackenlautsprecher Panasonic SC-GN01 und den WLAN-Raumklimasensor Shelly Plus H&T getestet.",
+      "url": "https://www.heise.de/tests/Kurztests-SSD-Kuehler-mit-Luefter-Nackenlautsprecher-und-Raumklimasensor-7275516.html"
+    },
+    {
+      "title": "Sprach-Barrierefreiheit für Sprachassistenten: Big Tech tut sich zusammen",
+      "teaser": "Amazon, Apple, Google, Meta und Microsoft arbeiten gemeinsam mit der Universität von Illinois an einem Projekt für mehr Barrierefreiheit im Bereich Sprache.",
+      "url": "https://www.heise.de/news/Sprach-Barrierefreiheit-fuer-Sprachassistenten-Big-Tech-tut-sich-zusammen-7283619.html",
+      "image_title": "Apple-Sprachassistent"
+    },
+    {
       "title": "Event-Streaming: Apache Kafka 3.3 schaltet den ZooKeeper-Ersatz KRaft scharf",
       "teaser": "Ab Kafka 3.3 gilt KRaft als produktionsreif für neue Cluster. Den von ZooKeeper gewohnten Funktionsumfang deckt KRaft jedoch noch nicht vollständig ab.",
       "url": "https://www.heise.de/news/Event-Streaming-Apache-Kafka-3-3-schaltet-den-ZooKeeper-Ersatz-KRaft-scharf-7283556.html"
     },
     {
+      "title": "ElektroautoVW ID.5 GTX im Test: Komfortabel statt sportiv",
+      "url": "https://www.heise.de/tests/Elektroauto-VW-ID-5-GTX-im-Test-Komfortabel-statt-sportiv-7268086.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": "VW ID.5 GTX"
+    },
+    {
+      "title": "Gehälter 2022Das verdienen IT-Architekten in Deutschland",
+      "url": "https://www.heise.de/hintergrund/Gehaelter-2022-Das-verdienen-IT-Architekten-in-Deutschland-7265422.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Wie Sie den Erfolg von DevOps im Unternehmen sichtbar machen",
+      "url": "https://www.heise.de/hintergrund/Wie-Sie-den-Erfolg-von-DevOps-im-Unternehmen-sichtbar-machen-7268454.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "heise+ Jahresabo:",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
       "title": "Braunkohle-Verstromung: RWE will 2030 aussteigen",
       "teaser": "Acht Jahre früher als bisher geplant will der Energie-Konzern RWE keinen Strom mehr aus Braunkohle gewinnen. Darauf hat er sich mit der Regierung geeinigt.",
       "url": "https://www.heise.de/news/Braunkohle-Verstromung-RWE-will-2030-aussteigen-7283668.html"
-    },
-    {
-      "title": "Großer Netzwerkschutz mit kleiner Firewall",
-      "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
-      "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
     },
     {
       "title": "Elektroautos: EU-Verkehrsausschuss will alle 60 km eine Ladestation",
@@ -196,24 +251,6 @@
       "title": "Speicher-Konferenz storage2day startet am 13. Oktober in München",
       "teaser": "Im Fokus der Konferenz stehen unter anderem Storage für HPC, Ransomwareschutz und Ceph. Einige Tickets für Konferenz und Workshop sind noch verfügbar.",
       "url": "https://www.heise.de/news/Speicher-Konferenz-storage2day-startet-am-13-Oktober-in-Muenchen-7283194.html"
-    },
-    {
-      "title": "ElektroautoVW ID.5 GTX im Test: Komfortabel statt sportiv",
-      "url": "https://www.heise.de/tests/Elektroauto-VW-ID-5-GTX-im-Test-Komfortabel-statt-sportiv-7268086.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": "VW ID.5 GTX"
-    },
-    {
-      "title": "Gehälter 2022Das verdienen IT-Architekten in Deutschland",
-      "url": "https://www.heise.de/hintergrund/Gehaelter-2022-Das-verdienen-IT-Architekten-in-Deutschland-7265422.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Wie Sie den Erfolg von DevOps im Unternehmen sichtbar machen",
-      "url": "https://www.heise.de/hintergrund/Wie-Sie-den-Erfolg-von-DevOps-im-Unternehmen-sichtbar-machen-7268454.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "heise+ Jahresabo:",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "AirPods: Verbesserter Transparenzmodus wohl doch nicht für ältere Geräte",
@@ -250,6 +287,11 @@
       "image_title": "Krieg, Cyberwar"
     },
     {
+      "title": "Computing made in Europe – wie Europas IT resilienter, flexibler und unabhängiger werden soll",
+      "teaser": "Die internationale Verflechtung von Waren-, Energie- und Datenströmen kann ein signifikantes Risiko für staatliche Souveränität und Versorgungssicherheit sein – das haben die jüngsten Krisen gezeigt. Mit Initiativen wie Gaia-X und dem EU Chips Act will Europa im IT-Bereich gegensteuern. Dabei kommt robusten Lieferketten eine besondere Bedeutung zu.",
+      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/cloud/beitrag/computing-made-in-europe-wie-europas-it-resilienter-flexibler-und-unabhaengiger-werden-soll-4412"
+    },
+    {
       "title": "1,4-nm-CPUs ab 2027: Samsungs Halbleiter-Fahrplan",
       "teaser": "Insbesondere High-Performance-Computing soll bei Samsungs Chipsparte wachsen. Zu den potenziellen Kunden gehören AMD, Tesla und Qualcomm.",
       "url": "https://www.heise.de/news/Samsung-Foundry-Chipproduktion-mit-1-4-Nanometern-ab-2027-7283405.html"
@@ -279,51 +321,6 @@
       "title": "Stadia: Kunden bitten Google um Bluetooth-Update für den Controller",
       "teaser": "Nach dem Aus von Stadia können die zugehörigen Gamepads nur noch per Kabel genutzt werden. User bitten Google nun darum, sie für Bluetooth freizuschalten.",
       "url": "https://www.heise.de/news/Stadia-Kunden-bitten-Google-um-Bluetooth-Update-fuer-den-Controller-7283261.html"
-    },
-    {
-      "title": "Statistik der Woche: 19.000 Teile an Weltraummüll im niedrigen Erdorbit",
-      "teaser": "2020 und 2021 wurden so viele Satelliten und Sonden in den Erdorbit gebracht wie noch nie zuvor. Das macht auch eine Menge Müll, wie unsere Infografik zeigt.",
-      "url": "https://www.heise.de/hintergrund/Statistik-der-Woche-19-000-Teile-an-Weltraummuell-im-niedrigen-Erdorbit-7283179.html",
-      "image_title": "Weltraum-Woche"
-    },
-    {
-      "title": "Computing made in Europe – wie Europas IT resilienter, flexibler und unabhängiger werden soll",
-      "teaser": "Die internationale Verflechtung von Waren-, Energie- und Datenströmen kann ein signifikantes Risiko für staatliche Souveränität und Versorgungssicherheit sein – das haben die jüngsten Krisen gezeigt. Mit Initiativen wie Gaia-X und dem EU Chips Act will Europa im IT-Bereich gegensteuern. Dabei kommt robusten Lieferketten eine besondere Bedeutung zu.",
-      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/cloud/beitrag/computing-made-in-europe-wie-europas-it-resilienter-flexibler-und-unabhaengiger-werden-soll-4412"
-    },
-    {
-      "title": "Wie zeige ich meinem Chef, dass ich im Homeoffice produktiv bin?",
-      "teaser": "Manche Chefs denken, Angestellte wären im Homeoffice unproduktiv. Die sehen das oft aber ganz anders. Wie löst man diesen Ansichtenkonflikt?",
-      "url": "https://www.heise.de/news/Wie-zeige-ich-meinem-Chef-dass-ich-im-Homeoffice-produktiv-bin-7283098.html"
-    },
-    {
-      "title": "Apples Autounfall-Erkennung: Probleme mit stehenden Fahrzeugen",
-      "teaser": "In einem Versuch mit Schrottautos zeigt sich, dass die \"Crash Detection\" von iPhone 14, Apple Watch 8 und Ultra nicht immer anschlägt. Apple beschwichtigt.",
-      "url": "https://www.heise.de/news/Apples-Autounfall-Erkennung-Probleme-mit-stehenden-Fahrzeugen-7282283.html",
-      "image_title": "Apple Car Crash Detection"
-    },
-    {
-      "title": "Youtube: 4K-Auflösung rückt testweise hinter Paywall",
-      "teaser": "Google sperrt einige Gratis-Nutzer in einem Test von 4K-Auflösung aus. Betroffene User können maximal 1440p sehen – wer mehr will, soll für Premium zahlen.",
-      "url": "https://www.heise.de/news/Youtube-4K-Aufloesung-rueckt-testweise-hinter-Paywall-7283166.html",
-      "image_title": "Kolkata,,India,-,July,24,,2022:,Social,Internet,Service,Youtube"
-    },
-    {
-      "title": "AlertExchange-Server Zero-Day: Bisheriger Workaround unzureichend",
-      "teaser": "Für die zum Wochenende bekannt gewordene Zero-Day-Lücke in Exchange hat Microsoft einen Workaround angeboten. Der dichtet das Leck jedoch nicht ausreichend ab.",
-      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html",
-      "image_title": "Aufmacher Workaorund für Exhange-Zero-Day unzureichend"
-    },
-    {
-      "title": "iX-Workshop: Continuous Integration und agile Softwareentwicklung mit Jenkins",
-      "teaser": "Optimieren Sie Ihre Softwareentwicklungsprozesse mit dem CI-/CD-Tool Jenkins. In unserem Online-Zweitagesworkshop am 17. und 18. Oktober sind noch Plätze frei.",
-      "url": "https://www.heise.de/news/iX-Workshop-Continuous-Integration-und-agile-Softwareentwicklung-mit-Jenkins-7277117.html",
-      "image_title": "iX-Workshop Continuous Integration mit Jenkins"
-    },
-    {
-      "title": "Unternehmenskapital: Daten als bilanzielle Vermögenswerte ausweisen",
-      "teaser": "Wichtigster Rohstoff datengetriebener Unternehmen sind ihre Daten. Was müssen Unternehmen bedenken, wenn sie ihr Datenkapital bilanziell ausweisen wollen?",
-      "url": "https://www.heise.de/hintergrund/Unternehmenskapital-Daten-als-bilanzielle-Vermoegenswerte-ausweisen-7276652.html"
     },
     {
       "title": "Zero-Day-Attacken auf Microsoft Exchange Server – Sicherheitspatches fehlen",
