@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-04T07:34:07",
+  "timestamp": "2022-10-04T08:34:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Exchange Zero-Day",
+      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html"
+    },
+    {
       "title": "Drupal",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Drupal-Angreifer-koennten-auf-Zugangsdaten-zugreifen-7282401.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "Thunderbird",
       "url": "https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html"
-    },
-    {
-      "title": "Matrix-SDK",
-      "url": "https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html"
     },
     {
       "title": "Sicherheitsupdate Drupal: Angreifer könnten auf Zugangsdaten zugreifen",
@@ -68,10 +68,20 @@
       "url": "https://www.heise.de/news/Chat-Clients-Luecken-im-Matrix-SDK-gefaehrden-Ende-zu-Ende-Verschluesselung-7282351.html"
     },
     {
+      "title": "Großer Netzwerkschutz mit kleiner Firewall",
+      "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
+      "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
+    },
+    {
       "title": "macOS: Apps können Festplattenvollzugriff des Terminals missbrauchen",
       "teaser": "Programme, die nicht in einer Sandbox laufen, können den Systemschutz TCC von macOS umgehen, sobald man dem Terminal Festplattenvollzugriff gestattet.​",
       "url": "https://www.heise.de/news/macOS-Festplattenvollzugriff-des-Terminals-koennen-andere-Apps-missbrauchen-7282104.html",
       "image_title": "Systemeinstellung \"Sicherheit & Datenschutz\" von macOS"
+    },
+    {
+      "title": "Exchange Server Zero-Day: Microsoft veröffentlicht Skript für Workaround​",
+      "teaser": "Mit einem Powershell-Skript können Administratoren den Workaround gegen die neu entdeckten Zero-Day-Lücken in Exchange Server einspielen.",
+      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Microsoft-veroeffentlicht-Skript-fuer-Workaround-7282055.html"
     },
     {
       "title": "Zero-Day-Attacken auf Microsoft Exchange Server – Sicherheitspatches fehlen",
@@ -148,11 +158,6 @@
       "title": "Ransomware: Nach Verschlüsseln kommt jetzt Kopieren & Zerstören",
       "teaser": "Das mit dem Verschlüsseln ist aufwendig und fehleranfällig – das denken sich wohl auch Cybercrime-Banden, die zuvor kopierte Daten unbrauchbar machen.",
       "url": "https://www.heise.de/news/Ransomware-Nach-Verschluesseln-kommt-jetzt-Kopieren-Zerstoeren-7275667.html"
-    },
-    {
-      "title": "IT-Sicherheitstag 2022 zu Security-Angriffen und erfolgreichen Gegenmaßnahmen",
-      "teaser": "Bis Ende Oktober kann man sich für das Security-Event zum Frühbucherrabattpreis anmelden. Der IT-Sicherheitstag findet am 17. November in Gelsenkirchen statt.",
-      "url": "https://www.heise.de/news/IT-Sicherheitstag-2022-zu-Security-Angriffen-und-erfolgreichen-Gegenmassnahmen-7276039.html"
     },
     {
       "title": "heise Security Tour 2022",
