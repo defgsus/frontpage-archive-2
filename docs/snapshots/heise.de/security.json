@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-05T05:52:13",
+  "timestamp": "2022-10-05T06:44:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -33,6 +33,10 @@
   "articles": [
     {
       "title": "Exchange Zero-Day",
+      "url": "https://www.heise.de/news/Exchange-0-Day-Microsoft-korrigiert-Workaround-7284241.html"
+    },
+    {
+      "title": "Exchange Zero-Day",
       "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html"
     },
     {
@@ -42,10 +46,6 @@
     {
       "title": "Atlassian Bitbucket Server",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Atlassian-Bitbucket-Server-7282369.html"
-    },
-    {
-      "title": "Thunderbird",
-      "url": "https://www.heise.de/news/Thunderbird-Angreifer-koennten-Absender-verschluesselter-Mails-faelschen-7282339.html"
     },
     {
       "title": "CISA verdonnert US-Behörden zu besserer Netzwerkkontrolle",
@@ -63,14 +63,20 @@
       "url": "https://www.heise.de/news/4-Millionen-Euro-Schaden-24-Jaehriger-wegen-Computerbetrugs-festgenommen-7283316.html"
     },
     {
-      "title": "Mexikanische Armee steht nach Hackerangriff \"nackt\" da",
-      "teaser": "Beim größten Hack in der Geschichte Mexikos wurden Tausende vertrauliche Dokumente erbeutet. Rufe nach einem Cybersicherheitsgesetz werden lauter.",
-      "url": "https://www.heise.de/news/Mexikanische-Armee-steht-nach-Hackerangriff-nackt-da-7282860.html"
+      "title": "Exchange-Server Zero-Day: Bisheriger Workaround unzureichend",
+      "teaser": "Für die zum Wochenende bekannt gewordene Zero-Day-Lücke in Exchange hat Microsoft einen Workaround angeboten. Der dichtet das Leck jedoch nicht ausreichend ab.",
+      "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html",
+      "image_title": "Aufmacher Workaorund für Exhange-Zero-Day unzureichend"
     },
     {
       "title": "Großer Netzwerkschutz mit kleiner Firewall",
       "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
       "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
+    },
+    {
+      "title": "Mexikanische Armee steht nach Hackerangriff \"nackt\" da",
+      "teaser": "Beim größten Hack in der Geschichte Mexikos wurden Tausende vertrauliche Dokumente erbeutet. Rufe nach einem Cybersicherheitsgesetz werden lauter.",
+      "url": "https://www.heise.de/news/Mexikanische-Armee-steht-nach-Hackerangriff-nackt-da-7282860.html"
     },
     {
       "title": "Sicherheitsupdate Drupal: Angreifer könnten auf Zugangsdaten zugreifen",
@@ -150,12 +156,6 @@
       "teaser": "Google bessert 20 teils hochriskante Sicherheitslücken im Webbrowser Chrome aus. Zudem erhält der Browser neue Funktionen und Verbesserungen.",
       "url": "https://www.heise.de/news/Webbrowser-Chrome-106-Neue-Funktionen-und-20-abgedichtete-Sicherheitslecks-7277825.html",
       "image_title": "Aufmacher Google Chrome 106 dichtet 20 Sicherheitslecks"
-    },
-    {
-      "title": "Twitter patzt bei Passwort-Reset-Funktion",
-      "teaser": "Wenn Nutzer ihr Passwort ändern, sollte das aktive Sitzungen auf allen Geräten beenden. Aufgrund einer fehlerhaften Umsetzung fand das bei Twitter nicht statt.",
-      "url": "https://www.heise.de/news/Twitter-patzt-bei-Passwort-Reset-Funktion-7277008.html",
-      "image_title": "Twitter,Company,Logo,On,The,Smartphone,Screen,In,A,Dark"
     },
     {
       "title": "heise Security Tour 2022",
