@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-05T09:28:44",
+  "timestamp": "2022-10-05T10:29:51",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.65e2f243bd77043dcc90",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.81c70c0f91c7adfebb8f",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-ihre-Rechte-unter-Android-10-bis-13-hochstufen-7284409.html"
+    },
     {
       "title": "Aruba Access Points",
       "url": "https://www.heise.de/news/Netzwerkausstatter-Kritische-Sicherheitsluecken-in-Aruba-Access-Points-7284335.html"
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html"
     },
     {
-      "title": "Drupal",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Drupal-Angreifer-koennten-auf-Zugangsdaten-zugreifen-7282401.html"
-    },
-    {
-      "title": "Netzwerkausstatter: Kritische Sicherheitslücken in Aruba Access Points",
-      "teaser": "Aruba warnt vor kritischen Sicherheitslücken in den eigenen Access Points.",
-      "url": "https://www.heise.de/news/Netzwerkausstatter-Kritische-Sicherheitsluecken-in-Aruba-Access-Points-7284335.html"
+      "title": "Patchday: Angreifer könnten ihre Rechte unter Android 10 bis 13 hochstufen",
+      "teaser": "Wichtige Sicherheitsupdates schließen zum Teil kritische Lücken in verschiedenen Android-Versionen.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-ihre-Rechte-unter-Android-10-bis-13-hochstufen-7284409.html"
     },
     {
       "title": "CISA verdonnert US-Behörden zu besserer Netzwerkkontrolle",
@@ -82,6 +82,12 @@
       "title": "Mexikanische Armee steht nach Hackerangriff \"nackt\" da",
       "teaser": "Beim größten Hack in der Geschichte Mexikos wurden Tausende vertrauliche Dokumente erbeutet. Rufe nach einem Cybersicherheitsgesetz werden lauter.",
       "url": "https://www.heise.de/news/Mexikanische-Armee-steht-nach-Hackerangriff-nackt-da-7282860.html"
+    },
+    {
+      "title": "Backdoor in Windows-Logo versteckt",
+      "teaser": "Eine Hackergruppe hat bei Angriffen auf Regierungen Steganografie verwendet, um Schadsoftware über harmlos aussehende Bitmaps nachzuladen.",
+      "url": "https://www.heise.de/news/Backdoor-in-Windows-Logo-versteckt-7282730.html",
+      "image_title": "Iranische Hacker sollen Dutzende deutsche Universitäten ausspioniert haben"
     },
     {
       "title": "Sicherheitsupdate Drupal: Angreifer könnten auf Zugangsdaten zugreifen",
@@ -150,11 +156,6 @@
       "teaser": "Zur Identifizierung von Malware setzen einige Forscher auf MD5-Hashes. Ein Exploit-Entwickler liefert ein Tool, das Shellcode mit stets gleichem Hash verpackt.",
       "url": "https://www.heise.de/news/l-f-Monomorph-ein-MD5-Hashwert-fuer-alles-7278460.html",
       "image_title": "Aufmacher MD5 Monomorph - ein Hash für alles"
-    },
-    {
-      "title": "Malware: Infektion durch Mausbewegung in Powerpoint",
-      "teaser": "IT-Sicherheitsforscher haben ein Powerpoint-Dokument entdeckt, das beim Anzeigen nach einer Mausbewegung Schadcode lädt und ausführt. Es stammt aus Russland.",
-      "url": "https://www.heise.de/news/Malware-Infektion-durch-Mausbewegung-in-Powerpoint-7277979.html"
     },
     {
       "title": "heise Security Tour 2022",
