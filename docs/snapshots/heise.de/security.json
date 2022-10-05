@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-05T08:32:13",
+  "timestamp": "2022-10-05T09:28:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.d6e3563f2a9164772215",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.65e2f243bd77043dcc90",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Aruba Access Points",
+      "url": "https://www.heise.de/news/Netzwerkausstatter-Kritische-Sicherheitsluecken-in-Aruba-Access-Points-7284335.html"
+    },
     {
       "title": "Exchange Zero-Day",
       "url": "https://www.heise.de/news/Exchange-0-Day-Microsoft-korrigiert-Workaround-7284241.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Drupal-Angreifer-koennten-auf-Zugangsdaten-zugreifen-7282401.html"
     },
     {
-      "title": "Atlassian Bitbucket Server",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Atlassian-Bitbucket-Server-7282369.html"
+      "title": "Netzwerkausstatter: Kritische Sicherheitslücken in Aruba Access Points",
+      "teaser": "Aruba warnt vor kritischen Sicherheitslücken in den eigenen Access Points.",
+      "url": "https://www.heise.de/news/Netzwerkausstatter-Kritische-Sicherheitsluecken-in-Aruba-Access-Points-7284335.html"
     },
     {
       "title": "CISA verdonnert US-Behörden zu besserer Netzwerkkontrolle",
@@ -63,15 +68,15 @@
       "url": "https://www.heise.de/news/4-Millionen-Euro-Schaden-24-Jaehriger-wegen-Computerbetrugs-festgenommen-7283316.html"
     },
     {
+      "title": "Großer Netzwerkschutz mit kleiner Firewall",
+      "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
+      "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
+    },
+    {
       "title": "Exchange-Server Zero-Day: Bisheriger Workaround unzureichend",
       "teaser": "Für die zum Wochenende bekannt gewordene Zero-Day-Lücke in Exchange hat Microsoft einen Workaround angeboten. Der dichtet das Leck jedoch nicht ausreichend ab.",
       "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html",
       "image_title": "Aufmacher Workaorund für Exhange-Zero-Day unzureichend"
-    },
-    {
-      "title": "Großer Netzwerkschutz mit kleiner Firewall",
-      "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
-      "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
     },
     {
       "title": "Mexikanische Armee steht nach Hackerangriff \"nackt\" da",
@@ -150,12 +155,6 @@
       "title": "Malware: Infektion durch Mausbewegung in Powerpoint",
       "teaser": "IT-Sicherheitsforscher haben ein Powerpoint-Dokument entdeckt, das beim Anzeigen nach einer Mausbewegung Schadcode lädt und ausführt. Es stammt aus Russland.",
       "url": "https://www.heise.de/news/Malware-Infektion-durch-Mausbewegung-in-Powerpoint-7277979.html"
-    },
-    {
-      "title": "Webbrowser Chrome 106: Neue Funktionen und 20 abgedichtete Sicherheitslecks",
-      "teaser": "Google bessert 20 teils hochriskante Sicherheitslücken im Webbrowser Chrome aus. Zudem erhält der Browser neue Funktionen und Verbesserungen.",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-106-Neue-Funktionen-und-20-abgedichtete-Sicherheitslecks-7277825.html",
-      "image_title": "Aufmacher Google Chrome 106 dichtet 20 Sicherheitslecks"
     },
     {
       "title": "heise Security Tour 2022",
