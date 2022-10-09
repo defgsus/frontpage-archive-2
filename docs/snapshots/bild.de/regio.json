@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-10-09T16:34:55",
+  "timestamp": "2022-10-09T17:30:17",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.bfced70e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.90726ff0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.63be9b59.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.9ee37717.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.1e5a5df4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.469d286a.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Niedersachsen-Wahl : Wem droht die größte Klatsche?",
-      "url": "https://www.bild.de/politik/inland/politik-inland/landtagswahl-in-niedersachsen-hochspannung-in-hannover-81565308.bild.html",
-      "image_title": "Landtagswahl in Niedersachsen: Hochspannung in Hannover"
-    },
-    {
-      "title": "Tier-Tragödie : SUV rammt Pferd tot",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/tier-tragoedie-auf-bundesstrasse-suv-rammt-pferd-tot-81563526.bild.html",
-      "image_title": "Odenwald: Tier-Tragödie auf Bundesstraße: SUV rammt Pferd tot"
-    },
-    {
-      "title": "Bahn-Sabotage : Die Täter waren Profis!",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/bahn-sabotage-in-berlin-und-nrw-erste-hinweise-zu-moeglichen-taetern-81559502.bild.html",
-      "image_title": "Bahn-Sabotage in Berlin und NRW: Erste Hinweise zu möglichen Tätern"
-    },
-    {
-      "title": "Jetzt werden Bäume gepflanzt : Illegale DDR-Bonzenvilla nur noch Schutt",
-      "teaser": "Jetzt ist von der Bonzen-Villa in Berlin-Müggelheim nur noch Schutt übrig!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/jetzt-werden-baeume-gepflanzt-illegale-ddr-bonzenvilla-nur-noch-schutt-81518606.bild.html",
-      "image_title": "Jetzt werden Bäume gepflanzt: Illegale DDR-Bonzenvilla nur noch Schutt"
-    },
-    {
-      "title": "Stör-Aktion vor Kundgebung in Berlin : AfD-Protestler statt zur Demo zu Raststätte chauffiert",
-      "teaser": "Stell dir vor, du willst nach Berlin zur Demo – und landest an einer Autobahnraststätte.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/statt-zur-berliner-demo-afd-protestler-zur-raststaette-chauffiert-81556840.bild.html",
-      "image_title": "Statt zur Berliner Demo: AfD-Protestler zur Raststätte chauffiert"
-    },
-    {
-      "title": "Besser als Frankfurt, Leipzig & Leverkusen : Werder auf Europa-Jagd",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-besser-als-frankfurt-leipzig-leverkusen-jagd-auf-europa-81565458.bild.html",
-      "image_title": "Werder Bremen: Besser als Frankfurt, Leipzig & Leverkusen: Jagd auf Europa"
-    },
-    {
-      "title": "Kopfbälle, Elfmeter, Nerven : Darum winkt Füllkrug der Hansi-Hammer",
-      "teaser": "Ein Wochenende wie gemalt für Werder-Torjäger Niclas Füllkrug (29).",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-kopfbaelle-elfmeter-nerven-niclas-fuellkrug-winkt-ein-wm-platz-81564412.bild.html",
-      "image_title": "Werder Bremen: Kopfbälle, Elfmeter, Nerven! Niclas Füllkrug winkt ein WM-Platz"
-    },
-    {
-      "title": "Oldenburg 1:3 gegen Aue : Bettel-Pleite zerstört Super-Serie",
-      "teaser": "Schmerzhafte Niederlage für den VfB Oldenburg gegen Erzgebirge Aue.",
-      "url": "https://www.bild.de/sport/regional-sport/werder-bremen/vfb-oldenburg-1-3-gegen-erzgebirge-aue-bettel-pleite-zerstoert-super-serie-81562876.bild.html",
-      "image_title": "VfB Oldenburg: 1:3 gegen Erzgebirge Aue! Bettel-Pleite zerstört Super-Serie"
-    },
-    {
-      "title": "Zwickau torlos und trostlos : Enochs: „Bin sehr enttäuscht“",
-      "url": "https://www.bild.de/sport/fussball/fussball/fsv-zwickau-torlos-und-trostlos-enochs-bin-sehr-enttaeuscht-81564504.bild.html",
-      "image_title": "FSV Zwickau torlos und trostlos! Enochs: „Bin sehr enttäuscht“"
-    },
-    {
-      "title": "Dritter Aue-Sieg in Serie : Müller wird Cheftrainer auf Zeit",
-      "teaser": "Der dritte Sieg bedeutet für Carsten Müller die Beförderung zum Aue-Cheftrainer!",
-      "url": "https://www.bild.de/sport/fussball/fussball/erzgebirge-aue-mueller-wird-cheftrainer-auf-zeit-81563988.bild.html",
-      "image_title": "Erzgebirge Aue: Müller wird Cheftrainer auf Zeit"
-    },
-    {
-      "title": "Kunstprojekt „Back to GDR“ : Diese Fotografin holt die DDR zurück!",
-      "teaser": "Sie fängt die Zeit ein, die längst vergangen ist und inszeniert eine perfekte Illusion.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/alltag-in-der-ddr-diese-fotografin-macht-holt-die-ddr-mit-ihren-bildern-zurueck-81563394.bild.html",
-      "image_title": "Alltag in der DDR: Diese Fotografin holt die DDR mit ihren Bildern zurück!"
-    },
-    {
-      "title": "Bahn-Sabotage in Berlin und NRW – Verkehrsminister: : „Gezieltes und mutwilliges Vorgehen“",
-      "url": "https://www.bild.de/news/2022/news/deutsche-bahn-ice-ic-und-ec-betroffen-fernverkehr-im-norden-komplett-eingestellt-81554282.bild.html",
-      "image_title": "Bahn-Sabotage in Berlin und NRW: „Gezieltes und mutwilliges Vorgehen“"
-    },
-    {
-      "title": "Anschläge wie auf Nord Stream : So plante die Stasi Sabotage im Westen",
-      "teaser": "Seit den Explosionen an den Erdgas-Pipelines in der Ostsee wächst in Europa die Angst vor weiteren Anschlägen auf die Infrastruktur.",
-      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/anschlaege-wie-auf-nord-stream-so-plante-die-stasi-sabotage-im-westen-81549556.bild.html",
-      "image_title": "Anschläge wie auf Nord Stream: So plante die Stasi Sabotage im Westen"
-    },
-    {
-      "title": "Vor Heimspiel gegen Osnabrück : Dynamo-Trainer Anfang zieht die Zügel an!",
-      "teaser": "Vorm Heimspiel am Sonntag (13 Uhr) gegen den VfL Osnabrück ist der Ton bei Dynamo rauer geworden! Das sind die Gründe!",
-      "url": "https://www.bild.de/sport/fussball/fussball/vor-heimspiel-gegen-osnabrueck-dynamo-trainer-anfang-zieht-die-zuegel-an-81555476.bild.html",
-      "image_title": "Vor Heimspiel gegen Osnabrück: Dynamo-Trainer Anfang zieht die Zügel an!"
-    },
-    {
-      "title": "„Wir haben keinen Auswärtskomplex“ : Weber stellt sich blind und taub!",
-      "url": "https://www.bild.de/sport/fussball/fortuna-duesseldorf/fortuna-duesseldorf-weber-stellt-sich-blind-und-taub-81567132.bild.html",
-      "image_title": "Fortuna Düsseldorf: Weber stellt sich blind und taub!"
-    },
-    {
-      "title": "Horror-Unfall beim Baumfällen : Mann tötet sich aus Versehen mit Kettensäge",
-      "teaser": "Bei Baumpflegearbeiten in seinem Garten starb ein Mann (46) aus Mönchengladbach.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/moenchengladbach-mann-toetet-sich-aus-versehen-mit-kettensaege-81565546.bild.html",
-      "image_title": "Mönchengladbach: Mann tötet sich aus Versehen mit Kettensäge"
-    },
-    {
-      "title": "Die Fakten zum Derby : Rennt Köln Gladbach wieder davon?",
-      "teaser": "Sonntag spielt Gladbach im ausverkauften Borussia-Park gegen Köln. Die Derby-Fakten!",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moepnchengladbach-rennt-koeln-den-fohlen-wieder-davon-81552360.bild.html",
-      "image_title": "Borussia Möpnchengladbach: Rennt Köln den Fohlen wieder davon?"
-    },
-    {
-      "title": "Heißestes Gerücht der Stadt : Fährt Feldmann ohne die SPD weiter?",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/heisses-geruecht-faehrt-feldmann-ohne-spd-weiter-81566198.bild.html",
-      "image_title": "Heißes Gerücht: Fährt Feldmann ohne SPD weiter?"
-    },
-    {
-      "title": "Todes-Flut im Ahrtal : Neuer Bericht belastet Innenminister",
-      "teaser": "Hat RLP-Innenminister Roger Lewentz (59, SPD) seine Behörde nicht im Griff?",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/todes-flut-im-ahrtal-neuer-bericht-belastet-innenminister-81566254.bild.html",
-      "image_title": "Todes-Flut im Ahrtal: Neuer Bericht belastet Innenminister"
-    },
-    {
-      "title": "Schauspiel-Legende : Eine Stimme entscheidet über Hannelore Elsners Platz",
-      "teaser": "Kriegt Frankfurt an einen Hannelore-Elsner-Platz? Am Ende entscheidet eine Stimme.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/schauspiel-legende-eine-stimme-entscheidet-ueber-elsners-platz-81564498.bild.html",
-      "image_title": "Schauspiel-Legende: Eine Stimme entscheidet über Elsners Platz"
-    },
-    {
-      "title": "Horror-Crash in Hamburg-Hoheluft : Auto schleudert auf Radweg",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/horror-crash-in-hamburg-hoheluft-auto-schleudert-auf-radweg-81565644.bild.html",
-      "image_title": "Horror-Crash in Hamburg: Auto schleudert auf Radweg – 2 Verletzte!"
-    },
-    {
-      "title": "Weil es zu wenig Schlafplätze gibt : Messehalle wird Unterkunft für 400 Flüchtlinge",
-      "teaser": "Ab Montag kommen 400 Geflüchtete in Hamburgs Messehalle unter.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/weil-es-zu-wenig-schlafplaetze-gibt-messehalle-wird-unterkunft-fuer-400-fluechtl-81563322.bild.html",
-      "image_title": "Weil es zu wenig Schlafplätze gibt: Messehalle wird Unterkunft für 400 Flüchtlinge"
-    },
-    {
-      "title": "Dafür kam sogar das SEK aus Kiel : Retter üben Amok-Einsatz",
-      "teaser": "Schüsse peitschen durch die Hochschule für Angewandte Wissenschaften, Studenten schreien.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/dafuer-kam-sogar-das-sek-aus-kiel-retter-ueben-amok-einsatz-81563446.bild.html",
-      "image_title": "Dafür kam sogar das SEK aus Kiel: Retter üben Amok-Einsatz"
-    },
-    {
-      "title": "Niedersachsen-Wahl im Live-Ticker : Erste Prognosen: SPD gewinnt Landtagswahl",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/wahl-niedersachsen-wahlbeteiligung-bei-knapp-25-prozent-81557178.bild.html",
-      "image_title": "Wahl in Niedersachsen: Erste Prognosen: SPD gewinnt Landtagswahl"
-    },
-    {
-      "title": "Länderspiel-Pause : Prokop trainiert Hannover mit halber Kraft",
-      "teaser": "Acht Profis der TSV Hannover-Burgdorf sind mit ihren Nationen auf Länderspiel-Tour.",
-      "url": "https://www.bild.de/sport/mehr-sport/handball/tsv-hannover-burgdorf-laenderspiel-pause-christian-prokop-trainiert-mit-halber-k-81564418.bild.html",
-      "image_title": "TSV Hannover-Burgdorf: Länderspiel-Pause! Christian Prokop trainiert mit halber Kraft"
-    },
-    {
-      "title": "Landtagswahl in Niedersachsen : Wird die Ampel heute abgestraft?",
-      "teaser": "Es ist der letzte politische Stimmungstest in diesem Jahr – und vor dem drohenden Bibber-Winter.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/landtagswahl-in-niedersachsen-spd-winkt-wahlsieg-weil-81560274.bild.html",
-      "image_title": "Landtagswahl in Niedersachsen: SPD winkt Wahlsieg, WEIL…"
-    },
-    {
-      "title": "Mehrere Verletzte am Ebertplatz : Feuer in Kölner U-Bahnhof",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-feuer-in-u-bahnhof-mehrere-verletzte-am-ebertplatz-81557124.bild.html",
-      "image_title": "Köln: Feuer in U-Bahnhof – mehrere Verletzte am Ebertplatz"
-    },
-    {
-      "title": "Großeinsatz bei Nideggen (NRW) : VW-Bulli im Rursee versunken",
-      "teaser": "Freitagabend rollte ein VW T3 Wohnmobil ins Wasser des Rursees und ging unter.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/dueren-vw-bulli-im-rursee-versunken-retter-im-grosseinsatz-81555158.bild.html",
-      "image_title": "Düren: VW-Bulli im Rursee versunken – Retter im Großeinsatz"
-    },
-    {
-      "title": "Bauaufsicht droht mit Zwangsgeld : Flut-Opfer soll aus Tiny House raus",
-      "teaser": "Seit der Flut lebt Birgit Breuer auf ihrem eigenen Grundstück im Mini-Haus. Nun soll es weg.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/roetgen-flut-opfer-soll-aus-tiny-house-raus-81553088.bild.html",
-      "image_title": "Roetgen: Flut-Opfer soll aus Tiny House auf ihrem eigenen Grundstück raus"
-    },
-    {
-      "title": "Jahrestag der Friedlichen Revolution : Leipzig feiert Lichtfest – trotz Energiekrise",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/jahrestag-der-friedlichen-revolution-leipzig-feiert-lichtfest-trotz-energiekrise-81566510.bild.html",
-      "image_title": "Jahrestag der Friedlichen Revolution: Leipzig feiert Lichtfest – trotz Energiekrise"
-    },
-    {
-      "title": "Rekordspieler verstorben : Chemie Leipzig trauert um Dieter Scherbarth (†82)",
-      "teaser": "Chemie Leipzig trauert um Rekordspieler Dieter Scherbarth (†82).",
-      "url": "https://www.bild.de/sport/fussball/fussball/rekordspieler-verstorben-chemie-leipzig-trauert-um-dieter-scherbarth-82-81567200.bild.html",
-      "image_title": "Rekordspieler verstorben: Chemie Leipzig trauert um Dieter Scherbarth (†82)"
-    },
-    {
-      "title": "Nkunku rettet, Werner kriselt : Leipzigs ungleiches Superstar-Duo",
-      "teaser": "Christopher Nkunku und Timo Werner sind Leipzigs Stars und unterschiedlich in Form.",
-      "url": "https://www.bild.de/sport/fussball/rb-leipzig/nkunku-rettet-werner-kriselt-rb-leipzigs-ungleiches-superstar-duo-81566710.bild.html",
-      "image_title": "Nkunku rettet, Werner kriselt: RB Leipzigs ungleiches Superstar-Duo"
-    },
-    {
-      "title": "Oberbürgermeister-Neuwahl in Rostock : Wer zieht in Madsens Maschinenraum?",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/ob-wahl-in-rostock-wer-zieht-in-madsens-maschinenraum-81562984.bild.html",
-      "image_title": "OB-Wahl in Rostock: Wer zieht in Madsens Maschinenraum?"
-    },
-    {
-      "title": "In die Flucht geschlagen : Der Vergewaltiger stand in meiner Wohnung",
-      "teaser": "Sie ist 78 Jahre alt und zierlich. Doch Bärbel Raatz lässt sich nicht unterkriegen.",
-      "url": "https://www.bild.de/bild-plus/regional/mecklenburg-vorpommern/news-inland/vergewaltiger-in-der-wohnung-baerbel-raatz-78-schlug-ihn-in-die-flucht-81557276.bild.html",
-      "image_title": "Zivilcourage: Bärbel Raatz (78) schlug Vergewaltiger ihn in die Flucht"
-    },
-    {
-      "title": "Rostock - Paderborn 0:3 : Liga-Ballermänner schießen auch Hansa ab",
-      "teaser": "Die Ballermänner der Liga machen weiter: Der SC Paderborn (schon 29 Tore) siegt bei Hansa.",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/rostock-paderborn-0-3-liga-ballermaenner-schiessen-auch-hansa-ab-81556622.bild.html",
-      "image_title": "Rostock - Paderborn 0:3: Liga-Ballermänner schießen auch Hansa ab"
-    },
-    {
-      "title": "Grausige Entdeckung im Wald : Frau findet tote Welpen in Müllsack",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/grausige-entdeckung-im-wald-frau-findet-tote-welpen-in-muellsack-81565292.bild.html",
-      "image_title": "Grausige Entdeckung im Wald: Frau findet tote Welpen in Müllsack"
-    },
-    {
-      "title": "Tier krabbelte im Kalifornien-Urlaub in den Koffer : Koffer-Skorpion sticht Münchner – Krankenhaus!",
-      "teaser": "Giftiges Mitbringsel aus dem USA-Urlaub! Ein junges Münchner Paar hatte einen Skorpion im Gepäck.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-kalifornien-urlaub-skorpion-sticht-muenchner-krankenhaus-81563450.bild.html",
-      "image_title": "Schock nach Kalifornien-Urlaub: Skorpion sticht Münchner!"
-    },
-    {
-      "title": "Kontrolle in Bayern : Bekiffter Vater kutschiert gesuchten Sohn",
-      "teaser": "Bei einer Verkehrskontrolle wegen seines auffälligen Fahrstils hat die Polizei in Bayern ein ungewöhnliches Duo gestoppt.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/kontrolle-in-bayern-bekiffter-vater-kutschiert-gesuchten-sohn-81564110.bild.html",
-      "image_title": "Kontrolle in Bayern: Bekiffter Vater kutschiert gesuchten Sohn"
-    },
-    {
-      "title": "Fans flüchten, Weinzierl-Effekt verpufft : Ab jetzt Abstiegskampf!",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-fans-fluechten-weinzierl-effekt-verpufft-ab-jetzt-abstiegskampf-81567414.bild.html",
-      "image_title": "FCN: Fans flüchten, Weinzierl-Effekt verpufft: Ab jetzt Abstiegskampf!"
-    },
-    {
-      "title": "Fahrer (36) tot : Traktor brettert über Kinderspielplatz!",
-      "teaser": "Bei einem Unfall bei Nürnberg ist am Samstag ein 36-Jähriger ums Leben gekommen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/fahrer-36-tot-traktor-brettert-ueber-kinderspielplatz-81562034.bild.html",
-      "image_title": "Fahrer (36) tot: Traktor brettert über Kinderspielplatz!"
-    },
-    {
-      "title": "Familie verabschiedet sich von Hanna (†23) : „Du bist die Sonne, die für uns strahlt“",
-      "teaser": "Mit emotionalen Worten richtet sich die Familie an ihre ermordete Tochter Hanna (†23).",
-      "url": "https://www.bild.de/news/2022/news/so-verabschiedet-sich-die-familie-von-hanna-23-du-bist-die-sonne-die-fuer-uns-st-81555050.bild.html",
-      "image_title": "Aschau: Hannas Familie verabschiedet sich: „Du bist die Sonne, die für uns strahlt“"
-    },
-    {
-      "title": "Zwei Jungen waren vermisst : Lennard und Loris sind wieder da",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/nrw-vermisst-polizei-sucht-lennard-12-und-loris-9-aus-stemwede-81556460.bild.html",
-      "image_title": "NRW: Vermisste Jungen (12, 9) aus Stemwede wieder da"
-    },
-    {
-      "title": "Tragödie in Gevelsberg (NRW) : Tochter findet Eltern (68, 71) tot in Wohnung",
-      "teaser": "Schreckliche Tragödie in Gevelsberg (NRW). Eine Frau (40) fand ihre toten Eltern (68, 71).",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/tragoedie-in-gevelsberg-tochter-findet-eltern-68-71-tot-in-wohnung-81558156.bild.html",
-      "image_title": "Tragödie in Gevelsberg: Tochter findet Eltern (68, 71) tot in Wohnung"
-    },
-    {
-      "title": "Anwalt hatte keine Zulassung : Bochumer Gericht muss Urteil aufheben",
-      "teaser": "Thilo S. (47) soll trotz fehlender Zulassung einen Mandanten als Anwalt vertreten haben.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/anwalt-hatte-keine-zulassung-bochumer-gericht-muss-urteil-aufheben-81534660.bild.html",
-      "image_title": "Anwalt hatte keine Zulassung: Bochumer Gericht muss Urteil aufheben"
-    },
-    {
-      "title": "Neuer Geschäftsführer : Er soll's bei den Saar-Grünen regeln",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/saalrand-zachow-solls-bei-gruenen-richten-81566742.bild.html",
-      "image_title": "Saalrand: Zachow soll's bei Grünen richten"
-    },
-    {
-      "title": "Doppelbesteuerung : Lösung für die Grenzgänger in Sicht?",
-      "teaser": "Das Bundesministerium für Arbeit hat jetzt eine Prüfung der Doppelbesteuerung zugesagt.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/doppelbesteuerung-loesung-fuer-grenzgaenger-in-sicht-81565812.bild.html",
-      "image_title": "Doppelbesteuerung: Lösung für Grenzgänger in Sicht?"
-    },
-    {
-      "title": "0:1 in Mannheim noch nicht das Aus : Koschinat darf weiter verlieren!",
-      "teaser": "Explosions-Gefahr beim 1. FC Saarbrücken! Das 0:1 in Mannheim der nächste Tiefpunkt.",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-koschinat-darf-weiter-verlieren-81564588.bild.html",
-      "image_title": "1. FC Saarbrücken: Koschinat darf weiter verlieren!"
-    },
-    {
-      "title": "HFC gegen BVB-Amateure : Landgraf: Bloß kein Harmlos-Auftritt",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-hfc-gegen-bvb-amateure-landgraf-bloss-kein-harmlos-auftritt-81566706.bild.html",
-      "image_title": "3. Liga: HFC gegen BVB-Amateure – Landgraf: Bloß kein Harmlos-Auftritt"
-    },
-    {
-      "title": "Anschlag auf Synagoge : So gedenkt Halle der Opfer",
-      "teaser": "In Halle sind zahlreiche Gedenkveranstaltungen geplant, um an die Opfer zu erinnern.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/anschlag-in-halle-auf-synagoge-so-wird-an-die-opfer-erinnert-81562162.bild.html",
-      "image_title": "Anschlag in Halle auf Synagoge: So wird an die Opfer erinnert"
-    },
-    {
-      "title": "Unfall-Fahrer in anderem Auto geschnappt : Audi in Graben gecrasht und abgehauen",
-      "teaser": "In der Nacht zu Sonntag landete ein Audi-Fahrer im Graben und haute ab.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/unfall-audi-in-graben-gecrasht-und-abgehauen-81562852.bild.html",
-      "image_title": "Unfall: Audi in Graben gecrasht und abgehauen"
-    },
-    {
-      "title": "Gefesselt und mit Steinen beschwert : Rüde Olaf zum Sterben in den Neckar geworfen",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/obrigheim-ruede-olaf-wurde-in-den-neckar-geworfen-hunde-drama-mit-happy-end-81557254.bild.html",
-      "image_title": "Hunde-Drama: Rüde Olaf wurde in den Neckar geworfen"
-    },
-    {
-      "title": "Frontalcrash : Überholmanöver fordert drei Verletzte!",
-      "teaser": "Bei einem Überholmanöver bei Weil der Stadt wurden drei Menschen verletzt.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/frontalcrash-ueberholmanoever-fordert-drei-verletzte-81563226.bild.html",
-      "image_title": "Frontalcrash: Überholmanöver fordert drei Verletzte!"
-    },
-    {
-      "title": "ZDF Herzkino : Lara Joy Körner im Pferde-Glück",
-      "teaser": "Interview hoch zu Ross: BILD hat die Schauspielerin zum Ausritt getroffen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/zdf-herzkino-lara-joy-koerner-im-pferde-glueck-81560756.bild.html",
-      "image_title": "ZDF Herzkino : Lara Joy Körner im Pferde-Glück"
-    },
-    {
-      "title": "Nach Sabotage im Zugverkehr : Sprengkörper an Thüringer Bahnhof deponiert!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/nach-bahn-sabotage-sprengkoerper-an-thueringer-bahnhof-deponiert-81566750.bild.html",
-      "image_title": "Nach Bahn-Sabotage: Sprengkörper an Thüringer Bahnhof deponiert!"
-    },
-    {
-      "title": "Doppelpack bei Erfurts 2:1! : Ciccarelli nutzt seine Chance",
-      "teaser": "Das war eine Rückkehr nach Maß. Mit dem 2:1 gegen Hertha II ist Erfurt zurück in der Spur.",
-      "url": "https://www.bild.de/sport/fussball/fussball/doppelpack-bei-erfurts-2-1-ciccarelli-nutzt-seine-chance-81566084.bild.html",
-      "image_title": "Doppelpack bei Erfurts 2:1!: Ciccarelli nutzt seine Chance"
-    },
-    {
-      "title": "In Thüringen : Zulieferer Marquardt baut Fertigung aus",
-      "teaser": "Das baden-württembergische Unternehmen Marquardt reagiert baut seine Produktion aus.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/in-thueringen-zulieferer-marquardt-baut-fertigung-aus-81549186.bild.html",
-      "image_title": "In Thüringen: Zulieferer Marquardt baut Fertigung aus"
-    }
-  ]
+  "articles": []
 }
