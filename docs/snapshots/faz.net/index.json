@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-09T15:27:18",
+  "timestamp": "2022-10-09T16:34:44",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -84,8 +84,8 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://dynamic.faz.net/red/2022/energie-widget/js/app.js",
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -176,37 +176,55 @@
   ],
   "articles": [
     {
-      "title": "Anschlag auf Krim-Brücke : Ein Treffer mit hohem Symbolwert",
+      "title": "Landtagswahl : SPD gewinnt mit Stephan Weil in Niedersachsen",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-niedersachsen/landtagswahl-in-niedersachsen-spd-gewinnt-mit-stephan-weil-18374937.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Zuversichtlich: Stephan Weil am Sonntag bei der Stimmabgabe in Hannover"
+    },
+    {
+      "title": "Niedersachsen-Liveblog : FDP muss um Einzug in den Landtag bangen",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-niedersachsen/liveticker-zu-landtagswahl-in-niedersachsen-fdp-muss-um-einzug-in-landtag-bangen-18367076.html"
+    },
+    {
+      "title": "Explosion auf der Krim-Brücke : Ein Treffer mit hohem Symbolwert",
       "url": "https://www.faz.net/aktuell/ukraine-konflikt/krim-bruecke-hat-hohen-symbolwert-18373828.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein von der russischen Untersuchungskommission zum Anschlag auf die Brücke zur Krim zur Verfügung gestelltes Bild vom 8. Oktober 2022"
+      "image_title": "Ein von der russischen Untersuchungskommission zur Explosion auf der Brücke zur Krim zur Verfügung gestelltes Foto vom 8. Oktober 2022"
     },
     {
-      "title": "Putins neuer Feldherr : Man nennt ihn General Armageddon",
-      "url": "https://www.faz.net/aktuell/politik/ausland/surowikin-putins-feldherr-nennt-man-general-armageddon-18374287.html"
-    },
-    {
-      "title": "Russin auf der Flucht : „Sie wollten mir das Kind wegnehmen“",
-      "url": "https://www.faz.net/aktuell/politik/inland/wie-eine-russische-mutter-floh-um-ihre-tochter-zu-retten-18370040.html",
+      "title": "Neue Bündnisse in Iran : Die Kinder fressen ihre Revolution",
+      "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-iran-gewaltbereitschaft-nimmt-zu-18374760.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Diana Kasakowa in Berlin"
+      "image_title": "Demonstranten in Teheran stecken am Sonntag auf einer Straße Holz in Brand."
     },
     {
-      "title": "Ahrtal-Katastrophe : Lewentz lagen weitere präzise Informationen zur Lage vor",
-      "url": "https://www.faz.net/aktuell/politik/inland/flut-im-ahrtal-druck-auf-lewentz-steigt-18374439.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der rheinland-pfälzische Innenminister Roger Lewentz (SPD) am 23. September vor dem Untersuchungsausschuss des Landtags zur Flutkatastrophe im Ahrtal"
-    },
-    {
-      "title": "Sabotage-Akt bei Bahn : Die Bedrohungslage ernstnehmen",
+      "title": "Energiekrise : So ungerecht ist der Gaspreis-Deckel",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/inland/sabotage-akt-bei-der-bahn-die-bedrohungslage-ernstnehmen-18374251.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/energiekrise-der-gaspreisdeckel-ist-ungerecht-18370545.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Fußball-EM 2024 : Hauptsache, Europa",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/fuer-fussball-em-2024-muss-in-frankfurt-gelten-hauptsache-europa-18374970.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Unpünktlichkeit der Bahn : „VSL“ als Verheißung",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/unpuenktlichkeit-der-bahn-vsl-als-verheissung-18368416.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Politik à la Carte : Ideen wie aus einer anderen Welt",
       "teaser": "Ein Kommentar von",
       "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftspolitische-ideen-wie-aus-einer-anderen-welt-18374433.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Sabotage-Akt bei Bahn : Die Bedrohungslage ernstnehmen",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/politik/inland/sabotage-akt-bei-der-bahn-die-bedrohungslage-ernstnehmen-18374251.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -239,28 +257,16 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Fragwürdige Resultate : „Nature“ zieht die Reißleine",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/supraleitung-schon-bei-plusgraden-nun-hat-nature-die-studie-zurueckgezogen-18360626.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Mark Zuckerberg : Ein Armutszeugnis für Meta",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/wirtschaft/digitec/ein-armutszeugnis-fuer-facebook-konzern-meta-18371314.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Der Fiskus fängt mit! : Homerun zum Finanzamt",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/aaron-judge-mit-homerun-rekord-steuern-auf-den-millionen-baseball-18371157.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Riesenärger bei Formel 1 : „Was macht dieser Traktor auf der Strecke?“",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/aerger-in-formel-1-um-bergekran-und-pierre-gasly-in-suzuka-18374271.html",
+      "title": "Hochrechnungen nach der Wahl : Van der Bellen bleibt österreichischer Bundespräsident",
+      "url": "https://www.faz.net/aktuell/politik/inland/oesterreich-van-der-bellen-bleibt-oesterreichischer-bundespraesident-18374746.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Pierre Gasly hatte im Chaos von Suzuka nicht nur Probleme mit einer Werbebande auf seinem Auto."
+      "image_title": "Alexander Van der Bellen und Doris Schmidauer am 9. Oktober 2022 anlässlich der Stimmabgabe zur Bundespräsidentenwahl in Wien"
+    },
+    {
+      "title": "Ahrtal-Katastrophe : Druck auf Minister Lewentz steigt",
+      "url": "https://www.faz.net/aktuell/politik/inland/flut-im-ahrtal-druck-auf-lewentz-steigt-18374439.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der rheinland-pfälzische Innenminister Roger Lewentz (SPD) am 23. September vor dem Untersuchungsausschuss des Landtags zur Flutkatastrophe im Ahrtal"
     },
     {
       "title": "Modeste und Moukoko beim BVB : „Ich bin sein Vater, das kann man so sagen“",
@@ -269,14 +275,20 @@
       "image_title": "„Wer sorgt fürs späte Fußballfest?“ Anthony Modeste"
     },
     {
-      "title": "Niedersachsen-Liveblog : Kommt Rot-Grün in Hannover?",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-niedersachsen/liveticker-zur-landtagswahl-in-niedersachsen-kommt-rot-gruen-18367076.html",
+      "title": "Frust bei Eintracht Frankfurt : Der Rückfall in alte, schlechte Zeiten",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/frust-bei-eintracht-frankfurt-und-kroesche-nach-bochum-pleite-18374701.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Haben sich nicht mehr so viel zu sagen: Noch-Koalitionäre Stephan Weil (SPD) und Bernd Althusmann (CDU), hier Ende September im Landtag"
+      "image_title": "Redebedarf: Die enttäuschten Frankfurter versuchen das 0:3 zu verarbeiten."
+    },
+    {
+      "title": "Riesenärger bei Formel 1 : „Was macht dieser Traktor auf der Strecke?“",
+      "url": "https://www.faz.net/aktuell/sport/formel-1/aerger-in-formel-1-um-bergekran-und-pierre-gasly-in-suzuka-18374271.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Pierre Gasly hatte im Chaos von Suzuka nicht nur Probleme mit einer Werbebande auf seinem Auto."
     },
     {
       "title": "Zum Tod von Bruno Latour : „Modern“ – was ist das?",
-      "url": "https://www.faz.net/aktuell/feuilleton/soziologe-bruno-latour-gestorben-18374642.html",
+      "url": "https://www.faz.net/aktuell/feuilleton/soziologe-bruno-latour-ist-tot-wir-sind-nie-modern-gewesen-18374642.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Bruno Latour, Anfang Mai 2018 in Berlin"
     },
@@ -287,22 +299,16 @@
       "image_title": "Wenn wir über das Gehirn reden, wird das Kleinhirn oft unterschlagen. (Symbolfoto)"
     },
     {
-      "title": "Finale der Tischtennis-WM : Spektakulärer deutscher Erfolg trotz Niederlage",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/tischtennis-wm-deutschland-verliert-finale-gegen-china-18374549.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Neue Nummer eins: Qiu Dang hat Timo Boll und Dimitrij Ovtcharov stark vertreten."
-    },
-    {
-      "title": "Gewalt gegen Frauen : Spanische Studenten entschuldigen sich für sexistische Beleidigungen",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/spanische-studenten-entschuldigen-sich-fuer-sexistische-beleidigungen-18374284.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Studentenwohneim (Symbolbild)."
-    },
-    {
       "title": "Ukraine-Liveblog : London: Kapazität der Krim-Brücke deutlich verringert",
       "url": "https://www.faz.net/aktuell/politik/ukraine-liveblog-london-kapazitaet-der-krim-bruecke-deutlich-verringert-18134628.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die beschädigte Krim-Brücke am 8. Oktober"
+    },
+    {
+      "title": "Russin auf der Flucht : „Sie wollten mir das Kind wegnehmen“",
+      "url": "https://www.faz.net/aktuell/politik/inland/russische-mutter-auf-der-flucht-sie-wollten-mir-das-kind-wegnehmen-18370040.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Diana Kasakowa in Berlin"
     },
     {
       "title": "Krieg in der Ukraine : Selenskyjs Schadenfreude über Explosion auf Krim-Brücke",
@@ -311,25 +317,19 @@
       "image_title": "Flammen und Rauch steigen am Samstagmorgen von der Krim-Brücke auf, die das russische Festland und die Halbinsel Krim über die Straße von Kertsch verbindet."
     },
     {
-      "title": "Putins Krieg : Eine Schutztruppe für die Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ausland/schutztruppe-fuer-die-ukraine-was-der-westen-tun-muss-18370784.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bitterer Sieg: Nach der Eroberung der Stadt Lyman hat ein ukrainischer Soldat gerade einen toten Kameraden identifiziert. Jetzt raucht er eine Zigarette."
-    },
-    {
       "title": "„Tatort“ aus Göttingen : Wenn Helfer sich nicht zu helfen wissen",
       "url": "https://www.faz.net/aktuell/feuilleton/trailer-tatort-die-rache-an-der-welt-18370691.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ermitteln gemeinsam: Charlotte Lindholm (Maria Furtwängler) und Anais Schmitz (Florence Kasumba)."
     },
     {
-      "title": "Bundesliga im Liveticker : Köln verkürzt im Derby in Unterzahl",
+      "title": "Bundesliga im Liveticker : Hertha gleicht gegen Freiburg aus",
       "url": "https://www.faz.net/op900/event/bundesliga/live/",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Humorist Dietmar Wischmeyer : „Schröder hat seinen Fahrer immer bei ‚Hähnchen-Ingo‘ anhalten lassen“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/dietmar-wischmeyer-im-interview-ueber-niedersachsen-18367536.html"
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/so-tickt-niedersachsen-dietmar-wischmeyer-im-interview-18367536.html"
     },
     {
       "title": "Virengefahr in der Twindemie : Mit der neuen Leichtigkeit ist wohl bald Schluss",
@@ -358,6 +358,10 @@
       "url": "https://www.faz.net/aktuell/stil/leib-seele/psychotherapie-die-ratgeber-von-stefanie-stahl-erreichen-millionen-18354442.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Offen in privaten Dingen, interessiert an ihrem Gegenüber und dabei erfreulich wenig auf Wirkung bedacht: Stefanie Stahl."
+    },
+    {
+      "title": ": Spitzenkandidaten geben Stimmen bei Landtagswahl in Niedersachsen ab",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": ": Mehr als ein Dutzend Tote nach Raketenangriff in Saporischschja",
@@ -404,10 +408,6 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": ": Trotz Energiekrise: OPEC-Staaten drosseln Öl-Fördermenge",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
       "title": "Sabotageakt auf Bahnverkehr : Verkehrsminister Wissing: „Gezieltes und mutwilliges Vorgehen“",
       "url": "https://www.faz.net/aktuell/wirtschaft/bundespolizei-ermittelt-nach-sabotageakt-auf-bahnverkehr-18372440.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -447,12 +447,25 @@
     },
     {
       "title": "Russin auf der Flucht : „Sie wollten mir das Kind wegnehmen“",
-      "url": "https://www.faz.net/aktuell/politik/inland/wie-eine-russische-mutter-floh-um-ihre-tochter-zu-retten-18370040.html"
+      "url": "https://www.faz.net/aktuell/politik/inland/russische-mutter-auf-der-flucht-sie-wollten-mir-das-kind-wegnehmen-18370040.html"
     },
     {
-      "title": "Lars Windhorst und Hertha BSC : Die Geschichte einer schwierigen Trennung",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/lars-windhorst-und-hertha-bsc-geschichte-eine-trennung-18369921.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "5:2 gegen Köln : Gladbach holt sich den Derbysieg in Überzahl",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-moenchengladbach-besiegt-1-fc-koeln-im-bundesliga-derby-18360734.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Gladbacher hatten viel Spaß am Derby gegen Köln."
+    },
+    {
+      "title": "Finale der Tischtennis-WM : Spektakulärer deutscher Erfolg trotz Niederlage",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/tischtennis-wm-deutschland-verliert-finale-gegen-china-18374549.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Neue Nummer eins: Qiu Dang hat Timo Boll und Dimitrij Ovtcharov stark vertreten."
+    },
+    {
+      "title": "Lombardei-Rundfahrt : Pogacar dominiert bis zum Schluss",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/lombardei-rundfahrt-tadej-pogacar-gewinnt-valverde-mit-abschied-18374139.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Eindrucksvoll: Tadej Pogacar"
     },
     {
       "title": "Bizarres Finale der Formel 1 : Verstappen nach großer Verwirrung Weltmeister",
@@ -461,16 +474,16 @@
       "image_title": "Nun also doch: Max Verstappen ist vorzeitig Formel-1-Weltmeister."
     },
     {
-      "title": "Gustav Iden gewinnt Ironman-WM : Das steckt hinter dem Hawaii-Triumph der Norweger",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/ironman-hawaii-was-hinter-dem-triumph-von-gustav-iden-steckt-18373660.html",
+      "title": "Gedenken in Halle : Scholz: Rechtsextremismus in jeder Form entschlossen bekämpfen",
+      "url": "https://www.faz.net/aktuell/politik/inland/drei-jahre-nach-anschlag-auf-synagoge-gedenken-in-halle-18373996.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Platz eins und drei für Norwegen: Gustav Iden (Mitte) gewinnt, Kristian Blummenfelt wird Dritter."
+      "image_title": "Das Denkmal mit der beschossenen Tür der Synagoge erinnert an die Opfer des Anschlags."
     },
     {
-      "title": "Verletzung von Tua Tagovailoa : NFL reagiert auf schockierende Bilder",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/nfl-und-super-bowl-was-sie-ueber-football-wissen-muessen-17174155.html",
+      "title": "Putins neuer Feldherr : Man nennt ihn General Armageddon",
+      "url": "https://www.faz.net/aktuell/politik/ausland/putins-neuer-feldherr-sergej-surowikin-general-armageddon-18374287.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Den Kopf gestützt: Tua Tagovailoa wird vom Feld gebracht."
+      "image_title": "Sergej Surowikin"
     },
     {
       "title": "Mali und der Westen : Ein Präsident sieht nur Feinde",
@@ -485,20 +498,14 @@
       "image_title": "Grenzpolizei vor dem Flüchtlingslager Shuafat am 9. Oktober"
     },
     {
-      "title": "Streit mit Libanon : Strittiges Gasfeld an Israels Fördersystem angeschlossen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/streit-mit-libanon-gasfeld-an-israels-foerdersystem-angeschlossen-18374067.html",
+      "title": "ABN-Amro-Chef Swaak : „Es kommt auf die Nähe zum Kunden an“",
+      "url": "https://www.faz.net/aktuell/finanzen/abn-amro-chef-wirbt-fuer-kurs-der-eigenstaendigkeit-18367818.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Schiff des britisch-griechischen Unternehmens Energean am 9. Mai 2022 im Karisch-Gasfeld im Mittelmeer"
-    },
-    {
-      "title": "Demonstrationen in Prag : Linke und Rechte gemeinsam gegen die Regierung",
-      "url": "https://www.faz.net/aktuell/politik/ausland/linke-und-rechte-demonstrieren-in-prag-gegen-die-regierung-18370814.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Auf dem Prager Wenzelsplatz fordern Demonstranten direkte Verhandlungen mit Russland."
+      "image_title": "Der Chef der ABN Amro, Robert Swaak, verfolgt bei der niederländischen Großbank einen Kurs der Eigenständigkeit."
     },
     {
       "title": "Angeschlagene Warenhäuser : Galeria geht schon wieder das Geld aus",
-      "url": "https://www.faz.net/aktuell/wirtschaft/galeria-geht-schon-wieder-das-geld-aus-18374196.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/galeria-geht-wieder-das-geld-aus-sanierungstarifvertrag-gekuendigt-18374196.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Altes Markenzeichen von Galeria Kaufhof auf einem Kölner Kaufhaus"
     },
@@ -515,16 +522,16 @@
       "image_title": "Unbeabsichtigter Schaden: Die neue Premierministerin Liz Truss hat ausgerechnet mit einem großen Entlastungspaket für Großbritanniens Wirtschaft eine Währungskrise für das britische Pfund ausgelöst."
     },
     {
-      "title": "Bundesbankpräsident Nagel : „Wir werden das schaffen“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/bundesbankpraesident-nagel-fuer-weitere-leitzinserhoehungen-18373982.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bundesbankpräsident Joachim Nagel während einer Pressekonferenz"
-    },
-    {
       "title": "Kampf um Twitter : Elon Musk führt sich als Drama-König auf",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/twitter-kauf-elon-musk-fuehrt-sich-als-drama-koenig-auf-18371191.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Herab schauend: Elon Musk, hier bei einer Gala in New York im Frühjahr"
+    },
+    {
+      "title": "Mark Zuckerberg : Ein Armutszeugnis für Meta",
+      "url": "https://www.faz.net/aktuell/wirtschaft/digitec/ein-armutszeugnis-fuer-facebook-konzern-meta-18371314.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Mark Zuckerberg spricht während der Connect-Konferenz im Oktober 2021 zu einem Avatar von ihm selbst im „Metaverse“."
     },
     {
       "title": "Liederbach bei Frankfurt : Coca-Cola geht, Rechenzentrum kommt",
@@ -533,10 +540,10 @@
       "image_title": "Wirtschaftsgeschichte: Der Coca-Cola-Wassertank in Liederbach"
     },
     {
-      "title": "Kauf des Sozialen Netzwerkes : Musk hat Twitter plötzlich wieder lieb",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/musk-hat-twitter-ploetzlich-wieder-lieb-18365048.html",
+      "title": "Bundesbankpräsident Nagel : „Wir werden das schaffen“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/bundesbankpraesident-nagel-fuer-weitere-leitzinserhoehungen-18373982.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Elon Musk kauft jetzt doch Twitter."
+      "image_title": "Bundesbankpräsident Joachim Nagel während einer Pressekonferenz"
     },
     {
       "title": "Bundesbankpräsident Nagel : „Wir werden das schaffen“",
@@ -555,12 +562,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/fussballstar-diego-maradona-hat-schlecht-vererbt-18364957.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Diego Armando Maradona: Er spielte besser Fußball, als er vererbte."
-    },
-    {
-      "title": "Börsenwoche : Arbeitslos für den Börsenkurs",
-      "url": "https://www.faz.net/aktuell/finanzen/die-woche-an-der-boerse-im-rueckblick-unerfuellte-hoffnungen-18371261.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zu Wochenbeginn waren die Investoren noch euphorisch, doch die Hoffnungen auf eine langsamere Straffung der Geldpolitik sind verflogen."
     },
     {
       "title": "Frankfurter Anthologie : Friedrich Gottlieb Klopstock: „Das Versprechen“",
@@ -674,6 +675,12 @@
       "image_title": "Zwölf Tage lang hatte sich der Skorpion in der Tasche des Urlaubers versteckt."
     },
     {
+      "title": "Gewalt gegen Frauen : Spanische Studenten entschuldigen sich für sexistische Beleidigungen",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/spanische-studenten-entschuldigen-sich-fuer-sexistische-beleidigungen-18374284.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ein Studentenwohneim (Symbolbild)."
+    },
+    {
       "title": "Eurovision Song Contest : In Liverpool soll ein „ukrainisches Flair“ herrschen",
       "url": "https://www.faz.net/aktuell/gesellschaft/esc-2023-wird-in-liverpool-ausgerichtet-18374229.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -684,12 +691,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/herzblatt-geschichten/was-reinhold-messner-beim-ersten-date-seine-frau-fragte-18370434.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kein guter erster Eindruck: Reinhold Messner"
-    },
-    {
-      "title": "Britische Kennzeichen : Polizei stoppt illegales Autorennen auf der A3",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polizei-stoppt-illegales-autorennen-auf-der-a3-18374019.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Blaulicht leuchtet am auf dem Dach eines Polizeiwagens (Symbolbild)."
     },
     {
       "title": "Gin Tonic-Boom in Deutschland : „Barkultur ist mehr als der perfekte Drink“",
@@ -734,7 +735,13 @@
       "image_title": "Darum geht es 2024: Gianluca Zambrotta (links) und Demetrio Albertini mit dem Henri-Delaunay-Pokal für die Auslosung in der Festhalle."
     },
     {
-      "title": "Skyline-Blick : Polizisten bei Einsatz verletzt +++ Normale Fastnachtskampagne in Frankfurt geplant",
+      "title": "The Black Crowes in Frankfurt : Gutes aus dem Süden",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/the-black-crowes-in-frankfurt-gutes-aus-dem-sueden-18374428.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Chris (links) und Rich Robinson (rechts): die Sänger der Black Crowes."
+    },
+    {
+      "title": "Skyline-Blick : Motorrad-Beifahrerin tödlich verunglückt +++ Polizisten bei Einsatz verletzt",
       "url": "https://www.faz.net/aktuell/rhein-main/skyline-blick-polizisten-bei-einsatz-verletzt-pferd-von-auto-erfasst-18339628.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Nach Hitze und Trockenheit: Das Mainufer ist dank des Regens auf dem Weg, sich zu regenerieren."
@@ -744,12 +751,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/wie-die-stechuhr-den-beschaeftigten-sogar-schaden-kann-18370112.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Nachtarbeiter: So wie hier im Tower 185 in Frankfurt sind viele Büros bis spätabends besetzt. Ob die Überstunden gezählt werden, ist bislang Vertrauenssache."
-    },
-    {
-      "title": "Kirchliche Intrige : Ein Brief wie eine Bombe",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/vatikan-gegen-bischof-ein-skandal-vor-50-jahren-18361734.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gegenspieler: Der Limburger Bischof Wilhelm Kempf (rechts) und der Apostolische Nuntius Corrado Bafile."
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Zertifikat: Ihre Weiterbildung in der Organisationspsychologie",
@@ -878,15 +879,15 @@
       "image_title": "„Biohybrider“ Mikroroboter für den Einsatz in der Lunge: Der aus einer Alge gewonnene Korpus dieses sechstausendstel Millimeter großen Winzlings ist von einer Nanohülle umgeben, die Entzündungen stoppen und gefährliche Bakterien sehr effizient aus dem Weg räumen kann."
     },
     {
+      "title": "Fragwürdige Resultate : „Nature“ zieht die Reißleine",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/supraleitung-schon-bei-plusgraden-nun-hat-nature-die-studie-zurueckgezogen-18360626.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Blick ins Innere einer Diamant-Hochdruckzelle: Die Materialprobe wird von zwei konischen Diamanten extrem zusammengepresst und abgekühlt. Dieses Verfahren nutzten die Forschern um Ranga Dias, um bei einem wasserstoffreichen Gemisch schon bei +15 Grad Supraleitung hervorzurufen."
+    },
+    {
       "title": "Netzrätsel : Netzrätsel: Sie befinden sich hier!",
       "url": "https://www.faz.net/aktuell/wissen/netzraetsel/netzraetsel-sie-befinden-sich-hier-18369980.html",
       "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Entscheidungsfindung : Am Ende zählt oft, was wir kennen",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/reise-oder-buecher-entscheidung-am-ende-oft-fuer-bekanntes-18367700.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wie wählen Menschen etwa ihre Reiseziele aus? Forscher haben hierzu Experimente durchgeführt."
     },
     {
       "title": "Digital gesteuerte Wohnungen : Das Smarthome als Antwort auf die Energiekrise?",
