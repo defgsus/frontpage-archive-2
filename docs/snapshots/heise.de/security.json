@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-10T07:42:55",
+  "timestamp": "2022-10-10T08:37:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra",
+      "url": "https://www.heise.de/news/Groupware-Kritische-Codeschmuggel-Luecke-in-Zimbra-wird-angegriffen-7289104.html"
+    },
+    {
       "title": "Fortinet-Firewalls",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Fortinet-Firewalls-erlaubt-Admin-Zugriff-7288810.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-behebt-Fehler-7285603.html"
     },
     {
-      "title": "Exchange Zero-Day",
-      "url": "https://www.heise.de/news/Exchange-Zero-Day-Microsoft-bessert-Workaround-erneut-nach-7285558.html"
+      "title": "Kundendaten aus dem Hack des Videospiel-Publishers 2K stehen zum Verkauf",
+      "teaser": "Kriminelle bieten in einem Untergrundforum eine Datenbank mit persönlichen Daten von 2K-Kunden an. Die Liste soll 4 Millionen Einträge haben.",
+      "url": "https://www.heise.de/news/Kundendaten-aus-dem-Hack-des-Videospiel-Publishers-2K-stehen-zum-Verkauf-7289182.html"
+    },
+    {
+      "title": "Groupware: Kritische Codeschmuggel-Lücke in Zimbra wird angegriffen",
+      "teaser": "Eine Sicherheitslücke in der Groupware Zimbra erlaubt Angreifern, Schadcode einzuschleusen. Die Schwachstelle wird inzwischen angegriffen. Ein Workaround hilft.",
+      "url": "https://www.heise.de/news/Groupware-Kritische-Codeschmuggel-Luecke-in-Zimbra-wird-angegriffen-7289104.html"
     },
     {
       "title": "Berichte: Bundesinnenministerin will BSI-Chef Schönbohm abberufen",
@@ -58,6 +68,11 @@
       "url": "https://www.heise.de/news/macOS-ZIP-Archive-koennen-Apples-Gatekeeper-umgehen-7287601.html"
     },
     {
+      "title": "Großer Netzwerkschutz mit kleiner Firewall",
+      "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
+      "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
+    },
+    {
       "title": "Chinesische Cybergangs: Die meist-angegriffenen Sicherheitslücken",
       "teaser": "US-amerikanische Cyber-Sicherheitsbehörden stellen eine Liste der von chinesischen Cybergangs derzeit meist-angegriffenen Sicherheitslücken bereit.",
       "url": "https://www.heise.de/news/Chinesische-Cybergangs-Die-meist-angegriffenen-Sicherheitsluecken-7287037.html"
@@ -66,11 +81,6 @@
       "title": "Angreifer könnten Cisco-Admins manipulierte Updates unterschieben",
       "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Expressway Series und TelePresence Video Communication Server erschienen.",
       "url": "https://www.heise.de/news/Angreifer-koennten-Cisco-Admins-manipulierte-Updates-unterschieben-7286880.html"
-    },
-    {
-      "title": "Großer Netzwerkschutz mit kleiner Firewall",
-      "teaser": "Es muss nicht immer ein Allround-Router sein: Für die Netzwerksegmentierung in der Fabrik ist eine Microwall Bridge oft die bessere Lösung. Sie schützt vor Hackerangriffen und erfordert keine aufwändige Neukonfiguration der IP-Adressen.",
-      "url": "https://www.heise.de/solutions/wut/grosser-netzwerkschutz-mit-kleiner-firewall/?source=nat_teas"
     },
     {
       "title": "Linux-Kernel 5.19.12 könnte Displays von Laptops mit Intel-GPU beschädigen",
@@ -145,17 +155,6 @@
       "teaser": "Für die zum Wochenende bekannt gewordene Zero-Day-Lücke in Exchange hat Microsoft einen Workaround angeboten. Der dichtet das Leck jedoch nicht ausreichend ab.",
       "url": "https://www.heise.de/news/Exchange-Server-Zero-Day-Bisheriger-Workaround-unzureichend-7283072.html",
       "image_title": "Aufmacher Workaorund für Exhange-Zero-Day unzureichend"
-    },
-    {
-      "title": "Mexikanische Armee steht nach Hackerangriff \"nackt\" da",
-      "teaser": "Beim größten Hack in der Geschichte Mexikos wurden Tausende vertrauliche Dokumente erbeutet. Rufe nach einem Cybersicherheitsgesetz werden lauter.",
-      "url": "https://www.heise.de/news/Mexikanische-Armee-steht-nach-Hackerangriff-nackt-da-7282860.html"
-    },
-    {
-      "title": "Backdoor in Windows-Logo versteckt",
-      "teaser": "Eine Hackergruppe hat bei Angriffen auf Regierungen Steganografie verwendet, um Schadsoftware über harmlos aussehende Bitmaps nachzuladen.",
-      "url": "https://www.heise.de/news/Backdoor-in-Windows-Logo-versteckt-7282730.html",
-      "image_title": "Iranische Hacker sollen Dutzende deutsche Universitäten ausspioniert haben"
     },
     {
       "title": "heise Security Tour 2022",
