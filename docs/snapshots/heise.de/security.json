@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-11T06:03:18",
+  "timestamp": "2022-10-11T07:44:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.db1233a306d4dbb33287",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3611967be3a49f899791",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Exchange Zero-Day",
+      "url": "https://www.heise.de/news/Exchange-Zero-Day-Luecke-Nochmals-nachgebesserter-Workaround-7304522.html"
+    },
     {
       "title": "Zimbra",
       "url": "https://www.heise.de/news/Groupware-Kritische-Codeschmuggel-Luecke-in-Zimbra-wird-angegriffen-7289104.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-Cisco-Admins-manipulierte-Updates-unterschieben-7286880.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-behebt-Fehler-7285603.html"
+      "title": "Exchange Zero-Day-Lücke: Nochmals nachgebesserter Workaround",
+      "teaser": "Microsoft bessert den Workaround für die Zero-Day-Lücke in Exchange noch mal nach. Admins bleibt nur zu hoffen, dass die jetzige Regel bis zum Update hält.",
+      "url": "https://www.heise.de/news/Exchange-Zero-Day-Luecke-Nochmals-nachgebesserter-Workaround-7304522.html"
+    },
+    {
+      "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+      "teaser": "Durch die Analyse aktueller Angriffstechniken die Anfälligkeit der eigenen IT und die Effektivität von Schutzmaßnahmen besser bewerten lernen. Rabatt bis 27.10.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cybersicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-7285926.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
     },
     {
       "title": "IT-Sicherheitstag 2022: Security-Angriffe und ihre erfolgreichen Gegenmaßnahmen",
@@ -139,16 +150,6 @@
       "title": "Ein bisschen Schutz aus der Cloud: Microsoft startet seine Azure Firewall Basic",
       "teaser": "Manche Unternehmen benötigen nicht viele Firewall-Features für ihre Cloud-Anwendungen. Genau hier will Microsoft mit seiner neuen Basic-Version punkten.",
       "url": "https://www.heise.de/news/Ein-bisschen-Schutz-aus-der-Cloud-Microsoft-startet-seine-Azure-Firewall-Basic-7285343.html"
-    },
-    {
-      "title": "Exchange Online: Nach Basic-Auth-Ende vermehrte Angriffe beobachtet",
-      "teaser": "Microsoft hat die Anmeldung mittels Basic Auth für Exchange Online weitgehend abgedreht. Angreifer versuchen, bei Ausnahmen mit Passwort-Austesten einzubrechen.",
-      "url": "https://www.heise.de/news/Exchange-Online-Nach-Basic-Auth-Ende-vermehrte-Angriffe-beobachtet-7285015.html"
-    },
-    {
-      "title": "Patchday: Angreifer könnten ihre Rechte unter Android 10 bis 13 hochstufen",
-      "teaser": "Wichtige Sicherheitsupdates schließen zum Teil kritische Lücken in verschiedenen Android-Versionen.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-ihre-Rechte-unter-Android-10-bis-13-hochstufen-7284409.html"
     },
     {
       "title": "heise Security Tour 2022",
