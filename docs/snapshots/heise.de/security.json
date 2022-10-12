@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-12T07:32:27",
+  "timestamp": "2022-10-12T08:32:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,26 +32,42 @@
   ],
   "articles": [
     {
-      "title": "SAP Patchday",
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-sechs-Sicherheitsluecken-in-Chrome-7305732.html"
+    },
+    {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Schadcode-Luecken-in-ColdFusion-Co-7305797.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-und-immer-noch-kein-Exchange-Patch-in-Sicht-7305736.html"
+    },
+    {
+      "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-15-neue-Sicherheitswarnungen-im-Oktober-7305149.html"
     },
     {
-      "title": "Trend Micro Apex One",
-      "url": "https://www.heise.de/news/Trend-Micros-Schutzsoftware-Apex-One-ist-vielfaeltig-angreifbar-7304624.html"
+      "title": "Schutzschild aus der Cloud: Google bekämpft unsichere Software-Lieferketten",
+      "teaser": "Auf der Hauskonferenz Cloud Next hat Google zwei neue Security Schwerpunkte verkündet: die Absicherung der Software-Supply-Chain und die von Kollaborationen.",
+      "url": "https://www.heise.de/news/Schutzschild-aus-der-Cloud-Google-bekaempft-unsichere-Software-Lieferketten-7305792.html"
     },
     {
-      "title": "Exchange Zero-Day",
-      "url": "https://www.heise.de/news/Exchange-Zero-Day-Luecke-Nochmals-nachgebesserter-Workaround-7304522.html"
-    },
-    {
-      "title": "Zimbra",
-      "url": "https://www.heise.de/news/Groupware-Kritische-Codeschmuggel-Luecke-in-Zimbra-wird-angegriffen-7289104.html"
+      "title": "Webbrowser: Google schließt sechs Sicherheitslücken in Chrome",
+      "teaser": "Google hat ein Update für den Webbrowser Chrome veröffentlicht. Es schließt insgesamt sechs Sicherheitslücken, von denen ein hohes Risiko ausgeht.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-sechs-Sicherheitsluecken-in-Chrome-7305732.html",
+      "image_title": "Google Chrome Update"
     },
     {
       "title": "SAP-Patchday: 15 neue Sicherheitswarnungen im Oktober",
       "teaser": "Die von SAP zum Oktober-Patchday verfügbaren Updates schließen unter anderem zwei kritische Sicherheitslücken.",
       "url": "https://www.heise.de/news/SAP-Patchday-15-neue-Sicherheitswarnungen-im-Oktober-7305149.html",
       "image_title": "Patchday SAP"
+    },
+    {
+      "title": "BSI-Affäre: Spekulationen um lancierte Vorwürfe und ein Bauernopfer",
+      "teaser": "Arne Schönbohm wird eine Nähe zu russischen Geheimdiensten nachgesagt, weshalb er wohl abberufen wird. Die Faktenlage stützt die Vorwürfe jedoch nicht.",
+      "url": "https://www.heise.de/news/BSI-Affaere-Spekulationen-um-lancierte-Vorwuerfe-und-ein-Bauernopfer-7304787.html"
     },
     {
       "title": "Datenpanne bei Toyota: Schlüssel zu Kundendaten fünf Jahre öffentlich zugänglich",
@@ -67,6 +83,11 @@
       "title": "Trend Micros Schutzsoftware Apex One ist vielfältig angreifbar",
       "teaser": "Aktualisierte Versionen von Apex One 2019 (on-prem) und Apex One SaaS schließen mehrere Sicherheitslücken unter Windows.",
       "url": "https://www.heise.de/news/Trend-Micros-Schutzsoftware-Apex-One-ist-vielfaeltig-angreifbar-7304624.html"
+    },
+    {
+      "title": "Exchange Zero-Day-Lücke: Nochmals nachgebesserter Workaround",
+      "teaser": "Microsoft bessert den Workaround für die Zero-Day-Lücke in Exchange noch mal nach. Admins bleibt nur zu hoffen, dass die jetzige Regel bis zum Update hält.",
+      "url": "https://www.heise.de/news/Exchange-Zero-Day-Luecke-Nochmals-nachgebesserter-Workaround-7304522.html"
     },
     {
       "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -129,27 +150,6 @@
       "title": "Kritische Sicherheitslücke in Fortinet-Firewalls erlaubt Admin-Zugriff",
       "teaser": "Angreifer können die Authentifizierung bei Fortinet-Firewalls umgehen und Aktionen als Admin ausführen – die wahren Admins sollten zügig patchen.",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Fortinet-Firewalls-erlaubt-Admin-Zugriff-7288810.html"
-    },
-    {
-      "title": "macOS: ZIP-Archive können Apples Gatekeeper umgehen",
-      "teaser": "Ein Bug im Packprogramm von macOS macht es möglich, in Archivdateien unsignierten Schadcode auszuliefern, der ohne Warnung ausgeführt wird. Ein Patch liegt vor.",
-      "url": "https://www.heise.de/news/macOS-ZIP-Archive-koennen-Apples-Gatekeeper-umgehen-7287601.html"
-    },
-    {
-      "title": "Chinesische Cybergangs: Die meist-angegriffenen Sicherheitslücken",
-      "teaser": "US-amerikanische Cyber-Sicherheitsbehörden stellen eine Liste der von chinesischen Cybergangs derzeit meist-angegriffenen Sicherheitslücken bereit.",
-      "url": "https://www.heise.de/news/Chinesische-Cybergangs-Die-meist-angegriffenen-Sicherheitsluecken-7287037.html"
-    },
-    {
-      "title": "Angreifer könnten Cisco-Admins manipulierte Updates unterschieben",
-      "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Expressway Series und TelePresence Video Communication Server erschienen.",
-      "url": "https://www.heise.de/news/Angreifer-koennten-Cisco-Admins-manipulierte-Updates-unterschieben-7286880.html"
-    },
-    {
-      "title": "Linux-Kernel 5.19.12 könnte Displays von Laptops mit Intel-GPU beschädigen",
-      "teaser": "Einige Nutzer berichten von blinkenden Displays auf Intel-Laptops nach dem Update auf Kernel 5.19.12. Der verursachende Code könnte den Bildschirm beschädigen.",
-      "url": "https://www.heise.de/news/Linux-Kernel-5-19-12-koennte-Displays-von-Laptops-mit-Intel-GPU-beschaedigen-7286874.html",
-      "image_title": "Pinguin, gerade aus dem Wasser auf einen Felsen gehüpft, streckt seine Flügel aus"
     },
     {
       "title": "heise Security Tour 2022",
