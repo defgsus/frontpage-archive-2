@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-10-12T08:32:47",
+  "timestamp": "2022-10-12T09:29:31",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.2-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.a8154e20.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.f68b6c1b.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.159c62b6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.7a45819c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.b4b60a9e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.2b32c723.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Briten-Cops nehmen Krawalltäter den Pass weg : Dynamo- und Lok-Hooligans in England gefangen",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/gewalt-hooligans-aus-dresden-und-leipzig-in-london-in-haft-81592484.bild.html",
-      "image_title": "Gewalt: Hooligans aus Dresden und Leipzig in London in Haft"
-    },
-    {
-      "title": "„Bleich wie ein Handtuch“ vor Gericht : Aufstieg und Fall des Alfons Schuhbeck!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/alfons-schuhbeck-vor-gericht-der-aufstieg-und-fall-des-star-kochs-81591222.bild.html",
-      "image_title": "Alfons Schuhbeck vor Gericht: Der Aufstieg und Fall des Star-Kochs"
-    },
-    {
-      "title": "57-Jähriger jagt Doppelhaushälfte in die Luft : Das Ende eines Ehestreits",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mann-vermisst-explosion-zerstoert-doppelhaushaelfte-81583748.bild.html",
-      "image_title": "57-Jähriger jagt Doppelhaushälfte in die Luft: Das Ende eines Ehestreits"
-    },
-    {
-      "title": "Nachbarin den Schlaf geraubt : Kräh-Knast für Nerv-Hahn",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/brandenburg-nerv-hahn-muss-in-schallisolierten-stall-81594410.bild.html",
-      "image_title": "Brandenburg: Nerv-Hahn muss in schallisolierten Stall"
-    },
-    {
-      "title": "Auf dem Bebelplatz in Berlin : Israel und die Emirate feiern ihre Freundschaft",
-      "teaser": "Die Länder setzen auf den Dialog, feiern zwei Jahre „Abraham Accords Declaration“.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/in-berlin-israel-und-die-emirate-feiern-ihre-freundschaft-81592744.bild.html",
-      "image_title": "In Berlin: Israel und die Emirate feiern ihre Freundschaft"
-    },
-    {
-      "title": "Plötzlich weg : Twitter-Account von Klima-Klebern gesperrt",
-      "teaser": "Auf ihrem Twitter-Account informierten die Klima-Kleber über ihre Blockaden. Nun ist der Account dicht.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/twitter-account-von-klima-klebern-gesperrt-81591512.bild.html",
-      "image_title": "Twitter-Account von Klima-Klebern gesperrt"
-    },
-    {
-      "title": "Pokal-Viertelfinale in Rehden : Schachten warnt vor Favoriten-Schreck",
-      "url": "https://www.bild.de/sport/regional-sport/regiosport-bremen/vfb-oldenburg-pokal-viertelfinale-in-rehden-vfb-warnt-vor-favoriten-schreck-81587422.bild.html",
-      "image_title": "VfB Oldenburg: Pokal-Viertelfinale in Rehden! VfB warnt vor Favoriten-Schreck"
-    },
-    {
-      "title": "Ducksch im Oberhaus angekommen : Darum klappt es jetzt mit der Bundesliga",
-      "teaser": "Marvin Ducksch hat es allen gezeigt! Er funktioniert endlich auch in der Bundesliga.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-marvin-ducksch-darum-klappt-es-endlich-mit-der-bundesliga-81588286.bild.html",
-      "image_title": "Werder Bremen: Marvin Ducksch: Darum klappt es endlich mit der Bundesliga"
-    },
-    {
-      "title": "Heiße Phase im Poker : Jung-Unterschrift noch im Oktober?",
-      "teaser": "Tony Jung ist bei Werder gesetzt. Der Routinier erledigt seinen Job ohne Schnörkel.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-heisse-phase-im-poker-verlaengert-tony-jung-noch-im-oktober-81574802.bild.html",
-      "image_title": "Werder Bremen: Heiße Phase im Poker! Verlängert Tony Jung noch im Oktober?"
-    },
-    {
-      "title": "Erbrechen und Durchfall : Dresden: 43 Gäste in Jugendherberge erkrankt",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/erbrechen-und-durchfall-43-gaeste-in-dresdner-jugendherberge-erkrankt-81595164.bild.html",
-      "image_title": "Erbrechen und Durchfall: 43 Gäste in Dresdner Jugendherberge erkrankt"
-    },
-    {
-      "title": "Antisemitismus : SPD-Politikerin will AfD verbieten",
-      "teaser": "Soll man die Thüringer AfD verbieten? SPD-Politikerin Dorothea Marx (64) spricht sich dafür aus.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/antisemitismus-spd-politikerin-will-afd-verbieten-81594462.bild.html",
-      "image_title": "Antisemitismus: SPD-Politikerin will AfD verbieten"
-    },
-    {
-      "title": "Beschämendes Video aufgetaucht : Wirtin (30) bittet Putin um Raketenangriff auf Dresden",
-      "teaser": "Wirtin (30) bittet Putin um Raketenangriff auf Dresden.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/internet-saechsin-bittet-in-video-putin-um-raketenangriff-auf-dresden-81589464.bild.html",
-      "image_title": "Internet: Sächsin bittet in Video Putin um Raketenangriff auf Dresden"
-    },
-    {
-      "title": "Nach Eigentor : Dynamo-Star Akoto ist jetzt ein Doppel-AkotoR",
-      "url": "https://www.bild.de/sport/fussball/fussball/nach-eigentor-dynamo-star-akoto-ist-jetzt-ein-doppel-akotor-81592518.bild.html",
-      "image_title": "Nach Eigentor: Dynamo-Star Akoto ist jetzt ein Doppel-AkotoR"
-    },
-    {
-      "title": "300 Polizisten im Einsatz : Razzia bei Schönheits-Doc in Leipzig",
-      "teaser": "300 Polizisten haben am Dienstag rund 30 Objekte in Leipzig und Umgebung durchsucht.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-razzia-bei-schoenheits-doc-gero-strauss-81590220.bild.html",
-      "image_title": "Leipzig: Razzia bei Schönheits-Doc Gero Strauss"
-    },
-    {
-      "title": "Weil sie Ukrainer beschimpften : Kretschmer geht auf Pöbel- Demonstranten los!",
-      "teaser": "In Leipzig wurden Ukrainer übel beschimpft – das lässt sich Sachsens Regierungschef nicht bieten.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/weil-sie-ukrainer-beschimpften-kretschmer-geht-auf-demonstranten-los-81588148.bild.html",
-      "image_title": "Weil sie Ukrainer beschimpften: Kretschmer geht auf Demonstranten los!"
-    },
-    {
-      "title": "Stachelschweinchen wurde von seiner Mutter verstoßen : Neuer Freund für Findelkind Distel",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/solingen-neuer-freund-fuer-stachelschwein-junge-distel-81595334.bild.html",
-      "image_title": "Solingen: Neuer Freund für Stachelschwein-Junge Distel"
-    },
-    {
-      "title": "Fahrstühle im Eimer! : Da muss ich täglich runter und wieder hoch",
-      "teaser": "Zwölf Etagen, zwei Aufzüge – doch keiner funktioniert. Die Hochhaus-Bewohner sind sauer.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/moenchengladbach-fahrstuehle-im-eimer-da-muss-ich-taeglich-hoch-81592392.bild.html",
-      "image_title": "Mönchengladbach – Fahrstühle im Eimer! Da muss ich täglich hoch..."
-    },
-    {
-      "title": "Düsseldorf hui, Köln und Ruhrgebiet pfui : So gut laden E-Autofahrer in NRW-Städten auf",
-      "teaser": "Die einen Städte in NRW liefern E-Autofahrern richtig Watt ab! Die anderen weniger ...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/e-auto-laden-duesseldorf-hui-koeln-und-ruhrgebiet-pfui-81591226.bild.html",
-      "image_title": "E-Auto laden: Düsseldorf hui, Köln und Ruhrgebiet pfui"
-    },
-    {
-      "title": "Zehnjähriger vermisst : Wo ist Ahmadullah?",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/10-jaehriger-vermisst-ahmadullah-wo-bist-du-81594758.bild.html",
-      "image_title": "Zehnjähriger vermisst: Ahmadullah, wo bist Du?"
-    },
-    {
-      "title": "500-Kilo-Blindgänger aus Zweitem Weltkrieg : 20 000 Frankfurter fliehen vor Bombe",
-      "teaser": "Die Evakuierung muss bis 9 Uhr abgeschlossen sein.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/500-kilo-blindgaenger-bombe-vertreibt-20-000-frankfurter-81592250.bild.html",
-      "image_title": "500-Kilo-Blindgänger: Bombe vertreibt 20 000 Frankfurter"
-    },
-    {
-      "title": "Frankfurt gehen die Stangen aus : Poller-Alarm!",
-      "teaser": "Frankfurt setzt auf die Verkehrswende. Doch jetzt gehen die Poller für Radwege aus.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/frankfurt-gehen-die-stangen-aus-poller-alarm-81591058.bild.html",
-      "image_title": "Frankfurt gehen die Stangen aus: Poller-Alarm!"
-    },
-    {
-      "title": "Fantasy-Musical „20 000 Meilen unter dem Meer“ : Böse kann keiner so gut wie ich",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/mit-fantasy-musical-20-000-meilen-unter-dem-meer-auf-tour-boese-kann-keiner-so-g-81586528.bild.html",
-      "image_title": "Mit Fantasy-Musical „20 000 Meilen unter dem Meer“ auf Tour: Böse kann keiner so gut wie ich"
-    },
-    {
-      "title": "Navigations-Ausstellung : Im Altonaer Museum auf große Fahrt gehen",
-      "teaser": "Ahoi – ab Mittwoch können Besucher im Altonaer Museum in der Navi-Ausstellung auf große Fahrt gehen.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/navigations-ausstellung-im-altonaer-museum-auf-grosse-fahrt-gehen-81586844.bild.html",
-      "image_title": "Navigations-Ausstellung: Im Altonaer Museum auf große Fahrt gehen"
-    },
-    {
-      "title": "ADAC testete 50 Autobahn-Ausruhplätze : Deutschlands schlechtester Rastplatz",
-      "teaser": "Wehe dem, der am A 7-Rastplatz Garlstorfer Wald West halten muss – er wurde mit „sehr mangelhaft“ bewertet.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/adac-testete-50-autobahn-ausruhplaetze-deutschlands-schlechtester-rastplatz-steh-81586524.bild.html",
-      "image_title": "ADAC testete 50 Autobahn-Ausruhplätze: Deutschlands schlechtester Rastplatz steht an der A7"
-    },
-    {
-      "title": "Rettungseinsatz nach Julian P. (24) beendet : „Wir gehen nicht davon aus, dass wir ihn noch lebend finden“",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/rettungseinsatz-am-hochkalter-nach-julian-p-24-beendet-81586406.bild.html",
-      "image_title": "Rettungseinsatz am Hochkalter nach Julian P. (24) beendet"
-    },
-    {
-      "title": "Neue WM-Hoffnung : Ondoua strahlt endlich wieder",
-      "teaser": "Nach dem Verletzungspech ist Gael Ondoua auf den Trainingsplatz zurückgekehrt.",
-      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-gael-ondoua-ist-zurueck-auf-dem-platz-und-hat-neue-wm-hoffnung-81588240.bild.html",
-      "image_title": "Hannover 96: Gael Ondoua ist zurück auf dem Platz und hat neue WM-Hoffnung"
-    },
-    {
-      "title": "Toter im Mecklenheider Forst : Pilzsammler entdecken verweste Leiche",
-      "teaser": "Hannover – Auf der Suche nach Pilzen machten Sammler eine schreckliche Entdeckung.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/toter-im-mecklenheider-forst-pilzsammler-entdecken-verweste-leiche-81591194.bild.html",
-      "image_title": "Hannover: Pilzsammler entdecken verweste Leiche im Mecklenheider Forst"
-    },
-    {
-      "title": "Supercandy Pop-up-Museum mit Grusel-Attraktion : Hier gibt‘s Selfies für Halloween",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/grusel-pop-up-museum-in-koeln-hier-gibts-selfies-fuer-halloween-81589264.bild.html",
-      "image_title": "Grusel-Pop-up-Museum in Köln: Hier gibt's Selfies für Halloween"
-    },
-    {
-      "title": "Therme-Chef hat Angst vor dem Winter : Sauna dicht – wir schwitzen trotzdem",
-      "teaser": "Die Energiepreise bereiten jetzt auch den Wellness-Tempeln Sorgen.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/therme-chef-sauna-dicht-wir-schwitzen-trotzdem-81592020.bild.html",
-      "image_title": "Therme-Chef: Sauna dicht – wir schwitzen trotzdem"
-    },
-    {
-      "title": "Keine OP, aber Ljubicic 3 Monate raus : Baumgart schlägt Kader-Alarm!",
-      "teaser": "Langsam wird es eng... Köln-Trainer Steffen Baumgart muss auf viele Spieler verzichten.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-steffen-baumgart-schlaegt-kader-alarm-81575612.bild.html",
-      "image_title": "1. FC Köln: Steffen Baumgart schlägt Kader-Alarm!"
-    },
-    {
-      "title": "Kinder leiden unter Lehrermangel : Die 4b hat nicht mal einen Stundenplan",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/lehrermangel-diese-klasse-hat-nicht-mal-einen-stundenplan-81594566.bild.html",
-      "image_title": "Kinder leiden unter Lehrermangel: Die 4b hat nicht mal einen Stundenplan"
-    },
-    {
-      "title": "Himmelsscheibe von Nebra : Halles größter Schatz ist zurückgekehrt",
-      "teaser": "Seit Jahresbeginn war in Halle nur die 50 000 Euro teure Master-Kopie der Himmelsscheibe ausgestellt..",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/himmelsscheibe-von-nebra-halles-groesster-schatz-ist-zurueckgekehrt-81593430.bild.html",
-      "image_title": "Himmelsscheibe von Nebra: Halles größter Schatz ist zurückgekehrt"
-    },
-    {
-      "title": "Bonnie und Clyde a lá Halle vir Gericht : Drogenhandel, Erpressung und Anstiftung zum Mord",
-      "teaser": "Weiße Seidenbluse, goldene Uhr, Designer-Täschchen: Die blonde Sophia B. (19) ist gekleidet, als würde sie ausgehen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/prozess-drogenhandel-erpressung-und-anstiftung-zum-mord-81593148.bild.html",
-      "image_title": "Prozess: Drogenhandel, Erpressung und Anstiftung zum Mord"
-    },
-    {
-      "title": "Hansa Rostock : Härtel hat Fröling wiederentdeckt",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostock-haertel-hat-froeling-wiederentdeckt-81590908.bild.html",
-      "image_title": "Hansa Rostock: Härtel hat Fröling wiederentdeckt"
-    },
-    {
-      "title": "Nach 2:0-Sieg beim Greifswalder FC : Hansa-Hools attackieren Babelsberg-Fans",
-      "teaser": "Erst 2:0-Sieg beim Greifswalder FC, dann Kloppe von Hansa-Hooligans.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/mit-bengalos-und-faeusten-hansa-hools-attackieren-babelsberg-fans-auf-rastplatz-81575118.bild.html",
-      "image_title": "Mit Bengalos und Fäusten: Hansa-Hools attackieren Babelsberg-Fans auf Rastplatz"
-    },
-    {
-      "title": "60 Originalkleider kehren auf Laufsteg zurück : Das Erbe des „Roten Dior“",
-      "teaser": "Er galt als der Christian Dior der DDR und war der schillerndste Modeschöpfer des Ostens: Heinz Bormann (1918 - 1989) aus Schönebeck.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/heinz-bormann-das-erbe-des-roten-dior-81579662.bild.html",
-      "image_title": "Heinz Bormann: Das Erbe des „Roten Dior“"
-    },
-    {
-      "title": "Bei Gassi-Runde : Verfolgungsjagd mit Mistgabel",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bei-gassi-runde-verfolgungsjagd-mit-mistgabel-81595612.bild.html",
-      "image_title": "Bei Gassi-Runde: Verfolgungsjagd mit Mistgabel"
-    },
-    {
-      "title": "Zeugenaufruf : Geldautomat in München gesprengt",
-      "teaser": "Schon wieder wurde ein Geldautomat gesprengt!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/zeugenaufruf-geldautomat-in-muenchen-gesprengt-81595034.bild.html",
-      "image_title": "Zeugenaufruf: Geldautomat in München gesprengt"
-    },
-    {
-      "title": "Im dritten Quarta : Mercedes-Benz verkauft deutlich mehr Autos",
-      "teaser": "Der Autobauer Mercedes-Benz hat im dritten Quartal deutlich mehr Autos verkauft.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/im-dritten-quarta-mercedes-benz-verkauft-deutlich-mehr-autos-81587010.bild.html",
-      "image_title": "Im dritten Quarta: Mercedes-Benz verkauft deutlich mehr Autos"
-    },
-    {
-      "title": "Wegen Hitze und Trockenheit : Abgemagerte und verletzte Igel in Tierheimen",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wegen-hitze-und-trockenheit-abgemagerte-und-verletzte-igel-in-tierheimen-81594660.bild.html",
-      "image_title": "Wegen Hitze und Trockenheit: Abgemagerte und verletzte Igel in Tierheimen"
-    },
-    {
-      "title": "Gleiserneuerung nach Garmischer Zugunglück : Im November fahren wieder Züge",
-      "teaser": "Nach dem Zugunglück in Garmisch-Partenkirchen laufen die Wiederaufbauarbeiten.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/gleiserneuerung-nach-garmischer-zugunglueck-im-november-fahren-wieder-zuege-81594570.bild.html",
-      "image_title": "Gleiserneuerung nach Garmischer Zugunglück: Im November fahren wieder Züge"
-    },
-    {
-      "title": "Kreis Ansbach : Nachbar-Killer war Überlebenstrainer",
-      "teaser": "Die Ursache für die Bluttat ist weiter unklar.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/kreis-ansbach-nachbar-killer-war-ueberlebenstrainer-81593360.bild.html",
-      "image_title": "Kreis Ansbach: Nachbar-Killer war Überlebenstrainer"
-    },
-    {
-      "title": "Zwei Verletzte in Dortmund : Schütze feuert aus fahrendem Auto in Gruppe",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/verletzte-in-dortmund-schuetze-feuert-aus-fahrendem-auto-in-gruppe-81585982.bild.html",
-      "image_title": "Verletzte in Dortmund: Schütze feuert aus fahrendem Auto in Gruppe"
-    },
-    {
-      "title": "„ZollvereinSteig“ im Ruhrgebiet : WANDERbares Welterbe",
-      "teaser": "Ralph Kindel hat die Wanderroute „ZollvereinSteig“ im Essener Norden entwickelt.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/zollvereinsteig-ist-die-neue-herbst-attraktion-im-ruhrgebiet-81590786.bild.html",
-      "image_title": "ZollvereinSteig ist die neue Herbst-Attraktion im Ruhrgebiet"
-    },
-    {
-      "title": "Immer mehr Fälle in Oberhausen (NRW) : Schuleinbrüche als TikTok-Challenge?",
-      "teaser": "Einbrüche und der Vandalismus in Oberhausener Schulen haben drastisch zugenommen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/immer-mehr-faelle-in-oberhausen-schuleinbrueche-als-tiktok-challenge-81591670.bild.html",
-      "image_title": "Immer mehr Fälle in Oberhausen: Schuleinbrüche als TikTok-Challenge?"
-    },
-    {
-      "title": "Wegen Ruhestörung : 69-Jähriger ersticht Nachbar (44)",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/ruhestoerung-69-jaehriger-ersticht-nachbar-44-81594930.bild.html",
-      "image_title": "Ruhestörung: 69-Jähriger ersticht Nachbar (44)"
-    },
-    {
-      "title": "Jan Schwemm (31) hat ein klebriges Hobby : Saarbrücker Busfahrer parkt im Regal ein",
-      "teaser": "Der Saarbrücker Jan Schwemm (31) baut Busse mit den lokalen Werbemotiven nach.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/klebriges-hobby-saarbruecker-busfahrer-parkt-im-regal-81586814.bild.html",
-      "image_title": "Klebriges Hobby: Saarbrücker Busfahrer parkt im Regal"
-    },
-    {
-      "title": "Explodierende Infektionszahlen : Verschärft das Saarland die Corona-Maßnahmen?",
-      "teaser": "Spitzenreiter bei der 7-Tage-Inzidenz: Verschärft das Saarland jetzt die Corona-Maßnahmen?",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/infektionszahlen-explodieren-verschaerft-saarland-corona-massnahmen-81588416.bild.html",
-      "image_title": "Infektionszahlen explodieren: Verschärft Saarland Corona-Maßnahmen?"
-    },
-    {
-      "title": "Auf der A 2 : Tödlicher Unfall am Stauende",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/a-2-toedlicher-unfall-am-stauende-81593114.bild.html",
-      "image_title": "A 2: Tödlicher Unfall am Stauende"
-    },
-    {
-      "title": "Magdeburg-Star im Formtief : Atik:„Von mir muss mehr kommen“",
-      "teaser": "Knapp einen Monat fehlte Magdeburgs Torjäger Baris Atik wegen einer Knöchelverletzung.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-magdeburg/magdeburg-star-im-formtief-atik-von-mir-muss-mehr-kommen-81592888.bild.html",
-      "image_title": "Magdeburg-Star im Formtief: Atik:„Von mir muss mehr kommen“"
-    },
-    {
-      "title": "Druck auf Meyer steigt : Spieler stärken HFC-Trainer den Rücken",
-      "teaser": "Das 0:0 hinterließ mehr fragende als erleichterte Gesichter: Halle tritt auf der Stelle.",
-      "url": "https://www.bild.de/sport/fussball/fussball/druck-auf-meyer-steigt-spieler-staerken-hfc-trainer-den-ruecken-81591338.bild.html",
-      "image_title": "Druck auf Meyer steigt – Spieler stärken HFC-Trainer den Rücken"
-    },
-    {
-      "title": "Coming-out in der Rente : Ex-Kripo-Chef lässt sich zur Frau umoperieren",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/coming-out-in-der-rente-ex-kripo-chef-laesst-sich-zur-frau-umoperieren-81590642.bild.html",
-      "image_title": "Kommissar Hammer löst seinen eigenen Fall: Ich war ein richtiger Mann ..."
-    },
-    {
-      "title": "Termine abgesagt! : Kretschmann nach USA-Reise krank",
-      "teaser": "MInisterpräsident Winfried Kretschmann (74,Grüne) hat seine USA-Reise geschlaucht.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/termine-abgesagt-kretschmann-nach-usa-reise-krank-81590144.bild.html",
-      "image_title": "Termine abgesagt! Kretschmann nach USA-Reise krank"
-    },
-    {
-      "title": "Prozess in Stuttgart : Anwohner klagen gegen Krematorium",
-      "teaser": "Ein Unternehmer verbrennt tote Hunde und Katzen. Nachbarn beschweren sich über Abgase.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/prozess-in-stuttgart-anwohner-klagen-gegen-krematorium-81589862.bild.html",
-      "image_title": "Prozess in Stuttgart: Anwohner klagen gegen Krematorium"
-    },
-    {
-      "title": "Beim Veterinäramt : Tote Hundewelpen in Briefkasten gestopft",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/beim-veterinaeramt-in-erfurt-tote-hundewelpen-in-briefkasten-gestopft-81594924.bild.html",
-      "image_title": "Beim Veterinäramt in Erfurt: Tote Hundewelpen in Briefkasten gestopft"
-    },
-    {
-      "title": ": Erfurt-Spieler können wieder warm duschen",
-      "teaser": "Bei Regionalligist Rot-Weiß Erfurt herrscht eitel Sonnenschein.",
-      "url": "https://www.bild.de/sport/fussball/fussball/nach-bild-bericht-erfurt-spieler-koennen-wieder-warm-duschen-81589780.bild.html",
-      "image_title": "Nach BILD-Bericht: Erfurt-Spieler können wieder warm duschen"
-    },
-    {
-      "title": "Bei 100 km/h auf der Motorhaube : Betrunkener rast mit Tim kilometerweit über A 72",
-      "teaser": "Wie ein Stuntman springt ein Mann einem Unfallflüchtigen auf die Motorhaube.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-betrunkener-rast-mit-tim-kilometerweit-ueber-a-72-81578402.bild.html",
-      "image_title": "Unfall: Betrunkener rast kilometerweit über A 72"
-    }
-  ]
+  "articles": []
 }
