@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-13T08:33:48",
+  "timestamp": "2022-10-13T09:29:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3611967be3a49f899791",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.e1c9c26a17c87b0590d5",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Web-Meetings-Zoom-Updates-dichten-Schwachstellen-ab-7307138.html"
+    },
     {
       "title": "Aruba EdgeConnect Enterprise Orchestrator",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Kritische-Luecken-in-WAN-Managementsystem-von-Aruba-7307059.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-sechs-Sicherheitsluecken-in-Chrome-7305732.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Schadcode-Luecken-in-ColdFusion-Co-7305797.html"
+      "title": "Web-Meetings: Zoom-Updates dichten Schwachstellen ab",
+      "teaser": "Mit aktualisierter Software schließt Zoom Sicherheitslücken in den Clients und im On-Premise Meeting Connector. Angreifer könnten dadurch etwa stören.",
+      "url": "https://www.heise.de/news/Web-Meetings-Zoom-Updates-dichten-Schwachstellen-ab-7307138.html"
     },
     {
       "title": "Sicherheitsupdates: Kritische Lücken in WAN-Managementsystem von Aruba",
@@ -144,11 +149,6 @@
       "title": "Android und iOS betroffen: Mehr als 400 Apps stehlen Zugangsdaten",
       "teaser": "Facebook hat in diesem Jahr bereits mehr als 400 Apps ausfindig gemacht, die von arglosen Nutzern die Zugangsdaten zum sozialen Netzwerk abgreifen.",
       "url": "https://www.heise.de/news/Android-und-iOS-betroffen-Mehr-als-400-Apps-stehlen-Zugangsdaten-7290074.html"
-    },
-    {
-      "title": "Intel-CPU \"Alder Lake\": BIOS-Quellcode-Leak öffnet potenzielle Einfallstore",
-      "teaser": "Rund 6 GByte BIOS-Daten für die CPU-Generation Core i-12000 sind Intel abhandengekommen. Darin enthalten ist Code für Sicherheitsmechanismen wie Boot Guard.",
-      "url": "https://www.heise.de/news/Intel-CPU-Alder-Lake-BIOS-Quellcode-Leak-oeffnet-potenzielle-Einfallstore-7289262.html"
     },
     {
       "title": "heise Security Tour 2022",
