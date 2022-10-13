@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-13T06:02:54",
+  "timestamp": "2022-10-13T07:36:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,14 +48,14 @@
       "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-und-immer-noch-kein-Exchange-Patch-in-Sicht-7305736.html"
     },
     {
+      "title": "Schwachstelle in JavaScript-Sandbox vm2 erlaubt Ausbruch aus der Isolation",
+      "teaser": "Wer eine Version kleiner 3.9.11 von vm2 verwendet, sollte die Sandbox aktualisieren, da eine Schwachstelle das Ausführen von Remote-Code auf dem Host erlaubt.",
+      "url": "https://www.heise.de/news/Schwachstelle-in-JavaScript-Sandbox-vm2-erlaubt-Ausbruch-aus-der-Isolation-7306752.html"
+    },
+    {
       "title": "Fortinet-Patchday: Mehrere kritische Lücken geschlossen",
       "teaser": "Nachdem am Wochenende eine kritische Sicherheitslücke in Fortinet-Produkten bekannt wurde, hat das Unternehmen nun weitere Updates bereitgestellt.",
       "url": "https://www.heise.de/news/Fortinet-Patchday-Mehrere-kritische-Luecken-geschlossen-7306400.html"
-    },
-    {
-      "title": "Kontosperrung: Microsoft sperrt Passwort-Tester aus",
-      "teaser": "Die Windows-Updates zum Oktober-Patchday haben auch eine neue Funktion mitgebracht. Sie sperrt lokale Administratorkonten bei fehlerhaften Log-in-Versuchen.",
-      "url": "https://www.heise.de/news/Brute-Force-Angriffe-Microsoft-ruestet-Schutzmechanismus-nach-7306276.html"
     },
     {
       "title": "Schutzschild aus der Cloud: Google bekämpft unsichere Software-Lieferketten",
@@ -67,6 +67,16 @@
       "teaser": "Google hat ein Update für den Webbrowser Chrome veröffentlicht. Es schließt insgesamt sechs Sicherheitslücken, von denen ein hohes Risiko ausgeht.",
       "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-sechs-Sicherheitsluecken-in-Chrome-7305732.html",
       "image_title": "Google Chrome Update"
+    },
+    {
+      "title": "Patchday: Adobe schließt kritische Schadcode-Lücken in ColdFusion & Co.",
+      "teaser": "Wer Anwendungen von Adobe nutzt, sollte sie aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Schadcode-Luecken-in-ColdFusion-Co-7305797.html"
+    },
+    {
+      "title": "Patchday: Attacken auf Windows und immer noch kein Exchange-Patch in Sicht",
+      "teaser": "Microsoft hat Sicherheitsupdates für Azure, Office, Windows & Co. veröffentlicht. Eine Office-Lücke ist öffentlich bekannt, wird aber noch nicht attackiert.",
+      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Windows-und-immer-noch-kein-Exchange-Patch-in-Sicht-7305736.html"
     },
     {
       "title": "SAP-Patchday: 15 neue Sicherheitswarnungen im Oktober",
@@ -139,17 +149,6 @@
       "title": "Kundendaten aus dem Hack des Videospiel-Publishers 2K stehen zum Verkauf",
       "teaser": "Kriminelle bieten in einem Untergrundforum eine Datenbank mit persönlichen Daten von 2K-Kunden an. Die Liste soll 4 Millionen Einträge haben.",
       "url": "https://www.heise.de/news/Kundendaten-aus-dem-Hack-des-Videospiel-Publishers-2K-stehen-zum-Verkauf-7289182.html"
-    },
-    {
-      "title": "Groupware: Kritische Codeschmuggel-Lücke in Zimbra wird angegriffen",
-      "teaser": "Eine Sicherheitslücke in der Groupware Zimbra erlaubt Angreifern, Schadcode einzuschleusen. Die Schwachstelle wird inzwischen angegriffen. Ein Workaround hilft.",
-      "url": "https://www.heise.de/news/Groupware-Kritische-Codeschmuggel-Luecke-in-Zimbra-wird-angegriffen-7289104.html"
-    },
-    {
-      "title": "Verbraucherzentrale warnt vor Fake-Brennholz-Shops",
-      "teaser": "Die niedersächsische Verbraucherzentrale warnt vor vermehrt aufpoppenden gefälschten Shops für Brennholz oder Pellets. Sie locken mit günstigen Preisen.",
-      "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-Fake-Brennholz-Shops-7289050.html",
-      "image_title": "Birch,Firewood,Is,Burning.,An,Image,With,A,Selective,Focus."
     },
     {
       "title": "heise Security Tour 2022",
