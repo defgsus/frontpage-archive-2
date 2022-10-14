@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-14T08:33:51",
+  "timestamp": "2022-10-14T09:29:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.e1c9c26a17c87b0590d5",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.db89825fe20db67dcbf4",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Junos OS",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-und-Schadcode-Luecken-bedrohen-Junos-OS-7308353.html"
+    },
     {
       "title": "Zimbra",
       "url": "https://www.heise.de/news/Groupware-Zimbra-Updates-stopfen-mehrere-Sicherheitslecks-7307521.html"
@@ -44,19 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Kritische-Luecken-in-WAN-Managementsystem-von-Aruba-7307059.html"
     },
     {
-      "title": "Patchday Fortinet",
-      "url": "https://www.heise.de/news/Fortinet-Patchday-Mehrere-kritische-Luecken-geschlossen-7306400.html"
-    },
-    {
-      "title": "Schadcode in einer Linux-Umgebung effizient und sicher analysieren mit REMnux",
-      "teaser": "Mit dem Ubuntu-basierten Malware-Analyse-Toolkit REMnux kann man verschiedensten Dateiformaten unkompliziert auf den Zahn fühlen. Wir haben es ausprobiert.",
-      "url": "https://www.heise.de/ratgeber/REMnux-Schadcode-in-einer-Linux-Umgebung-effizient-und-sicher-analysieren-7286290.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "Gesundheitsnetz: CCC-Hacker entschlüsseln TI-Konnektor​ von CompuGroup Medical",
-      "teaser": "Nachdem CCC-Hacker Fluepke bereits den sicheren Speicher eines Secunet-Konnektors entschlüsselt hatte, nahm sich der CCC die \"KoCoBox\" von CGM vor. Mit Erfolg.​",
-      "url": "https://www.heise.de/news/Gesundheitsnetz-CCC-Hacker-entschluesseln-TI-Konnektor-von-CompuGroup-Medical-7305512.html"
+      "title": "Sicherheitsupdates: Root- und Schadcode-Lücken bedrohen Junos OS",
+      "teaser": "Das Netzwerkbetriebssystem Junos OS von Juniper ist verwundbar. Angreifer könnten Geräte attackieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-und-Schadcode-Luecken-bedrohen-Junos-OS-7308353.html"
     },
     {
       "title": "Groupware Zimbra: Updates stopfen mehrere Sicherheitslecks",
@@ -96,9 +90,19 @@
       "url": "https://www.heise.de/news/Schwachstelle-in-JavaScript-Sandbox-vm2-erlaubt-Ausbruch-aus-der-Isolation-7306752.html"
     },
     {
+      "title": "heise-Security-Webinar: Praktischer Datenschutz bei Backup und Protokollierung",
+      "teaser": "Der Spagat zwischen technischen Anforderungen und der Verpflichtung zu Datenschutz ist bei Backups und Log-Files besonders groß. Unsere Experten helfen dabei.",
+      "url": "https://www.heise.de/news/heise-Security-Webinar-Praktischer-Datenschutz-bei-Backup-und-Protokollierung-7306151.html"
+    },
+    {
       "title": "Fortinet-Patchday: Mehrere kritische Lücken geschlossen",
       "teaser": "Nachdem am Wochenende eine kritische Sicherheitslücke in Fortinet-Produkten bekannt wurde, hat das Unternehmen nun weitere Updates bereitgestellt.",
       "url": "https://www.heise.de/news/Fortinet-Patchday-Mehrere-kritische-Luecken-geschlossen-7306400.html"
+    },
+    {
+      "title": "Kontosperrung: Microsoft sperrt Passwort-Tester aus",
+      "teaser": "Die Windows-Updates zum Oktober-Patchday haben auch eine neue Funktion mitgebracht. Sie sperrt lokale Administratorkonten bei fehlerhaften Log-in-Versuchen.",
+      "url": "https://www.heise.de/news/Brute-Force-Angriffe-Microsoft-ruestet-Schutzmechanismus-nach-7306276.html"
     },
     {
       "title": "Schutzschild aus der Cloud: Google bekämpft unsichere Software-Lieferketten",
@@ -148,11 +152,6 @@
       "url": "https://www.heise.de/news/Trend-Micros-Schutzsoftware-Apex-One-ist-vielfaeltig-angreifbar-7304624.html"
     },
     {
-      "title": "Exchange Zero-Day-Lücke: Nochmals nachgebesserter Workaround",
-      "teaser": "Microsoft bessert den Workaround für die Zero-Day-Lücke in Exchange noch mal nach. Admins bleibt nur zu hoffen, dass die jetzige Regel bis zum Update hält.",
-      "url": "https://www.heise.de/news/Exchange-Zero-Day-Luecke-Nochmals-nachgebesserter-Workaround-7304522.html"
-    },
-    {
       "title": "heise Security Tour 2022",
       "teaser": "Lernen Sie, wie Sie Angriffe auf die IT erfolgreich abwehren. Denn IT-Sicherheit gewinnt immer weiter an Bedeutung. Steuern Sie jetzt aktiv gegen: Mit der heise-Security-Konferenz bereiten Sie sich und Ihre IT optimal auf die Gefahren durch Cybercrime vor.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.events.security.konf_sectour0922.lp-security.link.link"
@@ -175,7 +174,7 @@
     {
       "title": "Re: Desinfec't 2022 mit Bootlader Grub 2.06 startet nicht",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-2022-mit-Bootlader-Grub-2-06-startet-nicht/posting-41751003/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-2022-mit-Bootlader-Grub-2-06-startet-nicht/posting-41751756/show/"
     },
     {
       "title": "Re: Boot-Patch Tester gesucht",

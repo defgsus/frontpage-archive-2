@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-14T08:33:46",
+  "timestamp": "2022-10-14T09:28:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.e1c9c26a17c87b0590d5",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.db89825fe20db67dcbf4",
       "id": null,
       "text": null
     },
@@ -42,20 +42,37 @@
       "url": "https://www.heise.de/news/Millionen-Kundendaten-abgegriffen-Australischer-Netzbetreiber-Optus-am-Pranger-7280200.html"
     },
     {
-      "title": "Forschungsprojekt: Cyberangriffe auf KMU – ist Hacking so einfach?",
-      "teaser": "Härtungsmaßnahmen und gut gepatchte IT-Systeme sind die besten Verteidigungsstrategien, um Angriffe auf die IT-Systeme eines KMU zu verhindern.",
-      "url": "https://www.heise.de/hintergrund/Forschungsprojekt-Cyberangriffe-auf-KMU-ist-Hacking-so-einfach-7279171.html"
+      "title": "Gasspeicher in Deutschland: Füllstand automatisiert auslesen und anzeigen",
+      "teaser": "Wie steht es um die deutschen Gasreserven? Mit Python, einem Raspberry Pi und Datawrapper erstellen Sie ein Liniendiagramm, das immer die neusten Daten anzeigt.",
+      "url": "https://www.heise.de/ratgeber/Gasspeicher-Tagesaktuellen-Fuellstand-automatisiert-auslesen-und-anzeigen-7307495.html",
+      "image_title": "Natural,Gas,Tank,-,Lng,Or,Liquefied,Natural,Industrial,Spherical"
     },
     {
-      "title": "JavaScript-Frameworks: Angular, React, Vue und Svelte im Vergleich",
-      "teaser": "Welches JavaScript-Frameworks sollten Entwickler nutzen? Wir vergleichen Konzepte, Struktur, Implementierung und Workflows von Angular, React, Vue und Svelte.",
-      "url": "https://www.heise.de/hintergrund/JavaScript-Frameworks-Angular-React-Vue-und-Svelte-im-Vergleich-7271648.html"
+      "title": "Im Test: Linux-Desktop Gnome 43 mit überarbeiteten Schnelleinstellungen",
+      "teaser": "Das Gnome 43-Release kürzt den Weg zu den wichtigsten Einstellungen ab und verpasst dem Dateimanager mit der Grafikbibliothek GTK4 eine Frischzellenkur.",
+      "url": "https://www.heise.de/tests/Im-Test-Linux-Desktop-Gnome-43-mit-ueberarbeiteten-Schnelleinstellungen-7307631.html"
+    },
+    {
+      "title": ".NET 7.0 Release Candidate 2 erscheint mit Multi-Threading für WebAssembly",
+      "teaser": "Der Release Candidate 2 von .NET 7.0 erlaubt erstmals Multi-Threading für .NET-Code im Browser, der auf Basis von WebAssembly läuft.",
+      "url": "https://www.heise.de/news/NET-7-0-Release-Candidate-2-erscheint-mit-Multi-Threading-fuer-WebAssembly-7308379.html",
+      "image_title": "Microsoft-Zentrale in München"
+    },
+    {
+      "title": "Sicherheitsupdates: Root- und Schadcode-Lücken bedrohen Junos OS",
+      "teaser": "Das Netzwerkbetriebssystem Junos OS von Juniper ist verwundbar. Angreifer könnten Geräte attackieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-und-Schadcode-Luecken-bedrohen-Junos-OS-7308353.html"
     },
     {
       "title": "iX-Workshop: Microsoft 365 sicher und datenschutzfreundlich konfigurieren",
       "teaser": "Die Cloudvariante von Microsofts Office-Paket sicher und gemäß der eigenen Compliance-Regeln einsetzen – Tagesworkshop; bis 1.11. mit 10% Frühbucherrabatt.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-und-datenschutzfreundlich-konfigurieren-7304672.html",
       "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
+    },
+    {
+      "title": "Forschungsprojekt: Cyberangriffe auf KMU – ist Hacking so einfach?",
+      "teaser": "Härtungsmaßnahmen und gut gepatchte IT-Systeme sind die besten Verteidigungsstrategien, um Angriffe auf die IT-Systeme eines KMU zu verhindern.",
+      "url": "https://www.heise.de/hintergrund/Forschungsprojekt-Cyberangriffe-auf-KMU-ist-Hacking-so-einfach-7279171.html"
     },
     {
       "title": "TSMC trotzt der Chipkrise: 12,2 Milliarden US-Dollar Gewinn",
@@ -79,6 +96,11 @@
       "teaser": "Lernen Sie, wie Sie mit Docker, Kubernetes und Podman Container und Hostsysteme sicher gegen Angriffe konfigurieren. Mit 10% Frühbucherrabatt bis 26.10.",
       "url": "https://www.heise.de/news/Neu-im-iX-Workshop-Programm-Container-sicher-betreiben-7304819.html",
       "image_title": "iX-Workshop Containerbetrieb absichern"
+    },
+    {
+      "title": "JavaScript-Frameworks: Angular, React, Vue und Svelte im Vergleich",
+      "teaser": "Welches JavaScript-Frameworks sollten Entwickler nutzen? Wir vergleichen Konzepte, Struktur, Implementierung und Workflows von Angular, React, Vue und Svelte.",
+      "url": "https://www.heise.de/hintergrund/JavaScript-Frameworks-Angular-React-Vue-und-Svelte-im-Vergleich-7271648.html"
     },
     {
       "title": "Batterie auf vier Räder: E-Autos als privater Energiepuffer",
@@ -114,29 +136,6 @@
       "teaser": "Von Sperrbildschirmen mit wechselnden Hintergründen bis hin zu flexiblerem Training mit der Watch: 15 Tipps, um iOS 16 und watchOS 9 optimal einzusetzen.",
       "url": "https://www.heise.de/ratgeber/iOS-16-und-watchOS-9-Tipps-und-Tricks-zu-den-besten-Neuerungen-7307692.html",
       "image_title": "iOS 16 und watchOS 9"
-    },
-    {
-      "title": "1Password 8: Update für die Apple Watch",
-      "teaser": "1Password hat seine App für die Apple Watch runderneuert. Nutzer können zum Beispiel oft genutzt Zwei-Faktor-Codes als Komplikation im Zifferblatt hinterlegen.",
-      "url": "https://www.heise.de/news/Passwortmanager-1Password-mit-neuer-App-fuer-die-Apple-Watch-7307845.html"
-    },
-    {
-      "title": "Linux-Distribution: KaOS 22.10 aktualisiert Pakete",
-      "teaser": "Die Linux-Distribution KaOS bringt in der Version 22.10 aktualisierte Pakete mit. Arbeit wanderte in den Installer. Unterstützung für ZFS wird vorbereitet.",
-      "url": "https://www.heise.de/news/Linux-Distribution-KaOS-22-10-aktualisiert-Pakete-7307664.html",
-      "image_title": "KaOS-Desktop"
-    },
-    {
-      "title": "Groupware Zimbra: Updates stopfen mehrere Sicherheitslecks",
-      "teaser": "In der Groupware Zimbra beheben die Entwickler mehrere sicherheitsrelevante Fehler. Angreifer könnten die Instanz kompromittieren oder ihre Rechte ausweiten.",
-      "url": "https://www.heise.de/news/Groupware-Zimbra-Updates-stopfen-mehrere-Sicherheitslecks-7307521.html",
-      "image_title": "Aktuelle Spam-Mails verteilen Ransomware im Namen des BSI"
-    },
-    {
-      "title": "Tipps zu iOS 16 und macOS 13 im Podcast von Mac & i",
-      "teaser": "Wie rund laufen Apples neue Systeme, was bringt Stage Manager und wo verstecken sich praktische Funkionen? Das klärt unsere neue Podcast-Episode.",
-      "url": "https://www.heise.de/news/Tipps-zu-iOS-16-und-macOS-13-im-Podcast-von-Mac-i-7307355.html",
-      "image_title": "Mac & i Podcast – Tipps zu iOS 16 & Co"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
