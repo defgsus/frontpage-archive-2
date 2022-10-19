@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-19T12:58:10",
+  "timestamp": "2022-10-19T14:04:01",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -14,11 +14,26 @@
   ],
   "articles": [
     {
+      "title": "Das Ende einer Berliner Verkehrsillusion",
+      "url": "https://www.welt.de/politik/deutschland/plus241671399/Friedrichstrasse-Berlin-Ende-einer-Verkehrsillusion.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile241671737/0992503097-ci102l-w1024/Autofreie-Friedrichstrasse-soll-fuer-Radfahrer-gesperrt-werden.jpg",
+      "image_title": "Viele Radfahrer sind in der Friedrichstraße mit höheren Geschwindigkeiten unterwegs, als manchem Fußgänger lieb ist",
+      "topic": "Mobilität in Großstädten",
+      "author": "Matthias Kamann"
+    },
+    {
       "title": "Panorama",
       "url": "https://www.welt.de/vermischtes/",
       "image_url": "https://img.welt.de/img/vermischtes/mobile241658547/4442508037-ci102l-w1024/Zwei-Tote-bei-Messerangriff-in-Ludwigshafen.jpg",
       "image_title": "Im Ludwigshafener Stadtteil Oggersheim ist eine Straße abgesperrt",
       "topic": "Rheinland-Pfalz"
+    },
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile241665287/9402505667-ci102l-w1024/Einkauf.jpg",
+      "image_title": "Lebensmittel im Einkaufswagen von Aldi Nord",
+      "topic": "Energiekrise"
     },
     {
       "title": "Nordrhein-Westfalen",
@@ -34,21 +49,6 @@
       "image_url": "https://img.welt.de/img/vermischtes/mobile241670991/6622500197-ci102l-w1024/Premiere-des-Kinofilms-Die-Fussbroichs.jpg",
       "image_title": "Premiere des Kinofilms Die Fussbroichs",
       "topic": "Bekannt aus WDR-Serie"
-    },
-    {
-      "title": "Panorama",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile241667577/0662502337-ci102l-w1024/Derzeit-neun-gefaehrliche-Orte-in-Schleswig-Holstein.jpg",
-      "image_title": "Derzeit neun gefährliche Orte in Schleswig-Holstein",
-      "topic": "Dortmund"
-    },
-    {
-      "title": "„CDU, SPD, Grüne und FDP in der Minderheit – das ist in keinem anderen Bundesland so“",
-      "url": "https://www.welt.de/politik/deutschland/plus241663105/Thueringen-Gesellschaftliche-Spaltung-Das-ist-in-keinem-anderen-Bundesland-so.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile241663103/6412503177-ci102l-w1024/Gemaelde-aus-dem-Gothaer-Kunstraub.jpg",
-      "image_title": "Knut Kreuch (SPD), 55, Oberbürgermeister von Gotha",
-      "topic": "Radikalisierung in Thüringen",
-      "author": "Kevin Culina"
     },
     {
       "title": "Hamburg",
@@ -110,8 +110,15 @@
       "author": "Nikolaus Doll"
     },
     {
-      "title": "Nordrhein-Westfalen",
-      "url": "https://www.welt.de/regionales/nrw/",
+      "title": "Panorama",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile241667577/0662502337-ci102l-w1024/Derzeit-neun-gefaehrliche-Orte-in-Schleswig-Holstein.jpg",
+      "image_title": "Derzeit neun gefährliche Orte in Schleswig-Holstein",
+      "topic": "Dortmund"
+    },
+    {
+      "title": "„Ich konnte nicht erkennen, dass er getäuscht hatte“",
+      "url": "https://www.welt.de/regionales/nrw/article241667575/Freispruch-fuer-Autofahrer-Klotz-auf-eigenes-Auto-geworfen.html",
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile241667573/4732509437-ci102l-w1024/Prozess-Beckum-mutmasslich-vorgetaeuschter-Wurf-auf-Auto.jpg",
       "image_title": "Die Staatsanwaltschaft Beckum wirft dem Angeklagten das Vortäuschen einer Straftat vor",
       "topic": "Freispruch für Autofahrer"
@@ -131,13 +138,6 @@
       "image_title": "WELT-Autor Stoldt meint: Bisher beißt sich die Polizei in NRW an Automatensprenger-Banden die Zähne aus",
       "topic": "Automatensprenger-Banden",
       "author": "Till-Reimer Stoldt"
-    },
-    {
-      "title": "Ministerpräsident Wüst spricht in Den Haag über Energiethemen",
-      "url": "https://www.welt.de/regionales/nrw/article241650143/Mit-Audienz-beim-Koenig-Ministerpraesident-Wuest-spricht-in-Den-Haag-ueber-Energiethemen.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile241650141/7992501747-ci102l-w1024/Ministerpraesident-Wuest-besucht-Niederlande.jpg",
-      "image_title": "NRW-Ministerpräsident Wüst beim Antrittsbesuch in den Niederlanden",
-      "topic": "Audienz beim König"
     },
     {
       "title": "Weltgeschehen",
@@ -300,6 +300,14 @@
       "topic": "Rainer Robra"
     },
     {
+      "title": "„CDU, SPD, Grüne und FDP in der Minderheit – das ist in keinem anderen Bundesland so“",
+      "url": "https://www.welt.de/politik/deutschland/plus241663105/Thueringen-Gesellschaftliche-Spaltung-Das-ist-in-keinem-anderen-Bundesland-so.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Knut Kreuch (SPD), 55, Oberbürgermeister von Gotha",
+      "topic": "Radikalisierung in Thüringen",
+      "author": "Kevin Culina"
+    },
+    {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -313,13 +321,6 @@
       "image_title": "Das Bauhaus-Hotel \"Haus des Volkes\" in Probstzella, Thüringen: Die Gestaltung des Treppenhauses orientiert sich an den Farbvorlagen von Alfred Arndt",
       "topic": "Probstzella",
       "author": "Anke Kotte"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Mark Hauptmann war von 2013 bis März 2021 Mitglied des Bundestages",
-      "topic": "Maskenaffäre"
     },
     {
       "title": "Ostsee",
