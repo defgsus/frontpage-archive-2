@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-20T08:34:21",
+  "timestamp": "2022-10-20T09:31:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Apache Commons Text",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache-Commons-Text-7314381.html"
+    },
+    {
       "title": "Patchday Oracle",
       "url": "https://www.heise.de/news/Patchday-Oracle-liefert-370-Sicherheitsupdates-im-Oktober-7314209.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Support-Ende-fuer-VMware-ESXi-6-5-und-6-7-noch-viele-Alt-Systeme-aktiv-7310412.html"
     },
     {
-      "title": "Linux-Kernel",
-      "url": "https://www.heise.de/news/Schwachstelle-im-Linux-Kernel-ermoeglicht-Codeschmuggel-im-WLAN-7309762.html"
+      "title": "Kritische Sicherheitslücke in Apache Commons Text",
+      "teaser": "In der String-Verarbeitungskomponente Apache Commons Text klafft eine kritische Sicherheitslücke. Angreifer könnten durch sie Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache-Commons-Text-7314381.html"
     },
     {
       "title": "Patchday: Oracle liefert 370 Sicherheitsupdates im Oktober",
@@ -144,11 +149,6 @@
       "title": "Schwachstelle in JavaScript-Sandbox vm2 erlaubt Ausbruch aus der Isolation",
       "teaser": "Wer eine Version kleiner 3.9.11 von vm2 verwendet, sollte die Sandbox aktualisieren, da eine Schwachstelle das Ausführen von Remote-Code auf dem Host erlaubt.",
       "url": "https://www.heise.de/news/Schwachstelle-in-JavaScript-Sandbox-vm2-erlaubt-Ausbruch-aus-der-Isolation-7306752.html"
-    },
-    {
-      "title": "heise-Security-Webinar: Praktischer Datenschutz bei Backup und Protokollierung",
-      "teaser": "Der Spagat zwischen technischen Anforderungen und der Verpflichtung zu Datenschutz ist bei Backups und Log-Files besonders groß. Unsere Experten helfen dabei.",
-      "url": "https://www.heise.de/news/heise-Security-Webinar-Praktischer-Datenschutz-bei-Backup-und-Protokollierung-7306151.html"
     },
     {
       "title": "Kommentar: BSI unter Beschuss – Böhmermann und Faeser sägen an Schönbohms Stuhl",
