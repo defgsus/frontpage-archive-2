@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-20T11:24:07",
+  "timestamp": "2022-10-20T12:55:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://cmp.heise.de/wrapperMessagingWithoutDetection.js",
+      "src": "https://cmp.heise.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,12 +19,17 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.0172d8c20df542a945a2",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.ca45d1fb9031fbd02b73",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Next Gen Thunderbolt: USB4 Version 2.0 mit hohen Anforderungen",
+      "teaser": "Vieles, was bei USB4 Version 2.0 optional ist, macht Intel mit der nächsten Thunderbolt-Version verpflichtend, darunter ein extra flotter 120-Gbit/s-Modus.",
+      "url": "https://www.heise.de/news/Next-Gen-Thunderbolt-USB4-Version-2-0-mit-hohen-Anforderungen-7313966.html"
+    },
     {
       "title": "Innenministerium stellt BSI-Chef Schönbohm frei",
       "teaser": "Innenministerin Nancy Faeser (SPD) hat den Präsidenten des Bundesamts für Sicherheit in der Informationstechnik nach den jüngst erhobenen Vorwürfen abberufen.",
@@ -37,9 +42,10 @@
       "url": "https://www.heise.de/news/Gematik-reagiert-auf-CCC-Hack-Geraetetausch-bleibt-kurzfristig-beste-Loesung-7310940.html"
     },
     {
-      "title": "Neue US-Sanktionen haben das Potenzial, Chinas Halbleiterbranche abzuschlachten",
-      "teaser": "Die USA isolieren China von der restlichen Halbleiterwelt, was die moderne Chipfertigung angeht. Der kurzfristige Schaden ist enorm.",
-      "url": "https://www.heise.de/news/Neue-US-Sanktionen-haben-das-Potenzial-Chinas-Halbleiterbranche-abzuschlachten-7309772.html"
+      "title": "Verschwendung vermeiden: Vorräte und Einkäufe clever planen mit Apps",
+      "teaser": "Spezielle Smartphone-Anwendungen helfen, Vorräte bedarfsgerecht aufzustocken und die Haltbarkeit im Blick zu behalten. Drei haben wir ausprobiert.",
+      "url": "https://www.heise.de/ratgeber/Verschwendung-vermeiden-Vorraete-und-Einkaeufe-clever-planen-mit-Apps-7312043.html",
+      "image_title": "Supermarket,Aisle,With,Empty,Red,Shopping,Cart."
     },
     {
       "title": "FAQ: Wie sicher sind macOS, iPadOS und iOS?",
@@ -48,9 +54,41 @@
       "image_title": ", Olemedia, iStock.com; freepik.com; Montage: Mac & i"
     },
     {
-      "title": "Microsoft 365 im Unternehmen sicher einsetzen: Datenschutzrisiken minimieren",
-      "teaser": "Wer eine Datenschutz-Folgenabschätzung nach DSGVO für MS 365 vornimmt, kann das Risiko beurteilen und ist beim Einsatz vonCloud-Anwendungen abgesichert.",
-      "url": "https://www.heise.de/hintergrund/Microsoft-365-im-Unternehmen-sicher-einsetzen-Datenschutzrisiken-minimieren-7310753.html"
+      "title": "Alternative zu Slack und Discord: Was Linen von der Konkurrenz unterscheidet",
+      "teaser": "Die Slack- und Discord-Alternative Linen macht öffentliche Beiträge auch auf Google auffindbar. t3n erklärt, was die Open-Source-Software sonst noch alles kann.",
+      "url": "https://t3n.de/news/slack-discord-alternative-linen-open-source-1507183/",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "Datadog: Tests nerven alle Entwickler – aber wir haben da was",
+      "teaser": "Software-Entwicklung ist zunehmend ein Flaschenhals bei Digitalisierungsprojekten. Datadogs neue Tools sollen insbesondere die ausufernden Tests beschleunigen.",
+      "url": "https://www.heise.de/news/Datadog-Tests-nerven-alle-Entwickler-aber-wir-haben-da-was-7314896.html"
+    },
+    {
+      "title": "Jetzt Frühbucherrabatt für den IT-Sicherheitstag in Gelsenkirchen sichern",
+      "teaser": "Der IT-Sicherheitstag findet am 17. November in Gelsenkirchen statt. Im Zentrum der Vorträge stehen Security-Angriffe und ihre erfolgreichen Gegenmaßnahmen.",
+      "url": "https://www.heise.de/news/Jetzt-Fruehbucherrabatt-fuer-den-IT-Sicherheitstag-in-Gelsenkirchen-sichern-7314376.html"
+    },
+    {
+      "title": "Oracle vereinfacht Bereitstellung Cloud-nativer Anwendungen",
+      "teaser": "Als Reaktion auf Wünsche seiner Kunden führt Oracle die neuen Dienste OCI Container Instances und OCI Container Engine for Kubernetes für Cloud-native Apps ein.",
+      "url": "https://www.heise.de/news/Oracle-vereinfacht-Bereitstellung-Cloud-nativer-Anwendungen-7314821.html"
+    },
+    {
+      "title": "\"KI? Ich bin lieber Teil davon als abgehängt\": Interview mit einem Investor",
+      "teaser": "Stability AI hat eine große Finanzierungsrunde hinter sich, und KI hat Konjunktur. Wir müssen den Umgang mit Technologie neu denken, sagt Investor Nils Seele.",
+      "url": "https://www.heise.de/meinung/KI-Ich-bin-lieber-Teil-davon-als-abgehaengt-Interview-mit-einem-Investor-7314725.html"
+    },
+    {
+      "title": "Aqara Radiator E1 im Test: Smartes Heizkörperthermostat mit Homekit",
+      "teaser": "Das Aqara Radiator Thermostat E1 ist kompatibel zu Homekit, unterstützt Geofencing und kann mit externen Sensoren aus dem Aqara-Kosmos gekoppelt werden.",
+      "url": "https://www.techstage.de/test/aqara-radiator-e1-im-test-smartes-heizkoerperthermostat-mit-homekit/g7see52?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "WhatsApp: Aktueller Online-Status lässt sich mit Update verbergen",
+      "teaser": "Ein Update von WhatsApp lässt Nutzer den Online-Status verbergen, beim Verlassen einer Gruppe werden nur noch Admins benachrichtigt.",
+      "url": "https://www.heise.de/news/WhatsApp-Aktueller-Online-Status-laesst-sich-mit-Update-verbergen-7314669.html"
     },
     {
       "title": "software-architektur.tv: Folge mit Christoph Iserlohn – Architektur und Security",
@@ -93,43 +131,6 @@
       "title": "Windows 10: Microsoft verteilt 22H2-Update für alle",
       "teaser": "Nachdem Windows-11-Nutzer bereits in den Genuss des 22H2-Updates gekommen sind, erhalten auch Windows-10-Nutzer das Jahres-Feature-Update.",
       "url": "https://www.heise.de/news/Windows-10-Microsoft-verteilt-22H2-Update-fuer-alle-7314241.html"
-    },
-    {
-      "title": "Online-Workshop Social Media: Erfolgreich posten auf Instagram, Twitter & Co.",
-      "teaser": "In drei Workshops lernen Social-Media-Verantwortliche, wie sie mit gezielten Mitteln und Maßnahmen den Auftritt professioneller und erfolgreicher gestalten.",
-      "url": "https://www.heise.de/news/Online-Workshop-Social-Media-Erfolgreich-posten-auf-Instagram-Twitter-Co-7313174.html"
-    },
-    {
-      "title": "Cloud-Nativ entwickeln mit Go: Vorteile an einem Beispiel erklärt",
-      "teaser": "Go eignet sich zum Cloud-nativen Entwickeln von Anwendungen. Die Runtime ist schlank und erlaubt, ressourcenschonend zu skalieren.",
-      "url": "https://www.heise.de/ratgeber/Cloud-Nativ-entwickeln-mit-Go-Vorteile-an-einem-Beispiel-erklaert-7310553.html"
-    },
-    {
-      "title": "Microsoft Dev Box im Test: Entwickler-Workstation aus der Cloud",
-      "teaser": "Wenige Klicks sollen genügen, damit mit einer Dev Box für Programmierer eine passende VM bereitsteht. Es funktioniert, doch der Weg dahin ist steinig.",
-      "url": "https://www.heise.de/ratgeber/Microsoft-Dev-Box-im-Test-Entwickler-Workstation-aus-der-Cloud-7310400.html"
-    },
-    {
-      "title": "Patchday: Oracle liefert 370 Sicherheitsupdates im Oktober",
-      "teaser": "Zum Patchday, Critical Patch Update genannt, liefert Oracle eine lange Liste an Produkten mit Sicherheitslücken. 370 Updates schließen die Schwachstellen.",
-      "url": "https://www.heise.de/news/Patchday-Oracle-liefert-370-Sicherheitsupdates-im-Oktober-7314209.html"
-    },
-    {
-      "title": "#heiseshow: Digitales Gesundheitswesen – kein Anschluss mit diesen Konnektoren?",
-      "teaser": "Der CCC hat gezeigt: Ein teurer Austausch von Hardware-Routern in Arztpraxen ist überflüssig. Was es mit der Telematikinfrastruktur auf sich hat und wo es hakt.",
-      "url": "https://www.heise.de/news/heiseshow-Digitales-Gesundheitswesen-kein-Anschluss-mit-diesen-Konnektoren-7313849.html",
-      "image_title": "#heiseshow, live ab 12 Uhr: Shariff, Embetty, bald Safari – Was tun gegen Tracking?"
-    },
-    {
-      "title": "FAQ: Gesperrte VBA-Makros in Microsoft Office",
-      "teaser": "Nach längerem Hin und Her hat Microsoft nun doch einen rigorosen Makroschutz für Office-Dateien aus dem Internet oder Mail-Anhängen aktiviert.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Gesperrte-VBA-Makros-in-Microsoft-Office-7285065.html"
-    },
-    {
-      "title": "Starlink offeriert Breitband-Internet im Flugzeug - laut Musk \"wie zu Hause\"",
-      "teaser": "Flugzeugbesitzer können das Satelliten-Internet mit hoher Bandbreite und niedriger Latenz jetzt vorbestellen. SpaceX verspricht die Lieferung ab Mitte 2023.",
-      "url": "https://www.heise.de/news/Starlink-offeriert-Breitband-Internet-im-Flugzeug-laut-Musk-wie-zu-Hause-7314177.html",
-      "image_title": "Starlink Aviation Aero Terminal auf dem Flugzeug"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
