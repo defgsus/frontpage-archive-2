@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-21T04:17:44",
+  "timestamp": "2022-10-21T05:50:55",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Sabotage bei der Bahn: Viele vertrauliche Infos sind offen zugänglich",
+      "teaser": "Mit wenigen Schnitten durch Glasfaserkabel haben Angreifer Teile des Eisenbahnnetzes lahmgelegt. Das wirft Fragen zur Sicherheit kritischer Infrastruktur auf.",
+      "url": "https://www.heise.de/news/Sabotage-bei-der-Bahn-Viele-vertrauliche-Infos-sind-offen-zugaenglich-7307277.html"
+    },
+    {
       "title": "Next Gen Thunderbolt: USB4 Version 2.0 mit hohen Anforderungen",
       "teaser": "Vieles, was bei USB4 Version 2.0 optional ist, macht Intel mit der nächsten Thunderbolt-Version verpflichtend, darunter ein extra flotter 120-Gbit/s-Modus.",
       "url": "https://www.heise.de/news/Next-Gen-Thunderbolt-USB4-Version-2-0-mit-hohen-Anforderungen-7313966.html"
@@ -37,21 +42,27 @@
       "image_title": "Schönbohm"
     },
     {
-      "title": "Gematik und CGM reagieren auf CCC-Hack: Hardware zu alt",
-      "teaser": "Die Gematik GmbH reagiert auf das Angebot des CCC: Trotz bereitgestelltem Software-Update bleibe der Gerätetausch zunächst die beste Lösung.",
-      "url": "https://www.heise.de/news/Gematik-reagiert-auf-CCC-Hack-Geraetetausch-bleibt-kurzfristig-beste-Loesung-7310940.html"
+      "title": "Mit Tool detaillierte Informationen über Domains und IP-Adressen herausfinden",
+      "teaser": "Das Kommandozeilenwerkzeug wtfis verrät, was hinter einer Domain oder IP-Adresse steckt. Wir erklären, wie Sie das Tool installieren und konfigurieren.",
+      "url": "https://www.heise.de/ratgeber/Mit-Tool-detaillierte-Informationen-ueber-Domains-und-IP-Adressen-herausfinden-7313484.html"
     },
     {
-      "title": "Intel-CPUs Core i9-13900K und i5-13600K im Test: Mehr Kerne, Takt und Cache",
-      "teaser": "Intel will mit Raptor Lake die Leistung steigern und gegen AMDs Ryzen 7000 auftrumpfen. Wir haben die Prozessoren auf Preis, Leistung und Effizienz getestet.",
-      "url": "https://www.heise.de/tests/Intel-CPUs-Core-i9-13900K-und-i5-13600K-im-Test-Mehr-Kerne-Takt-und-Cache-7313079.html",
-      "image_title": ","
+      "title": "Rechner für Doppelkopf programmieren: Google Tabellen mit Skripten erweitern",
+      "teaser": "Wo Standardfunktionen der Google Tabellenkalkulation nicht ausreichen, pimpen Skripte der Programmierumgebung Apps Script die Tabellen auf. Ein Beispiel.",
+      "url": "https://www.heise.de/ratgeber/Rechner-fuer-Doppelkopf-programmieren-Google-Tabellen-mit-Skripten-erweitern-7311548.html",
+      "image_title": ", Thomas Kuhlenbeck"
     },
     {
-      "title": "Verschwendung vermeiden: Vorräte und Einkäufe clever planen mit Apps",
-      "teaser": "Spezielle Smartphone-Anwendungen helfen, Vorräte bedarfsgerecht aufzustocken und die Haltbarkeit im Blick zu behalten. Drei haben wir ausprobiert.",
-      "url": "https://www.heise.de/ratgeber/Verschwendung-vermeiden-Vorraete-und-Einkaeufe-clever-planen-mit-Apps-7312043.html",
-      "image_title": "Supermarket,Aisle,With,Empty,Red,Shopping,Cart."
+      "title": "Fritzbox-VPN: Was WireGuard ausmacht und wie man es konfiguriert",
+      "teaser": "FritzOS 7.50 bringt die schnelle und zugleich komfortable VPN-Technik WireGuard mit. Das erleichtert den Homeoffice-Betrieb, Fernwartungen und Filialkopplungen.",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-VPN-Was-WireGuard-ausmacht-und-wie-man-es-konfiguriert-7313143.html",
+      "image_title": ", Michael Vogt"
+    },
+    {
+      "title": "Firmware-Update für Fritzboxen: Was das Router-Betriebssystem FritzOS 7.50 kann",
+      "teaser": "Auf FritzOS 7.50 dürfen sich Fritzbox-Nutzer freuen: Es bringt mehr Wumms ins VPN, macht das Telefonieren komfortabler und das Smart Home schlauer.",
+      "url": "https://www.heise.de/ratgeber/Firmware-Update-fuer-Fritzboxen-Was-das-Router-Betriebssystem-FritzOS-7-50-kann-7311838.html",
+      "image_title": ", Michael Vogt"
     },
     {
       "title": "WinGet installiert Anwendungen nicht vollständig",
@@ -120,17 +131,6 @@
       "title": "Open-Source-Datenanalyse: Apache Iceberg erreicht Version 1.0",
       "teaser": "Die Version 1.0 des Open-Source-Projekts Apache Iceberg bietet nicht nur mehr Stabilität bei den APIs, sondern nun auch einen Standard-REST-API-Katalog.",
       "url": "https://www.heise.de/news/Open-Source-Datenanalyse-Apache-Iceberg-erreicht-Version-1-0-7313869.html"
-    },
-    {
-      "title": "All-in-one-Lösungen für Handwerk und Bau: Handwerker-Software in der Übersicht",
-      "teaser": "Rechnungen, Auftragskalkulationen, Angebotserstellung: Mit passender Software lassen sich im Handwerk Prozesse optimieren und Aufgaben vereinfachen.",
-      "url": "https://www.heise.de/download/specials/Handwerkersoftware-im-Vergleich-7206873",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Microsoft liefert Updates gegen SSL-/TLS-Probleme durch Windows-Updates",
-      "teaser": "Die aktuellen Windows-Updates für Windows 10, 11 und Server könnten Probleme bei SSL- und TLS-Verschlüsselung verursachen. Teils helfen weitere Patches dagegen.",
-      "url": "https://www.heise.de/news/Microsoft-liefert-Updates-gegen-SSL-TLS-Probleme-durch-Windows-Updates-7314906.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
