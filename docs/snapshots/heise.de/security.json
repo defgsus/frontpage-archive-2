@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-21T12:54:36",
+  "timestamp": "2022-10-21T14:02:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Synology DSM",
+      "url": "https://www.heise.de/news/Synology-Kritische-Luecken-in-NAS-erlauben-Angreifern-Ausfuehren-von-Schadcode-7316623.html"
+    },
+    {
       "title": "F5 BIG-IP & Nginx",
       "url": "https://www.heise.de/news/F5-BIG-IP-und-Nginx-Hersteller-stopft-teils-kritische-Sicherheitsluecken-7316039.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache-Commons-Text-7314381.html"
     },
     {
-      "title": "Patchday Oracle",
-      "url": "https://www.heise.de/news/Patchday-Oracle-liefert-370-Sicherheitsupdates-im-Oktober-7314209.html"
+      "title": "Synology: Kritische Lücken in NAS erlauben Angreifern Ausführen von Schadcode",
+      "teaser": "Synology warnt vor kritischen Sicherheitslücken in der DSM-Software einiger NAS. Angreifer könnten Schadode ausführen und unbefugt an Informationen gelangen.",
+      "url": "https://www.heise.de/news/Synology-Kritische-Luecken-in-NAS-erlauben-Angreifern-Ausfuehren-von-Schadcode-7316623.html"
     },
     {
       "title": "BSI-Affäre um Schönbohm: Im Visier der Geheimdienste",
@@ -143,11 +148,6 @@
       "title": "Gesundheitsnetz: CCC-Hacker entschlüsseln TI-Konnektor​ von CompuGroup Medical",
       "teaser": "Nachdem CCC-Hacker Fluepke bereits den sicheren Speicher eines Secunet-Konnektors entschlüsselt hatte, nahm sich der CCC die \"KoCoBox\" von CGM vor. Mit Erfolg.​",
       "url": "https://www.heise.de/news/Gesundheitsnetz-CCC-Hacker-entschluesseln-TI-Konnektor-von-CompuGroup-Medical-7305512.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Root- und Schadcode-Lücken bedrohen Junos OS",
-      "teaser": "Das Netzwerkbetriebssystem Junos OS von Juniper ist verwundbar. Angreifer könnten Geräte attackieren. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-und-Schadcode-Luecken-bedrohen-Junos-OS-7308353.html"
     },
     {
       "title": "Kommentar: BSI unter Beschuss – Böhmermann und Faeser sägen an Schönbohms Stuhl",
