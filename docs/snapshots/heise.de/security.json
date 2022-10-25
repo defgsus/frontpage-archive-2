@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-25T11:23:50",
+  "timestamp": "2022-10-25T12:57:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Webkonferenzen-Sicherheitsluecke-in-Zoom-ermoeglicht-Sitzungsuebernahme-7319974.html"
+    },
+    {
       "title": "Cisco Identity Services Engine",
       "url": "https://www.heise.de/news/Cisco-ISE-Angreifer-koennten-Kontrolle-uebernehmen-7317442.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/F5-BIG-IP-und-Nginx-Hersteller-stopft-teils-kritische-Sicherheitsluecken-7316039.html"
     },
     {
-      "title": "LibreOffice-Makros",
-      "url": "https://www.heise.de/news/Jetzt-updaten-LibreOffice-beseitigt-kritische-Makroluecke-7315313.html"
+      "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern",
+      "teaser": "Lernen Sie mit vielen Praxisbespielen, wie Sie Windows 10 und 11 (Pro und Enterprise) in Ihrem Unternehmen sicher betreiben. Mit 10% Frühbucherrabatt bis 7.11.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-7317793.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Webkonferenzen: Sicherheitslücke in Zoom ermöglicht Sitzungsübernahme",
+      "teaser": "Zoom warnt vor einer Sicherheitslücke, durch die Angreifer Opfer etwa auf falsche Server locken und so Sitzungen übernehmen könnten. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Webkonferenzen-Sicherheitsluecke-in-Zoom-ermoeglicht-Sitzungsuebernahme-7319974.html"
     },
     {
       "title": "Zero-Day-Fehler im Kernel von iOS und iPadOS wird ausgenutzt",
@@ -141,14 +152,10 @@
       "url": "https://www.heise.de/news/Microsoft-pfuscht-bei-Windows-Kernel-Sicherheit-und-Ransomware-profitiert-7313348.html"
     },
     {
-      "title": "Krankenversicherer gehackt: Angreifer wollen 1000 betroffene Promis kontaktieren",
-      "teaser": "Medibank gehört in Australien zu den größten Krankenversicherern. Mutmaßliche Hacker wollen von dem nun mit einer neuen Methode Geld erpressen.",
-      "url": "https://www.heise.de/news/Krankenversicherer-gehackt-Angreifer-wollen-1000-betroffene-Promis-kontaktieren-7313388.html"
-    },
-    {
-      "title": "AMD, Google, Microsoft, Nvidia: Offengelegter Sicherheitsprozessor Caliptra",
-      "teaser": "Branchenschwergewichte setzen auf RISC-V-Technik für offengelegte Hardware-Security. Sie könnte Black-Box-Umsetzungen wie Microsofts Pluton ersetzen.",
-      "url": "https://www.heise.de/news/AMD-Google-Microsoft-Nvidia-Open-Source-Sicherheitsprozessor-statt-Black-Box-7313272.html"
+      "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
+      "teaser": "Erfahren Sie mehr über den datenschutzkonformen Umgang mit Backups und Protokollierungen, die Erstellung von Löschkonzepten und lernen Sie, passende technische Löschmethoden anzuwenden.",
+      "url": "https://webinare.heise.de/archivierung/?wt_mc=intern.events.security.web_archivierung_backups.hs_teaser.link.link",
+      "image_title": "Webinar"
     },
     {
       "title": "Kommentar: BSI unter Beschuss – Böhmermann und Faeser sägen an Schönbohms Stuhl",
