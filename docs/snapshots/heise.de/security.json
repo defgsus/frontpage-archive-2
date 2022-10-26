@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-26T06:33:29",
+  "timestamp": "2022-10-26T07:23:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Chrome-107-Kaum-neue-Features-aber-14-Sicherheitsluecken-weniger-7320625.html"
+    },
+    {
       "title": "OpenSSL",
       "url": "https://www.heise.de/news/Wichtige-Sicherheitspatches-fuer-OpenSSL-in-Sicht-7320616.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Cisco-ISE-Angreifer-koennten-Kontrolle-uebernehmen-7317442.html"
     },
     {
-      "title": "Synology DSM",
-      "url": "https://www.heise.de/news/Synology-Kritische-Luecken-in-NAS-erlauben-Angreifern-Ausfuehren-von-Schadcode-7316623.html"
+      "title": "Chrome 107: Kaum neue Features, aber 14 Sicherheitslücken weniger",
+      "teaser": "Mit der Veröffentlichung von Chrome 107 erhalten Anwender Sicherheitsupdates. Neue oder verbesserte Funktionen sind hingegen rar und eher für Web-Entwickler.",
+      "url": "https://www.heise.de/news/Chrome-107-Kaum-neue-Features-aber-14-Sicherheitsluecken-weniger-7320625.html",
+      "image_title": "Google Chrome Update"
     },
     {
       "title": "Wichtige Sicherheitspatches für OpenSSL in Sicht",
@@ -145,11 +151,6 @@
       "title": "Kritische Sicherheitslücke in Apache Commons Text",
       "teaser": "In der String-Verarbeitungskomponente Apache Commons Text klafft eine kritische Sicherheitslücke. Angreifer könnten durch sie Schadcode einschleusen.",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache-Commons-Text-7314381.html"
-    },
-    {
-      "title": "Patchday: Oracle liefert 370 Sicherheitsupdates im Oktober",
-      "teaser": "Zum Patchday, Critical Patch Update genannt, liefert Oracle eine lange Liste an Produkten mit Sicherheitslücken. 370 Updates schließen die Schwachstellen.",
-      "url": "https://www.heise.de/news/Patchday-Oracle-liefert-370-Sicherheitsupdates-im-Oktober-7314209.html"
     },
     {
       "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
