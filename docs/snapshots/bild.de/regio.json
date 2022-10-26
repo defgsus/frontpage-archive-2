@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-10-26T09:23:32",
+  "timestamp": "2022-10-26T10:25:52",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,385 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.2afe79cd.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.4c541b24.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.cf6545c6.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.eba2d924.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.90076343.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.04b76cd0.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "China-Schande in Hamburg! : Scholz kriegt seinen Hafen-Deal",
+      "url": "https://www.bild.de/politik/ausland/politik-ausland/kanzler-scholz-will-den-hafen-deal-unbedingt-stoppt-die-china-schande-81733056.bild.html",
+      "image_title": "Hamburger Hafen: China-Schande! Scholz kriegt seinen Deal"
+    },
+    {
+      "title": "Nach Familiendrama in Zülpich (NRW) : Polizei erschießt Timo R. (†31)",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/seine-mutter-hatte-die-beamten-gerufen-polizei-erschiesst-timo-r-31-81734252.bild.html",
+      "image_title": "Polizei erschießt Timo R. (31) in Zülpich – seine Mutter hatte die Beamten gerufen"
+    },
+    {
+      "title": "Nach Amoklauf in Texas mit 21 Toten : Chat mit dem Killer! Urteil gegen Deutsche (15)",
+      "url": "https://www.bild.de/regional/frankfurt/news/salvador-ramos-erschoss-21-menschen-deutsche-nach-chat-mit-killer-verwarnt-81729984.bild.html",
+      "image_title": "Salvador Ramos erschoss 21 Menschen: Deutsche nach Chat mit Killer verwarnt"
+    },
+    {
+      "title": "Blockaden in Berlin und auf der Autobahn : Klima-Chaoten legen Verkehr lahm",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/klima-choaten-legen-berliner-verkehr-lahm-81737498.bild.html",
+      "image_title": "Klima-Chaoten legen Berliner Verkehr lahm"
+    },
+    {
+      "title": "Delay Sport „lustig und cool“ : Königsdörffer schwärmt von Kreisliga-Klub",
+      "url": "https://www.bild.de/sport/fussball/hsv/hsv-ransford-koenigsdoerffer-schwaermt-von-berliner-kreisliga-klub-delay-sports-81732386.bild.html",
+      "image_title": "HSV: Ransford Königsdörffer schwärmt von Berliner Kreisliga-Klub Delay Sports"
+    },
+    {
+      "title": "Besetztes Haus geräumt, aber nicht saniert : Miese Miet-Masche mit Flüchtlingen",
+      "teaser": "Mit großem Aufwand wurde das Haus geräumt, jetzt leben dort Flüchtlinge in bitterer Kälte.",
+      "url": "https://www.bild.de/news/inland/news-inland/berlin-keine-heizung-hohe-mieten-mietwucher-im-ehemalig-besetzten-liebig-34-81599546.bild.html",
+      "image_title": "Berlin: Miese Miet-Masche mit Flüchtlingen"
+    },
+    {
+      "title": "Auto-Sperrung rechtswidrig : Friedrichstraße muss wieder freigegeben werden",
+      "teaser": "Die geltende Sperrung der Friedrichstraße für Autos ist laut Gericht rechtswidrig.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-friedrichstrasse-muss-wieder-fuer-autos-freigegeben-werden-81726444.bild.html",
+      "image_title": "Berlin: Friedrichstraße muss wieder für Autos freigegeben werden"
+    },
+    {
+      "title": "Vertragsüberraschung! : Bittencourt verlängert bei Werder",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-leonardo-bittencourt-verlaengert-vorzeitig-seinen-vertrag-81738918.bild.html",
+      "image_title": "Werder Bremen: Leonardo Bittencourt verlängert vorzeitig seinen Vertrag"
+    },
+    {
+      "title": "Traditionelles Abfischen : Netze voll, Teich leer",
+      "teaser": "An den Ahlhorner Teichen startete das Abfischen. Mit Keschern werden u.a. Karpfen geholt.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/traditionelles-abfischen-in-ahlhorn-netze-voll-teich-leer-81732008.bild.html",
+      "image_title": "Traditionelles Abfischen in Ahlhorn: Netze voll, Teich leer"
+    },
+    {
+      "title": "Zwei Hammer-Duelle in neun Tagen : So kämpft Werder gegen das Heim-Problem",
+      "teaser": "Werder hat diese Saison erst ein Spiel im Weserstadion gewonnen.",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-zwei-hammer-duelle-so-kaempft-werder-gegen-das-heim-problem-81731400.bild.html",
+      "image_title": "Werder Bremen: Zwei Hammer-Duelle! So kämpft Werder gegen das Heim-Problem"
+    },
+    {
+      "title": "Versuchter Totschlag vor Shisha-Bar : Ist dieser Rocker-Präsident ein Messerstecher?",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/versuchter-totschlag-vor-shishabar-ist-dieser-rocker-praesident-ein-messersteche-81728086.bild.html",
+      "image_title": "Hells Angels: Ist dieser Rocker-Präsident ein Messerstecher?"
+    },
+    {
+      "title": "Das Transfer-Zeugnis des FSV Zwickau : Nur zwei Neue schlugen voll ein",
+      "teaser": "13 Spiele hat Drittligist Zwickau absolviert. Zeit für ein erstes Transfer-Zeugnis.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/das-transfer-zeugnis-des-fsv-zwickau-nur-zwei-neue-schlugen-voll-ein-81730684.bild.html",
+      "image_title": "Das Transfer-Zeugnis des FSV Zwickau: Nur zwei Neue schlugen voll ein"
+    },
+    {
+      "title": "Zurück in der Rock ’n’ Roll-Schule : „The Firebirds“ besuchten ihr Gymnasium",
+      "teaser": "Die Wurzeln des Rock ‘n‘ Roll liegen für sie hier: im Probenraum des Heisenberg-Gymnasiums in Möckern.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-the-firebirds-besuchten-leipziger-gymnasium-81734918.bild.html",
+      "image_title": "Leipzig: The Firebirds“ besuchten Leipziger Gymnasium"
+    },
+    {
+      "title": "Sachse bei WM der Mechatroniker : Stefan (23) schraubt für Deutschland am großen Titel",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-stefan-23-schraubt-am-grossen-titel-81734224.bild.html",
+      "image_title": "Dresden: Stefan (23) schraubt am großen Titel"
+    },
+    {
+      "title": "Prozess in Dresden : Betrüger kaufte Nazi-Figuren mit fremdem Konto",
+      "teaser": "Was wollte er bloß damit? Rolf R. (35) bestellte im Internet immer wieder Waren.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-betrueger-kaufte-nazi-figuren-mit-fremdem-konto-81733978.bild.html",
+      "image_title": "Dresden: Betrüger kaufte Nazi-Figuren mit fremdem Konto"
+    },
+    {
+      "title": "A38 bei Leipzig : Polizei jagt blondes Flaschen-Phantom",
+      "teaser": "An der A38 bei Großpösna soll eine blonde Frau Glasflaschen von einer Brücke werfen.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/a38-bei-leipzig-polizei-jagt-blondes-flaschen-phantom-81732740.bild.html",
+      "image_title": "A38 bei Leipzig: Polizei jagt blondes Flaschen-Phantom"
+    },
+    {
+      "title": "Nur 2 Siege aus den letzten 9 Spielen : Farkes erstes Gladbach-Tief!",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-erstes-gladbach-tief-fuer-daniel-farke-81739302.bild.html",
+      "image_title": "Borussia Mönchengladbach: Erstes Gladbach-Tief für Daniel Farke!"
+    },
+    {
+      "title": "Sparkasse in Mönchengladbach : Hier flüchten Automaten-Sprenger vom Tatort",
+      "teaser": "Die betroffene Sparkassen-Filiale wurde zum zweiten Mal Ziel von Explosionstätern.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/sparkasse-in-moenchengladbach-zum-zweiten-mal-betroffen-hier-fluechten-automaten-81737070.bild.html",
+      "image_title": "Sparkasse Mönchengladbach: Hier flüchten Automaten-Sprenger vom Tatort"
+    },
+    {
+      "title": "Razzia gegen Al Zein-Clan : Versicherungsbetrug mit Wasserschaden",
+      "teaser": "Es geht um Versicherungsbetrug in sechsstelliger Höhe und Geldwäsche.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/razzia-gegen-al-zein-clan-versicherungsbetrug-mit-wasserschaden-81736894.bild.html",
+      "image_title": "Razzia gegen Al Zein-Clan: Versicherungsbetrug mit Wasserschaden"
+    },
+    {
+      "title": "32 Paletten Schokolade : Gangster mopsen Schoko-Lkw",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/suesse-beute-gangster-mopsen-32-paletten-schokolade-81739216.bild.html",
+      "image_title": "Süße Beute: Gangster mopsen 32 Paletten Schokolade"
+    },
+    {
+      "title": "Wiedersehen mit Dynamo in Mannheim : Sohm verrät sein Wechsel-Geheimnis",
+      "teaser": "Pascal Sohm (30) hatte Dynamo Dresden im Januar verlassen, wechselte nach Mannheim.",
+      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-pascal-sohm-verraet-sein-wechsel-geheimnis-81738750.bild.html",
+      "image_title": "Dynamo Dresden: Pascal Sohm verrät sein Wechsel-Geheimnis"
+    },
+    {
+      "title": "Auf dem Vormarsch auch in Franken : Dieser Wein hat 0 Promille",
+      "teaser": "Alkoholfreies Bier ist Standard. Wein ohne Alkohol noch nicht. Aber das Segment wächst.",
+      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/auf-dem-vormarsch-auch-in-franken-dieser-wein-hat-0-promille-81727300.bild.html",
+      "image_title": "Auf dem Vormarsch auch in Franken: Dieser Wein hat 0 Promille"
+    },
+    {
+      "title": "Neue TV-Show : Steffen Henssler kocht mit Krümelmonster",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/neue-tv-show-steffen-henssler-kocht-mit-kruemmelmonster-81737708.bild.html",
+      "image_title": "Neue TV-Show: Steffen Henssler kocht mit Krümelmonster"
+    },
+    {
+      "title": "Tragischer Unfall nahe Hamburg : Fahrer (76) rast Pferd und Reiterin tot!",
+      "teaser": "Es sollte ein schöner Ausritt werden. Nun sind Pferd und Reiterin tot!",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/tragischer-unfall-auf-kreisstrasse-senior-rast-pferd-und-reiterin-tot-81733440.bild.html",
+      "image_title": "Tragischer Unfall nahe Hamburg: Fahrer (76) rast Pferd und Reiterin tot!"
+    },
+    {
+      "title": "Horror-Unfall mit Fahrerflucht : Frau (81) an Zebrastreifen von Getränke-Lkw überrollt - tot!",
+      "teaser": "Ein Lkw erfasste beim Abbiegen eine Fußgängerin auf einem Zebrastreifen und überrollte sie.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/horror-unfall-mit-fahrerflucht-frau-an-zebrastreifen-von-gelbem-lkw-ueberrollt-t-81728900.bild.html",
+      "image_title": "Horror-Unfall mit Fahrerflucht: Frau (81) an Zebrastreifen von Getränke-Lkw überrollt - tot!"
+    },
+    {
+      "title": "Kerstin G. seit September vermisst : Mutmaßlicher Würmsee-Killer gefasst",
+      "url": "https://www.bild.de/regional/hannover/politik-inland/kerstin-g-seit-september-vermisst-mutmasslicher-wuermsee-killer-gefasst-81738814.bild.html",
+      "image_title": "Kerstin G. seit September vermisst: Mutmaßlicher Würmsee-Killer gefasst"
+    },
+    {
+      "title": "Def Leppard, Mötley Crüe, Iron Maiden : Der nächste Sommer wird heavy!",
+      "teaser": "Die Metal-Veteranen von Def Leppard, Mötley Crew und Iron Maiden kommen nach Hannover.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/def-leppard-moetley-cruee-iron-maiden-der-naechste-sommer-wird-heavy-81721486.bild.html",
+      "image_title": "Def Leppard, Mötley Crüe, Iron Maiden: Der nächste Sommer wird heavy!"
+    },
+    {
+      "title": "Changes verzaubert Hannover : Winter-Varieté macht lila Laune",
+      "teaser": "Diese Show ist berührend, poetisch, bezaubernd – ein Traum in Lila!",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/changes-verzaubert-hannover-winter-variet-macht-lila-laune-81731968.bild.html",
+      "image_title": "Changes verzaubert Hannover: Winter-Varieté macht lila Laune"
+    },
+    {
+      "title": "Alle Zahlen : So viel FC-Kohle verfeuerten Kölns Ultras",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/1-fc-koeln/1-fc-koeln-alle-zahlen-so-viel-fc-kohle-verfeuerten-koelns-ultras-seit-der-rueck-81733516.bild.html",
+      "image_title": "1. FC Köln: Alle Zahlen: So viel FC-Kohle verfeuerten Kölns Ultras seit der Rückkehr"
+    },
+    {
+      "title": "Diebesbande klaut sich durch Filmstudios : Krimi-Serie „Der Alte“ wird selbst zum Tatort",
+      "teaser": "München – Sie klauten wohl rund 2,3 Millionen Euro Beute in Form von Kameraequipment",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/diebe-in-filmstudios-krimi-serie-der-alte-wird-selbst-zum-tatort-81730816.bild.html",
+      "image_title": "Diebe in Filmstudios: Krimi-Serie „Der Alte“ wird selbst zum Tatort"
+    },
+    {
+      "title": "Wegen steigender Heizkosten im Trend : Ich baue jetzt Teelicht-Öfen",
+      "teaser": "Gerd Kaiser hat ein außergewöhnliches Hobby: Der Müllwagenfahrer baut kleine Heizpilze.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/steigende-heizkosten-gerd-baut-jetzt-teelicht-oefen-81732056.bild.html",
+      "image_title": "Steigende Heizkosten: Gerd aus Alfter baut jetzt Teelicht-Öfen"
+    },
+    {
+      "title": "Kugelbombe, Monster-Böller, Kickboxer-Batterie : Tschechen-Feuerwerk beschlagnahmt",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/kugelbombe-und-monster-boeller-polizei-beschlagnahmt-tschechen-feuerwerk-81730132.bild.html",
+      "image_title": "Kugelbombe und Monster-Böller: Polizei beschlagnahmt Tschechen-Feuerwerk"
+    },
+    {
+      "title": "Gotteshaus mit Fäkalien beschmiert : Diebe klauen Altarkreuz aus Kirche",
+      "teaser": "In der Nacht zu Dienstag sind Unbekannte in die Emmauskirche eingebrochen, klauten das Altarkreuz und beschmierten den Altarraum mit Fäkalien.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-diebe-klauen-altarkreuz-aus-kirche-81731682.bild.html",
+      "image_title": "Leipzig: Diebe klauen Altarkreuz aus Kirche"
+    },
+    {
+      "title": "Klima-Extremistin warf Kartoffelbrei : „ICH war das!“",
+      "teaser": "Klima-Chaotin Mirjam (25) droht jetzt richtig Ärger.",
+      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/klima-extremistin-mirjam-25-warf-kartoffelbrei-auf-gemaelde-ich-war-das-81724660.bild.html",
+      "image_title": "Klima-Extremistin Mirjam (25) warf Kartoffelbrei auf Gemälde: „ICH war das!“"
+    },
+    {
+      "title": "In Rostock-Warnemünde : Auto fährt in Hafenbecken – zwei Tote!",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/am-kreuzfahrtterminal-auto-rast-in-hafenbecken-zwei-tote-81728852.bild.html",
+      "image_title": "Rostock-Warnemünde: Auto fährt in Hafenbecken – zwei Tote!"
+    },
+    {
+      "title": "Während Kinder im Hof spielten : Nachbar feuert Silvesterrakete auf Kita",
+      "teaser": "Die Polizei in Anklam jagt einen Pyro-Idioten, der eine Silvesterrakete auf eine Kita abfeuerte.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/anklam-mecklenburg-vorpommern-nachbar-feuert-silvesterrakete-auf-kita-81737844.bild.html",
+      "image_title": "Anklam (Mecklenburg-Vorpommern): Nachbar feuert Silvesterrakete auf Kita"
+    },
+    {
+      "title": "Verdächtiger nach Flucht gefasst : Mann nach Messer-Attacke in Lebensgefahr!",
+      "teaser": "Ein Mann (26) soll seinen Kontrahenten (34) in Greifswald abgestochen haben.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-mann-nach-messer-attacke-in-lebensgefahr-81728232.bild.html",
+      "image_title": "Mecklenburg-Vorpommern: Mann nach Messer-Attacke in Lebensgefahr!"
+    },
+    {
+      "title": "Umweltprämie, Führerschein, Maskenpflicht : Das ändert sich 2023 für Autofahrer",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/auto-regeln-das-aendert-sich-2023-fuer-verkehrsteilnehmer-81694766.bild.html",
+      "image_title": "Auto-Regeln: Das ändert sich 2023 für Verkehrsteilnehmer"
+    },
+    {
+      "title": "Inflation, Krieg, Energiekosten : Im Handwerk greift Pessimismus um sich",
+      "teaser": "Nach guten Jahren sehen viele Handwerksbetriebe der Zukunft pessimistisch entgegen.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/inflation-krieg-energie-im-handwerk-greift-pessimismus-um-sich-81738906.bild.html",
+      "image_title": "Inflation, Krieg, Energie: Im Handwerk greift Pessimismus um sich"
+    },
+    {
+      "title": "Tödlicher Fallschirmsprung : 15-Jährige starb durch Steuerfehler",
+      "teaser": "Hat die 15-Jährige einen tödlichen Fehler beim Landeanflug mit ihrem Fallschirm begangen?",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/toedlicher-fallschirmsprung-15-jaehrige-starb-aufgrund-von-steuerfehler-81737664.bild.html",
+      "image_title": "Tödlicher Fallschirmsprung: 15-Jährige starb durch Steuerfehler"
+    },
+    {
+      "title": "„Da kommt was auf uns zu“ : Audi erwartet sinkende Verkäufe in Europa",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/da-kommt-was-auf-uns-zu-audi-erwartet-sinkende-verkaeufe-in-europa-81738188.bild.html",
+      "image_title": "„Da kommt was auf uns zu“: Audi erwartet sinkende Verkäufe in Europa"
+    },
+    {
+      "title": "„Immobilienblase platzt“ : Diesen Städten gehört die Zukunft",
+      "teaser": "Häuser in den Metropolen sind kaum finanzierbar. Diesen Städten gehört jetzt die Zukunft.",
+      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/eigenheim-und-miete/immobilienblase-platzt-welche-staedte-jetzt-zu-den-gewinnern-zaehlen-81423256.bild.html",
+      "image_title": "„Immobilienblase platzt“: Diesen Städten gehört jetzt die Zukunft"
+    },
+    {
+      "title": "Welle flacht ab : Corona-Inzidenz in Bayern unter 500",
+      "teaser": "Erstmals seit knapp einem Monat ist die Corona-Inzidenz in Bayern wieder unter 500 gefallen.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/welle-flacht-ab-corona-inzidenz-in-bayern-unter-500-81737176.bild.html",
+      "image_title": "Welle flacht ab: Corona-Inzidenz in Bayern unter 500"
+    },
+    {
+      "title": "Drei Schwerverletzte auf Bundesstraße : Bus rammt Bagger um",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/drei-schwerverletzte-in-bedburg-hau-bus-rammt-bagger-um-81739188.bild.html",
+      "image_title": "Drei Schwerverletzte in Bedburg-Hau: Bus rammt Bagger um"
+    },
+    {
+      "title": "Neue Spuren im alten Fall : Ist der Mörder von Rentnerin Agnes gefasst?",
+      "teaser": "Die Seniorin war 2014 von Mitarbeitern der Diakonie tot im Haus gefunden worden.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/vlotho-ist-der-moerder-von-rentnerin-agnes-nach-fast-neun-jahren-gefasst-81736720.bild.html",
+      "image_title": "Vlotho: Ist der Mörder von Rentnerin Agnes nach fast neun Jahren gefasst?"
+    },
+    {
+      "title": "Kohle, Kohle, Kohle! : Das ist Bochums Retter-Prämie",
+      "teaser": "Hält Bochum die Klasse, bekommt die Mannschaft eine Rettungs-Prämie!",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/vfl-bochum/exklusiv-vfl-bochum-kohle-kohle-kohle-das-ist-bochums-retter-praemie-81733630.bild.html",
+      "image_title": "Exklusiv – VfL Bochum: Kohle, Kohle, Kohle! Das ist Bochums Retter-Prämie"
+    },
+    {
+      "title": "Steuerhinterziehung : Gastronom muss ins Gefängnis",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/steuerhinterziehung-gastronom-muss-ins-gefaengnis-81733292.bild.html",
+      "image_title": "Steuerhinterziehung: Gastronom muss ins Gefängnis"
+    },
+    {
+      "title": "Stadtmitarbeiter : Ich wurde mit einem Hammer bedroht!",
+      "teaser": "Feuerwehrleute, Sanitäter und Co. helfen uns im Alltag – und werden trotzdem bedroht.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/attacken-gegen-stadtmitarbeiter-ich-wurde-mit-einem-hammer-bedroht-81731616.bild.html",
+      "image_title": "Attacken gegen Stadtmitarbeiter: Ich wurde mit einem Hammer bedroht!"
+    },
+    {
+      "title": "3D-Kunstwerke : Dieser Schreiner faltet Holz",
+      "teaser": "Wenn Michael Gerstenmayer (53) in seiner Werkstatt arbeitet, pfeift er auf Naturgesetze.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/3d-kunstwerke-ab-350-euro-dieser-schreiner-faltet-holz-81730874.bild.html",
+      "image_title": "3D-Kunstwerke ab 350 Euro: Dieser Schreiner faltet Holz"
+    },
+    {
+      "title": "Qualm aus dem Schornstein des Nachbarhauses : Giftiger Rauch macht uns krank",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-giftiger-rauch-macht-uns-krank-81735188.bild.html",
+      "image_title": "Sachsen-Anhalt: Giftiger Rauch macht uns krank"
+    },
+    {
+      "title": "HFC-Sieg gegen Bayreuth : Das steckt hinter dem Stürmer-Trick mit Nietfeld",
+      "teaser": "Dieser Schachzug lässt Halle wieder jubeln: Der HFC feiert Jonas Nietfeld.",
+      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-hfc-sieg-das-steckt-hinter-dem-stuermer-trick-mit-nietfeld-81732430.bild.html",
+      "image_title": "3. Liga: HFC-Sieg – Das steckt hinter dem Stürmer-Trick mit Nietfeld"
+    },
+    {
+      "title": "Naturschauspiel über Deutschland : Die schönsten Bilder der Sonnenfinsternis",
+      "teaser": "Von Island über Deutschland bis Indien verläuft heute eine partielle Sonnenfinsternis.",
+      "url": "https://www.bild.de/ratgeber/2022/ratgeber/die-schoensten-bilder-der-sonnenfinsternis-in-deutschland-81726804.bild.html",
+      "image_title": "Partielle Sonnenfinsternis 2022 in Deutschland: Die schönsten Bilder"
+    },
+    {
+      "title": "Sommerlicher Endspurt : Bis zu 26 Grad am Donnerstag an Rhein und Neckar",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/sommer-endspurt-bis-zu-26-grad-am-donnerstag-an-rhein-und-neckar-81739574.bild.html",
+      "image_title": "Sommer-Endspurt: Bis zu 26 Grad am Donnerstag an Rhein und Neckar"
+    },
+    {
+      "title": "Rheintalbahn : Ausbau in Basel schreitet voran",
+      "teaser": "Die erste von drei neuen Brücken in Basel stehe, teilte der Konzern jetzt mit.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/rheintalbahn-ausbau-in-basel-schreitet-voran-81720680.bild.html",
+      "image_title": "Rheintalbahn: Ausbau in Basel schreitet voran"
+    },
+    {
+      "title": "Leiche in Scheune : Stürzte Senior in den Tod?",
+      "teaser": "Wegen eines toten Seniors in einer Scheune auf der Schwäbischen Alb ermittelt die Polizei.",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/leiche-in-scheune-bei-boehmenkirch-stuerzte-senior-in-den-tod-81729450.bild.html",
+      "image_title": "Leiche in Scheune bei Böhmenkirch: Stürzte Senior in den Tod?"
+    },
+    {
+      "title": "John zündelte, um einer Frau zu imponieren : 7 Jahre Knast für 15 abgefackelte Polizeiautos",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/prozess-in-thueringen-7-jahre-knast-fuer-15-abgefackelte-polizeiautos-81738698.bild.html",
+      "image_title": "Prozess in Thüringen: 7 Jahre Knast für 15 abgefackelte Polizeiautos"
+    },
+    {
+      "title": "Fahrer wich Tier aus : Fünf Jugendliche nach Schleudercrash in Klinik",
+      "teaser": "Ein Autofahrer wich in Suhl einem Wildtier aus und rammte dabei gegen einen Baum.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/fahrer-wich-tier-aus-fuenf-jugendliche-nach-schleudercrash-in-klinik-81736798.bild.html",
+      "image_title": "Unfall: Fünf Jugendliche nach Schleudercrash in Klinik"
+    },
+    {
+      "title": "Schnittige Aktion von Friseurin aus Jena : Meine Haare retten die Meere",
+      "teaser": "Schnipp Schnapp, Haare ab – und Gutes tun! Für saubere Ozeane schwingt Steffi Lau (40) gern die Schere.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/schnittige-aktion-von-friseurin-aus-jena-meine-haare-retten-die-meere-81735770.bild.html",
+      "image_title": "Schnittige Aktion von Friseurin aus Jena: Meine Haare retten die Meere"
+    }
+  ]
 }
