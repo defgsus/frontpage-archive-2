@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-28T07:20:19",
+  "timestamp": "2022-10-28T08:35:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,17 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.616d3a1159b58df522da",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.25be979d90687b0484c3",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "RIPE-Treffen: IP-Adressen als Kriegsbeute",
+      "teaser": "Der Krieg in der Ukraine trifft auch die Internetverwaltung. IP-Adressverwalter berichten von Problemen und fürchten, dass Adressen zu Kriegsbeute werden.",
+      "url": "https://www.heise.de/news/RIPE-Treffen-IP-Adressen-als-Kriegsbeute-7322539.html"
+    },
     {
       "title": "Microsoft: Großes Datenleck durch Fehlkonfiguration von Cloud-Instanz",
       "teaser": "Sensible Daten von mehr als 65.000 Microsoft-Kunden aus über 111 Ländern sollen aufgrund eines fehlkonfigurierten Cloud-Servers offen zugänglich gewesen sein.",
@@ -36,9 +41,9 @@
       "url": "https://www.heise.de/news/Cyber-Attacke-auf-Metro-Langsame-Wiederherstellung-7321828.html"
     },
     {
-      "title": "Breitbandausbau geht rasch voran: Der Anfang vom Ende von DSL",
-      "teaser": "In diesem Jahr sinkt die Anzahl der Kupferkabel-Anschlüsse erstmals in Deutschland. Der Datenhunger treibt die Nachfrage nach Gigabit-Tarifen.",
-      "url": "https://www.heise.de/news/Breitbandausbau-geht-rasch-voran-Der-Anfang-vom-Ende-von-DSL-7321196.html"
+      "title": "IT-Sicherheit: Die dritte Fassung der ISO/IEC 27001 im Detail",
+      "teaser": "Nach gut acht Jahren kommt die ISO/IEC 27001 in einer überarbeiteten Fassung heraus. Wir erklären die Änderungen für Informationssicherheitsmanagementsysteme.",
+      "url": "https://www.heise.de/hintergrund/IT-Sicherheit-Die-dritte-Fassung-der-ISO-IEC-27001-im-Detail-7321167.html"
     },
     {
       "title": "Verein digitalisieren: Wie Sie mit Apps und Online-Tools Ihren Klub managen",
@@ -47,9 +52,27 @@
       "image_title": ", Julien Eichinger/stock.adobe.com"
     },
     {
-      "title": "Softwareabhängigkeiten mit OWASP-Tool überwachen",
-      "teaser": "Das OWASP-Dependency-Check-Plug-in sorgt für die permanente Überwachung der Softwarelieferkette auf Sicherheitslücken ist Bestandteil jeder DevSecOps-Strategie.",
-      "url": "https://www.heise.de/hintergrund/Softwareabhaengigkeiten-mit-OWASP-Tool-ueberwachen-7320836.html"
+      "title": "US-Gericht: Höchststrafe für Meta wegen Intransparenz bei Wahlkampffinanzierung",
+      "teaser": "Nach Verstößen gegen Gesetz zur Offenlegung von Wahlkampffinanzierung verhängt ein Richter in Washington die Höchststrafe von 24,6 Millionen US-Dollar für Meta.",
+      "url": "https://www.heise.de/news/US-Gericht-Hoechststrafe-fuer-Meta-wegen-Intransparenz-bei-Wahlkampffinanzierung-7323032.html"
+    },
+    {
+      "title": "Ausgezwitschert: Mastodon als dezentrale Alternative zu Twitter",
+      "teaser": "Mastodon ist der Nachrichtendienst im dezentral organisierten Fediverse. Dank tausender Einzelinstanzen sind Nutzer nicht im Vogelkäfig ihres Landes gefangen.",
+      "url": "https://www.heise.de/hintergrund/Ausgezwitschert-Mastodon-als-dezentrale-Alternative-zu-Twitter-5990159.html",
+      "image_title": "Social Media am Smartphone"
+    },
+    {
+      "title": "iX-Workshop Softwarearchitektur: CPSA Foundation Level mit iSAQB-Zertifizierung",
+      "teaser": "Werden Sie in vier Tagen zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung.",
+      "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-CPSA-Foundation-Level-mit-iSAQB-Zertifizierung-7320957.html",
+      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
+    },
+    {
+      "title": "WirePlumber-Konfigurationssystem wechselt von LUA zu JSON",
+      "teaser": "Die Entwickler von WirePlumber, einem Sessionmanager für PipeWire, haben den Code refaktoriert und die unflexible Konfiguration via LUA durch JSON ersetzt.",
+      "url": "https://www.heise.de/news/WirePlumber-Konfigurationssystem-wechselt-von-LUA-zu-JSON-7323020.html",
+      "image_title": "Netzwerk-Kabel"
     },
     {
       "title": "Zava: Fernbehandlungen beim Online-Arzt-Pionier",
@@ -111,27 +134,6 @@
       "teaser": "Die relativ günstige Dell-Webcam verzichtet auf 4K, dafür bringt sie ein Mikro und einen Folgemodus mit. Wir haben sie am Mac getestet.",
       "url": "https://www.heise.de/tests/Dell-Pro-Webcam-WB5023-im-Kurztest-Folgsame-2K-Kamera-7322489.html",
       "image_title": "Dell WB5023"
-    },
-    {
-      "title": "Sogar Kantine betroffen: Slowakisches Parlament durch Hackerangriff lahmgelegt",
-      "teaser": "Ein Cyberangriff auf das slowakische Parlament am Donnerstag war so schwerwiegend, dass sich das um Wochen vertagt hat. Nach den Tätern wird gesucht.",
-      "url": "https://www.heise.de/news/Sogar-Kantine-betroffen-Slowakisches-Parlament-durch-Hackerangriff-lahmgelegt-7322635.html"
-    },
-    {
-      "title": "macOS 13: Anti-Malware-Tools nach Upgrade zahnlos",
-      "teaser": "Antivirus-Software und andere Sicherheits-Tools funktionieren durch einen Apple-Bug in macOS Ventura nicht mehr richtig. Das Problem kann behoben werden.",
-      "url": "https://www.heise.de/news/macOS-13-Anti-Malware-Tools-nach-Upgrade-zahnlos-7322669.html"
-    },
-    {
-      "title": "Psychische Folgen von Cyber-Angriffen: Ausnahmesituation fürs Security-Team",
-      "teaser": "Die Security-Firma Northwave betrachtet die nicht-technischen Folgen von Ransomware-Attacken & Co. Diese plagen Betroffene oft auch noch lange nach dem Angriff.",
-      "url": "https://www.heise.de/news/Psychische-Folgen-von-Cyber-Angriffen-Ausnahmesituation-fuers-Security-Team-7322604.html"
-    },
-    {
-      "title": "Canon wächst dank neuer Kameras – und verliert an der Börse",
-      "teaser": "Erst gestörte Lieferketten, dann neue Modelle – Canon verdient wieder mehr und sieht die Krise als überwunden an.",
-      "url": "https://www.heise.de/news/Canon-waechst-dank-neuer-Kameras-und-verliert-an-der-Boerse-7321912.html",
-      "image_title": "Canon Niederlassung Europa"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
