@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-10-31T11:21:38",
+  "timestamp": "2022-10-31T12:51:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Backup-Software ConnectWise",
+      "url": "https://www.heise.de/news/Backup-Software-von-ConnectWise-fuer-Ransomware-Attacken-anfaellig-7324856.html"
+    },
+    {
       "title": "VMware Cloud Foundation",
       "url": "https://www.heise.de/news/Jetzt-patchen-Es-koennten-Attacken-auf-VMware-Cloud-Foundation-bevorstehen-7324777.html"
     },
@@ -44,23 +48,19 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-ArubaOS-Schadcode-Attacken-durch-praeparierte-Anfragen-moeglich-7321787.html"
     },
     {
-      "title": "Cisco AnyConnect",
-      "url": "https://www.heise.de/news/Cisco-AnyConnect-Alte-Sicherheitsluecken-im-Visier-von-Angreifern-7320917.html"
-    },
-    {
-      "title": "Jetzt patchen! Es könnten Attacken auf VMware Cloud Foundation bevorstehen",
-      "teaser": "Für eine kritische Sicherheitslücke in Cloud Foundation von VMware ist Exploit-Code in Umlauf.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Es-koennten-Attacken-auf-VMware-Cloud-Foundation-bevorstehen-7324777.html"
-    },
-    {
-      "title": "Linux-Distribution: Endian Firewall UTM 6.5.0 ist da",
-      "teaser": "Die kommerzielle Version der Linux-basierten Firewall Endian wurde überarbeitet. Die Entwickler haben unter anderem Docker integriert.",
-      "url": "https://www.heise.de/news/Linux-Distribution-Endian-Firewall-UTM-6-5-0-ist-da-7324723.html"
+      "title": "Backup-Software von ConnectWise für Ransomware-Attacken anfällig",
+      "teaser": "Angreifer könnten Systeme mit Recover oder R1Soft Server Backup Manager von ConnectWise attackieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Backup-Software-von-ConnectWise-fuer-Ransomware-Attacken-anfaellig-7324856.html"
     },
     {
       "title": "Umweltdatenbank kaputt: Cyberangriff auf Anhalt-Bitterfeld wirkt weiter nach",
       "teaser": "Bei der Ransomware-Attacke auf den anhaltinischen Landkreis ging auch ein Register flöten, das für Altlastenbearbeitung in dem \"Öko-Tschernobyl\" wichtig ist.",
       "url": "https://www.heise.de/news/Umweltdatenbank-kaputt-Cyberangriff-auf-Anhalt-Bitterfeld-wirkt-weiter-nach-7324254.html"
+    },
+    {
+      "title": "New York Post: Hinter Hack verbirgt sich abtrünniger Mitarbeiter",
+      "teaser": "Die New York Post veröffentlichte rassistische, gewalttätige und explizit sexuelle Inhalte auf Twitter. Der vermutete Hack entpuppte sich als Mitarbeiter.",
+      "url": "https://www.heise.de/news/New-York-Post-Hinter-Hack-verbirgt-sich-abtruenniger-Mitarbeiter-7323162.html"
     },
     {
       "title": "Sicherheitsupdates für älteres iOS und iPadOS",
@@ -87,6 +87,11 @@
       "title": "Psychische Folgen von Cyber-Angriffen: Ausnahmesituation fürs Security-Team",
       "teaser": "Die Security-Firma Northwave betrachtet die nicht-technischen Folgen von Ransomware-Attacken & Co. Diese plagen Betroffene oft auch noch lange nach dem Angriff.",
       "url": "https://www.heise.de/news/Psychische-Folgen-von-Cyber-Angriffen-Ausnahmesituation-fuers-Security-Team-7322604.html"
+    },
+    {
+      "title": "Microsoft: Großes Datenleck durch Fehlkonfiguration von Cloud-Instanz",
+      "teaser": "Sensible Daten von mehr als 65.000 Microsoft-Kunden aus über 111 Ländern sollen aufgrund eines fehlkonfigurierten Cloud-Servers offen zugänglich gewesen sein.",
+      "url": "https://www.heise.de/news/Microsoft-Grosses-Datenleck-durch-Fehlkonfiguration-von-Cloud-Instanz-7322187.html"
     },
     {
       "title": "Mutmaßlicher Betreiber von großer Darknet-Drogenplattform festgenommen",
@@ -146,11 +151,6 @@
       "image_title": "Google Chrome Update"
     },
     {
-      "title": "Wichtige Sicherheitspatches für OpenSSL in Sicht",
-      "teaser": "Am 1. November 2022 wollen die OpenSSL-Entwickler die Version 3.0.7 veröffentlichen. Darin haben Sie unter anderem eine kritische Lücke geschlossen.",
-      "url": "https://www.heise.de/news/Wichtige-Sicherheitspatches-fuer-OpenSSL-in-Sicht-7320616.html"
-    },
-    {
       "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
       "teaser": "Erfahren Sie mehr über den datenschutzkonformen Umgang mit Backups und Protokollierungen und die Erstellung von Löschkonzepten. Lernen Sie außerdem passende technische Löschmethoden anzuwenden.",
       "url": "https://webinare.heise.de/archivierung/?wt_mc=intern.events.security.web_archivierung_backups.hs_teaser.link.link",
@@ -172,19 +172,19 @@
       "url": "https://www.heise.de/tests/Sicherheits-und-Incident-Management-mit-Wazuh-7218423.html"
     },
     {
+      "title": "Re: Kein Booten mehr *NACH* Umwandlung in nativen Stick",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Booten-mehr-NACH-Umwandlung-in-nativen-Stick/posting-41829407/show/"
+    },
+    {
+      "title": "Re: funktioniert: Desinfec't 2022 (nicht verwechseln mit 2022/2023)",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-funktioniert-Desinfec-t-2022-nicht-verwechseln-mit-2022-2023/posting-41829134/show/"
+    },
+    {
       "title": "Re: WithSecure funktioniert nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-funktioniert-nicht/posting-41826328/show/"
-    },
-    {
-      "title": "Re: Kein Booten mehr *NACH* Umwandlung in nativen Stick",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Booten-mehr-NACH-Umwandlung-in-nativen-Stick/posting-41825537/show/"
-    },
-    {
-      "title": "Re: Desinfect 2022 auf Festplatte installieren",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2022-auf-Festplatte-installieren/posting-41823586/show/"
     }
   ]
 }
