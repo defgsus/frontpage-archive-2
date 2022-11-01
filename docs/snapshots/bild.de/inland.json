@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-01T14:30:50",
+  "timestamp": "2022-11-01T15:27:06",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,212 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.eaf3fb0a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a8e600f9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.cf6545c6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.eba2d924.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.4f190586.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.04b76cd0.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Bundeswirtschaftsminister in Sachsen : Habeck und Kretschmer ringen um Energiepaket",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-habeck-und-kretschmer-ringen-um-energiepaket-81796986.bild.html",
-      "image_url": "https://images.bild.de/6360e5e41b47e91811238ac1/f835f147aa75ec027c4450100d97d838,7317781?w=656",
-      "image_title": "Sachsen: Habeck und Kretschmer ringen um Energiepaket"
-    },
-    {
-      "title": "Tier rannte über Straße : Jugendlicher stirbt nach Crash in Klinik",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/fahrer-wich-tier-aus-fuenf-jugendliche-nach-schleudercrash-in-klinik-81736798.bild.html",
-      "image_url": "https://images.bild.de/6358c053e146ff35a368dc72/98de21217f757e5a08a19c40952cfb6a,c944be4c?w=320",
-      "image_title": "Unfall in Thüringen: Jugendlicher stirbt nach Unfall in Klinik"
-    },
-    {
-      "title": "Polizei ermittelt : Z-Symbol auf russisch-orthodoxe Kirche gesprayt",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-z-symbol-auf-russisch-orthodoxer-kirche-gesprayt-81800384.bild.html",
-      "image_url": "https://images.bild.de/636119cb1b47e91811238b37/41708deeda254af5892aac23757eb9f2/Kennung_Archivfoto,f6bde863?w=320",
-      "image_title": "Leipzig: Z-Symbol auf russisch-orthodoxer Kirche gesprayt"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : 118 Mio. Euro im Jackpot – so werden Träume wahr",
-      "url": "https://www.bild.de/news/inland/news-inland/heute-eurojackpot-von-118-millionen-euro-damit-werden-traeume-wahr-81796864.bild.html",
-      "image_url": "https://images.bild.de/6360e2d6634da35139488d11/31e6ed693b2f1bb7685159af35634f94,318a4277?w=320",
-      "image_title": "Heute Eurojackpot von 118 Millionen Euro! Damit werden Träume wahr"
-    },
-    {
-      "title": "Krise in den Kommunen : Thüringen erwartet 40 000 Flüchtlinge",
-      "teaser": "Der Platz ist fast aufgebraucht. Es können kaum noch Flüchtlinge aufgenommen werden.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/krise-in-den-kommunen-thueringen-erwartet-40-000-fluechtlinge-81797790.bild.html",
-      "image_title": "Krise in den Kommunen: Thüringen erwartet 40 000 Flüchtlinge"
-    },
-    {
-      "title": "Rettungseinsatz am Wahrzeichen : St. Nikolai bekommt was aufs Dach",
-      "teaser": "Eine Arbeit, bei der jeder Griff sitzen muss und für Höhenangst kein Platz ist.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/magdeburg-st-nikolai-bekommt-was-aufs-dach-81796584.bild.html",
-      "image_title": "Magdeburg: St. Nikolai bekommt was aufs Dach"
-    },
-    {
-      "title": "24 Stunden offen : Erster Supermarkt in Sachsen ohne Verkäufer geplant",
-      "teaser": "Bringt dies Shop-Konzept die geschlossenen Lebensmittelläden zurück aufs Land?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-erster-supermarkt-ohne-verkaeufer-geplant-81793578.bild.html",
-      "image_title": "Sachsen: Erster Supermarkt ohne Verkäufer geplant"
-    },
-    {
-      "title": "Angst vor nächster Katastrophe : Oder schon wieder voller Todes-Salz",
-      "teaser": "Das Fischsterben in der Oder blieb lange ein Rätsel. Jetzt ist die Ursache klar und die Angst zurück!",
-      "url": "https://www.bild.de/regional/berlin/news-inland/angst-vor-naechster-katastrophe-oder-schon-wieder-voller-todes-salz-81793674.bild.html",
-      "image_title": "Angst vor nächster Katastrophe: Oder schon wieder voller Todes-Salz"
-    },
-    {
-      "title": "Nachwuchs im Ausland anheuern? : Keiner will mehr zur Sachsen-Polizei",
-      "teaser": "Verdächtig gute Jobs, aber verdächtig wenig Bewerber!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-keiner-will-mehr-zur-polizei-81793304.bild.html",
-      "image_title": "Sachsen: Keiner will mehr zur Polizei"
-    },
-    {
-      "title": "Rätselhafte Attacke auf teure Kois : Fuchs, Du hast den Fisch gebissen",
-      "teaser": "Hobby-Züchter Jens Helbig (42) kauert ratlos an seinem Gartenteich. Innerhalb weniger Tage verschwanden zahlreiche Fische oder lagen tot am Teichrand.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-raetselhafte-attacke-auf-teure-kois-im-gartenteich-81793034.bild.html",
-      "image_title": "Sachsen: Rätselhafte Attacke auf teure Kois im Gartenteich"
-    },
-    {
-      "title": "Grinsender Syrer (23) in U-Haft : Schwarzfahrer sticht auf Kontrolleur ein",
-      "teaser": "Brutale Messer-Attacke auf einen Fahrkarten-Kontrolleur (34) in Dresden-Nickern.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/messerattacke-schwarzfahrer-sticht-auf-kontrolleur-ein-81791558.bild.html",
-      "image_title": "Messerattacke in Dresden: Schwarzfahrer sticht auf Kontrolleur ein"
-    },
-    {
-      "title": "250 000 Euro Schaden : Sechs Verletzte bei Unfall mit Rettungswagen",
-      "teaser": "Heftiger Crash in Sachsen-Anhalt! Sechs Menschen wurden dabei verletzt.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-sechs-verletzte-bei-unfall-mit-rettungswagen-81791028.bild.html",
-      "image_title": "Sachsen-Anhalt: Sechs Verletzte bei Unfall mit Rettungswagen"
-    },
-    {
-      "title": "Beo-Pärchen verkuppelt : Erstes Dating mit Vögeln",
-      "teaser": "Der Rostocker Zoo hat wieder ein verliebtes Beo-Pärchen. Ein Dating-Center half dabei.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/beo-paerchen-verkuppelt-erstes-dating-mit-voegeln-81790874.bild.html",
-      "image_title": "Beo-Pärchen verkuppelt: Erstes Dating mit Vögeln"
-    },
-    {
-      "title": "Am Autobahn-Parkplatz : Opa vergisst Enkel nach Pinkelpause an Parkplatz",
-      "teaser": "Ein Familienausflug, der dem Großvater wohl noch länger in Erinnerung bleiben wird...",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/schnelle-pinkelpause-opa-vergisst-enkel-an-parkplatz-81790244.bild.html",
-      "image_title": "Feucht: Opa vergisst Enkel nach Pinkelpause an Parkplatz"
-    },
-    {
-      "title": "Jetzt spricht Salwan A.s Vater : „Der Al-Zein-Clan hat meinen Sohn getötet“",
-      "teaser": "Im August wurde der Besitzer einer Autowerkstatt in Solingen auf offener Straße ermordet",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/blut-tat-in-solingen-opfer-vater-sagt-der-al-zein-clan-hat-meinen-sohn-getoetet-81762420.bild.html",
-      "image_title": "Blut-Tat in Solingen! Opfer-Vater sagt: „Der Al-Zein-Clan hat meinen Sohn getötet“"
-    },
-    {
-      "title": "Prozess startet Mitte November : Andreas S. (27) wegen Dreifachmordes vor Gericht",
-      "teaser": "Er ermordete Mutter, Vater und Schwester. Jetzt kommt er vor Gericht!",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/dreifachmord-in-roevershagen-angeklagte-im-november-vor-gericht-81789396.bild.html",
-      "image_title": "Dreifachmord in Rövershagen: Angeklagte im November vor Gericht"
-    },
-    {
-      "title": "Mann (48) bei Streit in Berlin verletzt : Spürhund Gustav (3) soll Messerstecher überführen",
-      "teaser": "Zwei Männer verletzen einen 48-Jährigen lebensgefährlich durch Messerstiche.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/mann-bei-streit-in-berlin-verletzt-ein-fall-fuer-kommissar-gustav-3-81781498.bild.html",
-      "image_title": "Mann bei Streit in Berlin verletzt: Ein Fall für Kommissar Gustav (3)"
-    },
-    {
-      "title": "Online-Betrüger zocken Senior ab : Rentner um 140 000 Euro betrogen",
-      "teaser": "Ein Rentner wurde Opfer von Online-Betrügern und fiel auf falsche Aktiengeschäfte herein.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/online-betrueger-zocken-senior-ab-rentner-um-140-000-euro-betrogen-81787618.bild.html",
-      "image_title": "Online-Betrüger zocken Senior ab: Rentner um 140 000 Euro betrogen"
-    },
-    {
-      "title": "Er beißt, droht und randaliert : Neuer Nachbar terrorisiert schwäbisches Städtchen",
-      "teaser": "Seit Oktober leben die Menschen in der Villinger Altstadt in Angst vor einem Randalierer.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/pflasterstein-attacken-irrer-terrorisiert-einwohner-von-villingen-81777914.bild.html",
-      "image_title": "Pflasterstein-Attacken: Irrer terrorisiert Einwohner von Villingen"
-    },
-    {
-      "title": "Schülerin kam abends nicht nach Hause : Sorge um vermisste Alina",
-      "teaser": "Aufatmen in Bad Homburg: Die vermisste Alina (15) ist wieder daheim",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/sie-kam-abends-nicht-nach-hause-alina-15-aus-bad-homburg-vermisst-81777214.bild.html",
-      "image_title": "Vermisste Schülerin: Alina (15) ist wieder da"
-    },
-    {
-      "title": "Vorm Tod gerettet : Das ist der Gnadenhof der gequälten Hühnern",
-      "teaser": "Simone Metzger (54) hat fünf Hennen vorm Schlachter bewahrt.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/vorm-schlachter-gerettet-das-ist-der-gnadenhof-der-gequaelten-huehner-81781418.bild.html",
-      "image_title": "Vorm Schlachter gerettet: Das ist der Gnadenhof der gequälten Hühner"
-    },
-    {
-      "title": "Hier entstehen Häuser mit Bunkern : Gottschalk-Villa plattgemacht!",
-      "teaser": "Auf dem Areal sollen neun Luxus-Villen mit Kamin und Indoor-Pools errichtet werden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/fuer-luxus-neubauten-gottschalk-villa-am-ammersee-platt-gebaggert-81778344.bild.html",
-      "image_title": "Thomas Gottschalk: Seine Villa wurde platt gebaggert"
-    },
-    {
-      "title": "Polizei fasst Louis K. (22) : Vom Schülervertreter zum Darknet-Boss",
-      "teaser": "Vom braven Schüler zum Darknet-Boss. Die kriminelle Karriere von Louis K. ist unglaublich.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/polizei-schnappt-ihn-in-bayern-vom-braven-schueler-zum-darknet-boss-81777642.bild.html",
-      "image_title": "Polizei schnappt ihn in Bayern: Vom braven Schüler zum Darknet-Boss"
-    },
-    {
-      "title": "Nach Schamlos-Tweet über Radlerin : Klima-Extremist plötzlich kleinlaut!",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/nach-schamlos-tweet-ueber-radlerin-klima-extremist-ploetzlich-kleinlaut-81799428.bild.html",
-      "image_title": "Nach Schamlos-Tweet über Radlerin: Klima-Extremist plötzlich kleinlaut!"
-    },
-    {
-      "title": "Mit Staatsknete : Das miese Spiel von Islamisten mit Flüchtlingen",
-      "url": "https://www.bild.de/video/clip/news/mit-staatsknete-das-miese-spiel-von-islamisten-mit-fluechtlingen-81799826.bild.html",
-      "image_title": "Mit Staatsknete: Das miese Spiel von Islamisten mit Flüchtlingen"
-    },
-    {
-      "title": "Überfall auf Demonstranten vor Botschaft : Selbst in Berlin sind Iraner nicht sicher",
-      "url": "https://www.bild.de/video/clip/bild-tv/ueberfall-auf-demonstranten-vor-botschaft-selbst-in-berlin-sind-iraner-nicht-sic-81784434.bild.html",
-      "image_title": "Überfall auf Demonstranten vor Botschaft: Selbst in Berlin sind Iraner nicht sicher"
-    }
-  ]
+  "articles": []
 }
