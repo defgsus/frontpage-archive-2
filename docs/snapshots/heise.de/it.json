@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-01T11:19:53",
+  "timestamp": "2022-11-01T12:54:19",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.76ef6fa9017b1bb6d615",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.fdcdee656c708c8b2680",
       "id": null,
       "text": null
     }
@@ -53,7 +53,32 @@
       "url": "https://www.heise.de/tests/2FA-Fuenf-kostenlose-Authenticator-Apps-fuer-Android-im-Vergleich-7322126.html"
     },
     {
-      "title": "Adobe Stock bringt PNGs mit Transparenz und vertikale Videos",
+      "title": "Beerdigt Google so JPEG XL? Chromium entfernt das Grafikformat noch vorm Start",
+      "teaser": "Ab Version 110 streicht Chromium JPEG XL komplett aus dem Webbrowser. Google begründet das mit wenig Interesse am Grafikformat – zum Unverständnis der Nutzer.",
+      "url": "https://www.heise.de/news/Beerdigt-Google-so-JPEG-XL-Chromium-entfernt-das-Grafikformat-noch-vorm-Start-7325682.html"
+    },
+    {
+      "title": "Micron: Neue SDRAM-Generation 1-Beta weiter ohne EUV-Lithografie",
+      "teaser": "Kleinere Speicherbausteine mit höherer Effizienz: Micron kündigt seine 1-Beta-Fertigungsgeneration mit LPDDR5X-8500-RAM an, später folgt unter anderem DDR5.",
+      "url": "https://www.heise.de/news/Micron-Erster-SDRAM-Hersteller-mit-neuer-1-Beta-Chipfertigung-7325623.html"
+    },
+    {
+      "title": "Ruhiger Herbst, wenig Neues - was ist faul bei Apple?",
+      "teaser": "So wenige Events und neue Produkte gab es bei Apple in einem Herbst lange nicht mehr. Woran das liegen könnte und wie es weitergeht. Eine Analyse.",
+      "url": "https://www.heise.de/meinung/Ruhiger-Herbst-wenig-Neues-was-ist-faul-bei-Apple-7325734.html"
+    },
+    {
+      "title": "Spielehit \"Resident Evil Village\" kommt für den Mac – aber nur Apple Silicon",
+      "teaser": "Der Survival-Horror-Toptitel von 2021 wird nun endlich für macOS portiert. Capcom setzt dabei eine Besonderheit um.",
+      "url": "https://www.heise.de/news/Spielehit-Resident-Evil-Village-kommt-fuer-den-Mac-aber-nur-Apple-Silicon-7325686.html"
+    },
+    {
+      "title": "WM in Katar: Zwangs-Apps mit Sicherheits- und Privatsphären-Risiken",
+      "teaser": "Auch zum Besuch der Fußball-WM in Katar müssen Teilnehmer zwei Apps zwangsweise installieren. IT-Sicherheits-Experten warnen vor Sicherheitsproblemen.",
+      "url": "https://www.heise.de/news/WM-in-Katar-Zwangs-Apps-mit-Sicherheits-und-Privatsphaeren-Risiken-7325388.html"
+    },
+    {
+      "title": "Adobe Stock bringt neue Foto- und Filmformate",
       "teaser": "Leicht montierbare Fotos, Sammlungen von Icons, Hochkantfilmchen für Social Media - Adobes Stock-Sammlung kennt zwei neue Formate.",
       "url": "https://www.heise.de/news/Adobe-Stock-bringt-PNGs-mit-Transparenz-und-vertikale-Videos-7325086.html"
     },
@@ -105,32 +130,6 @@
       "teaser": "Die heutige Podcastfolge geht der Frage nach, was Kanban zur Rolle von (Scrum) Product Ownern zu sagen hat. Kennt Kanban Product Owner überhaupt?",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Was-Kanban-zur-Rolle-des-Product-Owners-sagt-7324791.html",
       "image_title": "Die Produktwerker – der Podcast für Product Owner"
-    },
-    {
-      "title": "JavaScript-Runtime: Deno 1.27 bietet Inlay Hints für informativeren Code",
-      "teaser": "Das Feature Inlay Hints aus TypeScript 4.4 lässt sich nun in der Runtime nutzen, und die Arbeit an der verbesserten npm-Anbindung zeigt weitere Fortschritte.",
-      "url": "https://www.heise.de/news/JavaScript-Runtime-Deno-1-27-bietet-Inlay-Hints-fuer-informativeren-Code-7324907.html"
-    },
-    {
-      "title": "Backup-Software von ConnectWise für Ransomware-Attacken anfällig",
-      "teaser": "Angreifer könnten Systeme mit Recover oder R1Soft Server Backup Manager von ConnectWise attackieren. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Backup-Software-von-ConnectWise-fuer-Ransomware-Attacken-anfaellig-7324856.html"
-    },
-    {
-      "title": "Jetzt patchen! Es könnten Attacken auf VMware Cloud Foundation bevorstehen",
-      "teaser": "Für eine kritische Sicherheitslücke in Cloud Foundation von VMware ist Exploit-Code in Umlauf.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Es-koennten-Attacken-auf-VMware-Cloud-Foundation-bevorstehen-7324777.html"
-    },
-    {
-      "title": "Patterns in der Softwareentwicklung: Das Kompositum-Muster",
-      "teaser": "Das Kompositum-Muster ermöglicht es, Objekte in Baumstrukturen zusammenzusetzen und einzelne und zusammengesetzte Objekte einheitlich zu behandeln.",
-      "url": "https://www.heise.de/blog/Patterns-in-der-Softwareentwicklung-Das-Kompositum-Muster-7323502.html",
-      "image_title": "World,Philosophy,Day,Education,Concept,With,Tree,Of,Knowledge,Planting"
-    },
-    {
-      "title": "Linux-Distribution: Endian Firewall UTM 6.5.0 ist da",
-      "teaser": "Die kommerzielle Version der Linux-basierten Firewall Endian wurde überarbeitet. Die Entwickler haben unter anderem Docker integriert.",
-      "url": "https://www.heise.de/news/Linux-Distribution-Endian-Firewall-UTM-6-5-0-ist-da-7324723.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
