@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-02T08:30:07",
+  "timestamp": "2022-11-02T09:23:32",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.eaf3fb0a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a8e600f9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.cf6545c6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.eba2d924.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.4f190586.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.04b76cd0.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "GNTM-Star Neele Bronst : Zweite Busen-OP mit 25",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/gntm-star-neele-bronst-zweite-busen-op-mit-25-81797724.bild.html",
-      "image_title": "GNTM-Star Neele Bronst: Zweite Busen-OP mit 25"
-    },
-    {
-      "title": "Mit 41 Messerstichen getötet : Warum musste Milena sterben?",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mit-41-messerstichen-getoetet-warum-musste-milena-sterben-81798282.bild.html",
-      "image_title": "Mit 41 Messerstichen getötet: Warum musste Milena sterben?"
-    },
-    {
-      "title": "Nach 15 Jahren Funkstille : Obermaier und Langhans treffen sich heimlich",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/uschi-obermaier-rainer-langhans-heimliches-treffen-in-schwabing-81799714.bild.html",
-      "image_title": "Uschi Obermaier & Rainer Langhans: Heimliches Treffen in München"
-    },
-    {
-      "title": "An der Berliner Schlosskuppel : Bundesregierung will Bibeltext verhüllen",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/an-der-berliner-schlosskuppel-bundesregierung-will-bibeltext-verhuellen-81803730.bild.html",
-      "image_title": "An der Berliner Schlosskuppel: Bundesregierung will Bibeltext verhüllen"
-    },
-    {
-      "title": "Wegen Klima-Aktivisten zu spät gerettet : Berliner Radfahrerin (44) nach Not-OP stabil",
-      "teaser": "Nach einer Not-Operation liegt die Radfahrerin (44) auf der Intensivstation.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/news-ausland/wegen-klima-aktivisten-zu-spaet-gerettet-radfahrerin-44-stabil-81801806.bild.html",
-      "image_title": "Wegen Klima-Aktivisten zu spät gerettet: Radfahrerin (44) stabil"
-    },
-    {
-      "title": "Nach Kartoffelbrei-Attacke : So schützt das Museum Barberini jetzt den Monet",
-      "teaser": "Klima-Kleber schleuderten Kartoffelbrei gegen einen Multi-Millionen-Monet.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/nach-attacke-in-potsdam-so-schuetzt-das-barberini-jetzt-den-monet-81792150.bild.html",
-      "image_title": "Nach Attacke in Potsdam: So schützt das Barberini jetzt den Monet"
-    },
-    {
-      "title": "Ministerin bei „Uthörn“-Taufe! : Was schafft das Schiff?",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/ministerin-bei-uthoern-taufe-was-schafft-das-schiff-81798050.bild.html",
-      "image_title": "Ministerin bei „Uthörn“-Taufe! Was schafft das Schiff?"
-    },
-    {
-      "title": "Caravan, Bier, Reise : Messe-Dreier am Wochenende",
-      "teaser": "Freitag bis Sonntag laufen „ReiseLust“, „Fisch&Feines/Craft Beer“ und „Caravan“!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/caravan-bier-reise-messe-dreier-am-wochenende-81798072.bild.html",
-      "image_title": "Caravan, Bier, Reise: Messe-Dreier am Wochenende"
-    },
-    {
-      "title": "Ausgerechnet kurz vor WM-Nominierung : Füllkrug hat ein Gelb-Problem",
-      "teaser": "Niclas Füllkrug droht die 5. Gelbe. Der Torjäger würde damit gegen Bayern gesperrt sein.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-kurz-vor-wm-nominierung-hat-niclas-fuellkrug-ein-gelb-problem-81796538.bild.html",
-      "image_title": "Werder Bremen: Kurz vor WM-Nominierung hat Niclas Füllkrug ein Gelb-Problem"
-    },
-    {
-      "title": "Kinder missbraucht? : Neuer Prozess um Kita-Quälerin",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sie-soll-kinder-missbraucht-haben-neuer-prozess-um-kita-quaelerin-81806714.bild.html",
-      "image_title": "Sie soll Kinder missbraucht haben: Neuer Prozess um Kita-Quälerin"
-    },
-    {
-      "title": "Sie macht Millionen Krebskranken Hoffnung : Dieser Chip soll Tumor-Zellen erkennen",
-      "teaser": "Ihre Forschung am Helmholtz-Zentrum Dresden-Rossendorf könnte die Krebsheilung revolutionieren.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/krebs-sie-macht-millionen-kranken-hoffnung-81804200.bild.html",
-      "image_title": "Krebs: Sie macht Millionen-Kranken Hoffnung"
-    },
-    {
-      "title": "Rechtsextremer wollte von ihm lernen : Gericht lehnt „Freie-Sachsen“-Chef als Ausbilder ab",
-      "teaser": "Er wollte erreichen, dass Rechtsreferendar Matthias B. bei ihm seine praktische Ausbildung beginnen kann.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/rechtsextremismus-gericht-lehnt-freie-sachsen-chef-als-ausbilder-ab-81805412.bild.html",
-      "image_title": "Rechtsextremismus: Gericht lehnt „Freie-Sachsen“-Chef als Ausbilder ab"
-    },
-    {
-      "title": "Nachwuchs-Krise in Sachsen : Polizisten aus dem Ausland - wie soll das gehen?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-polizisten-aus-dem-ausland-wie-soll-das-gehen-81805064.bild.html",
-      "image_title": "Sachsen: Polizisten aus dem Ausland - wie soll das gehen?"
-    },
-    {
-      "title": "Er kann sich nicht erinnern : Brust-Beisser (19) soll Punkerin (15) in Park vergewaltigt haben",
-      "teaser": "Dustin H. (19) soll laut Staatsanwaltschaft seine Kurzzeit-Freundin Nina (15) ins Gebüsch gezerrt, mehrfach vergewaltigt und in die Brust gebissen haben.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-brust-beisser-19-soll-punkerin-15-in-park-vergewaltigt-haben-81803440.bild.html",
-      "image_title": "Dresden: Brust-Beisser (19) soll Punkerin (15) in Park vergewaltigt haben"
-    },
-    {
-      "title": "Dynamo von Fan-Chaoten attackiert : Sportchef fordert Aufarbeitung der Bus-Attacke",
-      "teaser": "Die Attacke von Fan-Chaoten aus Nürnberg auf den Mannschaftsbus von Dynamo Dresden schlägt hohe Wellen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-sportchef-ralf-becker-fordert-aufarbeitung-der-bus-attacke-81803786.bild.html",
-      "image_title": "Dynamo Dresden: Sportchef Ralf Becker fordert Aufarbeitung der Bus-Attacke"
-    },
-    {
-      "title": "Schlimmer Unfall auf der A46 in Wuppertal : Laster gegen Brücke gekracht – Fahrer tot",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/unfall-auf-a46-in-wuppertal-laster-gegen-bruecke-gekracht-fahrer-tot-81807174.bild.html",
-      "image_title": "Unfall auf A46 in Wuppertal: Laster gegen Brücke gekracht – Fahrer tot"
-    },
-    {
-      "title": "Mercedes-Fahrer wollte Polizei abhängen : Flucht endet mit schwerem Kreuzungs-Crash",
-      "teaser": "In Krefeld wollte ein Mercedes-Fahrer der Polizei entkommen, baute einen schweren Unfall.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/krefeld-flucht-vor-polizei-mercedes-fahrer-baut-schweren-unfall-81805490.bild.html",
-      "image_title": "Krefeld: Flucht vor Polizei – Mercedes-Fahrer baut schweren Unfall"
-    },
-    {
-      "title": "Spektakuläre Rettung aus Morast : PFERDammt viel Glück gehabt!",
-      "teaser": "Das Pferd versank immer tiefer, kam ohne Hilfe nicht mehr heraus ...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/heinsberg-pferd-im-morast-versunken-spektakulaere-rettung-81803228.bild.html",
-      "image_title": "Heinsberg: Pferd im Morast versunken – spektakuläre Rettung"
-    },
-    {
-      "title": "Mit Lauch und Kohle zum Sieg! : Jan ist Frankfurts bester Jungkoch",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mit-lauch-zum-sieg-jan-ist-frankfurts-bester-jungkoch-81803434.bild.html",
-      "image_title": "Mit Lauch zum Sieg: Jan ist Frankfurts bester Jungkoch"
-    },
-    {
-      "title": "Bodybuilder mag's nicht mehr blutig : Gemüse machte diese Muckis",
-      "teaser": "Bodybuilding-Champion Daniel Müller verrät BILD seine gesunden Mucki-Geheimnisse.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/bodybuilding-champ-gemuese-macht-meine-muckis-81803996.bild.html",
-      "image_title": "Bodybuilding-Champ: Gemüse macht meine Muckis"
-    },
-    {
-      "title": "Zwei Frauen von ihren Männern getötet : Kopfschuss-Mord, Messer-Attacke, Wut-Rausch",
-      "teaser": "Einst waren sie zärtlich, verliebt, schworen einander ewige Treue. Doch irgendwann kipp...",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/er-passte-sie-an-der-tuer-ab-mann-soll-ex-mit-41-stichen-getoetet-haben-81792552.bild.html",
-      "image_title": "Kopfschuss, Messer-Attacke, Wutrausch: schockierende Frauenmorde"
-    },
-    {
-      "title": "Kollision von fünf Fahrzeugen : Drei Schwerverletzte bei Unfall auf A 7",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kollision-von-fuenf-fahrzeugen-drei-schwerverletzte-bei-unfall-auf-a-7-81806468.bild.html",
-      "image_title": "Kollision von fünf Fahrzeugen: Drei Schwerverletzte bei Unfall auf A 7"
-    },
-    {
-      "title": "Seyed Soleiman Mousavifar pfeift auf Ausweisungs-Bescheid : Hamburger Hass-Mullah verhöhnt uns alle",
-      "teaser": "Eigentlich sollte Seyed Soleiman Mousavifar (46) am Freitag ausreisen, doch der hat andere Pläne.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/hass-mullah-verhoehnt-uns-alle-und-pfeift-auf-ausweisungs-bescheid-81797816.bild.html",
-      "image_title": "Hass-Mullah verhöhnt uns alle und pfeift auf Ausweisungs-Bescheid"
-    },
-    {
-      "title": "Halloween-Randale in Harburg : Ich hab mich schon mal umgezogen für den Knast",
-      "teaser": "Er warf sich extra in Schale, um in der Halloween-Nacht gut gekleidet im Knast zu landen!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/halloween-randale-in-harburg-und-ein-haeftling-mischt-tuechtig-mit-ich-hab-mich-81797938.bild.html",
-      "image_title": "Halloween-Randale in Harburg – und ein Häftling mischt tüchtig mit: Ich hab mich schon mal umgezogen für den Knast"
-    },
-    {
-      "title": "Tragisches Unglück in Niedersachsen : Vierjähriger fällt in Pool – tot!",
-      "url": "https://www.bild.de/news/inland/news-inland/tragisches-unglueck-in-bramsche-vierjaehriger-faellt-in-pool-tot-81805336.bild.html",
-      "image_title": "Tragisches Unglück in Bramsche: Vierjähriger fällt in Pool – tot!"
-    },
-    {
-      "title": "Sie hatte eine Affäre, er drehte durch : Killer rechtfertigt Mord an seiner Frau",
-      "teaser": "Im Mordprozess schildert Hüseyin C., warum er Noch-Ehefrau Esra in Burgdorf umbrachte.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/sie-hatte-eine-affaere-da-drehte-ihr-mann-durch-killer-rechtfertigt-mord-an-esra-81798160.bild.html",
-      "image_title": "Sie hatte eine Affäre, da drehte ihr Mann durch: Killer rechtfertigt Mord an Esra"
-    },
-    {
-      "title": "200-Jahre-Stämme : Expo-Eichen müssen weichen",
-      "teaser": "Die über 200 Jahre alten Holzstämme trugen zwei Stockwerke vom Wahrzeichen der Expo.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/200-jahre-staemme-tragen-neues-viertel-nicht-expo-eichen-muessen-weichen-81798138.bild.html",
-      "image_title": "200-Jahre-Stämme tragen neues Viertel nicht: Expo-Eichen müssen weichen"
-    },
-    {
-      "title": "Letzte Europa-Chance! : Darum ist Kölns Nizza-Endspiel so brisant",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-letzte-europa-chance-darum-ist-koelns-nizza-endspiel-so-brisant-81805300.bild.html",
-      "image_title": "1. FC Köln: Letzte Europa-Chance!: Darum ist Kölns Nizza-Endspiel so brisant"
-    },
-    {
-      "title": "Kreuzband-Riss : Transfer-Alarm nach Dietz-Drama in Köln!",
-      "teaser": "Kölns Florian Dietz (24) hat sich beim 1:1 gegen Hoffenheim einen Kreuzbandriss zugezogen.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-saison-aus-fuer-steffen-baumgarts-stuermer-florian-dietz-81798588.bild.html",
-      "image_title": "1. FC Köln: Kölner Transfer-Alarm nach Drama um Stürmer von Steffen Baumgart"
-    },
-    {
-      "title": "Kürzere Öffnungs- und Beleuchtungszeiten : Weihnachtsmärkte knipsen ihr Licht aus",
-      "teaser": "Viele Weihnachtsmärkte in NRW planen mit kürzeren Öffnungs- und Beleuchtungszeiten.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/weihnachtsmaerkte-planen-mit-kuerzere-oeffnungs-und-beleuchtungszeiten-81800598.bild.html",
-      "image_title": "Weihnachtsmärkte planen mit kürzeren Öffnungs- und Beleuchtungszeiten"
-    },
-    {
-      "title": "City-Unterführung wird Nachtlager von Obdachlosen : Der Tunnel der Abgehängten",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-immer-mehr-obdachlose-der-tunnel-der-abgehaengten-81793484.bild.html",
-      "image_title": "Leipzig: Immer mehr Obdachlose – Der Tunnel der Abgehängten"
-    },
-    {
-      "title": "Trainingsabbruch! : Leipzigs Haidara in Donezk nur als Tourist dabei",
-      "teaser": "Leipzigs Amadou Haidara plagt sich mit Knöchelproblemen herum.",
-      "url": "https://www.bild.de/sport/fussball/rb-leipzig/rb-leipzig-amadou-haidara-in-donezk-nur-als-tourist-dabei-81804428.bild.html",
-      "image_title": "RB Leipzig: Amadou Haidara in Donezk nur als Tourist dabei"
-    },
-    {
-      "title": "Ehrenmal in der Thomaskirche beschmiert : Filzstift-Attacke auf Markgraf",
-      "teaser": "In der Thomaskirche wurde das Ehrengrabmal des Markgrafen Dietrich III. von Meißen beschädigt.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/ehrenmal-in-thomaskirche-beschmiert-filzstift-attacke-auf-markgraf-81804322.bild.html",
-      "image_title": "Ehrenmal in Thomaskirche beschmiert: Filzstift-Attacke auf Markgraf"
-    },
-    {
-      "title": "Hansa-Schwede Ingelsson : Hilft ihm das „Kack-Tor“?",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-schwede-ingelsson-hilft-ihm-das-kack-tor-81803934.bild.html",
-      "image_title": "Hansa-Schwede Ingelsson: Hilft ihm das „Kack-Tor“?"
-    },
-    {
-      "title": "Nachbar lebensgefährlich verletzt : Mehr als 5 Jahre Haft für Macheten-Rentner",
-      "teaser": "Thorwald P. (70) griff seinen Nachbarn mit der Machete an. Das war versuchter Totschlag.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/nachbarn-schwer-verletzt-haft-fuer-macheten-rentner-81799936.bild.html",
-      "image_title": "Nachbarn schwer verletzt: Haft für Macheten-Rentner!"
-    },
-    {
-      "title": "Hansa-Angreifer knackt Tor-Rekord : Pröger kann es auch mit links",
-      "teaser": "Je älter, desto besser. Kai Pröger (30) blüht bei Hansa Rostock immer mehr auf.",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostock-proeger-kann-es-auch-mit-links-81791268.bild.html",
-      "image_title": "Hansa Rostock: Pröger kann es auch mit links"
-    },
-    {
-      "title": "Am 26. Dezember : Aus dieser Stadt kommt der Weihnachts-„Tatort“",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/am-26-dezember-aus-dieser-stadt-kommt-der-weihnachts-tatort-81806850.bild.html",
-      "image_title": "Am 26. Dezember: Aus dieser Stadt kommt der Weihnachts-„Tatort“"
-    },
-    {
-      "title": "Spitzenpolitiker fordern : Klima-Kleber in den Knast",
-      "teaser": "Endlich auch Mal Knast, fordert CSU-Landesgruppenchef Dobrindt für Klima-Kleber.",
-      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/spitzenpolitiker-fordern-klima-kleber-in-den-knast-81802912.bild.html",
-      "image_title": "Spitzenpolitiker fordern: Klima-Kleber in den Knast"
-    },
-    {
-      "title": "BUNDESREGIERUNG WILL BIBELTEXT VERHÜLLEN : Kommentar: Scheinheilig!",
-      "teaser": "Der Islam wird gefördert, das Christentum wird gleichzeitig zurückgedrängt.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/bundesregierung-will-bibeltext-verhuellen-scheinheilig-81804626.bild.html",
-      "image_title": "Bundesregierung will Bibeltext auf dem Berliner Stadtschloss verhüllen: Das ist scheinheilig!"
-    },
-    {
-      "title": "Nach Rücktritt von Erzbischof Schick : Kirchenrechtler: Nachfolger braucht gute Nerven",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/nach-schick-ruecktritt-kirchenrechtler-nachfolger-braucht-gute-nerven-81806666.bild.html",
-      "image_title": "Nach Schick-Rücktritt: Kirchenrechtler: Nachfolger braucht gute Nerven"
-    },
-    {
-      "title": "Automaten-Sprenger : Diese Banken bomben Banden am liebsten!",
-      "teaser": "Die Banden haben 28 Mal in Bayern zugeschlagen – ein Institut trifft's besonders oft.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bayern-diese-banken-bomben-banden-am-liebsten-81764312.bild.html",
-      "image_title": "Bayern: Diese Banken bomben Banden am liebsten"
-    },
-    {
-      "title": "Polizei schnappt flüchtigen Mann (58) : Hat ER seine Frau (46) totgeprügelt?",
-      "teaser": "Meitingen – Sie haben IHN! Nach dem gewaltsamen Tod einer Frau († 46) in Meitingen sitzt ihr Ehemann Anton H. (58) in U-Haft.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/polizei-schnappt-fluechtigen-mann-hat-er-seine-frau-46-totgepruegelt-81801034.bild.html",
-      "image_title": "Polizei schnappt flüchtigen Mann: Hat ER seine Frau (†46) totgeprügelt?"
-    },
-    {
-      "title": "Familie bangt um Toomaj Salehi : Iranischer Rapper von Mullah-Regime festgenommen",
-      "url": "https://www.bild.de/news/ausland/politik-ausland/iran-rapper-wegen-kritischer-lieder-von-mullah-regime-festgenommen-81804838.bild.html",
-      "image_title": "Iran: Rapper wegen kritischer Lieder von Mullah-Regime festgenommen"
-    },
-    {
-      "title": "Selber sägen im Schlosspark : Stadt Essen führt Bürger-Brennholz ein",
-      "teaser": "Wegen der Energiekrise ist der Ansturm auf das städtische Brennholz in Essen gewaltig.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/selber-saegen-im-schlosspark-stadt-essen-fuehrt-buerger-brennholz-ein-81800584.bild.html",
-      "image_title": "Selber sägen im Schlosspark: Stadt Essen führt Bürger-Brennholz ein"
-    },
-    {
-      "title": "Täter drangen durch die Sauna ein : Geldautomat in Ferienpark gesprengt",
-      "teaser": "Schon wieder eine Geldautomatensprengung! Dieses Mal in einem Ferienpark im Sauerland.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/anlage-im-sauerland-geldautomat-in-centerparcs-gesprengt-81798262.bild.html",
-      "image_title": "CenterParcs im Sauerland: Geldautomat in Ferienpark gesprengt"
-    },
-    {
-      "title": "Großeinsatz für die Saar-Feuerwehr : Brand-Alarm im Brennstoffhandel",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/saarland-brand-alarm-im-brennstoffhandel-81806404.bild.html",
-      "image_title": "Saarland: Brand-Alarm im Brennstoffhandel"
-    },
-    {
-      "title": "Dudweilerin rettet Hund vor Tod : Ein Häufchen Hoffung",
-      "teaser": "Die Dudweilerin Renate Bitschnau bewahrte „Hope“ vor dem sicheren Tod in Kroatien.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/dudweilerin-rettet-hund-vor-tod-ein-haeufchen-hoffnung-81799898.bild.html",
-      "image_title": "Dudweilerin rettet Hund vor Tod: Ein Häufchen Hoffnung"
-    },
-    {
-      "title": "Test neuer Anlagen : Sirenen heulen heute in Saarbrücken",
-      "teaser": "In Saarbrücker Stadtteilen heulen am 2. November zwischen 8 und 14 Uhr die Sirenen.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/test-neuer-anlagen-sirenen-heulen-heute-in-saarbruecken-81798310.bild.html",
-      "image_title": "Test neuer Anlagen: Sirenen heulen heute in Saarbrücken"
-    },
-    {
-      "title": "Bei Ebay im Angebot : 250 000 Euro für den Hof der Blut-Zwillinge",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/bei-ebay-im-angebot-250-000-euro-fuer-den-hof-der-blut-zwillinge-81804664.bild.html",
-      "image_title": "Bei Ebay im Angebot: 250 000 Euro für den Hof der Blut-Zwillinge"
-    },
-    {
-      "title": "Pleite in Osnabrück : HFC auswärts ohne Killerinstinkt",
-      "teaser": "Einen Tag nach dem 2:3 in Osnabrück wirkte HFC-Trainer André Meyer immer noch angeschlagen",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-pleite-in-osnabrueck-hfc-auswaerts-ohne-killerinstinkt-81803122.bild.html",
-      "image_title": "3. Liga: Pleite in Osnabrück – HFC auswärts ohne Killerinstinkt"
-    },
-    {
-      "title": "Verdacht der Geldwäsche : Acht Goldbarren in Spiele-Controller geschmuggelt",
-      "teaser": "Zöllner haben auf dem Flughafen Leipzig/Halle Goldbarren mit einem Gesamtgewicht von rund einem Kilogramm und einem Wert von 60 000 sichergestellt..",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/flughafen-leipzig-goldbarren-in-gamepads-geschmuggelt-81800796.bild.html",
-      "image_title": "Flughafen Leipzig: Goldbarren in Spiele-Controller geschmuggelt"
-    },
-    {
-      "title": "B10 gesperrt : Vier Rinder wegen Unfallgefahr erlegt",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/b10-gesperrt-vier-rinder-wegen-unfallgefahr-erlegt-81806890.bild.html",
-      "image_title": "B10 gesperrt: Vier Rinder wegen Unfallgefahr erlegt"
-    },
-    {
-      "title": "Rhein-Neckar-Kreis : Hauswand stürzt ein - Straße gesperrt",
-      "teaser": "Aus noch unbekannten Gründen ist die Wand eines Wohnhauses eingestürzt.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/rhein-neckar-kreis-hauswand-stuerzt-ein-strasse-gesperrt-81806748.bild.html",
-      "image_title": "Rhein-Neckar-Kreis: Hauswand stürzt ein - Straße gesperrt"
-    },
-    {
-      "title": "Experte schätzt für BaWü : Arbeitslosigkeit im Oktober dürfte gesunken sein",
-      "teaser": "Krieg, Inflation, Energiekrise – all das hat dem Arbeitsmark zuletzt wenig anhaben können.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/experte-schaetzt-fuer-bawue-arbeitslosigkeit-im-oktober-wohl-gesunken-81803540.bild.html",
-      "image_title": "Experte schätzt für BaWü: Arbeitslosigkeit im Oktober wohl gesunken"
-    },
-    {
-      "title": "Beinhart im Beinwagen! : Brüder bauen Werner-Motorrad nach",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/beinhart-im-beinwagen-brueder-bauen-werner-motorrad-nach-81804126.bild.html",
-      "image_title": "Beinhart im Beinwagen: Brüder bauen Werner-Motorrad nach"
-    },
-    {
-      "title": "Verkehrte Welt in Thüringen : Das macht Erfurt besser als Carl Zeiss Jena",
-      "teaser": "Rot-Weiß Erfurt spielt gerade den Fußball, den man in Jena sehen will.",
-      "url": "https://www.bild.de/sport/fussball/fussball/verkehrte-welt-in-thueringen-das-macht-erfurt-besser-als-carl-zeiss-jena-81801296.bild.html",
-      "image_title": "Verkehrte Welt in Thüringen: Das macht Erfurt besser als Carl Zeiss Jena"
-    },
-    {
-      "title": "Tier rannte über Straße : Jugendlicher stirbt nach Crash in Klinik",
-      "teaser": "Der Fahrer verlor die Kontrolle, das Auto krachte gegen einen Baum.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/fahrer-wich-tier-aus-fuenf-jugendliche-nach-schleudercrash-in-klinik-81736798.bild.html",
-      "image_title": "Unfall in Thüringen: Jugendlicher stirbt nach Unfall in Klinik"
-    }
-  ]
+  "articles": []
 }
