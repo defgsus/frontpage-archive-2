@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-02T11:21:12",
+  "timestamp": "2022-11-02T12:52:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Android-Trojaner",
+      "url": "https://www.heise.de/news/Eine-Million-Downloads-Boesartige-Android-Apps-leiten-auf-Phishing-Seiten-7327239.html"
+    },
+    {
       "title": "Lenovo-Notebooks",
       "url": "https://www.heise.de/news/Lenovo-kuendigt-gegen-Schadcode-Attacken-abgesicherte-BIOS-Versionen-an-7327115.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Passwortmanager-Enpass-Startprobleme-Workaround-moeglich-7325477.html"
     },
     {
-      "title": "Backup-Software ConnectWise",
-      "url": "https://www.heise.de/news/Backup-Software-von-ConnectWise-fuer-Ransomware-Attacken-anfaellig-7324856.html"
+      "title": "Rüstungskonzern Thales: Datendiebstahl durch Lockbit-Cybergang",
+      "teaser": "Die Cybergang hinter der Lockbit-Malware behauptet, Daten beim Rüstungskonzern Thales entwendet zu haben. Sie drohen mit Veröffentlichung am 7. November.",
+      "url": "https://www.heise.de/news/Ruestungskonzern-Thales-Datendiebstahl-durch-Lockbit-Cybergang-7327642.html"
     },
     {
       "title": "Lenovo kündigt gegen Schadcode-Attacken abgesicherte BIOS-Versionen an",
@@ -56,6 +61,11 @@
       "title": "Bitdefender: Löschen von Registry-Keys durch Sicherheitslücke möglich",
       "teaser": "Eine Sicherheitslücke in den Virenscannern von Bitdefender ermöglicht Angreifern, Registry-Schlüssel zu löschen. Bitdefender verteilt Aktualisierungen dagegen.",
       "url": "https://www.heise.de/news/Virenscanner-Bitdefender-Sicherheitsluecke-ermoeglicht-Loeschen-von-Registry-Keys-7327061.html"
+    },
+    {
+      "title": "heise-Security-Webinar: Praktischer Datenschutz bei Backup und Protokollierung",
+      "teaser": "Der Spagat zwischen Security- und Compliance-Anforderungen und Datenschutz ist bei Backups und Log-Files besonders groß. Unser Webinar hilft dir da weiter.",
+      "url": "https://www.heise.de/news/heise-Security-Webinar-Praktischer-Datenschutz-bei-Backup-und-Protokollierung-7325873.html"
     },
     {
       "title": "Software Supply Chain Security: Sigstore ist einsatzreif für die Produktion",
@@ -142,16 +152,6 @@
       "image_title": "Google Chrome Update"
     },
     {
-      "title": "Sogar Kantine betroffen: Slowakisches Parlament durch Hackerangriff lahmgelegt",
-      "teaser": "Ein Cyberangriff auf das slowakische Parlament am Donnerstag war so schwerwiegend, dass sich das um Wochen vertagt hat. Nach den Tätern wird gesucht.",
-      "url": "https://www.heise.de/news/Sogar-Kantine-betroffen-Slowakisches-Parlament-durch-Hackerangriff-lahmgelegt-7322635.html"
-    },
-    {
-      "title": "macOS 13: Anti-Malware-Tools nach Upgrade zahnlos",
-      "teaser": "Antivirus-Software und andere Sicherheits-Tools funktionieren durch einen Apple-Bug in macOS Ventura nicht mehr richtig. Das Problem kann behoben werden.",
-      "url": "https://www.heise.de/news/macOS-13-Anti-Malware-Tools-nach-Upgrade-zahnlos-7322669.html"
-    },
-    {
       "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
       "teaser": "Erfahren Sie mehr über den datenschutzkonformen Umgang mit Backups und Protokollierungen und die Erstellung von Löschkonzepten. Lernen Sie außerdem passende technische Löschmethoden anzuwenden.",
       "url": "https://webinare.heise.de/archivierung/?wt_mc=intern.events.security.web_archivierung_backups.hs_teaser.link.link",
@@ -173,6 +173,11 @@
       "url": "https://www.heise.de/tests/Sicherheits-und-Incident-Management-mit-Wazuh-7218423.html"
     },
     {
+      "title": "Re: Desinfect Download: Werbung",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-Download-Werbung/posting-41837806/show/"
+    },
+    {
       "title": "Re: Desinfec't 2022: Bootproblem gelöst",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-2022-Bootproblem-geloest/posting-41837579/show/"
@@ -181,11 +186,6 @@
       "title": "ApplePay wirklich sicher?",
       "teaser": "Forum: Viren & Würmer",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Viren-Wuermer/ApplePay-wirklich-sicher/posting-41837366/show/"
-    },
-    {
-      "title": "Re: Desinfect Download: Werbung",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-Download-Werbung/posting-41836869/show/"
     }
   ]
 }
