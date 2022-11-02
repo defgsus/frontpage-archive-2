@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-02T21:23:14",
+  "timestamp": "2022-11-02T22:22:25",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,218 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.226e6cdb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.f373bceb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.e6aedadb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.0162db35.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.636fad98.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.59bbdd39.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Weil er seine Freundin verprügelt hat : Weltmeister Jérôme Boateng schuldig gesprochen",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/1-2-mio-euro-fuer-fussballstar-knallhart-urteil-gegen-boateng-81814344.bild.html",
-      "image_url": "https://images.bild.de/636297cd11ced64c082829ed/e43854d2cc5a65945a1a51ac25c71fe8,b2d28b2e?w=656",
-      "image_title": "1,2 Mio. Euro für Fußballstar: Knallhart-Urteil gegen Boateng"
-    },
-    {
-      "title": "Deutschlands Koks-König ist tot : Seinen Mercedes zahlte er bar aus der Aldi-Tüte",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/deutschlands-beruehmtester-drogen-boss-ronald-miehling-ist-tot-81812192.bild.html",
-      "image_url": "https://images.bild.de/63625dbe299f33588783c4c0/5cc13c4dfa7fdfb114a5f205b24b7539,16c025d1?w=320",
-      "image_title": "Deutschlands berühmtester Drogen-Boss: Ronald Miehling ist tot"
-    },
-    {
-      "title": "Marko H. (51) raste in Fußgängergruppe : Bleibt der Totraser auf freiem Fuß?",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/mann-raste-in-fussgaengergruppe-bleibt-der-totraser-auf-freiem-fuss-81816670.bild.html",
-      "image_url": "https://images.bild.de/6362ce754e23062e0065aaba/a87a30ad7632235ecebb58554b5ae66d,81008a3e?w=320",
-      "image_title": "Mann raste in Fußgängergruppe: Bleibt der Totraser auf freiem Fuß?"
-    },
-    {
-      "title": "Mädchen starb an Schädel-Hirn-Verletzungen : Wurde Säugling aus dem Fenster geworfen?",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/schwerin-wurde-saeugling-aus-dem-fenster-geworfen-81816194.bild.html",
-      "image_url": "https://images.bild.de/6362c14311ced64c08282a37/4a5b8646a32db40f738a90a369379ddc/Kennung_Symbolfoto,a48e5750?w=320",
-      "image_title": "Schwerin: Wurde Säugling aus dem Fenster geworfen?"
-    },
-    {
-      "title": "Blackout-Übung in Schwerin : Kitas spielen schon mal Stromausfall",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/schwerin-blackout-kitas-spielen-schon-mal-stromausfall-81816020.bild.html",
-      "image_url": "https://images.bild.de/6362bc17e146ff35a368eb44/bcdb4bc9cb2214a802e7a4f4dc958e19,2be4584b?w=320",
-      "image_title": "Schwerin: Blackout - Kitas spielen schon mal Stromausfall"
-    },
-    {
-      "title": "Seine Frau (32) zerstückelt? : Wie echt sind die Tränen des gefesselten Ehemanns?",
-      "teaser": "Ein mutmaßlicher Killer faltet seine Hände zum Gebet, weint bitterlich.",
-      "url": "https://www.bild.de/bild-plus/regional/bremen/bremen-aktuell/bremen-getoetete-ekatarina-wie-echt-sind-die-traenen-des-ehemanns-81815774.bild.html",
-      "image_title": "Bremen: Getötete Ekatarina – Wie echt sind die Tränen des Ehemanns?"
-    },
-    {
-      "title": "Erst Monet, jetzt Parteizentralen : Brei-Attentäter wieder da!",
-      "teaser": "Moment mal, diesen Klima-Kleber kennen wir doch!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/erst-monet-jetzt-parteizentralen-brei-attentaeter-wieder-da-81814152.bild.html",
-      "image_title": "Erst Monet, jetzt Parteizentralen: Brei-Attentäter wieder da!"
-    },
-    {
-      "title": "Rückwärts in die Eingangstür : Mann (85) rast in Markt – Frau tot",
-      "teaser": "Bei einem Unfall auf einem Supermarkt-Parkplatz ist eine Frau getötet worden",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mit-hoher-geschwindigkeit-85-jaehriger-rast-in-supermarkt-frau-tot-81809804.bild.html",
-      "image_title": "Dinkelsbühl: 85-Jähriger rast in Supermarkt - Frau tot"
-    },
-    {
-      "title": "Drogenfahnder stürmen Imbiss : Dröhner Kebap mit Heroin",
-      "teaser": "Mitarbeiter sollen nach Observationen von Ermittlern Heroin in Sandwiches verpackt haben.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/drogenfahnder-stuermen-imbiss-am-hansaplatz-droehner-kebap-mit-heroin-81808090.bild.html",
-      "image_title": "Drogenfahnder stürmen Imbiss am Hansaplatz: Dröhner Kebap mit Heroin"
-    },
-    {
-      "title": "So spart Kölner Café bei Stromkosten : Wärmflaschen statt Heizstrahler in Kölner Café",
-      "teaser": "Weil die Strompreise zu hoch waren, schaffte Café-Chef Rafet Aydogdu die Strahler ab.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-caf-ersetzt-heizstrahler-durch-waermflaschen-81812520.bild.html",
-      "image_title": "Köln: Café ersetzt Heizstrahler durch Wärmflaschen"
-    },
-    {
-      "title": "Fahndung in Berlin : Duo stößt Mann aus U-Bahn und tritt ihm gegen Kopf",
-      "teaser": "Wer hat diese Verdächtigen gesehen? Sie sollen einen Mann brutal zugerichtet haben!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/fahndung-in-berlin-duo-stoesst-mann-aus-u-bahn-und-tritt-ihm-gegen-kopf-81813388.bild.html",
-      "image_title": "Fahndung in Berlin: Duo stößt Mann aus U-Bahn und tritt ihm gegen Kopf"
-    },
-    {
-      "title": "Solingerin tot im Kanal gefunden : Killer auf Heimatbesuch geschnappt",
-      "teaser": "Festnahme im Fall Iwona O. († 57), deren Leiche vor über einem Jahr gefunden wurde!",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/solingen-tote-im-kanal-gefunden-iwonas-moerder-in-holland-gefasst-81810634.bild.html",
-      "image_title": "Solingen: Tote in Holland gefunden - Killer auf Heimatbesuch geschnappt"
-    },
-    {
-      "title": "Nerven, Zeit und ganz viel Geld : Das kostet uns der tägliche Klebe-Wahnsinn",
-      "teaser": "Sie besudeln Kunstwerke, kleben sich auf Straßen fest, vermeintlich für einen guten Zweck.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/tausende-euro-jeden-tag-das-kosten-uns-die-klima-kleber-81779924.bild.html",
-      "image_title": "Tausende Euro jeden Tag!: Das kosten uns die Klima-Kleber!"
-    },
-    {
-      "title": "Prügel-Prozess : Razzia gegen Boatengs Security-Mitarbeiter",
-      "teaser": "München – Razzia gegen die Security-Mitarbeiter von Jérôme Boateng (34, Olympique Lyon).",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/auto-durchsucht-razzia-gegen-boatengs-security-mitarbeiter-81809668.bild.html",
-      "image_title": "Jérôme Boatengs Prozess: eine Razzia & Befangenheitsantrag abgelehnt"
-    },
-    {
-      "title": "Mutter des Angeklagten will die Täterin sein : Geständnis-Poker um Stückel-Mord an Ekaterina!",
-      "teaser": "Im Landgericht Bremen saß am Mittwoch erneut die Mutter des Angeklagten Walter B.",
-      "url": "https://www.bild.de/bild-plus/regional/bremen/bremen-aktuell/mutter-des-angeklagten-will-die-taeterin-sein-doch-ihr-glaubt-keiner-gestaendnis-81806800.bild.html",
-      "image_title": "Mutter des Angeklagten will die Täterin sein, doch ihr glaubt keiner! : Geständnis-Poker um Stückel-Mord an Ekaterina!"
-    },
-    {
-      "title": "Rekordsumme am Freitag : 120 Mio. Euro im Eurojackpot – mehr geht nicht!",
-      "teaser": "Zum zweiten Mal in diesem Jahr wird im Eurojackpot die Höchstsumme ausgeschüttet.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-120-millionen-euro-gewinnen-mehr-geht-nicht-81809126.bild.html",
-      "image_title": "Eurojackpot am Freitag: 120 Millionen Euro gewinnen – mehr geht nicht!"
-    },
-    {
-      "title": "Er mag's nicht mehr blutig : Pflanzenfresser und Bodybuilder? Daniel zeigt wie!",
-      "teaser": "Bodybuilding-Champion Daniel Müller verrät BILD seine gesunden Mucki-Geheimnisse.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/bodybuilding-champ-gemuese-macht-meine-muckis-81803996.bild.html",
-      "image_title": "Bodybuilding-Champ und Pflanzenfresser!"
-    },
-    {
-      "title": "Fußball-Verein sammelt Spenden für Familie : Neuperlach trauert um getöteten Stjepan J. (✝︎25)",
-      "teaser": "Das Blut klebt noch am Boden, die Umrisse der Leiche sind auf den Teer gezeichnet.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/neuperlach-trauert-um-getoeteten-stjepan-j-25-81801762.bild.html",
-      "image_title": "Neuperlach trauert um getöteten Stjepan J. (25)"
-    },
-    {
-      "title": "Automaten-Sprenger : Diese Banken bomben Banden am liebsten!",
-      "teaser": "Die Banden haben 28 Mal in Bayern zugeschlagen – ein Institut trifft's besonders oft.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bayern-diese-banken-bomben-banden-am-liebsten-81764312.bild.html",
-      "image_title": "Bayern: Diese Banken bomben Banden am liebsten"
-    },
-    {
-      "title": "Sie macht Millionen Krebskranken Hoffnung : Dieser Chip soll Tumor-Zellen erkennen",
-      "teaser": "Ihre Forschung am Helmholtz-Zentrum Dresden-Rossendorf könnte die Krebsheilung revolutionieren.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/krebs-sie-macht-millionen-kranken-hoffnung-81804200.bild.html",
-      "image_title": "Krebs: Sie macht Millionen Kranken Hoffnung"
-    },
-    {
-      "title": "Tragisches Unglück in Niedersachsen : Vierjähriger fällt in Pool – tot!",
-      "teaser": "Schreckliches Unglück im Schwimmbad: Ein Junge (4) ist nach einem Sturz gestorben.",
-      "url": "https://www.bild.de/news/inland/news-inland/tragisches-unglueck-in-bramsche-vierjaehriger-faellt-in-pool-tot-81805336.bild.html",
-      "image_title": "Tragisches Unglück in Bramsche: Vierjähriger fällt in Pool – tot!"
-    },
-    {
-      "title": "Starkoch müsste im Januar Haft antreten : Schuhbeck plant KEINE Revision gegen Urteil",
-      "teaser": "München – Der morgige Tag wird für Alfons Schuhbeck zur Gefühls-Achterbahn. Grund: Donnerstag endet die Frist für die Revision.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/ab-januar-in-haft-schuhbeck-plant-keine-rechtsmittel-gegen-urteil-81800620.bild.html",
-      "image_title": "Ab Januar in Haft: Schuhbeck plant KEINE Rechtsmittel gegen Urteil"
-    },
-    {
-      "title": "Sebastian S. tötete 1993 einen Jungen : „Satansmörder“ kümmert sich jetzt um Tausende Hort-Kinder",
-      "teaser": "Vor fast 30 Jahren tötete Sebastian S. (46) einen 15-jährigen Jungen. Lesen Sie HIER, was Sebastian S. jetzt macht.",
-      "url": "https://www.bild.de/bild-plus/regional/thueringen/news-inland/gera-satansmoerder-sebastian-s-ist-heute-fuer-kinder-verantwortlich-81803300.bild.html",
-      "image_title": "Gera: „Satansmörder“ Sebastian S. ist heute für Kinder verantwortlich"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 118 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 1. November 2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-gewinnzahlen-vom-1-november-81655418.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Gewinnzahlen vom 1. November"
-    },
-    {
-      "title": "Drogen-Boss über ersten Deal : »Wir schmuggelten das Koks in den Socken",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/drogen-boss-ueber-ersten-deal-wir-schmuggelten-das-koks-in-den-socken-73516214.bild.html",
-      "image_title": "Drogen-Boss über ersten Deal: »Wir schmuggelten das Koks in den Socken"
-    },
-    {
-      "title": "Koks-König Blacky Miehling : „In Kolumbien war ich ständig bewaffnet“",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/koks-koenig-blacky-miehling-in-kolumbien-war-ich-staendig-bewaffnet-73516884.bild.html",
-      "image_title": "Koks-König Blacky Miehling: „In Kolumbien war ich ständig bewaffnet“"
-    },
-    {
-      "title": "Claus Strunz warnt : „Es ist eine neue Stufe gezündet worden“",
-      "url": "https://www.bild.de/video/clip/news/claus-strunz-warnt-es-ist-eine-neue-stufe-gezuendet-worden-81801234.bild.html",
-      "image_title": "Claus Strunz warnt : „Es ist eine neue Stufe gezündet worden“"
-    }
-  ]
+  "articles": []
 }
