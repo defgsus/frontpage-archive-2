@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-04T07:20:25",
+  "timestamp": "2022-11-04T08:31:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Splunk",
+      "url": "https://www.heise.de/news/Patchday-Big-Data-Spezialist-Splunk-dichtet-zwoelf-Schwachstellen-ab-7329933.html"
+    },
+    {
       "title": "Nessus",
       "url": "https://www.heise.de/news/Schwachstellenscanner-Nessus-Updates-schliessen-mehrere-Sicherheitsluecken-7328440.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-IT-Managementsoftware-von-Hitachi-geschlossen-7327825.html"
     },
     {
-      "title": "Android-Trojaner",
-      "url": "https://www.heise.de/news/Eine-Million-Downloads-Boesartige-Android-Apps-leiten-auf-Phishing-Seiten-7327239.html"
+      "title": "Patchday: Big-Data-Spezialist Splunk dichtet zwölf Schwachstellen ab",
+      "teaser": "Der Big-Data-Experte Splunk aktualisiert die gleichnamige Software Splunk Enterprise und Cloud. Nach den Updates klaffen darin zwölf Schwachstellen weniger.",
+      "url": "https://www.heise.de/news/Patchday-Big-Data-Spezialist-Splunk-dichtet-zwoelf-Schwachstellen-ab-7329933.html"
     },
     {
       "title": "IT-Sicherheitstag bietet Hilfestellung bei aktuellen Angriffsmethoden",
@@ -53,15 +58,14 @@
       "url": "https://www.heise.de/news/IT-Sicherheitstag-bietet-Hilfestellung-bei-aktuellen-Angriffsmethoden-7327026.html"
     },
     {
-      "title": "EU-Kommission will hastig weiteres Cyber Centre aufbauen",
-      "teaser": "Russlands Angriffskrieg veranlasst die EU-Kommission, eine eigene Stelle zur Beobachtung des virtuellen Raums einzurichten. Es eilt.",
-      "url": "https://www.heise.de/news/EU-Kommission-baut-yet-another-Cyber-Centre-und-das-dringendst-7329840.html",
-      "image_title": "Scrabble-Würfel buchstabieren CYBER, gefolgt von zwei Würfeln die gerade von einem Zeigefinger gedreht werden. Sie zeigen sowohl \"Crime\" als auch \"Security\""
-    },
-    {
       "title": "Process Monitor: Malware-Aktivitäten mit geeigneten Filtern aufdecken",
       "teaser": "Das kostenlose Tool ProcMon ist vor allem zur Fehlersuche unter Windows beliebt. Seine Monitoring-Skills eignen sich aber auch bestens zur Malware-Analyse.",
       "url": "https://www.heise.de/ratgeber/Process-Monitor-Malware-Aktivitaeten-mit-geeigneten-Filtern-aufdecken-7320044.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
+    },
+    {
+      "title": "Schwachstellenscanner Nessus: Updates schließen mehrere Sicherheitslücken",
+      "teaser": "Der Netzwerk-Schwachstellenscanner Nessus behebt mit neuen Versionen mehrere Schwachstellen in Drittherstellerkomponenten. Admins sollten sie installieren.",
+      "url": "https://www.heise.de/news/Schwachstellenscanner-Nessus-Updates-schliessen-mehrere-Sicherheitsluecken-7328440.html"
     },
     {
       "title": "Patchday Fortinet: FortiSIEM speichert Log-in-Daten unverschlüsselt",
@@ -146,11 +150,6 @@
       "title": "Rhein-Pfalz-Kreis: Angreifer melden sich nach Hackerangriff auf Verwaltung",
       "teaser": "Die Verwaltung des Rhein-Pfalz-Kreises ist Opfer eines Angriffs mit Ransomware geworden. Es sei zu befürchten, dass Daten publik werden, meint der Landrat.",
       "url": "https://www.heise.de/news/Rhein-Pfalz-Kreis-Angreifer-melden-sich-nach-Hackerangriff-auf-Verwaltung-7325225.html"
-    },
-    {
-      "title": "Apple räumt ein: Nur aktuelles macOS stopft alle bekannten Sicherheitslücken",
-      "teaser": "Apple hat zum ersten Mal bestätigt, dass in früheren macOS-Versionen nicht alle Schwachstellen beseitigt werden. Dasselbe gilt offensichtlich für iOS.",
-      "url": "https://www.heise.de/news/Apple-raeumt-ein-Nur-aktuelles-macOS-stopft-alle-bekannten-Sicherheitsluecken-7324991.html"
     },
     {
       "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
