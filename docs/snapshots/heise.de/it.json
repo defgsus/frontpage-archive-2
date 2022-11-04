@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-04T06:30:49",
+  "timestamp": "2022-11-04T07:20:18",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Matter: Erste Firmware-Updates für Smart-Home-Zubehör noch vor Weihnachten",
+      "teaser": "Geräte und Apps: Was Amazon, Eve, Aqara, Philips Hue, Nanoleaf und andere Hersteller zum Start des Smart-Home-Standards Matter bieten.​",
+      "url": "https://www.heise.de/news/Matter-Erste-Firmware-Updates-fuer-Smart-Home-Zubehoer-noch-vor-Weihnachten-7329315.html"
+    },
+    {
       "title": "OpenSSL: Update zum Schließen der kritischen Sicherheitslücke verfügbar",
       "teaser": "Das Update zum Schließen der kritischen Sicherheitslücke in OpenSSL, die das Projekt vergangene Woche angekündigt hat, steht jetzt bereit.",
       "url": "https://www.heise.de/news/OpennSSL-Update-zum-Schliessen-der-kritischen-Sicherheitsluecke-verfuegbar-7326009.html"
@@ -36,9 +41,32 @@
       "url": "https://www.heise.de/news/Neues-Pantone-Lizenzmodell-Adobe-wirft-mehrere-Farbpaletten-aus-Photoshop-Co-7324477.html"
     },
     {
-      "title": "Umweltdatenbank kaputt: Cyberangriff auf Anhalt-Bitterfeld wirkt weiter nach",
-      "teaser": "Bei der Ransomware-Attacke auf den anhaltinischen Landkreis ging auch ein Register flöten, das für Altlastenbearbeitung in dem \"Öko-Tschernobyl\" wichtig ist.",
-      "url": "https://www.heise.de/news/Umweltdatenbank-kaputt-Cyberangriff-auf-Anhalt-Bitterfeld-wirkt-weiter-nach-7324254.html"
+      "title": "Plattformübergreifend entwickeln mit Flutter",
+      "teaser": "Es müssen nicht immer Swift oder SwiftUI sein, um Apps für Apple-Geräte zu programmieren. Wir zeigen, wie's geht.",
+      "url": "https://www.heise.de/ratgeber/Plattformuebergreifend-entwickeln-mit-Flutter-7328229.html",
+      "image_title": ", Ishtiaq-khan-para, unsplash.com; Montage: Mac & i"
+    },
+    {
+      "title": "Backups: Warum Datensicherung wichtig ist und welche Strategien es gibt",
+      "teaser": "Ein Backup ist im Ernstfall die letzte Hoffnung, um verlorene Daten zu retten. Hier die wichtigsten Fakten und Trends zu Backups in Zeiten von Ransomware.",
+      "url": "https://www.heise.de/hintergrund/Backups-Warum-Datensicherung-wichtig-ist-und-welche-Strategien-es-gibt-7325954.html"
+    },
+    {
+      "title": "IT-Sicherheitstag bietet Hilfestellung bei aktuellen Angriffsmethoden",
+      "teaser": "Der IT-Sicherheitstag findet am 17. November in Gelsenkirchen statt. Im Zentrum der Vorträge stehen Security-Angriffe und ihre erfolgreichen Gegenmaßnahmen.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-bietet-Hilfestellung-bei-aktuellen-Angriffsmethoden-7327026.html"
+    },
+    {
+      "title": "Wie Docker und IPv6 doch noch harmonieren",
+      "teaser": "Im Netzwerk angebotene Dienste sollten selbstverständlich per IPv6 erreichbar sein, doch Docker erschwert das. Wir machen das Zusammenspiel besser verständlich.",
+      "url": "https://www.heise.de/ratgeber/Wie-Docker-und-IPv6-doch-noch-harmonieren-7327628.html",
+      "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "Was Sie über elektrischen Strom wissen müssen",
+      "teaser": "Wir geben Ihnen Hintergrundwissen zur Arbeit mit Strom und einen Überblick über vermeidbare Fehler, Netzformen, Schutzeinrichtungen und einschlägige Normen.",
+      "url": "https://www.heise.de/hintergrund/Was-Sie-ueber-elektrischen-Strom-wissen-muessen-7326890.html",
+      "image_title": ","
     },
     {
       "title": "Balkonkraftwerke: Hoymiles-Wechselrichter überwachen per Web & MQTT",
@@ -52,10 +80,10 @@
       "url": "https://www.heise.de/tests/Asus-TUF-Gaming-GeForce-RTX-4090-24GB-OC-im-Test-7328336.html"
     },
     {
-      "title": "Balkonkraftwerke: Hoymiles-Wechselrichter überwachen per Web & MQTT",
-      "teaser": "Die Gateways für die integrierte Ertragsüberwachung von Hoymiles-Wechselrichtern kosten 160 bis 300 Euro. Günstiger und ohne Cloud geht's mit OpenDTU.",
-      "url": "https://www.heise.de/ratgeber/Balkonkraftwerke-Hoymiles-Wechselrichter-ueberwachen-per-Web-MQTT-7327187.html",
-      "image_title": ", Thorsten Hübner"
+      "title": "16-Zoll-Notebooks mit Intels GPU-Debütanten Arc A370M und A730M im Vergleich",
+      "teaser": "In Prozessoren integrierte Grafikeinheiten fertigt Intel schon lange. Nun sollen die Arc-Grafikchips eine Alternative zu AMDs Radeon und Nvidias GeForce sein.",
+      "url": "https://www.heise.de/tests/16-Zoll-Notebooks-mit-Intels-GPU-Debuetanten-Arc-A370M-und-A730M-im-Vergleich-7328620.html",
+      "image_title": ","
     },
     {
       "title": "Windowssicherheit mit nur wenigen Handgriffen verbessern",
@@ -106,32 +134,6 @@
       "teaser": "Swift und SwiftUI werden App-Entwicklern als die Zukunft angepriesen. Doch was Apple in iOS 16 selbst einsetzt, hat jetzt ein Entwickler untersucht.",
       "url": "https://www.heise.de/news/Eigenbedarf-So-stark-setzt-Apple-in-iOS-16-auf-Swift-7329409.html",
       "image_title": "MacBook mit Swift-Code"
-    },
-    {
-      "title": "Ring Floodlight Cam Wired Plus im TechStage-Test: WLAN-Kamera mit Hoflicht",
-      "teaser": "Die Ring Floodlight Cam Wired Plus bietet 2000 Lumen hell strahlende LEDs und eine farbige Nachtsicht. Auch eine Gegensprechfunktion ist mit an Bord.",
-      "url": "https://www.techstage.de/test/ring-floodlight-cam-wired-plus-im-test-wlan-ueberwachungskamera-mit-hoflicht/0pwh7bb?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Blender als individuelle App konstruieren",
-      "teaser": "Mit Blender Apps könnten sich Designer bald eine eigene, handliche App aus beliebigen Funktionen des Grafikprogramms zusammenstellen.",
-      "url": "https://www.heise.de/news/Blender-als-individuelle-App-konstruieren-7329026.html"
-    },
-    {
-      "title": "Zhaoxin: Chinesische x86-CPUs mit bis zu 32 Kernen",
-      "teaser": "Der chinesische Hersteller Zhaoxin hat mit VIAs x86-Lizenz zwei neue Prozessorserien entworfen. Die neuen Notebook-CPUs integrieren eine DirectX-12-fähige GPU.",
-      "url": "https://www.heise.de/news/Zhaoxin-Chinesische-x86-CPUs-mit-bis-zu-32-Kernen-7329417.html"
-    },
-    {
-      "title": "Matter: Erste Firmware-Updates für Smart-Home-Zubehör noch vor Weihnachten",
-      "teaser": "Geräte und Apps: Was Amazon, Eve, Aqara, Philips Hue, Nanoleaf und andere Hersteller zum Start des Smart-Home-Standards Matter bieten.​",
-      "url": "https://www.heise.de/news/Matter-Erste-Firmware-Updates-fuer-Smart-Home-Zubehoer-noch-vor-Weihnachten-7329315.html"
-    },
-    {
-      "title": "OpenAI fördert zehn Start-ups mit jeweils einer Million Dollar und Early Access",
-      "teaser": "Das Unternehmen hinter GPT-3 und DALL·E hat ein fünfwöchiges Förderprogramm für Start-ups aufgelegt. Converge verfügt über 100 Millionen US-Dollar an Budget.",
-      "url": "https://www.heise.de/news/OpenAI-foerdert-zehn-Start-ups-mit-jeweils-einer-Million-Dollar-und-Early-Access-7328723.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
