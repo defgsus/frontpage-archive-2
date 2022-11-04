@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-04T08:31:41",
+  "timestamp": "2022-11-04T09:20:49",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,385 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.cba9921e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.bc75a53a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.cea82393.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.0162db35.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.595353e7.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.55827f8a.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Palmer bei Maybrit Illner : Statt Integration nur Nothilfe für Ukrainer?",
-      "url": "https://www.bild.de/politik/talk-kritik/talk-kritk/boris-palmer-bei-illner-statt-integration-nur-nothilfe-fuer-ukrainer-81829154.bild.html",
-      "image_title": "Boris Palmer bei Illner: Statt Integration nur Nothilfe für Ukrainer?"
-    },
-    {
-      "title": "Er galt als „deutscher Pablo Escobar“ : Das war der letzte Wunsch des Koks-Königs",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/koks-koenig-blacky-miehling-so-will-der-drogen-boss-bestattet-werden-81820306.bild.html",
-      "image_title": "Ronald „Blacky“ Miehling: Das war der letzte Wunsch des Koks-Königs!"
-    },
-    {
-      "title": "Werner Mauss, der deutsche 007 : Das Geheimnis der abgebrannten Agenten-Villa",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/villa-abgebrannt-werner-mauss-war-das-bestgehuetete-geheimnis-des-bka-81828182.bild.html",
-      "image_title": "Villa abgebrannt: Werner Mauss war das bestgehütete Geheimnis des BKA"
-    },
-    {
-      "title": "„In aller Freundschaft“ : So kann aus Freundschaft Liebe werden",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/in-aller-freundschaft-paar-macht-es-vor-so-kann-aus-freundschaft-liebe-werden-81743576.bild.html",
-      "image_title": "„In aller Freundschaft!“-Paar macht es vor: So kann aus Freundschaft Liebe werden"
-    },
-    {
-      "title": "Hochhaus musste geräumt werden : Ein Toter bei Wohnungsbrand in Berlin",
-      "url": "https://www.bild.de/news/2022/news/berlin-ein-toter-bei-wohnungsbrand-in-hochhaus-81828990.bild.html",
-      "image_title": "Berlin: Ein Toter bei Wohnungsbrand in Hochhaus"
-    },
-    {
-      "title": "Ehrung für Rettung verfolgter Juden : Mutig der Barbarei die Stirn geboten",
-      "teaser": "Sie riskierten während der Nazi-Diktatur ihr Leben, um das Leben anderer zu retten.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/ehrung-fuer-rettung-verfolgter-juden-der-barbarei-die-stirn-geboten-81815200.bild.html",
-      "image_title": "Ehrung für Rettung verfolgter Juden: Der Barbarei die Stirn geboten"
-    },
-    {
-      "title": "Faeser zu Klima-Chaoten : „Diese Aktivisten stellen sich über das Gesetz“",
-      "teaser": "Faeser fordert eine entschiedene Verfolgung möglicher Straftaten bei Klimaprotesten.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/faeser-zu-klima-chaoten-straftaeter-muessen-schnell-und-konsequent-verfolgt-werd-81822054.bild.html",
-      "image_title": "Faeser will härte Strafen für Klima-Aktivisten: „Stellen sich über das Gesetz“"
-    },
-    {
-      "title": "Diesel-Diebe plündern Baustellen und Speditionen : Abgezapft!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/die-preise-steigen-immer-mehr-diesel-diebe-pluendern-baustellen-und-speditionen-81820426.bild.html",
-      "image_title": "Die Preise steigen! Immer mehr Diesel-Diebe plündern Baustellen und Speditionen: Abgezapft!"
-    },
-    {
-      "title": "Verschwinden die Gleise aus der City? : CDU und Schaefer streiten über Straßenbahn",
-      "teaser": "Was passiert mit der Straßenbahn? Drei Möglichkeiten stehen zur Auswahl.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/raus-aus-der-city-cdu-und-schaefer-streiten-ueber-strassenbahn-81820528.bild.html",
-      "image_title": "Raus aus der City? CDU und Schaefer streiten über Straßenbahn"
-    },
-    {
-      "title": "Vorsicht, Stolpergefahr! : Werder-Fritz warnt vor königsblauem Wunder",
-      "teaser": "Favorit Werder stapelt vor dem Duell gegen Mitaufsteiger Schalke tief.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-clemens-fritz-warnt-gegen-schalke-vor-koenigsblauem-wunder-81824318.bild.html",
-      "image_title": "Werder Bremen: Clemens Fritz warnt gegen Schalke vor königsblauem Wunder"
-    },
-    {
-      "title": "Bagger in Leipzig abgefackelt : Terror gegen Baufirma wieder aufgeflammt?",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/brandanschlag-auf-bagger-in-leipzig-81829426.bild.html",
-      "image_title": "Brandanschlag auf Bagger in Leipzig"
-    },
-    {
-      "title": "Chemnitzer FC : Tiffert vertraut Mini-Trainerteam",
-      "teaser": "Kann sich der CFC in den Kampf um den Staffelsieg in der Regionalliga einmischen?",
-      "url": "https://www.bild.de/sport/fussball/fussball/chemnitzer-fc-tiffert-vertraut-mini-trainerteam-81820396.bild.html",
-      "image_title": "Chemnitzer FC: Tiffert vertraut Mini-Trainerteam"
-    },
-    {
-      "title": "Skoda-Heck bei Crash abgerissen : Zwei Kinder (1, 12) bei Unfall schwer verletzt",
-      "teaser": "Zwei Erwachsene (37, 39) und zwei Kinder (1, 12) wurden bei einem Unfall in Plauen schwer verletzt.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-in-sachsen-skoda-heck-bei-crash-abgerissen-vier-verletzte-81817968.bild.html",
-      "image_title": "Unfall in Plauen (Sachsen): Skoda-Heck bei Crash abgerissen – vier Verletzte"
-    },
-    {
-      "title": "Die Satt-Macherin : Sie verköstigt die Armen der Stadt",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-nicht-nur-obdachlose-kommen-in-suppenkueche-der-neustadt-81827672.bild.html",
-      "image_title": "Dresden: Nicht nur Obdachlose kommen in Suppenküche der Neustadt"
-    },
-    {
-      "title": "Licht an! : Stadträte kippen Verbot von Weihnachtsbeleuchtung",
-      "teaser": "Die Dresdner Neustadt und auch die Augustusbrücke werden wie gewohnt weihnachtlich illuminiert.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-stadtraete-kippen-verbot-von-weihnachtsbeleuchtung-81827364.bild.html",
-      "image_title": "Dresden: Stadträte kippen Verbot von Weihnachtsbeleuchtung"
-    },
-    {
-      "title": "Abgesagt! : Wieder kein Adventskonzert im Dresdner Stadion",
-      "teaser": "Das Open-Air-Adventskonzert im Dresdner Stadion ist erneut abgesagt worden.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/abgesagt-wieder-kein-adventskonzert-im-dresdner-stadion-81827466.bild.html",
-      "image_title": "Abgesagt! Wieder kein Adventskonzert im Dresdner Stadion"
-    },
-    {
-      "title": "Bei „Ebay Kleinanzeigen“ : 1,6 Millionen Euro für dieses Loch!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/xanten-bei-ebay-kleinanzeigen-wird-ein-bunker-verkauft-81822730.bild.html",
-      "image_title": "Xanten: Bei „Ebay Kleinanzeigen“ wird ein Bunker verkauft"
-    },
-    {
-      "title": "Neue im Winter? : So denkt Virkus über zwei Top-Stars",
-      "teaser": "Freitag gegen Stuttgart muss Gladbachs Daniel Farke wieder kräftig basteln. Er braucht Neue...",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-so-denkt-roland-virkus-ueber-zwei-top-stars-81824590.bild.html",
-      "image_title": "Borussia Mönchengladbach: So denkt Roland Virkus über zwei Top-Stars"
-    },
-    {
-      "title": "Die Fakten zum Spiel : Als Stindl gegen Stuttgart Rot sah!",
-      "teaser": "Nach drei Pleiten will Gladbach Freitag wieder einen Dreier. Die Fakten zum Spiel!",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-lars-stindl-sah-gegen-stuttgart-schon-rot-81827170.bild.html",
-      "image_title": "Borussia Mönchengladbach: Lars Stindl sah gegen Stuttgart schon Rot!"
-    },
-    {
-      "title": "Abwahl von Skandal-OB Feldmann am Sonntag : Sind Sie für oder gegen die Abwahl?",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/abwahl-von-skandal-ob-feldmann-am-sonntag-sind-sie-fuer-oder-gegen-die-abwahl-81823248.bild.html",
-      "image_title": "Abwahl von Skandal-OB Feldmann am Sonntag: Sind Sie für oder gegen die Abwahl?"
-    },
-    {
-      "title": "Schirn zeigt geteiltes Chagall-Bild : Jetzt hängt zusammen, was zusammengehört!",
-      "teaser": "Es ist DIE Ausstellung 2022 in der Schirn: „Chagall. Welt in Aufruhr“.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/schirn-zeigt-geteiltes-chagall-bild-jetzt-haengt-zusammen-was-zusammengehoert-81827584.bild.html",
-      "image_title": "Kunst-Sensation: Schirn zeigt geteiltes Chagall-Bild"
-    },
-    {
-      "title": "Polizei vermutet weitere Opfer! : Mann sperrt Frau tagelang ein und vergewaltigt sie",
-      "teaser": "Schrecklicher Verdacht gegen zwei Brüder (37, 23) in BaWü.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/zwei-brueder-festgenommen-frau-mehrere-tage-festgehalten-und-vergewaltigt-81824598.bild.html",
-      "image_title": "Serientäter sperrt Frau tagelang ein und vergewaltigt sie"
-    },
-    {
-      "title": "Hamburg baut Laternen ohne Strom auf : Licht aus, Spott an!",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/stadt-baut-fuer-400-000-euro-laternen-im-volkspark-auf-aber-es-gibt-keinen-strom-81820188.bild.html",
-      "image_title": "Hamburg baut für 400 000 Euro Laternen auf – ohne Strom: Licht aus, Spott an!"
-    },
-    {
-      "title": "Neues Leben, neuer Name! : Schanzleh heißt jetzt Schanze",
-      "teaser": "Stefanie Schanzleh (33) startet jetzt als Solo-Sängerin durch.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/neues-leben-neuer-name-der-hot-bandita-schanzleh-heisst-jetzt-schanze-81820616.bild.html",
-      "image_title": "Neues Leben, neuer Name der „Hot Bandita“: Schanzleh heißt jetzt Schanze"
-    },
-    {
-      "title": "Ärzte kommen nicht mehr zur Arbeit : Retter verklagen Stadt wegen Anwohner-Parken",
-      "teaser": "Das Altonaer Kinderkrankenhaus wehrt sich gegen das Anwohner-Parken vor ihrer Tür.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/schwerstern-und-aerzte-kommen-nicht-mehr-zur-arbeit-retter-verklagen-stadt-wegen-81807948.bild.html",
-      "image_title": "Schwerstern und Ärzte kommen nicht mehr zur Arbeit: Retter verklagen Stadt wegen Anwohner-Parken"
-    },
-    {
-      "title": "Regionspräsident kündigt Elternzeit an! : 2 Monate nur Krach",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/gerade-ein-jahr-im-amt-regionspraesident-kuendigt-in-bild-elternzeit-an-2-monate-81820358.bild.html",
-      "image_title": "Gerade ein Jahr im Amt! Regionspräsident kündigt in BILD Elternzeit an! 2 Monate nur Krach"
-    },
-    {
-      "title": "Rocker-Chef Frank Hanebuth (58) : Strafrabatt für die Werkstatt-Kloppe?",
-      "teaser": "Gegen den Ex-Hells-Angels-Boss Hanebuth begann der Berufungsprozess.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/rocker-chef-frank-hanebuth-58-strafrabatt-fuer-die-werkstatt-kloppe-81820324.bild.html",
-      "image_title": "Rocker-Chef Frank Hanebuth (58): Strafrabatt für die Werkstatt-Kloppe?"
-    },
-    {
-      "title": "Parteivorsitz in Niedersachsen : CDU setzt auf Lechner",
-      "teaser": "Sebastian Lechner ist der erste und bisher einzige Kandidat für das Amt des CDU-Chefs.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/parteivorsitz-in-niedersachsen-cdu-setzt-auf-lechner-81824756.bild.html",
-      "image_title": "Parteivorsitz in Niedersachsen: CDU setzt auf Lechner"
-    },
-    {
-      "title": "„Holt mal euer Zäpfchen aus dem Hintern“ : Baumgart knöpft sich die UEFA vor",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-holt-mal-euer-zaepfchen-aus-dem-hintern-baumgart-knoepft-sich-uefa-vo-81829568.bild.html",
-      "image_title": "1. FC Köln: „Holt mal euer Zäpfchen aus dem Hintern“: Baumgart knöpft sich UEFA vor"
-    },
-    {
-      "title": "Seine Frau ist schwer krank : Höhner-Frontmann nie wieder auf der Bühne",
-      "teaser": "Höhner-Frontmann Henning Krautmacher (65) macht Schluss. Sofort! Keine Auftritte mehr!",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/seine-frau-ist-schwer-krank-hoehner-frontmann-krautmacher-macht-sofort-schluss-81829818.bild.html",
-      "image_title": "Seine Frau ist schwer krank: Höhner-Frontmann Krautmacher macht sofort Schluss"
-    },
-    {
-      "title": "Versicherung weigert sich zu zahlen : Flut-Opfer lebt seit 15 Monaten im Wohnwagen",
-      "teaser": "„Das Haus kann man nur noch abreißen, hat ein Sachverständiger festgestellt“, sagt sie.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/stolberg-flut-opfer-lebt-seit-15-monaten-im-wohnwagen-81828364.bild.html",
-      "image_title": "Stolberg: Flut-Opfer lebt seit 15 Monaten im Wohnwagen"
-    },
-    {
-      "title": "Roses Riesen : Wie der RB-Trainer Leipzig wieder aufblühen lässt",
-      "url": "https://www.bild.de/sport/fussball/rb-leipzig/marco-rose-wie-der-rb-trainer-leipzig-wieder-aufbluehen-laesst-81826096.bild.html",
-      "image_title": "Marco Rose: Wie der RB-Trainer Leipzig wieder aufblühen lässt"
-    },
-    {
-      "title": "25 Jahre Krystallpalast Varieté : Kult-Einlasser Max Laube (68) ist von Anfang an dabei",
-      "teaser": "Seine Berufung geht über Hände schütteln weit hinaus.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/25-jahre-krystallpalast-variet-kult-einlasser-max-68-ist-von-anfang-an-dabei-81827416.bild.html",
-      "image_title": "25 Jahre Krystallpalast Varieté: Kult-Einlasser Max (68) ist von Anfang an dabei"
-    },
-    {
-      "title": "Na spitze! : Leipzigs Weihnachtsbaum oben ja so dick",
-      "teaser": "Spitze sieht anders aus. Leipzigs Weihnachtsbaum trägt oben ganz schön dick auf.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/na-spitze-warum-ist-leipzigs-weihnachtsbaum-oben-so-dick-81818988.bild.html",
-      "image_title": "Na spitze!: Warum ist Leipzigs Weihnachtsbaum oben so dick?"
-    },
-    {
-      "title": "Hansa – Sandhausen : Härtel lässt seine Sieger ran",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-sandhausen-haertel-laesst-seine-sieger-ran-81826172.bild.html",
-      "image_title": "Hansa – Sandhausen: Härtel lässt seine Sieger ran"
-    },
-    {
-      "title": "Autoreifen aufgeschlitzt : Anschlag auf OB-Kandidat",
-      "teaser": "Auf Michael Meister (58, AfD), Landtagsabgeordneter und Kandidat zur OB-Wahl in Rostock, wurde ein Anschlag verübt.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/rostock-anschlag-auf-ob-kandidat-81825896.bild.html",
-      "image_title": "Rostock: Anschlag auf OB-Kandidat"
-    },
-    {
-      "title": "Bei Arbeiten in Gartenanlage : Mann von eigenem Traktor erschlagen",
-      "teaser": "Der Mann wollte eine Fläche ebnen, dabei überschlug sich der Traktor.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mecklenburg-vorpommern-mann-von-eigenem-traktor-erschlagen-tot-81823796.bild.html",
-      "image_title": "Mecklenburg-Vorpommern: Mann von eigenem Traktor erschlagen – tot"
-    },
-    {
-      "title": "Bei Protest-Aktion in München : Sanitäter steckt wegen Klima-Klebern fest",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bei-klebe-aktion-in-muenchen-sanitaeter-steckt-wegen-klima-klebern-fest-81829518.bild.html",
-      "image_title": "Bei Klebe-Aktion in München: Sanitäter steckt wegen Klima-Klebern fest"
-    },
-    {
-      "title": "Alfons Schuhbeck greift nach Strohhalm : Ein bisschen Revision",
-      "teaser": "München – Der Starkoch möchte die Urteilsbegründung, die zum Strafmaß führte, überprüfen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/alfons-schuhbeck-greift-doch-nach-dem-strohhalm-ein-bisschen-revision-81823538.bild.html",
-      "image_title": "Alfons Schuhbeck greift doch nach dem Strohhalm: Ein bisschen Revision"
-    },
-    {
-      "title": "Maskendeal geplatzt : Unternehmer will 1,5 Mio. Euro vom Freistaat",
-      "teaser": "München – EIn Unternehmer fordert 1,5 Mio. Euro.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/maskendeal-geplatzt-unternehmer-will-1-5-mio-euro-vom-freistaat-81825586.bild.html",
-      "image_title": "Maskendeal geplatzt: Unternehmer will 1,5 Mio. Euro vom Freistaat"
-    },
-    {
-      "title": "Jobangst bei Karstadt, Kaufhof und Stadt! : „Lassen uns Würde nicht nehmen“",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/karstadt-vor-dem-aus-wir-lassen-uns-unsere-wuerde-nicht-nehmen-81822780.bild.html",
-      "image_title": "Karstadt vor dem Aus: „Wir lassen uns unsere Würde nicht nehmen“"
-    },
-    {
-      "title": "Stadt zeichnet mehrere Gebäude aus : Das sind unsere schönsten Bauten",
-      "teaser": "Manche Gebäude machen Nürnberg noch schöner! Wie das neue Haus der Wirtschaft.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/stadt-zeichnet-mehrere-gebaeude-aus-das-sind-unsere-schoensten-bauten-81823428.bild.html",
-      "image_title": "Stadt zeichnet mehrere Gebäude aus: Das sind unsere schönsten Bauten"
-    },
-    {
-      "title": "Transparenz unerwünscht? : So wollen die Club-Bosse die Satzung ändern",
-      "teaser": "In gut zwei Wochen steht beim 1. FC Nürnberg die Mitgliederversammlung an.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/transparenz-unerwuenscht-so-wollen-die-fcn-bosse-die-satzung-aendern-81825528.bild.html",
-      "image_title": "Transparenz unerwünscht? So wollen die FCN-Bosse die Satzung ändern"
-    },
-    {
-      "title": "Ein Stück altes Dortmund für daheim : Stadt verkauft Stadtmauer",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/ein-stueck-altes-dortmund-fuer-daheim-stadt-verkauft-stadtmauer-81829434.bild.html",
-      "image_title": "Ein Stück altes Dortmund für daheim: Stadt verkauft Stadtmauer"
-    },
-    {
-      "title": "Anwohner fürchten um ihre Ruhe : Protest gegen einen Problem-Jugendlichen",
-      "teaser": "Seit Jahren lässt ein Junge (heute 14) aus Magdeburg Familie, Pädagogen und Wachleute mit seinen Wutausbrüchen verzweifeln.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/magdeburg-protest-gegen-einen-problem-jugendlichen-81828312.bild.html",
-      "image_title": "Magdeburg: Protest gegen einen Problem-Jugendlichen"
-    },
-    {
-      "title": "Vater (54) und Sohn (23) festgenommen : Polizei entdeckt Drogen-Plantage in Wohnhaus",
-      "teaser": "Beamte stießen in dem Haus auf eine Cannabis-Plantage und auch auf Waffen.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bielefeld-polizei-entdeckt-drogen-plantage-in-wohnhaus-81828200.bild.html",
-      "image_title": "Bielefeld: Polizei entdeckt Drogen-Plantage in Wohnhaus"
-    },
-    {
-      "title": "Einmal grün anmalen, bitte! : 222 Dinge, die ein Star Trek-Fan getan haben muss",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/bucket-list-222-dinge-die-ein-trekkie-getan-haben-muss-81821322.bild.html",
-      "image_title": "Bucket List: 222 Dinge, die ein Trekkie getan haben muss"
-    },
-    {
-      "title": "Was dahintersteckt : Saarbrücken und Dresden jagen Gladbach-Stürmer",
-      "teaser": "ER zerballert schon die 4. Liga und hat sich zugleich ins FCS-Notizbuch geschossen",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/1-fc-saarbruecken-saarbruecken-und-dresden-jagen-gladbach-stuermer-81823956.bild.html",
-      "image_title": "1. FC Saarbrücken: Saarbrücken und Dresden jagen Gladbach-Stürmer"
-    },
-    {
-      "title": "Frau pöbelt sich durch die Stadt : Das Biest von Blieskastel",
-      "teaser": "Sie versetzt Blieskastel in Angst und Schrecken, steht jetzt vor Gericht.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/frau-poebelt-sich-durch-die-stadt-das-biest-von-blieskastel-81825820.bild.html",
-      "image_title": "Frau pöbelt sich durch die Stadt: Das Biest von Blieskastel"
-    },
-    {
-      "title": "Glücksgriff in die Ramschkiste : Plötzlich war der Billig-Schmuck 8000 Euro wert",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/irrer-gluecksgriff-ploetzlich-war-der-modeschmuck-8000-euro-wert-81826560.bild.html",
-      "image_title": "Irrer Glücksgriff: Plötzlich war der „Modeschmuck“ 8000 Euro wert"
-    },
-    {
-      "title": "HFC-Torwart kehrt zurück : Gebhardt fit für Mannheim",
-      "teaser": "Das gibt Hoffnung für die englische Woche: Halles Torwart Felix Gebhardt kehrt zurück.",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-hfc-torwart-kehrt-zurueck-felix-gebhardt-fit-fuer-mannheim-81826116.bild.html",
-      "image_title": "3. Liga: HFC-Torwart kehrt zurück – Felix Gebhardt fit für Mannheim"
-    },
-    {
-      "title": "Sportwagen-Raser muss blechen : 1400 Euro Strafe für 218 km/h",
-      "teaser": "Dieser Raser ignorierte jedes Verkehrszeichen, gefährdete Leben. Jetzt muss er blechen!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/sportwagen-raser-muss-blechen-1400-euro-strafe-fuer-218-km-h-81818604.bild.html",
-      "image_title": "Autobahn: 1400 Euro Strafe für 218 km/h - Sportwagen-Raser muss zahlen"
-    },
-    {
-      "title": "Auf dem Feldberg : Erste Schneeflocken erwartet",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/auf-dem-feldberg-erste-schneeflocken-erwartet-81830002.bild.html",
-      "image_title": "Auf dem Feldberg : Erste Schneeflocken erwartet"
-    },
-    {
-      "title": "Reduzierte Schuhe der Vorsaison geklaut : „Bei mir waren Stuttgarts dümmste Diebe!“",
-      "teaser": "Diebe klauten mehr als 100 Paar Schuhe. Den teuersten haben sie stehen gelassen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/schuhverkaeufer-bei-mir-waren-stuttgarts-duemmste-einbrecher-81822688.bild.html",
-      "image_title": "Schuhverkäufer: „Bei mir waren Stuttgarts dümmste Einbrecher!“"
-    },
-    {
-      "title": "Schmuggler-Trick im Knast : In Kinderbild sind Drogen für 1250 Euro versteckt",
-      "teaser": "Dieses Wasserfarben-Bild für einen Papa im Knast ist nicht das, wonach es aussieht.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/stuttgart-schmuggler-trick-im-knast-in-diesem-kinderbild-sind-drogen-versteckt-81824976.bild.html",
-      "image_title": "Stuttgart: Schmuggler-Trick im Knast: In diesem Kinderbild sind Drogen versteckt"
-    },
-    {
-      "title": "Ex-Jena-Trainer Heiko Weber : „Tobias Werner war mein Lieblingsspieler!“",
-      "url": "https://www.bild.de/sport/fussball/fussball/heiko-weber-vor-dem-derby-tobias-werner-war-mein-lieblingsspieler-81826774.bild.html",
-      "image_title": "Heiko Weber vor dem Derby: „Tobias Werner war mein Lieblingsspieler!“"
-    },
-    {
-      "title": "Boxtrainer deckt auf : Rassismus-Skandal beim Polizei-Sportverein",
-      "teaser": "Boxtrainer Andranik Vardanyan (29) sagte dem Rassismus in seinem Verein den Kampf an.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-rassismus-skandal-beim-polizei-sportverein-81826266.bild.html",
-      "image_title": "Erfurt: Rassismus-Skandal beim Polizei-Sportverein"
-    },
-    {
-      "title": "Sie soll 12 800 Euro kassiert haben : Ist diese Frau eine Schleuser-Chefin?",
-      "teaser": "Kassierte sie üppige Schleuser-Löhne, oder erhob sie lediglich saftige „Servicegebühren“?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/prozess-ist-diese-frau-eine-schleuser-chefin-81816812.bild.html",
-      "image_title": "Prozess: Ist diese Frau eine Schleuser-Chefin?"
-    }
-  ]
+  "articles": []
 }
