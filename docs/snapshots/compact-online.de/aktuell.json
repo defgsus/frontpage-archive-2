@@ -1,9 +1,311 @@
 {
-  "timestamp": "2022-11-05T17:19:34",
+  "timestamp": "2022-11-05T18:25:36",
   "url": "https://www.compact-online.de/compact-aktuell/",
   "response": {
     "status": 200
   },
-  "scripts": [],
-  "articles": []
+  "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+      "id": "jquery-core-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "id": "jquery-migrate-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/uploads/712/354/public/assets/js/839.js?ver=1.37.2",
+      "id": "advanced-ads-advanced-js-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.8.0",
+      "id": "font-awesome-4-shim-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/wp-gdpr-compliance/Assets/js/front.min.js?ver=1665243744",
+      "id": "wpgdprc-front-js-js",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.googletagmanager.com/gtag/js?id=AW-804991562",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/lazyload.js?ver=8.5.0",
+      "id": "smartmag-lazyload-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/news-ticker-widget-for-elementor/assets/js/ticker.js?ver=1.0",
+      "id": "ticker-script-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=4.7.3",
+      "id": "dlm-xhr-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+      "id": "jquery-ui-core-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=6.1",
+      "id": "qi-addons-for-elementor-script-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/ga-germanized/assets/js/cookieconsent.js?ver=3.1.1",
+      "id": "cookieconsent-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/ga-germanized/assets/js/gaoptout.js?ver=1.6.2",
+      "id": "google-analytics-germanized-gaoptout-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/jquery.mfp-lightbox.js?ver=8.5.0",
+      "id": "magnific-popup-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.js?ver=8.5.0",
+      "id": "theia-sticky-sidebar-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/theme.js?ver=8.5.0",
+      "id": "smartmag-theme-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.1",
+      "id": "remote_sdk-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.8.0",
+      "id": "elementor-webpack-runtime-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.8.0",
+      "id": "elementor-frontend-modules-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+      "id": "elementor-waypoints-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6",
+      "id": "swiper-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.8.0",
+      "id": "share-link-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0",
+      "id": "elementor-dialog-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.0",
+      "id": "elementor-frontend-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9",
+      "id": "regenerator-runtime-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+      "id": "wp-polyfill-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5",
+      "id": "wp-hooks-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae",
+      "id": "wp-i18n-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=6.1",
+      "id": "qi-addons-for-elementor-elementor-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.8.0",
+      "id": "preloaded-modules-js",
+      "text": null
+    }
+  ],
+  "articles": [
+    {
+      "title": "GEZ-TV bezeichnet „Verschwörungstheoretiker” als Ratten",
+      "teaser": "Wenn die Tageszeitung Welt feststellt, dass die Übernahme von Twitter durch Elon Musk linkgrüne Köpfe…"
+    },
+    {
+      "title": "BRD-Sprech _ BereicherungCOMPACT+",
+      "teaser": "Dass kulturelle, ethnische und religiöse «Vielfalt» per se eine «Bereicherung» darstelle, gehört zwar zu den…"
+    },
+    {
+      "title": "Liebe, Sex und linker Wahnsinn",
+      "teaser": "Jürgen Elsässers Autobiographie „Ich bin Deutscher” enthält neben scharfer Reflexion auch schräge Anekdoten aus der…"
+    },
+    {
+      "title": "Mainstream-Blatt ruft: Naidoo, Nena und Wendler canceln!",
+      "teaser": "Diese Meldung ist eine Übernahme aus dem Telegram-Kanal des COMPACT-Magazins. Kostenlos abonnieren: https://t.me/s/CompactMagazin ‼️ Mainstream-Blatt…"
+    },
+    {
+      "title": "Linksgrüne Köpfe platzen auf Twitter",
+      "teaser": "Zitat des Tages: „Der reichste Mann der Welt aka Elon Musk hat Twitter nun also…"
+    },
+    {
+      "title": "Brisant: Irlmaier zum 3. Weltkrieg",
+      "teaser": "Noch nie war die Welt so nah an einem Nuklearkrieg wie in diesen Wochen. Der…"
+    },
+    {
+      "title": "Vorsicht: Die sieben größten Magnesium-Räuber",
+      "teaser": "Magnesium ist an mehr als 300 Stoffwechselvorgängen beteiligt. Galt früher eine ausgewogene Ernährung als ausreichend,…"
+    },
+    {
+      "title": "Vertuscht: Die dunkle Vergangenheit des Reich-Ranicki",
+      "teaser": "Der polnische Geheimdienst drangsalierte nach Kriegsende 1945 unzählige Deutsche, sperrte sie in Lager, folterte und…"
+    },
+    {
+      "title": "„Ami go home“: Elsässer ruft zur Großdemo nach Leipzig",
+      "teaser": "Am 31.10.2022 sprach Chefredakteur Jürgen Elsässer auf der Kundgebung Reformation 2.0 in Wittenberg – und…"
+    },
+    {
+      "title": "Propagandaschlacht um SyrienCOMPACT+",
+      "teaser": "Ein Überblick über die wichtigsten Massaker, mit denen der Westen eine militärische Intervention begründet –…"
+    },
+    {
+      "title": "Staatsstreich in London: Gründe, Drahtzieher, Folgen (4)",
+      "teaser": "Neben innenpolitischen Gegnern und der Globalisierungs-Lobby stehen noch andere Kräfte hinter dem jüngsten Regierungswechsel in…"
+    },
+    {
+      "title": "Nord-Stream-Sabotage: Worin liegt das Geheimnis? – Teil 1",
+      "teaser": "Am 29. Oktober hat Russland der britischen Marine vorgeworfen, Anschläge auf die Nord-Stream-Pipelines geplant und…"
+    },
+    {
+      "title": "Putin: „Vorherrschaft des Westens endet“ – Teil 6",
+      "teaser": "Beim Forum des Valdai-Klubs in Moskau hielt der russische Präsident Wladimir Putin eine Rede, in…"
+    },
+    {
+      "title": "BASF will aus Deutschland flüchten",
+      "teaser": "Der Chemiegigant BASF will Deutschland wegen der hohen Energiepreise fluchtartig verlassen – die Deindustrialisierung nimmt…"
+    },
+    {
+      "title": "Kim Dotcom: Mainstream-Medien treiben zum Atomkrieg",
+      "teaser": "Zitat des Tages: „Die Massen-Gehirnwäsche der westlichen Gesellschaft durch die Mainstream-Medien in den so genannten…"
+    },
+    {
+      "title": "Städte fordern: Macht die Grenzen dicht!",
+      "teaser": "Macht die Grenzen dicht, vor allem die Balkanroute! Das ist das Fazit der gestrigen Führungstagung…"
+    },
+    {
+      "title": "Schwientochlowitz: Polens KZ für Deutsche",
+      "teaser": "Zahlreiche KZs der Nazis dienten später als Sammellager zur Deportation von Deutschen in Stalins Gulag…"
+    },
+    {
+      "title": "Berlin: Todesopfer durch Klima-Terror",
+      "teaser": "Eine 44jährige Radfahrerin, deren rechtzeitige medizinische Behandlung nach einem schweren Verkehrsunfall durch eine Straßenblockade von…"
+    },
+    {
+      "title": "Messer, Morde und MigrantenCOMPACT+",
+      "teaser": "Deutschlands Asylantenheime sind Schauplatz ethnischer Gewalt und moslemischen Terrors. Vergewaltigungen sind an der Tagesordnung. Die…"
+    },
+    {
+      "title": "Krieg gegen Deutschland – und wo bleibt der Widerstand?",
+      "teaser": "Diskussion über die November-Ausgabe von COMPACT-Magazin zwischen Anselm Lenz, Paul Klemm und Jürgen Elsässer. Nach…"
+    },
+    {
+      "title": "Nord Stream: Wer leakte das britische „Bekenntnis”?",
+      "teaser": "Die britische Ex-Premierministerin Liz Truss soll kurz nach dem Nord-Stream-Attentat den Satz „It’s done“ gesendet…"
+    },
+    {
+      "title": "Der letzte Cäsar: Mussolini und der Faschismus",
+      "teaser": "Vor 100 Jahren ergriff Benito Mussolini mit seinen Faschisten in Italien die Macht. Die wohl…"
+    },
+    {
+      "title": "Putin: „Eurasien ist ein autarker Komplex“ – Teil 5",
+      "teaser": "Beim Forum des Valdai-Klubs in Moskau hielt der russische Präsident Wladimir Putin eine Rede, in…"
+    },
+    {
+      "title": "Pentagon: US-Truppen in der Ukraine",
+      "teaser": "Zitat des Tages: „Pentagon bestätigt erstmals US-Truppen stehen in der Ukraine im Einsatz.” (Blick.ch) „Heute…"
+    },
+    {
+      "title": "Die Germanen: Wie sie wirklich waren",
+      "teaser": "Unsere Geschichte wird zu einem Verbrecheralbum umgeschrieben. Das beginnt schon bei unseren Ahnen. Ein unverfälschtes…"
+    },
+    {
+      "title": "Nord Stream: Verdacht gegen London",
+      "teaser": "COMPACT.DerTag vom 2. November 2022: Hat die britische Ex-Premierministerin Liz Truss kurz nach den Nordstream-Explosionen…"
+    },
+    {
+      "title": "Polens Landhunger: Griff nach den Ostgebieten",
+      "teaser": "Die Oder-Neiße-Linie war nie als Polens Westgrenze vorgesehen. Darauf setzte anfangs auch die deutsche Politik.…"
+    },
+    {
+      "title": "Gefährlicher Asteroid: Vorbote einer Katastrophe?",
+      "teaser": "Astronomen eines chilenischen Observatoriums haben eine gefährliche Entdeckung gemacht: Der Asteroid 2022 AP7 kreuzt die…"
+    },
+    {
+      "title": "Polizeigewerkschaft fordert Härte gegen Klima-Kleber",
+      "teaser": "Nachdem eine Autobahn-Blockade das Leben einer Radfahrerin gefährdet hat, fordern Vertreter der Polizeigewerkschaft ein härteres…"
+    },
+    {
+      "title": "Der gedemütigte MannCOMPACT+",
+      "teaser": "Jetzt müssen die Frauen auch noch Fußball spielen. Gesponsert bis zum Abwinken, und trotzdem kosten…"
+    }
+  ]
 }
