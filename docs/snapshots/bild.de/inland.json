@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-05T21:18:55",
+  "timestamp": "2022-11-05T22:20:47",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.091475b2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.bc75a53a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.cea82393.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.0162db35.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.595353e7.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.55827f8a.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-5-november-81810886.bild.html",
-      "image_url": "https://images.bild.de/6362691203c5044d53dc3ed2/fd1b0fddc000cfc880fdeb4271409d5f,d6b00524?w=656",
-      "image_title": "Lotto am Samstag: Die Lottozahlen vom 5. November"
-    },
-    {
-      "title": "„Psychischer Ausnahmezustand“ : Laura, wo bist Du?",
-      "url": "https://www.bild.de/news/inland/news-inland/laura-felix-vermisst-polizei-spricht-von-psychischem-ausnahmezustand-81842986.bild.html",
-      "image_url": "https://images.bild.de/6366759ce146ff35a368f0db/1a6da479355fcb4cf1dc8038912c5624,c19216c2?w=320",
-      "image_title": "Laura Felix vermisst: Polizei spricht von „psychischem Ausnahmezustand“"
-    },
-    {
-      "title": "Der Geldwäsche-Report : Schmutzige Kohle wird in Berlin schnell blütenweiß",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/der-geldwaesche-report-schmutzige-kohle-wird-in-berlin-ganz-schnell-bluetenweiss-81505228.bild.html",
-      "image_url": "https://images.bild.de/633abce35f2f4153669fdff4/612cfed5bfceeeedd9836dc0ef31440d/Kennung_Symbolfoto,a48e538f?w=320",
-      "image_title": "Der Geldwäsche-Report: Schmutzige Kohle wird in Berlin ganz schnell blütenweiß"
-    },
-    {
-      "title": "Mutmaßlicher Serientäter Nikolaj G. (37) : Polizei sucht nach weiteren Opfern",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/mutmasslicher-serientaeter-polizei-sucht-nach-weiteren-opfern-81841466.bild.html",
-      "image_url": "https://images.bild.de/6366402324b34f1c2df59da2/816b144d4abb509e07ef06865304c276,ad72b0de?w=320",
-      "image_title": "Mutmaßlicher Serientäter Nikolaj G. (37): Polizei sucht nach weiteren Opfern"
-    },
-    {
-      "title": "Heiße Spur in ungeklärtem Fall : Cold-Case-Ermittler graben nach Knochen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/cold-case-thueringer-mord-ermittler-suchen-leiche-in-dresden-81838292.bild.html",
-      "image_url": "https://images.bild.de/63655c513a40303131271aa3/6fbbaf4d2857f33ca4a427cf52de0deb,42d27463?w=320",
-      "image_title": "Cold Case: Heiße Spur! Ermittler graben mit Bagger nach Knochen"
-    },
-    {
-      "title": "In feinsten Hamburger Kreisen : Geliebte (60) entführt Millionär aus Krankenbett",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/hamburg-geliebte-60-entfuehrt-millionaer-aus-krankenbett-81829466.bild.html",
-      "image_title": "Hamburg: Geliebte (60) entführt Millionär aus Krankenbett"
-    },
-    {
-      "title": "Übelkeit, Erbrechen und Durchfall : Mehr als 100 Grundschüler plötzlich erkrankt",
-      "teaser": "Schüler und Lehrer in Dresden sind plötzlich krank. Was steckt dahinter?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-100-grundschueler-ploetzlich-erkrankt-ursache-noch-unklar-81834926.bild.html",
-      "image_title": "Dresden: Über 100 Grundschüler plötzlich erkrankt"
-    },
-    {
-      "title": "Glücksgriff in die Ramschkiste : Plötzlich war der Modeschmuck 8000 Euro wert",
-      "teaser": "Samstag geht er bei Thurisch in die Herbstauktion. Startpreis: 8000 Euro.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/irrer-gluecksgriff-ploetzlich-war-der-modeschmuck-8000-euro-wert-81826560.bild.html",
-      "image_title": "Irrer Glücksgriff: Plötzlich war der „Modeschmuck“ 8000 Euro wert"
-    },
-    {
-      "title": "Eigentlich wollten sie ans Geld : Automaten-Sprenger jagen ganze Bankfiliale in die Luft",
-      "teaser": "Eigentlich wollten sie nur ans Geld: Doch die Detonationswelle demolierte den gesamten Flachbau und laut Polizei hauten sie wohl auch ohne Kohle wieder ab.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/geldautomat-gesprengt-unbekannte-jagen-bankfiliale-in-sachsen-anhalt-in-die-luft-81831548.bild.html",
-      "image_title": "Geldautomat gesprengt: Unbekannte jagen Bankfiliale in Sachsen-Anhalt in die Luft"
-    },
-    {
-      "title": "Nach Verfolgungsjagd : BMW-Dieb entwischt Polizei auf geklautem Fahrrad",
-      "teaser": "Ein Autoknacker musste am Freitag seine wilde Flucht mit einem geklauten BMW M4 abbrechen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/nach-verfolgungsjagd-bmw-dieb-entwischt-polizei-auf-geklautem-fahrrad-81837970.bild.html",
-      "image_title": "Verfolgungsjagd: BMW-Dieb entwischt Polizei auf geklautem Fahrrad"
-    },
-    {
-      "title": "Neue Diebesmasche von Luxus-Schlitten : Flog Russen-Mafia geklaute Autos nach Dubai aus?",
-      "teaser": "Jetzt sollen geklaute Luxus-Flitzer schon per Flugzeug außer Landes geschafft werden!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/diebstahl-flog-die-russen-mafia-geklaute-autos-nach-dubai-aus-81838026.bild.html",
-      "image_title": "Diebstahl: Flog die Russen-Mafia geklaute Autos nach Dubai aus?"
-    },
-    {
-      "title": "Neues Asyl-Camp : DDR-Flieger wird Spielplatz für Flüchtlingskinder",
-      "teaser": "Die Stadt Leipzig will eine zusätzliche Notunterkunft wieder in Betrieb nehmen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/fluechtlinge-leipzig-nimmt-zelt-notunterkunft-in-betrieb-81835568.bild.html",
-      "image_title": "Leipzig: DDR-Flieger wird Spielplatz für Flüchtlingskinder"
-    },
-    {
-      "title": "Nächste Chance am Dienstag : 120-Mio-Euro-Jackpot wurde nicht geknackt",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 4. November 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-vom-4-november-81810832.bild.html",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen vom 4. November"
-    },
-    {
-      "title": "Horror-Haus von Walldürn : Tatverdächtiger ist Psycho-Guru",
-      "teaser": "Nikolaj G. (37) gab den charismatisch-veganen Psycho-Guru und Ratgeber-Autor.",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/horror-haus-von-wallduern-tatverdaechtiger-ist-psycho-guru-81830966.bild.html",
-      "image_title": "Horror-Haus von Walldürn: Tatverdächtiger ist Psycho-Guru"
-    },
-    {
-      "title": "In München wird knallhart durchgegriffen : 30 Tage Gewahrsam für Klima-Kleber",
-      "teaser": "„Das ist sehr, sehr selten“, sagte ein Polizeisprecher.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/klimaaktivisten-in-muenchen-bis-zu-30-tage-gewahrsam-nach-llebe-aktion-81835654.bild.html",
-      "image_title": "Klima-Kleber in München: 30 Tage Gewahrsam!"
-    },
-    {
-      "title": "Louisa (23) lernt Tier-Präparation : Azubi für alle Felle",
-      "teaser": "Sie hat zarte Hände und weiß trotzdem, wie man einem toten Tier das Fell über die Ohren zieht.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/tier-praeparation-am-naturkundemuseum-azubi-fuer-alle-felle-81837516.bild.html",
-      "image_title": "Tier-Präparation am Naturkundemuseum: Azubi für alle Felle"
-    },
-    {
-      "title": "Wie soll der Baby-Elefant heißen? : Tausende Namensvorschläge eingereicht",
-      "teaser": "Die Teilnahme war enorm! Mehr als 8500 Vorschläge wurden eingereicht.",
-      "url": "https://www.bild.de/regional/leipzig/sachsen-anhalt-news/zoo-leipzig-wie-wird-der-baby-elefant-heissen-tausende-vorschlaege-eingereicht-81832156.bild.html",
-      "image_title": "Zoo Leipzig: Wie wird der Baby-Elefant heißen? Tausende Vorschläge eingereicht"
-    },
-    {
-      "title": "Hamburg baut Laternen ohne Strom auf : Licht aus, Spott an!",
-      "teaser": "Im Volkspark stehen 48 Beleuchtungs-Masten, doch es fehlt der Stromanschluss!",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/stadt-baut-fuer-400-000-euro-laternen-im-volkspark-auf-aber-es-gibt-keinen-strom-81820188.bild.html",
-      "image_title": "Hamburg baut für 400 000 Euro Laternen auf – ohne Strom: Licht aus, Spott an!"
-    },
-    {
-      "title": "Brüder hielten Frau als Geisel : Polizei befürchtet weitere Opfer",
-      "teaser": "Die ganze Dimension dieses Falles ist noch gar nicht bekannt.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/wallduern-wie-viele-frauen-litten-im-horror-haus-81829928.bild.html",
-      "image_title": "Walldürn: Wie viele Frauen litten im Horror-Haus?"
-    },
-    {
-      "title": "Wegen ihrer Lebensversicherung? : Geschäftspartner beauftragte ihren Mord",
-      "teaser": "Ihr Geschäftspartner soll den Mörder für Kommunalpolitikerin Ute P. (57) engagiert haben.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/auftragsmord-musste-sie-wegen-ihrer-lebensversicherung-sterben-81828126.bild.html",
-      "image_title": "Auftragsmord: Musste sie wegen ihrer Lebensversicherung sterben?"
-    },
-    {
-      "title": "Heute Rekordsumme zu gewinnen : 120 Mio. Euro im Eurojackpot – mehr geht nicht!",
-      "teaser": "Zum zweiten Mal in diesem Jahr wird im Eurojackpot die Höchstsumme ausgeschüttet.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-120-millionen-euro-gewinnen-mehr-geht-nicht-81809126.bild.html",
-      "image_title": "Heute im Eurojackpot sind 120 Millionen Euro – mehr geht nicht!"
-    },
-    {
-      "title": "Die Mitschuld der Klima-Kriminellen : Er klebt, eine Frau stirbt",
-      "teaser": "Während des Einsatzes kämpft eine Frau um ihr Leben. Und verliert.",
-      "url": "https://www.bild.de/news/inland/news-inland/drama-in-berlin-und-die-mitschuld-der-klima-kriminellen-81827492.bild.html",
-      "image_title": "Drama in Berlin und die Mitschuld der Klima-Kriminellen"
-    },
-    {
-      "title": "Reduzierte Schuhe der Vorsaison geklaut : „Bei mir waren Stuttgarts dümmste Diebe!“",
-      "teaser": "Diebe klauten mehr als 100 Paar Schuhe. Den teuersten haben sie stehen gelassen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/schuhverkaeufer-bei-mir-waren-stuttgarts-duemmste-einbrecher-81822688.bild.html",
-      "image_title": "Schuhverkäufer: „Bei mir waren Stuttgarts dümmste Einbrecher!“"
-    },
-    {
-      "title": "Anwohner fürchten um ihre Ruhe : Protest gegen einen Problem-Jugendlichen",
-      "teaser": "Seit Jahren lässt ein Junge (heute 14) aus Magdeburg Familie, Pädagogen und Wachleute mit seinen Wutausbrüchen verzweifeln.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/magdeburg-protest-gegen-einen-problem-jugendlichen-81828312.bild.html",
-      "image_title": "Magdeburg: Protest gegen einen Problem-Jugendlichen"
-    },
-    {
-      "title": "Die Satt-Macherin : Sie verköstigt die Armen der Stadt",
-      "teaser": "Nicht nur Obdachlose, Hartz-IV-Empfänger und arme Rentner sind auf eine günstige warme Mahlzeit in der Suppenküche angewiesen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-nicht-nur-obdachlose-kommen-in-suppenkueche-der-neustadt-81827672.bild.html",
-      "image_title": "Dresden: Nicht nur Obdachlose kommen in Suppenküche der Neustadt"
-    },
-    {
-      "title": "Claus Strunz warnt : „Es ist eine neue Stufe gezündet worden“",
-      "url": "https://www.bild.de/video/clip/news/claus-strunz-warnt-es-ist-eine-neue-stufe-gezuendet-worden-81801234.bild.html",
-      "image_title": "Claus Strunz warnt : „Es ist eine neue Stufe gezündet worden“"
-    },
-    {
-      "title": "Nach Schamlos-Tweet über Radlerin : Klima-Extremist plötzlich kleinlaut!",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/nach-schamlos-tweet-ueber-radlerin-klima-extremist-ploetzlich-kleinlaut-81799428.bild.html",
-      "image_title": "Nach Schamlos-Tweet über Radlerin: Klima-Extremist plötzlich kleinlaut!"
-    },
-    {
-      "title": "Mit Staatsknete : Das miese Spiel von Islamisten mit Flüchtlingen",
-      "url": "https://www.bild.de/video/clip/news/mit-staatsknete-das-miese-spiel-von-islamisten-mit-fluechtlingen-81799826.bild.html",
-      "image_title": "Mit Staatsknete: Das miese Spiel von Islamisten mit Flüchtlingen"
-    }
-  ]
+  "articles": []
 }
