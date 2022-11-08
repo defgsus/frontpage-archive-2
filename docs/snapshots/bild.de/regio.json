@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-08T13:46:51",
+  "timestamp": "2022-11-08T14:26:00",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,380 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.816aefbe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.07aca715.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.6ab117da.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.9bb97b3d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.c5c6c3ac.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.01115563.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "In der Morgendämmerung : Bikerin (17) stirbt nach Frontalcrash",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-bmw-fahrer-toetet-17-jaehrige-auf-motorrad-bei-ueberholmanoever-81869866.bild.html",
+      "image_title": "Plaue: Unfall: 17-Jährige stirbt nach Frontalcrash mit BMW"
+    },
+    {
+      "title": "Wachmann einer Vollsperrung verprügelt : Die Drei von der HAUstelle",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/sachsen-anhalt-wer-kennt-diese-baustellen-vandalen-81861572.bild.html",
+      "image_title": "Sachsen-Anhalt: Wer kennt diese Baustellen-Vandalen?"
+    },
+    {
+      "title": "Keine Kälte, kein Schnee in Deutschland : Dieses Hoch verlängert den Spätsommer!",
+      "url": "https://www.bild.de/news/wetter/wetter/keine-kaelte-kein-schnee-in-deutschland-dieses-hoch-verlaengert-den-spaetsommer-81868790.bild.html",
+      "image_title": "Keine Kälte, kein Schnee in Deutschland: Dieses Hoch verlängert den Spätsommer!"
+    },
+    {
+      "title": "Bericht spricht von „abstrakter Gefährdungslage“ : „Tiergarten-Mörder“ ist nicht mehr in Berlin!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/laut-bericht-tiergarten-moerder-vadim-krasikov-aus-berlin-weggebracht-81871340.bild.html",
+      "image_title": "Laut Bericht: „Tiergarten-Mörder“ Vadim Krasikov aus Berlin weggebracht"
+    },
+    {
+      "title": "Weihnachtsbaum für Breitscheidplatz : Tannen-Panne! Darum wurde der Transport gestoppt",
+      "teaser": "Am Dienstagmorgen kam das Aus für den Weihnachtsbaum vom Breitscheidplatz.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/fuer-breitscheidplatz-tannen-panne-darum-wurde-der-transport-gestoppt-81867714.bild.html",
+      "image_title": "Für Breitscheidplatz: Tannen-Panne! Darum wurde der Transport gestoppt"
+    },
+    {
+      "title": "Schwerer Unfall in Berlin : Fußgänger unter Linien-Bus eingeklemmt",
+      "teaser": "Ein Fußgänger ist unter einen Bus der Berliner Verkehrsbetriebe geraten.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/unfall-in-berlin-fussgaenger-unter-linien-bus-eingeklemmt-81867636.bild.html",
+      "image_title": "BVG-Unfall in Berlin: Fußgänger unter Linien-Bus eingeklemmt"
+    },
+    {
+      "title": "Kunstschätze per Jacht nach Deutschland gebracht? : Oligarchen-Kunst in Spedition gefunden",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/putin-vertrauter-alischer-usmanow-69-liess-gemaelde-einlagern-oligarchen-kunst-i-81867688.bild.html",
+      "image_title": "Putin-Vertrauter Alischer Usmanow (69) ließ Gemälde einlagern: Oligarchen-Kunst in Spedition gefunden"
+    },
+    {
+      "title": "Verein plant Großevent : Die Rennbahn-Rebellen",
+      "teaser": "Die Galopprennbahn steht vor dem Aus. Doch eine Gruppe will nicht aufgeben.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/macher-planen-gross-event-trotz-verbot-die-rennbahn-rebellen-81858758.bild.html",
+      "image_title": "Macher planen Groß-Event trotz Verbot: Die Rennbahn-Rebellen"
+    },
+    {
+      "title": "Dienstag bei den Bayern : Werder droht der schlimmste Sieglos-Rekord",
+      "teaser": "Bremen kann im Auswärtsspiel bei den Bayern Bundesliga-Geschichte schreiben.",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-bei-bayern-muenchen-droht-der-schlimmste-sieglos-rekord-81863870.bild.html",
+      "image_title": "Werder Bremen: Bei Bayern München droht der schlimmste Sieglos-Rekord"
+    },
+    {
+      "title": "Nur noch 5 Minuten! : Läut-Limit für die Fichtelberg-Glocke",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/friedensglocke-laeut-limit-fuer-die-fichtelberg-glocke-81872248.bild.html",
+      "image_title": "Friedensglocke: Läut-Limit für die Fichtelberg-Glocke"
+    },
+    {
+      "title": "Bei Russen-Angriff zerstört : Antonov wird an geheimen Ort neu aufgebaut",
+      "teaser": "Der weltgrößte Flieger wurde zerstört – und soll jetzt wieder aufgebaut werden!",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/spenden-fuer-antonov-groesstes-flugzeug-der-welt-wird-rekonstruiert-81863376.bild.html",
+      "image_title": "Bei Russen-Angriff zerstört: Größtes Flugzeug wird neu aufgebaut"
+    },
+    {
+      "title": "Geschenkt : Sachsen schiebt Impfbus nach Marokko ab",
+      "teaser": "Die Impf-Bereitschaft im Freistaat nimmt immer mehr ab. Der Impfbus kann weg.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/geschenkt-sachsen-schiebt-impfbus-nach-marokko-ab-81867918.bild.html",
+      "image_title": "Geschenkt: Sachsen schiebt Impfbus nach Marokko ab"
+    },
+    {
+      "title": "Wiedersehen mit Ex-Dynamo-Coach Kauczinski : „Ich habe meinen Rauswurf kommen sehen“",
+      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-ex-trainer-kauczinski-ueber-seinen-rauswurf-81872662.bild.html",
+      "image_title": "Dynamo Dresden: Ex-Trainer Kauczinski über seinen Rauswurf"
+    },
+    {
+      "title": "Ein Schuss, ein Tor, zwei Punkte futsch : Hat Dynamo ein Torwart-Problem?",
+      "teaser": "Als ob Dynamo nach vier sieglosen Spielen in Folge nicht schon genug Probleme hat.",
+      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-hat-dynamo-ein-torwart-problem-81871590.bild.html",
+      "image_title": "Dynamo Dresden: Hat Dynamo ein Torwart-Problem?"
+    },
+    {
+      "title": "Feueranschlag auf Immobilien-Riesen : Zehn Vonovia-Transporter abgefackelt",
+      "teaser": "Nächster Brandanschlag auf die Flotte von Deutschlands größtem Immobilienkonzern.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/feueranschlag-auf-immobilien-riesen-zehn-vonovia-transporter-abgefackelt-81868276.bild.html",
+      "image_title": "Feueranschlag auf Immobilien-Firma: Zehn Vonovia-Transporter abgefackelt"
+    },
+    {
+      "title": "ADAC warnt : Unfallgefahr! Lkw parken unsere Raststätten zu",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/adac-warnt-unfallgefahr-lkw-parken-unsere-raststaetten-zu-81870780.bild.html",
+      "image_title": "ADAC warnt: Unfallgefahr! Lkw parken unsere Raststätten zu"
+    },
+    {
+      "title": "Auch Sippel verletzt : Borussia-Bubi vor Profi-Debüt!",
+      "teaser": "Das ist unfassbar bitter. Auch Tobias Sippel ist verletzt - nun steht ein Bubi vor seinem Debüt",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-sippel-verletzt-borussia-bubi-vor-debuet-81869668.bild.html",
+      "image_title": "Borussia Mönchengladbach: Sippel verletzt: Borussia-Bubi vor Debüt!"
+    },
+    {
+      "title": "Trotz 10 Wochen Spielpause : Gladbach verzichtet auf Winter-Lager!",
+      "teaser": "10 Wochen WM-Pause – Gladbach verzichtet trotzdem auf ein Winter-Trainingslager",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-daniel-farke-verzichtet-auf-winter-lager-81870322.bild.html",
+      "image_title": "Borussia Mönchengladbach: Daniel Farke verzichtet auf Winter-Lager!"
+    },
+    {
+      "title": "Helau! : Kevin und Annabell sind Meenzer Zugplakettchen",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/helau-kevin-und-annabell-sind-die-meenzer-zugplakettchen-81872562.bild.html",
+      "image_title": "Helau! Kevin und Annabell sind die Meenzer Zugplakettchen"
+    },
+    {
+      "title": "Frankfurt : Macheten-Männer lösen Polizeieinsatz aus",
+      "teaser": "Um 22.10 Uhr geht der Notruf bei der Polizei ein, ein Schuss sei gefallen, mehrere Personen seien mit Macheten bewaffnet in Fechenheim unterwegs.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-macheten-maenner-loesen-polizeieinsatz-aus-81871526.bild.html",
+      "image_title": "Frankfurt: Macheten-Männer lösen Polizeieinsatz aus"
+    },
+    {
+      "title": "Kein unbeschriebenes Blatt : Schwangere Frau getreten und gedemütigt?",
+      "teaser": "Die Anklage klingt nach Ehe-Hölle! Nabil M. soll seine Frau über Jahre malträtiert haben.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/frankfurt-er-soll-seine-schwangere-frau-getreten-und-gedemuetigt-haben-81872136.bild.html",
+      "image_title": "Frankfurt: Er soll seine schwangere Frau getreten und gedemütigt haben"
+    },
+    {
+      "title": "Großeinsatz in Hamburg Tonndorf : SEK schnappt mutmaßliche Tankstellenräuber",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/polizei-grosseinsatz-in-tonndorf-sek-schnappt-mutmasslichen-tankstellenraeuber-81869254.bild.html",
+      "image_title": "Polizei-Großeinsatz in Tonndorf: SEK schnappt mutmaßliche Tankstellenräuber"
+    },
+    {
+      "title": "SEK-Einsatz nach Schüssen : Betrunkener ballert vom Balkon",
+      "teaser": "Eintreffende Beamte sehen einen Mann, der auf einem Balkon mit einer Pistole schießt.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/sek-einsatz-nach-schuessen-betrunkener-ballert-vom-balkon-81872798.bild.html",
+      "image_title": "SEK-Einsatz nach Schüssen: Betrunkener ballert vom Balkon"
+    },
+    {
+      "title": "Neuer „Glücksatlas“ : Schleswig-Holsteiner sind am zufriedensten",
+      "teaser": "Der sogenannte Glücksindex stieg im nördlichsten Bundesland wieder auf 7,14.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/neuer-gluecksatlas-schleswig-holsteiner-sind-am-zufriedensten-81869202.bild.html",
+      "image_title": "Neuer „Glücksatlas“: Schleswig-Holsteiner sind am zufriedensten"
+    },
+    {
+      "title": "Mehrheit im Niedersächsischen Landtag : Dritte Amtszeit für MP Weil",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/mehrheit-im-niedersaechsischen-landtag-dritte-amtszeit-fuer-mp-weil-81871882.bild.html",
+      "image_title": "Mehrheit im Niedersächsischen Landtag: Dritte Amtszeit für MP Weil"
+    },
+    {
+      "title": "Stark verweste Leiche gefunden : Rätsel um den Toten von Salzgitter",
+      "teaser": "Eine stark verweste Leiche gibt der Polizei Salzgitter Rätsel auf.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/stark-verweste-leiche-gefunden-raetsel-um-den-toten-von-salzgitter-81870736.bild.html",
+      "image_title": "Stark verweste Leiche gefunden: Rätsel um den Toten von Salzgitter"
+    },
+    {
+      "title": "Polizei sucht seit 5 Tagen : Melia ging morgens zur Schule, kehrte nicht zurück",
+      "teaser": "Schon wieder sucht die Polizei nach der 13-jährigen Melia S. aus Vahrenheide.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/polizei-sucht-seit-5-tagen-melia-ging-morgens-zur-schule-kehrte-nicht-zurueck-81869248.bild.html",
+      "image_title": "Polizei sucht seit 5 Tagen: Melia ging morgens zur Schule, kehrte nicht zurück"
+    },
+    {
+      "title": "Kapitän Hector vor Comeback : Köln ohne Hübers ins Derby gegen Bayer",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-kapitaen-jonas-hector-vor-comeback-koeln-ohne-timo-huebers-ins-derby-81871480.bild.html",
+      "image_title": "1. FC Köln: Kapitän Jonas Hector vor Comeback: Köln ohne Timo Hübers ins Derby"
+    },
+    {
+      "title": "Süßigkeiten-Orgie nachts im ICE : Hungrige Bahn-Reisende knacken Bord-Bistro",
+      "teaser": "Zwei offenbar hungrige Reisende knackten nachts in einem ICE das Bord-Bistro.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-suessigkeiten-orgie-im-ice-dreiste-diebe-knacken-bord-bistro-81870042.bild.html",
+      "image_title": "Köln – Süßigkeiten-Orgie im ICE: Dreiste Diebe knacken Bord-Bistro"
+    },
+    {
+      "title": "24 Fälle in Köln und Aachen : Klima-Chaoten verkleben Bahn-Automaten",
+      "teaser": "Chaoten zerstören gezielt Fahrkartenautomaten an Bahnhöfen in Köln und Aachen.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/24-faelle-in-koeln-und-aachen-klima-chaoten-verkleben-bahn-automaten-81866906.bild.html",
+      "image_title": "24 Fälle in Köln und Aachen: Klima-Chaoten verkleben Bahn-Automaten"
+    },
+    {
+      "title": "Leipziger Ring dicht : Sitzblockade zwingt Querdenker zur Umkehr",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipziger-ring-dicht-sitzblockade-zwingt-querdenker-zur-umkehr-81867280.bild.html",
+      "image_title": "Leipziger Ring dicht: Sitzblockade zwingt Querdenker zur Umkehr"
+    },
+    {
+      "title": "Ganz vornehm : Öff Öff jetzt im Wohnmobil unterwegs",
+      "teaser": "Man kennt Jürgen Wagner (58) als Waldschrat Öff Öff, der in Erdlöchern haust.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/oeff-oeff-waldmensch-jetzt-im-wohnmobil-unterwegs-81853916.bild.html",
+      "image_title": "Löbau: Öff Öff ganz vornehm: Waldmensch jetzt im Wohnmobil unterwegs"
+    },
+    {
+      "title": "Tatwaffe Baseballschläger : Er soll seine Frau nach 45 Jahren Ehe erschlagen haben",
+      "teaser": "Mit gesenktem Haupt lief Andreas F. (64) am Montag in den Gerichtsaal am Landgericht Chemnitz.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/prozess-er-64-soll-seine-frau-63-nach-45-jahren-ehe-erschlagen-haben-81866476.bild.html",
+      "image_title": "Prozess: Er (64) soll seine Frau (63) nach 45 Jahren Ehe erschlagen haben"
+    },
+    {
+      "title": "BILD kennt die Liste der Hoffnung : Diese 47 Kaufhof-Filialen könnten gerettet werden!",
+      "url": "https://www.bild.de/bild-plus/politik/2022/politik/galeria-kaufhof-diese-47-filialen-koennten-gerettet-werden-81851528.bild.html",
+      "image_title": "Galeria Kaufhof: DIESE 47 Filialen könnten gerettet werden!"
+    },
+    {
+      "title": "Rostock – Sandhausen 0:1 : Dämpfer für Hansa im Abstiegskampf",
+      "teaser": "Pfiffe statt Euphorie: Hansa Rostock verliert das Kellerduell gegen Sandhausen 0:1 (0:1).",
+      "url": "https://www.bild.de/sport/fussball/hansa-rostock/rostock-sandhausen-0-1-daempfer-fuer-hansa-im-abstiegskampf-81838682.bild.html",
+      "image_title": "Rostock – Sandhausen 0:1: Dämpfer für Hansa im Abstiegskampf"
+    },
+    {
+      "title": "Hansa Rostock : Auch der Nachwuchs bangt um die Rettung",
+      "teaser": "Sorgen bei Hansas Junioren-Teams.",
+      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostock-auch-der-nachwuchs-bangt-um-die-rettung-81834592.bild.html",
+      "image_title": "Hansa Rostock: Auch der Nachwuchs bangt um die Rettung"
+    },
+    {
+      "title": "Großeinsatz an Münchner Universität : Mit Waffe in der Vorlesung",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/grosseinsatz-an-muenchner-uni-waffen-mann-in-lmu-festgenommen-81870334.bild.html",
+      "image_title": "Großeinsatz an Münchner Universität: Mit Waffe in der Vorlesung"
+    },
+    {
+      "title": "Jetzt amtlich! : Puma-Chef Gulden wird neuer Adidas-Boss",
+      "teaser": "Der bisherige Puma-Vorstandschef Björn Gulden wird neuer Konzernchef beim Wettbewerber Adidas.",
+      "url": "https://www.bild.de/geld/wirtschaft/politik/adidas-bjoern-gulden-wird-neuer-konzernchef-81871072.bild.html",
+      "image_title": "Adidas: Björn Gulden wird neuer Konzernchef"
+    },
+    {
+      "title": "Studie der Uni Freiburg : Glücksland Bayern",
+      "teaser": "So glücklich wie vor der Corona-Pandemie sind die Menschen in Bayern derzeit nicht.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/studie-der-uni-freiburg-gluecksland-bayern-81870974.bild.html",
+      "image_title": "Studie der Uni Freiburg: Glücksland Bayern"
+    },
+    {
+      "title": "Zoll schmeißt Pilze in Müll und kassiert Bußgeld : 200 Euro Strafe! Rentner sammelte zu viele Pilze",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/bussgeld-weil-senior-80-zu-viele-pilze-gesammelt-hat-81868344.bild.html",
+      "image_title": "Weil am Rhein: 200 Euro Bußgeld – Weil Senior (80) zu viele Pilze gesammelt hat"
+    },
+    {
+      "title": "Polizei geht von Verbrechen aus : Frauenleiche in Haus gefunden",
+      "teaser": "Eine Frauenleiche ist in einem Wohnhaus in Oberfranken gefunden worden.",
+      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/goessweinstein-frauenleiche-in-haus-gefunden-81869602.bild.html",
+      "image_title": "Gößweinstein: Frauenleiche in Haus gefunden"
+    },
+    {
+      "title": "Schaeffler-Schock : Autozulieferer baut 1300 Stellen ab",
+      "teaser": "Grund sei die Transformation weg von Verbrenner-Antrieben hin zur E-Mobilität.",
+      "url": "https://www.bild.de/geld/mein-geld/mein-geld/schaeffler-schock-autozulieferer-baut-1300-stellen-ab-81867660.bild.html",
+      "image_title": "Schaeffler-Schock: Autozulieferer baut 1300 Stellen ab"
+    },
+    {
+      "title": "Mädchen sieben Jahre in Haus eingesperrt : Angehörige dürfen Mara (8) nicht mehr sehen",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/maedchen-in-attendorn-jahrelang-eingesperrt-kontaktverbot-fuer-angehoerige-81872324.bild.html",
+      "image_title": "Mädchen in Attendorn jahrelang eingesperrt: Kontaktverbot für Angehörige"
+    },
+    {
+      "title": "Opel prallte gegen zwei Bäume : Fahranfänger wird aus Auto geschleudert – tot!",
+      "teaser": "In Ostwestfalen prallte ein junger Mann (18) mit seinem Opel gegen zwei Bäume. Er starb.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/hoexter-willebadessen-fahranfaenger-18-wird-bei-unfall-aus-auto-geschleudert-tot-81869874.bild.html",
+      "image_title": "Höxter/Willebadessen: Fahranfänger (18) wird bei Unfall aus Auto geschleudert – tot!"
+    },
+    {
+      "title": "Eigentlich steht der Wohnblock leer : Familie in brennendem Haus entdeckt",
+      "teaser": "In einem brennenden Gebäude in Goch wurde eine Familie entdeckt, die sich dort versteckte.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/goch-eigentlich-steht-der-wohnblock-leer-familie-in-brennendem-haus-entdeckt-81870218.bild.html",
+      "image_title": "Goch – Eigentlich steht der Wohnblock leer: Familie in brennendem Haus entdeckt"
+    },
+    {
+      "title": "Mutter und Sohn verhaftet! : Wurde Rentnerin aus Heusweiler ermordet?",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/mutter-und-sohn-verhaftet-wurde-rentnerin-aus-heusweiler-ermordet-81872026.bild.html",
+      "image_title": "Mutter und Sohn verhaftet: Wurde Rentnerin aus Heusweiler ermordet?"
+    },
+    {
+      "title": "In Saarbrücken : ZF investiert in E-Mobilität",
+      "teaser": "Der Automobilzulieferer will auch Antriebstechnik für Elektro-Fahrzeuge herstellen.",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/in-saarbruecken-zf-investiert-in-e-mobilitaet-81859938.bild.html",
+      "image_title": "In Saarbrücken : ZF investiert in E-Mobilität"
+    },
+    {
+      "title": "Harte Kirmes-Regeln : Wer zu spät kommt, zahlt die Zeche!",
+      "teaser": "Die drei Kirmestage sind für die 40 Jungs die höchsten Feiertage im Jahr.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/die-haertesten-kirmes-regeln-wer-zu-spaet-kommt-zahlt-die-zeche-81862992.bild.html",
+      "image_title": "Die härtesten Kirmes-Regeln: Wer zu spät kommt, zahlt die Zeche!"
+    },
+    {
+      "title": "Potzsdamer Staatsanwalt sicher : Ex-Sowjetsoldat ließ Politikerin erschießen",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/auftragsmord-staatsanwalt-sicher-ex-sowjetsoldat-liess-politikerin-erschiessen-81865912.bild.html",
+      "image_title": "Auftragsmord: Staatsanwalt sicher - Ex-Sowjetsoldat ließ Politikerin erschießen"
+    },
+    {
+      "title": "Diesmal geht es um Geheimnisverrat : Prügel-Polizist zum vierten Mal auf der Anklagebank",
+      "teaser": "Dieser Beamte sitzt (gefühlt) wohl öfter auf der Anklagebank als im Streifenwagen.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/gericht-pruegel-polizist-zum-vierten-mal-auf-der-anklagebank-81862464.bild.html",
+      "image_title": "Gericht: Prügel-Polizist zum vierten Mal auf der Anklagebank"
+    },
+    {
+      "title": "Abwehr-Alarm vor Auswärtsspiel : HFC bangt um drei Erkrankte",
+      "teaser": "Vor dem Spiel in Ingolstadt plagen den Drittligisten personelle Sorgen.",
+      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-abwehr-alarm-vor-auswaertsspiel-hfc-bangt-um-drei-erkrankte-81862192.bild.html",
+      "image_title": "3. Liga: Abwehr-Alarm vor Auswärtsspiel – HFC bangt um drei Erkrankte"
+    },
+    {
+      "title": "VW-Dachholding Porsche SE : Hohen Schulden Ende 2022 erwartet",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/vw-dachholding-porsche-se-stuttgart-hohen-schulden-ende-2022-erwartet-81870660.bild.html",
+      "image_title": "VW-Dachholding Porsche SE Stuttgart: Hohen Schulden Ende 2022 erwartet"
+    },
+    {
+      "title": "Tiffany (28) : Ein Schicksalsschlag ist heute mein größtes Geschenk",
+      "teaser": "Ihre rosafarbene Welt wurde auf einen Schlag dunkelschwarz. Heute hilft sie anderen Frauen.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/tiffany-28-mein-schicksalsschlag-ist-heute-mein-groesstes-geschenk-81116740.bild.html",
+      "image_title": "Tiffany (28): Ein Schicksalsschlag hat mich stark gemacht"
+    },
+    {
+      "title": "„Die Angst war einfach da“ : Mama werden nach einer Fehlgeburt",
+      "teaser": "Wird es mein Baby dieses Mal schaffen? Die Angst war Larissas ständiger Begleiter.",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/die-angst-war-einfach-da-mama-werden-nach-einer-fehlgeburt-81324128.bild.html",
+      "image_title": "„Die Angst war einfach da“: Mama werden nach einer Fehlgeburt"
+    },
+    {
+      "title": "Bei Verkehrskontrolle : Betrunkene Radlerin beißt Polizistin",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/bei-verkehrskontrolle-betrunkene-radlerin-beisst-polizistin-81869238.bild.html",
+      "image_title": "Meiningen: Bei Verkehrskontrolle: Betrunkene Radlerin beißt Polizistin"
+    },
+    {
+      "title": "Nächster Jena-Hammer : Sportchef Tobias Werner vor Wechsel in die 2. Liga",
+      "teaser": "Regionalligist Carl Zeiss Jena kommt nach dem Trainerwechsel nicht zur Ruhe.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/naechster-jena-hammer-zweitligist-will-sportchef-tobias-werner-81866280.bild.html",
+      "image_title": "Nächster Jena-Hammer: Zweitligist will Sportchef Tobias Werner"
+    },
+    {
+      "title": "Wegen Jobangst : Ex-Wachfrau soll Theater in Eisenach angezündet haben",
+      "teaser": "Vier verheerende Brände im Landestheater Eisenach: Wurden sie von Christina W. (57) gelegt?",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-hat-christina-w-das-theater-eisenach-angezuendet-81866134.bild.html",
+      "image_title": "Thüringen: Hat Christina W. das Theater Eisenach angezündet?"
+    }
+  ]
 }
