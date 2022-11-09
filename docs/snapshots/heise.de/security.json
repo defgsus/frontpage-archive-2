@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-09T09:22:27",
+  "timestamp": "2022-11-09T10:24:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Zehn-Sicherheitsluecken-weniger-in-Google-Chrome-7334255.html"
+    },
+    {
+      "title": "VMware Workspace ONE Assist",
+      "url": "https://www.heise.de/news/Admin-Luecken-in-Fernwartungssoftware-VMware-Workspace-ONE-Assist-geschlossen-7334362.html"
+    },
+    {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Attacken-auf-sechs-Luecken-Exchange-Patches-endlich-da-7334213.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-Android-Geraete-ueber-Attacken-lahmlegen-7333334.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-Sicherheitsupdates-Angreifer-koennten-ueber-Luecken-in-Netzwerke-eindringen-7329978.html"
+      "title": "Webbrowser: Zehn Sicherheitslücken weniger in Google Chrome",
+      "teaser": "In dem jetzt verfügbaren Update für den Webbrowser Chrome schließt Google 10 Sicherheitslücken. Mit manipulierten Webseiten könnten Angreifer Code ausführen.",
+      "url": "https://www.heise.de/news/Webbrowser-Zehn-Sicherheitsluecken-weniger-in-Google-Chrome-7334255.html",
+      "image_title": "Google Chrome Update"
     },
     {
-      "title": "Patchday Splunk",
-      "url": "https://www.heise.de/news/Patchday-Big-Data-Spezialist-Splunk-dichtet-zwoelf-Schwachstellen-ab-7329933.html"
+      "title": "Admin-Lücken in Fernwartungssoftware VMware Workspace ONE Assist geschlossen",
+      "teaser": "Angreifer könnten die Windows-Version von VMware Workspace ONE Assist attackieren.",
+      "url": "https://www.heise.de/news/Admin-Luecken-in-Fernwartungssoftware-VMware-Workspace-ONE-Assist-geschlossen-7334362.html"
     },
     {
       "title": "heise-Security-Webinar: Active Directory – Angriffe verstehen und verhindern",
@@ -137,16 +148,6 @@
       "title": "Process Monitor: Malware-Aktivitäten mit geeigneten Filtern aufdecken",
       "teaser": "Das kostenlose Tool ProcMon ist vor allem zur Fehlersuche unter Windows beliebt. Seine Monitoring-Skills eignen sich aber auch bestens zur Malware-Analyse.",
       "url": "https://www.heise.de/ratgeber/Process-Monitor-Malware-Aktivitaeten-mit-geeigneten-Filtern-aufdecken-7320044.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
-    },
-    {
-      "title": "Schwachstellenscanner Nessus: Updates schließen mehrere Sicherheitslücken",
-      "teaser": "Der Netzwerk-Schwachstellenscanner Nessus behebt mit neuen Versionen mehrere Schwachstellen in Drittherstellerkomponenten. Admins sollten sie installieren.",
-      "url": "https://www.heise.de/news/Schwachstellenscanner-Nessus-Updates-schliessen-mehrere-Sicherheitsluecken-7328440.html"
-    },
-    {
-      "title": "Patchday Fortinet: FortiSIEM speichert Log-in-Daten unverschlüsselt",
-      "teaser": "Es gibt wichtige Updates für Sicherheitsprodukte von Fortinet. Darunter etwa FortiADC und FortiOS. Keine Lücke gilt als kritisch.",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-FortiSIEM-speichert-Log-in-Daten-unverschluesselt-7328476.html"
     },
     {
       "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
