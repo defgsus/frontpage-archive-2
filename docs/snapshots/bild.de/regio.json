@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-10T17:24:02",
+  "timestamp": "2022-11-10T18:27:45",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,385 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.2eab051c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.16854111.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.4529fc0d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.2db78c1e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.5f3835e0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8d20044f.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Früh und heftig : Die Grippewelle schwappt über Deutschland!",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/frueh-und-heftig-die-grippewelle-schwappt-ueber-deutschland-81898392.bild.html",
-      "image_title": "Früh und heftig: Die Grippewelle schwappt über Deutschland!"
-    },
-    {
-      "title": "Kein Spaß in Freiburg : Stadt stoppt Konzert von „Sportfreunde Stiller“",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/freiburg-stadt-stoppt-konzert-von-sportfreunde-stiller-81897668.bild.html",
-      "image_title": "„Sportfreunde Stiller“ in Freiburg: Stadt stoppt spontanes Konzert"
-    },
-    {
-      "title": "Empfänger war Haribo : Mann (38) findet Scheck über 4,6 Millionen Euro!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/scheck-ueber-4-6-mio-euro-am-bahnsteig-haribo-macht-finder-nicht-froh-81859202.bild.html",
-      "image_title": "Scheck über 4,6 Mio. Euro am Bahnsteig: Haribo macht Finder nicht froh"
-    },
-    {
-      "title": "Verbrechen im Münsterland : Junge Frau (21) tot in ihrer Wohnung entdeckt",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/warendorf-junge-frau-offenbar-umgebracht-mordkommission-ermittelt-81898784.bild.html",
-      "image_title": "Warendorf: Junge Frau umgebracht – Mordkommission ermittelt"
-    },
-    {
-      "title": "Mann droht in Berliner U-Bahn : „Ich werde alle Deutschen töten“",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/mann-droht-in-berliner-u-bahn-ich-werde-alle-deutschen-toeten-81898134.bild.html",
-      "image_title": "Mann droht in Berliner U-Bahn: „Ich werde alle Deutschen töten“"
-    },
-    {
-      "title": "Rettung ahoi : Hier proben die Wasserretter den Ernstfall",
-      "teaser": "Zum ersten Mal überhaupt probten an der Regattastrecke des Beetzsees die Retter gemeinsam den Ernstfall.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/rettung-ahoi-hier-proben-die-wasserretter-den-ernstfall-81901162.bild.html",
-      "image_title": "Rettung ahoi: Hier proben die Wasserretter den Ernstfall"
-    },
-    {
-      "title": "Berliner Silvester-Pläne : Drei Verbotszonen für Böller und Feuerwerk geplant",
-      "teaser": "An Silvester ist in Berlin an mehreren Stellen Feuerwerk verboten.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/silvester-verbotszonen-fuer-boeller-und-feuerwerk-in-berlin-geplant-81898484.bild.html",
-      "image_title": "Silvester: Verbotszonen für Böller und Feuerwerk in Berlin geplant"
-    },
-    {
-      "title": "Sechste Pleite in Serie! 32 Gegentore : Oldenburg ist die Schießbude der 3. Liga",
-      "url": "https://www.bild.de/sport/fussball/fussball/vfb-oldenburg-sechste-pleite-trainer-dario-fossi-wir-haben-uns-selbst-totgeschos-81901270.bild.html",
-      "image_title": "VfB Oldenburg: Sechste Pleite! Trainer Dario Fossi: „Wir haben uns selbst totgeschossen“"
-    },
-    {
-      "title": "Werder feiert seinen WM-Fahrer : Füllkrug: Mein Handy ist explodiert",
-      "teaser": "Er hat es geschafft! Bundestrainer Hansi Flick hat Niclas Füllkrug für die WM nominiert.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-feiert-wm-fahrer-niclas-fuellkrug-81897546.bild.html",
-      "image_title": "Werder Bremen: WM-Fahrer Niclas Füllkrug: Mein Handy ist explodiert"
-    },
-    {
-      "title": "Gewalttat am Lloyd Gymnasium : Armbrust-Schütze wollte sterben",
-      "teaser": "Nach der Gewalttat im Mai muss sich Berkan S. vor dem Landgericht Bremen verantworten.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/nach-gewalttat-am-lloyd-gymnasium-in-bremerhaven-ist-der-armbrust-schuetze-schul-81894054.bild.html",
-      "image_title": "Gewalttat am Lloyd Gymnasium in Bremerhaven: Armbrust-Schütze wollte sterben"
-    },
-    {
-      "title": "Ihre Zwillingsschwester sitzt schon in U-Haft : Polizei jagt diese Messerstecherin",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/fahndung-polizei-jagt-diese-messerstecherin-42-81899352.bild.html",
-      "image_title": "Fahndung: Polizei jagt diese Messerstecherin (42)"
-    },
-    {
-      "title": "Mit getunter Simson : Mopedfahrer flüchtet mit 100 km/h",
-      "teaser": "Bei Görlitz versuchte ein Simsonfahrer mit 100 km/h dem Zoll zu entkommen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/mit-getunter-simson-mopedfahrer-fluechtet-mit-100-km-h-81898282.bild.html",
-      "image_title": "Unfall: Mopedfahrer flüchtet mit 100 km/h"
-    },
-    {
-      "title": "Prozess um Linksextremistin Lina E. : Vier weitere Männer angeklagt",
-      "teaser": "Die Staatsanwaltschaft hat jetzt vier weitere Männer angeklagt, darunter der Kronzeuge.",
-      "url": "https://www.bild.de/regional/thueringen/leipzig-news/prozess-um-lina-e-vier-weitere-maenner-angeklagt-81897696.bild.html",
-      "image_title": "Prozess um Lina E.: Vier weitere Männer angeklagt"
-    },
-    {
-      "title": "Sieben neue Territorien : Immer mehr Wölfe heulen in Sachsen",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sieben-neue-territorien-immer-mehr-woelfe-heulen-in-sachsen-81896764.bild.html",
-      "image_title": "Sieben neue Territorien: Immer mehr Wölfe heulen in Sachsen"
-    },
-    {
-      "title": "Bundesamt warnt vor Verzehr : Glassplitter-Alarm bei Dosen-Mais",
-      "teaser": "Achtung, Verbraucher: Eine bestimmte Sorte Dosen-Mais könnte Glassplitter enthalten.",
-      "url": "https://www.bild.de/news/inland/news-inland/bundesamt-warnt-vor-verzehr-glassplitter-alarm-bei-dosen-mais-81890292.bild.html",
-      "image_title": "Bundesamt warnt vor Verzehr: Glassplitter-Alarm bei Dosen-Mais"
-    },
-    {
-      "title": "„Immer nur reden bringt nix“ : Dynamo-Coach Anfang mit der Geduld am Ende",
-      "teaser": "Acht Punkte hinterm Aufstiegsplatz, seit fünf Spielen sieglos: Langsam ist Dynamo Dresden Trainer Markus Anfang mit der Geduld am Ende!",
-      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-trainer-markus-anfang-mit-der-geduld-am-ende-81893826.bild.html",
-      "image_title": "Dynamo Dresden: Trainer Markus Anfang mit der Geduld am Ende"
-    },
-    {
-      "title": "Tom Bauer trotz Trümmerbruch im Senftopf : Hoppeditz hat die Haxen (fast) heile",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-hoppeditz-tom-bauer-trotz-truemmerbruch-im-senftopf-81901136.bild.html",
-      "image_title": "Düsseldorf: „Hoppeditz“ Tom Bauer trotz Trümmerbruch im Senftopf"
-    },
-    {
-      "title": "Er war der „King of Kö“ : Mode-König Eickhoff ist tot",
-      "teaser": "Mode-König Albert Eickhoff († 86) ist tot. Jetzt kleidet er die Engel im Himmel ein.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/albert-eickhoff-tot-mode-koenig-war-der-king-of-koe-81877114.bild.html",
-      "image_title": "Albert Eickhoff tot: Mode-König war der „King of Kö“"
-    },
-    {
-      "title": "Obduktionsergebnis für Pasa ist da : Daran starb die Bulldogge aus der Sporttasche",
-      "teaser": "Was wurde Dogge Pasa angetan? Das Obduktionsergebnis liefert erste Erkenntnisse.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-daran-starb-die-bulldogge-aus-der-sporttasche-81900302.bild.html",
-      "image_title": "Düsseldorf: Daran starb die Bulldogge aus der Sporttasche"
-    },
-    {
-      "title": "Kam das Virus aus NRW? : Vogelgrippe jetzt auch im Westerwald!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kam-das-virus-aus-nrw-vogelgrippe-jetzt-auch-im-westerwald-81901662.bild.html",
-      "image_title": "Kam das Virus aus NRW?: Vogelgrippe jetzt auch im Westerwald!"
-    },
-    {
-      "title": "Sahra B. (26) wurde monatelang gestalkt : Mein Nachbar schlich heimlich in meine Wohnung",
-      "teaser": "Zehn Monate lang schleicht sich ein Nachbar heimlich in die Wohnung von Sahra B. (26) .",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/heimlicher-stalker-schleicht-in-sahras-wohnung-ich-zitterte-am-ganzen-koerper-81898984.bild.html",
-      "image_title": "Sahra B. (26) wurde monatelang gestalkt: Mein Nachbar schlich heimlich in meine Wohnung"
-    },
-    {
-      "title": "Dreck und Schädlinge : Ordnungsamt schließt fünf Lokale",
-      "teaser": "Lebensmittelkontrolle haben durchgegriffen, n Frankfurt fünf Lebensmittelbetriebe geschlossen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/dreck-und-schaedlinge-ordnungsamt-schliesst-fuenf-lebensmittelbetriebe-81900404.bild.html",
-      "image_title": "Dreck und Schädlinge: Ordnungsamt schließt fünf Lebensmittelbetriebe"
-    },
-    {
-      "title": "Es brummt : Hapag-Lloyd verdient 5 Milliarden in 3 Monaten",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/es-brummt-hapag-lloyd-verdient-5-milliarden-in-3-monaten-81895700.bild.html",
-      "image_title": "Es brummt: Hapag-Lloyd verdient 5 Milliarden in 3 Monaten"
-    },
-    {
-      "title": "Serientäter vor Gericht : Wenn es dunkel wurde, ging er mit Gummimaske auf Raubzug",
-      "teaser": "Seit Donnerstag Prozess. Anklage: Raub in sechs Fällen bei Tjaden‘s sowie eine versuchte schwere räuberische Erpressung bei Smileys.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/tagsueber-familienvater-abends-serientaeter-das-doppel-leben-des-biomarkt-raeube-81895802.bild.html",
-      "image_title": "Tagsüber Familienvater, abends Serientäter – das Doppel-Leben des Biomarkt-Räubers: Wenn es dunkel wurde, ging er mit Gummimaske auf Raubzug"
-    },
-    {
-      "title": "Zivilfahnder schnappen Ladendiebe : Operation Langfinger",
-      "teaser": "Operation Langfinger. Zivilfahnder streifen durch die City und halten die Augen auf.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/zivilfahnder-schnappen-ladendiebe-in-der-city-operation-langfinger-81895716.bild.html",
-      "image_title": "Zivilfahnder schnappen Ladendiebe in der City: Operation Langfinger"
-    },
-    {
-      "title": "Geldstrafe für Rocker-Boss Hanebuth : Vorm Urteil gab's Grünkohl",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/frank-hanebuth-58-mit-kohldampf-vorm-urteil-rocker-boss-isst-erst-gruenkohl-kass-81897904.bild.html",
-      "image_title": "Berufungsprozess um Frank Hanebuth (58): Rocker-Boss kassiert Geldstrafe"
-    },
-    {
-      "title": "Blutige Rache an Stiefvater : Mordversuch für Mama?",
-      "teaser": "In Lüneburg verhandelt das Landgericht gegen ein Paar wegen versuchten Mordes.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/tochter-wegen-rache-an-stiefvater-vor-gericht-mordversuch-fuer-mama-81884452.bild.html",
-      "image_title": "Tochter wegen Rache an Stiefvater vor Gericht: Mordversuch für Mama?"
-    },
-    {
-      "title": "Polizisten fanden Schülerin (13) : Vermisste Melia wieder da",
-      "teaser": "Die Polizei fand die Ausreißerin in der Region Hannover.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/polizei-sucht-seit-5-tagen-melia-ging-morgens-zur-schule-kehrte-nicht-zurueck-81869248.bild.html",
-      "image_title": "Schülerin (13) war eine Woche verschwunden: Vermisste Melia wieder da"
-    },
-    {
-      "title": "Verpisst Euch, Ihr Sauftouristen! : 1. Demo gegen Karnevals-Chaoten",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-erste-anwohner-demo-gegen-karnevals-chaoten-81899554.bild.html",
-      "image_title": "Köln: Erste Anwohner-Demo gegen Karnevals-Chaoten"
-    },
-    {
-      "title": "Ungewöhnliche Revue in der Volksbühne : Darf man über den Tod lachen?",
-      "teaser": "Köln – Burkard Sondermeier ist Autor einer Revue voller Märchen und Musik über den Tod.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-ungewoehnliche-revue-in-der-volksbuehne-darf-man-ueber-den-tod-lachen-81899020.bild.html",
-      "image_title": "Köln – Ungewöhnliche Revue in der Volksbühne: Darf man über den Tod lachen?"
-    },
-    {
-      "title": "Polizei nennt neue Details : Amok-Angst an Schule in Siegburg",
-      "teaser": "An einem Schulzentrum in Siegburg lösten am Mittwoch Knallgeräusche Amokalarm aus.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/amokalarm-schuesse-an-schule-in-siegburg-nrw-jugendlicher-festgenommen-81883002.bild.html",
-      "image_title": "Amok-Angst an Schule in Siegburg – SEK im Einsatz"
-    },
-    {
-      "title": "Frau in Leipziger hotel getötet : Mutmaßlicher Killer (42) in Haft",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/frau-in-leipziger-hotel-getoetet-mutmasslicher-killer-42-in-haft-81900622.bild.html",
-      "image_title": "Frau in Leipziger hotel getötet: Mutmaßlicher Killer (42) in Haft"
-    },
-    {
-      "title": "Brisante Demokratie-Studie : Deutsche fühlen sich zunehmend ohnmächtiger",
-      "teaser": "Wie zufrieden sind die Deutschen mit der Demokratie?",
-      "url": "https://www.bild.de/politik/inland/politik-inland/studie-deutsche-fuehlen-sich-zunehmend-ohnmaechtiger-aber-mit-demokratie-zufried-81884942.bild.html",
-      "image_title": "Studie: Deutsche fühlen sich zunehmend ohnmächtiger, aber mit Demokratie zufrieden"
-    },
-    {
-      "title": "Tragischer Crash an Kreuzung : LKW kracht in Auto – Fahrer tot",
-      "teaser": "Die Straße gleicht einem Trümmerfeld. Überall liegen Fahrzeugteile und Scherben.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-unfall-an-kreuzung-lkw-kracht-in-auto-fahrer-tot-81894530.bild.html",
-      "image_title": "Unfall in Leipzig: LKW kracht in Auto – Fahrer tot"
-    },
-    {
-      "title": "80 Kinder in medizinischer Behandlung : Schule nach Reizgas-Angriff komplett geräumt",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/guestrow-polizei-raeumt-schule-80-kinder-in-medizinischer-behandlung-81896280.bild.html",
-      "image_title": "Güstrow: Polizei räumt Schule - 80 Kinder in medizinischer Behandlung"
-    },
-    {
-      "title": "Zu hässlich! : Daniela Katzenberger verschmäht Künstler-Portrait",
-      "teaser": "Ein Künstler porträtierte Daniela Katzenberger (36) – der TV-Star ist nicht begeistert.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/daniela-katzenberger-tv-star-verschmaeht-kuenstler-portrait-81883240.bild.html",
-      "image_title": "Daniela Katzenberger: Zu hässlich! TV-Star will Künstler-Porträt nicht haben"
-    },
-    {
-      "title": "Rostock – Nürnberg 1:1 : Fröling rettet Punkt, Doc Bartel fliegt",
-      "teaser": "Zumindest ein Punkt im ersten Spiel mit neuem Trainer. Das Tor fiel in der Nachspielzeit.",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/rostock-nuernberg-1-1-froeling-rettet-gloeckner-debuet-81889798.bild.html",
-      "image_title": "Rostock – Nürnberg 1:1: Fröling rettet Punkt, Doc Bartel fliegt"
-    },
-    {
-      "title": "Bizarrer Prozess um Namen : Wirt darf „Schützenlisl“ weiter betreiben!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/prozess-um-namen-oktoberfest-wirt-darf-schuetzenlisl-weiter-betreiben-81900752.bild.html",
-      "image_title": "Prozess um Namen: Oktoberfest.Wirt darf „Schützenlisl“ weiter betreiben!"
-    },
-    {
-      "title": "17 Frauen und Mädchen über ihren Albtraum : Vergewaltigt – aber nicht verstummt",
-      "teaser": "17 betroffene Frauen und Mädchen reden in BamS über Ihre Vergewaltigung.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/15-mutige-frauen-erzaehlen-ihren-alptraum-vergewaltigt-aber-nicht-stumm-81700558.bild.html",
-      "image_title": "17 mutige Frauen und Mädchen erzählen ihren Albtraum: Vergewaltigt, aber nicht stumm!"
-    },
-    {
-      "title": "Kardinal Marx : Aktionen von Klima-Aktivisten verurteilt",
-      "teaser": "Der Erzbischof verurteilt umstrittene Aktionen von Klima-Aktivisten.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/kardinal-marx-aktionen-von-klima-aktivisten-verurteilt-81899176.bild.html",
-      "image_title": "Kardinal Marx: Aktionen von Klima-Aktivisten verurteilt"
-    },
-    {
-      "title": "Es droht ein Winter auf Platz 18 : Was kann den Club noch retten?",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-es-droht-ein-winter-auf-platz-18-was-kann-den-club-noch-retten-81900410.bild.html",
-      "image_title": "FCN: Es droht ein Winter auf Platz 18: Was kann den Club noch retten?"
-    },
-    {
-      "title": "BILD macht Sie & Ihren Liebling zum Star : Mensch, mach mal mein Gesicht!",
-      "teaser": "BILD freut sich über witzige, „zufällige“ Ähnlichkeit von Ihnen und Ihrem Haustier!",
-      "url": "https://www.bild.de/lifestyle/2022/leserreporter/bild-macht-sie-ihren-liebling-zum-star-hilfe-mein-haustier-sieht-aus-wie-ich-81780548.bild.html",
-      "image_title": "BILD macht Sie & Ihren Liebling zum Star!: Mensch, mach mal mein Gesicht!"
-    },
-    {
-      "title": "Im Landtag : Razzia bei Bayerns AfD-Fraktion",
-      "teaser": "Staatsanwaltschaft und Polizei bei der AfD im Bayerischen Landtag in München.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-razzia-bei-bayerns-afd-fraktion-81898692.bild.html",
-      "image_title": "München: Razzia bei Bayerns AfD-Fraktion"
-    },
-    {
-      "title": "Verdächtige SMS an die Mutter des Opfers : Erdrosselte Marcel B. seine Ex-Freundin?",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/totschlag-prozess-in-detmold-erdrosselte-marcel-b-seine-ex-freundin-81901200.bild.html",
-      "image_title": "Totschlag-Prozess in Detmold: Erdrosselte Marcel B. seine Ex-Freundin?"
-    },
-    {
-      "title": "Frau und Kind am Rastplatz belästigt : Polizei jagt diesen Zopf-Träger",
-      "teaser": "Der Unbekannte soll sich vor einer Mutter und ihrer Tochter sexuell befriedigt haben.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/exhibitionist-auf-a43-rastplatz-polizei-jagt-diesen-zopf-traeger-81899526.bild.html",
-      "image_title": "Exhibitionist auf A43-Rastplatz: Polizei jagt diesen Zopf-Träger"
-    },
-    {
-      "title": "Saubere Sache : Dieser Roboter sammelt Pferdeäpfel ein",
-      "teaser": "Rodja Trappe (43) hat einen Roboter entwickelt, der selbstständig Pferdeäpfel einsammelt.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/erfindung-aus-havixbeck-roboter-sammelt-pferdeaepfel-ein-81897094.bild.html",
-      "image_title": "Erfindung aus Havixbeck: Roboter sammelt Pferdeäpfel ein"
-    },
-    {
-      "title": "Erste zwei Torbeteiligungen für den FCS : Rabihic plötzlich wichtig!",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-rabihic-ploetzlich-wichtig-81900430.bild.html",
-      "image_title": "1. FC Saarbrücken: Rabihic plötzlich wichtig!"
-    },
-    {
-      "title": "Doppelbesteuerung : Lösung des Grenzgänger-Streits in Sicht",
-      "teaser": "Nach Druck aus Brüssel macht das Bundesarbeitsministerium jetzt Dampf.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/doppelbesteuerung-loesung-des-grenzgaenger-streits-in-sicht-81899804.bild.html",
-      "image_title": "Doppelbesteuerung: Lösung des Grenzgänger-Streits in Sicht"
-    },
-    {
-      "title": "Stefan Regert : Erst 33, aber schon Chef von 38000 Narren",
-      "teaser": "So jung war der Saar-Karneval noch nie!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/stefan-regert-erst-33-aber-schon-chef-von-38-000-narren-81899974.bild.html",
-      "image_title": "Stefan Regert: Erst 33, aber schon Chef von 38 000 Narren"
-    },
-    {
-      "title": "SC Magdeburg 32:32 gegen Löwen : Saugstrup rettet Punkt, zwei Stars bleiben",
-      "url": "https://www.bild.de/sport/regional-sport/handball/sc-magdeburg-mit-unentschieden-gegen-loewen-und-vertragsverlaengerungen-81889730.bild.html",
-      "image_title": "SC Magdeburg 32:32 gegen Löwen: Saugstrup rettet Punkt"
-    },
-    {
-      "title": "Futter zu teuer! : Zoo verkauft seine Tiere",
-      "teaser": "Tangerhütte – Drei, zwei, eins – keins! Wenn Donnerstag um Mitternacht die Frist zur Übernahme des größten Tierparks in Sachsen-Anha...",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/tangerhuette-futter-zu-teuer-zoo-verkauft-seine-tiere-81890720.bild.html",
-      "image_title": "Tangerhütte: Futter zu teuer! Zoo verkauft seine Tiere"
-    },
-    {
-      "title": "Casar in neuer HFC-Rolle : Der unglückliche Abwehrchef",
-      "teaser": "In Ingolstadt ließ HFC-Trainer André Meyer mit einem überraschenden Schachzug aufhorchen.",
-      "url": "https://www.bild.de/sport/fussball/fussball/3-liga-aljaz-casar-in-neuer-hfc-rolle-der-unglueckliche-abwehrchef-81887126.bild.html",
-      "image_title": "3. Liga: Aljaz Casar in neuer HFC-Rolle – Der unglückliche Abwehrchef"
-    },
-    {
-      "title": "In Esslingen zu viel Gas gegeben : Porsche-Fahrer schrottet 911er",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/in-esslingen-gas-gegeben-porsche-fahrer-schrottet-seinen-911er-81899684.bild.html",
-      "image_title": "In Esslingen Gas gegeben: Porsche-Fahrer schrottet seinen 911er"
-    },
-    {
-      "title": "Blutkrebs : Antonio kämpft zum 3. Mal ums Überleben",
-      "teaser": "Schon zwei Mal wäre Antonio (24) aus Ingersheim fast gestorben. Jetzt kämpft er wieder.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/er-kaempft-zum-dritten-mal-antonio-24-der-tod-kriegt-mich-nicht-81887934.bild.html",
-      "image_title": "Er kämpft zum dritten Mal: Antonio (24): Der Tod kriegt mich nicht"
-    },
-    {
-      "title": "Ex-Boyband-Star Louis Tomlinson : DAS mache ich ohne One Direction anders!",
-      "teaser": "Er hat BILD verraten, wie er es schafft trotz Schicksalsschlägen positiv zu bleiben...",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/ex-boyband-star-louis-tomlinson-das-mache-ich-ohne-one-direction-anders-81884884.bild.html",
-      "image_title": "Ex-Boyband-Star Louis Tomlinson: DAS mache ich ohne One Direction anders!"
-    },
-    {
-      "title": "Keine Konsequenzen nach BILD-Enthüllung : „Satansmörder“ darf weiter für Schulamt arbeiten",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-satansmord-sebastian-s-bleibt-hort-mitarbeiter-81901280.bild.html",
-      "image_title": "Thüringen: Satansmord – Sebastian S. bleibt Hort-Mitarbeiter"
-    },
-    {
-      "title": "Das BILD-Interview zum Abschied : „Der Klub ist kein Trümmerhaufen“",
-      "teaser": "Am Samstag ist für Mario Voigt (45) Schluss als Aufsichtsratschef bei Carl Zeiss Jena.",
-      "url": "https://www.bild.de/sport/fussball/fussball/interview-mit-jena-boss-voigt-der-klub-ist-kein-truemmerhaufen-81901594.bild.html",
-      "image_title": "Interview mit Jena-Boss Voigt: „Der Klub ist kein Trümmerhaufen“"
-    },
-    {
-      "title": "Die Stromrechnung zahlen wir! : AfD bestellt sich Ölradiatoren in Thüringer Landtag",
-      "teaser": "Von wegen nur 19 Grad in öffentlichen Gebäuden. Höcke macht‘s sich heiß!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-die-stromrechnung-zahlen-wir-afd-bestellt-sich-oelradiatoren-81890948.bild.html",
-      "image_title": "Thüringen: Die Stromrechnung zahlen wir! AfD bestellt sich Ölradiatoren"
-    }
-  ]
+  "articles": []
 }
