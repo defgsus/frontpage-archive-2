@@ -1,22 +1,10 @@
 {
-  "timestamp": "2022-11-10T05:27:48",
+  "timestamp": "2022-11-10T06:28:11",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
   },
   "scripts": [
-    {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -26,6 +14,18 @@
     {
       "type": "text/javascript",
       "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -157,7 +157,7 @@
     },
     {
       "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.21a6db7ecaea582c9be7.js",
+      "src": "https://www.faz.net/dist/scripts/main.5daabbb39074d24d4728.js",
       "id": null,
       "text": null
     },
@@ -170,6 +170,12 @@
   ],
   "articles": [
     {
+      "title": "Top-Manager zur Globalisierung : „Ein Rückzug aus China schneidet uns ab“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dax-manager-zu-globalisierung-rueckzug-aus-china-schneidet-uns-ab-18448754.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Goldenes Zeitalter: China brachte deutschen Unternehmen sagenhafte Gewinne. Die Zukunft wird schwieriger."
+    },
+    {
       "title": "F.A.Z. Exklusiv : APAS-Verfahren gegen EY dauert wohl bis März",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/apas-verfahren-gegen-ey-wegen-wirecard-dauert-bis-maerz-18448795.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -180,12 +186,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/usa-vergleich-in-sammelklage-gegen-porsche-18449992.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Viele amerikanische Porsche-Käufer bekommen bald Geld ausgezahlt."
-    },
-    {
-      "title": "Hohe Einnahmen : Die Rentenkasse ist voll – noch",
-      "url": "https://www.faz.net/aktuell/wirtschaft/die-rentenkasse-ist-voll-18449208.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Beruhigend für Jung und Alt: Die Rentenkasse läuft langsamer leer als befürchtet."
     },
     {
       "title": "Entlassungen bei Facebook : Zuckerbergs volle Verantwortung",
@@ -248,6 +248,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Hohe Einnahmen : Die Rentenkasse ist voll – noch",
+      "url": "https://www.faz.net/aktuell/wirtschaft/die-rentenkasse-ist-voll-18449208.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Beruhigend für Jung und Alt: Die Rentenkasse läuft langsamer leer als befürchtet."
+    },
+    {
       "title": "Sachverständigenrat : Zoff um den Energie-Soli",
       "url": "https://www.faz.net/aktuell/wirtschaft/sachverstaendigenrat-zoff-um-den-energie-soli-18448806.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -273,17 +279,11 @@
     },
     {
       "title": "Facebook-Konzern : Meta entlässt mehr als 11.000 Mitarbeiter",
-      "url": "https://www.faz.net/aktuell/wirtschaft/facebook-konzern-meta-entlaesst-mehr-als-11-000-mitarbeiter-18448124.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Facebook-Konzern Meta entlässt tausende Mitarbeiter"
+      "url": "https://www.faz.net/aktuell/wirtschaft/facebook-konzern-meta-entlaesst-mehr-als-11-000-mitarbeiter-18448124.html"
     },
     {
       "title": "Missbrauch von Agrarhilfen : Wie viel EU-Geld geht an die Mafia?",
       "url": "https://www.faz.net/aktuell/wirtschaft/wie-viel-eu-geld-geht-an-die-mafia-missbrauch-von-agrarhilfen-18442030.html"
-    },
-    {
-      "title": "Ausbau der Sonnenenergie : Wie Gemeinden Solardächer verhindern",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/ausbau-der-sonnenenergie-wie-gemeinden-ein-solardach-verhindern-18434729.html"
     },
     {
       "title": "Kritik am Bürgergeld : Lohnt sich Arbeit künftig noch?",
@@ -351,8 +351,8 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/irritierende-wirtschaftsweise-hoehere-steuern-fuer-reiche-18448425.html"
     },
     {
-      "title": "Förderung der Erneuerbaren : Paris verdient Milliarden an Windenergie",
-      "url": "https://www.faz.net/aktuell/wirtschaft/der-franzoesische-staat-verdient-milliarden-mit-der-windenergie-18446008.html"
+      "title": "Ampel einigt sich auf 250 Euro : Kindergeld wird stärker erhöht als erwartet",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ampel-koalition-will-kindergeld-auf-250-euro-anheben-18448092.html"
     },
     {
       "title": "Förderung der Erneuerbaren : Paris verdient Milliarden an Windenergie",
@@ -449,6 +449,12 @@
       "image_title": "Ex-Wirecard-Chef Markus Braun vor dem Untersuchungsausschuss im Bundestag"
     },
     {
+      "title": "Ausbau der Sonnenenergie : Wie Gemeinden Solardächer verhindern",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/ausbau-der-sonnenenergie-wie-gemeinden-ein-solardach-verhindern-18434729.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Fortschritt auf dem Dach: Solarzellen in Alheim in Osthessen"
+    },
+    {
       "title": "Hohe Wohnkosten : Ampel einigt sich bei CO2-Abgabe für Mieter und Vermieter",
       "url": "https://www.faz.net/aktuell/wirtschaft/ampel-einigt-sich-bei-der-co2-abgabe-fuer-mieter-und-vermieter-18447669.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -465,12 +471,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/us-investor-boyd-simpson-die-lehman-krise-wird-einmalig-bleiben-18437335.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Blick auf den Alamo Square in San Francisco"
-    },
-    {
-      "title": "Grüner Wohnen : Die häufigsten Fehler bei der Mülltrennung",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/wie-man-haeufige-fehler-bei-der-muelltrennung-vermeidet-18354762.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nur was richtig sortiert wird, kann gut recycelt werden."
     },
     {
       "title": "DSL-Vergleich : So finden Sie Ihren Wunschtarif",
