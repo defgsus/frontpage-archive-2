@@ -1,22 +1,10 @@
 {
-  "timestamp": "2022-11-10T05:28:19",
+  "timestamp": "2022-11-10T07:20:56",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
   },
   "scripts": [
-    {
-      "type": null,
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
-      "id": null,
-      "text": null
-    },
     {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
@@ -26,6 +14,18 @@
     {
       "type": "text/javascript",
       "src": "https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/launch-ae2dd1b4fde7.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://consent.faz.net/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -97,7 +97,7 @@
     },
     {
       "type": null,
-      "src": "https://www.faz.net/dist/scripts/main.21a6db7ecaea582c9be7.js",
+      "src": "https://www.faz.net/dist/scripts/main.5daabbb39074d24d4728.js",
       "id": null,
       "text": null
     },
@@ -109,6 +109,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "Überflüssiges Triage-Gesetz : Ein Gutmenschen-Gesetz für Deutschlands Kliniken",
+      "url": "https://www.faz.net/aktuell/wissen/das-triage-gesetz-fuehrt-zu-ueberregulierung-ein-gutmenschen-gesetz-fuer-deutschlands-kliniken-18450159.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Triagen in der Notfallmedizin waren auch ohne Gesetz gang und gäbe."
+    },
     {
       "title": "Waldschutz für das Klima : Noch immer zu viel Etikettenschwindel mit Bäumen",
       "url": "https://www.faz.net/aktuell/wissen/land-gap-report-fuer-den-cop-27-klimagipfel-zeigt-noch-immer-gibt-es-zu-viel-etikettenschwindel-mit-baeumen-18436604.html",
@@ -122,16 +128,16 @@
       "image_title": "Junge Bäume müssen oft im Schatten großgezogen werden."
     },
     {
-      "title": "Ab in die Botanik : Wie eine Kiefer aus der Asche",
-      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/die-kanarische-kiefer-kann-sogar-vulkanausbrueche-ueberstehen-18436824.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Kanarische Kiefer ist an extreme Bedingungen angepasst, das mach den Nadelbaum gerade jetzt, in Zeiten des Klimawandels, so interessant."
-    },
-    {
       "title": "Solarpanel und Fleischmahl : Die katholische Klimaoffensive",
       "url": "https://www.faz.net/aktuell/wissen/die-katholische-klimaoffensive-18427427.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ein leuchtender Ambiguitätsverstärker: Papst Franziskus"
+    },
+    {
+      "title": "Ab in die Botanik : Wie eine Kiefer aus der Asche",
+      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/die-kanarische-kiefer-kann-sogar-vulkanausbrueche-ueberstehen-18436824.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Kanarische Kiefer ist an extreme Bedingungen angepasst, das mach den Nadelbaum gerade jetzt, in Zeiten des Klimawandels, so interessant."
     },
     {
       "title": "Neurodermitis bei Kindern : Neue Empfehlungen im Umgang mit Neurodermitis",
@@ -159,24 +165,17 @@
     },
     {
       "title": "„Schleichende“ Corona-Kampagne : Triumphieren die Impfmärchen über die Fakten?",
-      "url": "https://www.faz.net/aktuell/wissen/corona-impfung-triumphieren-die-maerchen-ueber-fakten-18440851.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Impfkampagne des Deutschen Roten Kreuzes im Tierpark Nordhorn."
+      "url": "https://www.faz.net/aktuell/wissen/corona-impfung-triumphieren-die-maerchen-ueber-fakten-18440851.html"
     },
     {
       "title": "François Englert wird 90 : Nobelpreis statt Bananen-Toast",
       "url": "https://www.faz.net/aktuell/wissen/dem-mitentdecker-des-higgs-teilchens-francois-englert-zum-90-geburtstag-18437862.html"
     },
     {
-      "title": "Netzrätsel : Farbwechsel: Je einfacher das Prinzip, desto tückischer das Spiel?",
-      "url": "https://www.faz.net/aktuell/wissen/netzraetsel/je-einfacher-das-prinzip-desto-tueckischer-das-spiel-18436825.html"
-    },
-    {
-      "title": "Neue Ansätze der Therapie : Magic Mushrooms gegen die Depression?",
-      "teaser": "Schwere Depressionen können laut einer neuen Studie durch die einmalige, hochdosierte Einnahme von Psilocybin gelindert werden. Die Ergebnisse sind allerdings mit Vorsicht zu genießen.",
+      "title": "Das Herbsträtsel : Wer hat an der Uhr gedreht?",
+      "teaser": "Beim großen Herbsträtsel geht es ganz um das Thema Zeit und Zeitmesser, von verspäteten Sonnenuhren bis zu riesigen Pendeln. Können Sie unsere kniffligen Fragen lösen und die Uhr richtig verstellen? Gewinnen Sie einen von 25 tollen Preisen.",
       "url": "https://www.faz.net/aktuell/das-beste-von-fplus/",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Wikrstoff Psilocybin ist ein Alkaloid und kann psychedelische Erfahrungen auslösen."
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Bewegung und Gesundheit : Wie wenig Sport ist notwendig?",
@@ -191,10 +190,10 @@
       "image_title": "Angefärbte Viren: Eine elektronenmikroskopische Aufnahme von Partikeln des Affenpockenvirus (rot) in einer infizierten Zelle (blau)."
     },
     {
-      "title": "Transplantationsmedizin : Künstliche Durchblutung soll Organe retten",
-      "url": "https://www.faz.net/aktuell/wissen/transplantation-maschinenperfusion-soll-organe-retten-18420558.html",
+      "title": "Neue Ansätze der Therapie : Magic Mushrooms gegen die Depression?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/depressionen-neue-studien-zur-wirkung-von-zauberpilzen-18431970.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Per Maschinenperfusion können Organe künstlich mit Blut durchspült werden, um Schäden vorzubeugen."
+      "image_title": "Der Wikrstoff Psilocybin ist ein Alkaloid und kann psychedelische Erfahrungen auslösen."
     },
     {
       "title": "Erhöhtes Krebsrisiko : Jedes Glas ein Glas zu viel",
