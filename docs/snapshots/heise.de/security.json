@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-11T08:30:51",
+  "timestamp": "2022-11-11T09:22:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco ASA & FTD",
+      "url": "https://www.heise.de/news/Cisco-dichtet-Sicherheitslecks-in-ASA-und-Firepower-ab-7336757.html"
+    },
+    {
       "title": "AMD, Intel, Lenovo",
       "url": "https://www.heise.de/news/Patchday-AMD-Intel-und-Lenovo-muessen-Sicherheitslecks-abdichten-7335686.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Citrix-Gateway-und-ADC-Kritische-Luecke-ermoeglicht-unbefugten-Zugriff-7334851.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-SAP-stopft-neun-zum-Teil-kritische-Schwachstellen-7334573.html"
+      "title": "Sperrbildschirm von Googles Pixel-Smartphones via SIM-PIN-Reset umgehbar",
+      "teaser": "Stimmen die Voraussetzungen, könnten Angreifer Smartphones der Pixel-Serie entsperren. Ein Sicherheitspatch ist verfügbar.",
+      "url": "https://www.heise.de/news/Sperrbildschirm-von-Googles-Pixel-Smartphones-via-SIM-PIN-Reset-umgehbar-7336898.html"
+    },
+    {
+      "title": "Cisco dichtet Sicherheitslecks in ASA und Firepower ab",
+      "teaser": "Cisco dichtet teils hochriskante Sicherheitslücken in der Software der Adaptive Security Appliance und Firepower Threat Defense. Admins sollten aktiv werden.",
+      "url": "https://www.heise.de/news/Cisco-dichtet-Sicherheitslecks-in-ASA-und-Firepower-ab-7336757.html",
+      "image_title": "Cisco"
     },
     {
       "title": "Google One VPN ab jetzt auch für Mac und Windows verfügbar",
@@ -139,16 +150,6 @@
       "title": "Predator: Griechische Regierung soll jeden Zweifel an Spyware-Einsatz beseitigen",
       "teaser": "Mitglieder des Pegasus-Untersuchungsausschusses sehen viele Spuren, wonach die griechische Regierung in den dortigen Spionageskandal verstrickt sein könnte.",
       "url": "https://www.heise.de/news/Predator-Griechische-Regierung-soll-jeden-Zweifel-an-Spyware-Einsatz-beseitigen-7331097.html"
-    },
-    {
-      "title": "BSI-Affäre: Kaltgestellter Schönbohm zieht vor Gericht​",
-      "teaser": "Arne Schönbohm geht gerichtlich gegen das Innenministerium vor, nachdem Ministerin Faeser (SPD) ihm untersagt hatte, das Amt als BSI-Präsident weiter auszuüben.",
-      "url": "https://www.heise.de/news/BSI-Affaere-Kaltgestellter-Schoenbohm-zieht-vor-Gericht-7330915.html"
-    },
-    {
-      "title": "UK-Cybersicherheitsbehörde startet landesweites Schwachstellen-Scanning",
-      "teaser": "Die IT-Sicherheitsbehörde des Vereinigten Königreichs startet einen Schwachstellen-Scanner-Dienst. Der untersucht alle Systeme des Landes auf Sicherheitslücken.",
-      "url": "https://www.heise.de/news/UK-Cyber-Sicherheitsbehoerde-startet-landesweites-Schwachstellen-Scanning-7330532.html"
     },
     {
       "title": "Praxisratgeber für Admins und Datenschutzverantwortliche",
