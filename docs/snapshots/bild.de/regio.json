@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-11T12:50:17",
+  "timestamp": "2022-11-11T13:46:35",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,380 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.816aefbe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.07aca715.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.6ab117da.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.9bb97b3d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.c5c6c3ac.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.01115563.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Detonation in Bank : Polizei schießt auf flüchtende Automaten-Bomber",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/detonation-in-bank-polizei-schiesst-auf-fluechtende-automaten-bomber-81906894.bild.html",
+      "image_title": "Jena: Detonation in Bank – Polizei schießt auf flüchtende Automaten-Bomber"
+    },
+    {
+      "title": "Frau (31) im Hotel brutal getötet : WC-Spülung überführt mutmaßlichen Killer",
+      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-wc-spuelung-ueberfuehrt-mutmasslichen-hotel-killer-81902076.bild.html",
+      "image_title": "Leipzig: WC-Spülung überführt mutmaßlichen Hotel-Killer"
+    },
+    {
+      "title": "Bumms statt Burger : Linienbus bleibt in Drive-in stecken",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/dachschaden-linienbus-bleibt-in-drive-in-stecken-81906092.bild.html",
+      "image_title": "Bumms statt Burger: Linienbus bleibt in Drive-in stecken"
+    },
+    {
+      "title": "Hier klettert kein Klima-Kleber in Berlin mehr rauf! : Leitern an den Schilderbrücken werden abgebaut",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-leitern-an-den-schilderbruecken-werden-abgebaut-81902904.bild.html",
+      "image_title": "Berlin: Leitern an den Schilderbrücken werden abgebaut"
+    },
+    {
+      "title": "Für 59 tote Kameraden in Afghanistan : Lambrecht eröffnet Ehrenmal für Gefallene",
+      "teaser": "Die Öffentlichkeit kann in Potsdam künftig den Afghanistan-Gefallenen ihren Respekt zollen.",
+      "url": "https://www.bild.de/regional/berlin/berlin-regional-politik-und-wirtschaft/potsdam-lambrecht-eroeffnet-ehrenmal-fuer-gefallene-soldaten-in-afghanistan-81907982.bild.html",
+      "image_title": "Potsdam: Lambrecht eröffnet Ehrenmal für gefallene Soldaten in Afghanistan"
+    },
+    {
+      "title": "Rettungswagen blockiert : Schon wieder! Klima-Kleber legen Berlin lahm",
+      "teaser": "Auch am Freitag wird wieder in Berlin geklebt.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/rettungswagen-blockiert-klima-kleber-legen-berliner-verkehr-lahm-81907286.bild.html",
+      "image_title": "Berlin – Rettungswagen blockiert: Klima-Kleber legen Verkehr lahm"
+    },
+    {
+      "title": "„Ich wusste von gar nichts...” : Werner verschwieg Füllkrug seine Flick-Telefonate",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-ole-werner-verschwieg-niclas-fuellkrug-flick-telefonate-81907834.bild.html",
+      "image_title": "Werder Bremen: Ole Werner verschwieg Niclas Füllkrug Flick-Telefonate"
+    },
+    {
+      "title": "Seit elf Spielen ohne Tor, aber... : Werner verteidigt Schotte Burke",
+      "teaser": "Oliver Burke rettete Werder zu Saisonbeginn wichtige Punkte, momentan sucht er seine Form.",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-seit-elf-spielen-ohne-tor-aber-ole-werner-verteidigt-oliver-burke-81906432.bild.html",
+      "image_title": "Werder Bremen: Seit elf Spielen ohne Tor, aber: Ole Werner verteidigt Oliver Burke"
+    },
+    {
+      "title": "Brandstiftung kurz vor Kita-Plänen! : Feuer-Drama um Geister-Haus",
+      "teaser": "Rund 50 Feuerwehrleute kämpften um die über 100 Jahre alte Villa – leider vergeblich.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/villa-sollte-kita-werden-feuer-drama-um-geister-haus-81895906.bild.html",
+      "image_title": "Villa sollte Kita werden: Feuer-Drama um Geister-Haus"
+    },
+    {
+      "title": "Beim Stromtanken : Hybrid verbrennt am Ladekabel",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/beim-stromtanken-hybrid-verbrennt-am-ladekabel-81905426.bild.html",
+      "image_title": "Bischofswerda – Beim Stromtanken: Hybrid verbrennt am Ladekabel"
+    },
+    {
+      "title": "Zwei Frauen vergewaltigt : Polizei nimmt Syrer (21) fest",
+      "teaser": "Ein Syrer (21) soll zwei Frauen vergewaltigt haben. Polizisten haben ihn festgenommen.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemitz-zwei-frauen-vergewaltigt-polizei-nimmt-syrer-21-fest-81910048.bild.html",
+      "image_title": "Chemitz: Zwei Frauen vergewaltigt - Polizei nimmt Syrer (21) fest"
+    },
+    {
+      "title": "Baubeginn in Döbeln : Karls Erlebnis-Dorf eröffnet vor Ostern 2024",
+      "teaser": "Sachsen bekommt das sechste „Karls Erlebnis-Dorf“. Der Bebauungsplan ist beschlossen.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/karls-erlebnis-dorf-in-sachsen-doebeln-eroeffnet-noch-vor-ostern-2024-81909344.bild.html",
+      "image_title": "„Karls Erlebnis-Dorf“ in Sachsen: Döbeln eröffnet noch vor Ostern 2024"
+    },
+    {
+      "title": "Juwelenraub im Grünen Gewölbe : Keine Ankage gegen Wachleute",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/ermittlungen-eingestellt-keine-anklage-gegen-wachleute-aus-gruenem-gewoelbe-81909250.bild.html",
+      "image_title": "Dresden: Ermittlungen eingestellt: Keine Anklage gegen Wachleute aus Grünem Gewölbe"
+    },
+    {
+      "title": "Stau in Sachsen : Feuer-Truck legt A4 lahm",
+      "teaser": "Funken fliegen über die Autobahn. Die Feuerwehr kämpft mit Schaum gegen riesige Flammen.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/stau-in-sachsen-brennender-truck-legt-a4-lahm-81906780.bild.html",
+      "image_title": "Stau in Sachsen: Feuer-Truck legt A4 lahm"
+    },
+    {
+      "title": "Exklusiv: Kult-Star hat einen neuen Pass : Warum Terence Hill plötzlich ein Deutscher ist",
+      "teaser": "Ein Herzens-Wunsch. HAMMER-stark! Wir haben einen neuen Mitbürger.",
+      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/terence-hill-verraet-bild-exklusiv-ich-bin-jetzt-deutscher-81903178.bild.html",
+      "image_title": "Terence Hill verrät BILD exklusiv: Ich bin jetzt Deutscher!"
+    },
+    {
+      "title": "Die Fakten zum Spiel : Farke traf schon gegen Dortmund!",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-sogar-daniel-farke-traf-gegen-dortmund-81902798.bild.html",
+      "image_title": "Borussia Mönchengladbach: Daniel Farke traf schon gegen Dortmund!"
+    },
+    {
+      "title": "Düsseldorf startet in die neue Session : Hoppeditz stichelt gegen Kirche und Kanzler",
+      "teaser": "Der Hoppeditz ist erwacht und hat seine mit Spannung erwartete Spottrede gehalten.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/karneval-in-duesseldorf-hoppeditz-stichelt-gegen-kirche-und-kanzler-81906126.bild.html",
+      "image_title": "Karneval in Düsseldorf: Hoppeditz stichelt gegen Kirche und Kanzler"
+    },
+    {
+      "title": "Sieben zerstochene Reifen – Fahndung! : Vandale beschädigt Carsharing-Autos",
+      "teaser": "An der Tußmannstraße in Düsseldorf wurden mehrere Carsharing-Autos beschädigt...",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-vandale-beschaedigt-carsharing-autos-polizei-fahndet-81906446.bild.html",
+      "image_title": "Düsseldorf: Vandale beschädigt Carsharing-Autos – Polizei fahndet!"
+    },
+    {
+      "title": "Ingrid Steeger (75) im Pflegeheim : Er war der letzte Mann in ihrem Bett",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/ingrid-steeger-im-pflegeheim-er-war-der-letzte-mann-in-ihrem-bett-81910914.bild.html",
+      "image_title": "Ingrid Steeger im Pflegeheim: Er war der letzte Mann in ihrem Bett"
+    },
+    {
+      "title": "Grausames Ende eines bewegten Lebens : Lebenslang für Mord an Hundertjähriger",
+      "teaser": "Wegen Mordes verurteilte das Landgericht Peggy H.-El A. zu einer lebenslangen Haftstrafe.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/grausames-ende-lebenslang-fuer-mord-an-hundertjaehriger-81909188.bild.html",
+      "image_title": "Grausames Ende: Lebenslang für Mord an Hundertjähriger"
+    },
+    {
+      "title": "Lokale und Supermarkt dicht : Ekel-Einsatz fürs Ordnungsamt",
+      "teaser": "Hygiene-Kontrolleure stießen in Frankfurt auf widerliche und lebensgefährliche Zustände.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/dreck-und-schaedlinge-ordnungsamt-schliesst-fuenf-lebensmittelbetriebe-81900404.bild.html",
+      "image_title": "Ekel-Einsatz fürs Ordnungsamt in Frankfurt: Mäuse-Dreck und Hygienemängel"
+    },
+    {
+      "title": "Senior als Serien-Brandstifter festgenommen : Hier zündelte ein 81-Jähriger",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/senior-als-serien-brandstifter-festgenommen-hier-zuendelte-ein-81-jaehriger-81908842.bild.html",
+      "image_title": "Senior als Serien-Brandstifter festgenommen: Hier zündelte ein 81-Jähriger"
+    },
+    {
+      "title": "Für Sicherheitsdienst & Toiletten : Punker kosten Sylt 200.000 Euro",
+      "teaser": "Sieben Wochen lang hatten Punker auf Sylt gehaust und verurschten horrende Kosten.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/fuer-sicherheitsdienst-chemietoiletten-und-bauhof-punker-kosten-sylt-200-000-eur-81910688.bild.html",
+      "image_title": "Für Sicherheitsdienst, Chemietoiletten und Bauhof: Punker kosten Sylt 200.000 Euro"
+    },
+    {
+      "title": "14-Jährige seit Ende Oktober vermisst : Wo bist du, Melina?",
+      "teaser": "Seit Ende Oktober sucht die Polizei nach der 14-jährigen Melina Aygün aus Wilhelmsburg.",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/seit-ende-oktober-vermisst-wo-bist-du-melina-81905610.bild.html",
+      "image_title": "Hamburg: Seit Ende Oktober vermisst: Wo bist du, Melina?"
+    },
+    {
+      "title": "Das sollten 96-Fans wissen : Bundesliga-Test in der WM-Pause",
+      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-so-ueberbrueckt-stefan-leitl-die-wm-pause-81908490.bild.html",
+      "image_title": "Hannover 96: So überbrückt Stefan Leitl die WM-Pause"
+    },
+    {
+      "title": "Seltener Schlammpeitzger fast ausgestorben! : Fisch-Zucht im Expo-Becken",
+      "teaser": "Hannover – Eigentlich ist der kleine aalartige Fisch ein echter Überlebenskünstler.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/seltener-schlammpeitzger-fast-ausgestorben-fisch-zucht-im-expo-becken-81895978.bild.html",
+      "image_title": "Seltener Schlammpeitzger fast ausgestorben!: Fisch-Zucht im Expo-Becken"
+    },
+    {
+      "title": "Geheimnisse zu 60-Jahre-Jubiläum : WAS für ein (Neues) Theater",
+      "teaser": "Diese Institution ist eine lebendige Legende: das Neue Theater!",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/geheimnisse-und-anekdoten-zu-60-jahre-jubilaeum-was-fuer-ein-neues-theater-81896008.bild.html",
+      "image_title": "Geheimnisse und Anekdoten zu 60-Jahre-Jubiläum: WAS für ein (Neues) Theater"
+    },
+    {
+      "title": "Ohne Einschränkungen bei Superwetter : Endlich wieder richtig Karneval in Kölle!",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-endlich-wieder-richtig-karneval-ohne-einschraenkungen-bei-superwetter-81905730.bild.html",
+      "image_title": "Karneval in Köln: Endlich wieder ohne Einschränkungen und bei super Wetter"
+    },
+    {
+      "title": "Termin-Hatz und Verletzungen : Baumgart schlägt WM-Alarm!",
+      "teaser": "WM-Alarm aus Köln. Trainer Steffen Baumgart kritisiert die Termin-Hatz und warnt vor Verletzten!",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-termin-hatz-und-verletzungen-steffen-baumgart-schlaegt-wm-alarm-81907066.bild.html",
+      "image_title": "1. FC Köln: Termin-Hatz und Verletzungen: Steffen Baumgart schlägt WM-Alarm!"
+    },
+    {
+      "title": "Aus Europa in den Liga-Keller? : Samstag beginnt für Köln der Abstiegskampf",
+      "teaser": "Köln nach dem Derby-Dämpfer gegen BAyer (1:2). Vorsicht, FC! Plötzlich droht ein langer Frust-Winter im Liga-Keller",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-aus-europa-in-den-liga-keller-samstag-beginnt-fuer-koeln-der-abstiegs-81906500.bild.html",
+      "image_title": "1. FC Köln: Aus Europa in den Liga-Keller?: Samstag beginnt für Köln der Abstiegskampf"
+    },
+    {
+      "title": "Riesen-Rumms : Böller-Idioten sprengen Marktbrunnen",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/riesen-rumms-boeller-idioten-sprengen-marktbrunnen-81905804.bild.html",
+      "image_title": "Riesen-Rumms: Böller-Idioten sprengen Marktbrunnen"
+    },
+    {
+      "title": "Lieber umgedichtet, kein Gänsebraten : Als die DDR Weihnachten abschaffen wollte",
+      "teaser": "Mitte der 1960er-Jahre sollte das russische Väterchen Frost den Weihnachtsmann in der DDR ersetzen.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/als-die-ddr-weihnachten-abschaffen-wollte-81903454.bild.html",
+      "image_title": "Als die DDR Weihnachten abschaffen wollte"
+    },
+    {
+      "title": "Die Schwester (42) sitzt schon in U-Haft : Polizei jagt Blut-Zwilling jetzt öffentlich",
+      "teaser": "Die 42-jährige Kathy Schneider ist seit fast einem halben Jahr auf der Flucht.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/fahndung-polizei-jagt-diese-messerstecherin-42-81899352.bild.html",
+      "image_title": "Fahndung: Polizei jagt diese Messerstecherin (42)"
+    },
+    {
+      "title": "Punkt beim Hansa-Start : Glöckners „unbeschreibliches Gefühl“",
+      "url": "https://www.bild.de/sport/fussball/hansa-rostock/punkt-beim-hansa-start-gloeckners-unbeschreibliches-gefuehl-81902714.bild.html",
+      "image_title": "Punkt beim Hansa-Start: Glöckners „unbeschreibliches Gefühl“"
+    },
+    {
+      "title": "80 Kinder in medizinischer Behandlung : Schule nach Reizgas-Angriff komplett geräumt",
+      "teaser": "Die Polizei räumte in Güstrow nach einem mutmaßlichen Reizgas-Angriff ein Schulgebäude.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/guestrow-polizei-raeumt-schule-80-kinder-in-medizinischer-behandlung-81896280.bild.html",
+      "image_title": "Güstrow: Polizei räumt Schule - 80 Kinder in medizinischer Behandlung"
+    },
+    {
+      "title": "Zu hässlich! : Daniela Katzenberger verschmäht Künstler-Portrait",
+      "teaser": "Ein Künstler porträtierte Daniela Katzenberger (36) – der TV-Star ist nicht begeistert.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/daniela-katzenberger-tv-star-verschmaeht-kuenstler-portrait-81883240.bild.html",
+      "image_title": "Daniela Katzenberger: Zu hässlich! TV-Star will Künstler-Porträt nicht haben"
+    },
+    {
+      "title": "Vier Länder schaffen sie ab : DAS soll jetzt statt Isolationspflicht gelten",
+      "url": "https://www.bild.de/bild-plus/politik/inland/politik-inland/corona-erste-laender-kippen-isolationspflicht-das-soll-stattdessen-gelten-81908756.bild.html",
+      "image_title": "Corona: Erste Länder kippen Isolationspflicht – das soll stattdessen gelten"
+    },
+    {
+      "title": "Irrer Prozess um Pudel-Mischling : Wau! Ich soll ein Kampfhund sein?",
+      "teaser": "Ist Dackel-Pu­del-Mischling Franzi (8) ein gefährlicher Kampfhund?",
+      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/pudel-mischling-soll-kampfhund-sein-irrer-prozess-in-regensburg-81910246.bild.html",
+      "image_title": "Pudel-Mischling soll Kampfhund sein: Irrer Prozess in Regensburg"
+    },
+    {
+      "title": "Experten sicher : Landtag-Waffen wurden 1933 vergraben",
+      "teaser": "Die im September bei Bauarbeiten im Landtag gefundenen Waffen stammen aus 1933.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/experten-sicher-landtag-waffen-wurden-1933-vergraben-81910724.bild.html",
+      "image_title": "Experten sicher: Landtag-Waffen wurden 1933 vergraben"
+    },
+    {
+      "title": "Nach Beurteilung der Universität : CSU-General verzichtet auf Doktor-Titel",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-beurteilung-der-universitaet-csu-general-verzichtet-auf-doktor-titel-81909838.bild.html",
+      "image_title": "Nach Beurteilung der Universität: CSU-General verzichtet auf Doktor-Titel"
+    },
+    {
+      "title": "Tatverdächtige festgenommen : Mann vor Olchinger Club niedergestochen",
+      "teaser": "Tage nachdem ein Mann niedergestochen wurde, hat die Polizei Verdächtige festgenommen.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/tatverdaechtige-festgenommen-mann-vor-olchinger-club-niedergestochen-81908658.bild.html",
+      "image_title": "Tatverdächtige festgenommen: Mann vor Olchinger Club niedergestochen"
+    },
+    {
+      "title": "Isolationspflicht aufgehoben : BaWü und Bayern schaffen Corona-Quarantäne ab",
+      "teaser": "Baden-Württemberg und Bayern schaffen die Absonderungspflicht für Corona-Infizierte ab.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/keine-isolationspflicht-bawue-und-bayern-schaffen-corona-quarantaene-ab-81908314.bild.html",
+      "image_title": "Keine Isolationspflicht: BaWü und Bayern schaffen Corona-Quarantäne ab"
+    },
+    {
+      "title": "Johanna K. (21) aus Warendorf (NRW) getötet : Ihr Handy lag in altem Steinbruch",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/warendorf-junge-frau-getoetet-ihr-handy-lag-in-altem-steinbruch-81908478.bild.html",
+      "image_title": "Warendorf: Junge Frau getötet – ihr Handy lag in altem Steinbruch"
+    },
+    {
+      "title": "Sprengung verzögert sich : A45-Brücke erst nächstes Jahr weg",
+      "teaser": "Der angestrebte Dezember-Termin für die Sprengung der Talbrücke ist geplatzt.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/luedenscheid-sprengung-verzoegert-sich-a45-bruecke-erst-2023-weg-81910012.bild.html",
+      "image_title": "Lüdenscheid: Sprengung verzögert sich – A45-Brücke erst 2023 weg"
+    },
+    {
+      "title": "Gute Lösung für den Teuer-Winter? : Herner Schwimmbad bietet Extra-Duschtarif an",
+      "teaser": "Deutschland steuert auf den Teuer-Winter zu. Da sind gute Ideen gefragt...",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/herne-dieses-schwimmbad-fuehrt-extra-duschtarif-im-winter-ein-81908876.bild.html",
+      "image_title": "Herne: Dieses Schwimmbad führt Extra-Duschtarif im Winter ein"
+    },
+    {
+      "title": "16-Jährige war 13 Tage verschwunden : Vermisste Julia ist wieder da",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/die-saar-polizei-sucht-diese-jugendliche-julia-bitte-melde-dich-81890340.bild.html",
+      "image_title": "16-Jährige war 13 Tage verschwunden: Vermisste Julia ist wieder da"
+    },
+    {
+      "title": "Wohnhäuser evakuiert : Explosionsgefahr wegen Gasaustritt",
+      "teaser": "Bei Bauarbeiten in der Schaffhauser Straße in Wehrden beschädigen Arbeiter eine Gasleitung.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/wohnhaeuser-evakuiert-explosionsgefahr-wegen-gasaustritt-81910126.bild.html",
+      "image_title": "Wohnhäuser evakuiert: Explosionsgefahr wegen Gasaustritt"
+    },
+    {
+      "title": "Völklinger hat 40 Mega-Modelle : Der Drachenkönig",
+      "teaser": "Leuchtturm, Walfisch und Mainzelmännchen. Christoph Schäfer hat rund 40 Drachen.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/voelklinger-hat-40-mega-modelle-der-drachenkoenig-81910162.bild.html",
+      "image_title": "Völklinger hat 40 Mega-Modelle: Der Drachenkönig"
+    },
+    {
+      "title": "Bundesamt warnt vor Verzehr : Glassplitter-Alarm bei Dosen-Mais",
+      "url": "https://www.bild.de/news/inland/news-inland/bundesamt-warnt-vor-verzehr-glassplitter-alarm-bei-dosen-mais-81890292.bild.html",
+      "image_title": "Bundesamt warnt vor Verzehr: Glassplitter-Alarm bei Dosen-Mais"
+    },
+    {
+      "title": "SC Magdeburg 32:32 gegen Löwen : Saugstrup rettet Punkt, zwei Stars bleiben",
+      "teaser": "Was für ein spannendes Top-Spiel in Magdeburg!",
+      "url": "https://www.bild.de/sport/regional-sport/handball/sc-magdeburg-mit-unentschieden-gegen-loewen-und-vertragsverlaengerungen-81889730.bild.html",
+      "image_title": "SC Magdeburg 32:32 gegen Löwen: Saugstrup rettet Punkt"
+    },
+    {
+      "title": "Futter zu teuer! : Zoo verkauft seine Tiere",
+      "teaser": "Tangerhütte – Drei, zwei, eins – keins! Wenn Donnerstag um Mitternacht die Frist zur Übernahme des größten Tierparks in Sachsen-Anha...",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/tangerhuette-futter-zu-teuer-zoo-verkauft-seine-tiere-81890720.bild.html",
+      "image_title": "Tangerhütte: Futter zu teuer! Zoo verkauft seine Tiere"
+    },
+    {
+      "title": "Zwillingsbruder übergoss er mit Benzin : Lebenslange Haft für Mutter-Mörder",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/zwillingsbruder-zuendete-er-an-lebenslange-haft-fuer-mutter-moerder-81910496.bild.html",
+      "image_title": "Zwillingsbruder zündete er an: Lebenslange Haft für Mutter-Mörder"
+    },
+    {
+      "title": "Umfrage unter Bundesbürgern : Ein Viertel will Karneval als Weltkulturerbe",
+      "teaser": "Sollten Karneval und Fastnacht weltweites Unesco-Kulturerbe werden?",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/umfrage-ein-viertel-will-karneval-als-weltkulturerbe-81906096.bild.html",
+      "image_title": "Umfrage: Ein Viertel will Karneval als Weltkulturerbe"
+    },
+    {
+      "title": "Rudolf und Adi Dassler : Turnschuh-Drama in drei Akten",
+      "teaser": "Rudolf und Adolf „Adi“ Dassler – ihr Zoff ist der bekannteste seit Kain und Abel.",
+      "url": "https://www.bild.de/news/inland/news-inland/rudolf-und-adi-dassler-gruendeten-puma-und-adidas-turnschuh-drama-in-drei-akten-81891952.bild.html",
+      "image_title": "Rudolf und Adi Dassler gründeten Puma und Adidas: Turnschuh-Drama in drei Akten"
+    },
+    {
+      "title": "Keine Konsequenzen nach BILD-Enthüllung : „Satansmörder“ darf weiter für Schulamt arbeiten",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-satansmord-sebastian-s-bleibt-hort-mitarbeiter-81901280.bild.html",
+      "image_title": "Thüringen: Satansmord – Sebastian S. bleibt Hort-Mitarbeiter"
+    },
+    {
+      "title": "In 24 Metern Höhe : Spitzenjob für Erfurts Weihnachtsbaum",
+      "teaser": "Er ist 27,5 Meter hoch und 5,5 Tonnen schwer, schlank gewachsen.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/in-24-meter-hoehe-spitzenjob-fuer-erfurts-weihnachtsbaum-81903314.bild.html",
+      "image_title": "In 24 Meter Höhe: Spitzenjob für Erfurts Weihnachtsbaum"
+    },
+    {
+      "title": "Das BILD-Interview zum Abschied : „Der Klub ist kein Trümmerhaufen“",
+      "teaser": "Am Samstag ist für Mario Voigt (45) Schluss als Aufsichtsratschef bei Carl Zeiss Jena.",
+      "url": "https://www.bild.de/sport/fussball/fussball/interview-mit-jena-boss-voigt-der-klub-ist-kein-truemmerhaufen-81901594.bild.html",
+      "image_title": "Interview mit Jena-Boss Voigt: „Der Klub ist kein Trümmerhaufen“"
+    }
+  ]
 }
