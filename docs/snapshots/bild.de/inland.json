@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-13T22:21:58",
+  "timestamp": "2022-11-13T23:24:30",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.816aefbe.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.07aca715.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.6ab117da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.9bb97b3d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.c5c6c3ac.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.01115563.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "In diesem Kurs lernen die Kleber das Kleben : Klima-Radikale sitzen mit Windeln auf der Straße",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/8-stunden-kleber-kurs-klima-radikale-sitzen-mit-windeln-auf-der-strasse-81930954.bild.html",
-      "image_url": "https://images.bild.de/6371328bcd94144c86beab0a/dbf6c792172e43a6ae39caaa95d10110,d1e805c2?w=656",
-      "image_title": "8-Stunden-Kleber-Kurs: Klima-Radikale sitzen mit Windeln auf der Straße"
-    },
-    {
-      "title": "Trauer nach Drama mit vier Toten in Bayern : Weilheim unter Schock",
-      "url": "https://www.bild.de/regional/muenchen/stuttgart-aktuell/dreifachmord-von-weilheim-ermittler-suchen-weiter-nach-motiv-81923918.bild.html",
-      "image_url": "https://images.bild.de/63709c1eba5825195e3aee9a/02910adb94fe7d9386ad653b37942273,b86d5bc6?w=320",
-      "image_title": "Weilheim (Bayern): Schockzustand und Trauer nach vier Toten"
-    },
-    {
-      "title": "Abgeschobener Abou-Chaker meldet sich zurück : „Inschallah, bald bin ich wieder da“",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/abgeschobener-abdallah-abou-chaker-inschallah-bald-bin-ich-wieder-da-81927050.bild.html",
-      "image_url": "https://images.bild.de/6370e730ba5825195e3aef36/33fac9c566e715cbcedd361223313d5a,3d0e1e8?w=320",
-      "image_title": "Abgeschobener Abdallah Abou-Chaker: „Inschallah, bald bin ich wieder da“"
-    },
-    {
-      "title": "Kippt jetzt der Mafia-Prozess? : Angeblicher Ndrangheta-Pate aus Haft entlassen",
-      "url": "https://www.bild.de/bild-plus/regional/duesseldorf/news-inland/angeblicher-ndrangheta-pate-aus-haft-entlassen-kippt-jetzt-der-mafia-prozess-81923372.bild.html",
-      "image_url": "https://images.bild.de/63701a55f4b8ee68ce10a778/b59e65ac6bb32f6c377d058355b7d9f5,f43ddbdf?w=320",
-      "image_title": "Angeblicher Ndrangheta-Pate aus Haft entlassen: Kippt jetzt der Mafia-Prozess?"
-    },
-    {
-      "title": "Zugbegleiter brutal verprügelt : Polizei fahndet nach S-Bahn-Schlägern",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-zugbegleiter-brutal-verpruegelt-polizei-fahndet-nach-s-bahn-schlaegern-81924928.bild.html",
-      "image_url": "https://images.bild.de/6370bc75f4b8ee68ce10a7f5/074db28e2558111198f0e82bdf1217e0,38099cb4?w=320",
-      "image_title": "Leipzig: Zugbegleiter brutal verprügelt – Polizei fahndet nach S-Bahn-Schlägern"
-    },
-    {
-      "title": "Friedhofsbesucher entdeckt schaurige Überreste : Voodoo in Bielefeld",
-      "url": "https://www.bild.de/news/inland/news-inland/friedhofsbesucher-entdeckt-schaurige-ueberreste-voodoo-in-bielefeld-81920304.bild.html",
-      "image_title": "Friedhofsbesucher entdeckt schaurige Überreste: Voodoo in Bielefeld"
-    },
-    {
-      "title": "Fahrer hängt Kleider an Motorhaube : Nackt-Trucker-Chaos auf der Autobahn",
-      "teaser": "Erst nur ein Blechschaden, dann einer der bizarrsten Einsätze, die es je auf der A 1 gab.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/fahrer-dreht-nach-unfall-durch-nackt-trucker-chaos-auf-der-a-1-81926308.bild.html",
-      "image_title": "Fahrer dreht nach Unfall durch: Nackt-Trucker-Chaos auf der A 1"
-    },
-    {
-      "title": "Adventskranz und Lichterketten am Kühler : Polizei zieht Weihnachts-Schlitten aus dem Verkehr",
-      "teaser": "Statt sechs Rentieren haben diese Schlitten 460 Pferde – und ein Problem.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/verbotene-deko-polizei-zieht-weihnachts-schlitten-aus-dem-verkehr-81925912.bild.html",
-      "image_title": "Adventskranz und Lichterketten am Kühler: Polizei zieht Weihnachts-Schlitten aus dem Verkehr"
-    },
-    {
-      "title": "Auto stürzte Böschung hinab : Feuerwehr muss Einbrecher nach Flucht befreien",
-      "teaser": "Ein besonders guter Fahrer war er offenbar nicht, denn die Flucht endete im Graben.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-feuerwehr-muss-einbrecher-nach-flucht-befreien-81927624.bild.html",
-      "image_title": "Unfall: Feuerwehr muss Einbrecher nach Flucht befreien"
-    },
-    {
-      "title": "Gerechtigkeit für Vincent (†10) : „Kein Kind darf auf einer Klassenfahrt sterben“",
-      "teaser": "Seit dreieinhalb Jahren kämpfen Kathleen und Sven D. um Gerechtigkeit für ihren Vincent.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/eltern-von-vincent-10-kaempfen-um-gerechtigkeit-kein-kind-der-welt-darf-auf-eine-81920332.bild.html",
-      "image_title": "Eltern von Vincent († 10) kämpfen um Gerechtigkeit: „Kein Kind der Welt darf auf einer Klassenfahrt sterben“"
-    },
-    {
-      "title": "Sechs Jugendliche in Klinik : Hasch-Keks-Party endet in Krankenhaus",
-      "teaser": "Eine Fete im Odenwald endete mit einem Rettungs-Großeinsatz und Ermittlungen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/sechs-jugendliche-in-klinik-hasch-keks-party-endet-in-krankenhaus-81925258.bild.html",
-      "image_title": "Sechs Jugendliche in Klinik: Hasch-Keks-Party endet in Krankenhaus"
-    },
-    {
-      "title": "Auto komplett zerstört : Brutaler Baum-Crash! Fahrer (28) tot",
-      "teaser": "Im Landkreis Diepholz ist ein Mann gegen einen Baum gekracht und dabei gestorben.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/mit-ueberhoehter-geschwindigkeit-unterwegs-baum-crash-fahrer-28-tot-81926240.bild.html",
-      "image_title": "Tragischer Unfall bei Hude (Niedersachsen): Brutaler Baum-Crash! Fahrer (28) tot"
-    },
-    {
-      "title": "Hund mit 40 Stichen genäht : Luchs-Attacke beim Pilze sammeln",
-      "teaser": "Diese Gassi-Runde werden Hund und Herrchen niemals vergessen ...",
-      "url": "https://www.bild.de/regional/muenchen/news-inland/hund-mit-40-stichen-genaeht-luchs-attacke-beim-pilze-sammeln-81920860.bild.html",
-      "image_title": "Hund mit 40 Stichen genäht: Luchs-Attacke beim Pilze sammeln"
-    },
-    {
-      "title": "VW überschlägt sich auf Autobahn : Rausgefetzter Motor schlägt in Gegenverkehr ein",
-      "teaser": "Ein bei einem Unfall herausgerissener Motor wurde auf der A14 zum Geschoss.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/unfall-auf-autobahn-motor-schlaegt-in-gegenverkehr-ein-81925530.bild.html",
-      "image_title": "Unfall auf Autobahn: Motor schlägt in Gegenverkehr ein"
-    },
-    {
-      "title": "Trotz Blaulicht übersehen : VW-Fahrerin (64) rammt Streifenwagen im Nebel",
-      "teaser": "Diese Blaulicht-Fahrt endete im heftigen Unfall, bei dem drei Menschen verletzt wurden.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-drei-verletzte-bei-blaulicht-crash-im-nebel-81924838.bild.html",
-      "image_title": "Unfall: Drei Verletzte bei Blaulicht-Crash im Nebel"
-    },
-    {
-      "title": "Betrunkener warnt vor Glasscherben : Vier Verletzte bei Unfall mit fünf Autos",
-      "teaser": "Der Hilfsversuch des betrunkenen 27-Jährigen ging nach hinten los!",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-vier-verletzte-bei-zusammenstoss-mit-fuenf-autos-in-guestrow-81924608.bild.html",
-      "image_title": "Unfall: Vier Verletzte bei Zusammenstoß mit fünf Autos in Güstrow"
-    },
-    {
-      "title": "13-Jährige aus Saarbrücken vermisst : Wo ist Sara-Debora?",
-      "teaser": "Das Mädchen kehrte von einem Besuch bei seiner Oma nicht nach Hause zurück.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/vermisst-sara-debora-13-aus-saarbruecken-verschwand-auf-heimweg-von-der-oma-81924148.bild.html",
-      "image_title": "Vermisst: Sara-Debora (13) aus Saarbrücken verschwand auf Heimweg von der Oma"
-    },
-    {
-      "title": "Nach Spiel gegen Zwickau : Dresdner Ford am Dynamo-Stadion abgebrannt",
-      "teaser": "Ob es am Kennzeichen (DD-DY...) lag, muss noch ermittelt werden.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/nach-spiel-gegen-zwickau-dresdner-ford-am-dynamo-stadion-abgebrannt-81924022.bild.html",
-      "image_title": "Dresden: Auto nach Zwickau-Spiel am Dynamo-Stadion abgebrannt"
-    },
-    {
-      "title": "Bei Angriff : Polizist (33) schießt Libyer (43) an",
-      "teaser": "Als ein Libyer (43) auf ihn zuging, zückte ein Polizist in Riesa die Waffe und schoss.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/bei-angriff-polizist-33-schiesst-libyer-43-an-81917280.bild.html",
-      "image_title": "Sachsen: Polizist (33) schießt Libyer (43) an"
-    },
-    {
-      "title": "Nach seinem Lotto-Gewinn von 9,9 Mio. Euro : Chico hat schon wieder gewonnen",
-      "teaser": "Sechs Zahlen machten aus Kranführer „Chico“ Ende September einen Ferrari-Fahrer.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/nach-seinem-lotto-gewinn-von-9-9-mio-euro-chico-hat-schon-wieder-gewonnen-81920288.bild.html",
-      "image_title": "Nach seinem Lotto-Gewinn von 9,9 Mio. Euro: Chico hat schon wieder gewonnen"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "teaser": "Haben Sie den Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 12. November 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-12-november-81881794.bild.html",
-      "image_title": "Lotto am Samstag: Die Lottozahlen vom 12. November"
-    },
-    {
-      "title": "„Staatsgefährdende Gewalttat“ : Nachwuchs-Neonazi auf der Anklagebank",
-      "teaser": "Verdacht der Vorbereitung einer schweren staatsgefährdenden Gewalttat.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/anschlag-geplant-sprengversuche-gemacht-staatsanwaltschaft-klagt-teenie-neonazi-81918650.bild.html",
-      "image_title": "Anschlag geplant, Sprengversuche gemacht: Staatsanwaltschaft klagt Teenie-Neonazi an"
-    },
-    {
-      "title": "Vater und Hund ersticken in Feuerhaus : Tot, weil er Bommel retten wollte",
-      "teaser": "Weil Hermann M. (74) Hund Bommel retten wollte, starben beide in den Flammen.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/vater-und-hund-ersticken-in-feuerhaus-tot-weil-er-bommel-retten-wollte-81893416.bild.html",
-      "image_title": "Vater und Hund ersticken in Feuerhaus: Tot, weil er Bommel retten wollte"
-    },
-    {
-      "title": "Reifen schleuderte bis in die Küche : Audi kracht durch die Haustür!",
-      "teaser": "Im Landkreis Stade ist am Samstagmorgen ein Audi in ein Wohnhaus gekracht.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/spur-der-verwuestung-vor-den-toren-hamburgs-audi-kracht-mit-hohem-tempo-in-haus-81917476.bild.html",
-      "image_title": "Reifen schleuderte bis in die Küche: Audi kracht durch die Haustür!"
-    },
-    {
-      "title": "Kirchen-Gymnasium stellte ihn trotzdem ein : Lehrer hatte Sex mit Schülerin (17) im Auto",
-      "teaser": "Ein Lehrer (52) Sex mit einer Schülerin. Nun unterrichtet er an einer katholischen Schule.",
-      "url": "https://www.bild.de/bild-plus/news/inland/muenchen-regional-politik-und-wirtschaft/kirchen-gymnasium-stellte-ihn-trotzdem-ein-lehrer-hatte-sex-mit-schuelerin-17-81839754.bild.html",
-      "image_title": "Kirchen-Gymnasium stellte ihn trotzdem ein: Lehrer hatte Sex mit Schülerin (17)"
-    },
-    {
-      "title": "Klima-Protest in Berlin : Aktivisten demonstrieren auf dem Brandenburger Tor",
-      "url": "https://www.bild.de/video/clip/news/klima-protest-in-berlin-aktivisten-demonstrieren-auf-dem-brandenburger-tor-81881366.bild.html",
-      "image_title": "Klima-Protest in Berlin: Aktivisten demonstrieren auf dem Brandenburger Tor"
-    },
-    {
-      "title": "Kürsat Y. (41) räumte den Jackpot ab : Suche Frau, biete Ferrari, Porsche – und 9 Mio. €",
-      "url": "https://www.bild.de/video/clip/ratgeber/chico-41-hat-9-9-mio-euro-gewonnen-lotto-millionaer-sucht-in-bild-die-grosse-lie-81859774.bild.html",
-      "image_title": "„Chico“ (41) hat 9,9 Mio. Euro gewonnen: Lotto-Millionär sucht in BILD die große Liebe"
-    },
-    {
-      "title": "Claus Strunz warnt : „Es ist eine neue Stufe gezündet worden“",
-      "url": "https://www.bild.de/video/clip/news/claus-strunz-warnt-es-ist-eine-neue-stufe-gezuendet-worden-81801234.bild.html",
-      "image_title": "Claus Strunz warnt : „Es ist eine neue Stufe gezündet worden“"
-    }
-  ]
+  "articles": []
 }
