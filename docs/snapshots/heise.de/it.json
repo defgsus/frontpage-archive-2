@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-14T09:22:54",
+  "timestamp": "2022-11-14T10:25:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,15 +42,62 @@
       "url": "https://www.heise.de/meinung/Kommentar-Angriffe-lassen-sich-nicht-vermeiden-uebernehmt-die-Verantwortung-7328918.html"
     },
     {
+      "title": "Parallelinstallationen von Windows und Linux reparieren",
+      "teaser": "Linux quetscht sich zwischen die Windows-System- und die Recovery-Partition, weshalb Windows letztere nicht mehr anpassen kann. Wir haben dafür eine Lösung.",
+      "url": "https://www.heise.de/ratgeber/Parallelinstallationen-von-Windows-und-Linux-reparieren-7333398.html",
+      "image_title": ", Timo Lenzen"
+    },
+    {
       "title": "Basteln mit dem Arduino: Temperatur und Luftfeuchtigkeit auf LED-Matrix anzeigen",
       "teaser": "Auf einer LED-Matrix lassen sich mit einem Arduino alle möglichen Texte und Daten anzeigen, etwa die aktuelle Temperatur. Wir erklären, wie das funktioniert.",
       "url": "https://www.heise.de/ratgeber/Basteln-mit-dem-Arduino-Temperatur-und-Luftfeuchtigkeit-auf-LED-Matrix-anzeigen-7335013.html"
     },
     {
-      "title": "Interview Startup-Förderung: Projekte, die privaten Investoren zu riskant sind",
-      "teaser": "Rafael Laguna sucht nach Innovationen, die Deutschlands Wohlstand langfristig sichern. Im Interview erklärt er, warum staatliche Förderung wichtig ist.",
-      "url": "https://www.heise.de/hintergrund/Milliarden-fuer-Sprunginnovationen-Interview-mit-Sprind-Chef-Rafael-Laguna-7333581.html",
-      "image_title": ","
+      "title": "Weniger Abhängigkeit von Asien: Apple hofft auf (noch) größere US-TSMC-Fabrik",
+      "teaser": "Apples wichtigster Chipfertiger plant in Arizona ein neues Werk für 3-nm-SoCs. Die Frage ist, wie schnell sie fertig wird.",
+      "url": "https://www.heise.de/news/Weniger-Abhaengigkeit-von-Asien-Apple-hofft-auf-noch-groessere-US-TSMC-Fabrik-7339206.html"
+    },
+    {
+      "title": "DreamUp: DeviantArt mit eigenem KI-Bildgenerator und Widerspruchshinweis \"noai\"",
+      "teaser": "Auch auf DeviantArt kann man sich nun aus Textvorgaben Bilder generieren lassen. Die Plattform will derweil auch gegen das unautorisierte Trainieren vorgehen.",
+      "url": "https://www.heise.de/news/DreamUp-DeviantArt-mit-eigenem-KI-Bildgenerator-und-Widerspruchshinweis-noai-7339171.html"
+    },
+    {
+      "title": "Tool macht Stage Manager auf dem Mac übersichtlicher",
+      "teaser": "Stage View von Mac Plus zeigt an, welche Fenster sich in einer Stage-Manager-Gruppe verstecken. Das macht die Nutzung deutlich leichter.",
+      "url": "https://www.heise.de/news/Tool-macht-Stage-Manager-auf-dem-Mac-uebersichtlicher-7336239.html",
+      "image_title": "Stage View"
+    },
+    {
+      "title": "USA: Canon stellt EOS Webcam Utility auf Abomodell um",
+      "teaser": "In den USA werden erweiterte Funktionen der EOS Webcam Utility kostenpflichtig. Ohne Abo ist Streamen mit SLRs dort nur noch in 720p möglich.",
+      "url": "https://www.heise.de/news/USA-Canon-stellt-EOS-Webcam-Utility-auf-Abomodell-um-7339112.html",
+      "image_title": "Canon EOS R5 mit ausgeklapptem Monitor"
+    },
+    {
+      "title": "Ardour 7.1 – ein Bisschen mehr Ableton Live",
+      "teaser": "Die aktualisierte Version Ardour 7 erhält einen Clip-Launcher, ähnlich wie Ableton Live. Damit könnte die Open-Source-DAW zur starken Konkurrenz werden.",
+      "url": "https://www.heise.de/news/Ardour-7-1-ein-Bisschen-mehr-Ableton-Live-7339193.html"
+    },
+    {
+      "title": "Patterns in der Softwareentwicklung: Das Stellvertretermuster",
+      "teaser": "Ein Stellvertreter kontrolliert den Zugriff auf ein anderes Objekt und ermöglicht es, zusätzliche Operationen auf das ursprüngliche Objekt durchzuführen.",
+      "url": "https://www.heise.de/blog/Patterns-in-der-Softwareentwicklung-Das-Stellvertretermuster-7336675.html"
+    },
+    {
+      "title": "Dreidimensionale Meetings: Cisco zeigt Details zu Webex Hologram",
+      "teaser": "Cisco möchte Meetings per Holografie eine natürlichere Note verleihen. Erstmals verraten die Entwickler, wie das technisch funktionieren soll.",
+      "url": "https://www.heise.de/news/Dreidimensionale-Meetings-Cisco-zeigt-Details-zu-Webex-Hologram-7339197.html"
+    },
+    {
+      "title": "WhatsApp gleichzeitig auf mehreren Geräten: Companion-Modus kommt",
+      "teaser": "Mit dem Companion-Modus soll es möglich sein, denselben WhatsApp-Account auf mehreren Smartphones gleichzeitig laufen zu lassen. Communities bald verfügbar.",
+      "url": "https://www.heise.de/news/WhatsApp-gleichzeitig-auf-mehreren-Geraeten-Companion-Modus-kommt-7339130.html"
+    },
+    {
+      "title": "GNU Texinfo 7.0: LaTeX und EPUB 3 mit an Bord",
+      "teaser": "GNU Texinfo liegt in Version 7 vor. Das freie Dokumentationssystem unterstützt nun EPUB 3 und LaTeX-Output.",
+      "url": "https://www.heise.de/news/GNU-Texinfo-7-0-LaTeX-und-EPUB-3-mit-an-Bord-7337756.html"
     },
     {
       "title": "HP-BIOS: Pufferüberlauf ermöglicht Rechteausweitung, Update ist verfügbar",
@@ -84,52 +131,6 @@
       "teaser": "Eine hohe Bildwiederholfrequenz und schnelle Reaktionszeit erhöhen den Spielspaß. Worauf es bei einem preiswerten Gaming-Monitor ankommt, zeigt der Ratgeber.",
       "url": "https://www.techstage.de/ratgeber/gaming-monitore-das-beste-display-zum-zocken/zg3wkzk?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
       "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Neue Twitter-Kehrtwende: Grauer Haken für Firmen zurück, aber Blue-Abo gesperrt",
-      "teaser": "Erst am Mittwoch hat Elon Musk einen Haken zur Kennzeichnung \"offizieller\" Twitter-Profile \"gekillt\". Jetzt ist der schon zurück. Zwischendurch herrschte Chaos.",
-      "url": "https://www.heise.de/news/Naechste-Kehrtwende-bei-Twitter-Der-graue-Haken-fuer-Medien-und-Firmen-ist-zurueck-7336718.html"
-    },
-    {
-      "title": "Cybersicherheit: 27 Prozent der Bürger nutzen alte Apps ohne Update-Option",
-      "teaser": "Viele Bundesbürger nehmen es mit dem Basisschutz im Internet nach wie vor nicht so genau, geht aus dem neuen Digitalbarometer von BSI und Polizei hervor.",
-      "url": "https://www.heise.de/news/Cybersicherheit-27-Prozent-der-Buerger-nutzen-alte-Apps-ohne-Update-Option-7338606.html"
-    },
-    {
-      "title": "Machine imagines music: KI komponiert neue Wagner-Musik, Uraufführung in Dresden",
-      "teaser": "Die Singakademie Dresden wagt mit TU Darmstadt und Aleph Alpha ein Experiment: Am 20. November führt der Chor die KI-Komposition \"Meistersinger reloaded\" auf.",
-      "url": "https://www.heise.de/news/Machine-imagines-music-KI-komponiert-neue-Wagner-Musik-Urauffuehrung-in-Dresden-7335371.html",
-      "image_title": "Machine imagines music - Texprompt von Michael Käppler, Dirigent und Chorleiter der Singakademie Dresden. Erstellt mit Stable Diffusion."
-    },
-    {
-      "title": "Smarte TVs für Streaming und Gaming | c’t uplink 45.7",
-      "teaser": "Die Ansprüche an Smart-TVs sind enorm, wenn man darauf zocken oder Filme genießen will. Auf welche Feature Cineasten und Gamer achten sollten, klärt der uplink.",
-      "url": "https://www.heise.de/news/Smarte-TVs-fuer-Streaming-und-Gaming-c-t-uplink-45-7-7268572.html"
-    },
-    {
-      "title": "Chef versteht agil nicht: Von falschen Erfolgsmetriken und der Meeting-Hölle",
-      "teaser": "Unternehmen setzen auf Agilität – und versinken immer mehr in organisatorische Lethargie. Der Schuldige ist schnell ausgemacht, meint Martin Gerhard Loschwitz.",
-      "url": "https://www.heise.de/meinung/Chef-versteht-agil-nicht-von-falschen-Erfolgsmetriken-und-der-Meeting-Hoelle-7337723.html"
-    },
-    {
-      "title": "Automatische Priorisierung bei FritzOS 7.50",
-      "teaser": "Wie funktioniert eine automatische Priorisierung des Netzwerkverkehrs in FritzOS 7.50 und wie spielt es mit dem Priorisieren einzelner (W)LAN-Hosts zusammen?",
-      "url": "https://www.heise.de/ratgeber/Automatische-Priorisierung-bei-FritzOS-7-50-7325193.html"
-    },
-    {
-      "title": "Nach Cyberangriff auf Verwaltung: Daten ukrainischer Geflüchteter im Darknet",
-      "teaser": "Nach erfolglosen Lösegeldforderungen hat eine Ransomware-Gruppe unter anderem Daten von Zensusverweigerern und ukrainischen Geflüchteten veröffentlicht.",
-      "url": "https://www.heise.de/news/Nach-Cyberangriff-auf-Verwaltung-Daten-ukrainischer-Gefluechteter-im-Darknet-7337774.html"
-    },
-    {
-      "title": "Games-Förderung: Antragsstopp aufgehoben, Budget auf 70 Millionen erhöht",
-      "teaser": "​Die Bundesregierung wollte 2023 48,8 Millionen Euro Fördergelder für Computerspiele zur Verfügung stellen, der Bundestag hat das Budget deutlich aufgestockt.​",
-      "url": "https://www.heise.de/news/Games-Foerderung-Antragsstopp-aufgehoben-Budget-auf-70-Millionen-erhoeht-7337780.html"
-    },
-    {
-      "title": "c't 3003: Traumtastatur selbst bauen: Ist das schwierig?",
-      "teaser": "Gehäuse, Switches, Tastenkappen: Will man die \"perfekte\" Tastatur, muss man selbst Hand anlegen. c't 3003 probiert's mit einem Keychron-Q6-Barebone aus.",
-      "url": "https://www.heise.de/news/c-t-3003-Traumtastatur-selbst-bauen-Ist-das-schwierig-7337616.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
