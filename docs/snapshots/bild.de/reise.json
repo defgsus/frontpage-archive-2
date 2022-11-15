@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-15T19:16:56",
+  "timestamp": "2022-11-15T20:23:05",
   "url": "https://www.bild.de/reise/startseite/aktivurlaub/reise-15478744.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,249 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,73904922.1.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.834937fd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.fe375960.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3fca9f7f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.76b70270.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.483155d5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9bbd95c1.js",
+      "src": "https://flug.idealo.de/widget/widget.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "BILD-Leser fragen, Chefpilot antwortet : Was passiert, wenn jemand Sex auf dem Bordklo hat?",
-      "url": "https://www.bild.de/bild-plus/reise/2022/reise/chefpilot-erklaert-was-passiert-wenn-jemand-sex-auf-dem-bordklo-hat-81927186.bild.html",
-      "image_url": "https://images.bild.de/6370e88ff4b8ee68ce10a850/c0b71248f57de04be142cd4bc791556c,97184278?w=656",
-      "image_title": "Chefpilot erklärt: Was passiert, wenn jemand Sex auf dem Bordklo hat?"
-    },
-    {
-      "title": "Preise sollen weiter steigen : Was der TUI-Chefpilot Urlaubern jetzt rät",
-      "url": "https://www.bild.de/bild-plus/reise/2022/reise/preise-fuer-flugtickets-sollen-weiter-steigen-was-der-tuifly-chefpilot-urlaubern-81927106.bild.html",
-      "image_url": "https://images.bild.de/6370e798ba5825195e3aef39/62b328bc8b33bcc5a6165eb898766329,6f7df39?w=320",
-      "image_title": "Preise für Flugtickets steigen: Was der TUI-Chefpilot Urlaubern rät"
-    },
-    {
-      "title": "Pauschalreise, Flug, Ferienwohnung : DAS müssen Sie für den Winterurlaub einplanen",
-      "url": "https://www.bild.de/bild-plus/reise/2022/reise/pauschalreise-flug-ferienwohnung-das-kostet-der-weihnachts-urlaub-81875928.bild.html",
-      "image_url": "https://images.bild.de/636a8094e7cde356d00196c4/39d7757f4d2171f55c85de74ea4bac1b,75d33840?w=320",
-      "image_title": "Pauschalreise, Flug, Ferienwohnung: Das kostet der Weihnachts-Urlaub"
-    },
-    {
-      "title": "Langzeit-Kunden wird gekündigt : Massenkündigungen! Das ist Ihr Recht als Camper",
-      "url": "https://www.bild.de/bild-plus/lifestyle/2022/ratgeber/kuendigung-fuer-dauer-camper-das-sind-ihre-rechte-81725970.bild.html",
-      "image_url": "https://images.bild.de/6356514e948f661fa0089c12/223489f0ffcea36eebb7542e876bd3fe,feea043d?w=320",
-      "image_title": "Kündigung für Dauer-Camper: Das sind Ihre Rechte!"
-    },
-    {
-      "title": "Neues Reiseziel in Afrika : BILD-Gewinner im Traum-Urlaub im Senegal",
-      "url": "https://www.bild.de/reise/2022/reise/neues-reiseziel-in-afrika-bild-gewinner-im-traum-urlaub-im-senegal-81927226.bild.html",
-      "image_url": "https://images.bild.de/6370e9eff4b8ee68ce10a857/43be51f374a80da889672ccdb50bcd7b,d922fcb1?w=320",
-      "image_title": "Neues Reiseziel in Afrika: BILD-Gewinner im Traum-Urlaub im Senegal"
-    },
-    {
-      "title": "Kurztrip nach Spanien : Jetzt eine Sonnen-Reise ersteigern",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/kurztrip-nach-spanien-jetzt-eine-sonnen-reise-ersteigern-81884980.bild.html",
-      "image_url": "https://images.bild.de/636b9d481631ab3eba3480af/6aa6e359a9764582fbffcbc4714c9f40,28434e52?w=320",
-      "image_title": "Kurztrip nach Spanien: Jetzt eine Sonnen-Reise ersteigern"
-    },
-    {
-      "title": "Exklusive Aktion auf BILDplus Sichern Sie sich Ihren Bingo-Schein für die AIDA Weltreise!",
-      "url": "https://www.bild.de/bild-plus/gewinnspiele/bildplus-aktion/bildplus-sichern-sie-sich-ihren-zusatz-bingoschein-orient-kreuzfahrt-81804490.bild.html"
-    },
-    {
-      "title": "Trick bei Booking.com Vom Handy hängt ab, wie teuer Ihr Hotel wird",
-      "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/sparfochs/simple-spar-strategie-mit-diesem-trick-schmelzen-preise-bei-booking-com-81857484.bild.html"
-    },
-    {
-      "title": "Um das Gleichgewicht zu halten Passagiere zu dick! Airline muss Sitze blockieren",
-      "url": "https://www.bild.de/reise/2022/reise/united-airline-blockiert-sitze-weil-passagiere-zu-schwer-sind-81867216.bild.html"
-    },
-    {
-      "title": "Projekt „Sandbox“ auf Phuket : Thailand erlaubt wieder Urlaub – für Geimpfte",
-      "teaser": "Für den Neustart wurden über 70 % der Inselbewohner Phuket geimpft. BILD hat sich mit einem der ersten Flieger auf dem Weg gemacht.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2021/ratgeber/thailand-erlaubt-wieder-urlaub-bild-macht-den-test-76948182.bild.html",
-      "image_title": "Projekt „Sandbox“ auf Phuket: Thailand erlaubt wieder Urlaub – aber nur für Geimpfte"
-    },
-    {
-      "title": "Internationale Bräuche : Darum sollten Sie Silvester gelbe Höschen tragen",
-      "teaser": "Dessous, Asche im Champagner: BILD stellt Silvesterbräuche aus aller Welt für Liebe, Gesundheit und Glück im Jahr 2021 vor.",
-      "url": "https://www.bild.de/reise/traumreisen/traumreise/silvesterbraeuche-fuer-2019-darum-sollten-sie-zur-party-gelbe-dessous-tragen-59252458.bild.html",
-      "image_title": "Internationale Bräuche für den Corona-Lockdown: Darum sollten Sie Silvester gelbe Höschen tragen"
-    },
-    {
-      "title": "Von Eggnogg bis Panettone : So lecker feiert die Welt Weihnachten",
-      "teaser": "Kennen Sie die Leckereien Turrón, Bachlkoch und Kourabiedes? Lesen Sie mal, was es in anderen Ländern zum Fest gibt.",
-      "url": "https://www.bild.de/reise/traumreisen/traumreise/von-eggnogg-bis-schneeflockengebaeck-so-lecker-feiert-die-welt-weihnachten-66635352.bild.html",
-      "image_title": "Von Eggnogg bis Panettone: So lecker feiert die Welt Weihnachten"
-    },
-    {
-      "title": "Triebwerk ausgefallen, Notlandung : Höllen-Flug im Hagel-Sturm",
-      "url": "https://www.bild.de/bild-plus/reise/fluege/fluege/triebwerk-ausgefallen-notlandung-hoellen-flug-im-hagel-sturm-81768834.bild.html",
-      "image_title": "Triebwerk ausgefallen, Notlandung: Höllen-Flug im Hagel-Sturm"
-    },
-    {
-      "title": "Horror-Flug in Südkorea : Bruchlandung nach drei Versuchen!",
-      "teaser": "Bei schlechtem Wetter verunglückte ein Airbus A330 mit 180 Menschen an Bord",
-      "url": "https://www.bild.de/bild-plus/reise/fluege/fluege/horror-flug-in-suedkorea-bruchlandung-nach-drei-versuchen-81713776.bild.html",
-      "image_title": "Horror-Flug in Südkorea: Bruchlandung nach drei Versuchen!"
-    },
-    {
-      "title": "Kurztrip ins Früchte-Paradies : Sonnigen Plantagen-Besuch ersteigern",
-      "teaser": "Ebay-Auktion: Genießen Sie mit SanLucar das süße Leben, besuchen Sie einen Meisteranbauer.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/kurztrip-ins-fruechte-paradies-plantagen-besuch-ersteigern-81507814.bild.html",
-      "image_title": "Kurztrip ins Früchte-Paradies: Plantagen-Besuch ersteigern!"
-    },
-    {
-      "title": "Exklusive Preis-Analyse : Flüge 44 Prozent teurer als vor Corona",
-      "teaser": "Flugreisen sind wieder möglich wie vor der Corona-Pandemie – dafür aber deutlich teurer.",
-      "url": "https://www.bild.de/bild-plus/reise/fluege/fluege/exklusive-preis-analyse-fluege-44-prozent-teurer-als-vor-corona-80602384.bild.html",
-      "image_title": "Flüge 44 Prozent teurer als vor Corona: Wohin man noch günstig fliegen kann - die Liste"
-    },
-    {
-      "title": "Abzocke bei Koffern : Schlaues Packen senkt die Urlaubskosten",
-      "teaser": "Viele Fluggesellschaften haben ihr Handgepäck verkleinert. Was tun, ohne draufzuzahlen?",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/abzocke-bei-koffern-schlaues-packen-senkt-die-urlaubskosten-80503652.bild.html",
-      "image_title": "Abzocke bei Koffern: Schlaues Packen senkt die Urlaubskosten"
-    },
-    {
-      "title": "Flugpreise explodieren : Lufthansa verkauft nur noch Teuer-Tickets",
-      "teaser": "Selbst Economy-Tickets nach London oder Paris kosten jetzt über 1000 Euro.",
-      "url": "https://www.bild.de/reise/fluege/fluege/flugpreise-explodieren-lufthansa-verkauft-nur-noch-teuer-tickets-80575836.bild.html",
-      "image_title": "Flugpreise explodieren: Lufthansa verkauft nur noch Teuer-Tickets"
-    },
-    {
-      "title": "Neue Regeln beim Bonus-Programm : So kommen Sie bei der Bahn endlich in die Lounges",
-      "teaser": "Die Bahn reformiert ihr BahnBonus-Programm. Wie Sie auch als Normalo Premium-Kunde werden.",
-      "url": "https://www.bild.de/reise/deutschland/sparfochs/deutsche-bahn-aendert-bonus-programm-so-kommen-sie-endlich-in-die-lounge-79688062.bild.html",
-      "image_title": "Bahnbonus-Programm: So kommen Sie leichter in die DM-Lounges"
-    },
-    {
-      "title": "Schmackhafte Reise : Mit SanLucar auf die Plantage!",
-      "teaser": "Ebay-Auktion: Genießen Sie mit SanLucar das süße Leben, besuchen Sie einen Meisteranbauer.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/schmackhafte-reise-mit-sanlucar-auf-die-plantage-79747318.bild.html",
-      "image_title": "Schmackhafte Reise: Mit SanLucar auf die Plantage!"
-    },
-    {
-      "title": "Tim Raue : 6-Gänge-Menü ersteigern",
-      "teaser": "Ersteigern Sie einen exklusiven Abend für 2 Personen im „Restaurant TIM RAUE“ in Berlin!",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/tim-raue-6-gaenge-menue-ersteigern-79000208.bild.html",
-      "image_title": "Tim Raue: 6-Gänge-Menü ersteigern"
-    },
-    {
-      "title": "BILD zeigt die Tricks in XXL-Video : Mit diesem Seminar vierstellig bei Reisen sparen",
-      "teaser": "BILD vermittelt die wichtigsten Inhalte in einem XXL-Video. Schauen Sie rein!",
-      "url": "https://www.bild.de/bild-plus/reise/2022/sparfochs/vip-vorteile-fast-zum-nulltarif-mit-video-seminar-ueber-1000-euro-bei-reisen-spa-81693736.bild.html",
-      "image_title": "VIP-Vorteile fast zum Nulltarif: Mit Video-Seminar über 1000 Euro bei Reisen sparen"
-    },
-    {
-      "title": "Schwere Turbulenzen, zwölf Verletzte : Horror-Flug über dem Atlantik",
-      "teaser": "Mitten über dem Atlantik wurde ein voll besetztes Passagierflugzeug von schwersten Turbulenzen durchgeschütttelt.",
-      "url": "https://www.bild.de/bild-plus/reise/2022/reise/schwere-turbulenzen-zwoelf-verletzte-horror-flug-ueber-dem-atlantik-81685380.bild.html",
-      "image_title": "Schwere Turbulenzen, zwölf Verletzte: Horror-Flug über dem Atlantik"
-    },
-    {
-      "title": "Für das Handgepäckfach : Condor erhebt neue Zusatzgebühr",
-      "teaser": "Ferienflieger Condor hat sich eine neue Gebühr einfallen lassen.",
-      "url": "https://www.bild.de/bild-plus/reise/2022/ratgeber/fuer-das-handgepaeckfach-condor-erhebt-neue-zusatzgebuehr-81463296.bild.html",
-      "image_title": "Für das Handgepäckfach: Condor erhebt neue Zusatzgebühr"
-    },
-    {
-      "title": "Trotz Koffer-Chaos und Flugausfällen : Lufthansa arbeitet an neuen Zusatzgebühren",
-      "teaser": "Hinter den Kulissen wird bereits an Zusatzgebühren für Fluggäste gebastelt.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/sparfochs/lufthansa-arbeitet-an-neuen-zusatzgebuehren-weil-ticket-nachfrage-extrem-gut-ist-81238274.bild.html",
-      "image_title": "Lufthansa arbeitet an neuen Zusatzgebühren – weil Ticket-Nachfrage extrem gut ist"
-    },
-    {
-      "title": "Flüge, Hotels, Mietwagen : Was im Herbsturlaub endlich billiger wird",
-      "teaser": "Steigende Preise bei Strom und Gas - und so teuer wird der Urlaub in den Herbstferien!",
-      "url": "https://www.bild.de/bild-plus/reise/2022/reise/fluege-hotels-und-mietwagen-so-teuer-wird-der-herbsturlaub-81224452.bild.html",
-      "image_title": "Flüge, Hotels und Mietwagen: So teuer wird der Herbsturlaub"
-    },
-    {
-      "title": "Reiseleiter verraten : Was Ihre Kinder wirklich im ersten Urlaub treiben",
-      "teaser": "Wenn Eltern wüssten, was ihre Kinder im Urlaub außer Essen und Trinken wirklich lieben.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/reiseleiter-verraten-was-ihre-kinder-wirklich-im-ersten-urlaub-treiben-80784694.bild.html",
-      "image_title": "Reiseleiter verraten: Was Ihre Kinder wirklich im ersten Urlaub treiben"
-    },
-    {
-      "title": "BILD-Leserin (72) im Luxus-Urlaub : Diese Reise ist das Highlight meines Lebens!",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/luxus-urlaub-im-robinson-club-monika-72-erlebt-die-reise-ihres-lebens-81021352.bild.html",
-      "image_title": "Luxus-Urlaub im Robinson-Club: Monika (72) erlebt die Reise ihres Lebens"
-    },
-    {
-      "title": "Kennen Sie die schon? : Das sind die beliebtesten Ballermann-Shirts",
-      "teaser": "Nicht auffallen ist wie umfallen! BILD zeigt die zwölf besten T-Shirts der Saison 2022.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/kennen-sie-die-schon-das-sind-die-beliebtesten-ballermann-shirts-81026740.bild.html",
-      "image_title": "Kennen Sie die schon?: Das sind die beliebtesten Ballermann-Shirts!"
-    },
-    {
-      "title": "Mittelmeerinsel sucht neue Bewohner : 15 000 Euro für Umzug nach Sardinien",
-      "teaser": "Sardinien zahlt Menschen, die auf die Mittelmeerinsel umsiedeln, bis zu 15 000 Euro.",
-      "url": "https://www.bild.de/reise/europa/reise-europa/sardinien-bis-zu-15000-euro-zuschuss-fuer-umsiedler-80914064.bild.html",
-      "image_title": "Sardinien: Bis zu 15 000 Euro Zuschuss für Umsiedler"
-    },
-    {
-      "title": "BILD checkt die Abi-Stimmung : „Wir sind Lloret de Mar“",
-      "teaser": "Tausende deutsche Schüler „überfallen“ Lloret de Mar. Party, Bier und Flirts inklusive!",
-      "url": "https://www.bild.de/news/ausland/news-ausland/abi-party-in-lloret-de-mar-weiss-nun-alles-aber-nicht-meine-handynummer-80652182.bild.html",
-      "image_title": "ABI-Party in Lloret de Mar: Weiß nun alles, aber nicht meine Handynummer!"
-    },
-    {
-      "title": "Süßes Leben mit SanLucar : Sonnigen Urlaub in Spanien ersteigern!",
-      "teaser": "Ebay-Auktion: Genießen Sie mit SanLucar das süße Leben, besuchen Sie einen Meisteranbauer.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/suesse-momente-mit-sanlucar-sonnigen-urlaub-in-spanien-ersteigern-80384828.bild.html",
-      "image_title": "Süße Momente mit SanLucar: Sonnigen Urlaub in Spanien ersteigern!"
-    },
-    {
-      "title": "Osterferien : Wie ist die Corona-Lage in meinem Urlaubsland?",
-      "teaser": "Osterferien im 3. Corona-Jahr. Aber endlich ist Reisen wieder möglich! BILD macht den Europa-Check.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/osterferien-corona-regeln-in-oesterreich-italien-tuerkei-portugal-frankreich-spa-79675804.bild.html",
-      "image_title": "Osterferien: Corona-Regeln in Österreich, Italien, Türkei, Portugal, Frankreich, Spanien ..."
-    }
-  ]
+  "articles": []
 }
