@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-17T07:18:55",
+  "timestamp": "2022-11-17T08:28:41",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.9f3e0228.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6abb390.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3fca9f7f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.76b70270.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.483155d5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f36952dc.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Ottfried Fischer : Finger ab nach Rollstuhl-Unfall",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/ottfried-fischer-der-rollstuhl-ist-ein-segen-81965954.bild.html",
-      "image_title": "Ottfried Fischer: „Der Rollstuhl ist ein Segen“"
-    },
-    {
-      "title": "1,8 Mio. Ausländer bekommen Stütze : Betroffene in BILD: Darum haben wir keine Arbeit",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/1-8-mio-auslaender-bekommen-stuetze-drei-berichten-warum-sie-keine-arbeit-haben-81967696.bild.html",
-      "image_title": "1,8 Mio. Ausländer bekommen Stütze: Drei berichten, warum sie keine Arbeit haben"
-    },
-    {
-      "title": "Einbrecher rasten von Berlin bis Brandenburg : Verfolgungsjagd endet in Handschellen",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/einbrecher-rammen-polizeiauto-bei-verfolgungsjagd-durch-berlin-81969574.bild.html",
-      "image_title": "Einbrecher rammen Polizeiauto bei Verfolgungsjagd durch Berlin"
-    },
-    {
-      "title": "Nach Knallhart-Urteil in Berlin : Was passiert in den drei Monaten bis zur Wahl?",
-      "teaser": "Rund 2,7 Millionen Berliner haben jetzt tatsächlich die Qual mit der Wahl.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/nach-urteil-in-berlin-was-passiert-in-den-drei-monaten-bis-zur-wahl-81967418.bild.html",
-      "image_title": "Nach Urteil in Berlin: Was passiert in den drei Monaten bis zur Wahl?"
-    },
-    {
-      "title": "Mitten im Wohngebiet : Mann schießt auf Auto – Fahrer schwer verletzt",
-      "teaser": "Schüsse am Mittwochnachmittag in einem Wohngebiet im Berliner Stadtteil Lichtenberg!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-mann-schiesst-mehrfach-auf-auto-fahrer-55-schwer-verletzt-81966912.bild.html",
-      "image_title": "Berlin: Mann schießt mehrfach auf Auto – Fahrer (55) schwer verletzt"
-    },
-    {
-      "title": "Es geht um drei wichtige Werder-Spieler : Diese Baustellen muss Baumann jetzt anpacken",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/werder-bremen/werder-bremen-3-wichtige-personalien-sind-die-baustellen-von-frank-baumann-81964942.bild.html",
-      "image_title": "Werder Bremen: 3 wichtige Personalien sind die Baustellen von Frank Baumann"
-    },
-    {
-      "title": "Kleiner Ratskeller wieder auf! : Knipp-Comeback hinterm Schütting",
-      "teaser": "Dieses Comeback macht alle Freunde der deftigen, bremisch-norddeutschen Küche froh!",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/kleiner-ratskeller-macht-wieder-auf-knipp-comeback-hinterm-schuetting-81960706.bild.html",
-      "image_title": "Kleiner Ratskeller macht wieder auf! Knipp-Comeback hinterm Schütting"
-    },
-    {
-      "title": "Für uns geht’s ums Ganze!“ : Bovenschultes Milliarden-Paket",
-      "teaser": "Drei Milliarden Euro will der Senat in den kommenden Jahren investieren.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/fuer-uns-gehts-ums-ganze-bovenschultes-milliarden-paket-81967042.bild.html",
-      "image_title": "Für uns geht’s ums Ganze!“ Bovenschultes Milliarden-Paket"
-    },
-    {
-      "title": "Kompletträder von Luxus-Wagen geklaut : Autohändler radlos!",
-      "url": "https://www.bild.de/regional/thueringen/sachsen-anhalt-news/komplettraeder-von-luxus-wagen-geklaut-autohaendler-radlos-81968140.bild.html",
-      "image_title": "Kompletträder von Luxus-Wagen geklaut: Autohändler radlos!"
-    },
-    {
-      "title": "Dresdner Christstollen : Der Billigste soll der Beste sein!",
-      "teaser": "Stiftung Warentest hat für die Dezember-Ausgabe ihres Heftes „test“ bundesweit 18 Rosinen-Stollen verkosten lassen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresdner-christstollen-der-billigste-soll-der-beste-sein-81969006.bild.html",
-      "image_title": "Dresdner Christstollen: Der Billigste soll der Beste sein!"
-    },
-    {
-      "title": "Trainerfrage in Aue : Vieles spricht für Müller",
-      "teaser": "Geht es nach der WM-Pause mit Carsten Müller als Aue-Cheftrainer weiter?",
-      "url": "https://www.bild.de/sport/fussball/fussball/trainerfrage-bei-erzgebirge-aue-vieles-spricht-fuer-mueller-81965620.bild.html",
-      "image_title": "Trainerfrage bei Erzgebirge Aue: Vieles spricht für Müller"
-    },
-    {
-      "title": "Verwaltung will künftig halb Dresden abkassieren : Stadtrat warnt vor Anwohner-Abzocke",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-stadtrat-warnt-vor-anwohner-abzocke-81968856.bild.html",
-      "image_title": "Dresden: Stadtrat warnt vor Anwohner-Abzocke"
-    },
-    {
-      "title": "Retter zündete Asylheim an : Warum immer wieder Feuerwehrleute?",
-      "teaser": "Immer wieder legen Feuerwehrleute Brände. Experten erklären das Phänomen.",
-      "url": "https://www.bild.de/bild-plus/news/2022/news/retter-zuendete-asylheim-ab-warum-feuerwehrleute-zuendeln-81963174.bild.html",
-      "image_title": "Retter zündete Asylheim ab: Warum Feuerwehrleute zündeln"
-    },
-    {
-      "title": "7:3 im Pokal beim VFC Plauen : Dynamo kann doch noch gewinnen",
-      "teaser": "Dynamo Dresden geht doch noch mit einem Sieg in die Winterpause: Im Sachsenpokal setzte sich der Drittligist in Plauen 7:3 durch.",
-      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-7-3-sieg-im-sachsenpokal-in-plauen-81965596.bild.html",
-      "image_title": "Dynamo Dresden: 7:3-Sieg im Sachsenpokal in Plauen"
-    },
-    {
-      "title": "Bei der U23 gegen Schalke : Diese 4 Gladbach-Profis müssen „nachsitzen”!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-diese-4-profis-muessen-nachsitzen-81967024.bild.html",
-      "image_title": "Borussia Mönchengladbach: Diese 4 Profis müssen „nachsitzen”!"
-    },
-    {
-      "title": "Märkte in Düsseldorf starten : Endlich weihnachtet es wieder",
-      "teaser": "Am Donnerstag ab 11 Uhr öffnen in Düsseldorf endlich wieder die Weihnachtsmarkt-Buden.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/weihnachtsmaerkte-in-duesseldorf-starten-endlich-wieder-81964582.bild.html",
-      "image_title": "Weihnachtsmärkte in Düsseldorf starten endlich wieder"
-    },
-    {
-      "title": "Beim Test-Turnier spielt er vor : Holt Fortuna DIESEN Profi zurück?",
-      "teaser": "***BILDplus-Inhalt*** Bei Fortuna gab er damals sein Profi-Debüt. Nun könnte er zurückkehren",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fortuna-duesseldorf/fortuna-duesseldorf-holt-fortuna-diesen-profi-zurueck-81967212.bild.html",
-      "image_title": "Fortuna Düsseldorf: Holt Fortuna DIESEN Profi zurück?"
-    },
-    {
-      "title": "Hauptstraße gesperrt : 70 Prozent Umsatzverlust wegen Baustelle",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/kelkheim-hauptstrasse-dicht-70-prozent-umsatzverlust-wegen-baustelle-81966872.bild.html",
-      "image_title": "Kelkheim: Hauptstraße dicht: 70 Prozent Umsatzverlust wegen Baustelle"
-    },
-    {
-      "title": "Nächster Skandal um Ahrtal-Katastrophe : 122 Flut-Videos unterschlagen",
-      "teaser": "Mehr als ein Jahr nach der Todes-Flut tauchen 122 neue Videos beim Katastrophenschutz auf.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/naechster-skandal-um-ahrtal-katastrophe-122-flut-videos-unterschlagen-81966260.bild.html",
-      "image_title": "Nächster Skandal um Ahrtal-Katastrophe: 122 Flut-Videos unterschlagen"
-    },
-    {
-      "title": "Korruptionsprozess gegen Ex-OB : Kronzeugin entlastet Peter Feldmann",
-      "teaser": "Ein einziger Tag, zwei Gerichts-Termine: Prozess-Marathon für Ex-Awo-Chefin Richter!",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/korruptionsprozess-gegen-ex-ob-kronzeugin-entlastet-peter-feldmann-81963932.bild.html",
-      "image_title": "Korruptionsprozess gegen Ex-OB: Kronzeugin entlastet Peter Feldmann"
-    },
-    {
-      "title": "Energie, Personal, Material! : Ein Glaser macht sich gläsern",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/energie-personal-material-firmen-chef-karsten-sommer-rechnet-vor-was-fuer-seinen-81961164.bild.html",
-      "image_title": "Energie, Personal, Material! Firmen-Chef Karsten Sommer rechnet vor, was für seinen kleinen Betrieb alles teurer wird: Ein Glaser macht sich gläsern"
-    },
-    {
-      "title": "Unternehmer vor Gericht : DiCaprio-Freund angesäuselt im Bentley erwischt",
-      "teaser": "Der Hamburger Geschäftsmann Alireza R. (50) musste sich vor Gericht verantworten.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburger-unternehmer-50-kein-fuehrerschein-vor-gericht-dicaprio-freund-angesaeu-81961266.bild.html",
-      "image_title": "Hamburger Unternehmer (50, kein Führerschein) vor Gericht: DiCaprio-Freund angesäuselt im Bentley erwischt"
-    },
-    {
-      "title": "Isabella Maria Detlaf : Mein Date hat sich verpieselt",
-      "teaser": "TV-Schönheit Isabella Maria Detlaf (37) sucht seit Monaten die Liebe ihres Lebens.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hund-verjagt-schwarm-von-tv-sternchen-isabella-maria-detlaf-mein-date-hat-sich-v-81961292.bild.html",
-      "image_title": "Hund verjagt Schwarm von TV-Sternchen Isabella Maria Detlaf: Mein Date hat sich verpieselt"
-    },
-    {
-      "title": "Gutachten bestätigt BILD-Bericht : Lebloser Pilot flog über Hannover",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/gutachten-bestaetigt-bild-bericht-lebloser-pilot-flog-ueber-hannover-hinweg-81966468.bild.html",
-      "image_title": "Lübbrechtsen: Lebloser Pilot flog über Hannover und krachte in ein Haus"
-    },
-    {
-      "title": "Brand in Wedemark : Nachbar rettet Paar aus Feuer-Haus",
-      "teaser": "Stefan Lorenz (42) hat seine Nachbarn aus einem Feuerhaus gerettet.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/brand-in-wedemark-nachbar-rettet-paar-aus-feuer-haus-81960838.bild.html",
-      "image_title": "Brand in Wedemark: Nachbar rettet Paar aus Feuer-Haus"
-    },
-    {
-      "title": "Heute ist Frühchen-Tag! : 15 Wochen zu früh, 350 Gramm, 1 Leben!",
-      "teaser": "Als Leonie viel zu früh auf die Welt kam, wog sie nur 350 Gramm.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/heute-ist-fruehchen-tag-die-geschichte-von-leonie-macht-hoffnung-15-wochen-zu-fr-81960882.bild.html",
-      "image_title": "Heute ist Frühchen-Tag! Die Geschichte von Leonie macht Hoffnung: 15 Wochen zu früh, 350 Gramm, 1 Leben!"
-    },
-    {
-      "title": "Wagen völlig allein auf den Schienen : ICE kracht in Auto",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/bonn-ice-kracht-in-auto-niemand-verletzt-81969516.bild.html",
-      "image_title": "Bonn: ICE kracht in Auto – niemand verletzt"
-    },
-    {
-      "title": "Glühwein bleibt heiß und Eisbahn kalt : So sparen Kölns Weihnachtsmärkte Energie",
-      "teaser": "Am Donnerstag starten die meisten Weihnachtsmärkte in Köln und wollen Energie sparen.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/so-sparen-weihnachtsmaerkte-in-koeln-in-der-krise-energie-81964798.bild.html",
-      "image_title": "So sparen Weihnachtsmärkte in Köln in der Krise Energie"
-    },
-    {
-      "title": "Es geht um eine Kanzler-Biografie : Kohl-Sohn teilt vor Gericht aus",
-      "teaser": "Harte Worte von Walter Kohl (59) vor dem Kölner Oberlandesgericht.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-sohn-von-alt-kanzler-helmut-kohl-teilt-vor-gericht-aus-81965324.bild.html",
-      "image_title": "Köln: Sohn von Alt-Kanzler Helmut Kohl teilt vor Gericht aus"
-    },
-    {
-      "title": "Er blies zum Angriff auf Beamte : Polizei jagt radikalen Corona-Hetzer",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/landfriedensbruch-polizei-jagt-radikalen-corona-hetzer-81969790.bild.html",
-      "image_title": "Landfriedensbruch: Polizei jagt radikalen Corona-Hetzer"
-    },
-    {
-      "title": "4 Fragen zu seinem WM-Aus : Wird Leipzig-Star Nkunku zum Bayern-Gipfel fit?",
-      "teaser": "Christopher Nkunkus WM-Traum wurde zum Albtraum!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/rb-leipzig/4-fragen-zu-seinem-wm-aus-wird-rb-star-nkunku-zum-bayern-gipfel-fit-81966996.bild.html",
-      "image_title": "4 Fragen zu seinem WM-Aus: Wird RB-Star Nkunku zum Bayern-Gipfel fit?"
-    },
-    {
-      "title": "Katharina (24) lebt und arbeitet im VW-Bus : Mein Wohnbüro auf vier Rädern",
-      "teaser": "Mobil arbeiten und unabhängig sein von monatlichen Fixkosten: Ein Trend, der immer mehr Fahrt aufnimmt.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/vanlife-katharina-24-lebt-im-vw-bus-mein-wohnbuero-auf-vier-raedern-81967956.bild.html",
-      "image_title": "Vanlife: Katharina (24) lebt im VW-Bus – Mein Wohnbüro auf vier Rädern"
-    },
-    {
-      "title": "Wismar: Global Dream wird fertig gebaut : Walt Disney zieht sich Pleite-Dampfer an Land",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/kreuzfahrtschiff-walt-disney-zieht-sich-pleite-dampfer-aus-wismar-an-land-81967490.bild.html",
-      "image_title": "Kreuzfahrtschiff: Walt Disney zieht sich Pleite-Dampfer aus Wismar an Land"
-    },
-    {
-      "title": "Polizei findet Schnaps im Wrack : Mann (38) kracht in Haltestelle – tot",
-      "teaser": "Ein Mann starb bei einem Crash nahe Rostock. Die Polizei fand Schnaps im Wrack.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-ukrainer-38-kracht-in-haltestelle-tot-81957784.bild.html",
-      "image_title": "Unfall: Ukrainer (38) kracht in Haltestelle – tot"
-    },
-    {
-      "title": "Hansa-Kapitän Kolke : Wir sind immer wieder aufgestanden",
-      "teaser": "Wechselhafte Hinrunde für Hansa Rostock: Fazit-Interview mit Kapitän Markus Kolke.",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-kapitaen-kolke-wir-sind-immer-wieder-aufgestanden-81967112.bild.html",
-      "image_title": "Hansa-Kapitän Kolke: Wir sind immer wieder aufgestanden"
-    },
-    {
-      "title": "Prozess wegen Nachstellung mit „AirTags\" : Zahnarzt versteckte Elektro-Spione bei Ex",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/muenchen-prozess-um-nachstellung-zahnarzt-versteckte-air-tags-bei-ex-81965130.bild.html",
-      "image_title": "München: Prozess um Nachstellung: Zahnarzt versteckte „Air Tags“ bei Ex"
-    },
-    {
-      "title": "In 95 bayerischen Betrieben : IG Metall ruft zu Warnstreiks auf",
-      "teaser": "München – So soll es in Regensburg und Landshut Kundgebungen vor den BMW-Werken geben",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/in-95-bayerischen-betrieben-ig-metall-ruft-zu-warnstreiks-auf-81969644.bild.html",
-      "image_title": "In 95 bayerischen Betrieben: IG Metall ruft zu Warnstreiks auf"
-    },
-    {
-      "title": "Übernahme des schwäbischen Bahnnetzes : Stotter-Start von Go-Ahead",
-      "teaser": "Wegen des Fachkräftemangels stehen nicht genug Triebfahrzeugführer zur Verfügung.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/uebernahme-des-schwaebischen-bahnnetzes-stotter-start-von-go-ahead-81963854.bild.html",
-      "image_title": "Übernahme des schwäbischen Bahnnetzes: Stotter-Start von Go-Ahead"
-    },
-    {
-      "title": "Erschütternde Aussage im Mordprozess : Kind (9) erlebte Mord an der Mama",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mordprozess-in-nuernberg-kind-9-erlebte-messer-mord-an-mutter-81962702.bild.html",
-      "image_title": "Mordprozess in Nürnberg: Kind (9) erlebte Messer-Mord an Mutter"
-    },
-    {
-      "title": "TV-Star Katerina Jacob krebsfrei! : „Es war Schwerstarbeit für meinen Körper“",
-      "teaser": "München – Sie hat den Krebs überstanden! Und durfte endlich wieder drehen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/tv-star-katerina-jacob-von-krebs-geheilt-81961630.bild.html",
-      "image_title": "TV-Star Katerina Jacob von Krebs geheilt"
-    },
-    {
-      "title": "Hohe Energiepreise : Bäcker rufen „Alarmstufe Brot“ aus",
-      "teaser": "Sie befürchten, dass Brezeln und Brot bald zu teuer für Kunden werden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/hohe-energiepreise-baecker-rufen-alarmstufe-brot-aus-81967286.bild.html",
-      "image_title": "Hohe Energiepreise: Bäcker rufen „Alarmstufe Brot“ aus"
-    },
-    {
-      "title": "TV-Tierschützer Ralf Seeger wird 60 : „Meine traurige Kindheit hat mich stark gemacht“",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/tv-tierschuetzer-ralf-seeger-wird-60-meine-kindheit-machte-mich-stark-81967740.bild.html",
-      "image_title": "TV-Tierschützer Ralf Seeger wird 60: „Meine Kindheit machte mich stark“"
-    },
-    {
-      "title": "Trotz Rotlicht gefahren? : Zug rammt Benz von Schienen – Fahrer schwer verletzt",
-      "teaser": "Mit zertrümmertem Heck steht der Mercedes neben den Schienen. Der Fahrer hat überlebt.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/luenen-zug-rammt-benz-von-schienen-fahrer-schwer-verletzt-81968752.bild.html",
-      "image_title": "Lünen: Zug rammt Benz von Schienen – Fahrer schwer verletzt"
-    },
-    {
-      "title": "Neues „House of Magic“ : Mal Ehrlich, Brothers – Wie viel Magie steckt drin?",
-      "teaser": "Die Ehrlich Brothers bleiben ihrer Heimat treu, eröffnen einen Erlebnis-Park im Centro.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/oberhausen-die-ehrlich-brothers-eroeffnen-house-of-magic-im-centro-81967770.bild.html",
-      "image_title": "Magisch für alle Fans: Ehrlich Brothers zeigen ihr irres „House of Magic“"
-    },
-    {
-      "title": "München-Trainer Köllner und Mannheim-Kapitän Seegert : Wir jagen die Saar-Könige!",
-      "url": "https://www.bild.de/sport/fussball/fussball/muenchen-trainer-koellner-und-mannheim-kapitaen-seegert-wir-jagen-die-saar-koeni-81964012.bild.html",
-      "image_title": "München-Trainer Köllner und Mannheim-Kapitän Seegert: Wir jagen die Saar-Könige!"
-    },
-    {
-      "title": "Vorsitzender zurückgetreten : Sexuelle Belästigung bei der Jungen Union?",
-      "teaser": "Mehrere Frauen werfen dem Ex-JU-Chef Frederic Becker sexuelle Belästigung vor.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/vorsitzender-sexuelle-belaestigung-bei-der-jungen-union-im-saarland-81962810.bild.html",
-      "image_title": "Vorsitzender: Sexuelle Belästigung bei der Jungen Union im Saarland?"
-    },
-    {
-      "title": "Nach Razzia bei der HWK : Beschuldigte bestreiten Vorwürfe",
-      "teaser": "Kistenweise schleppen Ermittler Akten und Datenträger aus der Handwerkskammer",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/nach-razzia-bei-der-hwk-beschuldigte-bestreiten-vorwuerfe-81965648.bild.html",
-      "image_title": "Nach Razzia bei der HWK: Beschuldigte bestreiten Vorwürfe"
-    },
-    {
-      "title": "Basketball-Bundesliga : So plant der MBC mit den Neuen",
-      "url": "https://www.bild.de/sport/mehr-sport/basketball/basketball-bundesliga-so-plant-der-mitteldeutsche-bc-mit-den-neuen-81965246.bild.html",
-      "image_title": "Basketball-Bundesliga: So plant der Mitteldeutsche BC mit den Neuen"
-    },
-    {
-      "title": "„Kopf abschalten und Liga rocken\" : Atik redet den FCM stark",
-      "teaser": "Nur Platz 17! Doch Baris Atik redet seinen 1. FC Magdeburg für die Rückrunde stark.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-magdeburg/kopf-abschalten-und-liga-rocken-atik-redet-den-fcm-stark-81956236.bild.html",
-      "image_title": "„Kopf abschalten und Liga rocken\": Atik redet den FCM stark"
-    },
-    {
-      "title": "HFC-Schlussmann fällt aus : Corona! Gebhardt muss DFB absagen",
-      "teaser": "Aufgrund seiner Corona-Erkrankung kann Felix Gebhardt (20) kein Länderspiel bestreiten.",
-      "url": "https://www.bild.de/sport/fussball/fussball/hallescher-fc-corona-torwart-felix-gebhardt-muss-dfb-absagen-81951758.bild.html",
-      "image_title": "Hallescher FC: Corona! Torwart Felix Gebhardt muss DFB absagen"
-    },
-    {
-      "title": "Er sieht aus wie ihr Papa : Tochter von Bruce Willis entwirft Steiff-Teddy",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/er-sieht-aus-wie-ihr-papa-tochter-von-bruce-willis-entwirft-steiff-teddy-81962142.bild.html",
-      "image_title": "Er sieht aus wie ihr Papa: Tochter von Bruce Willis entwirft Steiff-Teddy"
-    },
-    {
-      "title": "FDP-Fraktionschef Hans-Ulrich Rülke : Mehr Geld für Kampf gegen Leerstand",
-      "teaser": "Die FDP fordert die Regierung auf, sich stärker für lebenswerte Innenstädte einzusetzen.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/fdp-fraktionschef-ruelke-leerstand-in-innenstaedten-bekaempfen-im-suedwesten-81963234.bild.html",
-      "image_title": "FDP-Fraktionschef Rülke: Leerstand in Innenstädten bekämpfen im Südwesten"
-    },
-    {
-      "title": "Buga in Mannheim : Erste Kabinen für Seilbahn aufgehängt",
-      "teaser": "Eine Seilbahn soll die beiden Teile der Bundesgartenschau miteinander verbinden.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/buga-in-mannheim-erste-kabinen-fuer-seilbahn-aufgehaengt-81963552.bild.html",
-      "image_title": "Buga in Mannheim: Erste Kabinen für Seilbahn aufgehängt"
-    },
-    {
-      "title": "Nach Kampf gegen den Krebs : Model schenkt kranker Pia (11) Delfin-Therapie",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/nach-krebs-therapie-model-schenkt-kranker-pia-11-delfin-therapie-81968222.bild.html",
-      "image_title": "Nach Krebs-Therapie: Model schenkt kranker Pia (11) Delfin-Therapie"
-    },
-    {
-      "title": "Es geht um den Aufsichtsrat : Zoff bei Carl Zeiss nach Berka-Abschied",
-      "teaser": "Nach der Mitgliederversammlung in Jena gab es Ärger.",
-      "url": "https://www.bild.de/sport/fussball/fussball/es-geht-um-den-aufsichtsrat-zoff-bei-carl-zeiss-nach-berka-abschied-81966908.bild.html",
-      "image_title": "Es geht um den Aufsichtsrat: Zoff bei Carl Zeiss nach Berka-Abschied"
-    },
-    {
-      "title": "Zwei Brände in Erfurt : Brandstifter im Plattenbau?",
-      "teaser": "Zwei Brände in zwei Stunden mit einem Verletzten (37): die Bilanz am Jakob-Kaiser-Ring!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/feuer-brandstifter-in-erfurt-am-werk-81964974.bild.html",
-      "image_title": "Feuer: Brandstifter in Erfurt am Werk?"
-    }
-  ]
+  "articles": []
 }
