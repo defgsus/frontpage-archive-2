@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-17T05:19:58",
+  "timestamp": "2022-11-17T06:26:17",
   "url": "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,381 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,51784726.3-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.9f3e0228.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6abb390.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3fca9f7f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.76b70270.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.483155d5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f36952dc.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Ausgerechnet wegen Raserei! : Lappen weg bei „GRIP“-Moderator",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/grip-moderator-hamid-mossadegh-fuehrerschein-weg-nach-raserei-81966024.bild.html",
-      "image_url": "https://images.bild.de/63750a70f4b8ee68ce10af01/c1a3f6c5f34b9e84a1d227521c344e8d,d6e20157?w=656",
-      "image_title": "„GRIP“-Moderator Hamid Mossadegh: Führerschein weg nach Raserei"
-    },
-    {
-      "title": "Katy Perry und Orlando Bloom : Plötzlich Stammgast in deutschem Café",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/katy-perry-und-orlando-bloom-ploetzlich-stammgast-in-deutschem-caf-81961046.bild.html",
-      "image_url": "https://images.bild.de/6374beb9f4b8ee68ce10ae41/1b24ef8dbda08f96e82a43b9ea12e48a,f372ff98?w=320",
-      "image_title": "Katy Perry und Orlando Bloom: Plötzlich Stammgast in deutschem Café"
-    },
-    {
-      "title": "Marke von 112 Mio. Abonnenten geknackt : ER (24) ist die neue Nummer 1 auf Youtube",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/youtube-mrbeast-24-ist-die-neue-nummer-1-81965084.bild.html",
-      "image_url": "https://images.bild.de/6374fc110860f83dca19a8a7/9dea7e2213cf76ed89839986f1e481c8,3874aa17?w=320",
-      "image_title": "Youtube: MrBeast (24) ist die neue Nummer 1"
-    },
-    {
-      "title": "Ottfried Fischer Finger ab nach Rollstuhl-Unfall",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/ottfried-fischer-der-rollstuhl-ist-ein-segen-81965954.bild.html"
-    },
-    {
-      "title": "Jasmin Wagner ist Mutter Ihr „Blümchen“-Mädchen ist da",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/jasmin-wagner-ist-mutter-ihr-bluemchen-maedchen-ist-da-81968896.bild.html"
-    },
-    {
-      "title": "Geliebt, gezofft, getrennt Alles aus bei TV-Bauer Patrick und Antonia",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/sommerhaus-der-stars-sieger-liebesaus-bei-tv-bauer-patrick-und-antonia-81967726.bild.html"
-    },
-    {
-      "title": "Claudia Obert warnt Lotto-Millionär : Chico, tritt auf die Bremse!",
-      "url": "https://www.bild.de/video/clip/video/claudia-obert-warnt-lotto-millionaer-chico-tritt-auf-die-bremse-81968288.bild.html",
-      "image_title": "Claudia Obert warnt Lotto-Millionär: Chico, tritt auf die Bremse!"
-    },
-    {
-      "title": "Lotto-Millionär liebt Markenklamotten : So geht der Chico-Chic in günstig",
-      "url": "https://www.bild.de/video/clip/video/lotto-millionaer-liebt-markenklamotten-so-geht-der-chico-chic-in-guenstig-81966450.bild.html",
-      "image_title": "Lotto-Millionär liebt Markenklamotten: So geht der Chico-Chic in günstig"
-    },
-    {
-      "title": "Panne im Bett : Darum schläft Nathalie BW nackt",
-      "url": "https://www.bild.de/video/clip/leute/das-steckt-dahinter-nathalie-bw-komplett-nackt-81949726.bild.html",
-      "image_title": "Panne im Bett: Darum schläft Nathalie BW nackt"
-    },
-    {
-      "title": "Schmink-Quickie am Morgen : Lena Gercke so schön schwanger",
-      "url": "https://www.bild.de/video/clip/leute/schmink-quickie-am-morgen-lena-gercke-so-schoen-schwanger-81940428.bild.html",
-      "image_title": "Schmink-Quickie am Morgen: Lena Gercke so schön schwanger"
-    },
-    {
-      "title": "30 Jahre nach der Kult-Serie : Große Ehre für Kelly Bundy",
-      "url": "https://www.bild.de/video/clip/video/30-jahre-nach-der-kult-serie-grosse-ehre-fuer-kelly-bundy-81948496.bild.html",
-      "image_title": "30 Jahre nach der Kult-Serie: Große Ehre für Kelly Bundy"
-    },
-    {
-      "title": "In Hummels' neuer Doku : Cathys Papa hilft bei der Partnersuche",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/cathy-hummels-papa-hilft-bei-der-partnersuche-81964374.bild.html",
-      "image_title": "Cathy Hummels: Papa hilft bei der Partnersuche"
-    },
-    {
-      "title": "Suff-Beichte von Robbie Williams : „Für mich ging es um Leben und Tod“",
-      "teaser": "Robbie Williams trat in Hamburg auf und erzählte viel über seine Höhen und Tiefen.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/robbie-williams-in-hamburg-fuer-mich-ging-es-um-leben-und-tod-81965990.bild.html",
-      "image_title": "Robbie Williams in Hamburg: „Für mich ging es um Leben und Tod“"
-    },
-    {
-      "title": "„Promi Big Brother“ : Das ist Box-Manager Rainer Gottwald",
-      "teaser": "Er ist taff, lebenserfahren und strategisch. Alles zum Werdegang von Rainer Gottwald!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/promi-big-brother-das-ist-box-manager-rainer-gottwald-81947978.bild.html",
-      "image_title": "„Promi Big Brother“: Das ist Box-Manager Rainer Gottwald"
-    },
-    {
-      "title": "Grammy-Queen : Beyoncé stellt Rekord auf",
-      "teaser": "Die Grammys 2023 führen bei Beyoncé zum Rekord. Auch eine Deutsche ist nominiert.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/grammys-2023-rekord-fuer-beyonc-bei-nominierung-auch-eine-deutsche-ist-dabei-81964104.bild.html",
-      "image_title": "Grammy-Nominierung 2023: Rekord für Beyoncé – Auch eine Deutsche ist im Rennen"
-    },
-    {
-      "title": "Tag 15 im Weinstein-Prozess : In geheimer E-Mail geht es auch um Heidi Klum",
-      "teaser": "Es war die emotionalste Aussage im Prozess, doch diese E-Mails machen stutzig …",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/tag-15-im-prozess-gegen-harvey-weinstein-in-geheimer-e-mail-geht-es-um-heidi-klu-81957744.bild.html",
-      "image_title": "Harvey-Weinstein-Prozess: In geheimer E-Mail geht es auch um Heidi Klum"
-    },
-    {
-      "title": "Der Lotto-Millionär liebt Markenklamotten : So geht der Chico-Chic in günstig",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/lotto-millionaer-liebt-teure-styles-so-geht-der-chico-chic-in-guenstig-81955016.bild.html",
-      "image_title": "Lotto-Millionär liebt teure Styles: So geht der Chico-Chic in günstig"
-    },
-    {
-      "title": "Neuer „Promi Big Brother“-Kandidat : ER bringt frischen DUFT in den Container",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-kandidat-er-bringt-frischen-duft-in-den-container-81961186.bild.html",
-      "image_title": "„Promi Big Brother“-Kandidat: Jeremy bringt frischen Duft in den Container"
-    },
-    {
-      "title": "Bekannte TV-Vergangenheit : Die Tatort-Regisseurin kennen Sie aus …",
-      "teaser": "Fans der RTL-Soap „Unter uns“ ist der Name der Filmemacherin ein fester Begriff.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-muenster-das-rtl-geheimnis-hinter-rekord-regisseurin-janis-rattenni-81940340.bild.html",
-      "image_title": "„Tatort“ Münster: Das RTL-Geheimnis hinter Rekord-Regisseurin Janis Rattenni"
-    },
-    {
-      "title": "Gäste und Thema am 16. November : Wer ist heute Abend bei Markus Lanz?",
-      "teaser": "Lesen Sie, wer beim heutigen Talk bei Markus Lanz dabei ist.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/markus-lanz-heute-gaeste-und-thema-vom-16-november-2022-81963516.bild.html",
-      "image_title": "Markus Lanz heute: Gäste und Thema vom 16. November 2022"
-    },
-    {
-      "title": "TV-Hammer! : Frank Rosin: Schluss mit „The Taste“",
-      "teaser": "Doppel-Sterne-Koch Frank Rosin (56) steigt nach zehn Staffeln aus. Der Grund!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/the-taste-frank-rosin-macht-schluss-81961262.bild.html",
-      "image_title": "„The Taste“: Frank Rosin macht Schluss!"
-    },
-    {
-      "title": "„Promi Big Brother“ : Diese Promis gewannen schon die Krone",
-      "teaser": "Ab November schaut der große Bruder wieder zu. Aber wer wurde bisher gekrönt?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-diese-promis-gewannen-schon-die-krone-77261788.bild.html",
-      "image_title": "„Promi Big Brother“: Alle Sieger der Show im Überblick"
-    },
-    {
-      "title": "Frisch geschiedene Gisele Bündchen : Urlaub mit ihrem Jiu-Jitsu-Lehrer …",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/gisele-buendchen-gemeinsamer-urlaub-mit-ihrem-jiu-jitsu-lehrer-81947958.bild.html",
-      "image_title": "Gisele Bündchen: Gemeinsamer Urlaub mit ihrem Jiu-Jitsu-Lehrer"
-    },
-    {
-      "title": "Ronaldo emotional beim TV-Interview : Die schlimmen Stunden nach dem Tod meines Sohnes",
-      "teaser": "Cristiano Ronaldo erzählt von traurigem Moment, als sein Sohn starb.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/ronaldo-interview-sohn-angel-starb-bei-der-geburt-wie-er-es-seinen-kindern-sagte-81958602.bild.html",
-      "image_title": "Ronaldo-Interview: Sohn Angel starb bei der Geburt – Wie er es seinen Kindern sagte"
-    },
-    {
-      "title": "Unternehmerpaar ersteigert Oldtimer : Wir fahren jetzt Fedders Flosse",
-      "teaser": "Marion Fedder (55) versteigerte 26 Schätze aus dem Nachlass von Jan Fedder († 64).",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/unternehmer-ersteigert-legendaeren-oldtimer-des-grossen-schauspielers-ich-fahre-81948162.bild.html",
-      "image_title": "Unternehmerpaar ersteigert legendären Oldtimer des großen Schauspielers: Wir fahren jetzt Fedders Flosse"
-    },
-    {
-      "title": "Cathy Hummels über ihr Single-Leben : Hier sucht sie ihren neuen Traummann",
-      "teaser": "Cathy Hummels bricht ihr Schweigen über ihre schwerste Zeit. Wie es ihr als Single geht.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/cathy-hummels-ueber-ihr-single-leben-hier-sucht-sie-ihren-traummann-81954114.bild.html",
-      "image_title": "Cathy Hummels über ihr Single-Leben: Hier sucht sie ihren Traummann"
-    },
-    {
-      "title": "Cathy über das Scheitern ihrer Ehe : So war das wirklich mit Mats und mir",
-      "teaser": "Zum ersten Mal spricht Cathy Hummels ganz offen über ihr Ehe-Aus mit Mats.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/cathy-hummels-spricht-ueber-das-scheitern-ihrer-ehe-so-war-das-mit-mats-und-mir-81949350.bild.html",
-      "image_title": "Cathy Hummels spricht über das Scheitern ihrer Ehe mit Mats Hummels"
-    },
-    {
-      "title": "Sie ist schon bei ihm ausgezogen : Liebes-Aus bei Laura Wontorra!",
-      "teaser": "Alles aus bei der Moderatorin und dem VFL-Bochum-Star Simon Zoller. Die Hintergründe.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/laura-wontorra-ehe-aus-moderatorin-trennt-sich-von-fussballer-simon-zoller-81950736.bild.html",
-      "image_title": "Laura Wontorra – Ehe-Aus! Moderatorin trennt sich von Fußballer Simon Zoller"
-    },
-    {
-      "title": "2000 Fans feiern Weltstar in der Elbphilharmonie : Robbie sorgt für Kreisch-Alarm",
-      "url": "https://www.bild.de/regional/hamburg/musik/robbie-williams-kreisch-alarm-2000-fans-feiern-weltstar-in-hamburg-81956352.bild.html",
-      "image_title": "Robbie Williams: Kreisch-Alarm! 2000 Fans feiern Weltstar in Hamburg"
-    },
-    {
-      "title": "Die Ora liebt es deftig : Will jemand eine Pizza RITA?",
-      "teaser": "Bevor sie die MTV Europe Music Awards moderierte, gönnte sich Rita Ora eine leckere Pizza.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/rita-ora-liebt-es-deftig-will-jemand-eine-pizza-rita-81951754.bild.html",
-      "image_title": "Rita Ora liebt es deftig: Will jemand eine Pizza RITA?"
-    },
-    {
-      "title": "Klinik-Drama um Wildecker Herzbuben : „Wilfried und ich sind nicht totzukriegen!“",
-      "teaser": "Sänger Wolfgang Schwalm (68) sorgt sich um seinen Partner Wilfried Gliem (76).",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/klinik-drama-um-wildecker-herzbuben-wilfried-und-ich-sind-nicht-totzukriegen-81943816.bild.html",
-      "image_title": "Klinik-Drama um Wildecker Herzbuben: „Wilfried und ich sind nicht totzukriegen!“"
-    },
-    {
-      "title": "Jetzt spricht Melissa Naschenweng : Fan-Betrug! Miese Abzocke mit meinem toten Opa",
-      "teaser": "Jetzt spricht Schlager-Star Melissa Naschenweng über den Fan, der 98 000 Euro verlor.",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/melissa-naschenweng-spricht-ueber-fan-betrug-miese-abzocke-mit-meinem-toten-opa-81910362.bild.html",
-      "image_title": "Melissa Naschenweng über Fan-Betrug: Miese Abzocke mit meinem toten Opa!"
-    },
-    {
-      "title": "Staraufgebot am 13. November : Alles Infos zu den MTV Europe Music Awards!",
-      "teaser": "MTV ist für seine wilden Preisverleihungen berühmt. Alle Infos zur EMA-Show in Düsseldorf!",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/mtv-ema-2022-in-duesseldorf-mit-harry-styles-beyonc-und-vielen-mehr-81862126.bild.html",
-      "image_title": "MTV EMA 2022 in Düsseldorf mit Harry Styles, Beyoncé und vielen mehr!"
-    },
-    {
-      "title": "Kitsch für Kitty, Altes für Neuer : Set-Designer Rolf Buck erschafft Traumwelten",
-      "teaser": "Düsseldorf kennt sein Deko-Geschäft „Vaseline“. Doch Rolf Buck (50) kann viel mehr!",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-leute/duesseldorf-set-designer-rolf-buck-arbeitet-fuer-die-top-stars-81878202.bild.html",
-      "image_title": "Düsseldorf: Set-Designer Rolf Buck arbeitet für die Top-Stars"
-    },
-    {
-      "title": "„Einfach mal was Schönes“ : Schönes kommt nicht von ungefähr",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/einfach-mal-was-schoenes-schoenes-kommt-nicht-von-ungefaehr-81962840.bild.html",
-      "image_title": "„Einfach mal was Schönes“: Schönes kommt nicht von ungefähr"
-    },
-    {
-      "title": "„The Menu“ : Prost Mahlzeit, Voldemort!",
-      "teaser": "Mark Mylod serviert einen Mix aus Psycho-Thriller, Horror-Satire und schwarzer Komödie.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/the-menu-prost-mahlzeit-voldemort-81962952.bild.html",
-      "image_title": "„The Menu“: Prost Mahlzeit, Voldemort!"
-    },
-    {
-      "title": "„Die goldenen Jahre“ : Kreuzfahrt ins Unglück?",
-      "teaser": "Diese schweizerisch-deutsche Koproduktion führt ein Rentnerpaar auf eine Kreuzfahrt.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/die-goldenen-jahre-kreuzfahrt-ins-unglueck-81963072.bild.html",
-      "image_title": "„Die goldenen Jahre“: Kreuzfahrt ins Unglück?"
-    },
-    {
-      "title": "TICKET INS PARADIES : Exklusives Rethink-Outfit ersteigern",
-      "teaser": "Ersteigern Sie zum Digitalstart von TICKET INS PARADIES ein Rethink-Outfit.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/ticket-ins-paradies-exklusives-rethink-outfit-ersteigern-81956868.bild.html",
-      "image_title": "TICKET INS PARADIES: Exklusives Rethink-Outfit ersteigern"
-    },
-    {
-      "title": "THE MENU : Signiertes Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Kino-Start von THE MAGIC FLUTE ein tolles Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/the-magic-flute-signiertes-fan-paket-ersteigern-81927158.bild.html",
-      "image_title": "THE MAGIC FLUTE: Signiertes Fan-Paket ersteigern"
-    },
-    {
-      "title": "Erster Trailer veröffentlicht : „Magic Mike“ strippt wieder im Kino",
-      "teaser": "Nach acht Jahren kehrt Channing Tatum als „Magic Mike\" zurück – fast nackt!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/trailer-zu-magic-mike-3-channing-tatum-strippt-wieder-im-kino-81959840.bild.html",
-      "image_title": "Trailer zu „Magic Mike 3“! Channing Tatum strippt wieder im Kino"
-    },
-    {
-      "title": "Was der Prinzessin nicht passt : Frostige Stimmung bei Kate",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/prinzessin-kates-frostige-stimmung-was-kate-nicht-passt-81962688.bild.html",
-      "image_title": "Prinzessin Kates frostige Stimmung: Was Kate nicht passt"
-    },
-    {
-      "title": "Royal-Experte warnt vor Netflix-Hit : Wie „The Crown“ der Krone schadet",
-      "teaser": "BILD fragte Royal-Experte Robert Hardman nach „The Crown“. Wie echt ist der Netflix-Hit?",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/wie-the-crown-der-krone-schadet-royal-experte-warnt-vor-netflix-hit-81885198.bild.html",
-      "image_title": "Wie „The Crown“ der Krone schadet: Royal-Experte warnt vor Netflix-Hit"
-    },
-    {
-      "title": "Mann der Queen wollte Netflix verklagen : „Crown“-Szene brachte Philip zum Ausrasten",
-      "teaser": "Prinz Philip verlor bei einer bestimmten Szene aus „The Crown“ die Fassung.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinz-philip-welche-the-crown-szene-ihn-zum-ausrasten-brachte-81926890.bild.html",
-      "image_title": "Prinz Philip: Welche „The Crown“-Szene ihn zum Ausrasten brachte"
-    },
-    {
-      "title": "Lady Di hatte 17 Patenkinder : Das Drama um Leonora brach Diana das Herz",
-      "teaser": "Diana hatte ein großes Herz für Kinder. Ein Schicksal ging ihr besonders nah.",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/diana-hatte-17-patenkinder-das-drama-um-leonora-brach-ihr-das-herz-81937176.bild.html",
-      "image_title": "Diana hatte 17 Patenkinder: Das Drama um Leonora brach ihr das Herz"
-    },
-    {
-      "title": "Shahrzad Akhavan (†71) : Fürst trauert um Schwiegermutter",
-      "teaser": "Shahrzad Akhavan, die Schwiegermutter von Fürst Alexander zu Schaumburg-Lippe, ist tot.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/shahrzad-akhavan-71-fuerst-trauert-um-schwiegermutter-81938800.bild.html",
-      "image_title": "Bückeburg: Shahrzad Akhavan (†71): Fürst trauert um Schwiegermutter"
-    },
-    {
-      "title": "Basketball-Star saac Humphries outet sich vor Team : „Man kann Profisportler und schwul sein“",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/basketballer-humphries-outet-sich-vor-team-man-kann-profisportler-und-schwul-sei-81962006.bild.html",
-      "image_title": "Basketballer Humphries outet sich vor Team: „Man kann Profisportler und schwul sein“"
-    },
-    {
-      "title": "Die Begründung glauben Sie nie! : Frankreich-Kapitän will „One Love“-Binde nicht tragen",
-      "teaser": "Respekt für intolerante Geisteshandlung. Frankreichs Lloris geht eigene Wege.",
-      "url": "https://www.bild.de/sport/fussball/fifa-wm-2022/wm-2022-in-katar-aus-respekt-frankreich-kapitaen-lloris-traegt-one-love-binde-ni-81959006.bild.html",
-      "image_title": "WM 2022 in Katar: Aus Respekt! Frankreich-Kapitän Lloris trägt „One Love“-Binde nicht"
-    },
-    {
-      "title": "Anklage gegen Nuradi A. (20) erhoben : CSD-Killer ist angeblich kein Homosexuellen-Hasser",
-      "teaser": "Münster (NRW) – Die tödliche Attacke auf Malte C. (25) beim Christopher Street Day in M...",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/muenster-anklage-erhoben-csd-killer-ist-angeblich-kein-schwulen-hasser-81959584.bild.html",
-      "image_title": "Münster: Anklage erhoben – CSD-Killer ist angeblich kein Homosexuellen-Hasser"
-    },
-    {
-      "title": "LSVD schlägt Alarm wegen Katar-Apps : Verfolgungsgefahr für Schwule und Lesben!",
-      "teaser": "Gefährliche App-Kontrolle bei jedem Schritt. Der LSVD sieht LGBT bei der WM in Gefahr.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/lsvd-schlaegt-alarm-wegen-katar-wm-apps-verfolgungsgefahr-fuer-schwule-und-lesbe-81952172.bild.html",
-      "image_title": "LSVD schlägt Alarm wegen Katar-WM-Apps: Verfolgungsgefahr für Schwule und Lesben!"
-    },
-    {
-      "title": "Er frisierte Heidi Klum und Shakira : Promi-Friseur Sebastian Böhm – Krebstod mit 36!",
-      "teaser": "Shakira, Bill Kaulitz und Heino gehörten zu seinen Kunden.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/promi-friseur-sebastian-boehm-tot-er-frisierte-shakira-heino-und-bill-kaulitz-81952074.bild.html",
-      "image_title": "Promi-Friseur Sebastian Böhm tot – er frisierte Shakira, Heino und Bill Kaulitz"
-    },
-    {
-      "title": "Alarmstufe Sex : Hilfe, mein Partner ist ’ne Niete im Bett!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/alarmstufe-sex-hilfe-mein-partner-ist-ne-niete-im-bett-81934844.bild.html",
-      "image_title": "Alarmstufe Sex: Hilfe, mein Partner ist ’ne Niete im Bett!"
-    },
-    {
-      "title": "Große BDSM-Umfrage : Diese Promis dürften beim Sex gern mal zuschlagen",
-      "teaser": "Eine Umfrage zeigt, von wem sich die Deutschen beim Sex schlagen lassen würden.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/bdsm-umfrage-diese-promis-duerften-beim-sex-gern-mal-zuschlagen-81940456.bild.html",
-      "image_title": "BDSM-Umfrage: Diese Promis dürften beim Sex gern mal zuschlagen"
-    },
-    {
-      "title": "Nach Ghosting : Warum meldet SIE sich plötzlich wieder?",
-      "teaser": "Für die einen ist Ghosting eine Form von Mobbing, für andere nur schlechter Umgang.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/nach-ghosting-warum-meldet-sie-sich-ploetzlich-wieder-81857606.bild.html",
-      "image_title": "Nach Ghosting: Warum meldet SIE sich plötzlich wieder?"
-    },
-    {
-      "title": "Unsere Sex-Wunschliste : Was Frauen im Bett wirklich wollen",
-      "teaser": "Oft sind es nur kleine Stellschrauben, die über die Qualität des Liebesspiels entscheiden.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/unsere-sex-wunschliste-was-frauen-im-bett-wirklich-wollen-81906972.bild.html",
-      "image_title": "Unsere Sex-Wunschliste: Was Frauen im Bett wirklich wollen"
-    },
-    {
-      "title": "Erotische Hightech für Männer : Diese Sextoys machen IHM Spaß",
-      "teaser": "Männer lieben Technik. Nur bei Gadgets für die Lust halten sie sich zurück.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/erotische-hightech-fuer-maenner-diese-sextoys-machen-ihn-nass-81857934.bild.html",
-      "image_title": "Erotische Hightech für Männer: Diese Sextoys machen IHM Spaß"
-    },
-    {
-      "title": "Große Umfrage verrät : Jeder Siebte hat mal für Sex bezahlt – Sie auch?",
-      "teaser": "Eine repräsentative Umfrage macht deutlich, wie Deutsche über Prostitution denken.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/grosse-umfrage-verraet-jeder-siebte-hat-schon-mal-fuer-sex-bezahlt-81895676.bild.html",
-      "image_title": "Große Umfrage verrät: Jeder Siebte hat schon mal für Sex bezahlt"
-    }
-  ]
+  "articles": []
 }
