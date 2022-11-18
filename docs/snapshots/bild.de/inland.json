@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-18T18:27:57",
+  "timestamp": "2022-11-18T19:17:24",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.a99389ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.2f2cf296.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.951bd6f7.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.068cf038.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fcaec5ae.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fe8714ee.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Bis zu zehnZentimeter Neuschnee im Harz : Der Winter schneit in Sachsen-Anhalt herein",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/winter-schnee-in-sachsen-anhalt-81987838.bild.html",
-      "image_url": "https://images.bild.de/6377aa6284e2df14257ad3a2/4cad284232e70e587481c4a49fa00ca8,5937f82?w=656",
-      "image_title": "Winter: Schnee in Sachsen-Anhalt"
-    },
-    {
-      "title": "Kartoffel-Krise in Deutschland? : Wir essen immer weniger Erdäpfel",
-      "url": "https://www.bild.de/news/inland/news-inland/kartoffel-krise-in-deutschland-wir-essen-immer-weniger-erdaepfel-81985742.bild.html",
-      "image_url": "https://images.bild.de/637784e03f5f365d41473769/629fd84c5f0dcdc24c4e71867e0272e3,a9b2b67a?w=320",
-      "image_title": "Kartoffel-Krise in Deutschland? Wir essen immer weniger Erdäpfel"
-    },
-    {
-      "title": "Nach zwei Jahren Corona-Pause : Hier leuchtet erstmals wieder der Striezelmarkt",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/nach-zwei-jahren-corona-pause-hier-leuchtet-erstmals-wieder-der-striezelmarkt-81989344.bild.html",
-      "image_url": "https://images.bild.de/6377c0010387a041e9357382/9a44378b7192854bdea6a5091ad5671c,e48c58c7?w=320",
-      "image_title": "Dresden: Hier leuchtet erstmals wieder der Striezelmarkt"
-    },
-    {
-      "title": "Raubtier war in Gully gefangen : Hund rettet Wolf das Leben",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/raubtier-in-der-falle-wolf-plumpst-in-gullyloch-81985472.bild.html",
-      "image_url": "https://images.bild.de/6377828dc8b07545e4ece1c7/e1c4c40b87352c17da9c82eab43b7def,42aa3505?w=320",
-      "image_title": "Wolf: Raubtier von Feuerwehr aus Gullyloch gerettet"
-    },
-    {
-      "title": "Kinderleiche aus der Donau : Unbekannter Junge hat jetzt ein Gesicht",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/ingolstadt-kinderleiche-in-der-donau-hat-jetzt-ein-gesicht-81984502.bild.html",
-      "image_url": "https://images.bild.de/63777539c8b07545e4ece1a9/8f1b7e4d1d5779776cafd886fb604c0a,64b3b611?w=320",
-      "image_title": "Ingolstadt: Kinderleiche aus der Donau hat jetzt ein Gesicht"
-    },
-    {
-      "title": "Französischer Kater taucht in Nürnberg auf : Besitzer: „Wir haben die Hoffnung nie aufgegeben“",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/kater-taucht-in-nuernberg-auf-als-er-uns-erkannte-hat-er-geschnurrt-81972010.bild.html",
-      "image_title": "Kater taucht in Nürnberg auf: „Als er uns erkannte, hat er geschnurrt“"
-    },
-    {
-      "title": "Termin bei Gerichtsvollzieherin : Klimastiftung: Sellering zahlt Zwangsgeld",
-      "teaser": "Was hat Erwin Sellering (73, SPD) bei seinen Pipeline-Geschäften nur zu verbergen?",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-politik-und-wirtschaft/umstrittene-klimastiftung-ex-mp-sellering-zahlt-zwangsgeld-81978304.bild.html",
-      "image_title": "Umstrittene Klimastiftung: Ex-MP Sellering zahlt Zwangsgeld"
-    },
-    {
-      "title": "Razzia wegen Etiketten-Schwindel : Bio-Hendl-Lüge auf der Wiesn?",
-      "teaser": "Polizei-Razzia mit 150 Einsatzkräften beim Schlachtbetrieb der „Gross GmbH“ im Rottal.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/etikettenschwindel-razzia-im-schlachthof-bio-hendl-luege-auf-der-wiesn-81979542.bild.html",
-      "image_title": "Landshut: Etikettenschwindel–Razzia: Bio-Hendl-Lüge auf der Wiesn?"
-    },
-    {
-      "title": "Umweltministerin Walker : Proteste der Klimaaktivisten werden abnehmen",
-      "teaser": "Sie rechnet damit, dass die Zahl der Proteste der Klima-Bewegung zurück geht.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/ministerin-thekla-walker-proteste-der-klimaaktivisten-werden-abnehmen-81975682.bild.html",
-      "image_title": "Ministerin Thekla Walker: Proteste der Klimaaktivisten werden abnehmen"
-    },
-    {
-      "title": "Nach Juwelenklau 2019 : Grünes Gewölbe fällt auf Kunst-Betrüger rein",
-      "teaser": "Derbe Schlappe bei der Jagd nach Sachsens Kronjuwelen!",
-      "url": "https://www.bild.de/regional/dresden/leipzig-news/juwelenraub-in-dresden-gruenes-gewoelbe-faellt-auf-rueckkauf-angebot-rein-81971086.bild.html",
-      "image_title": "Juwelenraub in Dresden: Grünes Gewölbe fällt auf Rückkauf-Angebot rein"
-    },
-    {
-      "title": "Hochexplosives Gas strömt aus : Kesselwagen entgleisen nach Güterzug-Crash",
-      "teaser": "Ein Güterzug ist auf der Strecke Hannover-Berlin auf einen weiteren Güterzug gekracht.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/propangas-tritt-aus-waggons-aus-gueterzuege-krachen-aufeinander-81970154.bild.html",
-      "image_title": "Gifhorn: Zugunglück ++ Gas tritt aus ++ Strecke ICE Berlin-Hannover betroffen"
-    },
-    {
-      "title": "Staatsanwalt ermittelt! : Trifft Notarzt Mitschuld am Tod von Messer-Opfer?",
-      "teaser": "42 Jahre lang arbeitete Dr. Thomas G. (66) als Arzt, davon 34 Jahre als Anästhesist.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/staatsanwalt-ermittelt-trifft-notarzt-mitschuld-am-tod-von-messer-opfer-81978524.bild.html",
-      "image_title": "Staatsanwalt ermittelt: Trifft Notarzt Mitschuld am Tod von Messer-Opfer?"
-    },
-    {
-      "title": "Weil „Radikalität uns nicht weiterbringt“ : Schwester der toten Radlerin klagt Klima-Extremisten an",
-      "teaser": "Die Schwester der getöteten Radfahrerin hat im TV Klima-Aktivisten angeklagt.",
-      "url": "https://www.bild.de/news/inland/news-inland/ankalge-gegen-klima-extremisten-meine-schwester-wollte-die-welt-besser-machen-81977328.bild.html",
-      "image_title": "Anklage gegen Klima-Extremisten: Meine Schwester wollte die Welt besser machen"
-    },
-    {
-      "title": "Überfall auf Tankstelle : Räuber erbeuten Hunderte Euro und flüchten",
-      "teaser": "Sie bedrohen einen Mitarbeiter, erbeuten Geld und können flüchten. Wer kennt sie?",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/tankstellen-ueberfall-in-dresden-raeuber-erbeuten-hunderte-euro-und-fluechten-81976318.bild.html",
-      "image_title": "Tankstellen-Überfall in Dresden: Räuber erbeuten Hunderte Euro und flüchten"
-    },
-    {
-      "title": "„NSU 2.0“-Prozess : Droh-Schreiber muss fast sechs Jahre in Haft",
-      "teaser": "Urteil im Prozess um die „NSU 2.0“-Drohschreiben!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/nsu-2-0-prozess-droh-schreiber-muss-fast-sechs-jahre-in-haft-81973316.bild.html",
-      "image_title": "„NSU 2.0“-Prozess: Droh-Schreiber muss fast sechs Jahre in Haft"
-    },
-    {
-      "title": "Fahrer (81) geht mit Ford baden : Auto aus Elbe geborgen",
-      "teaser": "Der Schlüssel steckte noch, als die Feuerwehr den Ford aus der Elbe bergen wollte.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-fahrer-82-geht-mit-ford-baden-auto-aus-elbe-geborgen-81970628.bild.html",
-      "image_title": "Sachsen: Fahrer (81) geht mit Ford baden – Auto aus Elbe geborgen"
-    },
-    {
-      "title": "Jugendlicher aus Thüringen wird vermisst : Polizei sucht Jona Simon (15)",
-      "teaser": "Sogar ein Fährtenhund wurde eingesetzt, um Jona zu finden. Doch bisher ohne Erfolg.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/vermisst-polizei-sucht-nach-jona-simon-15-aus-thueringen-81972896.bild.html",
-      "image_title": "Vermisst: Polizei sucht nach Jona Simon (15) aus Thüringen"
-    },
-    {
-      "title": "Nach Kampf gegen den Krebs : Model schenkt kranker Pia (11) Delfin-Therapie",
-      "teaser": "Das Model unterstützt mit dem von ihr gegründeten Verein seit Jahren kranke Kinder.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/thueringen-aktuell/nach-krebs-therapie-model-schenkt-kranker-pia-11-delfin-therapie-81968222.bild.html",
-      "image_title": "Nach Krebs-Therapie: Model schenkt kranker Pia (11) Delfin-Therapie"
-    },
-    {
-      "title": "Dresdner Christstollen : Der Billigste soll der Beste sein!",
-      "teaser": "Stiftung Warentest hat für die Dezember-Ausgabe ihres Heftes „test“ bundesweit 18 Rosinen-Stollen verkosten lassen.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresdner-christstollen-der-billigste-soll-der-beste-sein-81969006.bild.html",
-      "image_title": "Dresdner Christstollen: Der Billigste soll der Beste sein!"
-    },
-    {
-      "title": "Global Dream wird fertig gebaut : Walt Disney zieht sich Pleite-Dampfer aus Wismar an Land",
-      "teaser": "Walt Disney übernimmt das fast fertig gebaute Kreuzfahrtschiff „Global One“ der Pleite gegangenen MV Werften in Mecklenburg-Vorpommern.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/kreuzfahrtschiff-walt-disney-zieht-sich-pleite-dampfer-aus-wismar-an-land-81967490.bild.html",
-      "image_title": "Kreuzfahrtschiff: Disney zieht sich aus Wismar Pleite-Dampfer an Land"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie 6 Richtige? Gehört der 10 Mio € Jackpot bald Ihnen? Erfahren Sie es hier!",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-und-quoten-vom-16-november-81959500.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen und Quoten vom 16. November"
-    },
-    {
-      "title": "Siemens zieht Jahresbilanz : Milliardengewinn trotz hoher Belastungen",
-      "teaser": "Nach einem starken 4. Quartal steht unter dem Strich ein Plus von 4,4 Milliarden Euro.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/siemens-zieht-jahresbilanz-milliardengewinn-trotz-hoher-belastungen-81970194.bild.html",
-      "image_title": "Siemens zieht Jahresbilanz: Milliardengewinn trotz hoher Belastungen"
-    },
-    {
-      "title": "Prozess wegen Nachstellung mit „AirTags\" : Zahnarzt versteckte Elektro-Spione bei seiner Ex",
-      "teaser": "Ein Zahnarzt soll „AirTags\" zur Überwachung seiner Ex versteckt haben. Prozess!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/muenchen-prozess-um-nachstellung-zahnarzt-versteckte-air-tags-bei-ex-81965130.bild.html",
-      "image_title": "München: Prozess um Nachstellung: Zahnarzt versteckte „Air Tags“ bei Ex"
-    },
-    {
-      "title": "1,8 Mio. Ausländer bekommen Stütze : Drei von ihnen sagen, warum sie keine Arbeit haben",
-      "teaser": "1,8 Mio. Ausländer bekommen Stütze in Deutschland. In BILD sprechen Betroffene.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/1-8-mio-auslaender-bekommen-stuetze-drei-berichten-warum-sie-keine-arbeit-haben-81967696.bild.html",
-      "image_title": "1,8 Mio. Ausländer bekommen Stütze: Drei berichten, warum sie keine Arbeit haben"
-    },
-    {
-      "title": "Erschütternde Aussage im Mordprozess : Kind (9) erlebte Mord an der Mama",
-      "teaser": "Regensburg – Rolf S. (37) erstach Ramona B (27) – vor den Augen ihrer Tochter (9).",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/mordprozess-in-nuernberg-kind-9-erlebte-messer-mord-an-mutter-81962702.bild.html",
-      "image_title": "Mordprozess in Nürnberg: Kind (9) erlebte Messer-Mord an Mutter"
-    },
-    {
-      "title": "Lotto-Millionär Chico bleibt sich treu : „Ich werde hier im Ghetto bleiben“",
-      "url": "https://www.bild.de/video/clip/bild-tv/lotto-millionaer-chico-bleibt-sich-treu-ich-werde-hier-im-ghetto-bleiben-81981214.bild.html",
-      "image_title": "Lotto-Millionär Chico bleibt sich treu: „Ich werde hier im Ghetto bleiben“"
-    },
-    {
-      "title": "50 Häuser teilweise zerstört : Tornado wütet im Saarland",
-      "url": "https://www.bild.de/video/clip/news/tornado-wuetet-im-saarland-50-haeuser-zum-teil-unbewohnbar-81979702.bild.html",
-      "image_title": "Tornado wütet im Saarland: 50 Häuser zum Teil unbewohnbar"
-    },
-    {
-      "title": "„Unter Uns“-Star im Playboy : Das erste Mal nackt vor der Kamera",
-      "url": "https://www.bild.de/video/clip/erotik/no-go-bei-maennern-unter-unsstar-valea-scalabrino-redselig-im-playboy-interview-81932326.bild.html",
-      "image_title": "No Go bei Männern: „Unter Uns“–Star Valea Scalabrino redselig im Playboy-Interview"
-    }
-  ]
+  "articles": []
 }
