@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-18T01:58:37",
+  "timestamp": "2022-11-18T03:18:37",
   "url": "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,371 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,51784726.3-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.9f3e0228.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a6abb390.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3fca9f7f.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.76b70270.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.483155d5.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.f36952dc.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "„Wer wird Millionär“-Prominenten-Special : Jauch zeigt sein Können als Ersthelfer",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/wer-wird-millionaer-prominenten-special-so-viel-geld-schafften-die-stars-81978612.bild.html",
-      "image_url": "https://images.bild.de/637687ffefe316263deb0f3d/2119a776e84483843d0f087da0309df4,6df72525?w=656",
-      "image_title": "„Wer wird Millionär“-Prominenten-Special: Jauch zeigt sein Können als Ersthelfer"
-    },
-    {
-      "title": "Loris Karius und seine neue Sophia : Heißes Doppelpack",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/sophia-thomallas-ex-loris-karius-einer-heisser-als-der-andere-81974084.bild.html",
-      "image_url": "https://images.bild.de/63762d2cf4b8ee68ce10b0b8/6d2b35999f76c7cfcf6b114742302273,e2ba5627?w=320",
-      "image_title": "Sophia Thomallas Ex: Loris Karius – einer heißer als der andere!"
-    },
-    {
-      "title": "Herzschmerz-Song : Sarah Connor singt für ihre tote Oma",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/herzschmerz-song-auf-neuem-weihnachtsalbum-sarah-connor-singt-fuer-ihre-tote-oma-81979174.bild.html",
-      "image_url": "https://images.bild.de/6376940e19b91e46022962c5/212a47038f4cf4363a3a9ee581167134,ae7d5749?w=320",
-      "image_title": "Herzschmerz-Song auf neuem Weihnachtsalbum: Sarah Connor singt für ihre tote Oma"
-    },
-    {
-      "title": "Loris Karius & Diletta Leotta Heisse Tage in Miami",
-      "url": "https://www.bild.de/video/clip/video/loris-karius-diletta-liotta-heisse-tage-in-miami-81964194.bild.html"
-    },
-    {
-      "title": "Choreo-Star besuchte Düsseldorf Nikeata Thompson wieder bei „Topmodel“",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/nikeata-thompson-choreografin-wieder-bei-topmodel-81979382.bild.html"
-    },
-    {
-      "title": "Cathy Hummels auf Männersuche Ein neuer Schatz nach Mats",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/cathy-hummels-ein-neuer-schatz-nach-mats-81970760.bild.html"
-    },
-    {
-      "title": "„Ich bin wirklich sehr schüchtern“ : So lief Cathy Hummels‘ erstes Date nach 15 Jahren",
-      "url": "https://www.bild.de/video/clip/video/ich-bin-wirklich-sehr-schuechtern-so-lief-cathy-hummels-erstes-date-nach-15-jahr-81977912.bild.html",
-      "image_title": "„Ich bin wirklich sehr schüchtern“: So lief Cathy Hummels‘ erstes Date nach 15 Jahren"
-    },
-    {
-      "title": "Trennung von TV-Bauer : Die Tränen-Beichte von Antonia Hemmer",
-      "url": "https://www.bild.de/video/clip/leute/ich-bin-fix-und-fertig-traenen-trennung-zwischen-antonia-und-patrick-81970008.bild.html",
-      "image_title": "Trennung von TV-Bauer: Die Tränen-Beichte von Antonia Hemmer"
-    },
-    {
-      "title": "Aua, das ging ins Auge : Harry Styles bei Konzert schwer getroffen",
-      "url": "https://www.bild.de/video/clip/leute/aua-das-ging-ins-auge-harry-styles-bei-konzert-schwer-getroffen-81972260.bild.html",
-      "image_title": "Aua, das ging ins Auge: Harry Styles bei Konzert schwer getroffen"
-    },
-    {
-      "title": "Es wird wieder gestrippt : Der erste Trailer zu \"Magic Mike 3\" mit Channing Tatum ist da",
-      "url": "https://www.bild.de/video/clip/bild-tv/es-wird-wieder-gestrippt-der-erste-trailer-zu-magic-mike-3-mit-channing-tatum-is-81970080.bild.html",
-      "image_title": "Der erste Trailer zu \"Magic Mike 3\" mit Channing Tatum ist da"
-    },
-    {
-      "title": "Vicky Leandros verkündet Abschied : Karriere-Ende! So plane ich mein neues Leben",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/vicky-leandros-verkuendet-abschied-karriere-ende-so-plane-ich-mein-neues-leben-81978250.bild.html",
-      "image_title": "Vicky Leandros: So plane ich mein neues Leben: Karriere-Ende!"
-    },
-    {
-      "title": "Megahit im Radio : Wetten, Ninas Song haben Sie schon mitgesummt?",
-      "teaser": "Mit ihrem Ohrwurm hat die deutsche Sängerin Nina Chuba einen Nummer-Eins-Hit gelandet.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/nina-chuba-wetten-ihren-song-haben-sie-schon-mitgesummt-81958306.bild.html",
-      "image_title": "Nina Chuba: Wetten, ihren Song haben Sie schon mitgesummt?"
-    },
-    {
-      "title": "„Mir kommt kein neuer Mann ins Haus“ : Wie es Tamme Hankens Frau heute geht",
-      "teaser": "2016 verstarb Tamme Hanken. So geht es der Witwe des „Knochenbrechers“ heute.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/tamme-hanken-so-geht-es-seiner-witwe-carmen-heute-81970966.bild.html",
-      "image_title": "Tamme Hanken: So geht es seiner Witwe Carmen heute"
-    },
-    {
-      "title": "„Promi Big Brother“-Kandidat : Kontroverser Kommentator Jörg Dahlmann zieht ein",
-      "teaser": "Er ist wegen seines losen Mundwerks bekannt. Alle Infos zu Jörg Dahlmann!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/promi-big-brother-kontroverser-kommentator-joerg-dahlmann-zieht-ein-81950564.bild.html",
-      "image_title": "„Promi Big Brother“: Kontroverser Kommentator Jörg Dahlmann zieht ein"
-    },
-    {
-      "title": "Schmuse-Sänger geht auf Welttournee : Eros Ramazzotti kommt live nach Deutschland",
-      "teaser": "Der Musiker kommt im Mai 2023 nach Deutschland. Hier alle Infos zu den Konzerten.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/eros-ramazzotti-in-deutschland-schmuse-saenger-geht-auf-welttournee-81975166.bild.html",
-      "image_title": "Eros Ramazzotti in Deutschland: Schmuse-Sänger geht auf Welttournee"
-    },
-    {
-      "title": "Gäste und Thema am 17. November : Wer ist heute Abend bei Markus Lanz?",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/markus-lanz-heute-gaeste-und-thema-vom-17-november-2022-81977238.bild.html",
-      "image_title": "Markus Lanz heute: Gäste und Thema vom 17. November 2022"
-    },
-    {
-      "title": "„Wetten, dass..?“ : Diese Stars sind am Samstagabend dabei",
-      "teaser": "Am Wochenende kehrt die beliebte Show zurück ins TV - mit internationalen Gästen!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/wetten-dass-thomas-gottschalk-begruesst-diese-stars-am-samstag-19-november-81972232.bild.html",
-      "image_title": "„Wetten, dass..?“: Thomas Gottschalk begrüßt diese Stars am Samstag, 19. November"
-    },
-    {
-      "title": "Kandidaten, Termine, Voting : Alle Infos zu „Promi Big Brother“ 2022",
-      "teaser": "Jubiläum! Am 18. November startet die 10. Staffel von „Promi Big Brother“. Alle Infos hier!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-2022-alle-kandidaten-sendetermine-infos-81461310.bild.html",
-      "image_title": "„Promi Big Brother“ 2022: Alle Kandidaten, Regeln und Infos zur Show"
-    },
-    {
-      "title": "TV-Tierschützer Ralf Seeger wird 60 : „Meine traurige Kindheit hat mich stark gemacht“",
-      "teaser": "Auch „Harte Hunde“ kommen in die Jahre. TV-Tierschützer Ralf Seeger im Interview.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-leute/tv-tierschuetzer-ralf-seeger-wird-60-meine-kindheit-machte-mich-stark-81967740.bild.html",
-      "image_title": "TV-Tierschützer Ralf Seeger wird 60: „Meine Kindheit machte mich stark“"
-    },
-    {
-      "title": "Neuer „Promi Big Brother“-Kandidat : ER bringt frischen DUFT inden Container",
-      "teaser": "Dieser Kandidat bringt frischen und wohlriechenden Wind mit in den Container.",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/promi-big-brother-kandidat-er-bringt-frischen-duft-in-den-container-81961186.bild.html",
-      "image_title": "„Promi Big Brother“-Kandidat: Jeremy bringt frischen Duft in den Container"
-    },
-    {
-      "title": "Gast ihres Podcasts enthüllt : Führt Meghan ihre Interviews gar nicht selbst?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/royals/herzogin-meghan-fuehrt-sie-ihre-podcast-interviews-gar-nicht-selbst-81971334.bild.html",
-      "image_title": "Herzogin Meghan: Führt sie ihre Podcast-Interviews gar nicht selbst?"
-    },
-    {
-      "title": "Langjähriger Mitarbeiter packt aus : Team Charles verbreitete Lügen über Diana",
-      "teaser": "Prinzessin Dianas (†36) Ex-Privatsekretär erhebt schwere Vorwürfe.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/leute/langjaehriger-mitarbeiter-der-prinzessin-team-charles-verbreitete-luegen-ueber-d-81971276.bild.html",
-      "image_title": "Langjähriger Mitarbeiter der Prinzessin: Team Charles verbreitete Lügen über Diana"
-    },
-    {
-      "title": "Holländer lieben deutsches Playmate : Isabella verrät ihr Busen-Geheimnis",
-      "teaser": "Playmate Isabella verrät bei BILD ihre größte Leidenschaft und lüftet ihr Busen-Geheimnis.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/isabella-im-playboy-playmate-verraet-ihr-busen-geheimnis-81965940.bild.html",
-      "image_title": "Isabella im „Playboy“: Playmate verrät ihr Busen-Geheimnis"
-    },
-    {
-      "title": "Aaron Carter (†34) : Was seine Sterbeurkunde verrät",
-      "teaser": "Noch sind einige Fragen zu Aaron Carters Tod offen. Jetzt liegt die Sterbeurkunde vor.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/aaron-carter-34-was-seine-sterbeurkunde-verraet-81969832.bild.html",
-      "image_title": "Aaron Carter (†34): Was seine Sterbeurkunde verrät"
-    },
-    {
-      "title": "Ottfried Fischer : Finger ab nach Rollstuhl-Unfall",
-      "teaser": "TV-Star Ottfried Fischer (69) hat bei einem Unfall einen Finger verloren.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/ottfried-fischer-der-rollstuhl-ist-ein-segen-81965954.bild.html",
-      "image_title": "Ottfried Fischer: „Der Rollstuhl ist ein Segen“"
-    },
-    {
-      "title": "Katy Perry und Orlando Bloom : Plötzlich Stammgast in deutschem Café",
-      "teaser": "Wenn Hollywood plötzlich in Andernach (Stadt in Rheinland-Pfalz) frühstückt!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/katy-perry-und-orlando-bloom-ploetzlich-stammgast-in-deutschem-caf-81961046.bild.html",
-      "image_title": "Katy Perry und Orlando Bloom: Plötzlich Stammgast in deutschem Café"
-    },
-    {
-      "title": "2000 Fans feiern Weltstar in der Elbphilharmonie : Robbie sorgt für Kreisch-Alarm",
-      "url": "https://www.bild.de/regional/hamburg/musik/robbie-williams-kreisch-alarm-2000-fans-feiern-weltstar-in-hamburg-81956352.bild.html",
-      "image_title": "Robbie Williams: Kreisch-Alarm! 2000 Fans feiern Weltstar in Hamburg"
-    },
-    {
-      "title": "Die Ora liebt es deftig : Will jemand eine Pizza RITA?",
-      "teaser": "Bevor sie die MTV Europe Music Awards moderierte, gönnte sich Rita Ora eine leckere Pizza.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/rita-ora-liebt-es-deftig-will-jemand-eine-pizza-rita-81951754.bild.html",
-      "image_title": "Rita Ora liebt es deftig: Will jemand eine Pizza RITA?"
-    },
-    {
-      "title": "Klinik-Drama um Wildecker Herzbuben : „Wilfried und ich sind nicht totzukriegen!“",
-      "teaser": "Sänger Wolfgang Schwalm (68) sorgt sich um seinen Partner Wilfried Gliem (76).",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/klinik-drama-um-wildecker-herzbuben-wilfried-und-ich-sind-nicht-totzukriegen-81943816.bild.html",
-      "image_title": "Klinik-Drama um Wildecker Herzbuben: „Wilfried und ich sind nicht totzukriegen!“"
-    },
-    {
-      "title": "Jetzt spricht Melissa Naschenweng : Fan-Betrug! Miese Abzocke mit meinem toten Opa",
-      "teaser": "Jetzt spricht Schlager-Star Melissa Naschenweng über den Fan, der 98 000 Euro verlor.",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/melissa-naschenweng-spricht-ueber-fan-betrug-miese-abzocke-mit-meinem-toten-opa-81910362.bild.html",
-      "image_title": "Melissa Naschenweng über Fan-Betrug: Miese Abzocke mit meinem toten Opa!"
-    },
-    {
-      "title": "Staraufgebot am 13. November : Alles Infos zu den MTV Europe Music Awards!",
-      "teaser": "MTV ist für seine wilden Preisverleihungen berühmt. Alle Infos zur EMA-Show in Düsseldorf!",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/mtv-ema-2022-in-duesseldorf-mit-harry-styles-beyonc-und-vielen-mehr-81862126.bild.html",
-      "image_title": "MTV EMA 2022 in Düsseldorf mit Harry Styles, Beyoncé und vielen mehr!"
-    },
-    {
-      "title": "Kitsch für Kitty, Altes für Neuer : Set-Designer Rolf Buck erschafft Traumwelten",
-      "teaser": "Düsseldorf kennt sein Deko-Geschäft „Vaseline“. Doch Rolf Buck (50) kann viel mehr!",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-leute/duesseldorf-set-designer-rolf-buck-arbeitet-fuer-die-top-stars-81878202.bild.html",
-      "image_title": "Düsseldorf: Set-Designer Rolf Buck arbeitet für die Top-Stars"
-    },
-    {
-      "title": "„Einfach mal was Schönes“ : Schönes kommt nicht von ungefähr",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/einfach-mal-was-schoenes-schoenes-kommt-nicht-von-ungefaehr-81962840.bild.html",
-      "image_title": "Karoline Herfurths Film „Einfach mal was Schönes“: Beste deutsche Komödie im Kino"
-    },
-    {
-      "title": "„The Menu“ : Prost Mahlzeit, Voldemort!",
-      "teaser": "Mark Mylod serviert einen Mix aus Psycho-Thriller, Horror-Satire und schwarzer Komödie.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/the-menu-prost-mahlzeit-voldemort-81962952.bild.html",
-      "image_title": "„The Menu“: Prost Mahlzeit, Voldemort!"
-    },
-    {
-      "title": "„Die goldenen Jahre“ : Kreuzfahrt ins Unglück?",
-      "teaser": "Diese schweizerisch-deutsche Koproduktion führt ein Rentnerpaar auf eine Kreuzfahrt.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/die-goldenen-jahre-kreuzfahrt-ins-unglueck-81963072.bild.html",
-      "image_title": "„Die goldenen Jahre“: Kreuzfahrt ins Unglück?"
-    },
-    {
-      "title": "TICKET INS PARADIES : Exklusives Rethink-Outfit ersteigern",
-      "teaser": "Ersteigern Sie zum Digitalstart von TICKET INS PARADIES ein Rethink-Outfit.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/ticket-ins-paradies-exklusives-rethink-outfit-ersteigern-81956868.bild.html",
-      "image_title": "TICKET INS PARADIES: Exklusives Rethink-Outfit ersteigern"
-    },
-    {
-      "title": "THE MENU : Signiertes Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Kino-Start von THE MAGIC FLUTE ein tolles Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/the-magic-flute-signiertes-fan-paket-ersteigern-81927158.bild.html",
-      "image_title": "THE MAGIC FLUTE: Signiertes Fan-Paket ersteigern"
-    },
-    {
-      "title": "Erster Trailer veröffentlicht : „Magic Mike“ strippt wieder im Kino",
-      "teaser": "Nach acht Jahren kehrt Channing Tatum als „Magic Mike\" zurück – fast nackt!",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/trailer-zu-magic-mike-3-channing-tatum-strippt-wieder-im-kino-81959840.bild.html",
-      "image_title": "Trailer zu „Magic Mike 3“! Channing Tatum strippt wieder im Kino"
-    },
-    {
-      "title": "Was der Prinzessin nicht passt : Frostige Stimmung bei Kate",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/prinzessin-kates-frostige-stimmung-was-kate-nicht-passt-81962688.bild.html",
-      "image_title": "Prinzessin Kates frostige Stimmung: Was Kate nicht passt"
-    },
-    {
-      "title": "Royal-Experte warnt vor Netflix-Hit : Wie „The Crown“ der Krone schadet",
-      "teaser": "BILD fragte Royal-Experte Robert Hardman nach „The Crown“. Wie echt ist der Netflix-Hit?",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/wie-the-crown-der-krone-schadet-royal-experte-warnt-vor-netflix-hit-81885198.bild.html",
-      "image_title": "Wie „The Crown“ der Krone schadet: Royal-Experte warnt vor Netflix-Hit"
-    },
-    {
-      "title": "Mann der Queen wollte Netflix verklagen : „Crown“-Szene brachte Philip zum Ausrasten",
-      "teaser": "Prinz Philip verlor bei einer bestimmten Szene aus „The Crown“ die Fassung.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/royals/prinz-philip-welche-the-crown-szene-ihn-zum-ausrasten-brachte-81926890.bild.html",
-      "image_title": "Prinz Philip: Welche „The Crown“-Szene ihn zum Ausrasten brachte"
-    },
-    {
-      "title": "Lady Di hatte 17 Patenkinder : Das Drama um Leonora brach Diana das Herz",
-      "teaser": "Diana hatte ein großes Herz für Kinder. Ein Schicksal ging ihr besonders nah.",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/diana-hatte-17-patenkinder-das-drama-um-leonora-brach-ihr-das-herz-81937176.bild.html",
-      "image_title": "Diana hatte 17 Patenkinder: Das Drama um Leonora brach ihr das Herz"
-    },
-    {
-      "title": "Shahrzad Akhavan (†71) : Fürst trauert um Schwiegermutter",
-      "teaser": "Shahrzad Akhavan, die Schwiegermutter von Fürst Alexander zu Schaumburg-Lippe, ist tot.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/shahrzad-akhavan-71-fuerst-trauert-um-schwiegermutter-81938800.bild.html",
-      "image_title": "Bückeburg: Shahrzad Akhavan (†71): Fürst trauert um Schwiegermutter"
-    },
-    {
-      "title": "„Respect for Marriage Act“ : US-„Ehe für Alle“ soll gesetzlich verankert werden",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/respect-for-marriage-act-us-ehe-fuer-alle-soll-gesetzlich-verankert-werden-81970810.bild.html",
-      "image_title": "„Respect for Marriage Act“: US-„Ehe für Alle“ soll gesetzlich verankert werden"
-    },
-    {
-      "title": "Söder : WM hätte nie nach Katar vergeben werden dürfen",
-      "teaser": "Markus Söder blickt mit gemischten Gefühlen auf die bevorstehende Weltmeisterschaft.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/soeder-wm-haette-nie-nach-katar-vergeben-werden-duerfen-81964222.bild.html",
-      "image_title": "Söder: WM hätte nie nach Katar vergeben werden dürfen"
-    },
-    {
-      "title": "Basketball-Star outet sich vor Team : „Man kann Profisportler und schwul sein“",
-      "teaser": "Der australische Sportler Isaac Humphries hat sich vor seinen Teamkollegen geoutet.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/basketballer-humphries-outet-sich-vor-team-man-kann-profisportler-und-schwul-sei-81962006.bild.html",
-      "image_title": "Basketballer Humphries outet sich vor Team: „Man kann Profisportler und schwul sein“"
-    },
-    {
-      "title": "Die Begründung glauben Sie nie! : Frankreich-Kapitän will „One Love“-Binde nicht tragen",
-      "teaser": "Respekt für intolerante Geisteshandlung. Frankreichs Lloris geht eigene Wege.",
-      "url": "https://www.bild.de/sport/fussball/fifa-wm-2022/wm-2022-in-katar-aus-respekt-frankreich-kapitaen-lloris-traegt-one-love-binde-ni-81959006.bild.html",
-      "image_title": "WM 2022 in Katar: Aus Respekt! Frankreich-Kapitän Lloris trägt „One Love“-Binde nicht"
-    },
-    {
-      "title": "Anklage gegen Nuradi A. (20) erhoben : CSD-Killer ist angeblich kein Homosexuellen-Hasser",
-      "teaser": "Münster (NRW) – Die tödliche Attacke auf Malte C. (25) beim Christopher Street Day in M...",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/muenster-anklage-erhoben-csd-killer-ist-angeblich-kein-schwulen-hasser-81959584.bild.html",
-      "image_title": "Münster: Anklage erhoben – CSD-Killer ist angeblich kein Homosexuellen-Hasser"
-    },
-    {
-      "title": "Drei deutliche Signale : Daran merkt er, dass sie Gefühle für ihn hat",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/drei-deutliche-signale-daran-merkt-ein-mann-dass-eine-frau-gefuehle-fuer-ihn-hat-81897304.bild.html",
-      "image_title": "Drei deutliche Signale: Daran merkt ein Mann, dass eine Frau Gefühle für ihn hat"
-    },
-    {
-      "title": "Alarmstufe Sex : Hilfe, mein Partner ist ’ne Niete im Bett!",
-      "teaser": "Endlich hat es gefunkt und man glaubt, den Traumpartner gefunden zu haben. Alles passt!...",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/alarmstufe-sex-hilfe-mein-partner-ist-ne-niete-im-bett-81934844.bild.html",
-      "image_title": "Alarmstufe Sex: Hilfe, mein Partner ist ’ne Niete im Bett!"
-    },
-    {
-      "title": "Große BDSM-Umfrage : Diese Promis dürften beim Sex gern mal zuschlagen",
-      "teaser": "Eine Umfrage zeigt, von wem sich die Deutschen beim Sex schlagen lassen würden.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/bdsm-umfrage-diese-promis-duerften-beim-sex-gern-mal-zuschlagen-81940456.bild.html",
-      "image_title": "BDSM-Umfrage: Diese Promis dürften beim Sex gern mal zuschlagen"
-    },
-    {
-      "title": "Nach Ghosting : Warum meldet SIE sich plötzlich wieder?",
-      "teaser": "Für die einen ist Ghosting eine Form von Mobbing, für andere nur schlechter Umgang.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/nach-ghosting-warum-meldet-sie-sich-ploetzlich-wieder-81857606.bild.html",
-      "image_title": "Nach Ghosting: Warum meldet SIE sich plötzlich wieder?"
-    },
-    {
-      "title": "Unsere Sex-Wunschliste : Was Frauen im Bett wirklich wollen",
-      "teaser": "Oft sind es nur kleine Stellschrauben, die über die Qualität des Liebesspiels entscheiden.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/unsere-sex-wunschliste-was-frauen-im-bett-wirklich-wollen-81906972.bild.html",
-      "image_title": "Unsere Sex-Wunschliste: Was Frauen im Bett wirklich wollen"
-    },
-    {
-      "title": "Erotische Hightech für Männer : Diese Sextoys machen IHM Spaß",
-      "teaser": "Männer lieben Technik. Nur bei Gadgets für die Lust halten sie sich zurück.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/erotische-hightech-fuer-maenner-diese-sextoys-machen-ihn-nass-81857934.bild.html",
-      "image_title": "Erotische Hightech für Männer: Diese Sextoys machen IHM Spaß"
-    }
-  ]
+  "articles": []
 }
