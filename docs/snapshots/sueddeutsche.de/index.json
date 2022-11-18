@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-18T15:21:49",
+  "timestamp": "2022-11-18T16:29:20",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -122,11 +128,11 @@
   ],
   "articles": [
     {
-      "title": "Wenn Polizeieinsätze tödlich enden",
-      "teaser": "Mindestens 133 Menschen sind seit 2010 von Beamten erschossen worden. Die Hälfte der Opfer war psychisch auffällig. Warum mussten sie sterben?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/polizei-psychose-tod-dortmund-amsterdam-e311083/",
-      "author": "Text: A. Fischhaber, L. Kampf, S. Schlicht, N. Tausche, R. Wiegand, Illustration: S. Dimitrov",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698744/1000x420"
+      "title": "Weltretten im Praxistest",
+      "teaser": "Annalena Baerbock hat die internationale Klimapolitik erstmals ins Außenministerium geholt. In Scharm el-Scheich landet sie damit mitten in einem globalen Konflikt.",
+      "url": "https://www.sueddeutsche.de/politik/klimakonferenz-baerbock-bewaehrungsprobe-1.5698707",
+      "author": "Michael Bauchmüller und Paul-Anton Krüger, Scharm el-Scheich",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698973/1000x420"
     },
     {
       "title": "\"Fördern und Fordern vom ersten Tag an\"",
@@ -137,12 +143,46 @@
       "image_title": "Hermann Gröhe"
     },
     {
-      "title": "Speicherverband: Gasmangellage in diesem Winter ist \"äußerst unwahrscheinlich\"",
-      "teaser": "Allenfalls bei extrem niedrigen Temperaturen könne es theoretisch noch dazu kommen. Auch für den nächsten Winter geben die Experten vorsichtige Entwarnung. Das Kabinett bringt die 200-Euro-Energiepauschale für Studierende auf den Weg.",
-      "url": "https://www.sueddeutsche.de/politik/deutschland-energiekrise-liveblog-gasmangellage-habeck-1.5697476",
+      "title": "Russland baut Verteidigungslinien auf der Krim",
+      "teaser": "Nachdem die russische Armee Cherson in der Südukraine geräumt hat, verstärkt sie ihre Stellungen auf der annektierten Halbinsel. Die Kämpfe verlagern sich zunehmend in den Donbass - und keine der beiden Seiten macht nennenswerte Fortschritte.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-krim-1.5695394",
       "author": "Alle Entwicklungen im Liveblog",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698595/208x156",
-      "image_title": "Girl warms up the frozen hands above hot radiator, close up view Girl warms up the frozen hands above hot radiator, clos"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698975/208x156",
+      "image_title": "Ukraine-Krieg - Kertsch"
+    },
+    {
+      "title": "Ein Haus in Flammen",
+      "teaser": "Haben Demonstranten in Iran die frühere Wohnstätte des Republikgründers Ayatollah Chomeini angesteckt? Es sieht danach aus.",
+      "url": "https://www.sueddeutsche.de/politik/iran-hausbrand-chomeini-1.5698926",
+      "author": "Tomas Avenarius, Istabul",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5699022/208x156"
+    },
+    {
+      "title": "Steinmeier schafft Proporzorden ab",
+      "teaser": "Bisher gibt es ein Kontingent an Auszeichnungen für Bundestagsabgeordnete - sie werden nach Stärke der Fraktionen vergeben. Der Bundespräsident ändert das jetzt.",
+      "url": "https://www.sueddeutsche.de/politik/bundespraesident-bundesverdienstkreuz-bundestagsabgeordnete-1.5698813",
+      "author": "Robert Roßmann, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698814/208x156"
+    },
+    {
+      "title": "Wenn Polizeieinsätze tödlich enden",
+      "teaser": "Mindestens 133 Menschen sind seit 2010 von Beamten erschossen worden. Die Hälfte der Opfer war psychisch auffällig. Warum mussten sie sterben?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/polizei-psychose-tod-dortmund-amsterdam-e311083/",
+      "author": "Text: A. Fischhaber, L. Kampf, S. Schlicht, N. Tausche, R. Wiegand, Illustration: S. Dimitrov",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698744/600x337"
+    },
+    {
+      "title": "Und jetzt alle: \"Super Deutschland!\"",
+      "teaser": "Katar wehrt sich gegen Behauptungen, Fans für die WM gekauft zu haben. Aber: Die Eröffnungsfeier soll einer erwünschten Choreografie folgen - mithilfe von Anhängern, deren Flüge und Unterkünfte bezahlt werden.",
+      "url": "https://www.sueddeutsche.de/sport/fussball-wm-katar-fans-gekauft-vorwurf-1.5698673",
+      "author": "Sebastian Fischer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698674/600x337",
+      "image_title": "Deutschland-Fans in Doha"
+    },
+    {
+      "title": "Katar setzt Bierverbot durch",
+      "teaser": "Rund um die acht WM-Stadien darf nun doch kein alkoholisches Bier getrunken werden. Zuvor hatte unter anderem die Herrscherfamilie Katars Druck gemacht.",
+      "url": "https://www.sueddeutsche.de/sport/katar-fussball-wm-stadien-bier-verbot-fans-1.5698562"
     },
     {
       "title": "Das Millionengrab RBB",
@@ -152,39 +192,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698706/208x156"
     },
     {
-      "title": "Realpolitik nach Biden-Art",
-      "teaser": "Laut US-Regierung genießt der saudische Kronprinz diplomatische Immunität. Wegen des Mordes an Jamal Khashoggi kann er damit in den USA nicht mehr belangt werden. Kritiker sehen das als Skandal.",
-      "url": "https://www.sueddeutsche.de/politik/usa-saudi-arabien-mohammed-bin-salman-mbs-1.5698560",
-      "author": "Thomas Kirchner",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698561/208x156"
-    },
-    {
       "title": "Der Außerirdische",
       "teaser": "Elon Musk verkauft E-Autos, Raketen und Satelliteninternet. Jetzt gehört ihm Twitter. Und es fragen sich nicht nur seine Mitarbeiter: Ist der reichste Mensch der Welt auch der schlechteste Chef der Welt?",
       "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/elon-musk-twitter-tesla-e283397/",
       "author": "Max Hägler, Grünheide, und Jürgen Schmieder, Los Angeles",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698672/600x337"
-    },
-    {
-      "title": "Genau das, was Deutschland jetzt braucht",
-      "teaser": "Die Metallbranche bekommt trotz des Energieschocks und der Inflation einen Tarifabschluss hin. Das bedeutet keine weiteren Streiks, aber mehr Konsum durch höhere Löhne. So soll es sein.",
-      "url": "https://www.sueddeutsche.de/meinung/inflation-metallbranche-metall-tarifrunde-loehne-ig-metall-gaslieferstop-arbeitgeber-1.5698599",
-      "author": "Kommentar von Alexander Hagelüken",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698600/600x337"
-    },
-    {
-      "title": "\"Ich erfriere, gebt mir Holz!\"",
-      "teaser": "Lyman ist jüngst durch die ukrainischen Truppen befreit worden, doch die Stadt ist teilweise zerstört, noch immer schlagen Raketen ein. Ein Besuch bei Menschen, die kaum wissen, wie sie den Winter überstehen sollen.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/ukraine-reportage-lyman-e785388/",
-      "author": "Florian Hassel, Lyman",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698382/208x156",
-      "image_title": "In den Dörfern um Lyman sammeln die Menschen Holz für ihre Öfen. Im vergangenen Winter sank die Temperatur auf minus 22 Grad."
-    },
-    {
-      "title": "Staatsanwalt bestätigt: Nord-Stream-Explosionen waren Sabotage",
-      "teaser": "Ende September wurden vier Lecks an den beiden Gaspipelines in der Ostsee entdeckt. Analysen haben Sprengstoffspuren an den Leitungen ergeben.",
-      "url": "https://www.sueddeutsche.de/politik/schweden-nord-stream-sabotage-leck-1.5698350",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698354/208x156"
     },
     {
       "title": "Feindbild der Republikaner, von Anfang an",
@@ -195,32 +207,11 @@
       "image_title": "US President Donald Trump delivers the State of the Union address"
     },
     {
-      "title": "Katar setzt Bierverbot durch",
-      "teaser": "Rund um die acht WM-Stadien darf nun doch kein alkoholisches Bier getrunken werden. Zuvor hatte unter anderem die Herrscherfamilie Katars Druck gemacht.",
-      "url": "https://www.sueddeutsche.de/sport/katar-fussball-wm-stadien-bier-verbot-fans-1.5698562",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698563/208x156"
-    },
-    {
-      "title": "Türkei rätselt über Hintergründe des Anschlags",
-      "teaser": "Eine junge Syrerin hat die Bombe in Istanbul gelegt - unwissentlich, sagt sie. Die Regierung macht den syrisch-kurdischen Arm der PKK und die USA verantwortlich, die rechte Opposition schürt die Ausländerfeindlichkeit.",
-      "url": "https://www.sueddeutsche.de/politik/tuerkei-anschlag-pkk-1.5698627",
-      "author": "Tomas Avenarius, Istanbul",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698628/208x156",
-      "image_title": "Polizisten sperren nach der Bombenexplosion am Sonntag in Istanbul den Tatort ab. Könnten auch Islamisten für den Anschlag verantwortlich sein?"
-    },
-    {
-      "title": "Das Unglück der anderen",
-      "teaser": "Schwimmen? Kann doch jeder. Das ist ein fataler Irrglaube, die Statistik zeichnet ein völlig anderes Bild. Über eine Fähigkeit, die einst wie Laufen oder Lesen als Standard galt - und nun zum gesellschaftlichen Sorgenkind geworden ist.",
-      "url": "https://www.sueddeutsche.de/sport/schwimmen-lernen-kinder-schwimmkurs-gesellschaft-1.5696995",
-      "author": "Sebastian Winter",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5459589/600x337"
-    },
-    {
-      "title": "\"Es ist lebensgefährlich, wenn man nicht schwimmen kann\"",
-      "teaser": "Christian Tröger gewann als Schwimmer zwei WM-Titel und dreimal Olympia-Bronze. Im Interview erzählt er von der finanziellen Schere bei Schwimmkursen, langen Wartelisten, frierenden Kindern - und der ständigen Trainersuche.",
-      "url": "https://www.sueddeutsche.de/sport/schwimmen-interview-christian-troeger-schwimmkurse-trainersuche-1.5696775",
-      "author": "Interview von Sebastian Winter",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5696779/208x156"
+      "title": "Unter Musketieren",
+      "teaser": "Einer für alle: Wie der Honorarkonsul für Belarus in Italien Einfluss auf die Wahl des europäischen Fechtpräsidenten nahm.",
+      "url": "https://www.sueddeutsche.de/sport/shadow-diplomats-honorarkonsul-italien-belarus-fechten-europaeische-fechtfoederation-1.5698779",
+      "author": "Mauritius Much und Natalie Sablowski",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698793/208x156"
     },
     {
       "title": "\"Am Ziel sind wir erst, wenn es das Atelier nicht mehr braucht\"",
@@ -238,39 +229,32 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5697743/208x156"
     },
     {
-      "title": "Kraftklub in München: Ein tiefdeutsches Gefühl",
-      "teaser": "Bei ihrem Konzert im Zenith präsentiert die Band die Songs ihres neuen Albums \"Kargo\". Mit Wucht - und einer politischen Botschaft.",
-      "url": "https://www.sueddeutsche.de/muenchen/kraftklub-muenchen-zenith-konzert-kritik-1.5698493",
-      "author": "Stefan Sommer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5667480/208x156"
+      "title": "Dem Mars ganz nahe",
+      "teaser": "Adele macht Alien-Erfahrungen, Tom Hanks hat keine Tischmanieren, und Regisseur Baran bo Odar findet Komödien einfach nicht zeitgemäß.",
+      "url": "https://www.sueddeutsche.de/panorama/prominews-promis-maria-hoefl-riesch-tim-allen-tom-hanks-netflix-baran-bo-odar-adele-aminata-toure-1.5698731",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698736/208x156"
     },
     {
-      "title": "Endlich ein echter It-Drink",
-      "teaser": "Der Cocktail der Stunde - auf Tiktok wie am Tresen - ist Negroni Sbagliato, eine Variante des italienischen Klassikers mit Prosecco statt Gin. Höchste Zeit für mehr Aufmerksamkeit, dieser leichte, schön balancierte Drink ist oft der bessere Negroni.",
-      "url": "https://www.sueddeutsche.de/stil/negroni-sbagliato-emma-d-arcy-house-of-the-dragon-1.5697597",
-      "author": "Kathrin Hollmer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5697598/600x337"
+      "title": "Fallen finden",
+      "teaser": "Die Dokumentation \"Black Mambas\" zeigt schwarze südafrikanische Frauen im Anti-Wilderei-Einsatz - zwischen Selbstbestimmung und Ausbeutung.",
+      "url": "https://www.sueddeutsche.de/kultur/black-mambas-kritik-rezension-kinostart-1.5698326",
+      "author": "Doris Kuhn",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698327/600x337",
+      "image_title": "Black Mambas"
     },
     {
-      "title": "Die jüdische Demokratie ist in Gefahr, doch die Bundesregierung schaut weg",
-      "teaser": "Israels Sicherheit ist Teil deutscher Staatsräson. Nun verbündet sich Netanjahu mit Rechtsextremen. Und deutsche Politiker müssen sich überlegen, ob sie sich mit solchen Ministern fotografieren lassen.",
-      "url": "https://www.sueddeutsche.de/meinung/israel-deutschland-rechtsextremismus-netanjahu-1.5697028",
-      "author": "Gastkommentar von Meron Mendel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5697029/208x156"
+      "title": "Brokkoli? Nicht mit den Bauern von Bentheim",
+      "teaser": "Eine evangelische Kirche will nur noch vegetarisches Essen servieren. Und nun ist was los.",
+      "url": "https://www.sueddeutsche.de/meinung/vegetarisches-gesamtsynode-grafschaft-bentheim-bauern-katar-1.5698849",
+      "author": "Kommentar von Detlef Esslinger",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698850/208x156"
     },
     {
-      "title": "Ein Diktator strebt nach Größerem",
-      "teaser": "Nach zwei Jahren Krieg und Hunderttausenden Toten haben die äthiopischen Konfliktparteien einen Friedensvertrag geschlossen. Nur eine Unterschrift fehlt. Eine, ohne die Frieden nicht möglich sein wird.",
-      "url": "https://www.sueddeutsche.de/meinung/eritrea-aethiopien-isaias-afwerki-buergerkrieg-1.5697947",
-      "author": "Bernd Dörries",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5697948/208x156"
-    },
-    {
-      "title": "Erleuchtung bis zum Absturz",
-      "teaser": "Eine hauseigene App gehört zum Inventar eines jeden Museums, das sich modern und digital präsentieren will. Aber welchen Mehrwert bieten die digitalen Führerinnen und funktionieren sie überhaupt? Zwei neue Münchner Museums-Apps im Test.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-museum-app-pinakothek-deutsches-museum-moderne-1.5698758",
-      "author": "Greta Hüllmann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698760/208x156"
+      "title": "Genau das, was Deutschland jetzt braucht",
+      "teaser": "Die Metallbranche bekommt trotz des Energieschocks und der Inflation einen Tarifabschluss hin. Das bedeutet keine weiteren Streiks, aber mehr Konsum durch höhere Löhne. So soll es sein.",
+      "url": "https://www.sueddeutsche.de/meinung/inflation-metallbranche-metall-tarifrunde-loehne-ig-metall-gaslieferstop-arbeitgeber-1.5698599",
+      "author": "Kommentar von Alexander Hagelüken",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698600/208x156"
     },
     {
       "title": "NS-Spruch unter Denkmalschutz",
@@ -285,6 +269,12 @@
       "url": "https://www.sueddeutsche.de/muenchen/kull-weinzierl-riva-pizzeria-riva-bar-gardasee-1.5698690",
       "author": "Franz Kotteder",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698692/208x156"
+    },
+    {
+      "title": "Strafbefehle gegen Klima-Aktivisten",
+      "teaser": "Zwei Vertreter der \"Letzten Generation\" hatten sich am Rahmen eines Rubens-Gemäldes festgeklebt. Nun könnte es teuer für die Aktivisten werden.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-letzte-generation-klebe-aktion-pinakothek-strafbefehl-1.5698316",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698318/208x156"
     },
     {
       "title": "Schockierende Abrechnungen: Was Gaskunden jetzt tun können",
@@ -335,16 +325,24 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5694282/208x156"
     },
     {
+      "title": "Anpfiff in Katar: WM der Doppelmoral",
+      "teaser": "Eine der irrwitzigsten Fußball-Weltmeisterschaften aller Zeiten startet. Wie Katar das Großereignis für sich nutzen will.",
+      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-katar-wm-der-doppelmoral-fussball-wm-1.5699021",
+      "author": "Lars Langenau und Dunja Ramadan",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5605764/208x156"
+    },
+    {
       "title": "Schüsse auf Rabbinerhaus bei Essener Synagoge",
       "teaser": "Auf die verglaste Eingangstür eines Rabbinerhauses sind mindestens vier Schüsse abgegeben worden. Die Polizei fahndet nach einem männlichen Täter. Innenminister Reul spricht von einem Anschlag.",
       "url": "https://www.sueddeutsche.de/politik/rabbinerhaus-essen-synagoge-anschlag-1.5698720",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698721/208x156"
     },
     {
-      "title": "Klimakonferenz in Ägypten wird verlängert",
-      "teaser": "Die Verhandlungen in Scharm el-Scheich haken an vielen Ecken und Enden. Doch beim größten Streitpunkt könnte sich jetzt etwas tun. Außenministerin Baerbock hat sich darauf eingestellt, das ganze Wochenende zu bleiben.",
-      "url": "https://www.sueddeutsche.de/politik/klimakonferenz-klimagipfel-scharm-el-scheich-ausgleichszahlungen-aegypten-1.5698329",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698372/208x156"
+      "title": "Weißes Geisterhaus",
+      "teaser": "Am Samstag feiert Joe Bidens Enkelin Naomi ihre Hochzeit in Opas Amtssitz. Ein gutes Omen? Nicht unbedingt, wenn man all den Spukgeschichten Glauben schenkt.",
+      "url": "https://www.sueddeutsche.de/panorama/weisses-haus-usa-joe-biden-naomi-biden-hochzeit-white-house-washigton-spuk-geister-1.5698966",
+      "author": "Peter Burghardt, Washington",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698971/208x156"
     },
     {
       "title": "Die besten Rekorde-Erfinder der Welt",
@@ -359,12 +357,6 @@
       "teaser": "Nach einer Kollision zweier Güterzüge in Niedersachsen entweicht explosives Propangas. Im Fernverkehr kommt es wohl bis 27. November oder länger zu Verspätungen und Zugausfällen.",
       "url": "https://www.sueddeutsche.de/panorama/bahn-berlin-hannover-sperrung-unfall-gifhorn-propangas-1.5698309",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698310/208x156"
-    },
-    {
-      "title": "Dem Mars ganz nahe",
-      "teaser": "Adele macht Alien-Erfahrungen, Tom Hanks hat keine Tischmanieren, und Regisseur Baran bo Odar findet Komödien einfach nicht zeitgemäß.",
-      "url": "https://www.sueddeutsche.de/panorama/prominews-promis-maria-hoefl-riesch-tim-allen-tom-hanks-netflix-baran-bo-odar-adele-aminata-toure-1.5698731",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698736/208x156"
     },
     {
       "title": "Warum arbeiten?",
@@ -388,10 +380,10 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698871/208x156"
     },
     {
-      "title": "Russlands Bombardements: \"Die Ukraine soll nicht mehr überlebensfähig sein\"",
-      "teaser": "Die russische Armee hat ihre Angriffe auf die Ukraine wieder verstärkt. Welche Ziele sie gerade besonders ins Visier nimmt - und warum.",
-      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-krieg-in-der-ukraine-die-ukraine-soll-nicht-mehr-ueberlebensfaehig-sein-1.5698053",
-      "author": "Florian Hassel und Lars Langenau",
+      "title": "Anpfiff in Katar: WM der Doppelmoral",
+      "teaser": "Eine der irrwitzigsten Fußball-Weltmeisterschaften aller Zeiten startet. Wie Katar das Großereignis für sich nutzen will.",
+      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-katar-wm-der-doppelmoral-fussball-wm-1.5699021",
+      "author": "Lars Langenau und Dunja Ramadan",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5605764/208x156"
     },
     {
@@ -425,25 +417,39 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5681648/208x156"
     },
     {
-      "title": "Mehr Kiez wagen",
-      "teaser": "Elon Musk hat eine Vision für Twitter, nur leider die falsche: Der \"digitalen Stadtplatz\" ist zwar eine der Lieblingsmetaphern des Silicon Valley - doch die Zukunft könnte in mehr Abkapselung liegen.",
-      "url": "https://www.sueddeutsche.de/kultur/twitter-mastodon-musk-1.5698832",
-      "author": "Joshua Beer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698833/208x156"
+      "title": "Wieso wiederholt sich das Grauen?",
+      "teaser": "Die Münchner Kammerspiele zeigen ein Konzert über den Künstler Boris Lurie, der vier Jahre in deutschen KZs überlebte. Dazu ein ukrainisches Stück über Hungersnot und den Aufstieg Hitlers.",
+      "url": "https://www.sueddeutsche.de/kultur/muenchner-kammerspiele-boris-lurie-ukraine-1.5698927",
+      "author": "Egbert Tholl",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698929/208x156"
     },
     {
-      "title": "Wer ist ihr Mörder?",
-      "teaser": "Das Diözesanmuseum Freising zeigt in seiner Sonderausstellung \"Tanz auf dem Vulkan\" eine erst vor 30 Jahren aufgetauchte \"Medusa\" von Caravaggio. Die Show ist ein echter Krimi.",
-      "url": "https://www.sueddeutsche.de/kultur/medusa-gemaelde-caravaggio-freising-rezension-1.5692958",
-      "author": "Reinhard J. Brembeck",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5692960/208x156"
+      "title": "Die verdammte Partei",
+      "teaser": "Triumph und Tragik der Sozialdemokraten: Wie die SPD fast immer auf die Schnauze kriegt - ein historisches Kalenderblatt zum Wahlerfolg Willy Brandts im November 1972 .",
+      "url": "https://www.sueddeutsche.de/kultur/spd-1972-1.5698835",
+      "author": "Willi Winkler",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698885/208x156"
     },
     {
-      "title": "Was läuft wo?",
-      "teaser": "Am 20. November startet die WM in Katar: Welcher Sender wann welche Spiele überträgt. Ein Überblick.",
-      "url": "https://www.sueddeutsche.de/medien/fussball-wm-katar-sendezeiten-wm-weltmeisterschaft-tv-1.5697620",
-      "author": "Lilly Brosowsky",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.4955316/208x156"
+      "title": "Murdochs Medien und der \"Mann aus Florida\"",
+      "teaser": "Die \"New York Post\" witzelt über Donald Trump und selbst Fox News scheint sich vom ehemaligen Präsidenten abzuwenden.",
+      "url": "https://www.sueddeutsche.de/medien/usa-donald-trump-murdoch-fox-new-york-post-1.5698959",
+      "author": "Leo Kilz",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698960/208x156"
+    },
+    {
+      "title": "Das Unglück der anderen",
+      "teaser": "Schwimmen? Kann doch jeder. Das ist ein fataler Irrglaube, die Statistik zeichnet ein völlig anderes Bild. Über eine Fähigkeit, die einst wie Laufen oder Lesen als Standard galt - und nun zum gesellschaftlichen Sorgenkind geworden ist.",
+      "url": "https://www.sueddeutsche.de/sport/schwimmen-lernen-kinder-schwimmkurs-gesellschaft-1.5696995",
+      "author": "Sebastian Winter",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5459589/208x156"
+    },
+    {
+      "title": "\"Es ist lebensgefährlich, wenn man nicht schwimmen kann\"",
+      "teaser": "Christian Tröger gewann als Schwimmer zwei WM-Titel und dreimal Olympia-Bronze. Im Interview erzählt er von der finanziellen Schere bei Schwimmkursen, langen Wartelisten, frierenden Kindern - und der ständigen Trainersuche.",
+      "url": "https://www.sueddeutsche.de/sport/schwimmen-interview-christian-troeger-schwimmkurse-trainersuche-1.5696775",
+      "author": "Interview von Sebastian Winter",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5696779/208x156"
     },
     {
       "title": "\"Messi findet Zufriedenheit im Einfachen, Neymar im Schwierigen\"",
@@ -453,17 +459,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698237/208x156"
     },
     {
-      "title": "Sadio Mané verpasst die WM",
-      "teaser": "Afrikas Fußballer des Jahres fällt für das gesamte Turnier aus, das verkündet der Senegal am Donnerstag. Der Bayern-Stürmer wurde bereits erfolgreich operiert.",
-      "url": "https://www.sueddeutsche.de/sport/sadio-mane-verletzung-ausfall-operation-senegal-1.5698255",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698256/208x156"
-    },
-    {
-      "title": "Die Sorge fährt mit im Bob",
-      "teaser": "Pilot Francesco Friedrich erlebt eine widersprüchliche Zeit. Er kann 2026 in Cortina Rekordsieger werden, bangt aber um die Existenz seines gesamten Sports.",
-      "url": "https://www.sueddeutsche.de/sport/bob-wintersport-francesco-friedrich-1.5698086",
-      "author": "Volker Kreisl",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5529094/208x156"
+      "title": "Die Hoffnung stirbt zuletzt",
+      "teaser": "Alles halb so wild mit dem Klima, denn unsere ganze Menschheitsgeschichte ist ja eine Geschichte der Anpassung? Das stimmt leider nur so halb.",
+      "url": "https://www.sueddeutsche.de/wissen/klimakolumne-anpassung-menschheitsgeschichte-1.5698962",
+      "author": "Jakob Wetzel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698963/208x156"
     },
     {
       "title": "Viele Haie stehen jetzt unter Schutz",
@@ -471,12 +471,6 @@
       "url": "https://www.sueddeutsche.de/wissen/hai-blauhai-cites-weltartenschutz-konferenz-finning-hammerhai-1.5698665",
       "author": "Tina Baier",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5698667/208x156"
-    },
-    {
-      "title": "Kann ein Endlager dem Klimawandel trotzen?",
-      "teaser": "Trotz Erdbeben, Vergletscherung und Überschwemmungen: Forscher meinen, es könne einen sicheren Ort für radioaktiven Müll geben. Die Lösung liegt in der Tiefe.",
-      "url": "https://www.sueddeutsche.de/wissen/atommuell-endlager-klimawandel-1.5698498",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698500/208x156"
     },
     {
       "title": "Wie familiäre Essgewohnheiten das ganze Leben prägen",
