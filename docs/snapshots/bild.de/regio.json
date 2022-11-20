@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-20T16:28:30",
+  "timestamp": "2022-11-20T17:18:01",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,380 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.a99389ba.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.2f2cf296.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.951bd6f7.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.068cf038.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fcaec5ae.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.fe8714ee.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Die große „Wetten, dass ..?“-Debatte : Riesen-Show oder Total-Blamage?",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/wetten-dass-die-grosse-debatte-riesen-show-oder-total-blamage-82001468.bild.html",
-      "image_title": "„Wetten, dass ..?“: Die große Debatte: Riesen-Show oder Total-Blamage?"
-    },
-    {
-      "title": "22-Jähriger in U-Haft : Touristin (23) in Ferienwohnung erstochen",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/frau-23-erstochen-mutmasslicher-killer-festgenommen-81991758.bild.html",
-      "image_title": "22-Jähriger in U-Haft: Touristin (23) in Ferienwohnung erstochen"
-    },
-    {
-      "title": "Schmuddel-Wetter bei bis zu 14 Grad : Winter ade am ersten Advent",
-      "url": "https://www.bild.de/news/wetter/wetter/schmuddel-wetter-bei-bis-zu-14-grad-winter-ade-am-ersten-advent-81999412.bild.html",
-      "image_title": "Schmuddel-Wetter bei bis zu 14 Grad!: Winter ade am ersten Advent"
-    },
-    {
-      "title": "Wintereinbruch! : Räumfahrzeug auf spiegelglatter Straße verunglückt",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/fahrer-ins-krankenhaus-raeumfahrzeug-verunglueckt-82000744.bild.html",
-      "image_title": "Fahrer ins Krankenhaus: Räumfahrzeug verunglückt"
-    },
-    {
-      "title": "Von Knackis Gebasteltes : Winter-Basar in der JVA Tegel",
-      "teaser": "Auf dem Knastgelände verkauften Beamte von Häftlingen gefertigte Winterdeko.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/von-knackis-gebasteltes-winter-basar-in-der-jva-tegel-81996126.bild.html",
-      "image_title": "Von Knackis Gebasteltes: Winter-Basar in der JVA Tegel"
-    },
-    {
-      "title": "Hells-Angels-Boss befiehlt aus dem Knast : Das geheime Netzwerk der gefährlichen Rocker",
-      "teaser": "Seit 2014 sitzt Kadir Padir in der JVA Moabit. Von hier aus steuerte er mit einem Handy seine 40 Gang-Mitglieder.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/hells-angels-boss-kadir-padir-das-geheime-netzwerk-der-boesen-rocker-81988910.bild.html",
-      "image_title": "Hells-Angels-Boss Kadir Padir: Das geheime Netzwerk der bösen Rocker"
-    },
-    {
-      "title": "6,3 Mio. Gewinn, aber noch 14 Mio. Miese : Werder will 2028 schuldenfrei sein",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-6-3-millionen-gewinn-werder-will-2028-ohne-schulden-sein-81999596.bild.html",
-      "image_title": "Werder Bremen: 6,3 Millionen Gewinn! Werder will 2028 ohne Schulden sein"
-    },
-    {
-      "title": "Landkreis Oldenburg : Holzhaus und Kleintransporter in Flammen",
-      "teaser": "Im Bremer Umland kam es am Wochenende zu Großbränden.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/landkreis-oldenburg-holzhaus-und-kleintransporter-in-flammen-82004350.bild.html",
-      "image_title": "Landkreis Oldenburg: Holzhaus und Kleintransporter in Flammen"
-    },
-    {
-      "title": "Raus aus Geschäftsführung : Werder-Präsi jetzt nur noch Aufsichtsrat",
-      "teaser": "Der Präsident bleibt Präsident, hat aber ab sofort eine neue Rolle!",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-raus-aus-geschaeftsfuehrung-praesident-jetzt-nur-noch-aufsichtsrat-82001418.bild.html",
-      "image_title": "Werder Bremen: Raus aus Geschäftsführung! Präsident jetzt nur noch Aufsichtsrat"
-    },
-    {
-      "title": "Vor Aue-Pokalspiel in Bautzen : Ekel-Anschlag mit Buttersäure und Fischköpfen",
-      "url": "https://www.bild.de/regional/dresden/fussball/sachsenpokal-buttersaeure-anschlag-auf-auer-gaesteblock-81993864.bild.html",
-      "image_title": "Sachsenpokal: Buttersäure-Anschlag auf Auer-Gästeblock"
-    },
-    {
-      "title": "Kostüme des Weihnachtsfilms zu sehen : „Aschenbrödel“-Fans stürmen DDR-Filmkulisse",
-      "teaser": "Etwa 20 Originalkostüme aus dem Fundus der Filmstudios sind die hier u.a. ausgestellt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/ausstellung-zum-weihnachtsfilm-aschenbroedel-fans-stroemen-ddr-filmkulisse-82003134.bild.html",
-      "image_title": "Ausstellung zum Weihnachtsfilm: „Aschenbrödel“-Fans stürmen DDR-Filmkulisse"
-    },
-    {
-      "title": "Verfassungsschutz : „Heißer Herbst“ kühlt deutlich ab",
-      "teaser": "Der Verfassungsschutz in Sachsen sieht die Protestwelle gegen die Regierung abebben.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/verfassungsschutz-sieht-protestwelle-abebben-heisser-herbst-kuehlt-deutlich-ab-81998776.bild.html",
-      "image_title": "Verfassungsschutz sieht Protestwelle abebben: „Heißer Herbst“ kühlt deutlich ab"
-    },
-    {
-      "title": "Feuerwehrmann Wolfgang Wenzel packt aus : „Ich musste drei Kilometer zum Unfall laufen“",
-      "url": "https://www.bild.de/regional/leipzig/news-inland/feuerwehrmann-ich-musste-drei-kilometer-zur-unfallstelle-laufen-81996264.bild.html",
-      "image_title": "Feuerwehrmann: „Ich musste drei Kilometer zur Unfallstelle laufen“"
-    },
-    {
-      "title": "Volkskünstler leiden unter Sanktionen : Ohne Russen-Holz gehen die Lichter aus",
-      "teaser": "Oberwiesenthal (Sachsen) – Am Montag werden die Stuben angeputzt, wird die Advents-Deko aus dem Keller geholt oder neu gekauft. Hoch...",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/erzgebirge-ohne-russen-holz-gehen-die-lichter-aus-81991186.bild.html",
-      "image_title": "Erzgebirge: Ohne Russen-Holz gehen die Lichter aus"
-    },
-    {
-      "title": "Arslan hat trotz seiner Tore Reserven : Der umgekehrte Dynamo-Fall",
-      "teaser": "Viel Aufwand, wenig Nutzen: Ein Grund für Dynamos Talfahrt ist die Uneffektivität. Einzige Ausnahme: Ahmet Arslan (28).",
-      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-torjaeger-ahmet-arslan-hat-noch-reserven-81992014.bild.html",
-      "image_title": "Dynamo Dresden: Torjäger Ahmet Arslan hat noch Reserven"
-    },
-    {
-      "title": "Gala für den guten Zweck in Castrop-Rauxel : Warum Uli Hoeneß gern ins Ruhrgebiet kam",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/gala-in-castrop-rauxel-stiftung-feiert-uli-hoeness-und-bild-81999066.bild.html",
-      "image_title": "Gala in Castrop-Rauxel: Stiftung feiert Uli Hoeneß und BILD"
-    },
-    {
-      "title": "Farke adelt den Kabinen-König : Liebeserklärung an Kramer",
-      "teaser": "Weltmeister Christoph Kramer (31) hat jetzt wieder einen Lauf...",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/farke-adelt-den-kabinen-koenig-von-gladbach-liebeserklaerung-an-kramer-82004134.bild.html",
-      "image_title": "Farke adelt den Kabinen-König von Gladbach: Liebeserklärung an Kramer"
-    },
-    {
-      "title": "Um nicht ganz auf Fußball zu verzichten : Gladbach-Fans planen 4. Liga statt WM!",
-      "teaser": "Ein WM-Boykott ist auch bei den organisierten Gladbach-Fans ein großes Thema",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-gladbach-fans-planen-4-liga-statt-wm-81991782.bild.html",
-      "image_title": "Borussia Mönchengladbach: Gladbach-Fans planen 4. Liga statt WM!"
-    },
-    {
-      "title": "Großeinsatz! : Vater fährt mit Tochter in Baugrube",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/simmertal-grosseinsatz-vater-faehrt-mit-tochter-in-baugrube-81998770.bild.html",
-      "image_title": "Simmertal – Großeinsatz!: Vater fährt mit Tochter in Baugrube"
-    },
-    {
-      "title": "Raubüberfall : Mann von Jugendlichen mit Waffen bedroht",
-      "teaser": "Ein Mann (18) ist in Mannheim von zwei Jugendlichen mit einem Messer bedroht worden.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/raubueberfall-in-mannheim-mann-von-jugendlichen-mit-waffen-bedroht-81999724.bild.html",
-      "image_title": "Raubüberfall in Mannheim: Mann von Jugendlichen mit Waffen bedroht"
-    },
-    {
-      "title": "Randale bei Blutprobe : Betrunkener rauscht mit Auto in Bach",
-      "teaser": "In Rheinland-Pfalz hat ein Betrunkener seinen Wagen in einen Bach gesetzt.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/neustadt-randale-bei-blutprobe-betrunkener-parkt-auto-im-bach-81998746.bild.html",
-      "image_title": "Neustadt – Randale bei Blutprobe: Betrunkener parkt Auto im Bach"
-    },
-    {
-      "title": "Gegen K.o.-Maschine Makhmudov : Wallisch will's noch mal wissen!",
-      "url": "https://www.bild.de/sport/mehr-sport/boxen/boxen-michael-wallisch-traut-sich-gegen-arslanbek-makhmudov-82001986.bild.html",
-      "image_title": "Boxen: Michael Wallisch traut sich gegen Arslanbek Makhmudov"
-    },
-    {
-      "title": "Parteitage im Norden : FDP hat neuen Chef",
-      "teaser": "Auf dem FDP-Landesparteitag wurde Oliver Kumbartzky (41) zum neuen Chef gewählt.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/parteitage-im-norden-fdp-hat-neuen-chef-82000640.bild.html",
-      "image_title": "Parteitage im Norden: FDP hat neuen Chef"
-    },
-    {
-      "title": "Großes Hallo beim Video-Dreh : Gönn Dir Hamburg, Twenty4Tim!",
-      "teaser": "Mega-Alarm um Internet-Star „twenty4tim“ an der Elphi!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/grosses-hallo-beim-video-dreh-des-internet-superstars-goenn-dir-hamburg-twenty4t-82000614.bild.html",
-      "image_title": "Großes Hallo beim Video-Dreh des Internet-Superstars: Gönn Dir Hamburg, Twenty4Tim!"
-    },
-    {
-      "title": "Hannover-Trainer Prokop : Kampfansage an Top-6 der Bundesliga",
-      "url": "https://www.bild.de/sport/mehr-sport/handball/hannover-trainer-christian-prokop-beharrlich-an-tuer-zu-top-6-klopfen-81980418.bild.html",
-      "image_title": "TSV Hannover-Burgdorf: Christian Prokop: Kampfansage an Top 6"
-    },
-    {
-      "title": "Nach dem Klopp-Gerücht : 96-Liebeserklärung von Zieler",
-      "teaser": "Der Weltmeister sieht seine Zukunft bei 96 und in seiner Wahlheimat Hannover.",
-      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-liebeserklaerung-von-ron-robert-zieler-nach-dem-liverpool-geruecht-82002802.bild.html",
-      "image_title": "Hannover 96: Liebeserklärung von Ron-Robert Zieler nach dem Liverpool-Gerücht"
-    },
-    {
-      "title": "Torjäger in der 4. Liga : Bayern-Flop treibt Talente an",
-      "teaser": "Gegen Delmenhorst erzielte dieser Ex-Bayer schon sein elftes Saisontor.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/hannover-96/hannover-96-torjaeger-in-der-4-liga-bayern-flop-treibt-die-96-talente-an-82002208.bild.html",
-      "image_title": "Hannover 96: Torjäger in der 4. Liga! Bayern-Flop treibt die 96-Talente an"
-    },
-    {
-      "title": "Sie war zu arm für eine Busfahrkarte : Flaschensammlerin Elsbeth (†96) gestorben",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/zu-arm-fuer-eine-busfahrkarte-flaschensammlerin-elsbeth-96-gestorben-82005248.bild.html",
-      "image_title": "Zu arm für eine Busfahrkarte: Flaschensammlerin Elsbeth (96) gestorben"
-    },
-    {
-      "title": "Haariger Fund in Bonn : Happy End für ausgesetzte Vogelspinne „Alma“",
-      "teaser": "Im Botanischen Garten Bonn fand ein Schülerpraktikant eine Vogelspinne.",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/botanischer-garten-bonn-schueler-fand-vogelspinne-alma-happy-end-82002918.bild.html",
-      "image_title": "Botanischer Garten Bonn: Schüler fand Vogelspinne „Alma“ – Happy End"
-    },
-    {
-      "title": "Kölns Ex-Star über sein USA-Leben : CZICHOS >> Ich bin hier der Vorzeige-Ami!",
-      "teaser": "Kölns Ex-Abwehrchef Rafael Czichos (32) erzählt in BILD seinen USA-Traum.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-czichos-ich-bin-hier-der-vorzeige-ami-82002710.bild.html",
-      "image_title": "1. FC Köln: CZICHOS >> Ich bin hier der Vorzeige-Ami!"
-    },
-    {
-      "title": "Winterliche Straßen sorgen für Glätte : Auto rutscht unter Lkw – zwei Tote",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-auto-kracht-unter-lkw-zwei-tote-81992522.bild.html",
-      "image_title": "Unfall: Auto kracht unter Lkw - zwei Tote"
-    },
-    {
-      "title": "Verletzung doch schlimmer : Leipzig-Star Nkunku fällt wochenlang aus",
-      "teaser": "Nach dem WM-Aus folgt für Christopher Nkunku der Diagnoseschock!",
-      "url": "https://www.bild.de/sport/fussball/rb-leipzig/rb-leipzig-frankreich-star-christopher-nkunku-faellt-wochenlang-aus-81989588.bild.html",
-      "image_title": "RB Leipzig: Frankreich-Star Christopher Nkunku fällt wochenlang aus"
-    },
-    {
-      "title": "Verena Kerth und Terenzi : Ein Antrag? Marc zwinkert",
-      "teaser": "Verena Kerth (41) und Marc Terenzi (44) turtelten jetzt beim Brautausstatter.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-verena-kerth-und-marc-terenzi-turteln-beim-brautausstatter-81986284.bild.html",
-      "image_title": "Marc Terenzi und Verena Kerth: Hören wir bald Hochzeitsglocken?"
-    },
-    {
-      "title": "Hansas Transferzeugnis : Nur zwei schlugen ein",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/hansa-rostock/hansas-transferzeugnis-nur-zwei-schlugen-ein-82004402.bild.html",
-      "image_title": "Hansas Transferzeugnis: Nur zwei schlugen ein"
-    },
-    {
-      "title": "Nach dem Crash lief er auf Socken weg : Regio-Zug haut Mann aus den Schuhen",
-      "teaser": "In Stralsund wurde ein Mann vom Zug erfasst. Er lief nach dem Crash barfuß davon.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/nach-dem-crash-lief-er-auf-socken-weg-regio-zug-haut-mann-aus-den-schuhen-81999050.bild.html",
-      "image_title": "Stralsund: Mann läuft nach Zug-Crash barfuß weg – lässt Schuhe zurück"
-    },
-    {
-      "title": "Hansa-Überraschung Dressel : Nur ein Tor fehlt ihm zum Glück",
-      "teaser": "Er war die positive Überraschung bei Zweitligist Rostock: Mittelfeldmann Dennis Dressel!",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-ueberraschung-dressel-nur-ein-tor-fehlt-ihm-zum-glueck-81988520.bild.html",
-      "image_title": "Hansa-Überraschung Dressel: Nur ein Tor fehlt ihm zum Glück"
-    },
-    {
-      "title": "19 Prozent mehr Todesfälle! : Warum starben im Oktober so viele Menschen?",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/uebersterblichkeit-von-19-prozent-warum-starben-im-oktober-so-viele-menschen-81998952.bild.html",
-      "image_title": "Übersterblichkeitt: Warum starben im Oktober 2022 so viele Menschen?"
-    },
-    {
-      "title": "Getarnte Radarfallen : Ist Bußgeld vom Blitzer ohne Kennzeichen legal?",
-      "teaser": "Kein TÜV und Kennzeichen – für Autofahrer verboten. Doch was gilt für mobile Blitzer?",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/getarnte-radarfallen-ist-bussgeld-vom-blitzer-ohne-kennzeichen-legal-81959762.bild.html",
-      "image_title": "Getarnte Radarfallen: Ist Bußgeld vom Blitzer ohne Kennzeichen legal?"
-    },
-    {
-      "title": "Staatsschutz ermittelt : Schon wieder brennen Autos in München!",
-      "teaser": "Neubiberg – Wieder brennen zwei Autos, diesmal in der Nacht auf einem Parkplatz.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/staatsschutz-ermittelt-schon-wieder-brennen-autos-in-muenchen-82003266.bild.html",
-      "image_title": "Staatsschutz ermittelt : Schon wieder brennen Autos in München!"
-    },
-    {
-      "title": "Hecking verkündet auf JHV : Saison-Aus für Mathenia und Wekesser!",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-saison-aus-fuer-christian-mathenia-und-erik-wekesser-82002660.bild.html",
-      "image_title": "FCN: Saison-Aus für Christian Mathenia und Erik Wekesser!"
-    },
-    {
-      "title": "Bundesministzer Özdemir : Keine Angst vor Schlangen",
-      "teaser": "Cem Özdemir hat nach eigenen Worten einen guten Draht zu Tieren.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/bundesministzer-oezdemir-keine-angst-vor-schlangen-82003108.bild.html",
-      "image_title": "Bundesministzer Özdemir: Keine Angst vor Schlangen"
-    },
-    {
-      "title": "Ex-Aufsichtsrat hatte 4 JHV-Anträge : Koch-Show brachte Grethlein fast zum Rücktritt",
-      "teaser": "Alles zur ersten Jahreshauptversammlung in Präsenz seit 2019.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-koch-show-brachte-grethlein-fast-zum-ruecktritt-82002492.bild.html",
-      "image_title": "FCN: Koch-Show brachte Grethlein fast zum Rücktritt"
-    },
-    {
-      "title": "Nach Schüssen auf Synagoge in Essen : Mantrailer-Hund sucht nach Spur auf Autobahn",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/schuesse-auf-synagoge-in-essen-polizei-sperrt-und-durchsucht-die-autobahn-40-82002886.bild.html",
-      "image_title": "Schüsse auf Synagoge: Polizei sperrt und durchsucht die Autobahn 40"
-    },
-    {
-      "title": "So trauert Johannas (21) Mami : „Du fehlst uns allen so sehr, in jeder Sekunde“",
-      "teaser": "Es sind herzzerbrechende Zeilen von Johannas Mutter, die sie auf einer Gedenkseite teilt.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/mord-an-krankenschwester-in-warendorf-so-trauert-johannas-mutter-81991842.bild.html",
-      "image_title": "Mord an Johanna in Warendorf – Mutter trauert: „Du fehlst uns allen so sehr“"
-    },
-    {
-      "title": "Blutiger Streit vor Kneipe : Mann rammt Klinge in Hals und Bauch der Opfer",
-      "teaser": "Ein Streit in einer Kneipe in Lemgo endete blutig.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/streit-vor-kneipe-mann-rammt-klinge-in-hals-und-bauch-der-opfer-82002288.bild.html",
-      "image_title": "Streit vor Kneipe: Mann rammt Klinge in Hals und Bauch der Opfer"
-    },
-    {
-      "title": "Messer-Attacke in Saarlouis : Blutiger Streit unter Nachbarn",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/messer-attacke-in-saarlouis-blutiger-streit-unter-nachbarn-82001846.bild.html",
-      "image_title": "Messer-Attacke in Saarlouis: Blutiger Streit unter Nachbarn"
-    },
-    {
-      "title": "Korruptionsvorwürfe : Saarbrücker OB unter Druck",
-      "teaser": "OB Uwe Conradt (CDU) gerät als Aufsichtsvorsitzender der GIU unter Druck.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/korruptionsvorwuerfe-bei-giu-spd-und-fdp-fordern-aufklaerung-von-stadt-82002164.bild.html",
-      "image_title": "Korruptionsvorwürfe bei GIU: SPD und FDP fordern Aufklärung von Stadt"
-    },
-    {
-      "title": "Entscheidung gefallen : Ziehl bleibt bis Sommer FCS-Trainer",
-      "teaser": "Endlich! Die Trainer-Entscheidung beim 1. FC Saarbrücken ist gefallen. Die Hintergründe",
-      "url": "https://www.bild.de/sport/fussball/fussball/1-fc-saarbruecken-ziehl-bleibt-bis-sommer-fcs-trainer-82001550.bild.html",
-      "image_title": "1. FC Saarbrücken: Ziehl bleibt bis Sommer FCS-Trainer"
-    },
-    {
-      "title": "Mercedes-Fahrer (21) in Magdeburg verunglückt : Mädchen (17) stirbt bei Horror-Crash",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-17-jaehrige-stirbt-bei-horror-crash-in-magdeburg-81991802.bild.html",
-      "image_title": "Unfall bei Magdeburg: Mercedes kracht gegen Ampel und Baum – Mädchen (17) tot!"
-    },
-    {
-      "title": "Bis zu 10 cm Neuschnee im Harz : Der Winter schneit in Sachsen-Anhalt herein",
-      "teaser": "Wintereinbruch in Sachsen-Anhalt! Im Harz rechnen Wetterexperten in den nächsten Tagen mit bis zu zehn Zentimetern Neuschnee.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/winter-schnee-in-sachsen-anhalt-81987838.bild.html",
-      "image_title": "Winter: Schnee in Sachsen-Anhalt"
-    },
-    {
-      "title": "Raubtier war in Gully gefangen : Hund rettet Wolf das Leben",
-      "teaser": "Der Wolf erobert die Lausitz und tappt dabei schon mal daneben.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/raubtier-in-der-falle-wolf-plumpst-in-gullyloch-81985472.bild.html",
-      "image_title": "Wolf: Raubtier von Feuerwehr aus Gullyloch gerettet"
-    },
-    {
-      "title": "Baden-Württemberg : Schnee und Regen zum Wochenstart",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/baden-wuerttemberg-schnee-und-regen-zum-wochenstart-82001002.bild.html",
-      "image_title": "Baden-Württemberg: Schnee und Regen zum Wochenstart"
-    },
-    {
-      "title": "Millionär plant Demokratie-Zentrum : Schwaben-Rebell will Bürger wachrütteln",
-      "teaser": "Der streitbare Millionär Burkhard Ceppa (55) plant ein Zentrum für Demokratie.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/oberschwaben-rebell-burkhard-ceppa-55-will-buerger-wachruetteln-82004488.bild.html",
-      "image_title": "Oberschwaben-Rebell Burkhard Ceppa (55) will Bürger wachrütteln"
-    },
-    {
-      "title": "Ihr Freund quälte ihren Sohn (1) zu Tode : „Ich habe als Mutter versagt, mein Engel“",
-      "teaser": "Ihr Freund quälte Nick (1) zu Tode. Jetzt kommt Diana L. (38) vor Gericht.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/der-brief-einer-mutter-an-ihren-toten-sohn-ich-habe-als-mutter-versagt-mein-enge-81996156.bild.html",
-      "image_title": "Der Brief einer Mutter an ihren toten Sohn : „Ich habe als Mutter versagt, mein Engel“"
-    },
-    {
-      "title": "Dachstuhl in Flammen : Feuer zerstört Bäckerei und Wohnhaus",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/dachstuhl-in-flammen-feuer-zerstoert-baeckerei-und-wohnhaus-82001312.bild.html",
-      "image_title": "Großbrand: Feuer zerstört Bäckerei und Wohnhaus"
-    },
-    {
-      "title": "Landespokal gegen Carl Zeiss Jena : Fans machen Weida-Spieler mit Pyro-Show heiß",
-      "teaser": "In Weida steigt das Pokalfieber! Die Fans liefern vorm Jena-Spiel eine Pyro-Show.",
-      "url": "https://www.bild.de/sport/fussball/fussball/landespokal-gegen-jena-fans-machen-weida-spieler-mit-pyro-show-heiss-81988008.bild.html",
-      "image_title": "Landespokal gegen Jena: Fans machen Weida-Spieler mit Pyro-Show heiß"
-    },
-    {
-      "title": "Für WM-Studio : ZDF bestellt Kamel, das es in Katar gar nicht gibt",
-      "teaser": "Jetzt ging ein 2,65 Meter großer Plüschriese auf die Reise von Georgenthal nach Mainz.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/fuer-wm-studio-zdf-bestellt-kamel-das-es-in-katar-gar-nicht-gibt-81978734.bild.html",
-      "image_title": "Für WM-Studio: ZDF bestellt Kamel, das es in Katar gar nicht gibt"
-    }
-  ]
+  "articles": []
 }
