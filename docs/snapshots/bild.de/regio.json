@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-21T10:23:32",
+  "timestamp": "2022-11-21T11:17:35",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,52 +19,380 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://player.h-cdn.com/loader.js?customer=bild",
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.a99389ba.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.2f2cf296.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/pages/_.951bd6f7.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.068cf038.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.fcaec5ae.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.fe8714ee.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Mann ohne Hosen, Blutlache auf dem Gehweg : Im Bahnhofsviertel hat jeder versagt",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/hoelle-von-frankfurt-im-bahnhofsviertel-hat-jeder-versagt-82005614.bild.html",
+      "image_title": "Hölle von Frankfurt: Im Bahnhofsviertel hat jeder versagt"
+    },
+    {
+      "title": "Es geht um die K-Frage : Diese Umfrage macht Merz-Anhänger sauer!",
+      "url": "https://www.bild.de/politik/inland/politik-inland/es-geht-um-die-k-frage-diese-umfrage-ist-ein-schock-fuer-merz-82008200.bild.html",
+      "image_title": "Es geht um die K-Frage: Diese Umfrage ist ein Schock für Merz!"
+    },
+    {
+      "title": "Der Rockstar soll sein Vater sein : Wie viel Mick Jagger steckt in Olaf Schubert?",
+      "url": "https://www.bild.de/regional/chemnitz/leipzig-news/er-soll-sein-vater-sein-wie-viel-mick-jagger-steckt-in-olaf-schubert-82006536.bild.html",
+      "image_title": "Olaf Schubert behauptet: Mick Jagger ist mein Vater!"
+    },
+    {
+      "title": "Trotz 295 000 Euro Gehalt : RBB-Chefin kassiert Mietzuschuss",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/trotz-297000-euro-gehalt-rbb-chefin-kassiert-mietzuschuss-82006024.bild.html",
+      "image_title": "Trotz 295 000 Euro Gehalt!: RBB-Chefin kassiert Mietzuschuss"
+    },
+    {
+      "title": "Klima-Chaoten blockieren Berlins Straßen : Neue Woche, frischer Kleber!",
+      "teaser": "Zum Start der neuen Woche blockieren Klima-Aktivisten erneut mehrere Straßen in Berlin!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-klima-aktivisten-wieder-auf-strassen-neue-woche-frischer-kleber-82009218.bild.html",
+      "image_title": "Berlin: Klima-Aktivisten wieder auf Straßen – Neue Woche, frischer Kleber!"
+    },
+    {
+      "title": "So sehr freut sich die Tafel-Chefin! : „Wetten, dass..?“ Grönemeyer die Tafel unterstützt",
+      "teaser": "Sein erfolgreichster Song heißt „Mensch“. Jetzt zeigt Herbert Grönemeyer (66) selbst Menschlichkeit!",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/groenemeyers-hilfe-fuer-beduerftige-so-sehr-freut-sich-die-tafel-chefin-82003446.bild.html",
+      "image_title": "Grönemeyers Hilfe für Bedürftige – So sehr freut sich die Tafel-Chefin!"
+    },
+    {
+      "title": "Fabien Tietjen sammelt : Tiktok-Star wird Drogerie-Kassierer",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/fabien-tietjen-sammelt-fuer-dein-festmahl-tiktok-star-wird-drogerie-kassierer-82001098.bild.html",
+      "image_title": "Fabien Tietjen sammelt für „Dein Festmahl“: Tiktok-Star wird Drogerie-Kassierer"
+    },
+    {
+      "title": "6,2 Mio. Gewinn : Werder will 2028 ohne Schulden sein",
+      "teaser": "Bei der Mitgliederversammlung präsentierte Boss Klaus Filbry ein Einnahmeplus.",
+      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-6-3-millionen-gewinn-werder-will-2028-ohne-schulden-sein-81999596.bild.html",
+      "image_title": "Werder Bremen: 6,3 Millionen Gewinn! Werder will 2028 ohne Schulden sein"
+    },
+    {
+      "title": "Landkreis Oldenburg : Holzhaus und Kleintransporter in Flammen",
+      "teaser": "Im Bremer Umland kam es am Wochenende zu Großbränden.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/landkreis-oldenburg-holzhaus-und-kleintransporter-in-flammen-82004350.bild.html",
+      "image_title": "Landkreis Oldenburg: Holzhaus und Kleintransporter in Flammen"
+    },
+    {
+      "title": "Eisenbahnwelt nach 25 Jahren am Ende : Für uns ist der Zug abgefahren",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/eisenbahnwelt-nach-25-jahren-am-ende-fuer-uns-ist-der-zug-abgefahren-82006716.bild.html",
+      "image_title": "Modell-Eisenbahn: Für uns ist der Zug abgefahren"
+    },
+    {
+      "title": "Alarmierend : Hier kommt jeder zweite Raser davon",
+      "teaser": "In diesem Bundesland jeder zweite Tempo-Sünder auf Autobahnen ohne Strafe davon!",
+      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/blitzer-jeder-zweiter-raser-kommt-in-sachsen-davon-82006442.bild.html",
+      "image_title": "Blitzer: Jeder zweiter Raser kommt in diesem Bundesland so davon"
+    },
+    {
+      "title": "Weihnachten kann kommen : Brummis auf Lichter-Fahrt durchs Erzgebirge",
+      "teaser": "Zur zweiten großen Lichterfahrt trafen sich im Erzgebirge, u. a. auf dem Kätplatz in Annaberg-Buchholz, rund 100 Fahrzeuge.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-brummis-auf-lichter-fahrt-durchs-erzgebirge-82007050.bild.html",
+      "image_title": "Sachsen: Brummis auf Lichter-Fahrt durchs Erzgebirge"
+    },
+    {
+      "title": "Lichte Weihnacht vor der Frauenkirche : Touristen lachen über Dresdner Krüppel-Fichten",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/lichte-weihnacht-vor-frauenkirche-touristen-lachen-ueber-dresdner-krueppel-ficht-82009378.bild.html",
+      "image_title": "Lichte Weihnacht vor Frauenkirche: Touristen lachen über Dresdner Krüppel-Fichten"
+    },
+    {
+      "title": "Wegen 10 Euro : Räuber überfallen Rentner (76) in Wohnung",
+      "teaser": "Die Hilfsbereitschaft eines Rentners (76) in der Dresdner Südvorstadt nutzte ein Räuber-Pärchen aus Tschechien eiskalt aus.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-raeuber-ueberfallen-rentner-76-in-wohnung-82006876.bild.html",
+      "image_title": "Dresden: Räuber überfallen Rentner (76) in Wohnung"
+    },
+    {
+      "title": "Schluss mit Wohlfühloase : Wie Dynamo den Spielern jetzt Beine macht",
+      "teaser": "Drittligist Dynamo Dresden greift jetzt durch.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/dynamo-dresden-neue-vorschriften-sollen-profis-beine-machen-82001906.bild.html",
+      "image_title": "Dynamo Dresden: Neue Vorschriften sollen Profis Beine machen!"
+    },
+    {
+      "title": "Farke adelt den Kabinen-König : Liebeserklärung an Kramer",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/farke-adelt-den-kabinen-koenig-von-gladbach-liebeserklaerung-an-kramer-82004134.bild.html",
+      "image_title": "Farke adelt den Kabinen-König von Gladbach: Liebeserklärung an Kramer"
+    },
+    {
+      "title": "Interessante Namen : Diese 34 Gladbacher reisten schon zu einer WM!",
+      "teaser": "6 Borussen sind bei der WM in Katar – insgesamt durften schon 34 Gladbacher zu einer WM.",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-34-gladbacher-reisten-schon-zu-einer-wm-82006324.bild.html",
+      "image_title": "Borussia Mönchengladbach: 34 Gladbacher reisten schon zu einer WM!"
+    },
+    {
+      "title": "Fußgänger (79) von Auto erfasst : Tödlicher Unfall vor Getränkemarkt",
+      "teaser": "Eine Fiesta-Fahrerin (60) erfasste beim Ausparken einen Passanten (†79).",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/fussgaengererfasst-toedlicher-unfall-vor-getraenkemarkt-in-mettmann-82008644.bild.html",
+      "image_title": "Fußgänger erfasst: Tödlicher Unfall vor Getränkemarkt in Mettmann"
+    },
+    {
+      "title": "Unterm Stall in Not geraten : Retter ziehen Kälbchen aus Grube",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/korbach-unterm-stall-in-not-geraten-retter-ziehen-kaelbchen-aus-grube-82010746.bild.html",
+      "image_title": "Korbach: Unterm Stall in Not geraten: Retter ziehen Kälbchen aus Grube"
+    },
+    {
+      "title": "Tatverdächtiger „blutgetränkt“ : Messer-Opfer sollte auf Weihnachtsmarkt aushelfen",
+      "teaser": "Das grausige Tötungsdelikt an einer Frau (23) in Speyer – jetzt gibt's weitere Details.",
+      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/freund-blutgetraenkt-messer-opfer-sollte-auf-weihnachtsmarkt-helfen-82009822.bild.html",
+      "image_title": "Freund „blutgetränkt“: Messer-Opfer sollte auf Weihnachtsmarkt helfen"
+    },
+    {
+      "title": "Deutschlands peinlichster Politiker : Ex-OB Feldmann droht Steuer-Ärger",
+      "teaser": "Deutschlands peinlichstem Politiker droht weiterer juristischer Ärger.",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/deutschlands-peinlichster-politiker-ex-ob-feldmann-droht-steuer-aerger-82008400.bild.html",
+      "image_title": "Deutschlands peinlichster Politiker: Ex-OB Feldmann droht Steuer-Ärger"
+    },
+    {
+      "title": "Hamburg freut sich auf die Weihnachtszeit : Hurra, die Alstertanne ist da!",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburg-freut-sich-auf-die-weihnachtszeit-hurra-die-alstertanne-ist-da-82008636.bild.html",
+      "image_title": "Hamburg freut sich auf die Weihnachtszeit: Hurra, die Alstertanne ist da!"
+    },
+    {
+      "title": "Hansestadt-Quiz : Testen Sie Ihr Hamburg-Wissen",
+      "teaser": "Was wissen Sie über Hamburg, den Hafen oder St. Pauli? Testen Sie Ihr Wissen!",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hansestadt-quiz-testen-sie-ihr-hamburg-wissen-81894782.bild.html",
+      "image_title": "Hansestadt-Quiz: Testen Sie Ihr Hamburg-Wissen"
+    },
+    {
+      "title": "Bei Freigang : Mörder als Automatensprenger verhaftet",
+      "teaser": "Seit 1998 sitzt Christian L. in Haft. Nun kommt eine weitere Straftat hinzu!",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/er-erstach-in-tonndorf-einen-lebensmittelhaendler-kam-in-sicherungsverwahrung-je-81971748.bild.html",
+      "image_title": "Er erstach in Tonndorf einen Lebensmittelhändler, kam in Sicherungsverwahrung. Jetzt hatte er Freigang: Mörder als Automatensprenger verhaftet"
+    },
+    {
+      "title": "Schaumi macht Schloss Bückeburg weihnachtsfein : Beim Fürst ist schon Fest",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/schaumi-macht-schloss-bueckeburg-weihnachtsfein-beim-fuerst-ist-schon-fest-82001162.bild.html",
+      "image_title": "Schaumi macht Schloss Bückeburg weihnachtsfein: Beim Fürst ist schon Fest"
+    },
+    {
+      "title": "Vorher-Nachher-Show auf Instagram : Neuer Busen für Yeliz",
+      "teaser": "Reality-TV-Sternchen Yeliz Koc (29) aus Hannover musste operiert werden.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/yeliz-koc-unterm-messer-neue-busen-fuer-ochsenknecht-ex-82001190.bild.html",
+      "image_title": "Yeliz Koc unter‘m Messer: Neue Busen für Ochsenknecht-Ex"
+    },
+    {
+      "title": "Freiwillige Retter : Brand-Bilanz der Ehren-Retter",
+      "teaser": "6898 Mal rückten die freiwilligen Feuerwehren in der Region Hannover in diesem Jahr aus.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/freiwillige-feuerwehren-rueckten-6898-mal-aus-9400-menschen-sind-organisiert-bra-82001120.bild.html",
+      "image_title": "Freiwillige Feuerwehren rückten 6898 Mal aus, 9400 Menschen sind organisiert: Brand-Bilanz der Ehren-Retter"
+    },
+    {
+      "title": "Israeli verlor Bein bei Anschlag – heute ist er Profi-Sportler : Ich bin stärker als der Terror",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/asael-verlor-bein-bei-anschlag-in-israel-heute-ist-er-profi-basketballer-in-koel-82004904.bild.html",
+      "image_title": "Asael verlor Bein bei Anschlag in Israel: Heute ist er Profi-Basketballer in Köln"
+    },
+    {
+      "title": "Solar-Sensation! : Erfinder steigt dem Bundespräsidenten aufs Dach",
+      "teaser": "Peter Hakenberg aus NRW hat spezielle Dachpfannen für Altbauten erfunden.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/langenfeld-start-up-erfindet-solar-dachpfannen-schloss-bellevue-interessiert-82007140.bild.html",
+      "image_title": "Langenfeld: Start-up erfindet Solar-Dachpfannen – Schloss Bellevue interessiert"
+    },
+    {
+      "title": "Gala für den guten Zweck i : Warum Uli Hoeneß gern ins Ruhrgebiet kam",
+      "teaser": "Castrop-Rauxel – „Wir helfen Menschen“ ist das Motto der Solidarfonds-Stiftung NRW.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/duesseldorf-aktuell/gala-in-castrop-rauxel-stiftung-feiert-uli-hoeness-und-bild-81999066.bild.html",
+      "image_title": "Gala in Castrop-Rauxel: Stiftung feiert Uli Hoeneß und BILD"
+    },
+    {
+      "title": "Beamte kontrollieren lieber Presseausweise : Polizei lässt Klima-Kleber Verkehr lahmlegen",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/magdeburg-polizei-laesst-klima-kleber-verkehr-lahmlegen-82009278.bild.html",
+      "image_title": "Magdeburg: Polizei lässt Klima-Kleber Verkehr lahmlegen"
+    },
+    {
+      "title": "Drogenfund am Airport : 32 Kilo Ecstasy in Duftkerzen versteckt",
+      "teaser": "Bei diesen Duftkerzen hatten die Zollbeamten am Flughafen Leipzig/Halle den richtigen Riecher.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/drogenfund-am-flughafen-leipzig-halle-32-kilo-ecstasy-in-duftkerzen-versteckt-82010300.bild.html",
+      "image_title": "Drogenfund am Flughafen Leipzig/Halle: 32 Kilo Ecstasy in Duftkerzen versteckt"
+    },
+    {
+      "title": "Umbau der Alten Messe in Leipzig : Roter Stern hängt bald neben Baumarkt",
+      "teaser": "Auf der Alten Leipziger Messe geht der Umbau der teils denkmalgeschützten Hallen weiter.",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/umbau-der-alten-messe-in-leipzig-roter-stern-haengt-bald-neben-baumarkt-82008290.bild.html",
+      "image_title": "Umbau der Alten Messe in Leipzig: Roter Stern hängt bald neben Baumarkt"
+    },
+    {
+      "title": "Hansas Transferzeugnis : Nur zwei schlugen ein",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/hansa-rostock/hansas-transferzeugnis-nur-zwei-schlugen-ein-82004402.bild.html",
+      "image_title": "Hansas Transferzeugnis: Nur zwei schlugen ein"
+    },
+    {
+      "title": "Nach dem Crash lief er auf Socken weg : Regio-Zug haut Mann aus den Schuhen",
+      "teaser": "In Stralsund wurde ein Mann vom Zug erfasst. Er lief nach dem Crash barfuß davon.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/nach-dem-crash-lief-er-auf-socken-weg-regio-zug-haut-mann-aus-den-schuhen-81999050.bild.html",
+      "image_title": "Stralsund: Mann läuft nach Zug-Crash barfuß weg – lässt Schuhe zurück"
+    },
+    {
+      "title": "Verena Kerth und Terenzi : Ein Antrag? Marc zwinkert",
+      "teaser": "Verena Kerth (41) und Marc Terenzi (44) turtelten jetzt beim Brautausstatter.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-verena-kerth-und-marc-terenzi-turteln-beim-brautausstatter-81986284.bild.html",
+      "image_title": "Marc Terenzi und Verena Kerth: Hören wir bald Hochzeitsglocken?"
+    },
+    {
+      "title": "Mordfall Hanna in Aschau : Ermittlungen „noch Monate“",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/mordfall-hanna-in-aschau-ermittlungen-dauern-noch-monate-82010574.bild.html",
+      "image_title": "Mordfall Hanna in Aschau: Ermittlungen dauern „noch Monate“"
+    },
+    {
+      "title": "Mit selbstgebastelter Waffe : Mann schießt sich aus Versehen in den Bauch",
+      "teaser": "Der 70-Jährige aus Schwandorf wollte eigentlich Vögel verjagen...",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/schwandorf-mann-schiesst-sich-aus-versehen-in-den-bauch-82011132.bild.html",
+      "image_title": "Schwandorf: Mann schießt sich aus Versehen in den Bauch"
+    },
+    {
+      "title": "Wegen Spruch am Auto : Polizei stoppt Söder-Beleidiger",
+      "teaser": "Die Polizei hat in Regensburg ein Auto mit einem beleidigenden Aufdruck gestoppt.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/regensburg-polizei-stoppt-soeder-beleidiger-82010800.bild.html",
+      "image_title": "Regensburg: Polizei stoppt Söder-Beleidiger"
+    },
+    {
+      "title": "Insgesamt 1128 Jahre Haft! : 67 falsche Polizisten verurteilt",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/1128-jahre-haft-67-falsche-polizisten-verurteilt-82010032.bild.html",
+      "image_title": "1128 Jahre Haft! 67 falsche Polizisten verurteilt"
+    },
+    {
+      "title": "Urteil in München : Gericht macht klar: Nur das darf in den Glühwein!",
+      "teaser": "Kurz vorm 1. Advent ist auch diese Frage endlich geklärt.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/urteil-in-muenchen-nur-das-darf-in-den-gluehwein-82008490.bild.html",
+      "image_title": "Urteil in München: Nur das darf in den Glühwein!"
+    },
+    {
+      "title": "Neue Umfrage für Bayern : CSU bei 41 Prozent, Grün verliert",
+      "teaser": "Die bayerischen Grünen verlieren an Zustimmung. Für die FDP sieht's bös aus.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bayern-csu-bei-41-prozent-gruen-verliert-82008364.bild.html",
+      "image_title": "Bayern: CSU bei 41 Prozent, Grün verliert"
+    },
+    {
+      "title": "Auf dem Cranger Weihnachtszauber : Am Dienstag ist Ihre BILD 8 Euro wert!",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/cranger-weihnachtszauber-am-dienstag-ist-ihre-bild-8-euro-wert-82005084.bild.html",
+      "image_title": "Cranger Weihnachtszauber: Am Dienstag ist Ihre BILD 8 Euro wert!"
+    },
+    {
+      "title": "Einmal Ferrari fahren! : Lotto-Chico erfüllt Gianlucas (8) Traum",
+      "teaser": "Gianluca (8) im Glück: Lotto-Millionär Chico (42) nahm ihn auf Ferrari-Spritztour mit.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-lotto-chico-erfuellt-gianlucas-8-ferrari-traum-81989030.bild.html",
+      "image_title": "Dortmund: Lotto-Chico erfüllt Gianlucas (8) Ferrari-Traum"
+    },
+    {
+      "title": "Proteste im Ruhrgebiet zum WM-Start : Nackt gegen FUCKball",
+      "teaser": "Zum Auftakt der Fußball-WM in Katar gab es im Ruhrgebiet Proteste, u.a. mit nackter Haut.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/fussball-wm-in-katar-proteste-im-ruhrgebiet-mit-nackter-haut-und-grablichtern-82006572.bild.html",
+      "image_title": "Fußball-WM in Katar: Proteste im Ruhrgebiet mit nackter Haut und Grablichtern"
+    },
+    {
+      "title": "Digitaler Advents-Kitsch : In der Weihnachts-Druckerei ...",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/saarland-news/bous-digitaler-advents-kitsch-in-der-weihnachts-druckerei-82004562.bild.html",
+      "image_title": "Bous: Digitaler Advents-Kitsch: In der Weihnachts-Druckerei..."
+    },
+    {
+      "title": "5372 Tiere aufgenommen : Saarland zahlt 200 000 Euro für Katzen-Kastration",
+      "teaser": "Seit 2020 haben Saarlands Tierheime u.a. 3448 Katzen aufgenommen.",
+      "url": "https://www.bild.de/bild-plus/regional/saarland/frankfurt-aktuell/tierheim-report-saarland-zahlt-200000-euro-fuer-katzen-kastration-82000510.bild.html",
+      "image_title": "Tierheim-Report: Saarland zahlt 200 000 Euro für Katzen-Kastration"
+    },
+    {
+      "title": "Messer-Attacke in Saarlouis : Blutiger Streit unter Nachbarn",
+      "teaser": "Blutiger Streit mit Messer-Attacke im Saarlouiser Stadtteil Picard.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/messer-attacke-in-saarlouis-blutiger-streit-unter-nachbarn-82001846.bild.html",
+      "image_title": "Messer-Attacke in Saarlouis: Blutiger Streit unter Nachbarn"
+    },
+    {
+      "title": "33:34-Pleite gegen Kiel : Was dem SCM trotzdem Mut macht",
+      "url": "https://www.bild.de/sport/mehr-sport/handball/33-34-pleite-gegen-kiel-was-dem-sc-magdeburg-trotzdem-mut-macht-82006120.bild.html",
+      "image_title": "SC Magdeburg: Was trotz der Kiel-Pleite Mut macht"
+    },
+    {
+      "title": "Pokalerfolg im Ortsduell : HFC weiter, Meyer unzufrieden",
+      "teaser": "4:0-Sieg, eine Runde weiter und keine weiteren Verletzten.",
+      "url": "https://www.bild.de/sport/fussball/fussball/landespokal-erfolg-im-ortsduell-hfc-weiter-meyer-unzufrieden-82006416.bild.html",
+      "image_title": "Landespokal: Erfolg im Ortsduell – HFC weiter, Meyer unzufrieden"
+    },
+    {
+      "title": "„Charles Bar“ in Wittenberg : Hier mixt Deutschlands bester Barkeeper",
+      "teaser": "Wer zu Deutschlands bestem Barkeeper will, muss nur nach Wittenberg fahren.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/charles-bar-wittenberg-hier-mixt-deutschlands-bester-barkeeper-82005994.bild.html",
+      "image_title": "„Charles Bar\" (Wittenberg): Hier mixt Deutschlands bester Barkeeper"
+    },
+    {
+      "title": "Kater überlebt Anschlag knapp : Tierhasser legt Köder mit 37 Nadeln aus",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/kater-ueberlebt-anschlag-knapp-tierhasser-legt-koeder-mit-37-nadeln-aus-82003484.bild.html",
+      "image_title": "Kater überlebt Anschlag knapp: Tierhasser legt Köder mit 37 Nadeln aus"
+    },
+    {
+      "title": "Neuschnee in Höhenlagen : Winter hält Einzug",
+      "teaser": "Zum Wochenstart hat es an einigen Orten im Südwesten Neuschnee gegeben.",
+      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/neuschnee-in-hoehenlagen-winter-haelt-einzug-in-baden-wuerttemberg-82008956.bild.html",
+      "image_title": "Neuschnee in Höhenlagen: Winter hält Einzug in Baden-Württemberg"
+    },
+    {
+      "title": "BILD im Transitland Schweiz : Pässe werden nicht kontrolliert, aber die Fahrkarte",
+      "teaser": "Die Zahl illegaler Einwanderung über die Schweiz steigt. BILD war vor Ort am Bahnhof Basel",
+      "url": "https://www.bild.de/bild-plus/news/ausland/news/bild-im-transitland-schweiz-paesse-werden-nicht-kontrolliert-aber-die-fahrkarte-81795926.bild.html",
+      "image_title": "BILD im Transitland Schweiz: Pässe werden nicht kontrolliert, aber die Fahrkarte"
+    },
+    {
+      "title": "Dachstuhl in Flammen : Feuer zerstört Bäckerei und Wohnhaus",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/dachstuhl-in-flammen-feuer-zerstoert-baeckerei-und-wohnhaus-82001312.bild.html",
+      "image_title": "Großbrand: Feuer zerstört Bäckerei und Wohnhaus"
+    },
+    {
+      "title": "Feuerwehrmann packt aus : „Ich musste drei Kilometer zum Unfall laufen“",
+      "teaser": "Wolfgang Wenzel ärgert sich über fehlende Rettungsgassen und pöbelnde Autofahrer",
+      "url": "https://www.bild.de/regional/leipzig/news-inland/feuerwehrmann-ich-musste-drei-kilometer-zur-unfallstelle-laufen-81996264.bild.html",
+      "image_title": "Feuerwehrmann: „Ich musste drei Kilometer zur Unfallstelle laufen“"
+    },
+    {
+      "title": "Raubtier war in Gully gefangen : Hund rettet Wolf das Leben",
+      "teaser": "Der Wolf erobert die Lausitz und tappt dabei schon mal daneben.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/raubtier-in-der-falle-wolf-plumpst-in-gullyloch-81985472.bild.html",
+      "image_title": "Wolf: Raubtier von Feuerwehr aus Gullyloch gerettet"
+    }
+  ]
 }
