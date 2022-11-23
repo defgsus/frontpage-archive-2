@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-23T08:25:50",
+  "timestamp": "2022-11-23T09:19:27",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.72d39764.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.3b166c7d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3e48e5da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.8f2da88e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fe86cf2d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9991763f.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Beinahe-Katastrophe in Düsseldorf : Sechs Verletzte bei Unfall am Weihnachtsmarkt",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-mindestens-sechs-verletzte-bei-schwerem-koe-unfall-82030368.bild.html",
-      "image_url": "https://images.bild.de/637d1d62a7bd376282c7b26e/24df2ffd054b95144d1705b3a2d09693,8b05439b?w=656",
-      "image_title": "Beinahe-Katastrophe in Düsseldorf: Sechs Verletzte bei Unfall am Kö-Weihnachtsmarkt"
-    },
-    {
-      "title": "Rudolf Watzlawik (99) : „Mit 99 fahre ich noch Autobahn“",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/rudolf-watzlawik-99-mit-99-fahre-ich-noch-autobahn-82015458.bild.html",
-      "image_url": "https://images.bild.de/637b9d6eedf84b73d1e8aaf9/5510bc9bc504bda6a9558b216c8f7d55,9bb0702b?w=320",
-      "image_title": "Rudolf Watzlawik (99): „Mit 99 fahre ich noch Autobahn“"
-    },
-    {
-      "title": "483 Goldmünzen aus Museum geraubt : Einbrecher stehlen Millionen-Schatz der Kelten",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/kelten-roemer-museum-millionenschwerer-goldschatz-geraubt-82028682.bild.html",
-      "image_url": "https://images.bild.de/637cf93408ba5f71743a902a/46f02681401c5e805e6414c7ddd23e63,681a4160?w=320",
-      "image_title": "Manching: 483 Münzen! Goldschatz aus Kelten&Römer“-Museum geklaut"
-    },
-    {
-      "title": "Nach der Schule verschwunden : Die kleine Illona (12) ist wieder da",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/12-jaehrige-vermisst-wer-hat-ilona-gesehen-82030964.bild.html",
-      "image_url": "https://images.bild.de/637d2dd5a7bd376282c7b283/9e009543d5e390f6ea2f07a47b5f5c0d,54252c05?w=320",
-      "image_title": "Sie war nach der Schule verschwunden: Die kleine Illona (12) ist wieder da"
-    },
-    {
-      "title": "Vor fast zwei Monaten war es ausgebüxt : Känguru Chipsi betäubt und mit Netz gefangen",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-kaenguru-chipsi-betaeubt-und-mit-netz-gefangen-82027986.bild.html",
-      "image_title": "Thüringen: Känguru Chipsi betäubt und mit Netz gefangen"
-    },
-    {
-      "title": "Dresdner Kulturpalast : Das letzte Geheimnis der Roten Fahne!",
-      "teaser": "Es ist nach dem Fürstenzug das größte Gemälde der Stadt – „Der Weg der roten Fahne“.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-das-letzte-geheimnis-der-roten-fahne-82030988.bild.html",
-      "image_title": "Dresden: Das letzte Geheimnis der Roten Fahne!"
-    },
-    {
-      "title": "Eurojackpot am Dienstag : Haben Sie die 32 Millionen Euro gewonnen?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 22. November 2022.",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-dienstag-lottozahlen-vom-22-november-81959396.bild.html",
-      "image_title": "Eurojackpot am Dienstag: Lottozahlen vom 22. November"
-    },
-    {
-      "title": "Steakhaus-Erbin Christina Block : Gehofft, gewartet, gedemütigt",
-      "teaser": "Familienrichterin Dr. Groth hat die beiden Kinder zu einer Anhörung geladen.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/mit-traenen-in-den-augen-steht-steakhaus-erbin-christina-block-vorm-amtsgericht-82025600.bild.html",
-      "image_title": "Steakhaus-Erbin Christina Block: Gehofft, gewartet, gedemütigt"
-    },
-    {
-      "title": "Polizeiversagen bei Jesse L. (†19) : Hätte Kopfschuss-Mord verhindert werden können?",
-      "teaser": "Wochenlang hatte die Polizei einen Spätverkauf in Leipzig observiert. Wären sie nicht vorzeitig abgezogen, könnte Jesse L. womöglich noch leben.",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-haette-der-kopfschuss-mord-verhindert-werden-koennen-82026294.bild.html",
-      "image_title": "Leipzig: Hätte der Kopfschuss-Mord verhindert werden können?"
-    },
-    {
-      "title": "Hamse mal nen Euro mehr? : Leipziger Weihnachtsmarkt muss Preise anziehen",
-      "teaser": "Endlich wieder Weihnachtsmarkt! Zur offiziellen Eröffnung füllte sich schon am Dienstagmorgen die Leipziger Innenstadt mit Besuchern.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/weihnachtsmarkt-leipzig-preise-ziehen-an-82028588.bild.html",
-      "image_title": "Weihnachtsmarkt Leipzig: Preise ziehen an"
-    },
-    {
-      "title": "Er will Lebenslang für Polizisten-Killer : Staatsanwalt: Tat glich einer Hinrichtung",
-      "teaser": "Die Plädoyers im Prozess um die erschossenen Polizisten in Kusel (Rheinland-Pfalz).",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/mord-prozess-polizisten-killer-soll-lebenslang-hinter-gitter-82021416.bild.html",
-      "image_title": "Polizistenmord Kusel: Staatsanwalt fordert lebenslang für Wilderer"
-    },
-    {
-      "title": "Waffen und Schalldämpfer gefunden : Räuber-Bande aus Georgien festgenommen",
-      "teaser": "Razzia am Dienstagmorgen. Vier mutmaßliche Straftäter wurden in Hamburg festgenommen.",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/nach-tankstellen-raub-polizei-sprengt-vierkoepfige-bande-aus-georgien-82021142.bild.html",
-      "image_title": "Hamburg: SEK nimmt vierköpfige Räuber-Bande aus Georgien fest"
-    },
-    {
-      "title": "Diebe klauten ihn vom Weihnachtsmarkt : Froschkönig ist zurück – mit Bekennerschreiben",
-      "teaser": "Plötzlich stand er da – mitten in der Innenstadt auf einem Mülleimer. Der Froschkönig ist zurück!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/weihnachtsmarkt-erfurt-froschkoenig-vor-eroeffnung-82018326.bild.html",
-      "image_title": "Weihnachtsmarkt Erfurt: Gestohlener Froschkönig ist zurück – mit Bekennerschreiben"
-    },
-    {
-      "title": "Rettungswagen behindert! : Berliner Kampfradler muss in den Knast",
-      "teaser": "Ein Berliner Richter griff knallhart durch – nun muss ein Radfahrer ins Gefängnis.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-rettungswagen-behindert-kampfradler-muss-in-den-knast-82016696.bild.html",
-      "image_title": "Berlin: Rettungswagen behindert – Radfahrer muss in den Knast!"
-    },
-    {
-      "title": "Das oberste Gericht urteilte! : Corona-Ausgangssperren waren zu streng",
-      "teaser": "Es wurde entschieden! Bayern hatte unrechtmäßig gehandelt, Sachsen nicht.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/corona-urteil-zu-ausgangs-beschraenkungen-in-sachsen-und-bayern-82021280.bild.html",
-      "image_title": "Gericht urteilte: Corona-Ausgangssperren waren zu streng"
-    },
-    {
-      "title": "Mädchen (11, 15) sexuell belästigt : Polizei jagt Bahn-Grapscher",
-      "teaser": "Zwei Mädchen (11, 15) wurden von ihm begrapscht und verfolgt. Wer kennt ihn?",
-      "url": "https://www.bild.de/regional/chemnitz/dresden-aktuell/fahndung-in-sachsen-maedchen-sexuell-belaestigt-polizei-jagt-bahn-grapscher-82027080.bild.html",
-      "image_title": "Fahndung in Sachsen: Mädchen sexuell belästigt - Polizei jagt Bahn-Grapscher"
-    },
-    {
-      "title": "Endlich wieder Punsch, Langos und Mandeln : Erfurter Weihnachtsmarkt 2022 öffnet am Dienstag",
-      "teaser": "Der Erfurter Weihnachtsmarkt gehört zu den schönsten in ganz Deutschland!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/weihnachtsmarkt-erfurt-2022-preise-oeffnungszeiten-corona-regeln-82013730.bild.html",
-      "image_title": "Weihnachtsmarkt Erfurt 2022: Preise, Öffnungszeiten, Corona-Regeln"
-    },
-    {
-      "title": "„Mein Leben ist zu Ende“ : Ich verlor ein Bein durch einen S-Bahn-Schubser",
-      "teaser": "München – Es sind grausame Bilder, die die Kameras am Stachus aufgezeichnet haben.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/er-verlor-sein-bein-mein-leben-ist-zu-ende-ein-fremder-warf-ihn-ins-s-bahn-gleis-82018106.bild.html",
-      "image_title": "München: Ich verlor ein Bein durch einen S-Bahn-Schubser"
-    },
-    {
-      "title": "2,5 MILLIONEN EURO SCHADEN : Was macht die Straßenbahn neben der Autobahn?",
-      "teaser": "In Thüringen stürzte in der Nacht eine Mannheimer Straßenbahn von der A9.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/schwertransport-verunglueckt-strassenbahn-stuerzt-von-der-autobahn-82021538.bild.html",
-      "image_title": "Triptis (Thüringen): Unfall auf der A9! Straßenbahn neben der Autobahn"
-    },
-    {
-      "title": "Wie Ziehharmonika zusammengeschoben : Auto fliegt aus Kurve gegen Baum – Fahrer tot",
-      "teaser": "Ein Autofahrer ist in einer Kurve vor einen Baum gefahren – der Wagen fing sofort Feuer!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/unfall-in-dortmund-auto-fliegt-aus-kurve-gegen-baum-fahrer-tot-82021610.bild.html",
-      "image_title": "Unfall in Dortmund: Auto fliegt aus Kurve gegen Baum – Fahrer tot"
-    },
-    {
-      "title": "Seit Wochen keine Heizung : Unser Bibber-Leben bei 7 Grad",
-      "teaser": "Mieter, wer schert sich eigentlich um euch?",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/mieter-bibbern-in-berlin-keine-heizung-seit-wochen-nach-rohrbruch-82020974.bild.html",
-      "image_title": "Mieter bibbern in Berlin: Keine Heizung seit Wochen nach Rohrbruch"
-    },
-    {
-      "title": "Nach Touristen-Spott : Dresden frisiert Krüppel-Fichten",
-      "teaser": "Beauty-Behandlung für die Neumarkt-Fichten. Bis zur Eröffnung sollen sie schick sein!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/lichte-weihnacht-vor-frauenkirche-touristen-lachen-ueber-dresdner-krueppel-ficht-82009378.bild.html",
-      "image_title": "Weihnachtsmarkt Dresden: Touristen lachen über Krüppel-Fichten"
-    },
-    {
-      "title": "Sex-Talk unter Millionären : Lotto-Chico trifft Luxus-Lady Claudia Obert",
-      "teaser": "TV-Star Claudia Obert (61) traf Lottogewinner Chico (42). Worüber sie sprachen? Über Sex!",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-leute/sex-talk-unter-millionaeren-lotto-chico-traf-luxus-lady-claudia-obert-82016948.bild.html",
-      "image_title": "Sex-Talk unter Millionären: Lotto-Chico traf Luxus-Lady Claudia Obert"
-    },
-    {
-      "title": "Um ihn tobte ein Kunststreit : Warhols Millionen-Benz versteigert",
-      "teaser": "Es ist das teuerste Auto, das Brabus jemals verkauft hat.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bottrop-warhols-millionen-benz-bei-sothebys-versteigert-82013606.bild.html",
-      "image_title": "Millionen-Benz von Andy Warhol bei Sotheby's versteigert"
-    },
-    {
-      "title": "Kiew immer wieder ohne Strom : „Schlimmster Winter seit dem 2. Weltkrieg“",
-      "url": "https://www.bild.de/video/clip/news/kiew-immer-wieder-ohne-strom-schlimmster-winter-seit-dem-2-weltkrieg-82027922.bild.html",
-      "image_title": "Kiew immer wieder ohne Strom: „Schlimmster Winter seit dem 2. Weltkrieg“"
-    },
-    {
-      "title": "Lotto-Millionär Chico bleibt sich treu : „Ich werde hier im Ghetto bleiben“",
-      "url": "https://www.bild.de/video/clip/bild-tv/lotto-millionaer-chico-bleibt-sich-treu-ich-werde-hier-im-ghetto-bleiben-81981214.bild.html",
-      "image_title": "Lotto-Millionär Chico bleibt sich treu: „Ich werde hier im Ghetto bleiben“"
-    },
-    {
-      "title": "50 Häuser teilweise zerstört : Tornado wütet im Saarland",
-      "url": "https://www.bild.de/video/clip/news/tornado-wuetet-im-saarland-50-haeuser-zum-teil-unbewohnbar-81979702.bild.html",
-      "image_title": "Tornado wütet im Saarland: 50 Häuser zum Teil unbewohnbar"
-    }
-  ]
+  "articles": []
 }
