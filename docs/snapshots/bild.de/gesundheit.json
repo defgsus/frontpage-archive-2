@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-24T16:28:03",
+  "timestamp": "2022-11-24T17:18:07",
   "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/home-15734752.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,221 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c7b9c6b6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.5b1c5394.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3e48e5da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.995dbdeb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fe86cf2d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.79cb7c9d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Drei Expertenmeinungen zu Corona : Kommt die Winter-Welle oder nicht?",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/corona-zahlen-kommt-jetzt-die-winter-welle-oder-nicht-82038422.bild.html",
-      "image_url": "https://images.bild.de/637e2d651fa74a3412083f28/5100d760ce8f7aacba62f67729291cc9,d6e86eba?w=656",
-      "image_title": "Corona-Zahlen: Kommt jetzt die Winter-Welle 2022 oder nicht?"
-    },
-    {
-      "title": "MHH-Professor macht Hoffnung : Gentherapie gegen Hörverlust",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/mhh-professor-macht-millionen-hoffnung-gentherapie-gegen-hoerverlust-82041216.bild.html",
-      "image_url": "https://images.bild.de/637e4dbb729ca473f00ab54d/47f0413719568f9fc788c4abdb3b4ca6,8c719f4?w=320",
-      "image_title": "MHH-Professor macht Hoffnung: Gentherapie gegen Hörverlust"
-    },
-    {
-      "title": "Gefahr oder Wundermittel : Helfen Diabetes-Spritzen wirklich beim Abnehmen?",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/elon-musk-helfen-diabetes-spritzen-wirklich-beim-abnehmen-82023014.bild.html",
-      "image_url": "https://images.bild.de/637ca4cdfc8f2a244f3bd106/cddbffaba589fbab0687f64cd91f43eb,3daeb4e0?w=320",
-      "image_title": "Elon Musk: Helfen Diabetes-Spritzen wirklich beim Abnehmen?"
-    },
-    {
-      "title": "Tipps gegen Schlafstörungen : Heute hilft BILD mal beim Einschlafen",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/tipps-zum-einschlafen-wie-kann-man-schneller-und-besser-schlafen-82024634.bild.html",
-      "image_url": "https://images.bild.de/637cc21a8929f739cb582a9f/808794af3a03da5e9e03d174d981967f,955a2cdc?w=320",
-      "image_title": "Tipps zum Einschlafen: Wie kann man schneller und besser schlafen?"
-    },
-    {
-      "title": "Mit diesen Tricks schlafen Sie besser : Na, auch noch wach?",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/einschlafen-was-tun-wenn-man-nicht-schlafen-kann-82013550.bild.html",
-      "image_url": "https://images.bild.de/637b84a3478ce50f9328923e/4fd0783a2779f47b47ebf3b0f078c485,1ac39894?w=320",
-      "image_title": "Einschlafen: Was tun, wenn man nicht schlafen kann?"
-    },
-    {
-      "title": "19 Prozent mehr Todesfälle! : Warum starben im Oktober so viele Menschen?",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/uebersterblichkeit-von-19-prozent-warum-starben-im-oktober-so-viele-menschen-81998952.bild.html",
-      "image_title": "Übersterblichkeitt: Warum starben im Oktober 2022 so viele Menschen?"
-    },
-    {
-      "title": "Vierfacheltern verraten : So funktioniert erziehen OHNE meckern",
-      "teaser": "Wie Sie zu Hause ein harmonisches Miteinander erreichen, erklären Vierfach-Eltern.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/ratgeber/vierfacheltern-verraten-so-funktioniert-erziehen-ohne-meckern-76220630.bild.html",
-      "image_title": "Kinder: So erziehen Eltern ohne meckern und schimpfen"
-    },
-    {
-      "title": "50 Prozent sind eigentlich keine Notfälle : Wann muss mein Kind wirklich in die Notaufnahme?",
-      "teaser": "Und wo die häufigsten Unfallgefahren für Kinder lauern.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/notfall-aufnahme-wann-muss-mein-kind-wirklich-dorthin-81948758.bild.html",
-      "image_title": "Notfall-Aufnahme: Wann muss mein Kind wirklich dorthin?"
-    },
-    {
-      "title": "Schlafprobleme? : Das sollten Sie zum Thema Schlaf wissen",
-      "teaser": "Alle Fragen & Antworten zum Thema Schlaf finden Sie hier!",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/schlafprobleme-beim-einschlafen-oder-durchschlafen-das-sollten-sie-wissen-81947392.bild.html",
-      "image_title": "Schlafprobleme beim Einschlafen oder Durchschlafen? Das sollten Sie wissen"
-    },
-    {
-      "title": "US-Studie : Darum sollten Sie unbedingt im Dunkeln schlafen",
-      "teaser": "Selbst kleinste Beleuchtungen im Schlafzimmer schaden.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/licht-aus-darum-sollten-sie-unbedingt-im-dunkeln-schlafen-79460266.bild.html",
-      "image_title": "Besser schlafen: Licht aus! Warum Sie unbedingt im Dunkeln schlafen sollten"
-    },
-    {
-      "title": "Apothekerin klärt auf : Antibiotika-resistent nach nur einer Anwendung",
-      "teaser": "In Deutschland sterben jährlich rund 9700 Menschen durch Antibiotika-Resistenzen.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/antibiotika-resistenzen-schon-nach-einmaliger-anwendung-moeglich-81836134.bild.html",
-      "image_title": "Apotherkerin klärt auf: Antibiotika-Resistenzen schon nach einmaliger Anwendung möglich"
-    },
-    {
-      "title": "Ruhigere Nächte : Besser schlafen mit dem Wecker-Trick",
-      "teaser": "Ein ganz einfacher Trick kann dafür sorgen, dass man nachts viel besser schläft!!",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/ruhigere-naechte-besser-schlafen-mit-dem-wecker-trick-75283260.bild.html",
-      "image_title": "Besser schlafen: Dieser Trick hilft"
-    },
-    {
-      "title": "Medizin-Messe „Medica“ : Dr. Rob, übernehmen Sie!",
-      "teaser": "Wer wissen will, wohin die Reise der Medizin führt, der muss zur „Medica“-Messe.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/duesseldorf-die-messe-medica-zeigt-die-zukunft-der-medizin-81944576.bild.html",
-      "image_title": "Düsseldorf: Die Messe „Medica“ zeigt die Zukunft der Medizin"
-    },
-    {
-      "title": "Neuheit auf der Medizin-Messe „Medica“ : Roboter pflanzt Haare",
-      "teaser": "Das Gerät wurde zum Spezialisten für Haartransplantationen programmiert.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/neuheit-auf-der-medizin-messe-medica-roboter-pflanzt-haare-81937226.bild.html",
-      "image_title": "Neuheit auf der Medizin-Messe „Medica“: Roboter pflanzt Haare"
-    },
-    {
-      "title": "Hatschi, Erkältungszeit! : Das bedeutet die Farbe Ihres Nasenschleims",
-      "teaser": "Viren, Bakterien oder Pollen? Es gibt viele Auslöser für eine laufende Nase.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/ratgeber/erkaeltung-das-bedeutet-die-farbe-ihres-hals-und-nasenschleims-81882968.bild.html",
-      "image_title": "Erkältung: Das bedeutet die Farbe Ihres Hals- und Nasenschleims"
-    },
-    {
-      "title": "Trotz Mittelohrentzündung und Fieber : 3 Kliniken wiesen mein Baby ab",
-      "teaser": "Ein medizinischer Notfall denkt Lara Sadowski – und die Arzt- und Klinik-Odyssee beginnt ...",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/trotz-akuter-mittelohrentzuendung-und-39-8-grad-fieber-3-kliniken-weigerten-sich-81870638.bild.html",
-      "image_title": "Trotz Mittelohrentzündung und Fieber: 3 Kliniken wiesen mein Baby ab"
-    },
-    {
-      "title": "Rätsel um Übersterblichkeit : Warum sterben im Moment so viele Menschen?",
-      "teaser": "Deutschland verzeichnet neun Prozent Übersterblichkeit – warum, ist unklar.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/raetsel-um-uebersterblichkeit-warum-sterben-im-moment-so-viele-menschen-81809320.bild.html",
-      "image_title": "Rätsel um Übersterblichkeit: Warum sterben im Moment so viele Menschen?"
-    },
-    {
-      "title": "Gen-Schicksal : Vier Brüder hatten nacheinander Prostata-Krebs",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/gen-schicksal-vier-brueder-hatten-prostata-krebs-81833102.bild.html",
-      "image_title": "Gen-Schicksal: Vier Brüder hatten Prostata-Krebs"
-    },
-    {
-      "title": "Manuel Neuer hatte ihn auch : Der Krebs, der immer mehr Junge trifft",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/manuel-neuer-betroffen-so-erkennen-und-schuetzen-sie-sich-vor-hautkrebs-81808470.bild.html",
-      "image_title": "Manuel Neuer hatte ihn: Hautkrebs trifft immer mehr Junge – wie zu erkennen, was hilft?"
-    },
-    {
-      "title": "Hohe Energiepreise : Drei Spar-Tipps, die Ihrer Gesundheit schaden",
-      "teaser": "Nicht alles, was gut klingt, tut auch gut. Worauf Energiesparer achten sollten.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/hohe-energiepreise-drei-spar-tipps-die-ihrer-gesundheit-schaden-81799172.bild.html",
-      "image_title": "Hohe Energiepreise: Drei Spar-Tipps, die Ihrer Gesundheit schaden"
-    },
-    {
-      "title": "Sie macht Millionen Krebskranken Hoffnung : Dieser Chip soll Tumor-Zellen erkennen",
-      "teaser": "Ihre Forschung am Helmholtz-Zentrum Dresden-Rossendorf könnte die Krebsheilung revolutionieren.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/krebs-sie-macht-millionen-kranken-hoffnung-81804200.bild.html",
-      "image_title": "Krebs: Sie macht Millionen Kranken Hoffnung"
-    },
-    {
-      "title": "Selbst Mineralwasser nicht unbedenklich : Das muss man wissen, BEVOR man Medizin nimmt",
-      "teaser": "Vor Ihnen steht eine duftende Tasse Milchkaffee – da fällt Ihnen ein, dass Sie ja noch ...",
-      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/wechselwirkung-mit-medizin-nicht-mal-mineralwasser-ganz-unbedenklich-81681568.bild.html",
-      "image_title": "Gesundheit: Was Sie wissen müssen, BEVOR Sie Medikamente nehmen"
-    },
-    {
-      "title": "Sie sind anders krank als Männer : Welche Fragen Frauen beim Arzt stellen sollten",
-      "teaser": "Kommunikationsprobleme können der Gesundheit schaden. Worauf Patientinnen achten sollten.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/ratgeber/sie-sind-anders-krank-als-maenner-welche-fragen-frauen-beim-arzt-stellen-sollten-81575084.bild.html",
-      "image_title": "Gesundheit: Welche Fragen Frauen beim Arzt stellen sollten"
-    },
-    {
-      "title": "Neue AOK-Rangliste : Das sind die Top-Kliniken für eine Herzklappen-OP",
-      "teaser": "Die AOK hat die besten Kliniken für Operation zum Herzklappen-Ersatz ermittelt.",
-      "url": "https://www.bild.de/ratgeber/gesundheit/herzgesundheit/neue-aok-rangliste-das-sind-die-top-kliniken-fuer-eine-herzklappen-op-81731204.bild.html",
-      "image_title": "Neue AOK-Rangliste: Das sind die Top-Kliniken für eine Herzklappen-OP"
-    },
-    {
-      "title": "Apotheken schlagen Alarm : „Pillen sind keine bunten Smarties“",
-      "teaser": "Deutschlands Apotheker warnen vor dem falschen Gebrauch von Pillen, wollen mehr aufklären.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/gesundheit/gesundheit/apotheken-schlagen-alarm-pillen-sind-keine-bunten-smarties-81595206.bild.html",
-      "image_title": "Apotheken schlagen Alarm: „Pillen sind keine bunten Smarties“"
-    },
-    {
-      "title": "Nur in einem von 80 000 Fällen ... : Diese Geburt ist ein echtes Wunder",
-      "url": "https://www.bild.de/video/clip/news-ausland/nur-in-einem-von-80-000-faellen-diese-geburt-ist-ein-echtes-wunder-81612266.bild.html",
-      "image_title": "Nur in einem von 80 000 Fällen ...: Diese Geburt ist ein echtes Wunder"
-    },
-    {
-      "title": "Ärztin macht Horror-Entdeckung : Frau hat 23 Kontaktlinsen im Auge",
-      "url": "https://www.bild.de/video/clip/ratgeber/aerztin-macht-horror-entdeckung-frau-hat-23-kontaktlinsen-in-einem-auge-81615152.bild.html",
-      "image_title": "Ärztin macht Horror-Entdeckung: Frau hat 23 Kontaktlinsen im Auge"
-    },
-    {
-      "title": "BILD-Vorsorgegipfel 2022 : Welche Impfungen brauche ich vor dem Corona-Winter?",
-      "url": "https://www.bild.de/video/clip/ratgeber/vorsorgegipfel-2022-welche-impfungen-brauche-ich-vor-dem-corona-winter-81610928.bild.html",
-      "image_title": "Vorsorgegipfel 2022: Welche Impfungen brauche ich vor dem Corona-Winter?"
-    }
-  ]
+  "articles": []
 }
