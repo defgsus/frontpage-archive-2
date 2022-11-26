@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-26T21:16:59",
+  "timestamp": "2022-11-26T22:18:29",
   "url": "https://www.bild.de/politik/ausland/politik-ausland/home-15683414.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c7b9c6b6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.5b1c5394.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3e48e5da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.995dbdeb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fe86cf2d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.79cb7c9d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Belarus-Minister Wladimir Makej (64) : Lukaschenko-Freund plötzlich gestorben",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/belarus-aussenminister-wladimir-makej-stirbt-ploetzlichen-tod-82070040.bild.html",
-      "image_url": "https://images.bild.de/63824cee3c9f9a5cbe8ea0b9/2f94b6acf3fd7f84ddadf0035bab64e7,f2ca19a4?w=656",
-      "image_title": "Belarus: Außenminister Wladimir Makej stirbt „plötzlichen Tod“"
-    },
-    {
-      "title": "Bericht: 120 000 neue Russen-Soldaten : Plant Putin die Frühlings-Offensive?",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/bericht-120000-neue-russen-soldaten-plant-putin-eine-fruehlings-offensive-82068516.bild.html",
-      "image_url": "https://images.bild.de/638219da08ba5f71743a9844/1f17194486dba538698d3e89b7572104-miniSquare,b6da6bf6?w=320",
-      "image_title": "Bericht: 120 000 neue Russen-Soldaten – plant Putin eine Frühlings-Offensive?"
-    },
-    {
-      "title": "Nobelpreisträgerin Elena Zhemkova : Wir sind in Russland vogelfrei",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/nobelpreistraegerin-ueber-menschenrechte-in-russland-wir-sind-jetzt-vogelfrei-82061028.bild.html",
-      "image_url": "https://images.bild.de/6380bfe908ba5f71743a969a/13e5eaf134d7e9983f6f44109408ce29,7e1d8e2f?w=320",
-      "image_title": "Nobelpreisträgerin Elena Zhemkova: Wir sind in Russland vogelfrei"
-    },
-    {
-      "title": "„Viele Beschwerden“ in Kiew : Selenskyj attackiert Klitschko",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-viele-beschwerden-in-kiew-selenskyj-attackiert-vitali-klitschko-82067156.bild.html",
-      "image_url": "https://images.bild.de/637de076729ca473f00ab3f3/1ea21c67dfeab6604f7d566294c92565,87d2e78?w=320",
-      "image_title": "Ukraine-Krieg: „Viele Beschwerden“ in Kiew – Selenskyj attackiert Vitali Klitschko"
-    },
-    {
-      "title": "Trotz strenger Null-Covid-Politik : China kämpft gegen größte Corona-Welle",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/china-kaempft-gegen-groesste-corona-welle-82056840.bild.html",
-      "image_title": "China kämpft gegen größte Corona-Welle"
-    },
-    {
-      "title": "Nach Dinner in Mar-a-Lago : Trump zofft sich mit Kanye West",
-      "teaser": "Ex-US-Präsident Donald Trump und Rapper Kanye West haben Zoff wegen eines Dinners.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/donald-trump-und-kanye-west-zoff-nach-dinner-in-mar-a-lago-82065868.bild.html",
-      "image_title": "Donald Trump und Kanye West: Zoff nach Dinner in Mar-a-Lago"
-    },
-    {
-      "title": "Weil er die Mullahs kritisiert : Iranischer Fußball-Star festgenommen!",
-      "teaser": "Ex-Nationalfußballspieler Voria Ghafouri (35) wurde am Donnerstag wegen „antistaatlicher Propaganda“ festgenommen.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/weil-er-die-mullahs-kritisiert-iranischer-fussball-star-festgenommen-82058906.bild.html",
-      "image_title": "Weil er die Mullahs kritisiert : Iranischer Fußball-Star festgenommen!"
-    },
-    {
-      "title": "Sticheleien und offene Konfrontation : Jetzt wird Putin von seinen letzten Partnern gedemütigt",
-      "teaser": "Es läuft schlecht für Kriegstreiber Putin (70) – so schlecht, dass es sich nicht mehr kaschieren lässt.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-inland/jetzt-wird-putin-von-seinen-letzten-partnern-gedemuetigt-82047176.bild.html",
-      "image_title": "Jetzt wird Putin von seinen letzten Partnern gedemütigt"
-    },
-    {
-      "title": "Irre Drohung : Putins Koch schickt offenbar Blut-Hammer nach Brüssel",
-      "teaser": "Der Chef der „Wagner“-Söldner schickt ein blutiges „Geschenk“ an das EU-Parlament.",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/irre-drohung-putins-koch-schickt-blut-hammer-nach-bruessel-82057144.bild.html",
-      "image_title": "Ukraine-Krieg: Putins Koch schickt offenbar Blut-Hammer nach Brüssel"
-    },
-    {
-      "title": "Neues Gesetz macht es möglich : Vergewaltigung? US-Autorin verklagt Trump",
-      "teaser": "Wegen eines neuen Gesetzes kann E. Jean Carroll nun ihre Klage durchziehen.",
-      "url": "https://www.bild.de/politik/ausland/news-ausland/new-york-vergewaltigung-us-autorin-verklagt-donald-trump-82055576.bild.html",
-      "image_title": "New York: Vergewaltigung? US-Autorin verklagt Donald Trump"
-    },
-    {
-      "title": "Dramatische Aufnahmen : Putin bombt die Ukraine DUNKEL",
-      "teaser": "Satellitenaufnahmen zeigen: Russlands Raketen-Terror ist aus dem Weltall sichtbar.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/satelliten-aufnahmen-putin-bombt-die-ukraine-dunkel-82052762.bild.html",
-      "image_title": "Satelliten-Aufnahmen: Putin bombt die Ukraine DUNKEL"
-    },
-    {
-      "title": "Russen-Soldat führt Horror-Telefonat : „Soll ich dir ein Ohr mitbringen, Mama?“",
-      "teaser": "Dieses Telefonat ist ein weiteres Zeugnis des russischen Kriegs-Horrors.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/ukraine-krieg-russen-soldat-am-telefon-soll-ich-dir-ein-ohr-bringen-mama-82049426.bild.html",
-      "image_title": "Ukraine-Krieg Russen-Soldat am Telefon: „Soll ich dir ein Ohr bringen, Mama?“"
-    },
-    {
-      "title": "Endlich Kriegs-Klartext von Franziskus : Papst vergleicht Putin mit Stalin",
-      "teaser": "Papst Franziskus reißt der Geduldsfaden in Bezug auf die Kriegstreiber in Moskau!",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/krieg-gegen-ukraine-zivilisten-papst-vergleicht-putin-mit-stalin-82045510.bild.html",
-      "image_title": "Krieg gegen Ukraine-Zivilisten: Papst vergleicht Putin mit Stalin"
-    },
-    {
-      "title": "Kiew ohne Strom und Wasser : Die Ukraine erfriert, Kanzler!",
-      "teaser": "Es ist völlig eindeutig: Putin will die Ukrainer erfrieren lassen – und wir lassen es zu!",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/millionen-menschen-in-kiew-ohne-strom-und-wasser-die-ukraine-erfriert-kanzler-82044528.bild.html",
-      "image_title": "Die Ukraine erfriert, Kanzler! Millionen Menschen in Kiew ohne Strom und Wasser"
-    },
-    {
-      "title": "Kiew ohne Strom : Menschen frieren stundenlang für ein wenig Wasser",
-      "teaser": "In Kiew ist die Lage dramatisch wie nie: Die Stadt blieb dunkel – und ohne Wasser.",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/ukraine-kiew-ohne-strom-menschen-frieren-stundenlang-fuer-ein-wenig-wasser-82044614.bild.html",
-      "image_title": "Ukraine: Kiew ohne Strom: Menschen frieren stundenlang für ein wenig Wasser"
-    },
-    {
-      "title": "Kiew nach Russen-Raketen ohne Strom : Millionen neue Flüchtlinge befürchtet",
-      "teaser": "Strom, Wasser und Heizung sind unterbrochen. Bei eisigen Temperaturen dramatisch!",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-ganz-kiew-ohne-strom-droht-jetzt-die-naechste-fluechtlingswelle-82041676.bild.html",
-      "image_title": "Ukraine-Krieg: Ganz Kiew ohne Strom: Droht jetzt die nächste Flüchtlingswelle?"
-    },
-    {
-      "title": "Die Wahrheit hinter dem Johnson-Vorwurf : Wollte Scholz wirklich, dass die Ukraine verliert?",
-      "teaser": "Dieser Briten-Vorwurf ist politischer Sprengstoff – und wurde von Berlin mit der Bazooka beantwortet. Die große Analyse.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/die-wahrheit-hinter-dem-johnson-vorwurf-wollte-scholz-wirklich-dass-die-ukraine-82040030.bild.html",
-      "image_title": "Die Wahrheit hinter dem Johnson-Vorwurf: Wollte Scholz wirklich, dass die Ukraine verliert?"
-    },
-    {
-      "title": "Nach heftigem Raketen-Beschuss : Drei Tote und Stromausfall in Kiew",
-      "teaser": "Russland bombt weiter, um die Ukrainer frieren zu lassen! Schwere Explosionen erschütt...",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/ukraine-krieg-heftige-explosionen-in-kiew-russlands-raketen-terror-geht-weiter-82036898.bild.html",
-      "image_title": "Ukraine-Krieg: Heftige Explosionen in Kiew – Russlands Raketen-Terror geht weiter"
-    },
-    {
-      "title": "Boris Johnsons Hammer-Vorwurf gegen den Kanzler : Die Deutschen wollten, dass die Ukraine den Krieg verliert!",
-      "teaser": "Ex-Briten-Premier Boris Johnson erhebt im Interview mit CNN schwere Vorwürfe.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/boris-johnson-vorwurf-scholz-wollte-dass-ukraine-krieg-verliert-82034642.bild.html",
-      "image_title": "Boris-Johnson-Vorwurf: Die Deutschen wollten, dass die Ukraine den Krieg verliert"
-    },
-    {
-      "title": "Kommentar zu Katar-Debatte : Schaut auch auf Islamismus in Deutschland!",
-      "teaser": "Die Empörung ist berechtigt, aber warum schlägt sie nur gegenüber Katar so hohe Wellen?",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/kommentar-zu-katar-debatte-schaut-auch-auf-islamismus-in-deutschland-82035552.bild.html",
-      "image_title": "Kommentar zu Katar-Debatte: Schaut auch auf Islamismus in Deutschland!"
-    },
-    {
-      "title": "Russen-Portal enthüllt Geheim-Plan : Putins Leibwächter trainieren schon für Putsch!",
-      "teaser": "Fürchtet Kreml-Despot Wladimir Putin einen Putsch? Seine Leibwächter bereiten sich vor.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/russland-portal-enthuellt-putins-leibwaechter-trainieren-schon-fuer-den-putsch-82019440.bild.html",
-      "image_title": "Russland: Wladimir Putins Leibwächter trainieren schon für den Putsch!"
-    },
-    {
-      "title": "Um Israel zu erpressen : Palästinenser entführen Leiche aus Krankenhaus",
-      "teaser": "Bei dem Opfer handelt es sich um einen 18-jährigen Israeli, der bei einem Unfall starb.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/nahostkonflikt-palaestinenser-entfuehren-leiche-um-israel-zu-erpressen-82032654.bild.html",
-      "image_title": "Nahostkonflikt: Palästinenser entführen Leiche, um Israel zu erpressen"
-    },
-    {
-      "title": "Horror-Berichte aus Cherson : Russen sollen Gefallene auf Müllhalde verbrannt haben",
-      "teaser": "Nach Gefechten in Cherson soll die russische Armee ihre Toten unwürdigst verbrannt haben.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-cherson-horror-russen-sollen-gefallene-auf-muellhalde-verbrannt-ha-82021864.bild.html",
-      "image_title": "Ukraine-Krieg: Cherson-Horror! Russen sollen Gefallene auf Müllhalde verbrannt haben"
-    },
-    {
-      "title": "Er muss Steuer-Unterlagen veröffentlichen : Gerichts-Klatsche für Trump!",
-      "teaser": "Schadet ihm das im Rennen um den Wiedereinzug ins Weiße Haus?",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/donald-trump-gerichts-klatsche-er-muss-steuerunterlagen-veroeffentlichen-82031298.bild.html",
-      "image_title": "Donald Trump: Gerichts-Klatsche! Er muss Steuerunterlagen veröffentlichen"
-    },
-    {
-      "title": "Perfekte Tarnung : Ukraine-Panzer feuert aus Müllberg",
-      "url": "https://www.bild.de/video/clip/news-ausland/perfekte-tarnung-ukraine-panzer-feuert-aus-muellberg-82055374.bild.html",
-      "image_title": "Perfekte Tarnung: Ukraine-Panzer feuert aus Müllberg"
-    },
-    {
-      "title": "KIEW OHNE STROM : Menschen frieren stundenlang für ein wenig Wasser",
-      "url": "https://www.bild.de/video/clip/bild-tv/kiew-ohne-strom-menschen-frieren-stundenlang-fuer-ein-wenig-wasser-82046166.bild.html",
-      "image_title": "KIEW OHNE STROM: Menschen frieren stundenlang für ein wenig Wasser"
-    },
-    {
-      "title": "Autobahnkreuz explodiert : Ukrainer schießen Russen-Stellung ab",
-      "url": "https://www.bild.de/video/clip/news-ausland/praeziser-verteidgung-ukrainer-treffen-autobahn-posten-82030026.bild.html",
-      "image_title": "Autobahnkreuz explodiert: Ukrainer schießen Russen-Stellung ab"
-    }
-  ]
+  "articles": []
 }
