@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-28T02:59:10",
+  "timestamp": "2022-11-28T03:34:21",
   "url": "https://www.bild.de/politik/ausland/politik-ausland/home-15683414.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.c7b9c6b6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.5b1c5394.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3e48e5da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.995dbdeb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fe86cf2d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.79cb7c9d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Er berichtete über die Proteste : BBC-Reporter in China verhaftet",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/proteste-in-china-bbc-reporter-in-shanghai-verhaftet-82080130.bild.html",
-      "image_url": "https://images.bild.de/6383f55308ba5f71743a9ae9/80da973099a60f0c21fe6e316b37d8cd,84745405?w=656",
-      "image_title": "Proteste in China: BBC-Reporter in Shanghai verhaftet"
-    },
-    {
-      "title": "Energie-Chef glaubt an möglichen Abzug aus AKW : „Russen packen ihre Taschen und stehlen alles“",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-energie-chef-glaubt-an-moeglichen-abzug-aus-akw-saporischschja-82078458.bild.html",
-      "image_url": "https://images.bild.de/6383b1a1bbf447163932d66b/f7858f5084404500f031286c4cc3d51d,a7eade73?w=320",
-      "image_title": "Ukraine-Krieg Energie-Chef glaubt an möglichen Abzug aus AKW Saporischschja"
-    },
-    {
-      "title": "Anti-Regierungs-Proteste in China : Wie lange sitzt Knallhart-Xi noch fest im Sattel?",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/proteste-in-china-wiederholt-sich-das-tiananmen-massaker-82074568.bild.html",
-      "image_url": "https://images.bild.de/638353e2bbf447163932d5b7/c7152e30c96449f604e582e6e37c4ac3,4df8519b?w=320",
-      "image_title": "Proteste in China: Wiederholt sich das Tian’anmen-Massaker?"
-    },
-    {
-      "title": "Sie übte Kritik am Mullah-Regime : Nichte des Ajatollahs im Iran festgenommen",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/proteste-in-iran-nichte-des-ayatollah-festgenommen-82077480.bild.html",
-      "image_url": "https://images.bild.de/63839799bbf447163932d630/796ec6c068a5edace0abe450ec03ff02-miniSquare,96ddbc8b?w=320",
-      "image_title": "Proteste in Iran: Nichte des Ayatollah festgenommen"
-    },
-    {
-      "title": "Für ukrainische Suppenküchen : So wichtig ist deutsche Hilfe",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/fuer-ukrainische-suppenkuechen-so-wichtig-ist-deutsche-hilfe-82075746.bild.html",
-      "image_url": "https://images.bild.de/63835f6608ba5f71743a99e7/ba4173c2e528ea1dfce51eab02adec0e,a281fc0?w=320",
-      "image_title": "Für ukrainische Suppenküchen: So wichtig ist deutsche Hilfe"
-    },
-    {
-      "title": "Wirtschaftsexperte erklärt : 3 Gründe: Darum verliert Putin den Energiekrieg",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/wirtschaftsexperte-erklaert-drei-gruende-darum-verliert-putin-den-energiekrieg-82075058.bild.html",
-      "image_title": "Wirtschaftsexperte erklärt: 3 Gründe: Darum verliert Putin den Energiekrieg"
-    },
-    {
-      "title": "Nationale Sicherheit gefährdet : USA verbieten Huawei-Geräte",
-      "teaser": "Sie stellen ein inakzeptables Risiko für die nationale Sicherheit dar, die USA handelt.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/nationale-sicherheit-gefaehrdet-usa-verbieten-huawei-geraete-82073542.bild.html",
-      "image_title": "Nationale Sicherheit gefährdet: USA verbieten Huawei-Geräte"
-    },
-    {
-      "title": "Belarus-Minister Wladimir Makej (64) : Lukaschenko-Vertrauter plötzlich gestorben",
-      "teaser": "Makej starb einen „plötzlichen Tod“, wie eine belarussische Agentur berichtet.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/belarus-aussenminister-wladimir-makej-stirbt-ploetzlichen-tod-82070040.bild.html",
-      "image_title": "Belarus: Außenminister Wladimir Makej stirbt „plötzlichen Tod“"
-    },
-    {
-      "title": "Nach russischen Angriffen : Strom fast überall in Kiew zurück!",
-      "teaser": "In der ukrainischen Hauptstadt Kiew ist die Stromversorgung fast überall wieder hergestellt.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-kiew-hat-nach-russischen-angriffen-wieder-strom-82073312.bild.html",
-      "image_title": "Ukraine-Krieg: Kiew hat nach russischen Angriffen wieder Strom"
-    },
-    {
-      "title": "Brisantes Szenario von US-Denkfabrik : Will Putin Lukaschenko töten lassen?",
-      "teaser": "Belarus-Außenminister Makej ist tot. Dahinter könnte ein perfider Kreml-Plan stecken",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/us-experten-putin-plant-attentat-auf-lukaschenko-82072418.bild.html",
-      "image_title": "US-Experten: Putin plant Attentat auf Lukaschenko"
-    },
-    {
-      "title": "Proteste in Shanghai und Peking : Corona-Revolte gegen China-Xi",
-      "teaser": "Die Demonstranten riefen: „Nieder mit Xi Jinping!“",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/china-historische-proteste-in-shanghai-sturz-von-xi-jinping-gefordert-82071176.bild.html",
-      "image_title": "China: Historische Proteste in Shanghai – Sturz von Xi Jinping gefordert"
-    },
-    {
-      "title": "Nordkorea will stärkste Atommacht werden : Kim macht der Welt Angst",
-      "teaser": "Nordkoreas Diktator will sein Land zur stärksten Atommacht der Welt machen.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/nordkorea-will-staerkste-atommacht-werden-kims-kampfansage-82071606.bild.html",
-      "image_title": "Nordkorea will stärkste Atommacht werden: Kim macht der Welt Angst"
-    },
-    {
-      "title": "Wegen Regime-Kritik verhaftet : Iranischer Fußball-Star ist wieder frei",
-      "teaser": "Ghafouri war wegen „antistaatlicher Propaganda“ seit Donnerstag in Haft.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/voria-ghafouri-iranischer-fussball-star-ist-wieder-frei-82071520.bild.html",
-      "image_title": "Voria Ghafouri: Iranischer Fußball-Star ist wieder frei"
-    },
-    {
-      "title": "Kiew im Kriegs-Winter : Kein Strom, keine Russen",
-      "teaser": "In vielen ukrainischen Städten gibt es weder Licht noch Wasser. Aber auch keine Besatzer.",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/ukraine-krieg-kiew-im-winter-kein-strom-keine-russen-82068918.bild.html",
-      "image_title": "Ukraine-Krieg: Kiew im Winter: Kein Strom, keine Russen"
-    },
-    {
-      "title": "Schreckensurteile gegen Demonstranten : Diese Blutrichter töten für das Mullah-Regime",
-      "teaser": "Wer fällt Todesurteile gegen Demonstranten im Iran? BILD zeigt zwei iranische Blutrichter.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/iran-demonstrationen-diese-blutrichter-toeten-fuer-das-mullah-regime-82069746.bild.html",
-      "image_title": "Iran-Demonstrationen: Diese Blutrichter töten für das Mullah-Regime"
-    },
-    {
-      "title": "Schon über 80 Milliarden verpulvert : Putins Kriegs-Kassen-Problem",
-      "teaser": "Mehr als 9 Monate Krieg: Wie lange hält die Kreml-Kriegskasse noch?",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/ukraine-krieg-wie-lange-haelt-die-kreml-kriegs-kasse-noch-82067302.bild.html",
-      "image_title": "Ukraine-Krieg: Wie lange hält die Kreml-Kriegs-Kasse noch?"
-    },
-    {
-      "title": "Bericht: 120 000 neue Russen-Soldaten : Plant Putin die Frühlings-Offensive?",
-      "teaser": "Eine russische Offensive im Frühjahr 2023 könnte in Planung sein.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/bericht-120000-neue-russen-soldaten-plant-putin-eine-fruehlings-offensive-82068516.bild.html",
-      "image_title": "Bericht: 120 000 neue Russen-Soldaten – plant Putin eine Frühlings-Offensive?"
-    },
-    {
-      "title": "Nobelpreisträgerin Elena Zhemkova : Wir sind in Russland vogelfrei",
-      "teaser": "Vor der Nobelpreis-Verleihung sprach BILD mit Memorial-Chefin Elena Zhemkova (61).",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/nobelpreistraegerin-ueber-menschenrechte-in-russland-wir-sind-jetzt-vogelfrei-82061028.bild.html",
-      "image_title": "Nobelpreisträgerin Elena Zhemkova: Wir sind in Russland vogelfrei"
-    },
-    {
-      "title": "„Viele Beschwerden“ in Kiew : Selenskyj attackiert Klitschko",
-      "teaser": "Die Ukraine leidet unter den russischen Angriffen auf die Energieversorgung.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/ukraine-krieg-viele-beschwerden-in-kiew-selenskyj-attackiert-vitali-klitschko-82067156.bild.html",
-      "image_title": "Ukraine-Krieg: „Viele Beschwerden“ in Kiew – Selenskyj attackiert Vitali Klitschko"
-    },
-    {
-      "title": "Trotz strenger Null-Covid-Politik : China kämpft gegen größte Corona-Welle",
-      "teaser": "Die strengen Maßnahmen sorgen in der Bevölkerung für wachsenden Unmut – und Massen-Proteste.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/china-kaempft-gegen-groesste-corona-welle-82056840.bild.html",
-      "image_title": "China kämpft gegen größte Corona-Welle"
-    },
-    {
-      "title": "Nach Dinner in Mar-a-Lago : Trump zofft sich mit Kanye West",
-      "teaser": "Ex-US-Präsident Donald Trump und Rapper Kanye West haben Zoff wegen eines Dinners.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/donald-trump-und-kanye-west-zoff-nach-dinner-in-mar-a-lago-82065868.bild.html",
-      "image_title": "Donald Trump und Kanye West: Zoff nach Dinner in Mar-a-Lago"
-    },
-    {
-      "title": "Weil er die Mullahs kritisiert : Iranischer Fußball-Star festgenommen!",
-      "teaser": "Ex-Nationalfußballspieler Voria Ghafouri (35) wurde am Donnerstag wegen „antistaatlicher Propaganda“ festgenommen.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/weil-er-die-mullahs-kritisiert-iranischer-fussball-star-festgenommen-82058906.bild.html",
-      "image_title": "Weil er die Mullahs kritisiert : Iranischer Fußball-Star festgenommen!"
-    },
-    {
-      "title": "Sticheleien und offene Konfrontation : Jetzt wird Putin von seinen letzten Partnern gedemütigt",
-      "teaser": "Es läuft schlecht für Kriegstreiber Putin (70) – so schlecht, dass es sich nicht mehr kaschieren lässt.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-inland/jetzt-wird-putin-von-seinen-letzten-partnern-gedemuetigt-82047176.bild.html",
-      "image_title": "Jetzt wird Putin von seinen letzten Partnern gedemütigt"
-    },
-    {
-      "title": "Irre Drohung : Putins Koch schickt offenbar Blut-Hammer nach Brüssel",
-      "teaser": "Der Chef der „Wagner“-Söldner schickt ein blutiges „Geschenk“ an das EU-Parlament.",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/irre-drohung-putins-koch-schickt-blut-hammer-nach-bruessel-82057144.bild.html",
-      "image_title": "Ukraine-Krieg: Putins Koch schickt offenbar Blut-Hammer nach Brüssel"
-    },
-    {
-      "title": "Neues Gesetz macht es möglich : Vergewaltigung? US-Autorin verklagt Trump",
-      "teaser": "Wegen eines neuen Gesetzes kann E. Jean Carroll nun ihre Klage durchziehen.",
-      "url": "https://www.bild.de/politik/ausland/news-ausland/new-york-vergewaltigung-us-autorin-verklagt-donald-trump-82055576.bild.html",
-      "image_title": "New York: Vergewaltigung? US-Autorin verklagt Donald Trump"
-    },
-    {
-      "title": "Perfekte Tarnung : Ukraine-Panzer feuert aus Müllberg",
-      "url": "https://www.bild.de/video/clip/news-ausland/perfekte-tarnung-ukraine-panzer-feuert-aus-muellberg-82055374.bild.html",
-      "image_title": "Perfekte Tarnung: Ukraine-Panzer feuert aus Müllberg"
-    },
-    {
-      "title": "KIEW OHNE STROM : Menschen frieren stundenlang für ein wenig Wasser",
-      "url": "https://www.bild.de/video/clip/bild-tv/kiew-ohne-strom-menschen-frieren-stundenlang-fuer-ein-wenig-wasser-82046166.bild.html",
-      "image_title": "KIEW OHNE STROM: Menschen frieren stundenlang für ein wenig Wasser"
-    },
-    {
-      "title": "Autobahnkreuz explodiert : Ukrainer schießen Russen-Stellung ab",
-      "url": "https://www.bild.de/video/clip/news-ausland/praeziser-verteidgung-ukrainer-treffen-autobahn-posten-82030026.bild.html",
-      "image_title": "Autobahnkreuz explodiert: Ukrainer schießen Russen-Stellung ab"
-    }
-  ]
+  "articles": []
 }
