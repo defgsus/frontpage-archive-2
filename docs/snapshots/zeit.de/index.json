@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-28T06:25:54",
+  "timestamp": "2022-11-28T07:17:41",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.f51351dd.mjs",
       "id": null,
       "text": null
@@ -76,20 +82,54 @@
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
       "id": null,
       "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
-      "id": null,
-      "text": null
     }
   ],
   "articles": [
     {
+      "title": "Danke, dass Sie ZEIT ONLINE nutzen.",
+      "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
+    },
+    {
+      "title": "Munitionsgipfel im Kanzleramt: Alle alle",
+      "teaser": "Der Bundeswehr fehlen gewaltige Mengen an Munition, auch wegen des Ukraine-Kriegs. Das Kanzleramt sieht die Rüstungsindustrie in der Pflicht und lädt zum Krisengipfel.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-11/munitionsgipfel-kanzleramt-bundeswehr-ukraine",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/bundeswehr-munition/cinema__980x420",
+      "image_title": "Bundeswehr Munition"
+    },
+    {
+      "title": "Bundeswehrausrüstung: Klingbeil fordert Produktionssteigerungen der Rüstungsindustrie",
+      "teaser": "Kurz vor dem Munitionsgipfel im Kanzleramt droht der SPD-Chef: Die Bundeswehr brauche gute Ausrüstung, und zwar schnell. Sonst müsse sich der Bund im Ausland umsehen.",
+      "url": "https://www.zeit.de/politik/2022-11/bundeswehr-ausruestung-ruestungsindustrie-kapazitaeten-lars-klingbeil",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/bundeswehr-ausstattung-klingbeil-spd/wide__822x462",
+      "image_title": "Bundeswehrausrüstung: Klingbeil fordert Produktionssteigerungen der Rüstungsindustrie"
+    },
+    {
+      "title": "USA und EU: Protektionismus mit fataler Botschaft gen Moskau",
+      "teaser": "Weit mehr als sein Vorgänger greift US-Präsident Biden mit Subventionen in die Wirtschaft ein – und belastet so das Verhältnis zur EU. Dabei gibt es nur einen Gewinner.",
+      "url": "https://www.zeit.de/wirtschaft/2022-11/usa-eu-trump-biden-subventionen-wirtschaft-streit",
+      "image_url": "https://img.zeit.de/politik/2022-11/usa-eu-subventionen-wirtschaft-biden-bild/wide__822x462",
+      "image_title": "USA und EU: Protektionismus mit fataler Botschaft gen Moskau"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fußball-WM: Der Jedermannfußballer",
       "teaser": "Nur Unentschieden – Spanien gegen Deutschland war dennoch spannend: weil sich völlig verschiedene Teams maßen. Und weil ein Stürmer traf, der aus der Zeit gefallen ist.",
       "url": "https://www.zeit.de/sport/2022-11/spanien-deutschland-niclas-fuellkrug-wm-katar",
-      "image_url": "https://img.zeit.de/sport/2022-11/spanien-deutschland-niclas-fuellkrug-wm/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2022-11/spanien-deutschland-niclas-fuellkrug-wm/wide__822x462",
+      "image_title": "Fußball-WM: Der Jedermannfußballer"
+    },
+    {
+      "title": "Spanien – Deutschland: Sie können’s noch",
+      "teaser": "In einem schönen Spiel holt Deutschland einen Punkt gegen Spanien. Weil Hansi Flick dieses Mal richtig wechselt. Und Niclas Füllkrug sein Glück selbst in die Hand nimmt.",
+      "url": "https://www.zeit.de/sport/2022-11/spanien-deutschland-fussball-wm-niclas-fuellkrug",
+      "image_url": "https://img.zeit.de/sport/2022-11/niclas-fuellkrug/wide__822x462",
+      "image_title": "Spanien – Deutschland: Sie können’s noch"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); DFB-Protest: Diesem Verband glaubt man nicht",
+      "teaser": "Dem DFB nimmt niemand seine politischen Aktionen ab. Selbst bei Routineveranstaltungen blamiert er sich. Er hat Liebe und Vertrauen der Fans verspielt.",
+      "url": "https://www.zeit.de/sport/2022-11/dfb-protest-fifa-stumm-binde-glaubwuerdigkeit",
+      "image_url": "https://img.zeit.de/sport/2022-11/dfb-protest-fifa-stumm-binde-glaubwuerdigkeit-2/wide__822x462",
+      "image_title": "DFB-Protest: Diesem Verband glaubt man nicht"
     },
     {
       "title": "Corona-Proteste: BBC-Reporter in China festgenommen und von Polizei misshandelt",
@@ -99,18 +139,18 @@
       "image_title": "Corona-Proteste: BBC-Reporter in China festgenommen und von Polizei misshandelt"
     },
     {
-      "title": "Ukraine-Überblick: \"Gewaltige Zerstörung\" in Cherson, Russland beschränkt Getreideausfuhr",
-      "teaser": "In der Stadt Cherson fehlt es an Strom, Wasser, Essen und Medikamenten. Der Beschuss dauert an. Laut der Ukraine verzögert Russland die Ausfuhr von Getreide. Die Nacht",
-      "url": "https://www.zeit.de/politik/ausland/2022-11/ukraine-ueberblick-cherson-zerstoerung-getreideabkommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/ukraine-ueberblick-cherson-evakuation/wide__822x462",
-      "image_title": "Ukraine-Überblick: \"Gewaltige Zerstörung\" in Cherson, Russland beschränkt Getreideausfuhr"
-    },
-    {
       "title": "Liveblog: Ukraine-News: \"Russland versucht, die Kälte gegen Menschen einzusetzen\"",
       "teaser": "Der Präsident der Ukraine stimmt auf einen harten Winter mit heftigen Angriffen ein. Großbritannien verspricht neue Hilfen für die Luftverteidigung. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
       "image_url": "https://img.zeit.de/politik/ausland/2022-11/ukraine-liveblog-schnee-kiew-flaggen/wide__822x462",
       "image_title": "Ukraine-News: \"Russland versucht, die Kälte gegen Menschen einzusetzen\""
+    },
+    {
+      "title": "Farideh Moradchani: Nichte von Ayatollah Chamenei fordert Isolierung des Irans",
+      "teaser": "Unter den Protestlern im Iran ist auch eine enge Verwandte des geistlichen Oberhaupts. Aus dem Ewin-Gefängnis richtet sie sich auch an die internationale Gemeinschaft.",
+      "url": "https://www.zeit.de/politik/ausland/2022-11/iranische-proteste-farideh-moradchani-isolierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/iranische-proteste-farideh-moradchani/wide__822x462",
+      "image_title": "Farideh Moradchani: Nichte von Ayatollah Chamenei fordert Isolierung des Irans"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frauen in Ostdeutschland: Warum die Frauen in Ostdeutschland mehr verdienen",
@@ -120,13 +160,6 @@
       "image_title": "Frauen in Ostdeutschland: Warum die Frauen in Ostdeutschland mehr verdienen"
     },
     {
-      "title": "\"Was jetzt?\"-Newsletter: Null-Covid-Strategie, Vaterschaftsurlaub, E-Van-Life",
-      "teaser": "In China demonstrieren immer mehr Menschen, in weiten Teilen der Ukraine gibt es wieder Strom und Deutschland spielt gegen Spanien unentschieden. Der Morgenüberblick",
-      "url": "https://www.zeit.de/newsletter/was-jetzt/2022-11/china-vaterschaftsurlaub-vanlife-2022-11-28",
-      "image_url": "https://img.zeit.de/newsletter/was-jetzt/wasjetzt-nl-artikeltitelbild/wide__822x462",
-      "image_title": "\"Was jetzt?\"-Newsletter: Null-Covid-Strategie, Vaterschaftsurlaub, E-Van-Life"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Erbschaftssteuer bei Immobilien • Das Beste aus Z+: Droht jetzt der Notverkauf von Omas Häuschen?",
       "teaser": "Ab 2023 könnte es wegen einer Steuerreform teuer werden, eine Immobilie zu erben. Doch es gibt Lösungen, hohe Erbschaftssteuern zu umgehen.",
       "url": "https://www.zeit.de/wirtschaft/2022-11/erbschaftssteuer-immobilien-vermoegen-jahressteuergesetz",
@@ -134,11 +167,11 @@
       "image_title": "Erbschaftssteuer bei Immobilien • Das Beste aus Z+: Droht jetzt der Notverkauf von Omas Häuschen?"
     },
     {
-      "title": "Nachrichtenpodcast: Bei den Protesten in China geht es um mehr als nur Corona-Maßnahmen",
-      "teaser": "In mehreren chinesischen Städten protestieren Menschen gegen die Politik der Regierung. Außerdem im Podcast: Das Kanzleramt sucht nach Lösungen für den Munitionsmangel.",
-      "url": "https://www.zeit.de/politik/2022-11/null-covid-politik-china-protest-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Bei den Protesten in China geht es um mehr als nur Corona-Maßnahmen"
+      "title": "Familienministerin: Zweiwöchiger Vaterschaftsurlaub soll 2024 kommen",
+      "teaser": "Väter sollen in den ersten zwei Wochen nach der Geburt eines Babys frei bekommen, damit sie sich um Mutter und Kind kümmern können. Das plant das Familienministerium.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-11/familienministerin-vaterschaftsurlaub-wochenbett",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/vater-neugeborenes/wide__822x462",
+      "image_title": "Familienministerin: Zweiwöchiger Vaterschaftsurlaub soll 2024 kommen"
     },
     {
       "title": "Bargeldzahlungen: Sollten Bargeldgeschäfte in Höhe von über 10.000 Euro verboten werden?",
@@ -153,20 +186,6 @@
       "url": "https://www.zeit.de/digital/internet/2022-11/netzausbau-volker-wissing-funkloecher-betreiber",
       "image_url": "https://img.zeit.de/digital/internet/2022-11/netzausbau-volker-wissing-funkloecher/wide__822x462",
       "image_title": "Funklöcher: Volker Wissing droht mit Sanktionen wegen schleppenden Netzausbauten"
-    },
-    {
-      "title": "Staatsbürgerschaft: Union und FDP kritisieren geplante Änderung des Einbürgerungsrechts",
-      "teaser": "Die Union fürchtet, durch die Reform des Staatsbürgerschaftsrechts würde der deutsche Pass entwertet. Und selbst Koalitionspartner FDP hält den Zeitpunkt für unpassend.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/staatsbuergerschaft-aenderung-kritik-union-fdp",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/einbuergerungsfeier-gruppenfoto/wide__822x462",
-      "image_title": "Staatsbürgerschaft: Union und FDP kritisieren geplante Änderung des Einbürgerungsrechts"
-    },
-    {
-      "title": "Familienministerin: Zweiwöchiger Vaterschaftsurlaub soll 2024 kommen",
-      "teaser": "Väter sollen in den ersten zwei Wochen nach der Geburt eines Babys frei bekommen, damit sie sich um Mutter und Kind kümmern können. Das plant das Familienministerium.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/familienministerin-vaterschaftsurlaub-wochenbett",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/vater-neugeborenes/wide__822x462",
-      "image_title": "Familienministerin: Zweiwöchiger Vaterschaftsurlaub soll 2024 kommen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Energiekrise: Es gibt Grund zur Hoffnung",
@@ -197,13 +216,6 @@
       "image_title": "SPD: Berliner Justiz stellt Ermittlungen zu K.-o.-Tropfen bei SPD-Fest ein"
     },
     {
-      "title": "Fußball-WM: Ausschreitungen in Belgien und den Niederlanden nach Marokkos WM-Sieg",
-      "teaser": "Marokko hatte Belgien bei der WM besiegt – daraufhin kam es unter anderem in Brüssel zu Zusammenstößen zwischen Fans und Polizei. Einige Menschen wurden festgenommen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-11/fussball-wm-katar-ausschreitungen-sieg-marokko",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-11/fussball-wm-katar-ausschreitungen-sieg-marokko-bild/wide__822x462",
-      "image_title": "Fußball-WM: Ausschreitungen in Belgien und den Niederlanden nach Marokkos WM-Sieg"
-    },
-    {
       "title": "Großbritannien: Brexit wohl Mitschuld an Ärztemangel in Großbritannien",
       "teaser": "Das britische Gesundheitswesen hat zu wenig Personal. Eine Studie legt nahe: Der Brexit dürfte die Lage verschärft haben. Tausende Ärzte aus der EU fehlten jetzt.",
       "url": "https://www.zeit.de/politik/ausland/2022-11/grossbritannien-aerztemangel-brexit-studie",
@@ -211,18 +223,18 @@
       "image_title": "Großbritannien: Brexit wohl Mitschuld an Ärztemangel in Großbritannien"
     },
     {
+      "title": "Bundeskunsthalle in Bonn: Das ist doch albern",
+      "teaser": "Die Bundeskunsthalle in Bonn zeigt in der Schau \"Ernsthaft!? Albernheit und Enthusiasmus in der Kunst\" Werke großer Blödheit. Die Kunst ist hier enthusiastisch peinlich.",
+      "url": "https://www.zeit.de/2022/48/bundeskunsthalle-bonn-ernsthaft-albernheit-und-enthusiasmus-in-der-kunst",
+      "image_url": "https://img.zeit.de/2022/48/bundeskunsthalle-bonn-ernsthaft-albernheit-und-enthusiasmus-in-der-kunst-teaser/wide__822x462",
+      "image_title": "Bundeskunsthalle in Bonn: Das ist doch albern"
+    },
+    {
       "title": "Hemdblusenkleid: Eines für alle",
       "teaser": "Es ist für jeden Körper geeignet, bequem und trotzdem ausreichend formell. 24 Thesen, warum das Hemdblusenkleid zu Recht ein Fashiontrend ist.",
       "url": "https://www.zeit.de/zeit-magazin/2022/48/hemdblusenkleid-trend-stil",
       "image_url": "https://img.zeit.de/zeit-magazin/2022-11/hemdblusenkleid-trend-stil-bild/cinema__980x420",
       "image_title": "Hemdblusenkleid: Eines für alle"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schachgroßmeister Helmut Pfleger: \"Schach hatte eine enorme politische Brisanz\"",
-      "teaser": "Seit 40 Jahren schreibt Helmut Pfleger die Schachkolumne im ZEITmagazin. Er erzählt von sowjetischen Großmeistern, Betrug und der Logik des Spiels, die ihn begeistert.",
-      "url": "https://www.zeit.de/zeit-magazin/2022/48/helmut-pfleger-schachgrossmeister-kolumnist",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-11/helmut-pfleger-schachgrossmeister-kolumnist-bild/wide__822x462",
-      "image_title": "Schachgroßmeister Helmut Pfleger: \"Schach hatte eine enorme politische Brisanz\""
     },
     {
       "title": "China: Darum geht es bei den Corona-Protesten in China",
@@ -367,25 +379,25 @@
       "image_title": "Apfelküchle: Herrin der Apfelringe"
     },
     {
-      "title": "Steuererhöhung: Ampel weiter uneins über Belastung von Vermögen",
-      "teaser": "SPD und Grüne wollen Wohlhabende stärker an den Kosten der Krise beteiligen. \"Wir müssen auf dem Pfad der Entlastung bleiben\", widerspricht der FDP-Fraktionschef.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/steuern-vermoegen-ampel-spd-gruene-kritik-fdp",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/steuern-vermoegen-ampel-spd-gruene/cinema__980x420",
-      "image_title": "Steuererhöhung: Ampel weiter uneins über Belastung von Vermögen"
+      "title": "\"Was jetzt?\"-Newsletter: Null-Covid-Strategie, Vaterschaftsurlaub, E-Van-Life",
+      "teaser": "In China demonstrieren immer mehr Menschen, in weiten Teilen der Ukraine gibt es wieder Strom und Deutschland spielt gegen Spanien unentschieden. Der Morgenüberblick",
+      "url": "https://www.zeit.de/newsletter/was-jetzt/2022-11/china-vaterschaftsurlaub-vanlife-2022-11-28",
+      "image_url": "https://img.zeit.de/newsletter/was-jetzt/wasjetzt-nl-artikeltitelbild/cinema__980x420",
+      "image_title": "\"Was jetzt?\"-Newsletter: Null-Covid-Strategie, Vaterschaftsurlaub, E-Van-Life"
     },
     {
-      "title": "USA: Republikaner fordern \"besseres Urteilsvermögen\" von Donald Trump",
-      "teaser": "Der frühere US-Präsident sieht kein Problem in seinem Treffen mit Kanye West und dem Rassisten Nick Fuentes. Doch nun sprechen auch frühere Unterstützer deutliche Worte.",
-      "url": "https://www.zeit.de/politik/ausland/2022-11/usa-donald-trump-nick-fuentes-rassismus-kanye-west-antisemitismus",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/donald-trump-kanye-west-rassismus/wide__822x462",
-      "image_title": "USA: Republikaner fordern \"besseres Urteilsvermögen\" von Donald Trump"
+      "title": "Nachrichtenpodcast: Bei den Protesten in China geht es um mehr als nur Corona-Maßnahmen",
+      "teaser": "In mehreren chinesischen Städten protestieren Menschen gegen die Politik der Regierung. Außerdem im Podcast: Das Kanzleramt sucht nach Lösungen für den Munitionsmangel.",
+      "url": "https://www.zeit.de/politik/2022-11/null-covid-politik-china-protest-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Bei den Protesten in China geht es um mehr als nur Corona-Maßnahmen"
     },
     {
-      "title": "Österreich und die Ukraine: Bedingt solidarisch",
-      "teaser": "Als neutrales Land liefert Österreich keine Waffen an die Ukraine. Was kann das Land sonst tun, um die Ukraine zu unterstützen?",
-      "url": "https://www.zeit.de/2022/48/oesterreich-ukraine-unterstuetzung-waffenlieferung",
-      "image_url": "https://img.zeit.de/2022/48/bedingt-solidarisch-bild-1/wide__822x462",
-      "image_title": "Österreich und die Ukraine: Bedingt solidarisch"
+      "title": "Ukraine-Überblick: \"Gewaltige Zerstörung\" in Cherson, Russland beschränkt Getreideausfuhr",
+      "teaser": "In der Stadt Cherson fehlt es an Strom, Wasser, Essen und Medikamenten. Der Beschuss dauert an. Laut der Ukraine verzögert Russland die Ausfuhr von Getreide. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2022-11/ukraine-ueberblick-cherson-zerstoerung-getreideabkommen",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/ukraine-ueberblick-cherson-zerstoerung/wide__822x462",
+      "image_title": "Ukraine-Überblick: \"Gewaltige Zerstörung\" in Cherson, Russland beschränkt Getreideausfuhr"
     },
     {
       "title": "Worträtsel: Wortiger",
@@ -395,10 +407,17 @@
       "image_title": "Worträtsel: Wortiger"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bischhöfe im Vatikan: \"Wir sind anders katholisch!\"",
+      "teaser": "Die deutschen Bischöfe waren zu Besuch in Rom, um den Papst von ihren Reformen zu überzeugen. Leider haben sie versäumt, sich vorher mit ihm zu verbünden.",
+      "url": "https://www.zeit.de/2022/48/deutsche-bischhoefe-vatikan-papst-reform",
+      "image_url": "https://img.zeit.de/2022/48/wir-sind-anders-katholisch-bild-1/cinema__980x420",
+      "image_title": "Deutsche Bischhöfe im Vatikan: \"Wir sind anders katholisch!\""
+    },
+    {
       "title": "Deutschlehrer in Frankreich: \"Wer kennt schon Olaf Scholz?\"",
       "teaser": "Der französische Lehrer Alain Christophe ärgert sich, dass seine Schülerinnen und Schüler lieber Latein lernen als Deutsch – und keine Ahnung vom Nachbarland haben.",
       "url": "https://www.zeit.de/gesellschaft/2022-11/deutschlehrer-frankreich-schueler-politik-europa",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-11/deutschlehrer-frankreich-schueler-politik/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-11/deutschlehrer-frankreich-schueler-politik/wide__822x462",
       "image_title": "Deutschlehrer in Frankreich: \"Wer kennt schon Olaf Scholz?\""
     },
     {
@@ -409,15 +428,8 @@
       "image_title": "Sam Bankman-Fried: Extremisten der Aufklärung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Migration: \"Ich habe das Gefühl, dass Kinder hier unabhängiger sein können\"",
-      "teaser": "Fast unbemerkt sind Menschen aus Indien zu einer der am stärksten wachsenden Einwanderergruppen in Deutschland geworden. Viele haben gute Jobs. Doch bleiben sie auch?",
-      "url": "https://www.zeit.de/gesellschaft/2022-11/migration-indien-fachkraefte-studierende-zuwanderung-deutschland",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-11/migration-indien-fachkraefte-studierende-zuwanderung-6/wide__822x462",
-      "image_title": "Migration: \"Ich habe das Gefühl, dass Kinder hier unabhängiger sein können\""
-    },
-    {
       "title": "Arbeitskräftemangel: DIHK fordert vereinfachte Zuwanderungsregeln für Fachkräfte",
-      "teaser": "Der Industrie- und Handelskammertag dringt auf unkomplizierte Einwanderungsverfahren für Fachkräfte. Der Arbeitskräftemangel sei für Unternehmen ein Geschäftsrisiko. 259 Kommentare",
+      "teaser": "Der Industrie- und Handelskammertag dringt auf unkomplizierte Einwanderungsverfahren für Fachkräfte. Der Arbeitskräftemangel sei für Unternehmen ein Geschäftsrisiko. 263 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2022-11/fachkraeftemangel-einwanderung-unternehmen-industrie-handelskammer",
       "image_url": "https://img.zeit.de/politik/deutschland/2022-11/fachkraeftemangel-deutschland-einwanderung/cinema__980x420",
       "image_title": "Arbeitskräftemangel: DIHK fordert vereinfachte Zuwanderungsregeln für Fachkräfte"
@@ -605,10 +617,17 @@
       "image_title": "Verlagsangebot: Englischquiz – Achtung, falsche Freunde!"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Schachgroßmeister Helmut Pfleger: \"Schach hatte eine enorme politische Brisanz\"",
+      "teaser": "Seit 40 Jahren schreibt Helmut Pfleger die Schachkolumne im ZEITmagazin. Er erzählt von sowjetischen Großmeistern, Betrug und der Logik des Spiels, die ihn begeistert.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/48/helmut-pfleger-schachgrossmeister-kolumnist",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-11/helmut-pfleger-schachgrossmeister-kolumnist-bild/cinema__980x420",
+      "image_title": "Schachgroßmeister Helmut Pfleger: \"Schach hatte eine enorme politische Brisanz\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geduld: Warten kann wunderbar sein",
       "teaser": "Alles soll schnell gehen. Aber die Adventszeit lehrt das Warten. Eine Krebspatientin, eine Liebende, ein Angler und ein Anwalt erzählen, was man dabei gewinnt.",
       "url": "https://www.zeit.de/zeit-magazin/2022/48/geduld-warten-arzttermin-fischen-liebe",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-11/geduld-warten-arzttermin-fischen-liebe-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-11/geduld-warten-arzttermin-fischen-liebe-bild/wide__822x462",
       "image_title": "Geduld: Warten kann wunderbar sein"
     },
     {
@@ -624,13 +643,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2022-11/aelterwerden-freuen-positive-ueberraschung-gedanken-aufruf",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-11/aelterwerden-freuen-positive-ueberraschung-gedanken/wide__822x462",
       "image_title": "Älter werden: Worauf können wir uns freuen?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lebkuchengranola mit Bratäpfeln: Festtagsstimmung am Frühstückstisch",
-      "teaser": "Mit Lebkuchengewürz kann man alles verfeinern, sogar das Frühstücksgranola. Zum Glück hat es gerade Saison! Bratäpfel sorgen für extra Weihnachtsgefühle.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-11/lebkuchen-granola-brataepfel-rezept-tegernsee-kitchen-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-11/lebkuchen-granola-brataepfel-rezept-tegernsee-kitchen-sonntagsessen-teaser/wide__822x462",
-      "image_title": "Lebkuchengranola mit Bratäpfeln: Festtagsstimmung am Frühstückstisch"
     },
     {
       "title": "Jeden Tag neue Angebote entdecken!",
@@ -655,11 +667,11 @@
       "image_title": "Wohngemeinschaft: WG mal anders"
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Cancel-Culture: Gefährliche Selbstzensur",
@@ -732,17 +744,10 @@
       "image_title": "Deutsches Hafenmuseum in Hamburg: \"Der Hafen ist ein Emotionsort\""
     },
     {
-      "title": "Spanien – Deutschland: Sie können’s noch",
-      "teaser": "In einem schönen Spiel holt Deutschland einen Punkt gegen Spanien. Weil Hansi Flick dieses Mal richtig wechselt. Und Niclas Füllkrug sein Glück selbst in die Hand nimmt.",
-      "url": "https://www.zeit.de/sport/2022-11/spanien-deutschland-fussball-wm-niclas-fuellkrug",
-      "image_url": "https://img.zeit.de/sport/2022-11/niclas-fuellkrug/cinema__980x420",
-      "image_title": "Spanien – Deutschland: Sie können’s noch"
-    },
-    {
       "title": "WM in Katar: Deutschland spielt unentschieden gegen Spanien",
-      "teaser": "Auch das zweite Spiel der WM kann das DFB-Team nicht gewinnen – holt aber einen Punkt. Deutschland hat damit weiter eine Chance auf den Einzug in die nächste Runde.",
+      "teaser": "Auch das zweite Spiel der WM kann das DFB-Team nicht gewinnen – holt aber einen Punkt. Deutschland hat damit weiter eine Chance auf den Einzug in die nächste Runde. 295 Kommentare",
       "url": "https://www.zeit.de/sport/2022-11/spanien-deutschland-fussball-wm-katar-2022",
-      "image_url": "https://img.zeit.de/sport/2022-11/wm-deutschland-spanien-vorrunde-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/sport/2022-11/wm-deutschland-spanien-vorrunde-bild/cinema__980x420",
       "image_title": "WM in Katar: Deutschland spielt unentschieden gegen Spanien"
     },
     {
@@ -751,6 +756,13 @@
       "url": "https://www.zeit.de/sport/2022-11/live-spanien-deutschland-fussball-wm",
       "image_url": "https://img.zeit.de/sport/2022-11/wm-deutschland-ausgleich-spanien-bild/wide__822x462",
       "image_title": "Spanien – Deutschland: Lücke macht es"
+    },
+    {
+      "title": "Fußball-WM in Katar: Kanada verliert gegen Kroatien und scheidet aus",
+      "teaser": "Kanada schießt gegen Kroatien ein frühes Tor, verliert jedoch am Ende deutlich. Für die kroatische Mannschaft trifft ein Stürmer aus der Bundesliga doppelt.",
+      "url": "https://www.zeit.de/sport/2022-11/kroatien-kanada-fussball-wm-katar-2022",
+      "image_url": "https://img.zeit.de/sport/2022-11/kroatien-kanada-wm-gruppe-f-bild/wide__822x462",
+      "image_title": "Fußball-WM in Katar: Kanada verliert gegen Kroatien und scheidet aus"
     },
     {
       "title": "Wochenmarkt: Was essen wir heute?",
@@ -802,36 +814,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Wetter: Niedersachsen und Bremen: Bedeckter und regnerischer Montag",
-      "url": "https://www.zeit.de/news/2022-11/28/niedersachsen-und-bremen-bedeckter-und-regnerischer-montag"
+      "title": "Tiere: Wölfe breiten sich aus: Mehr Rudel und mehr Nutztierattacken",
+      "url": "https://www.zeit.de/news/2022-11/28/woelfe-breiten-sich-aus-mehr-rudel-und-mehr-nutztierattacken"
     },
     {
-      "title": "Recklinghausen: Geldautomat in Marl gesprengt: Täter auf der Flucht",
-      "url": "https://www.zeit.de/news/2022-11/28/geldautomat-in-marl-gesprengt-taeter-auf-der-flucht"
+      "title": "Wetter: Mix aus Regen und Wolken in Rheinland-Pfalz und im Saarland",
+      "url": "https://www.zeit.de/news/2022-11/28/mix-aus-regen-und-wolken-in-rheinland-pfalz-und-im-saarland"
     },
     {
-      "title": "Finanzen: Krankenhausgesellschaft: Finanzielle Lage verschlechtert",
-      "url": "https://www.zeit.de/news/2022-11/28/krankenhausgesellschaft-finanzielle-lage-verschlechtert"
+      "title": "Wetter: Neue Woche startet in Thüringen bewölkt",
+      "url": "https://www.zeit.de/news/2022-11/28/neue-woche-startet-in-thueringen-bewoelkt"
     },
     {
-      "title": "Wetter: Windiger Montag in Hamburg und Schleswig-Holstein erwartet",
-      "url": "https://www.zeit.de/news/2022-11/28/windiger-montag-in-hamburg-und-schleswig-holstein-erwartet"
+      "title": "Parlament: Tradition oder kann das weg? Kritik am House of Lords",
+      "url": "https://www.zeit.de/news/2022-11/28/tradition-oder-kann-das-weg-kritik-am-house-of-lords"
     },
     {
-      "title": "Hamburg: Auto fährt in Gegenverkehr: Unfall in Rahlstedt",
-      "url": "https://www.zeit.de/news/2022-11/28/auto-faehrt-in-gegenverkehr-unfall-in-rahlstedt"
+      "title": "Wetter: Zum Wochenstart viele Wolken",
+      "url": "https://www.zeit.de/news/2022-11/28/zum-wochenstart-viele-wolken"
     },
     {
-      "title": "Hochsauerlandkreis: Lkw auf A46 bei Meschede ausgebrannt",
-      "url": "https://www.zeit.de/news/2022-11/28/lkw-auf-a46-bei-meschede-ausgebrannt"
+      "title": "Wetter: Trüber Wochenbeginn in Sachsen",
+      "url": "https://www.zeit.de/news/2022-11/28/trueber-wochenbeginn-in-sachsen"
     },
     {
-      "title": "Vorpommern-Rügen: Mann fährt gegen Baum und wird schwer verletzt",
-      "url": "https://www.zeit.de/news/2022-11/28/mann-faehrt-gegen-baum-und-wird-schwer-verletzt"
+      "title": "Wetter: Bewölkter Herbsttag in Mecklenburg-Vorpommern erwartet",
+      "url": "https://www.zeit.de/news/2022-11/28/bewoelkter-herbsttag-in-mecklenburg-vorpommern-erwartet"
     },
     {
-      "title": "Gesundheit: Grippewelle in MV nimmt Fahrt auf",
-      "url": "https://www.zeit.de/news/2022-11/28/grippewelle-in-mv-nimmt-fahrt-auf"
+      "title": "Vorpommern-Greifswald: Betrunkener Fahrer verursacht beim Überholen Unfall",
+      "url": "https://www.zeit.de/news/2022-11/28/betrunkener-fahrer-verursacht-beim-ueberholen-unfall"
     }
   ]
 }
