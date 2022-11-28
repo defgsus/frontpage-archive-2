@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-28T12:38:08",
+  "timestamp": "2022-11-28T13:29:55",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,12 +67,6 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.f51351dd.mjs",
       "id": null,
       "text": null
@@ -82,15 +76,41 @@
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
     {
+      "title": "Protest im Iran: \"Es gibt kein Zurück\"",
+      "teaser": "Ihre Mutter sitzt in Teheran im berüchtigten Ewin-Gefängnis. Im Gespräch erklärt Mariam Claren, wie sie Kontakt halten – und warum es um den Iran nicht still werden darf.",
+      "url": "https://www.zeit.de/2022/48/iran-protest-regimegegner-haft-ewin-gefaengnis",
+      "image_url": "https://img.zeit.de/2022/48/iran-protest-regimegegner-haft-ewin-gefaengnis-bild/cinema__980x420"
+    },
+    {
+      "title": "China: Britische Regierung kritisiert Festnahme von BBC-Reporter",
+      "teaser": "Am Rande von Protesten in Shanghai hatte die Polizei einen BBC-Reporter festgenommen und misshandelt. \"Zutiefst beunruhigend\" nennt dies der britische Außenminister.",
+      "url": "https://www.zeit.de/politik/ausland/2022-11/china-britische-regierung-festnahme-bbc",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/china-grossbritannien-festnahme-bild/wide__822x462",
+      "image_title": "China: Britische Regierung kritisiert Festnahme von BBC-Reporter"
+    },
+    {
       "title": "Proteste in China: \"Endlich sehen wir Licht\"",
       "teaser": "Sie haben Angst, staunen aber auch über ihren eigenen Mut: Unterwegs mit jungen Demonstrierenden in Peking, die an den mutigsten Protesten seit 1989 teilnehmen.",
       "url": "https://www.zeit.de/politik/ausland/2022-11/china-proteste-null-covid-urumqi-peking",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/china-proteste-peking/cinema__980x420",
-      "image_title": "China Proteste Peking"
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/china-proteste-peking/wide__822x462",
+      "image_title": "Proteste in China: \"Endlich sehen wir Licht\""
+    },
+    {
+      "title": "Demonstrationen in China: \"Wir wollen keine PCR-Tests, wir wollen Freiheit\"",
+      "teaser": "In China wächst die Wut auf die Regierung. Viele haben genug von Isolation und Massentests. Sie gehen auf die Straße und riskieren, festgenommen zu werden. Die Bilder",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-11/china-demonstrationen-corona-fs",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-11/china-demonstrationen-corona-teaser/cinema__980x420",
+      "image_title": "Demonstrationen in China: \"Wir wollen keine PCR-Tests, wir wollen Freiheit\""
     },
     {
       "title": "Ukraine-Karte aktuell: Russische Armee wappnet sich gegen ukrainische Überquerung des Dnipro",
@@ -107,18 +127,32 @@
       "image_title": "Ukraine-News: Ukraine rechnet mit neuen Raketenangriffen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Soziologe Raj Kollmorgen: \"So prägen sich Angstsyndrome aus\"",
+      "teaser": "Viele Ostdeutsche wähnen sich in einer andauernden Zumutungsspirale, sagt der Soziologe Raj Kollmorgen. Im Interview erklärt er, warum das zu einfach gedacht ist.",
+      "url": "https://www.zeit.de/2022/48/raj-kollmorgen-soziologe-ostdeutschland-stabilitaet",
+      "image_url": "https://img.zeit.de/2022/48/raj-kollmorgen-soziologe-ostdeutschland-stabilitaet-teaser/cinema__980x420",
+      "image_title": "Soziologe Raj Kollmorgen: \"So prägen sich Angstsyndrome aus\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Vermögensberater Gerd Kommer • Das Beste aus Z+: \"Kaufen rentabler als Mieten? Das ist eindeutig Quatsch\"",
+      "teaser": "Viele Hauskäufer rechneten sich ihre Investition schön, sagt Gerd Kommer. Für den Vermögensberater führt der Weg zum Wohlstand nicht über den Immobilienmarkt.",
+      "url": "https://www.zeit.de/wirtschaft/geldanlage/2022-11/vermoegensberater-gerd-kommer-mieten-immobilienmarkt",
+      "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2022-11/vermoegensberater-gerd-kommer-mieten/wide__822x462",
+      "image_title": "Vermögensberater Gerd Kommer • Das Beste aus Z+: \"Kaufen rentabler als Mieten? Das ist eindeutig Quatsch\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fleece: Aber bitte nur im Fleece-Waschgang",
       "teaser": "Von der Wanderklamotte hat Fleece sich zum Gorpcore-Fashion-Darling gewandelt. Das Problem: Das Zeug hat eine miese Umweltbilanz. Doch richtiges Waschen hilft enorm.",
       "url": "https://www.zeit.de/green/2022-11/fleece-textil-erdoel-microplastik",
-      "image_url": "https://img.zeit.de/green/2022-11/fleece-textil-erdoel-microplastik-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/green/2022-11/fleece-textil-erdoel-microplastik-bild/wide__822x462",
       "image_title": "Fleece: Aber bitte nur im Fleece-Waschgang"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Data Scientist • Das Beste aus Z+: Neuer Job in zwölf Wochen – und das ohne Studium",
-      "teaser": "Viele Unternehmen suchen nach Menschen, die mit Daten umgehen können. Wie der Quereinstieg funktioniert – und warum Geisteswissenschaftler in dem Job gefragt sind.",
-      "url": "https://www.zeit.de/zeit-spezial/2022/01/data-scientist-beruf-studium-quereinstieg",
-      "image_url": "https://img.zeit.de/zeit-spezial/2022/01/data-scientist-beruf-studium/wide__822x462",
-      "image_title": "Data Scientist • Das Beste aus Z+: Neuer Job in zwölf Wochen – und das ohne Studium"
+      "title": "DFB-Stürmer: Mehr Niclas Füllkrug wagen",
+      "teaser": "Nach seinem Tor sind alle fasziniert vom Außenseiter Niclas Füllkrug. Er beweist: Hier sind auch Normalos bei der Arbeit. Solche Typen braucht jede Branche.",
+      "url": "https://www.zeit.de/arbeit/2022-11/niclas-fuellkrug-dfb-stuermer-fussball-wm-katar",
+      "image_url": "https://img.zeit.de/arbeit/2022-11/niclas-fuellkrug-dfb-stuermer-fussball-wm/wide__822x462",
+      "image_title": "DFB-Stürmer: Mehr Niclas Füllkrug wagen"
     },
     {
       "title": "WM in Katar: Kamerun und Serbien trennen sich unentschieden",
@@ -128,32 +162,11 @@
       "image_title": "WM in Katar: Kamerun und Serbien trennen sich unentschieden"
     },
     {
-      "title": "Globalisierung: Lieferengpässe kosteten Industrie 64 Milliarden Euro an Wertschöpfung",
-      "teaser": "Die Produktionseinbußen durch den Mangel an Vorprodukten waren enorm – und betrafen vor allem Autokonzerne. Lieferketten müssen deutlich robuster werden, mahnen Experten.",
-      "url": "https://www.zeit.de/wirtschaft/2022-11/industrie-lieferketten-probleme-wertschoepfung-verlust",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-11/industrie-lieferketten-probleme-wertschoepfung/wide__822x462",
-      "image_title": "Globalisierung: Lieferengpässe kosteten Industrie 64 Milliarden Euro an Wertschöpfung"
-    },
-    {
-      "title": "Energiekrise: Kartellamt sieht keine Anzeichen für Absprachen bei Spritpreisen",
-      "teaser": "In den Wochen und Monaten nach Beginn des Ukrainekriegs ist der Ölpreis gesunken – die Preise für Diesel und Benzin aber gestiegen. Rechtswidrig war dies offenbar nicht.",
-      "url": "https://www.zeit.de/politik/2022-11/energiekrise-kartellamt-absprachen-spritpreise-diesel-benzin",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/mineraloelkonzerne-tankstelle-bundeskartellamt/wide__822x462",
-      "image_title": "Energiekrise: Kartellamt sieht keine Anzeichen für Absprachen bei Spritpreisen"
-    },
-    {
-      "title": "Autoindustrie: Autohersteller erzielen Rekordgewinne",
-      "teaser": "Rekordgewinne und durchschnittlich 28 Prozent mehr Umsatz: Besonders deutsche Automobilkonzerne erlebten im Sommer ihr Traumquartal – auch dank hoher Preise.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2022-11/autoindustrie-rekordgewinne-drittes-quartal",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-11/autoindustrie-rekordgewinne-drittes-quartal-audi/wide__822x462",
-      "image_title": "Autoindustrie: Autohersteller erzielen Rekordgewinne"
-    },
-    {
-      "title": "Autoindustrie: Ein dickes Problem",
-      "teaser": "Autos werden immer größer und schwerer, zeigt eine Studie. Damit es nicht so weitergeht, brauche es eine neue Verkehrspolitik, sagen Forscher.",
-      "url": "https://www.zeit.de/mobilitaet/2022-11/autoindustrie-verkehrswende-mobilitaet-verkehrspolitik-studie",
-      "image_url": "https://img.zeit.de/mobilitaet/2022-11/autoindustrie-verkehrswende-mobilitaet-verkehrspolitik-studie-bmw-fabrik/wide__822x462",
-      "image_title": "Autoindustrie: Ein dickes Problem"
+      "title": "Z+ (abopflichtiger Inhalt); Data Scientist • Das Beste aus Z+: Neuer Job in zwölf Wochen – und das ohne Studium",
+      "teaser": "Viele Unternehmen suchen nach Menschen, die mit Daten umgehen können. Wie der Quereinstieg funktioniert – und warum Geisteswissenschaftler in dem Job gefragt sind.",
+      "url": "https://www.zeit.de/zeit-spezial/2022/01/data-scientist-beruf-studium-quereinstieg",
+      "image_url": "https://img.zeit.de/zeit-spezial/2022/01/data-scientist-beruf-studium/wide__822x462",
+      "image_title": "Data Scientist • Das Beste aus Z+: Neuer Job in zwölf Wochen – und das ohne Studium"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Esoterik an Waldorfschulen: Falscher Filz",
@@ -177,39 +190,37 @@
       "image_title": "Jutta Allmendinger : \"Die junge Generation ist so zerrissen wie nie\""
     },
     {
-      "title": "Psychische Krankheiten: Ethikrat fordert mehr psychosoziale Angebote für junge Menschen",
-      "teaser": "Während der Pandemie waren vor allem Kinder, Jugendliche und junge Erwachsene im Alltag und in ihrer Zukunftsplanung beschränkt. Experten fordern bessere Unterstützung.",
-      "url": "https://www.zeit.de/gesellschaft/2022-11/ethikrat-psychische-krankheiten-junge-menschen-pandemie",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-11/ethikrat-psychische-krankheiten-junge-menschen/wide__822x462",
-      "image_title": "Psychische Krankheiten: Ethikrat fordert mehr psychosoziale Angebote für junge Menschen"
+      "title": "Landesinnenminister: Bundesländer setzen Abschiebungen in den Iran aus",
+      "teaser": "Einige Länder schieben bereits keine Menschen mehr in den Iran ab, nun gilt der Beschluss deutschlandweit. Einzig für Gefährder gilt weiter die Einzelfallprüfung.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-11/iran-abschiebungen-landesinnenminister-herbsttagung"
     },
     {
-      "title": "Künstliche Intelligenz: Per Gedanken durch die Galaxis",
-      "teaser": "Elon Musk will nicht nur zum Mars. Sein Start-up Neuralink soll Menschen mit künstlicher Intelligenz verschmelzen – und den alten Raumfahrttraum vom Cyborg verwirklichen.",
-      "url": "https://www.zeit.de/wissen/2022-11/kuenstliche-intelligenz-elon-musk-neuralink-cyborg-raumfahrt",
-      "image_url": "https://img.zeit.de/wissen/2022-11/elon-musk-neuralink-bild/wide__822x462",
-      "image_title": "Künstliche Intelligenz: Per Gedanken durch die Galaxis"
+      "title": "WHO: Affenpocken heißen künftig Mpox",
+      "teaser": "Bei der Benennung von Krankheiten sollen Bezüge zu Ländern, Regionen oder Tieren vermieden werden. Nun will die WHO diese Richtlinie auch beim Affenpockenvirus umsetzen.",
+      "url": "https://www.zeit.de/gesundheit/2022-11/weltgesundheitsorganisation-affenpocken-name-mpox",
+      "image_url": "https://img.zeit.de/gesundheit/2022-11/weltgesundheitsorganisation-affenpocken-mpox/wide__822x462",
+      "image_title": "WHO: Affenpocken heißen künftig Mpox"
+    },
+    {
+      "title": "Autoindustrie: Ein dickes Problem",
+      "teaser": "Autos werden immer größer und schwerer, zeigt eine Studie. Damit es nicht so weitergeht, brauche es eine neue Verkehrspolitik, sagen Forscher.",
+      "url": "https://www.zeit.de/mobilitaet/2022-11/autoindustrie-verkehrswende-mobilitaet-verkehrspolitik-studie",
+      "image_url": "https://img.zeit.de/mobilitaet/2022-11/autoindustrie-verkehrswende-mobilitaet-verkehrspolitik-studie-bmw-fabrik/wide__822x462",
+      "image_title": "Autoindustrie: Ein dickes Problem"
+    },
+    {
+      "title": "Feuilletonpodcast: Muss Twitter sterben, damit wir leben können?",
+      "teaser": "Auch im Internet ist jetzt Zeitenwende. Seit Elon Musk Twitter übernommen hat, gerät vieles ins Rutschen. Zum Glück?",
+      "url": "https://www.zeit.de/kultur/2022-11/twitter-elon-musk-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-weisbrod-mangold/cinema__980x420",
+      "image_title": "Feuilletonpodcast: Muss Twitter sterben, damit wir leben können?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Reis-Pakoras: Frittieren geht über Studieren",
       "teaser": "Sie haben gekochten Reis übrig und wollen daraus etwas Leckeres machen, nur was? Ganz einfach: würzen, vermischen, frittieren – fertig sind köstliche indische Pakoras!",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-11/reis-pakoras-indisch-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-11/reis-pakoras-indisch-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-11/reis-pakoras-indisch-1/wide__822x462",
       "image_title": "Reis-Pakoras: Frittieren geht über Studieren"
-    },
-    {
-      "title": "Wölfe : Zahl der Wolfsrudel in Deutschland weiter gewachsen",
-      "teaser": "Seit 1998 gibt es wieder Wölfe in Deutschland – vor allem in größeren Flächenstaaten. Mehr als 1.100 Wölfe sollen es inzwischen sein. Ihr Hauptfeind ist nicht der Mensch.",
-      "url": "https://www.zeit.de/wissen/umwelt/2022-11/woelfe-ausbreitung-rudel-brandenburg-naturschutz",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-11/wolf-rudel-deutschland/wide__822x462",
-      "image_title": "Wölfe : Zahl der Wolfsrudel in Deutschland weiter gewachsen"
-    },
-    {
-      "title": "Bundeskunsthalle in Bonn: Das ist doch albern",
-      "teaser": "Die Bundeskunsthalle in Bonn zeigt in der Schau \"Ernsthaft!? Albernheit und Enthusiasmus in der Kunst\" Werke großer Blödheit. Die Kunst ist hier enthusiastisch peinlich.",
-      "url": "https://www.zeit.de/2022/48/bundeskunsthalle-bonn-ernsthaft-albernheit-und-enthusiasmus-in-der-kunst",
-      "image_url": "https://img.zeit.de/2022/48/bundeskunsthalle-bonn-ernsthaft-albernheit-und-enthusiasmus-in-der-kunst-teaser/wide__822x462",
-      "image_title": "Bundeskunsthalle in Bonn: Das ist doch albern"
     },
     {
       "title": "China: Darum geht es bei den Corona-Protesten in China",
@@ -220,20 +231,20 @@
       "url": "https://www.zeit.de/sport/2022-11/live-spanien-deutschland-fussball-wm"
     },
     {
-      "title": "Munitionsgipfel im Kanzleramt: Alle alle",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/munitionsgipfel-kanzleramt-bundeswehr-ukraine"
+      "title": "Proteste in China: \"Endlich sehen wir Licht\"",
+      "url": "https://www.zeit.de/politik/ausland/2022-11/china-proteste-null-covid-urumqi-peking"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"ZDF Magazin Royale\": Niemals durchatmen, immer weiterömmeln",
       "url": "https://www.zeit.de/kultur/film/2022-11/boehmermann-zdf-magazin-fdp-raf"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball und Moral: \"Wer Haltung zeigen will, muss sich in Gelenkigkeit üben\"",
-      "url": "https://www.zeit.de/kultur/2022-11/fussball-moral-wm-nationalmannschaft-wolfram-eilenberger"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Geduld: Warten kann wunderbar sein",
       "url": "https://www.zeit.de/zeit-magazin/2022/48/geduld-warten-arzttermin-fischen-liebe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fußball und Moral: \"Wer Haltung zeigen will, muss sich in Gelenkigkeit üben\"",
+      "url": "https://www.zeit.de/kultur/2022-11/fussball-moral-wm-nationalmannschaft-wolfram-eilenberger"
     },
     {
       "title": "Munitionsgipfel im Kanzleramt: Alle alle",
@@ -270,20 +281,20 @@
       "url": "https://www.zeit.de/sport/2022-11/live-spanien-deutschland-fussball-wm"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball und Moral: \"Wer Haltung zeigen will, muss sich in Gelenkigkeit üben\"",
-      "url": "https://www.zeit.de/kultur/2022-11/fussball-moral-wm-nationalmannschaft-wolfram-eilenberger"
+      "title": "Z+ (abopflichtiger Inhalt); Geduld: Warten kann wunderbar sein",
+      "url": "https://www.zeit.de/zeit-magazin/2022/48/geduld-warten-arzttermin-fischen-liebe"
     },
     {
       "title": "China: Darum geht es bei den Corona-Protesten in China",
       "url": "https://www.zeit.de/politik/ausland/2022-11/china-proteste-corona-regierung-xi-jinping"
     },
     {
-      "title": "Munitionsgipfel im Kanzleramt: Alle alle",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/munitionsgipfel-kanzleramt-bundeswehr-ukraine"
+      "title": "Proteste in China: \"Endlich sehen wir Licht\"",
+      "url": "https://www.zeit.de/politik/ausland/2022-11/china-proteste-null-covid-urumqi-peking"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geduld: Warten kann wunderbar sein",
-      "url": "https://www.zeit.de/zeit-magazin/2022/48/geduld-warten-arzttermin-fischen-liebe"
+      "title": "Z+ (abopflichtiger Inhalt); Fußball und Moral: \"Wer Haltung zeigen will, muss sich in Gelenkigkeit üben\"",
+      "url": "https://www.zeit.de/kultur/2022-11/fussball-moral-wm-nationalmannschaft-wolfram-eilenberger"
     },
     {
       "title": "WM in Katar: Deutschland spielt unentschieden gegen Spanien",
@@ -354,11 +365,11 @@
       "image_title": "Apfelküchle: Herrin der Apfelringe"
     },
     {
-      "title": "China: Britische Regierung kritisiert Festnahme von BBC-Reporter",
-      "teaser": "Am Rande von Protesten in Shanghai hatte die Polizei einen BBC-Reporter festgenommen und misshandelt. \"Zutiefst beunruhigend\" nennt dies der britische Außenminister.",
-      "url": "https://www.zeit.de/politik/ausland/2022-11/china-britische-regierung-festnahme-bbc",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/china-grossbritannien-festnahme-bild/cinema__980x420",
-      "image_title": "China: Britische Regierung kritisiert Festnahme von BBC-Reporter"
+      "title": "Energiekrise: Kartellamt sieht keine Anzeichen für Absprachen bei Spritpreisen",
+      "teaser": "In den Wochen und Monaten nach Beginn des Ukraine-Kriegs ist der Ölpreis gesunken – die Preise für Diesel und Benzin aber gestiegen. Rechtswidrig war dies offenbar nicht.",
+      "url": "https://www.zeit.de/politik/2022-11/energiekrise-kartellamt-absprachen-spritpreise-diesel-benzin",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/mineraloelkonzerne-tankstelle-bundeskartellamt/cinema__980x420",
+      "image_title": "Energiekrise: Kartellamt sieht keine Anzeichen für Absprachen bei Spritpreisen"
     },
     {
       "title": "UN-Resolution: Iran bestellt erneut deutschen Botschafter ein",
@@ -382,10 +393,17 @@
       "image_title": "Worträtsel: Wortiger"
     },
     {
+      "title": "Psychische Krankheiten: Ethikrat fordert mehr psychosoziale Angebote für junge Menschen",
+      "teaser": "Während der Pandemie waren vor allem Kinder, Jugendliche und junge Erwachsene im Alltag und in ihrer Zukunftsplanung beschränkt. Experten fordern bessere Unterstützung.",
+      "url": "https://www.zeit.de/gesellschaft/2022-11/ethikrat-psychische-krankheiten-junge-menschen-pandemie",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-11/ethikrat-psychische-krankheiten-junge-menschen/cinema__980x420",
+      "image_title": "Psychische Krankheiten: Ethikrat fordert mehr psychosoziale Angebote für junge Menschen"
+    },
+    {
       "title": "Mogadischu: Mindestens zehn Tote bei Anschlag auf Hotel in Somalia",
       "teaser": "In Mogadischu hat die Terrormiliz Al-Shabaab ein Hotel gestürmt –und hält es seitdem unter Kontrolle. Die Polizei hat das Gebäude umstellt, ein Minister wurde verletzt.",
       "url": "https://www.zeit.de/gesellschaft/2022-11/shebab-miliz-somalia-angriff-tote",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/shebab-miliz-mogadischu-somalia/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/shebab-miliz-mogadischu-somalia/wide__822x462",
       "image_title": "Mogadischu: Mindestens zehn Tote bei Anschlag auf Hotel in Somalia"
     },
     {
@@ -396,32 +414,25 @@
       "image_title": "Fußball-WM: Ausschreitungen in Belgien und den Niederlanden nach Marokkos WM-Sieg"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Bischhöfe im Vatikan: \"Wir sind anders katholisch!\"",
-      "teaser": "Die deutschen Bischöfe waren zu Besuch in Rom, um den Papst von ihren Reformen zu überzeugen. Leider haben sie versäumt, sich vorher mit ihm zu verbünden.",
-      "url": "https://www.zeit.de/2022/48/deutsche-bischhoefe-vatikan-papst-reform",
-      "image_url": "https://img.zeit.de/2022/48/wir-sind-anders-katholisch-bild-1/wide__822x462",
-      "image_title": "Deutsche Bischhöfe im Vatikan: \"Wir sind anders katholisch!\""
+      "title": "Globalisierung: Lieferengpässe kosteten Industrie 64 Milliarden Euro an Wertschöpfung",
+      "teaser": "Die Produktionseinbußen durch den Mangel an Vorprodukten waren enorm und betrafen vor allem Autokonzerne. Lieferketten müssten deutlich robuster werden, mahnen Experten.",
+      "url": "https://www.zeit.de/wirtschaft/2022-11/industrie-lieferketten-probleme-wertschoepfung-verlust",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-11/industrie-lieferketten-probleme-wertschoepfung/cinema__980x420",
+      "image_title": "Globalisierung: Lieferengpässe kosteten Industrie 64 Milliarden Euro an Wertschöpfung"
+    },
+    {
+      "title": "Autohersteller: Autoindustrie erzielt Rekordgewinne",
+      "teaser": "Rekordgewinne und durchschnittlich 28 Prozent mehr Umsatz: Besonders deutsche Automobilkonzerne erlebten im Sommer ihr Traumquartal – auch dank hoher Preise.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2022-11/autoindustrie-rekordgewinne-drittes-quartal",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-11/autoindustrie-rekordgewinne-drittes-quartal-audi/wide__822x462",
+      "image_title": "Autohersteller: Autoindustrie erzielt Rekordgewinne"
     },
     {
       "title": "USA und EU: Protektionismus mit fataler Botschaft gen Moskau",
       "teaser": "Weit mehr als sein Vorgänger greift US-Präsident Biden mit Subventionen in die Wirtschaft ein – und belastet so das Verhältnis zur EU. Dabei gibt es nur einen Gewinner.",
       "url": "https://www.zeit.de/wirtschaft/2022-11/usa-eu-trump-biden-subventionen-wirtschaft-streit",
-      "image_url": "https://img.zeit.de/politik/2022-11/usa-eu-subventionen-wirtschaft-biden-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2022-11/usa-eu-subventionen-wirtschaft-biden-bild/wide__822x462",
       "image_title": "USA und EU: Protektionismus mit fataler Botschaft gen Moskau"
-    },
-    {
-      "title": "Bargeldzahlungen: Sollten Bargeldgeschäfte in Höhe von über 10.000 Euro verboten werden?",
-      "teaser": "Einerseits: Kein Mensch braucht so viel Cash. Andererseits: Verbote und daraus folgende Überwachungssysteme haben Kriminelle selten gestoppt. Was tun? Ein Pro und Contra",
-      "url": "https://www.zeit.de/2022/48/bargeldzahlungen-10000-euro-verbot-krimininalitaet",
-      "image_url": "https://img.zeit.de/2022/48/bargeldzahlungen-10000-euro-verbot-krimininalitaet-teaser/wide__822x462",
-      "image_title": "Bargeldzahlungen: Sollten Bargeldgeschäfte in Höhe von über 10.000 Euro verboten werden?"
-    },
-    {
-      "title": "Arbeitskräftemangel: DIHK fordert vereinfachte Zuwanderungsregeln für Fachkräfte",
-      "teaser": "Der Industrie- und Handelskammertag dringt auf unkomplizierte Einwanderungsverfahren für Fachkräfte. Der Arbeitskräftemangel sei für Unternehmen ein Geschäftsrisiko.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/fachkraeftemangel-einwanderung-unternehmen-industrie-handelskammer",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/fachkraeftemangel-deutschland-einwanderung/wide__822x462",
-      "image_title": "Arbeitskräftemangel: DIHK fordert vereinfachte Zuwanderungsregeln für Fachkräfte"
     },
     {
       "title": "WirtschaftsWocheFlucht nach Singapur: Chinas Reiche bringen sich und ihr Geld in Sicherheit",
@@ -466,18 +477,18 @@
       "image_title": "\"Mehr denn je\": Allein im Blau"
     },
     {
+      "title": "Bundeskunsthalle in Bonn: Das ist doch albern",
+      "teaser": "Die Bundeskunsthalle in Bonn zeigt in der Schau \"Ernsthaft!? Albernheit und Enthusiasmus in der Kunst\" Werke großer Blödheit. Die Kunst ist hier enthusiastisch peinlich.",
+      "url": "https://www.zeit.de/2022/48/bundeskunsthalle-bonn-ernsthaft-albernheit-und-enthusiasmus-in-der-kunst",
+      "image_url": "https://img.zeit.de/2022/48/bundeskunsthalle-bonn-ernsthaft-albernheit-und-enthusiasmus-in-der-kunst-teaser/wide__822x462",
+      "image_title": "Bundeskunsthalle in Bonn: Das ist doch albern"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fußball und Moral: \"Wer Haltung zeigen will, muss sich in Gelenkigkeit üben\"",
       "teaser": "Von Fußballern moralisches Handeln bei einer WM zu erwarten, ist unmoralisch, sagt der Philosoph Wolfram Eilenberger. Dort zeige sich ein sehr deutsches Problem.",
       "url": "https://www.zeit.de/kultur/2022-11/fussball-moral-wm-nationalmannschaft-wolfram-eilenberger",
       "image_url": "https://img.zeit.de/kultur/2022-11/fussball-moral-wm-nationalmannschaft-wolfram-eilenberger-bild2/wide__822x462",
       "image_title": "Fußball und Moral: \"Wer Haltung zeigen will, muss sich in Gelenkigkeit üben\""
-    },
-    {
-      "title": "\"Vier Tage, drei Nächte\": Mord? Vielleicht.",
-      "teaser": "Norbert Gstrein ist ein Meister der Darstellung vergifteter Intimität. Sein neuer Familienroman ist ein Kammerspiel voller Begehren und Provokationen.",
-      "url": "https://www.zeit.de/2022/48/vier-tage-drei-naechte-norbert-gstrein-buchrezension",
-      "image_url": "https://img.zeit.de/2022/48/vier-tage-drei-naechte-norbert-gstrein/wide__822x462",
-      "image_title": "\"Vier Tage, drei Nächte\": Mord? Vielleicht."
     },
     {
       "title": "China: Proteste gegen Corona-Maßnahmen und Xi Jinping dauern an",
@@ -501,25 +512,25 @@
       "image_title": "ISS: SpaceX-Versorgungsfrachter an ISS angedockt"
     },
     {
+      "title": "Künstliche Intelligenz: Per Gedanken durch die Galaxis",
+      "teaser": "Elon Musk will nicht nur zum Mars. Sein Start-up Neuralink soll Menschen mit künstlicher Intelligenz verschmelzen – und den alten Raumfahrttraum vom Cyborg verwirklichen.",
+      "url": "https://www.zeit.de/wissen/2022-11/kuenstliche-intelligenz-elon-musk-neuralink-cyborg-raumfahrt",
+      "image_url": "https://img.zeit.de/wissen/2022-11/elon-musk-neuralink-bild/cinema__980x420",
+      "image_title": "Künstliche Intelligenz: Per Gedanken durch die Galaxis"
+    },
+    {
+      "title": "Wölfe : Zahl der Wolfsrudel in Deutschland weiter gewachsen",
+      "teaser": "Seit 1998 gibt es wieder Wölfe in Deutschland – vor allem in größeren Flächenstaaten. Mehr als 1.100 Wölfe sollen es inzwischen sein. Ihr Hauptfeind ist nicht der Mensch.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-11/woelfe-ausbreitung-rudel-brandenburg-naturschutz",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-11/wolf-rudel-deutschland/wide__822x462",
+      "image_title": "Wölfe : Zahl der Wolfsrudel in Deutschland weiter gewachsen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Mondmission \"Hakuto-R M1\": Der Flug des weißen Hasen",
       "teaser": "Tankstellen und Mobilfunkmasten: Mit der Ruhe auf dem Mond ist es bald vorbei. Eine japanische Mission könnte kommende Woche eine neue Ära seiner Erkundung einläuten.",
       "url": "https://www.zeit.de/2022/48/hakuto-r-m1-mondmission-japan-ispace",
-      "image_url": "https://img.zeit.de/2022/48/hakuto-r-m1-mondmission-japan-ispace-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/2022/48/hakuto-r-m1-mondmission-japan-ispace-teaser/wide__822x462",
       "image_title": "Mondmission \"Hakuto-R M1\": Der Flug des weißen Hasen"
-    },
-    {
-      "title": "Klimawandel: Spanien rechnet auch im Herbst mit Dürre",
-      "teaser": "Anhaltende Trockenheit wird Teile Spaniens auch in der kälteren Jahreszeit beschäftigen. Regen bleibt selten, der Wasserverbrauch wird vielerorts reguliert.",
-      "url": "https://www.zeit.de/wissen/umwelt/2022-11/spanien-duerre-klimawandel-wasserknappheit",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2022-11/spanien-duerre/wide__822x462",
-      "image_title": "Klimawandel: Spanien rechnet auch im Herbst mit Dürre"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Artensterben: Warum die Menschheit Seegurken braucht",
-      "teaser": "Hängt unsere Zukunft wirklich an Glasfröschen, Tropenbäumen und krabbelndem Meeresgemüse? Ja! Fünf kaum beachtete Arten, deren Schutz so ungemein wichtig ist.",
-      "url": "https://www.zeit.de/wissen/umwelt/2022-11/artensterben-cites-artenschutzkonferenz-panama-natur-tiere",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2022-11/artensterben-cites-panama-ananas-seegurke/wide__822x462",
-      "image_title": "Artensterben: Warum die Menschheit Seegurken braucht"
     },
     {
       "title": "VerlagsangebotIn drei Wochen zu mehr Gelassenheit",
@@ -789,36 +800,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Energie: Strom wird teurer: Preiserhöhungswelle zum Jahresbeginn",
-      "url": "https://www.zeit.de/news/2022-11/28/strom-wird-teurer-preiserhoehungswelle-zum-jahresbeginn"
+      "title": "Bahnverkehr: Ringen um Zugverbindung Hannover-Hamburg geht weiter",
+      "url": "https://www.zeit.de/news/2022-11/28/ringen-um-zugverbindung-hannover-hamburg-geht-weiter"
     },
     {
-      "title": "Landtag: AfD-Fraktion fordert Ende der Maskenpflicht",
-      "url": "https://www.zeit.de/news/2022-11/28/afd-fraktion-fordert-ende-der-maskenpflicht"
+      "title": "Auto: Mit Tempo 254 durch 100er-Zone: Raser auf A4 geblitzt",
+      "url": "https://www.zeit.de/news/2022-11/28/mit-tempo-254-durch-100er-zone-raser-auf-a4-geblitzt"
     },
     {
-      "title": "Oberlandesgericht: Fahrer akzeptiert Urteil um tödliches Autorennen nicht",
-      "url": "https://www.zeit.de/news/2022-11/28/fahrer-akzeptiert-urteil-um-toedliches-autorennen-nicht"
+      "title": "Bundespolizei: 1,4 kg Sprengstoff: Zoll stellt Feuerwerkskörper sicher",
+      "url": "https://www.zeit.de/news/2022-11/28/1-4-kg-sprengstoff-zoll-stellt-feuerwerkskoerper-sicher"
     },
     {
-      "title": "Tiere: Mehr Wölfe in Deutschland: Wolfsrudel in Thüringen",
-      "url": "https://www.zeit.de/news/2022-11/28/mehr-woelfe-in-deutschland-wolfsrudel-in-thueringen"
+      "title": "Vermisstenfall: Neuer Haftbefehl gegen Maddie-Verdächtigen",
+      "url": "https://www.zeit.de/news/2022-11/28/neuer-haftbefehl-gegen-maddie-verdaechtigen"
     },
     {
-      "title": "Wohnen: Viele Studierende suchen in Frankfurt noch nach Unterkunft",
-      "url": "https://www.zeit.de/news/2022-11/28/viele-studierende-suchen-in-frankfurt-noch-nach-unterkunft"
+      "title": "Migration: Erstaufnahmeeinrichtung in Suhl fast voll",
+      "url": "https://www.zeit.de/news/2022-11/28/erstaufnahmeeinrichtung-in-suhl-fast-voll"
     },
     {
-      "title": "WM: Verrücktes 3:3: Choupo-Moting wahrt Kameruns Hoffnung",
-      "url": "https://www.zeit.de/news/2022-11/28/verruecktes-3-3-choupo-moting-wahrt-kameruns-hoffnung"
+      "title": "Arbeitsmarkt: Mehr Jobs für Menschen mit Behinderung nötig: Agentur hilft",
+      "url": "https://www.zeit.de/news/2022-11/28/mehr-jobs-fuer-menschen-mit-behinderung-noetig-agentur-hilft"
     },
     {
-      "title": "Bildung: 40,8 Prozent der Stadtteilschüler beginnen Ausbildung",
-      "url": "https://www.zeit.de/news/2022-11/28/40-8-prozent-der-stadtteilschueler-beginnen-ausbildung"
+      "title": "Windanlagenbauer: Vestas-Beschäftigte erneut in fünftägigem Streik",
+      "url": "https://www.zeit.de/news/2022-11/28/vestas-beschaeftigte-erneut-in-fuenftaegigem-streik"
     },
     {
-      "title": "Fußball-WM in Katar: Remis gegen Serbien: Choupo-Moting wahrt Kameruns Hoffnung",
-      "url": "https://www.zeit.de/news/2022-11/28/remis-gegen-serbien-choupo-moting-wahrt-kameruns-hoffnung"
+      "title": "Verkehr: Bauarbeiten am E-Highway zwischen Lübeck und Reinfeld",
+      "url": "https://www.zeit.de/news/2022-11/28/bauarbeiten-am-e-highway-zwischen-luebeck-und-reinfeld"
     }
   ]
 }
