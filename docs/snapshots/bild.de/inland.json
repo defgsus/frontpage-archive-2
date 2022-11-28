@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-28T15:18:27",
+  "timestamp": "2022-11-28T16:23:45",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.64e10eb0.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7a21959d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3e48e5da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.995dbdeb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fe86cf2d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.79cb7c9d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Angriff in Erfurter Straßenbahn : Fahrgast (22) mit Samurai-Schwert verletzt",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-fahrgast-22-mit-samurai-schwert-attackiert-und-verletzt-82086116.bild.html",
-      "image_url": "https://images.bild.de/6384c1f852b45b1845667f89/82b477c4e67e0117336ad783ceaee9a8,dabc4aaa?w=656",
-      "image_title": "Erfurt: Fahrgast (22) mit Samurai-Schwert attackiert und verletzt"
-    },
-    {
-      "title": "Luxus-Uhren, Edel-Klamotten und Ferrari : Lotto-Millionär Chico tritt auf die Kosten-Bremse",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-lotto-millionaer-chico-tritt-auf-die-kosten-bremse-82082116.bild.html",
-      "image_url": "https://images.bild.de/638479ed08ba5f71743a9b59/5f0256aecc5efe19377c3399cf18adb3,d50bf0a8?w=320",
-      "image_title": "Dortmund: Lotto-Millionär Chico tritt auf die Kosten-Bremse"
-    },
-    {
-      "title": "Farbpsychologe verrät Tricks : Mit diesen Farben wird Ihre Wohnung warm im Winter",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/farbpsychologe-verraet-tricks-zum-energiesparen-mit-diesen-farben-wird-ihre-wohn-82043018.bild.html",
-      "image_url": "https://images.bild.de/63766b017549f65a72665362/aa2ab99646337da7b82cd0dff0eb6380,a99ba5dc?w=320",
-      "image_title": "Farbpsychologe verrät Tricks: Mit diesen Farben wird Ihre Wohnung warm im Winter"
-    },
-    {
-      "title": "Eigene Familie soll ihn vergiftet haben : Starb Opa Alois (75) an seinem Lieblingsgericht?",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/traunstein-prozess-gegen-angehoerige-opa-alois-aus-habgier-getoetet-82082194.bild.html",
-      "image_url": "https://images.bild.de/638450f908ba5f71743a9b01/3d3eb71f61f5db74e29275b4f45089cc,a174bfd6?w=320",
-      "image_title": "Traunstein: Prozess gegen Angehörige - Opa Alois aus Habgier getötet?"
-    },
-    {
-      "title": "An Tankstelle : Trucker wollte Mahlzeit kochen - Lkw abgefackelt",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/brand-trucker-wollte-mahlzeit-zubereiten-lkw-abgefackelt-82082724.bild.html",
-      "image_url": "https://images.bild.de/6384771d52b45b1845667f0a/a31d297faa4c4ddbb31d4adfb63a9ad5,a09f8635?w=320",
-      "image_title": "Brand: Trucker wollte Mahlzeit zubereiten - Lkw abgefackelt"
-    },
-    {
-      "title": "Längstes Zucker-Gebäck der Welt : Riesen-Stollen soll schwer krankem Louis helfen",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/dresden-riesen-stollen-rettet-louis-aus-thueringen-82079176.bild.html",
-      "image_title": "Dresden: Riesen-Stollen rettet Louis aus Thüringen"
-    },
-    {
-      "title": "Von Autobahn geschleudert : Drei Schwerverletzte bei A4-Crash",
-      "teaser": "Bei einem heftigen Autobahn-Crash sind Sonntagabend drei Menschen schwer verletzt worden.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-drei-schwerverletzte-nach-a-4-crash-82080416.bild.html",
-      "image_title": "Unfall bei Gotha: Drei Schwerverletzte nach A4-Crash"
-    },
-    {
-      "title": "Impresario hört auf : Frey macht Schluss beim SemperOpernball",
-      "teaser": "Das glanzvollste Event neben dem Wiener Opernball, der SemperOpernball, wird wohl leider erst wieder 2024 stattfinden.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-frey-macht-schluss-beim-semperopernball-82078166.bild.html",
-      "image_title": "Dresden: Frey macht Schluss beim SemperOpernball"
-    },
-    {
-      "title": "Neue Beweismittel aufgetaucht : Prozess gegen Drogen-Boss „Shiny Flakes“ verschoben",
-      "teaser": "Eigentlich sollte sich der nach seinem Darknet-Shop als „Shiny Flakes“ bekannt gewordene Straftäter Maximilian S. (27) ab dem 2. Dezember erneut in Leipzig wegen Drogenhandels vor Gericht verantworten.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/shiny-flakes-prozess-gegen-drogen-boss-verschoben-82059730.bild.html",
-      "image_title": "Shiny Flakes: Prozess gegen Drogen-Boss verschoben"
-    },
-    {
-      "title": "Deutschlands erstes Gemeinschaftspferd : Ariosa ist für alle da!",
-      "teaser": "Jübar in der Altmark hat etwas ganz Außergewöhnliches. Ariosa (8) ist das bundesweit einzige Gemeindepferd!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-deutschlands-erstes-gemeinschaftspferd-ariosa-ist-fuer-alle-da-82079074.bild.html",
-      "image_title": "Sachsen-Anhalt:Deutschlands erstes Gemeinschaftspferd - Ariosa ist für alle da!"
-    },
-    {
-      "title": "Für nur 1,80 pro Tag : Vorfreude aufs Fest mit 50 000 LED-Lampen",
-      "teaser": "Glückliche Kinder sind Heiko Papenfuß (57) wichtiger als eine gepfefferte Stromrechnung.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/weihnachten-vorfreude-aufs-fest-mit-50000-led-lampen-82078966.bild.html",
-      "image_title": "Weihnachten: Vorfreude aufs Fest mit 50 000 LED-Lampen"
-    },
-    {
-      "title": "Demo-Frust : Wirt übergießt Blockierer mit Milch",
-      "teaser": "500 Gegendemonstranten reichten aus, den Aufzug des rechten Magazins „Compact“ zum Rückzug zu zwingen.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-wirt-uebergiesst-demo-blockierer-mit-milch-82078896.bild.html",
-      "image_title": "Leipzig: Wirt übergießt Demo-Blockierer mit Milch"
-    },
-    {
-      "title": "Karls Steinzeit-Dorf in Döbeln : Erdbeerdorf-Chef baut 7000 Jahre alte Siedlung wieder auf",
-      "teaser": "Das Erlebnisdorf von Karls in Döbeln steht noch nicht mal (Eröffnung 2024), aber Inhaber Robert Dahl (52) plant bereits ein zweites Dorf an gleicher Stelle.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/sachsen-erdbeerdorf-chef-baut-7000-jahre-alte-siedlung-wieder-auf-82078640.bild.html",
-      "image_title": "Karls Erdbeerdorf: Chef baut 7000 Jahre alte Siedlung wieder auf"
-    },
-    {
-      "title": "Angst hohen Heizkosten : Motorsägen-Kurse sind fast überall ausgebucht",
-      "teaser": "Immer mehr Deutsche wollen ihr Brennholz selber schlagen. Dafür braucht es ein Zertifikat.",
-      "url": "https://www.bild.de/news/inland/news-inland/angst-vor-heizkosten-motorsaegen-kurse-fast-ueberall-ausgebucht-82068582.bild.html",
-      "image_title": "Heizkosten: Motorsägen-Kurse fast überall ausgebucht"
-    },
-    {
-      "title": "Preisschock auf bei Bratwurst und Glühwein : Weihnachtsmärkte müssen Preise anziehen",
-      "teaser": "Nach viel zu langer Pause ist endlich wieder Weihnachtsmarkt. Mit saftigen Preisen.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/weihnachtsmaerkte-ziehen-preise-an-chemnitz-zwickau-und-plauen-82074302.bild.html",
-      "image_title": "Weihnachtsmarkt: Chemnitz, Zwickau und Plauen ziehen die Preise an"
-    },
-    {
-      "title": "Pflegedienst kündigt kurz vor Weihnachten : „Wir Alten sind dem Staat egal“",
-      "teaser": "Weil Pflegekräfte fehlen, musste Herr Kolb um seine Betreuung fürchten.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/pflegedienst-kuendigt-kurzfristig-wir-alten-sind-dem-staat-egal-82070568.bild.html",
-      "image_title": "Pflegedienst kündigt kurzfristig: „Wir Alten sind dem Staat egal“"
-    },
-    {
-      "title": "Mutter (32) tot : Familien-Auto kracht in Hauswand",
-      "teaser": "Ein Familien-Auto kam von der Fahrbahn ab und prallte in eine Hauswand.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/mutter-32-tot-familien-auto-kracht-in-hauswand-82066674.bild.html",
-      "image_title": "Brechen: Mutter (32) tot: Familien-Auto kracht in Hauswand"
-    },
-    {
-      "title": "Diese Regeln gelten : Wann darf ich Holz aus dem Wald mitnehmen?",
-      "teaser": "Wegen steigender Heizkosten wächst die Nachfrage nach Holz. Für Sammler gibt es Regeln.",
-      "url": "https://www.bild.de/news/inland/news-inland/diese-regeln-gelten-wann-darf-ich-holz-aus-dem-wald-mitnehmen-82069400.bild.html",
-      "image_title": "Diese Regeln gelten: Wann darf ich Holz aus dem Wald mitnehmen?"
-    },
-    {
-      "title": "Elsässers Protest war ein Flop : Rechte Demo nach massiver Blockade beendet",
-      "teaser": "Statt 15 000 kamen nur 1000 Rechte. Die Gegendemo war deutlich in der Überzahl.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/demonstration-in-leipzig-polizei-bereitet-sich-auf-bisher-groessten-einsatz-vor-82066470.bild.html",
-      "image_title": "Leipzig: Rechte Demonstration nach massiver Blockade beendet"
-    },
-    {
-      "title": "Fahrer (36) wird schwer verletzt : Schneepflug überschlägt sich",
-      "teaser": "In Thüringen gab es einen schweren Crash mit einem Schneepflug!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-schneepflug-rutscht-ab-fahrer-schwer-verletzt-82072310.bild.html",
-      "image_title": "Thüringen: Schneepflug rutscht ab – Fahrer schwer verletzt"
-    },
-    {
-      "title": "Lars E. (48) erlebte häusliche Gewalt : Letzter Ausweg: Flucht ins Männerhaus",
-      "teaser": "Aus Liebe wurde Qual. Ein Betroffener berichtet, wie Gewalt ihn ins Männerhaus zwang.",
-      "url": "https://www.bild.de/bild-plus/news/2022/news/betroffener-berichtet-in-bild-am-sonntag-letzter-ausweg-flucht-ins-maennerhaus-82068724.bild.html",
-      "image_title": "Lars E. (48) erlebte häusliche Gewalt: Letzter Ausweg: Flucht ins Männerhaus"
-    },
-    {
-      "title": "Justizskandal in NRW : SIE sind das Killer-Paar von Köln",
-      "teaser": "Obwohl schon ein Verfahren lief, konnte das Killer-Paar weiter foltern und quälen.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/justizskandal-in-nrw-sie-sind-das-killer-paar-von-koeln-82069418.bild.html",
-      "image_title": "Justizskandal in NRW: SIE sind das Killer-Paar von Köln"
-    },
-    {
-      "title": "Nach Flugzeug-Absturz : McFit-Millionär und Sohn beigesetzt",
-      "teaser": "Nach dem fürchterlichen Unglück wurde der Unternehmer in seinem Heimatort beerdigt.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/news/flugzeugabsturz-mcfit-gruender-rainer-schaller-und-sohn-nach-flugzeugabsturz-beerdigt-82060028.bild.html",
-      "image_title": "Rainer Schaller: McFit-Millionär und Sohn nach Absturz beigesetzt"
-    },
-    {
-      "title": "Gefährliche Rücksichtslosigkeit : „Wer eine Rettungsgasse blockiert, gehört in den Knast“",
-      "teaser": "Dreiste Blockierer versperren Rettungswege und bringen so Unfallopfer in Lebensgefahr.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/feuerwehrmann-wer-eine-rettungsgasse-blockiert-gehoert-in-den-knast-82068648.bild.html",
-      "image_title": "Feuerwehrmann: „Wer eine Rettungsgasse blockiert, gehört in den Knast“"
-    },
-    {
-      "title": "Tierarzt rettet sein Leben : Du hast echt Glück, Dicker!",
-      "teaser": "Wenn es nach seinem Herrchen gegangen wäre, würde die Bulldogge nicht mehr leben.",
-      "url": "https://www.bild.de/bild-plus/news/2022/news/tierarzt-rette-sein-leben-du-hast-echt-glueck-dicker-82068700.bild.html",
-      "image_title": "Tierarzt rettet sein Leben: Du hast echt Glück, Dicker!"
-    },
-    {
-      "title": "„Habt ihr einen an der Klarinette?“ : Feuerwehrmann flippt wegen Heizkosten-Rechnung aus",
-      "url": "https://www.bild.de/video/clip/ratgeber/1-6-mio-euro-heizkosten-feuerwehrmann-geht-flammen-auf-82083084.bild.html",
-      "image_title": "„Habt ihr einen an der Klarinette?“: Feuerwehrmann flippt wegen Heizkosten-Rechnung aus"
-    },
-    {
-      "title": "Blockade am Berliner Flughafen : Klima-Kleber auf BER-Rollfeld",
-      "url": "https://www.bild.de/video/clip/news-inland/blockade-am-berliner-flughafen-klima-kleber-auf-dem-ber-rollfeld-82052388.bild.html",
-      "image_title": "Blockade am Berliner Flughafen: Klima-Kleber auf BER-Rollfeld"
-    },
-    {
-      "title": "Dauerfrost im Dezember? : Dieser Kältebrocken rollt auf Deutschland zu",
-      "url": "https://www.bild.de/video/clip/news/dauerfrost-im-dezember-dieser-kaeltebrocken-rollt-auf-deutschland-zu-82046474.bild.html",
-      "image_title": "Dauerfrost im Dezember?: Dieser Kältebrocken rollt auf Deutschland zu"
-    }
-  ]
+  "articles": []
 }
