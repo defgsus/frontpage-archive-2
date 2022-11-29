@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-29T16:28:55",
+  "timestamp": "2022-11-29T17:17:25",
   "url": "https://www.bild.de/home/hot-on-bild/bild-kommentar/kommentare-meinungen-und-kolumnen-zu-aktuellen-themen-35874522.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,43158176.8-72042622.2.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.eb214fef.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.7a21959d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3e48e5da.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.995dbdeb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.fe86cf2d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.79cb7c9d.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Kommentar zu Habecks Klima-Heuchelei : Was für ein Verrat!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zu-habecks-klima-heuchelei-was-fuer-ein-verrat-82089840.bild.html",
-      "image_url": "https://images.bild.de/6385082608ba5f71743a9cab/cc442d83706268abaec5f028b368b691,b1fd1595?w=656",
-      "image_title": "Kommentar zu Habecks Klima-Heuchelei: Was für ein Verrat!"
-    },
-    {
-      "title": "Post von Wagner : Füllkrug, der andere Held",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-fuellkrug-der-andere-held-82089726.bild.html",
-      "image_url": "https://images.bild.de/6385057ad5f444383dc51fee/2363e134ad4666d9df9560e6017c608f,58d31116?w=320",
-      "image_title": "Post von Wagner: Füllkrug, der andere Held"
-    },
-    {
-      "title": "Kommentar zu den Protesten in China : Dieser Mut verdient Respekt!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zu-den-protesten-in-china-dieser-mut-verdient-respekt-82078928.bild.html",
-      "image_url": "https://images.bild.de/6383c1b308ba5f71743a9a9d/9d8b0284902d6f17430dbddc087bc2d4-miniSquare,8fa51f99?w=320",
-      "image_title": "Kommentar zu den Protesten in China: Dieser Mut verdient Respekt!"
-    },
-    {
-      "title": "Post von Wagner : Liebe Ex-Kanzlerin Angela Merkel,",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-ex-kanzlerin-angela-merkel-82078948.bild.html",
-      "image_url": "https://images.bild.de/6383c28a08ba5f71743a9a9f/507a5c89571a4d5b9bb035d2bdf33b9f,68eb4656?w=320",
-      "image_title": "Post von Wagner: Liebe Ex-Kanzlerin Angela Merkel,"
-    },
-    {
-      "title": "Käßmann-Kolumne : Die Politik verdrängt die Religion",
-      "url": "https://www.bild.de/politik/kolumnen/politik-inland/kaessmann-kolumne-die-politik-verdraengt-die-religion-82068926.bild.html",
-      "image_url": "https://images.bild.de/6382242008ba5f71743a9864/6951e2de98bd83fd078658db3be2696a-miniSquare,1f088879?w=320",
-      "image_title": "Käßmann-Kolumne: Die Politik verdrängt die Religion"
-    },
-    {
-      "title": "Standpunkt : Klima-Chaoten schaden dem Klima",
-      "url": "https://www.bild.de/politik/kolumnen/politik-inland/letzte-generation-standpunkt-klima-chaoten-schaden-dem-klima-82068854.bild.html",
-      "image_title": "„Letzte Generation“: Standpunkt: Klima-Chaoten schaden dem Klima"
-    },
-    {
-      "title": "Kommentar zur WM in Katar : Der Fußball verliert seine Fans",
-      "teaser": "Eine WM in Katar widerspricht allem, was den Fußball ausmacht.",
-      "url": "https://www.bild.de/politik/kolumnen/politik-inland/kommentar-zur-wm-in-katar-der-fussball-verliert-seine-fans-82068866.bild.html",
-      "image_title": "Kommentar zur WM in Katar: Der Fußball verliert seine Fans"
-    },
-    {
-      "title": "10 Gründe : Die Katar-Debatte ist nur noch verlogen!",
-      "teaser": "Deutsche Politiker empören sich über die Fußball-WM in Katar – auf scheinheilige Art.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/10-gruende-die-katar-debatte-ist-nur-noch-verlogen-82035268.bild.html",
-      "image_title": "10 Gründe: Die Katar-Debatte ist nur noch verlogen!"
-    },
-    {
-      "title": "Kommentar : Verheerende Botschaft!",
-      "teaser": "Ein Jahr nach ihrem Start steht fest: Mit Sparen hat die Ampel-Regierung rein gar nichts am Hut.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-verheerende-botschaft-82065084.bild.html",
-      "image_title": "Kommentar: Verheerende Botschaft!"
-    },
-    {
-      "title": "Kommentar : Pass-Plan ist falsch!",
-      "teaser": "Die Ampel-Regierung will es nun einfacher machen, den Deutschen Pass zu bekommen.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-pass-plan-ist-falsch-82054320.bild.html",
-      "image_title": "Kommentar: Pass-Plan ist falsch!"
-    },
-    {
-      "title": "Post von Wagner : Wenn die (Fußball)-Liebe zu Ende geht",
-      "teaser": "Geringe Einschaltquoten, nirgendwo ein Deutschlandfähnchen, Desinteresse überall.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-wenn-die-fussball-liebe-zu-ende-geht-82053850.bild.html",
-      "image_title": "Post von Wagner: Wenn die (Fußball)-Liebe zu Ende geht"
-    },
-    {
-      "title": "Kiew ohne Strom und Wasser : Die Ukraine erfriert, Kanzler!",
-      "teaser": "Es ist völlig eindeutig: Putin will die Ukrainer erfrieren lassen – und wir lassen es zu!",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/millionen-menschen-in-kiew-ohne-strom-und-wasser-die-ukraine-erfriert-kanzler-82044528.bild.html",
-      "image_title": "Die Ukraine erfriert, Kanzler! Millionen Menschen in Kiew ohne Strom und Wasser"
-    },
-    {
-      "title": "Kommentar : Mund aufmachen!",
-      "teaser": "Unsere Nationalelf macht den Mund NICHT auf. Sie hält ihn sich sogar demonstrativ zu.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-mund-aufmachen-82043532.bild.html",
-      "image_title": "Kommentar: Mund aufmachen!"
-    },
-    {
-      "title": "Post von Wagner : Liebe Nationalelf,",
-      "teaser": "ich bin mir ziemlich sicher, dass eure Niederlage mit eurem wehleidigen Protest zusammenhängt.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-liebe-nationalelf-82043576.bild.html",
-      "image_title": "Post von Wagner: Liebe Nationalelf,"
-    },
-    {
-      "title": "Kommentar zu Katar-Debatte : Schaut auch auf Islamismus in Deutschland!",
-      "teaser": "Die Empörung ist berechtigt, aber warum schlägt sie nur gegenüber Katar so hohe Wellen?",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/kommentar-zu-katar-debatte-schaut-auch-auf-islamismus-in-deutschland-82035552.bild.html",
-      "image_title": "Kommentar zu Katar-Debatte: Schaut auch auf Islamismus in Deutschland!"
-    },
-    {
-      "title": "Kommentar : Klare Kante gegen Menschenhandel!",
-      "teaser": "Skrupellose Schlepper machen mit der Not von Flüchtlingen ein dickes Geschäft.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-klare-kante-gegen-menschenhandel-82029682.bild.html",
-      "image_title": "Kommentar: Klare Kante gegen Menschenhandel!"
-    },
-    {
-      "title": "Post von Wagner : Betrifft: Zeigt jetzt Eier!",
-      "teaser": "Deshalb muss Manuel Neuer die „One Love“-Binde tragen.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-betrifft-zeigt-jetzt-eier-82030228.bild.html",
-      "image_title": "Post von Wagner: Betrifft: Zeigt jetzt Eier!"
-    },
-    {
-      "title": "Kommentar zur „One Love“-Binde : Eine Blamage!",
-      "teaser": "Deutschland kuscht vor der Fifa, verzichtet auf die „One Love“-Binde – eine Blamage.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-von-bild-chef-johannes-boie-zur-one-love-binde-eine-blamage-82017814.bild.html",
-      "image_title": "Kommentar zur „One Love“-Binde: Eine Blamage!"
-    },
-    {
-      "title": "Faeser will Limit von 10 000 Euro : Bargeld begrenzen raubt uns die Freiheit!",
-      "teaser": "Barzahlungen über 10 000 Euro braucht niemand? Darum geht's aber nicht.",
-      "url": "https://www.bild.de/politik/inland/politik-inland/obergrenze-10000-euro-bargeld-begrenzen-raubt-uns-die-freiheit-82021384.bild.html",
-      "image_title": "Bargeld begrenzen raubt uns die Freiheit! Faeser will Limit von 10 000 Euro"
-    },
-    {
-      "title": "Post von Wagner : Betrifft: „One-Love“-Binde",
-      "teaser": "Die Fifa hat das Wort Liebe auf den Kapitänsbinden verboten. Gelbe Karte, Punktabzug.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-betrifft-one-love-binde-82018192.bild.html",
-      "image_title": "Post von Wagner: Betrifft: „One-Love“-Binde"
-    },
-    {
-      "title": "Kommentar zur Weltklimakonferenz : Schluss mit dem deutschen Klima-Selbsthass!",
-      "teaser": "Deutschland steht beim Klimaschutz gut da. Mit dem Finger sollte man auf andere zeigen.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/klima-gipfel-in-scharm-el-scheich-schluss-mit-dem-deutschen-klima-selbsthass-kom-82010248.bild.html",
-      "image_title": "Klima-Gipfel in Scharm el-Scheich: Schluss mit dem deutschen Klima-Selbsthass! Kommentar"
-    },
-    {
-      "title": "Kommentar : Brauchen frohe Botschaft",
-      "teaser": "Beim Blick nach draußen und nach vorn: trübe Aussichten! Jetzt passt auch das Wetter zur Lage.",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-brauchen-frohe-botschaft-82006888.bild.html",
-      "image_title": "Kommentar: Brauchen frohe Botschaft"
-    },
-    {
-      "title": "Post von Wagner : Betr.: Eröffnungsfeier",
-      "teaser": "Ich guckte die WM-Eröffnungsfeier ... Im Namen Allahs eröffnete sie der Emir. Er sprach von Vielfalt, Toleranz.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-betr-eroeffnungsfeier-82005908.bild.html",
-      "image_title": "Post von Wagner: Betr.: Eröffnungsfeier"
-    },
-    {
-      "title": "Kommentar zum Woelki-Skandal : Der Papst gefährdet die katholische Kirche in Deutschland",
-      "teaser": "Franziskus’ Verzögern einer ­Rücktritts-Entscheidung gleicht fortgesetzter Vertuschung!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/standpunkt-woelki-und-ganz-viel-papperla-papst-81994646.bild.html",
-      "image_title": "Kommentar zum Woelki-Skandal: Der Papst gefährdet die katholische Kirche in Deutschland"
-    },
-    {
-      "title": "Margot Käßmann : Tempolimit im Auftrag des Herrn? Gut so!",
-      "teaser": "Beschäftigte der evangelischen Kirche sollen ab sofort freiwillig 100 auf Autobahnen un...",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/eine-frage-der-haltung-tempo-100-im-auftrag-des-herrn-81996946.bild.html",
-      "image_title": "Margot Käßmann: Tempolimit im Auftrag des Herrn? Gut so!"
-    },
-    {
-      "title": "BILD-Chef zu Schlesinger-Skandal : „Das ist ein Armutszeugnis für die ARD“",
-      "url": "https://www.bild.de/video/clip/video/bild-chef-zu-schlesinger-skandal-das-ist-ein-armutszeugnis-fuer-die-ard-80923022.bild.html",
-      "image_title": "BILD-Chef zu Schlesinger-Skandal: „Das ist ein Armutszeugnis für die ARD“"
-    },
-    {
-      "title": "VERBOT VON REGENBOGENFARBEN : Uefa stärkt Schwulen-Hasser auf der ganzen Welt",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/allianz-arena-nicht-in-regenbogenfarben-die-verlogene-uefa-76858004.bild.html",
-      "image_title": "Allianz Arena nicht in Regenbogenfarben: Die verlogene Uefa"
-    },
-    {
-      "title": "Kommentar zu Antisemitismus : Mir wurde beigebracht, Juden zu hassen",
-      "url": "https://www.bild.de/video/clip/bild-video-kommentar/kommentar-zu-antisemitismus-mir-wurde-beigebracht-juden-zu-hassen-76467928.bild.html",
-      "image_title": "Kommentar zu Antisemitismus: Mir wurde beigebracht, Juden zu hassen"
-    }
-  ]
+  "articles": []
 }
