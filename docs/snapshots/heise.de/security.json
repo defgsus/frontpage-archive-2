@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-29T09:19:16",
+  "timestamp": "2022-11-29T10:21:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Acer-Notebooks",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Secure-Boot-auf-bestimmten-Acer-Notebooks-deaktivieren-7359874.html"
+    },
+    {
       "title": "Atos Unify OpenScape",
       "url": "https://www.heise.de/news/Kommunikationssoftware-Kritische-Sicherheitsluecke-in-Atos-Unify-OpenScape-4000-7358657.html"
     },
@@ -44,13 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-HPE-Switches-OfficeConnect-gefaehrdet-Netzwerke-7350116.html"
     },
     {
-      "title": "IBM Spectrum Protect Plus Container Backup",
-      "url": "https://www.heise.de/news/Attacken-auf-Backuploesung-IBM-Spectrum-Protect-Plus-Container-Backup-moeglich-7348556.html"
+      "title": "Cyber-Angriffe: Lahmgelegte IT bei Uni, Presseagentur und Klinikum",
+      "teaser": "Mehrere Cyber-Angriffe haben Schäden angerichtet. Neben einer Universität und einem Krankenhaus ist auch eine österreichische Nachrichtenagentur betroffen.",
+      "url": "https://www.heise.de/news/Cyber-Angriffe-Lahmgelegte-IT-bei-Uni-Presseagentur-und-Klinikum-7359862.html"
     },
     {
-      "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
-      "teaser": "Der ideale Zeitpunkt auf einen Passwort-Manager anstatt auf Passwort-Schemas, einer Loseblattsammlung oder Browser-Verwaltung zu setzen, ist: jetzt!",
-      "url": "https://www.heise.de/hintergrund/Wechsel-zum-Passwort-Manager-ein-wenig-Arbeit-ein-grosser-Sicherheitszugewinn-7358142.html"
+      "title": "Angreifer könnten Secure Boot auf bestimmten Acer-Notebooks deaktivieren",
+      "teaser": "Acers Entwickler haben eine Sicherheitslücke geschlossen. Unter bestimmten Umständen könnten Angreifer UEFI-Einstellungen manipulieren. Updates sind in Sicht.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Secure-Boot-auf-bestimmten-Acer-Notebooks-deaktivieren-7359874.html"
     },
     {
       "title": "Kommunikationssoftware: Kritische Sicherheitslücke in Atos Unify OpenScape 4000",
@@ -72,6 +77,11 @@
       "title": "Notfall-Update: Attacken auf Webbrowser Chrome könnten bevorstehen",
       "teaser": "Google warnt vor Exploit-Code, der auf eine Lücke im Webbrowser Chrome zugeschnittenen ist. Eine dagegen abgesicherte Version ist verfügbar.",
       "url": "https://www.heise.de/news/Notfall-Update-Attacken-auf-Chrome-koennten-bevorstehen-7352246.html"
+    },
+    {
+      "title": "UEFI-BIOS mit bekannt unsicherem Code gespickt",
+      "teaser": "In einem BIOS-Update fanden Experten mehrere OpenSSL-Versionen, teils mit uralten Sicherheitslücken. Das wirft ein Schlaglicht auf Risiken von PC-Firmware.",
+      "url": "https://www.heise.de/news/UEFI-BIOS-mit-bekannt-unsicherem-Code-gespickt-7351884.html"
     },
     {
       "title": "Microsoft warnt vor Supply-Chain-Attacken am Boa-Web-Server-Beispiel",
@@ -142,17 +152,6 @@
       "teaser": "Die Windows-Malware ViperSoftX geht auf Nummer sicher und nistet sich zusätzlich in den Browsern Brave, Chrome, Edge und Opera ein.",
       "url": "https://www.heise.de/news/Webbrowser-Erweiterung-VenomSoftX-manipuliert-Kryptowaehrungs-Transaktionen-7348803.html",
       "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
-    },
-    {
-      "title": "Attacken auf Backuplösung IBM Spectrum Protect Plus Container Backup möglich",
-      "teaser": "Sicherheitslücken in der Programmiersprache Golang Go bedrohen IBM-Software. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Attacken-auf-Backuploesung-IBM-Spectrum-Protect-Plus-Container-Backup-moeglich-7348556.html"
-    },
-    {
-      "title": "iX-Workshop: Anforderungen für den KRITIS-Betrieb umsetzen",
-      "teaser": "Lernen Sie, wie Sie die Vorgaben des IT-Sicherheitsgesetzes des BSI umsetzen: konkrete Starthilfe für KRITIS-Betreiber an zwei Tagen (online).",
-      "url": "https://www.heise.de/news/iX-Workshop-Anforderungen-fuer-den-KRITIS-Betrieb-umsetzen-7345194.html",
-      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",

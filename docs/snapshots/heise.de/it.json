@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-29T09:19:12",
+  "timestamp": "2022-11-29T10:21:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,14 +42,36 @@
       "url": "https://www.heise.de/ratgeber/Zweites-Leben-mit-Linux-Wie-Unternehmen-alte-Windows-Rechner-retten-koennen-7343436.html"
     },
     {
+      "title": "Kubernetes lernen und verstehen, Teil 3: Container vernetzen",
+      "teaser": "Sie vernetzen Container per Kubernetes-Service und installieren den Reverse-Proxy Traefik mit dem Paketmanager Helm. Dann ist Ihr Cluster bereit für Anfragen.",
+      "url": "https://www.heise.de/ratgeber/Kubernetes-lernen-und-verstehen-Teil-3-Container-vernetzen-7351581.html",
+      "image_title": ", Albert Hulm"
+    },
+    {
       "title": "Kubernetes absichern mit Capabilities, SECCOMP und SELinux",
       "teaser": "Capabilities, SELinux und SECCOMP im Linux-Kernel verhindern Programme verbotene Dinge zu tun. Kubernetes nutzt die Methoden, um Kernel-Angriffe zu schützen.",
       "url": "https://www.heise.de/ratgeber/Kubernetes-absichern-mit-Capabilities-SECCOMP-und-SELinux-7348332.html"
     },
     {
-      "title": "Gnome-Anmeldebildschirm für Multimonitorbetrieb konfigurieren",
-      "teaser": "Bei mehreren Monitoren entscheidet der Gnome Display Manager automatisch, auf welchem Display die Login-Maske erscheint. Diese Automatik kann man beeinflussen.",
-      "url": "https://www.heise.de/ratgeber/Gnome-Anmeldebildschirm-fuer-Multimonitorbetrieb-konfigurieren-7356111.html"
+      "title": "Cyber-Angriffe: Lahmgelegte IT bei Uni, Presseagentur und Klinikum",
+      "teaser": "Mehrere Cyber-Angriffe haben Schäden angerichtet. Neben einer Universität und einem Krankenhaus ist auch eine österreichische Nachrichtenagentur betroffen.",
+      "url": "https://www.heise.de/news/Cyber-Angriffe-Lahmgelegte-IT-bei-Uni-Presseagentur-und-Klinikum-7359862.html"
+    },
+    {
+      "title": "Angreifer könnten Secure Boot auf bestimmten Acer-Notebooks deaktivieren",
+      "teaser": "Acers Entwickler haben eine Sicherheitslücke geschlossen. Unter bestimmten Umständen könnten Angreifer UEFI-Einstellungen manipulieren. Updates sind in Sicht.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Secure-Boot-auf-bestimmten-Acer-Notebooks-deaktivieren-7359874.html"
+    },
+    {
+      "title": "Bremsklötze: Wie Politik und Wirtschaft den Breitbandausbau verzögern",
+      "teaser": "Kaum hat der Ausbau der Glasfasernetze ein wenig Fahrt aufgenommen, stockt die Förderung. Auch Haftungsfragen und Altlasten bremsen den raschen Ausbau aus.",
+      "url": "https://www.heise.de/hintergrund/Bremskloetze-Wie-Politik-und-Wirtschaft-den-Breitbandausbau-verzoegern-7338765.html",
+      "image_title": ", Gerhard Seybert stock.adobe.com"
+    },
+    {
+      "title": "Open-Source-Messenger SimpleX: Anonym und jetzt auch privat chatten",
+      "teaser": "Wer garantiert anonym chatten will, konnte bislang auf SimpleX zurückgreifen. Nun führt das freie Projekt auch private Chat-Server ein.",
+      "url": "https://www.heise.de/news/Open-Source-Messenger-SimpleX-anonym-und-jetzt-auch-privat-chatten-7359889.html"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
@@ -60,6 +82,11 @@
       "title": "China: Flut an Twitter-Spam soll wohl Berichte über Coronaproteste verstecken",
       "teaser": "In China sind überraschend verbreitete Proteste gegen die Coronapolitik ausgebrochen. Auf Twitter soll das mit massenhaftem Spam offenbar versteckt werden.",
       "url": "https://www.heise.de/news/China-Flut-an-Twitter-Spam-soll-wohl-Berichte-ueber-Coronaproteste-verstecken-7359763.html"
+    },
+    {
+      "title": "Gnome-Anmeldebildschirm für Multimonitorbetrieb konfigurieren",
+      "teaser": "Bei mehreren Monitoren entscheidet der Gnome Display Manager automatisch, auf welchem Display die Login-Maske erscheint. Diese Automatik kann man beeinflussen.",
+      "url": "https://www.heise.de/ratgeber/Gnome-Anmeldebildschirm-fuer-Multimonitorbetrieb-konfigurieren-7356111.html"
     },
     {
       "title": "Gebündeltes Wissen für Admins",
@@ -105,33 +132,6 @@
       "teaser": "Der Luftstrom spielt eine große Rolle für die Veränderungen beim Ton in den AirPods Pro der 2. Generation. Ein Apple-Ingenieur gewährt Einblicke.",
       "url": "https://www.heise.de/news/AirPods-Pro-Warum-Apple-weiterhin-auf-Bluetooth-AAC-setzt-7358730.html",
       "image_title": "AirPods Pro 2-Funktionsübersicht"
-    },
-    {
-      "title": "Kommunikationssoftware: Kritische Sicherheitslücke in Atos Unify OpenScape 4000",
-      "teaser": "Atos warnt vor einer kritischen Schwachstelle in Unify OpenScape 4000. Angreifer könnten Dateien einschleusen und administrativen Zugang erlangen.",
-      "url": "https://www.heise.de/news/Kommunikationssoftware-Kritische-Sicherheitsluecke-in-Atos-Unify-OpenScape-4000-7358657.html",
-      "image_title": "ATOS expandiert mit Milliarden-Deal"
-    },
-    {
-      "title": "Tipp: Auto-Korrektur auf iPhone und iPad deaktivieren",
-      "teaser": "Wenn die integrierte Tippfehlerverbesserung auf iPhone und iPad mehr stört als zu helfen, lässt sich die Funktion einfach abschalten.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Auto-Korrektur-auf-iPhone-und-iPad-deaktivieren-7358635.html",
-      "image_title": "iPhone"
-    },
-    {
-      "title": "Linux-Distribution: openSUSE Tumbleweed streicht ältere Mikroarchitekturen",
-      "teaser": "Das Rolling-Release-Linux openSUSE Tumbleweed streicht die Unterstützung älterer CPU-Mikroarchitekturen. Nutzer alter Hardware müssen aktiv werden.",
-      "url": "https://www.heise.de/news/Linux-Distribution-openSUSE-Tumbleweed-streicht-aeltere-Mikroarchitekturen-7358464.html"
-    },
-    {
-      "title": "Jetzt zur Online-Konferenz \"Moderne IT-Integrationen\" kostenlos anmelden",
-      "teaser": "Das heise-Academy-Event zeigt am Mittwoch zentrale Konzepte, Techniken und Anwendungsszenarien dazu, wie Unternehmen ihre IT-Integrationen angehen sollten.",
-      "url": "https://www.heise.de/news/Jetzt-zur-Online-Konferenz-Moderne-IT-Integrationen-kostenlos-anmelden-7358107.html"
-    },
-    {
-      "title": "Drei Fragen und Antworten: Entwickler müssen Low-Code-Projekte anführen",
-      "teaser": "Lange hieß es, reguläre Büromitarbeiter sollten Low-Code-Projekte anpacken. Inzwischen zeigt sich: Bei Entwicklern sind sie besser aufgehoben.",
-      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Entwickler-muessen-Low-Code-Projekte-anfuehren-7358048.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
