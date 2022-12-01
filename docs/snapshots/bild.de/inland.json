@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-01T07:18:45",
+  "timestamp": "2022-12-01T08:26:34",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.3e322615.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a0822fdb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.b63563ef.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cbf71dc3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0b200ed2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.ea71e33e.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Fahndungsfotos der Polizei : Das sind die Luxusuhren-Diebe von Berlin",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/fahndungsfotos-das-sind-die-uhren-raeuber-von-berlin-82108994.bild.html",
-      "image_url": "https://images.bild.de/63874c9108ba5f71743aa0c1/5d0a16a297796a80109d4522760ba696,29f44954?w=320",
-      "image_title": "Fahndungsfotos: Das sind die Uhren-Räuber von Berlin!"
-    },
-    {
-      "title": "Beschwerde abgelehnt : Zoes Mörder bleibt in Haft",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/beschwerde-abgelehnt-zoes-moerder-bleibt-in-haft-82115834.bild.html",
-      "image_url": "https://images.bild.de/6387c48208ba5f71743aa1d2/ef7586f63a64bdaeed35729e4d88a275,918d1fed?w=320",
-      "image_title": "Beschwerde abgelehnt: Zoes Mörder bleibt in Haft"
-    },
-    {
-      "title": "Für mehr Sicherheit : FDP-Politikerin fordert Prostituierten-WGs",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-fdp-politikerin-fordert-prostituierten-wgs-82112992.bild.html",
-      "image_url": "https://images.bild.de/63877ea6735e056dbe35455d/099ffd8b0cef2f3b4a736edc181c9427,2d91dc54?w=320",
-      "image_title": "München: FDP-Politikerin fordert Prostituierten-WGs"
-    },
-    {
-      "title": "Mord an Jesse L. (†19) nachgestellt : Lüge entlarvt Kopfschuss-Killer",
-      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/leipzig-luege-entlarvt-kopfschuss-killer-82109356.bild.html",
-      "image_url": "https://images.bild.de/6387530f08ba5f71743aa0cf/dee1dbee8bec98ebfd71e18d8a9b387c,8693826a?w=320",
-      "image_title": "Leipzig: Lüge entlarvt Kopfschuss-Killer"
-    },
-    {
-      "title": "Sogar das Licht bleibt aus! : Darauf verzichten Deutsche in der Teuer-Krise",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/so-trotzen-die-norddeutschen-der-alles-teuer-zeit-das-sparen-wir-uns-82095972.bild.html",
-      "image_title": "Inflation: Worauf verzichten Deutsche jetzt in der Teuer-Krise"
-    },
-    {
-      "title": "Berliner Doc verwechselt links mit rechts : Am falschen Fuß erwischt",
-      "teaser": "Die OP bei Tuna K. ist erfolgreich verlaufen, leider erwischte ihn der Chirurg am falschen Fuß.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-operation-verpfuscht-arzt-schneidet-falschen-fuss-auf-82102384.bild.html",
-      "image_title": "Berlin: Operation verpfuscht! Arzt schneidet falschen Fuß auf"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Mittwoch",
-      "teaser": "Haben Sie 6 Richtige? Gehört der 20 Mio € Jackpot bald Ihnen? Erfahren Sie es hier!",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-mittwoch-die-gewinnzahlen-und-quoten-vom-30-november-82106134.bild.html",
-      "image_title": "Lotto am Mittwoch: Die Gewinnzahlen und Quoten vom 30. November"
-    },
-    {
-      "title": "Aktivisten vom Stachus vor Gericht : Nach Knast jetzt Geldstrafen für Klima-Kleber",
-      "teaser": "München – Erst waren sie drei Wochen in Polizei-Gewahrsam. Jetzt sind die ersten drei Hardcore-Klima-Chaoten vor Gericht zu Geldstrafen verurteilt worden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/klima-chaoten-vor-gericht-in-muenchen-nach-schnellverfahren-knast-82107750.bild.html",
-      "image_title": "Aktivisten vor Gericht: Nach Knast jetzt Geldstrafen für Klima-Kleber"
-    },
-    {
-      "title": "Terror-Verdacht aus dem Iran : Höchste Alarmstufe bei NRW-Synagogen",
-      "teaser": "Vor Synagogen und jüdischen Einrichtungen in NRW herrscht ab sofort höchste Alarmstufe.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/nrw-synagogen-terror-verdacht-aus-dem-iran-erhaertet-sich-82110428.bild.html",
-      "image_title": "NRW-Synagogen: Terror-Verdacht aus dem Iran erhärtet sich"
-    },
-    {
-      "title": "Lebenslang für Andreas S. : Richter nennt Polizistenmord „Hinrichtung“!",
-      "teaser": "Der kaltblütige Polizistenkiller Andreas S, (39) muss lebenslang ins Gefängnis!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/polizistenmord-in-kusel-andreas-s-39-lebenslang-in-den-knast-abgeknallt-wie-tier-82099346.bild.html",
-      "image_title": "Urteil zum Polizistenmord von Kusel: Lebenslang für Andreas S."
-    },
-    {
-      "title": "Feuerwehr rettet weiteren Bewohner : Frau (84) stirbt bei Hausbrand",
-      "teaser": "Flammen haben am Morgen ein Wohnhaus in Thüringen verschlungen. Eine Frau starb.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-frau-84-stirbt-bei-wohnhausbrand-82106018.bild.html",
-      "image_title": "Thüringen: Frau (84) stirbt bei Wohnhausbrand"
-    },
-    {
-      "title": "Offizier stirbt bei Lehrgang : Staatsanwaltschaft untersucht Tod des Soldaten",
-      "teaser": "Die Staatsanwaltschaft untersucht den Tod eines Soldaten beim Einzelkämpferlehrgang.",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/offizier-stirbt-auf-lehrgang-in-hammelburg-staatsanwalt-ermittelt-82112004.bild.html",
-      "image_title": "Offizier stirbt auf Lehrgang in Hammelburg: Staatsanwalt ermittelt"
-    },
-    {
-      "title": "Razzia bei rechten Online-Hetzern : Polizei findet Hitler-Altar und Pistolen",
-      "teaser": "Im Schutz der Anonymität hetzen einige Menschen im Internet hemmungslos.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/razzia-in-sachsen-polizei-durchsuchen-wohnungen-von-online-hetzern-82106732.bild.html",
-      "image_title": "Razzia in Sachsen: Polizei durchsucht Wohnungen von rechten Online-Hetzern"
-    },
-    {
-      "title": "Lebensgefahr nach Crash! : Fahrer wird in Bus eingeklemmt",
-      "teaser": "Nach einem Crash zwischen einem Bus und einem Tanklaster schwebt ein Mann in Lebensgefahr!",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/lebensgefahr-nach-crash-fahrer-wird-in-bus-eingeklemmt-82111450.bild.html",
-      "image_title": "Thüringen: Fahrer wird in Bus eingeklemmt – Lebensgefahr!"
-    },
-    {
-      "title": "Das soll kein Mord sein? : Mit Tempo 175 drei Leben ausgelöscht",
-      "teaser": "Zwei Frauen und ein ungeborenes Baby sterben bei einem Horror-Unfall.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/das-soll-kein-mord-sein-mit-tempo-175-auf-bundesstrasse-drei-leben-ausgeloescht-82102540.bild.html",
-      "image_title": "Das soll kein Mord sein? Mit Tempo 175 auf Bundesstraße drei Leben ausgelöscht"
-    },
-    {
-      "title": "Armbrust-Killer brachte seine Familie bestialisch um : Erst töten, dann feiern",
-      "teaser": "Nachdem er seine Familie gemeuchelt haben soll, feierte der Killer mit seinen Freunden.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/mord-prozess-in-rostock-armbrust-killer-verscharrte-familie-und-ging-feiern-82109242.bild.html",
-      "image_title": "Mord-Prozess in Rostock: Armbrust-Killer verscharrte Familie und ging feiern"
-    },
-    {
-      "title": "Ohrfeigen und Schubser : Wohnung der Nachbarn versehentlich angebohrt",
-      "teaser": "Er wollte nur ein Loch in die Wand bohren, kam aber in der Wohnung der Nachbarn heraus ...",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/neuburg-an-der-kammel-wohnung-der-nachbarn-versehentlich-angebohrt-82109564.bild.html",
-      "image_title": "Neuburg an der Kammel: Wohnung der Nachbarn versehentlich angebohrt"
-    },
-    {
-      "title": "In 14 Bundesländern : Groß-Razzia gegen Online-Hetzer",
-      "teaser": "Zum polizeilichen Aktionstag gegen Hass im Internet gab es bundesweit Durchsuchungen.",
-      "url": "https://www.bild.de/news/inland/news/hasspostings-bundesweiter-polizei-aktionstag-gegen-online-hetzer-82105604.bild.html",
-      "image_title": "Hasspostings: Bundesweiter Polizei-Aktionstag gegen Online-Hetzer"
-    },
-    {
-      "title": "Sechs seltene Drill eingeschläfert : Affen-Drama im Tierpark Hellabrunn",
-      "teaser": "Der Tierpark Hellabrunn spricht von einem „schwarzen Dienstag“.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/gruende-des-tierwohls-muenchner-tierpark-schlaefert-sechs-drills-ein-82108922.bild.html",
-      "image_title": "Münchner Tierpark: Hellabrunn muss 6 Affen einschläfern"
-    },
-    {
-      "title": "Brandstiftung : Blitzer-Anhänger in Flammen",
-      "teaser": "Am Dienstagabend brannte in Dierhagen ein Blitzer-Wagen aus. Er wurde angesteckt!",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/brandstiftung-in-dierhagen-blitzer-anhaenger-in-flammen-82107106.bild.html",
-      "image_title": "Brandstiftung: Blitzer-Anhänger in Dierhagen abgefackelt"
-    },
-    {
-      "title": "Trifft eine Radlerin auf einen Autofahrer ... : Irrer Kleinkrieg auf unseren Straßen",
-      "teaser": "Eine enge Wohnstraße in Hannover wird zur Bühne für einen Kleinkrieg.",
-      "url": "https://www.bild.de/news/inland/news-inland/irrer-kleinkrieg-auf-unseren-strassen-radlerin-laesst-auto-nicht-vorbei-82106846.bild.html",
-      "image_title": "Irrer Kleinkrieg auf unseren Straßen: Radlerin lässt Auto nicht vorbei"
-    },
-    {
-      "title": "Mehrere Wohnungen durchsucht : Staatsschutz-Razzia mit SEK-Unterstützung in Berlin",
-      "teaser": "Razzia am Morgen in Berlin. In mehreren Bezirken werden Wohnungen durchsucht.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/razzia-in-berlin-mehrere-wohnungen-durchsucht-82104480.bild.html",
-      "image_title": "Razzia in Berlin! Staatsschutz und SEK durchsuchen Wohnungen"
-    },
-    {
-      "title": "Horror-Unfall auf A9 : Kurierfahrer kracht in Ford – ein Toter",
-      "teaser": "Im Landkreis Potsdam-Mittelmark starb bei einem Unfall ein Mensch.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/unfall-auf-der-a9-kurierfahrer-kracht-in-kleinwagen-ein-toter-82104320.bild.html",
-      "image_title": "Unfall auf Autobahn 9: Transporter kracht in Ford Fiesta – ein Toter"
-    },
-    {
-      "title": "Jetzt machen sie die Reifen platt : Klima-Chaoten starten den Luft-Angriff",
-      "teaser": "Jetzt legen mutmaßliche Klima-Aktivisten sogar Autos lahm.",
-      "url": "https://www.bild.de/news/inland/news/klima-aktivisten-an-suv-gelaendewagen-machen-sie-reifen-platt-82104426.bild.html",
-      "image_title": "Klima-Aktivisten: An SUV-Geländewagen machen sie Reifen platt"
-    },
-    {
-      "title": "Straßenkampf eskaliert : Radfahrerin will nicht weichen",
-      "url": "https://www.bild.de/video/clip/news-inland/radfahrerin-laesst-autofahrerin-nicht-vorbei-irrer-kleinkrieg-auf-deutschlands-s-82107754.bild.html",
-      "image_title": "Straßenkampf eskaliert: Radfahrerin will nicht weichen"
-    },
-    {
-      "title": "Der Aufstieg der Abou-Chakers : „Es wird gebrüllt, Respekt gegenüber Polizisten Null“",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/clans-von-berlin-staffel-3-der-aufstieg-der-abou-chakers-80394304.bild.html",
-      "image_title": "Der Aufstieg der Abou-Chakers: „Es wird gebrüllt, Respekt gegenüber Polizisten Null“"
-    },
-    {
-      "title": "Bushido, Bordelle, Berlin : So mächtig ist der Abou-Chaker-Clan",
-      "url": "https://www.bild.de/video/clip/video/doku-clans-von-berlin-3-die-macht-der-abou-chakers-80246806.bild.html",
-      "image_title": "Bushido, Bordelle, Berlin: So mächtig ist der Abou-Chaker-Clan"
-    }
-  ]
+  "articles": []
 }
