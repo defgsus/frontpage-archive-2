@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-01T08:26:14",
+  "timestamp": "2022-12-01T09:19:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nvidia GPU",
+      "url": "https://www.heise.de/news/Nvidia-schliesst-Schadcode-Luecken-in-GPU-Treibern-7362668.html"
+    },
+    {
       "title": "VLC Media Player",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-VLC-Media-Player-7362049.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-Secure-Boot-auf-bestimmten-Acer-Notebooks-deaktivieren-7359874.html"
     },
     {
-      "title": "Atos Unify OpenScape",
-      "url": "https://www.heise.de/news/Kommunikationssoftware-Kritische-Sicherheitsluecke-in-Atos-Unify-OpenScape-4000-7358657.html"
+      "title": "Nvidia schließt Schadcode-Lücken in GPU-Treibern",
+      "teaser": "Wer eine Grafikkarte von Nvidia nutzt, sollte zeitnah die gegen mögliche Attacken abgesicherten Treiber installieren.",
+      "url": "https://www.heise.de/news/Nvidia-schliesst-Schadcode-Luecken-in-GPU-Treibern-7362668.html"
     },
     {
       "title": "Kritische Sicherheitslücke in VLC Media Player",
@@ -148,11 +153,6 @@
       "title": "Notfall-Update: Attacken auf Webbrowser Chrome könnten bevorstehen",
       "teaser": "Google warnt vor Exploit-Code, der auf eine Lücke im Webbrowser Chrome zugeschnittenen ist. Eine dagegen abgesicherte Version ist verfügbar.",
       "url": "https://www.heise.de/news/Notfall-Update-Attacken-auf-Chrome-koennten-bevorstehen-7352246.html"
-    },
-    {
-      "title": "UEFI-BIOS mit bekannt unsicherem Code gespickt",
-      "teaser": "In einem BIOS-Update fanden Experten mehrere OpenSSL-Versionen, teils mit uralten Sicherheitslücken. Das wirft ein Schlaglicht auf Risiken von PC-Firmware.",
-      "url": "https://www.heise.de/news/UEFI-BIOS-mit-bekannt-unsicherem-Code-gespickt-7351884.html"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
