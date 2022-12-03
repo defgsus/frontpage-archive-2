@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-03T08:22:39",
+  "timestamp": "2022-12-03T09:17:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Notfall-Update-Zero-Day-Sicherheitsluecke-in-Google-Chrome-unter-Beschuss-7365415.html"
+    },
+    {
       "title": "Fortinet",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Firewalls-und-Proxies-von-Fortinet-7364286.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-VLC-Media-Player-7362049.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-108-dichtet-28-Sicherheitsluecken-ab-7361154.html"
+      "title": "Eufys Kameras funken ungefragt in die Cloud und sind per Web zugänglich",
+      "teaser": "Die Anker-Tochter Eufy wirbt für Überwachungskameras und smarte Türklingeln mit lokaler Datenspeicherung. Das stimmt auf mehreren Ebenen nicht.",
+      "url": "https://www.heise.de/news/Eufys-Kameras-funken-ungefragt-in-die-Cloud-und-sind-per-Web-zugaenglich-7358310.html"
+    },
+    {
+      "title": "Notfall-Update: Zero-Day-Sicherheitslücke in Google Chrome unter Beschuss",
+      "teaser": "Google hat ein ungeplantes Update für den Google Chrome herausgegeben. Es schließt eine Sicherheitslücke im Webbrowser, die derzeit angegriffen wird.",
+      "url": "https://www.heise.de/news/Notfall-Update-Zero-Day-Sicherheitsluecke-in-Google-Chrome-unter-Beschuss-7365415.html",
+      "image_title": "Google Chrome Update"
     },
     {
       "title": "Android: Mehr Rust, weniger C/C++ und weniger kritische Schwachstellen",
@@ -147,16 +158,6 @@
       "title": "Open Source für sichere E-Mails: Antiviren-Software ClamAV 1.0 ist da",
       "teaser": "Das beliebte Security-Tool ClamAV wagt den großen Versionssprung: Neben neuen Funktionen bringt er auch den Umzug der Docker-Dateien in ein eigenes Repository.",
       "url": "https://www.heise.de/news/Open-Source-fuer-sichere-E-Mails-Antiviren-Software-ClamAV-1-0-ist-da-7359885.html"
-    },
-    {
-      "title": "Cyber-Angriffe: Lahmgelegte IT bei Uni, Presseagentur und Klinikum",
-      "teaser": "Mehrere Cyber-Angriffe haben Schäden angerichtet. Neben einer Universität und einem Krankenhaus ist auch eine österreichische Nachrichtenagentur betroffen.",
-      "url": "https://www.heise.de/news/Cyber-Angriffe-Lahmgelegte-IT-bei-Uni-Presseagentur-und-Klinikum-7359862.html"
-    },
-    {
-      "title": "Angreifer könnten Secure Boot auf bestimmten Acer-Notebooks deaktivieren",
-      "teaser": "Acers Entwickler haben eine Sicherheitslücke geschlossen. Unter bestimmten Umständen könnten Angreifer UEFI-Einstellungen manipulieren. Updates sind in Sicht.",
-      "url": "https://www.heise.de/news/Angreifer-koennten-Secure-Boot-auf-bestimmten-Acer-Notebooks-deaktivieren-7359874.html"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
