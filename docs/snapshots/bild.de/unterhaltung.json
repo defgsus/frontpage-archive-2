@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-04T22:16:52",
+  "timestamp": "2022-12-04T23:18:27",
   "url": "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,365 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,51784726.3-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.3e322615.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a0822fdb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.b63563ef.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cbf71dc3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0b200ed2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.ea71e33e.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Die Herzogin in ihrer größten Rolle : Meghan macht auf Yoko Ono!",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/meghan-in-netflix-doku-die-herzogin-macht-auf-yoko-ono-82150408.bild.html",
-      "image_url": "https://images.bild.de/638cd146948e255e8ab9aed2/407ff16c9e68d071b2e4d8f28c14adfc,84df3cf0?w=656",
-      "image_title": "Meghan in Netflix-Doku: Die Herzogin macht auf Yoko Ono!"
-    },
-    {
-      "title": "Die Clooneys auf dem roten Teppich : Amal zum Abschleppen schön!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/george-und-amal-clooney-auf-dem-roten-teppich-zum-abschleppen-schoen-82150788.bild.html",
-      "image_url": "https://images.bild.de/638cdb6a61d5b24b899baee7/afa4f80852d79a7da25238587b5b1ee2,50b3e774?w=320",
-      "image_title": "George und Amal Clooney auf dem roten Teppich: Zum Abschleppen schön!"
-    },
-    {
-      "title": "Haarige Verwandlung für Hollywood-Star : Owen Wilson spielt Kult-Maler Bob Ross",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/haarige-verwandlung-fuer-hollywood-star-owen-wilson-spielt-kult-maler-bob-ross-82150878.bild.html",
-      "image_url": "https://images.bild.de/638cdedcfd408a4437e40886/70a1a977ca128448d985bda389d2f267,ee65d882?w=320",
-      "image_title": "Haarige Verwandlung für Hollywood-Star: Owen Wilson spielt Kult-Maler Bob Ross"
-    },
-    {
-      "title": "Veilchen von Axl Rose Sänger schmeißt Mikro auf Fan",
-      "url": "https://www.bild.de/video/clip/musik/von-mikro-getroffen-ich-hab-ein-veilchen-von-axl-rose-82148304.bild.html"
-    },
-    {
-      "title": "TV-Liebling Walter Sittler wird 70 „Ich werde gerne älter – jünger war ich ja schon!“",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/walter-sittler-wird-70-ich-werde-gerne-aelter-juenger-war-ich-ja-schon-82149236.bild.html"
-    },
-    {
-      "title": "Guns-N‘-Roses-Sänger holt aus Rose verteilt ein Veilchen",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/axl-rose-wirft-mikro-in-fan-gesicht-boeses-veilchen-dank-guns-n-roses-82146526.bild.html"
-    },
-    {
-      "title": "Sexy Show bei „Promi Big Brother“ : Micaela lässt die Glocken klingen",
-      "url": "https://www.bild.de/video/clip/glomex/micaela-schockt-alle-big-brother-stars-zaehlen-sex-partner-v-coro3fiq0v29-82117250.bild.html",
-      "image_title": "Sexy Show bei „Promi Big Brother“: Micaela lässt die Glocken klingen"
-    },
-    {
-      "title": "Ring über Bord! : Heiratsantrag fällt ins Wasser – Bräutigam auch",
-      "url": "https://www.bild.de/video/clip/video/beruf-intimitaets-koordinatorin-mit-ihr-klappt-jede-sex-szene-bild-boxx-82111754.bild.html",
-      "image_title": "Ring über Bord!: Heiratsantrag fällt ins Wasser – Bräutigam auch"
-    },
-    {
-      "title": "Der Filmtrailer : „She Said“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-she-said-82132574.bild.html",
-      "image_title": "Der Filmtrailer: „She Said“"
-    },
-    {
-      "title": "Der Filmtrailer : „Der Räuber Hotzenplotz“",
-      "url": "https://www.bild.de/video/clip/kino/der-filmtrailer-der-raeuber-hotzenplotz-82132558.bild.html",
-      "image_title": "Der Filmtrailer: „Der Räuber Hotzenplotz“"
-    },
-    {
-      "title": "Liefers’ bester Freund hungerte sich zu Tode : Gefangen in der Sucht-Spirale aus Sport und Hungern",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/liefers-freund-langhoff-tot-gefangen-in-der-sucht-spirale-aus-sport-und-hungern-82147342.bild.html",
-      "image_title": "Liefers-Freund Langhoff tot: Gefangen in der Sucht-Spirale aus Sport und Hungern"
-    },
-    {
-      "title": "Oha, Frau Ora! : Rita packt die Hitzewelle",
-      "teaser": "Fünf Grad Bibber-Wetter in London – aber Rita Ora mag’s luftig!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/rita-ora-heiss-und-luftig-noch-weniger-waere-nichts-82148832.bild.html",
-      "image_title": "Rita Ora heiß und luftig: Noch weniger wäre nichts!"
-    },
-    {
-      "title": "1,5 Jahre nach Herrens plötzlichem Tod : Endlich findet Willi die letzte Ruhe",
-      "teaser": "Eineinhalb Jahre nach seinem Tod ziert das Grab von Willi Herren endlich ein Grabstein.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/willi-herrens-grab-hat-endlich-einen-stein-wer-hat-ihn-bezahlt-82147590.bild.html",
-      "image_title": "Willi Herrens Grab hat endlich einen Stein: Wer hat ihn bezahlt?"
-    },
-    {
-      "title": "Die Füße von Bella, Bieber und Co. : Strumpf ist Trumpf",
-      "teaser": "Zum Tag der Socke schaut BILD am SONNTAG Promis auf die Füße.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/hailey-bieber-und-kaia-gerber-sind-strumpf-fans-das-sockt-82141422.bild.html",
-      "image_title": "Hailey Bieber und Kaia Gerber sind Strumpf-Fans: Das SOCKT!"
-    },
-    {
-      "title": "Versteckspiel in Miami : Leo DiCaprios wilde Partynächte",
-      "teaser": "Der „Titanic“-Star feiert was das Zeug hält - und zwar solo. Kameras erwischten ihn!",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/leonardo-dicaprios-wilde-partynaechte-versteckspiel-in-miami-82146568.bild.html",
-      "image_title": "Leonardo DiCaprios wilde Partynächte: Versteckspiel in Miami"
-    },
-    {
-      "title": "„Promi Big Brother“-Hammer : LIVE-Heiratsantrag nach bitterer Abrechnung!",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/promi-big-brother-hammer-bittere-abrechnung-dann-der-live-heiratsantrag-82145570.bild.html",
-      "image_title": "„Promi Big Brother“-Hammer: LIVE-Heiratsantrag nach bitterer Abrechnung!"
-    },
-    {
-      "title": "Tote-Hosen-Frontmann Campino : Weiß nicht, ob ich den Wehrdienst verweigern würde",
-      "teaser": "Campino, Kurt Krömer und Harald Schmidt diskutieren über ein soziales Pflichtjahr.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/campino-weiss-nicht-ob-ich-heute-den-wehrdienst-verweigern-wuerde-82141452.bild.html",
-      "image_title": "Campino: Weiß nicht, ob ich heute den Wehrdienst verweigern würde"
-    },
-    {
-      "title": "Am Sonntag, den 4. Dezember 2022 : Alle Infos zum Tatort in Köln am Sonntag",
-      "teaser": "Heute ermittelt Max Ballauf einen Mordfall. Und Freddy Schenk - tanzt!",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/tatort-heute-aus-koeln-freddy-tanzt-mit-klaus-j-behrendt-und-dietmar-baer-82119396.bild.html",
-      "image_title": "Tatort heute aus Köln: „Freddy tanzt“ mit Klaus J. Behrendt und Dietmar Bär"
-    },
-    {
-      "title": "Vom Landarzt zum Physiotherapeuten : Wayne Carpendale steigt bei „Bettys Diagnose“ ein",
-      "teaser": "Wayne Carpendale übernimmt eine Rolle in der Erfolgsserie „Bettys Diagnose“.",
-      "url": "https://www.bild.de/unterhaltung/tv/leute/wayne-carpendale-er-ist-neu-bei-bettys-diagnose-82141460.bild.html",
-      "image_title": "Wayne Carpendale: Er ist neu bei „Bettys Diagnose“"
-    },
-    {
-      "title": "„Adventsfest der 100 000 Lichter“ : Ross Antony verschluckt sich am Kunstschnee",
-      "url": "https://www.bild.de/unterhaltung/tv/tv/florian-silbereisen-adventsfest-ross-antony-verschluckt-sich-am-kuns-82138210.bild.html",
-      "image_title": "Silbereisens „Adventsfest der 100 000 Lichter“: Ross Antony verschluckt sich am Kunstschnee"
-    },
-    {
-      "title": "„7 vs. Wild“-Boss redet Klartext : „Im Hintergrund ein dicker Haufen Sch***!“",
-      "teaser": "Der Macher von „7 vs. Wild“ macht seinem Ärger über das Survival-Format Luft.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/7-vs-wild-boss-fritz-meinecke-genervt-im-hintergrund-ein-dicker-haufen-sch-82145208.bild.html",
-      "image_title": "„7 vs. Wild“-Boss Fritz Meinecke genervt: „Im Hintergrund ein dicker Haufen Sch***!“"
-    },
-    {
-      "title": "William zeigt endeutige Haltung zu Harry : SO reagiert der Palast auf Meghans Skandal-Trailer",
-      "teaser": "Nichts wird mehr so sein wie vorher. Doch die Reaktionen überraschen.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/royals/harry-und-meghan-so-reagierte-der-palast-auf-den-netflix-trailer-82147500.bild.html",
-      "image_title": "Harry und Meghan: SO reagierte der Palast auf den Netflix-Trailer"
-    },
-    {
-      "title": "Vierfach-Mama Dana Schweiger (54) : Mit Wechseljahre-Trick 10 Kilo in 12 Wochen runter",
-      "teaser": "Sie hat das Kilo-Rätsel gelöst! Wie Dana Schweiger 10 Kilo in 12 Wochen abnahm.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/dana-schweiger-verraet-mit-wechseljahre-trick-10-kilo-in-12-wochen-runter-82145792.bild.html",
-      "image_title": "Dana Schweiger verrät: Mit Wechseljahre-Trick 10 Kilo in 12 Wochen runter"
-    },
-    {
-      "title": "SIE verfilmt den Weinstein-Skandal : „Ich hatte riesigen Respekt – und Angst“",
-      "teaser": "Für „Unorthodox“ bekam Maria Schrader den Emmy. Jetzt gilt sie als Oscar-Anwärterin.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/emmy-gewinnerin-maria-schrader-der-oscar-ist-auch-nur-ein-filmpreis-82141398.bild.html",
-      "image_title": "Emmy-Gewinnerin Maria Schrader: Der Oscar ist auch nur ein Filmpreis"
-    },
-    {
-      "title": "Krisengespräche nach Netflix-Trailer : Freunde von William und Kate sind „angewidert“",
-      "teaser": "Wegen Harry und Meghans Doku bereitet man sich im Palast schon auf einen Notfallplan vor.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/royals/meghan-harry-doku-william-und-kates-freunde-sind-angwidert-82138578.bild.html",
-      "image_title": "Meghan & Harry“-Doku: William und Kates Freunde: „Das macht uns krank“"
-    },
-    {
-      "title": "1982 war „Gloria“ von Jack White Nr. 1 in den US-Charts : „Ich war der glücklichste Mann der Welt“",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/jack-white-war-1982-platz-1-der-us-charts-gloria-machte-ihn-happy-82141432.bild.html",
-      "image_title": "Jack White war 1982 Platz 1 der US-Charts: „Gloria“ machte ihn happy"
-    },
-    {
-      "title": "Medizinischer Notfall : Mann stirbt bei Konzert der Kelly Family",
-      "teaser": "Am Freitag starb ein Fan der Kelly Family bei einem Konzert der Band in Halle, Westfalen.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/kelly-family-mann-stirbt-bei-weihnachts-konzert-82137990.bild.html",
-      "image_title": "Kelly Family: Mann stirbt bei Weihnachts-Konzert"
-    },
-    {
-      "title": "Als Laura noch Müller hieß : Diese Fotos kennt nicht mal der Wendler!",
-      "teaser": "Früher war Laura Müller oft auf Schlager-Festivals – meistens im VIP-Bereich.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/als-laura-mueller-auf-promi-jagd-war-diese-fotos-kennt-nicht-mal-der-wendler-82087624.bild.html",
-      "image_title": "Laura Müller – Party-Spaß im VIP-Bereich: Diese Fotos kennt nicht mal der Wendler!"
-    },
-    {
-      "title": "30 Jahre nach DEM Mega-Hit : Fanta 4 pimpen „Die da“",
-      "teaser": "Zum Jubiläum nehmen die Fantas ihren Mega-Hit „Die da“ neu auf.",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/die-fantastischen-vier-nehmen-hit-die-da-neu-auf-hoeren-sie-rein-82083170.bild.html",
-      "image_title": "Die Fantastischen Vier nehmen Hit „Die da“ neu auf: Hören Sie rein!"
-    },
-    {
-      "title": "Sie sang „What A Feeling“ : Irene Cara mit 63 gestorben",
-      "teaser": "Eine der schillerndsten Figuren der Musik- und Filmbranche aus den 1980er Jahren ist tot.",
-      "url": "https://www.bild.de/unterhaltung/musik/musik/irene-cara-ist-tot-fuer-flashdance-sang-sie-what-a-feeling-und-wurde-weltberuehm-82067940.bild.html",
-      "image_title": "Irene Cara ist tot: Für Flashdance sang sie „What A Feeling“ und wurde weltberühmt"
-    },
-    {
-      "title": "Weltstar singt auf Gut Basthorst : Vicky, bitte hör nicht auf!",
-      "teaser": "In der St. Marienkirche sang der Weltstar am Freitag deutsche Weihnachtslieder.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/vor-ihrer-abschiedstournee-singt-der-weltstar-auf-gut-basthorst-fuer-ein-herz-fu-82059194.bild.html",
-      "image_title": "Weltstar singt auf Gut Basthorst: Vicky, bitte hör nicht auf!"
-    },
-    {
-      "title": "Im Kino: „Die stillen Trabanten“ : Reinigungskraft verknallt sich in Friseurin",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/im-kino-die-stillen-trabanten-putzkraft-verknallt-sich-in-friseurin-82125294.bild.html",
-      "image_title": "Im Kino: „Die stillen Trabanten“ – Putzkraft verknallt sich in Friseurin"
-    },
-    {
-      "title": "Kinostarts im Dezember : Diese Filme kommen im Dezember ins Kino",
-      "teaser": "Egal ob Blockbuster, Rom-Com oder Arthouse: Im Kino findet jeder etwas für sich.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/neu-im-kino-diese-filme-kommen-im-dezember-in-die-kinos-82098472.bild.html",
-      "image_title": "Neu im Kino: Diese Filme kommen im Dezember in die Kinos"
-    },
-    {
-      "title": "„Mehr denn je“ : Ein Abschied für immer",
-      "teaser": "Dies ist der letzte Film von Hauptdarsteller Gaspard Ulliel. Er verstarb mit 37 Jahren.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/mehr-denn-je-mit-gaspard-ulliel-ein-abschied-fuer-immer-82106526.bild.html",
-      "image_title": "„Mehr denn je“ mit Gaspard Ulliel: Ein Abschied für immer"
-    },
-    {
-      "title": "„Call Jane“ : Bei Anruf Abtreibung",
-      "teaser": "Die Freude über ihre zweite Schwangerschaft wärt bei Joy (Elizabeth Banks, 48) nur kurz.",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/call-jane-bei-anruf-abtreibung-82106302.bild.html",
-      "image_title": "„Call Jane“: Bei Anruf Abtreibung"
-    },
-    {
-      "title": "„Der kleine Nick erzählt vom Glück“ : Fast wie ein echter Sohn",
-      "teaser": "Eine liebevolle filmische Verneigung vor einem französischen Kult-Star",
-      "url": "https://www.bild.de/unterhaltung/kino/kino/der-kleine-nick-erzaehlt-vom-glueck-fast-wie-ein-echter-sohn-82106458.bild.html",
-      "image_title": "„Der kleine Nick erzählt vom Glück“: Fast wie ein echter Sohn"
-    },
-    {
-      "title": "DER KLEINE NICK : Signiertes Fan-Paket ersteigern",
-      "teaser": "Ersteigern Sie zum Kino-Start von DER KLEINE NICK ein signiertes Fan-Paket.",
-      "url": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/der-kleine-nick-tolles-fan-paket-ersteigern-82051350.bild.html",
-      "image_title": "DER KLEINE NICK: Tolles Fan-Paket ersteigern"
-    },
-    {
-      "title": "Während seine Familie fassungslos ist : Harry SPINNT sich was zurecht",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/prinz-harry-liebevolle-weihnachtsbotschaft-an-seine-kleinsten-fans-82144076.bild.html",
-      "image_title": "Prinz Harry wird zu Spider-Man: Was hinter diesem Video steckt"
-    },
-    {
-      "title": "William und seine Kate : Gehört DAS zum Hof-POtokoll?",
-      "teaser": "Die große Kate-Show in Amerika – man kann sich einfach nicht an ihr sattsehen!",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/william-und-seine-kate-in-amerika-gehoert-das-zum-hof-potokoll-82145396.bild.html",
-      "image_title": "William und seine Kate in Amerika: Gehört DAS zum Hof-POtokoll?"
-    },
-    {
-      "title": "Kate trägt Smaragd-Kette von Diana : Da wird Meghan grün vor Neid!",
-      "teaser": "Zum „Earthshot“-Preis in Boston trug Kate eine Smaragd-Kette von Diana.",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/prinz-william-trifft-biden-vor-earthshot-preisverleihung-in-boston-82138334.bild.html",
-      "image_title": "Kate trägt Samaragd-Kette von Diana: Da wird Meghan grün vor Neid!"
-    },
-    {
-      "title": "Kate gegen Meghan : HERZ gegen HASS",
-      "teaser": "Ein 72-sekündiger Clip sorgt für ein royales Beben: Jetzt heißt es Meghan gegen Kate.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/royals/royals/meghan-gegen-kate-hass-gegen-herz-82136620.bild.html",
-      "image_title": "Meghan gegen Kate: HASS gegen HERZ"
-    },
-    {
-      "title": "Ob sie die Serie jetzt zusammen schauen? : Mileys Mama liebt „Prison Break“-Star",
-      "teaser": "Nach der Scheidung von Mileys Papa schwebt die Produzentin wieder auf Wolke Sieben.",
-      "url": "https://www.bild.de/unterhaltung/royals/royals/miley-cyrus-mama-tish-liebt-prison-break-star-dominic-purcell-82130370.bild.html",
-      "image_title": "Miley Cyrus' Mama Tish liebt „Prison Break“-Star Dominic Purcell"
-    },
-    {
-      "title": "Es gibt nur eine Ausnahme : Sex-Verbot für Bali-Urlauber",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/indonesien-sex-verbot-fuer-bali-urlauber-droht-es-gibt-nur-eine-ausnahme-82140576.bild.html",
-      "image_title": "Indonesien: Sex-Verbot für Bali-Urlauber droht – es gibt nur eine Ausnahme"
-    },
-    {
-      "title": "Pure Schadenfreude : Katar-TV verhöhnt deutsche WM-Verlierer!",
-      "teaser": "Das katarische TV verabschiedet Deutschland mit einer Verhöhnung.",
-      "url": "https://www.bild.de/sport/fussball/fifa-wm-2022/wm-2022-katar-tv-verhoehnt-deutsche-wm-verlierer-82131622.bild.html",
-      "image_title": "WM 2022: Nach dem WM-Aus des DFB: Katar-TV verhöhnt deutsche WM-Verlierer!"
-    },
-    {
-      "title": "Alice Schwarzer wird 80 : Ihr Leben, ihre Lieben, ihre Lügen",
-      "teaser": "Sie ist die Mutter Courage des Feminismus! Alice Schwarzer wird am Samstag 80.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/alice-schwarzer-wird-80-ihr-leben-ihre-lieben-ihre-luegen-82135982.bild.html",
-      "image_title": "Alice Schwarzer wird 80: Ihr Leben, ihre Lieben, ihre Lügen"
-    },
-    {
-      "title": "„Couple on Tour“-Inas tapferer Weg : Die ersten Schritte nach dem Schlaganfall",
-      "teaser": "Influencerin Ina übt nach ihrem Schlaganfall mit Ehefrau Vanessa fleißig laufen.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/couple-on-tour-inas-tapferer-weg-die-ersten-schritte-nach-dem-schlaganfall-82119564.bild.html",
-      "image_title": "„Couple on Tour“-Inas tapferer Weg: Die ersten Schritte nach dem Schlaganfall"
-    },
-    {
-      "title": "Antidiskriminierungsbeauftragte fordert : HIV-Infizierte besser vor Diskriminierung schützen",
-      "teaser": "HIV-Infizierte erleben vor allem im Arbeitsleben und bei Arztbesuchen Diskriminierung.",
-      "url": "https://www.bild.de/lgbt/2022/lgbt/antidiskriminierungsbeauftragte-fordert-hiv-infizierte-besser-vor-diskriminierun-82119106.bild.html",
-      "image_title": "Antidiskriminierungsbeauftragte fordert: HIV-Infizierte besser vor Diskriminierung schützen"
-    },
-    {
-      "title": "An alle verlassenen Männer! : DAS sollten Sie nach der Trennung nicht tun",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/frisch-getrennt-das-sollten-neu-singles-auf-keinen-fall-tun-82116922.bild.html",
-      "image_title": "Frisch getrennt: DAS sollten Neu-Singles auf keinen Fall tun"
-    },
-    {
-      "title": "Vorsicht, Liebesfalle! : 5 Partner, von denen Sie die Finger lassen sollten",
-      "teaser": "Durch die rosarote Brille lassen sich Alarmsignale schlecht erkennen.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/vorsicht-liebesfalle-5-partner-von-denen-sie-lieber-die-finger-lassen-81935210.bild.html",
-      "image_title": "Vorsicht, Liebesfalle! 5 Partner, von denen Sie lieber die Finger lassen"
-    },
-    {
-      "title": "Ein Kalender für die Vielfalt : Escorts zeigen ihre besten Fotos",
-      "teaser": "Ein Erotik-Portal hat zwölf Sexarbeiterinnen zu Pin-up-Girls gemacht. BILD hat ALLE Fotos.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/exklusive-fotos-wandkalender-zeigt-vielfalt-von-sexarbeit-82096856.bild.html",
-      "image_title": "Exklusive Fotos! Wandkalender zeigt Vielfalt von Sexarbeit"
-    },
-    {
-      "title": "Von Cargohosen und Humor : Was macht einen Traummann aus?",
-      "teaser": "Welche Eigenschaften machen aus einem Mann einen Traummann?",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/cargohosen-und-humor-das-macht-einen-traummann-wirklich-aus-82080246.bild.html",
-      "image_title": "Von Cargohosen und Humor: Was macht einen Traummann aus?"
-    },
-    {
-      "title": "Mia Julia zeigt wirklich alles : Meinem Mann sind diese Nacktfotos zu intim",
-      "teaser": "Auf diese Fotos warten Fans von Mia Julia das ganze Jahr! BILD zeigt sie jetzt schon.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/mia-julia-zeigt-wirklich-alles-ihrem-mann-sind-diese-nacktfotos-zu-intim-82010642.bild.html",
-      "image_title": "Mia Julia zeigt wirklich alles: Ihrem Mann sind diese Nacktfotos zu intim"
-    },
-    {
-      "title": "Reality-TV-Star Melody Haase : So lief ihr Kuschel-Dreh mit Micaela Schäfer",
-      "teaser": "Melody Haase spricht Klartext über ihr Leben zwischen Fernsehen und Nackedei-Portal.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/erotik/erotik/melody-haase-so-lief-ihr-sex-dreh-mit-micaela-schaefer-82074602.bild.html",
-      "image_title": "Melody Haase: So lief ihr Kuschel-Dreh mit Micaela Schäfer"
-    }
-  ]
+  "articles": []
 }
