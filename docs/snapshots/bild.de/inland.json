@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-05T01:36:37",
+  "timestamp": "2022-12-05T02:43:50",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,223 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.3e322615.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a0822fdb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.b63563ef.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cbf71dc3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0b200ed2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.ea71e33e.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "DIESES Bundesland hatte besonderes Glück : Gleich zwei Lotto-Millionäre bei Sonderziehung",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-gleich-zwei-lotto-millionaere-bei-nikolaus-sonderziehung-82150266.bild.html",
-      "image_url": "https://images.bild.de/638ccdedfd408a4437e40868/24709e9d817d82ab4a8608fae06ad7ff,4334bc4c?w=656",
-      "image_title": "Thüringen: Gleich zwei Lotto-Millionäre bei Nikolaus-Sonderziehung"
-    },
-    {
-      "title": "FDP-Mann liebt Ex-Pornosternchen : Mit BILD begann Anninas Karriere",
-      "url": "https://www.bild.de/news/inland/news-inland/annina-ucatis-und-hagen-reinhold-mit-bild-begann-anninas-karriere-82151148.bild.html",
-      "image_url": "https://images.bild.de/638ce7c7fda1894fcf3639b1/c89fab16adf53abac453fd7cbf5c31a6,54766de?w=320",
-      "image_title": "Annina Ucatis und Hagen Reinhold: Mit BILD begann Anninas Karriere"
-    },
-    {
-      "title": "Seine Leiche lag am Straßenrand : Rentner bleibt mit Auto im Schnee stecken – tot!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/kaiserpfalz-rentner-74-bleibt-mit-auto-im-schnee-stecken-tot-82149828.bild.html",
-      "image_url": "https://images.bild.de/638cc4974857ef6864c53e1e/c9ac4810426be885e6498eeca3e48504,d016ae84?w=320",
-      "image_title": "Kaiserpfalz: Rentner (74) bleibt mit Auto im Schnee stecken – tot!"
-    },
-    {
-      "title": "Blanke Zerstörungswut in Blankenburg : Zwei Mädchen (14) verwüsten Klo",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/sachsen-anhalt-zwei-maedchen-14-randalieren-in-oeffentlicher-toilette-in-blanken-82146548.bild.html",
-      "image_url": "https://images.bild.de/638c790308ba5f71743aa830/ad6b7f0d2cb3316e034a6a5388d27f46,841ebb5e?w=320",
-      "image_title": "Sachsen-Anhalt: Zwei Mädchen (14) verwüsten Klo in Blankenburg"
-    },
-    {
-      "title": "Acht Kinder in die Klinik : 21 Verletzte nach Gasaustritt auf Kartbahn",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/unfall-21-verletzte-nach-gasaustritt-auf-kartbahn-in-thueringen-82147880.bild.html",
-      "image_url": "https://images.bild.de/638c984608ba5f71743aa877/01c4ff97d569399befa23ad7386092c6,3ae2ae0e?w=320",
-      "image_title": "Unfall: 21 Verletzte nach Gasaustritt auf Kartbahn in Thüringen"
-    },
-    {
-      "title": "Spuren im Schnee verraten Täter : Teenager (14, 15) zerstechen Reifen an 19 Autos",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-teenager-14-15-zerstechen-reifen-an-19-autos-82147208.bild.html",
-      "image_title": "Sachsen: Teenager (14, 15) zerstechen Reifen an 19 Autos"
-    },
-    {
-      "title": "Shakis Mutter schreibt an Sven M. : Brief an einen Kindermörder",
-      "teaser": "Sven M. tötete Shaki (†6) auf bestialische Weise. Ihre Mutter schrieb ihm einen Brief.",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/die-mutter-der-kleinen-shaki-6-schreibt-an-sven-m-brief--an-einen-kindermoerder-82141272.bild.html",
-      "image_title": "Shakis Mutter schreibt an Sven M.: Brief an einen Kindermörder"
-    },
-    {
-      "title": "Maserati in Leipzig gestohlen : Luxuskarre in der City geklaut",
-      "teaser": "Die Leipziger Polizei fahndet nach einem blauen Maserati Ghibli. Der wurde aus einer Garage geklaut.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/diebstahl-luxuskarre-in-leipzig-aus-garage-geklaut-82146180.bild.html",
-      "image_title": "Diebstahl: Luxuskarre in Leipzig geklaut"
-    },
-    {
-      "title": "Horror-Entdeckung im Kanal : Schiff-Retter finden Leiche in versunkenem Auto",
-      "teaser": "Der Tote lag in seinem Auto – tief im Wasser des Main-Donau-Kanals.",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/berching-leiche-im-main-donau-kanal-entdeckt-82145062.bild.html",
-      "image_title": "Berching: Leiche im Main-Donau-Kanal entdeckt"
-    },
-    {
-      "title": "Früher Porno-, jetzt Internet-Clown : Sachsen-Paule steht wieder vor der Kamera",
-      "teaser": "Er stand seinen Mann, stürzte ab und stand wieder auf: Sachsen-Paule kehrt zurück!",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-sachsen-paule-steht-wieder-vor-der-kamera-82136804.bild.html",
-      "image_title": "Früher Porno-Kasper, jetzt Internet-Clown: Sachsen-Paule steht wieder vor der Kamera"
-    },
-    {
-      "title": "6 aus 49 : Die Lottozahlen am Samstag",
-      "teaser": "Haben Sie den 24 Mio € Jackpot geknackt? Lesen Sie bei BILD die Lottozahlen vom 3. 12. 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-am-samstag-die-lottozahlen-vom-3-dezember-82105806.bild.html",
-      "image_title": "Lotto am Samstag: Die Lottozahlen vom 3. Dezember"
-    },
-    {
-      "title": "Familie mit Messer attackiert : Polizei schießt auf Vater",
-      "teaser": "Die Familie wurde von dem getrennt lebenden Vater der beiden Kinder attackiert.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/familie-mit-messer-in-moosthenning-attackiert-polizei-schiesst-auf-vater-82143204.bild.html",
-      "image_title": "Familie mit Messer in Moosthenning attackiert: Polizei schießt auf Vater"
-    },
-    {
-      "title": "Er machte einen schweren Fehler : Explosion! Mann beim Auto-Putzen verletzt",
-      "teaser": "Er wollte nur sein Auto sauber machen …",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/er-machte-einen-schweren-fehler-explosion-mann-beim-auto-putzen-verletzt-82141486.bild.html",
-      "image_title": "Eckental (Bayern): Explosion! Mann beim Auto-Putzen verletzt"
-    },
-    {
-      "title": "Sie ist die Ehefrau von Matthias Reim : Christin Stark bekommt Schlager-Show im MDR",
-      "teaser": "Paukenschlag in der Schlagerwelt: Sängerin Christin Stark (33„Spinnst Du“) wird ab Februar die MDR-Show „Schlager des Monats“ im MDR Fernsehen moderieren.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/matthias-reim-ehefrau-christin-stark-bekommt-schlager-show-im-mdr-82140926.bild.html",
-      "image_title": "Matthias Reim: Ehefrau Christin Stark bekommt Schlager-Show im MDR"
-    },
-    {
-      "title": "„Clans von Berlin 4“ : Der Remmo-Clan: Berlins gefährlichste Blutsbande",
-      "teaser": "Sie raubten die Goldmünze aus dem Berliner Bode-Museum, sprengten eine Bank in die Luft.",
-      "url": "https://www.bild.de/news/2022/news/der-remmo-clan-berlins-gefaehrlichste-blutsbande-81860584.bild.html",
-      "image_title": "Der Remmo-Clan: Berlins gefährlichste Blutsbande"
-    },
-    {
-      "title": "Kennen Sie den Stückelmord-Rocker? : ER soll hinter den Synagogen-Anschlägen stecken!",
-      "teaser": "Hells Angel Ramin Yektaparast soll hinter den Anschlägen auf Synagogen in NRW stecken.",
-      "url": "https://www.bild.de/bild-plus/regional/ruhrgebiet/ruhrgebiet-aktuell/nrw-stueckel-rocker-soll-hinter-synagogen-anschlaegen-stecken-82122878.bild.html",
-      "image_title": "NRW: Stückel-Rocker soll hinter Synagogen-Anschlägen stecken"
-    },
-    {
-      "title": "Preis für spektakuläre Erfindung : Dieses T-Shirt macht den Rücken gesund",
-      "teaser": "Das smarte T-Shirt kann Rückenbeschwerden erkennen und vorbeugen.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/spektakulaere-erfindung-dieses-t-shirt-macht-den-ruecken-gesund-82137374.bild.html",
-      "image_title": "Ilmenau: Spektakuläre Erfindung: Dieses T-Shirt macht den Rücken gesund"
-    },
-    {
-      "title": "Schwerer Unfall : VW-Fahrer (44) kracht gegen Baum - tot",
-      "teaser": "Bei einem schweren Unfall starb in der Nacht zu Samstag in Ludwigslust ein 44-jähriger Mann.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/unfall-vw-fahrer-44-kracht-gegen-baum-tot-82140242.bild.html",
-      "image_title": "Unfall: VW-Fahrer (44) kracht gegen Baum - tot"
-    },
-    {
-      "title": "Schlimmer Unfall bei Karlsruhe : Fahrer (32) verbrennt nach Crash in seinem Auto",
-      "teaser": "Schrecklicher Unfall in der Nacht zum Samstag auf der B3 bei Bruchsal im Kraichgau.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-regional-politik-und-wirtschaft/schlimmer-unfall-bei-karlsruhe-fahrer-verbrennt-in-seinem-auto-82139096.bild.html",
-      "image_title": "Schlimmer Unfall bei Karlsruhe: Fahrer (32) verbrennt nach Crash in seinem Auto"
-    },
-    {
-      "title": "Comeback der Kult-Show im Circus Krone : Fabi fliegt durch die Manege",
-      "teaser": "München – Beim Training für „Stars in der Manege“ kriegt auch der routinierte Olympia-Gold-Turner Fabian Hambüchen noch Herzrasen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/comeback-der-kult-show-im-circus-krone-fabi-fliegt-durch-die-manege-82139272.bild.html",
-      "image_title": "Comeback der Kult-Show im Circus Krone: Fabi fliegt durch die Manege"
-    },
-    {
-      "title": "Esel Lukas (18) soll weg : Lebende Krippe auf der Kippe!",
-      "teaser": "Immer mehr Tierschützer wollen Schafe und Esel auf dem Weihnachtsmarkt verbieten.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/esel-lukas-18-soll-weg-lebende-krippe-auf-der-kippe-82133818.bild.html",
-      "image_title": "Esel Lukas (18) soll weg: Lebende Krippe auf der Kippe!"
-    },
-    {
-      "title": "Frau (72) in eigener Wohnung missbraucht : Libyer (37) soll Rollator-Rentnerin missbraucht haben",
-      "teaser": "Ein Libyer (37) kletterte auf den Erdgeschoss-Balkon der Frau, klopfte kurz vor Mitternacht an die Tür. Als die Frau öffnete, drang er in die Wohnung ein.",
-      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/chemnitz-vergewaltiger-klopfte-an-balkontuer-frau-missbraucht-82131410.bild.html",
-      "image_title": "Sachsen: Libyer klopfte an Balkontür – Frau missbraucht"
-    },
-    {
-      "title": "Miss Germany-Wahl : Chantal aus Reutlingen unter den Top 20",
-      "teaser": "Unsere Schwaben-Mädels sind einfach klasse. Vier Mädels sind weiter!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/miss-germany-wahl-chantal-aus-reutlingen-unter-den-top-20-82134300.bild.html",
-      "image_title": "Miss Germany-Wahl: Chantal aus Reutlingen unter den Top 20"
-    },
-    {
-      "title": "Droht Schauspieler Raúl Semmler bald Knast? : Vom Serien-Star zum Serien-Kleber",
-      "teaser": "Raúl Semmler (38) liebt den großen Auftritt. Egal, was es kostet oder wie stark es klebt!",
-      "url": "https://www.bild.de/news/inland/news-inland/tv-karriere-von-ral-semmler-ist-vorbei-vom-serien-star-zum-serien-kleber-82136900.bild.html",
-      "image_title": "TV-Karriere von Raúl Semmler ist vorbei: Vom Serien-Star zum Serien-Kleber"
-    },
-    {
-      "title": "EUROJACKPOT AM FREITAG : Haben Sie den 57 Millionen Euro Jackpot geknackt?",
-      "teaser": "Hier gibt es die aktuellen Lottozahlen vom Eurojackpot 2. Dezember 2022",
-      "url": "https://www.bild.de/news/inland/news-inland/eurojackpot-am-freitag-die-lottozahlen-vom-2-dezember-82106216.bild.html",
-      "image_title": "Eurojackpot am Freitag: Die Lottozahlen vom 2. Dezember"
-    },
-    {
-      "title": "„Die Familie ist das oberste Gebot“ : Der Remmo-Clan: Berlins gefährlichste Blutsbande",
-      "url": "https://www.bild.de/bild-plus/video/clip/news/der-remmo-clan-berlins-gefaehrlichste-blutsbande-81858284.bild.html",
-      "image_title": "Der Remmo-Clan: Berlins gefährlichste Blutsbande"
-    },
-    {
-      "title": "350 Millionen Euro teuer : Mega-Jacht kreuzt vor Rügen",
-      "url": "https://www.bild.de/video/clip/news-inland/350-millionen-euro-teuer-mega-jacht-kreuzt-vor-ruegen-82125390.bild.html",
-      "image_title": "350 Millionen Euro teuer: Mega-Jacht kreuzt vor Rügen"
-    },
-    {
-      "title": "Der Remmo-Clan : „Diese Familie hat keinen Respekt vor unserer Gesellschaft“",
-      "url": "https://www.bild.de/video/clip/news/der-remmo-clan-diese-familie-hat-keinen-respekt-vor-unserer-gesellschaft-81961988.bild.html",
-      "image_title": "Der Remmo-Clan: „Diese Familie hat keinen Respekt vor unserer Gesellschaft“"
-    }
-  ]
+  "articles": []
 }
