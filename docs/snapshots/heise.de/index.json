@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-05T05:17:27",
+  "timestamp": "2022-12-05T06:23:55",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,11 +32,6 @@
   ],
   "articles": [
     {
-      "title": "Missing LinkDie Sicherheit und Zukunft der Energieversorgung",
-      "teaser": "Als \"Letztmaßnahme\" könnte es nötig sein, dass in einem geordneten Verfahren Lasten im Stromnetz abgeschaltet werden, heißt es bei einem großen Betreiber.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Die-Sicherheit-und-Zukunft-der-Energieversorgung-7365567.html"
-    },
-    {
       "title": "InterviewMicrosoft wollte nichts von Linux und Open-Source-Software wissen",
       "teaser": "Bill Hilf baute das Linux- und Open-Source-Labor von Microsoft auf. Mit c’t sprach er über die Skepsis und Hindernisse bei Microsoft gegenüber Open Source.",
       "url": "https://www.heise.de/hintergrund/Interview-Microsoft-wollte-nichts-von-Linux-und-Open-Source-Software-wissen-7361603.html",
@@ -46,6 +41,11 @@
       "title": "Energie sparen in der KriseHeizkosten sparen als Mieter: Was Sie tun können, wieviel es wirklich bringt",
       "teaser": "Hauseigner können das Haus umrüsten. Mieter haben weniger Handlungsspielraum. Sie können aber Energie sparen und mit Vermietern gemeinsam an Projekten arbeiten.",
       "url": "https://www.heise.de/ratgeber/Heizkosten-sparen-als-Mieter-Was-Sie-tun-koennen-wieviel-es-wirklich-bringt-7361845.html"
+    },
+    {
+      "title": "Missing LinkDie Sicherheit und Zukunft der Energieversorgung",
+      "teaser": "Als \"Letztmaßnahme\" könnte es nötig sein, dass in einem geordneten Verfahren Lasten im Stromnetz abgeschaltet werden, heißt es bei einem großen Betreiber.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Die-Sicherheit-und-Zukunft-der-Energieversorgung-7365567.html"
     },
     {
       "title": "AstronomieWenn am 8. Dezember der Mond den Mars verdeckt",
@@ -108,9 +108,10 @@
       "url": "https://www.heise.de/hintergrund/Home-Hacking-Mit-Gadgets-Anwesenheit-im-Homeoffice-vorgaukeln-7364892.html"
     },
     {
-      "title": "\"The Last Of Us\"Neuer Trailer und Start der HBO-Serie veröffentlicht",
-      "teaser": "Der offizielle Trailer zur HBO-Serie \"The Last Of Us\" wurde veröffentlicht. Die Serie zum gleichnamigen Videospiel startet in Deutschland parallel zum US-Start.",
-      "url": "https://www.heise.de/news/The-Last-Of-Us-Neuer-Trailer-und-Start-der-HBO-Serie-veroeffentlicht-7365708.html"
+      "title": "AlertWebbrowserNotfall-Update für Google Chrome",
+      "teaser": "Google hat ein ungeplantes Update für Chrome herausgegeben. Damit schließt der Hersteller eine Sicherheitslücke im Webbrowser, die derzeit angegriffen wird.",
+      "url": "https://www.heise.de/news/Notfall-Update-Zero-Day-Sicherheitsluecke-in-Google-Chrome-unter-Beschuss-7365415.html",
+      "image_title": "Google Chrome Update"
     },
     {
       "title": "BastelanleitungStrom und Geld sparen mit selbstgebauten LED-Strahlern",
@@ -119,35 +120,25 @@
       "image_title": ","
     },
     {
-      "title": "Bits & BösesDer Täter – Folge 3 des neuen Tech Crime Podcasts",
-      "teaser": "Wer sind eigentlich die Täter hinter Phishing-Angriffen auf Social-Media-Accounts? Wir haben mit ihnen gechattet.",
-      "url": "https://www.heise.de/news/Bits-Boeses-Der-Taeter-Folge-3-des-neuen-Tech-Crime-Podcasts-7358138.html"
+      "title": "EnergiekostenPreisbremse für Gas und Strom soll auch Abkassierbremse bekommen",
+      "teaser": "Bei den hohen Energiekosten sind für Bürger und Betriebe Abfederungen in Sicht – aber nur bei einem Teil des Verbrauchs. Abzocke soll verhindert werden.",
+      "url": "https://www.heise.de/news/Preisbremse-fuer-Gas-und-Strom-soll-auch-Abkassierbremse-bekommen-7365897.html",
+      "image_title": "Banknoten neben den Feldern eines Gasherds"
     },
     {
-      "title": "c't 3003Wir haben eine Geige 3D-gedruckt",
-      "teaser": "Wie klingt eine Geige aus dem 3D-Drucker? Wir haben's ausprobiert und das Instrument einem professionellen Geiger zum Testen gegeben.",
-      "url": "https://www.heise.de/news/c-t-3003-Wir-haben-eine-Geige-3D-gedruckt-7365352.html"
-    },
-    {
-      "title": "c’t uplink 46.0Mastodon statt Twitter",
-      "teaser": "Seit Elon Musk Twitter gekauft hat, wechseln immer mehr User zu Mastodon. Wir klären in c’t uplink, ob Mastodon als Alternative taugt und was dort anders ist.",
-      "url": "https://www.heise.de/news/Mastodon-statt-Twitter-c-t-uplink-46-0-7268595.html"
-    },
-    {
-      "title": "Neues beim Streaming im Dezember 2022Die Highlights bei Netflix, Disney+ und Amazon Prime Video",
-      "teaser": "Bei Netflix läuft im Dezember die Prequel-Serie \"The Witcher: Blood Origin\". Amazon zeigt das Drama \"Magnolia\" und Disney+ hat \"Barbarian\" im Angebot.",
-      "url": "https://www.heise.de/news/Die-Highlights-bei-Netflix-Disney-und-Amazon-Prime-Video-im-Dezember-2022-7359996.html",
-      "image_title": "Film- und Serien-Vorschau The Witcher: Blood Origin"
-    },
-    {
-      "title": "Banken und SparkassenGirocard bekommt weitere Funktionen",
-      "teaser": "Das Maestro-Logo verschwindet ab Juli 2023 von der Girocard. Doch tot ist die beliebteste Bankkarte Deutschlands nicht, neue Einsatzmöglichkeiten sind geplant.",
-      "url": "https://www.heise.de/news/Banken-und-Sparkassen-Girocard-bekommt-weitere-Funktionen-7365530.html",
-      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
+      "title": "StrompreiseSmart Meter: Was Sie wissen sollten und wie Sie eines bekommen",
+      "teaser": "Angesichts der hohen Strompreise interessieren sich immer mehr Menschen für ein Smart Meter. Doch was können die Geräte eigentlich? Ein Überblick.",
+      "url": "https://www.heise.de/hintergrund/Smart-Meter-Was-Sie-wissen-sollten-und-wie-Sie-eines-bekommen-7362933.html",
+      "image_title": ", Stadtwerke Jena / Scheere Photos, Jena"
     },
     {
       "title": "Energie sparen in der KriseHeizkosten sparen als Mieter: Was Sie tun können, wieviel es wirklich bringt",
       "url": "https://www.heise.de/ratgeber/Heizkosten-sparen-als-Mieter-Was-Sie-tun-koennen-wieviel-es-wirklich-bringt-7361845.html"
+    },
+    {
+      "title": "StrompreiseSmart Meter: Was Sie wissen sollten und wie Sie eines bekommen",
+      "url": "https://www.heise.de/hintergrund/Smart-Meter-Was-Sie-wissen-sollten-und-wie-Sie-eines-bekommen-7362933.html",
+      "image_title": ", Stadtwerke Jena / Scheere Photos, Jena"
     },
     {
       "title": "Im TestZwischenzähler zum Messen des Energieverbrauchs im Sicherungskasten",
@@ -155,9 +146,32 @@
       "image_title": ", Andreas Martini"
     },
     {
-      "title": "Der optimale PC: Bauvorschlag für einen 13-Watt-PC",
-      "url": "https://www.heise.de/ratgeber/Bauvorschlag-fuer-einen-13-Watt-PC-7361453.html",
-      "image_title": ","
+      "title": "Meng Wanzhou: Verfahren gegen Finanzchefin von Huawei endgültig eingestellt",
+      "teaser": "Ein Jahr, nachdem Meng Wanzhou die Vorwürfe aus den USA teilweise eingestanden hat und im Gegenzug ausreisen durfte, ist die Angelegenheit nun beendet.",
+      "url": "https://www.heise.de/news/US-Justiz-Verfahren-gegen-Finanzchefin-von-Huawei-endgueltig-eingestellt-7365909.html"
+    },
+    {
+      "title": "Bayerns neuer Windboom – Aiwanger erwartet Verdoppelung der Windräder bis 2027",
+      "teaser": "Aktuell gibt es 1136 Windräder in Bayern. Nicht viele, bedenkt man die Größe des Freistaats. Doch nun erkennt nicht nur der Wirtschaftsminister eine Trendwende.",
+      "url": "https://www.heise.de/news/Bayerns-neuer-Windboom-Aiwanger-erwartet-Verdoppelung-der-Windraeder-bis-2027-7365903.html",
+      "image_title": "Aerial,Close,Up,Photo,Of,Wind,Turbine,Providing,Sustainable,Energy"
+    },
+    {
+      "title": "Wie IT-Lösungen Unternehmen helfen, Lieferketten robuster zu gestalten",
+      "teaser": "Verzögerte Lieferungen und Unterbrechungen in der Logistik stellen Unternehmen vor massive Probleme. Mithilfe moderner IT-Anwendungen aus dem Internet of Things sowie künstlicher Intelligenz können sie ihre Lieferketten effizienter und robuster gestalten – und Kosten reduzieren.",
+      "url": "https://www.heise.de/solutions/intel/wie-it-loesungen-unternehmen-helfen-lieferketten-robuster-zu-gestalten/?source=nat_teas"
+    },
+    {
+      "title": "Montag: Girocard bald mit mehr Funktionen, Geldautomaten häufiger attackiert",
+      "teaser": "Funktionsausbau für Bankkarten + Anschläge auf Geldautomaten + Kartenbetrug mit Mobilpay + 30 Jahre SMS + Microsoft & Open Source + Sicherheit des Stromnetzes",
+      "url": "https://www.heise.de/news/Montag-Girocard-bald-mit-mehr-Funktionen-Geldautomaten-haeufiger-attackiert-7365893.html",
+      "image_title": "Eine Frau bezahlt im Internet mit ihrer Kreditkarte"
+    },
+    {
+      "title": "Preisbremse für Gas und Strom soll auch Abkassierbremse bekommen",
+      "teaser": "Bei den hohen Energiekosten sind für Bürger und Betriebe Abfederungen in Sicht – aber nur bei einem Teil des Verbrauchs. Abzocke soll verhindert werden.",
+      "url": "https://www.heise.de/news/Preisbremse-fuer-Gas-und-Strom-soll-auch-Abkassierbremse-bekommen-7365897.html",
+      "image_title": "Banknoten neben den Feldern eines Gasherds"
     },
     {
       "title": "Mobile Monitore: Zweit- und Dritt-Display für unterwegs ab 100 Euro",
@@ -170,11 +184,6 @@
       "url": "https://www.heise.de/news/Chinesische-Raumstation-Drei-Astronauten-nach-sechs-Monaten-zurueck-auf-der-Erde-7365792.html"
     },
     {
-      "title": "Wie künstliche Intelligenz die Bildung verbessern kann",
-      "teaser": "Mehr Effizienz bei Routineaufgaben in der Schule, bessere Unterstützung für die Schüler: Der Einsatz von künstlicher Intelligenz (KI) im Bildungswesen bringt verschiedene Vorteile mit sich. Ein paar Beispiele, wie KI-Unterricht im Klassenzimmer konkret aussehen kann.",
-      "url": "https://www.heise.de/solutions/intel/ki-im-klassenzimmer-wie-kuenstliche-intelligenz-die-bildung-verbessern-kann/?source=nat_teas"
-    },
-    {
       "title": "New York Post: Musk bewirbt Veröffentlichung interner Twitter-Dokumente",
       "teaser": "Musk teilte Tweets über interne Twitter-Dokumente. Dabei geht es um Hunter Biden und seine Auslandsgeschäfte. \"Das wird großartig\", schrieb Musk.",
       "url": "https://www.heise.de/news/Musk-bewirbt-Veroeffentlichung-interner-Twitter-Dokumente-7365802.html",
@@ -184,6 +193,24 @@
       "title": "Motorola Edge 30 Fusion im Test: Flach, schnell, gut",
       "teaser": "Das Edge 30 Fusion ist Motorolas fünftes Mitglied der Edge-30-Serie und wer zu spät kommt, den bestraft bekanntlich das Leben. Beim Fusion ist das anders.",
       "url": "https://www.techstage.de/test/motorola-edge-30-fusion-im-test-flach-schnell-gut/t3d66km?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Online-Marketing: Die optimale Landingpage gestalten",
+      "url": "https://www.heise.de/ratgeber/Online-Marketing-Die-optimale-Landingpage-gestalten-7343343.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Tipps für Siri, Alexa und Google Assistant: Sprachassistenten im Griff",
+      "url": "https://www.heise.de/ratgeber/Tipps-fuer-Siri-Alexa-und-Google-Assistant-Sprachassistenten-im-Griff-7335191.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ","
+    },
+    {
+      "title": "ESP32-Projekt: Laufschrift auf einer LED-Matrix darstellen",
+      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Pixelkunst-auf-einem-LED-Display-darstellen-7340979.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "heise+ Herbst-Deal",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "UpdateProtest gegen Tesla-Fabrikausbau – Forderung nach Bürgerbefragung",
@@ -206,24 +233,6 @@
       "teaser": "Preisbremsen für Energie sollen bald Haushalte entlasten – aber nur für einen Teil des Verbrauchs. Die Regierung will Abzocke durch die Anbieter unterbinden.",
       "url": "https://www.heise.de/news/Energiekrise-Regierung-will-ungerechtfertigte-Energiepreiserhoehungen-verhindern-7365684.html",
       "image_title": "Electricity,Costs:,Person,Checking,Electricity,Bills,With,A,Light,Bulb"
-    },
-    {
-      "title": "Online-Marketing: Die optimale Landingpage gestalten",
-      "url": "https://www.heise.de/ratgeber/Online-Marketing-Die-optimale-Landingpage-gestalten-7343343.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Tipps für Siri, Alexa und Google Assistant: Sprachassistenten im Griff",
-      "url": "https://www.heise.de/ratgeber/Tipps-fuer-Siri-Alexa-und-Google-Assistant-Sprachassistenten-im-Griff-7335191.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ","
-    },
-    {
-      "title": "ESP32-Projekt: Laufschrift auf einer LED-Matrix darstellen",
-      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Pixelkunst-auf-einem-LED-Display-darstellen-7340979.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "heise+ Herbst-Deal",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Wenn am 8. Dezember der Mond den Mars verdeckt",
@@ -275,6 +284,11 @@
       "image_title": "Rose,Blossom,In,Autumn,After,A,Night,Frost"
     },
     {
+      "title": "Wie AMD mehr Leistung aus CPUs kitzelt",
+      "teaser": "Bei Hochleistungsprozessoren ist mit dem klassischen Chip-Design das Ende der Fahnenstange erreicht. Eine weitere Performance-Steigerung lässt sich nur nach oben – in die dritte Dimension erreichen. AMD ist hier Vorreiter und hat bereits erste Prozessoren mit 3D-Integration auf den Markt gebracht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/wie-amd-mehr-leistung-aus-cpus-kitzelt-4464/?source=hbsad-ersatz"
+    },
+    {
       "title": "Was man über Satellitenschüsseln, LNBs & Receiver wissen muss",
       "teaser": "Knapp die Hälfte aller Haushalte nutzt zum Empfang von Fernsehsignalen eine Satellitenschüssel. Was für einen optimalen Empfang nötig ist, klärt dieser Beitrag.",
       "url": "https://www.techstage.de/ratgeber/sat-tv-alles-was-sie-ueber-satellitenschuesseln-lnbs-receiver-sat-ip-und-co-wissen/fevjwb6?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
@@ -293,11 +307,6 @@
       "title": "Corona-Warn-App: Kosten übersteigen ursprüngliche Kalkulation für 2022",
       "teaser": "Die Kosten für die Corona-Warn-App wurden für 2022 auf 50 Millionen Euro prognostiziert. Nun stellt sich heraus, dass die Summe nicht ausreicht.",
       "url": "https://www.heise.de/news/Corona-Warn-App-Kosten-uebersteigen-urspruengliche-Kalkuation-fuer-2022-7365549.html"
-    },
-    {
-      "title": "Wie AMD mehr Leistung aus CPUs kitzelt",
-      "teaser": "Bei Hochleistungsprozessoren ist mit dem klassischen Chip-Design das Ende der Fahnenstange erreicht. Eine weitere Performance-Steigerung lässt sich nur nach oben – in die dritte Dimension erreichen. AMD ist hier Vorreiter und hat bereits erste Prozessoren mit 3D-Integration auf den Markt gebracht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/wie-amd-mehr-leistung-aus-cpus-kitzelt-4464/?source=hbsad-ersatz"
     },
     {
       "title": "Bericht: Twitter-Moderation verstärkt automatisiert, Verstecken statt Löschen",
@@ -330,28 +339,6 @@
       "title": "SPD-Dialog: Mehr öffentliche Wertschöpfung im Internet wagen",
       "teaser": "Ein Rechtswissenschaftler plädierte auf einem SPD-Forum dafür, den Primat des Ökonomischen in digitalen Räumen zu brechen. SPD-Chefin Esken ist ganz dafür.",
       "url": "https://www.heise.de/news/SPD-Dialog-Mehr-oeffentliche-Wertschoepfung-im-Internet-wagen-7365434.html"
-    },
-    {
-      "title": "Smarthome: IKEA-Pfefferkuchenhaus mit NanoAxe-Board basteln",
-      "teaser": "Mithilfe eines NanoAxe-Boards steuern Sie die Beleuchtung, zeigen Temperatur und Feuchte an und lassen den Weihnachtsmann im Pfefferkuchenhaus erscheinen.",
-      "url": "https://www.heise.de/ratgeber/Smarthome-IKEA-Pfefferkuchenhaus-mit-NanoAxe-Board-basteln-7361412.html",
-      "image_title": ","
-    },
-    {
-      "title": "Eufys Kameras funken ungefragt in die Cloud und sind per Web zugänglich",
-      "teaser": "Die Anker-Tochter Eufy wirbt für Überwachungskameras und smarte Türklingeln mit lokaler Datenspeicherung. Das stimmt auf mehreren Ebenen nicht.",
-      "url": "https://www.heise.de/news/Eufys-Kameras-funken-ungefragt-in-die-Cloud-und-sind-per-Web-zugaenglich-7358310.html"
-    },
-    {
-      "title": "AlertNotfall-Update: Zero-Day-Sicherheitslücke in Google Chrome unter Beschuss",
-      "teaser": "Google hat ein ungeplantes Update für Chrome herausgegeben. Damit schließt der Hersteller eine Sicherheitslücke im Webbrowser, die derzeit angegriffen wird.",
-      "url": "https://www.heise.de/news/Notfall-Update-Zero-Day-Sicherheitsluecke-in-Google-Chrome-unter-Beschuss-7365415.html",
-      "image_title": "Google Chrome Update"
-    },
-    {
-      "title": "Schönheit liegt im Auge des Betrachters: Die Bilder der Woche (KW 48)",
-      "teaser": "Unsere Bilder des Tages sind stets sehr unterschiedlich und so verschieden wie die Bilder selbst sind auch die Sichtweisen darauf. Eine Frage der Ästhetik.",
-      "url": "https://www.heise.de/news/Schoenheit-liegt-im-Auge-des-Betrachters-Die-Bilder-der-Woche-KW-48-7364608.html"
     },
     {
       "title": "Fritzbox: AVM startet die Verteilung von FritzOS 7.50",
