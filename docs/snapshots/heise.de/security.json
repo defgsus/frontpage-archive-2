@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-06T15:19:30",
+  "timestamp": "2022-12-06T16:26:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "American Megatrends BMC",
+      "url": "https://www.heise.de/news/Server-Wartung-Gefaehrliche-BMC-Luecken-koennte-Supply-Chain-Attacken-ausloesen-7367963.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Schadcode-ueber-Bluetooth-auf-Android-Geraete-schieben-7367211.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-koennte-durch-Sophos-Firewalls-schluepfen-7366076.html"
     },
     {
-      "title": "Veritas NetBackup",
-      "url": "https://www.heise.de/news/Veritas-NetBackup-Update-schliesst-teils-kritische-Scherheitsluecken-7365984.html"
+      "title": "Server-Wartung: Gefährliche BMC-Lücken könnte Supply-Chain-Attacken auslösen",
+      "teaser": "Sicherheitsforscher sind unter anderem auf eine kritische Sicherheitslücke in Baseboard Management Controllern von American Megatrend gestoßen.",
+      "url": "https://www.heise.de/news/Server-Wartung-Gefaehrliche-BMC-Luecken-koennte-Supply-Chain-Attacken-ausloesen-7367963.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
+    },
+    {
+      "title": "Projektmanagement: OpenProject 12.4 spendiert der freien Version 2FA",
+      "teaser": "Das Open-Source-Tool OpenProject bietet künftig mit der Zweifaktor-Authentifizierung auch der nicht-zahlenden Kundschaft ein zentrales Sicherheits-Feature.",
+      "url": "https://www.heise.de/news/Projektmanagement-OpenProject-12-4-spendiert-der-freien-Version-2FA-7367876.html"
     },
     {
       "title": "\"Bits & Böses\": Die Suche nach den Tätern, Folge 4 des neuen Tech-Crime-Podcasts",
@@ -139,18 +150,6 @@
       "teaser": "Sicherheitsforscher warnen vor Attacken auf Firmen. Der Grund ist eine kritische Lücke in Fortinet-Produkten.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Firewalls-und-Proxies-von-Fortinet-7364286.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "l+f: Sicherheitsforscher legen aus Versehen gesamtes Botnet KmsdBot lahm",
-      "teaser": "Wie ein Typo kriminellen Machenschaften das Handwerk legt.",
-      "url": "https://www.heise.de/news/l-f-Sicherheitsforscher-legen-aus-Versehen-gesamtes-Botnet-KmsdBot-lahm-7363007.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
-    },
-    {
-      "title": "Passwort-Manager: Einbruch bei LastPass, Bitwarden streitet ab",
-      "teaser": "Unbefugte versuchten, auf Cloud-Systeme von LastPass zuzugreifen. Derweil behauptet ein Forennutzer, Zugangsdaten bei Bitwarden abgegriffen zu haben.",
-      "url": "https://www.heise.de/news/Passwort-Manager-LastPass-meldet-Sicherheitsvorfall-Bitwarden-streitet-ab-7362705.html",
-      "image_title": "Security Alert"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
