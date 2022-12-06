@@ -1,10 +1,16 @@
 {
-  "timestamp": "2022-12-06T16:26:40",
+  "timestamp": "2022-12-06T17:17:25",
   "url": "https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -31,7 +37,7 @@
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.a01f354b.js",
+      "src": "https://a.bildstatic.de/runtime.e714b79a.js",
       "id": null,
       "text": null
     },
@@ -68,9 +74,15 @@
   ],
   "articles": [
     {
-      "title": "Aktuelle Wartezeiten für 77 Modelle : Nur fünf E-Autos kommen in unter fünf Monaten",
+      "title": "Nach Habeck-Forderung : Nicht genug Strom – DAS nützt Ihnen jetzt Ihr E-Auto",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/elektro-auto-bidirektionales-laden-entlastet-stromnetz-82171550.bild.html",
+      "image_url": "https://images.bild.de/638f5f7b6ca3217f5a88911a/5a285debe95dcb4a4ce7e0e880bb26a5,5f31431b?w=656",
+      "image_title": "Elektro-Auto: Bidirektionales Laden entlastet Stromnetz"
+    },
+    {
+      "title": "Wartezeiten für 77 Modelle : Nur fünf E-Autos kommen in unter fünf Monaten",
       "url": "https://www.bild.de/bild-plus/auto/service/service/elektro-auto-kaufen-aktuelle-lieferzeiten-fuer-77-modelle-82165736.bild.html",
-      "image_url": "https://images.bild.de/638f0bd443b2ef0f36bad0fd/860c6969352c60af32ee2e071186d804,55afce75?w=656",
+      "image_url": "https://images.bild.de/638f0bd443b2ef0f36bad0fd/01c9056eb92286eaa176fe09bcbca75f,edcea196?w=320",
       "image_title": "Elektro-Auto kaufen: Aktuelle Lieferzeiten für 77 Modelle"
     },
     {
@@ -80,10 +92,8 @@
       "image_title": "Car-Hifi: 60 000 Euro für die perfekte Auto-Soundanlage"
     },
     {
-      "title": "Batmobil für 1,4 Millionen Euro : Der wohl abgefahrenste Gebrauchtwagen der Welt",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/batmobil-fuer-1-4-millionen-euro-der-wohl-abgefahrenste-gebrauchtwagen-der-welt-82157578.bild.html",
-      "image_url": "https://images.bild.de/638dbb7ceebf841ea7fab291/36f2e0a4b12e390f44d998a19490d34f,253e111a?w=320",
-      "image_title": "Batmobil für 1,4 Millionen Euro: Der wohl abgefahrenste Gebrauchtwagen der Welt"
+      "title": "Batmobil für 1,4 Millionen Euro Der wohl abgefahrenste Gebrauchtwagen der Welt",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/batmobil-fuer-1-4-millionen-euro-der-wohl-abgefahrenste-gebrauchtwagen-der-welt-82157578.bild.html"
     },
     {
       "title": "Vom Opel-Azubi zum Auto-Millionär Benjamin (34) hat Autos für 20 Millionen Euro in der Garage",
@@ -92,10 +102,6 @@
     {
       "title": "Ford Mustang im Auto-Podcast Geile Optik, viel Leistung, aber Billig-Innenraum",
       "url": "https://www.bild.de/auto/auto-news/auto-news/ford-mustang-im-auto-podcast-geile-optik-viel-leistung-aber-billiger-innenraum-82105392.bild.html"
-    },
-    {
-      "title": "Zwischenruf Die E-Auto-Revolution hat ein Händler-Problem!",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/meinung-die-e-auto-revolution-hat-ein-haendler-problem-82124058.bild.html"
     },
     {
       "title": "Den müssen Sie sehen : Tesla zeigt neuen Mega-Lkw",
@@ -123,7 +129,13 @@
       "image_title": "Trailer „Gebt Gummi, Girls!“: Das sind die schnellsten Rennfahrerinnen der Welt"
     },
     {
+      "title": "Zwischenruf : Die E-Auto-Revolution hat ein Händler-Problem!",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/meinung-die-e-auto-revolution-hat-ein-haendler-problem-82124058.bild.html",
+      "image_title": "Meinung: Die E-Auto-Revolution hat ein Händler-Problem!"
+    },
+    {
       "title": "Start mit drei Jahren Verzögerung : Dieser Getränke-Riese fährt Teslas ersten E-Truck",
+      "teaser": "Schon 2019 sollte der E-Lkw kommen, erst jetzt hat Tesla den ersten ausgeliefert.",
       "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/drei-jahren-zu-spaet-dieser-getraenke-riese-faehrt-teslas-ersten-truck-82128896.bild.html",
       "image_title": "Drei Jahren zu spät: Dieser Getränke-Riese fährt Teslas ersten Truck"
     },
@@ -144,12 +156,6 @@
       "teaser": "Mit diesem Trick bekommen Sie vielleicht noch die volle Förderprämie 2022.",
       "url": "https://www.bild.de/auto/auto-news/auto-news/2023-sinkt-die-e-auto-praemie-so-kriegen-sie-jetzt-noch-die-volle-foerderung-82097178.bild.html",
       "image_title": "2023 sinkt die E-Auto-Prämie: So kriegen Sie jetzt noch die volle Förderung"
-    },
-    {
-      "title": "Schnelles Tanken, hohe Reichweite : Bringen Taxis den Wasserstoff-Durchbruch?",
-      "teaser": "Die Autobauer zögern, das Tankstellen-Netz ist dünn. Gibt eine Taxi-Flotte den Startschuss?",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/umweltfreundlich-schnelles-tanken-hohe-reichweite-bringen-taxis-den-wasserstoff-82092918.bild.html",
-      "image_title": "Schnelles Tanken, hohe Reichweite: Bringen Taxis den Wasserstoff-Durchbruch?"
     },
     {
       "title": "Bestseller, aber nicht die Nummer eins : Gegen diesen Newcomer verliert das Tesla Model Y",
@@ -186,6 +192,12 @@
       "image_title": "Wegen Abgasmessung beim E-Auto! Skurriler Rückruf bei Opel"
     },
     {
+      "title": "Schnelles Tanken, hohe Reichweite : Bringen Taxis den Wasserstoff-Durchbruch?",
+      "teaser": "Die Autobauer zögern, das Tankstellen-Netz ist dünn. Gibt eine Taxi-Flotte den Startschuss?",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/umweltfreundlich-schnelles-tanken-hohe-reichweite-bringen-taxis-den-wasserstoff-82092918.bild.html",
+      "image_title": "Schnelles Tanken, hohe Reichweite: Bringen Taxis den Wasserstoff-Durchbruch?"
+    },
+    {
       "title": "Full-Self-Driving freigeschaltet : Kommt jetzt die große Tesla-Unfall-Welle?",
       "teaser": "Tesla gibt die Autopilot-Funktion für alle frei. Aber: Der Service ist eine Beta-Version.",
       "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/tesla-full-self-driving-fuer-alle-in-den-usa-kommt-jetzt-die-grosse-unfall-welle-82083096.bild.html",
@@ -208,12 +220,6 @@
       "teaser": "US-Umfrage zur Zufriedenheit von Autobesitzern. Letzter Platz für...",
       "url": "https://www.bild.de/bild-plus/auto/service/service/automarken-zufriedenheit-deutscher-hersteller-letzter-bei-us-umfrage-82051916.bild.html",
       "image_title": "Automarken-Zufriedenheit: Deutscher Hersteller Letzter bei US-Umfrage"
-    },
-    {
-      "title": "Abarth 500e : Teurer und langsamer, doch laut wie immer",
-      "teaser": "Abarth steht für sportliche Fiats. Die Italiener präsentieren jetzt die erste Elektro-Version.",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/abarth-500e-teurer-und-langsamer-doch-laut-wie-immer-82047864.bild.html",
-      "image_title": "Abarth 500e: Teurer und langsamer, doch laut wie immer"
     },
     {
       "title": "Bei unseren Nachbarn : Fahrverbote für E-Autos geplant!",

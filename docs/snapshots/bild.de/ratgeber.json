@@ -1,10 +1,16 @@
 {
-  "timestamp": "2022-12-06T16:26:38",
+  "timestamp": "2022-12-06T17:17:24",
   "url": "https://www.bild.de/ratgeber/startseite/ratgeber/home-15478376.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -31,7 +37,7 @@
     },
     {
       "type": null,
-      "src": "https://a.bildstatic.de/runtime.a01f354b.js",
+      "src": "https://a.bildstatic.de/runtime.e714b79a.js",
       "id": null,
       "text": null
     },
@@ -68,34 +74,34 @@
   ],
   "articles": [
     {
-      "title": "Romantisch, historisch, prächtig... : Fünf sehenswerte Weihnachtsmärkte",
+      "title": "Nikolaus : Warum stecken wir die Geschenke in Schuhe?",
+      "url": "https://www.bild.de/ratgeber/2022/ratgeber/nikolaus-warum-stecken-wir-am-06-dezember-geschenke-in-schuhe-82012678.bild.html",
+      "image_url": "https://images.bild.de/637b775108ba5f71743a8d7d/770f08769bcfa91d35c042e5cb1d6541,999356c3?w=656",
+      "image_title": "Nikolaus am 06. Dezember: Warum stecken wir Geschenke in Schuhe?"
+    },
+    {
+      "title": "Taler, Taler du musst wandern : Weihnachtliche Schoko-Nuss-Kekse",
+      "url": "https://www.bild.de/lifestyle/rezepte/futtern/weihnachtliche-schoko-nuss-kekse-so-einfach-geht-es-82036924.bild.html",
+      "image_url": "https://images.bild.de/637e14f6252d3f53886cb6c9/2a9054453b704d8e590f1a71a13082ff,d19e86c4?w=320",
+      "image_title": "Weihnachtliche Schoko-Nuss-Kekse: So einfach geht es!"
+    },
+    {
+      "title": "Romantisch, historisch, prächtig... : Fünf Weihnachtsmärkte, die man gesehen haben muss",
       "url": "https://www.bild.de/ratgeber/2022/leute/weihnachten-2022-weihnachtsmaerkte-die-man-gesehen-haben-muss-82156638.bild.html",
-      "image_url": "https://images.bild.de/638dd6d1934cb87699451267/aec7511d5e01dcaab16f7bbc4d1db9b6,e226cea2?w=656",
+      "image_url": "https://images.bild.de/638dd6d1934cb87699451267/9f345f13b971ce99d04275e46d50c726,7a45a1c3?w=320",
       "image_title": "Traditionell und wunderschön: Fünf sehenswerte Weihnachtsmärkte"
-    },
-    {
-      "title": "Lange Zinsbindung bei Immobilien : So finanzieren Sie sicher und flexibel Kredite",
-      "url": "https://www.bild.de/bild-plus/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/feste-zinsen-mit-diesen-kredit-tipps-finanzieren-sie-sicher-82086564.bild.html",
-      "image_url": "https://images.bild.de/6384c9d352b45b1845667fa3/d3299d582583fbfd596f8f743afe1eee,b6617b54?w=320",
-      "image_title": "Feste Zinsen: Mit diesen Kredit-Tipps finanzieren Sie sicher"
-    },
-    {
-      "title": "Charakter & Eigenschaften : So tickt das Sternzeichen Krebs",
-      "url": "https://www.bild.de/lifestyle/horoskop/lifestyle/sternzeichen-krebs-daten-eigenschaften-passende-zeichen-im-ueberblick-80619694.bild.html",
-      "image_url": "https://images.bild.de/62c574a71a8dc6567194b346/4fbdbbc1931d1718dd69b46c8f9f2907,a80fc9b2?w=320",
-      "image_title": "Sternzeichen Krebs: Daten, Eigenschaften & passende Zeichen im Überblick"
     },
     {
       "title": "HoHoHo-Bastelspaß für zuhause Diesen Nikolaus kann einfach jeder",
       "url": "https://www.bild.de/video/clip/lifestyle/hohoho-bastelspass-fuer-zuhause-diesen-nikolaus-kann-einfach-jeder-82168466.bild.html"
     },
     {
-      "title": "Es drohen schwere Strafen Indonesien peitscht Anti-Sex-Gesetz durch",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/indonesien-steinzeit-gesetz-verabschiedet-bis-zu-ein-jahr-knast-fuer-unehelichen-82164994.bild.html"
+      "title": "Lange Zinsbindung bei Immobilien So finanzieren Sie sicher und flexibel Kredite",
+      "url": "https://www.bild.de/bild-plus/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/feste-zinsen-mit-diesen-kredit-tipps-finanzieren-sie-sicher-82086564.bild.html"
     },
     {
-      "title": "Oh, du Schreckliche! Neue EU-Reform bedroht unser Weihnachtsgebäck",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/herkunftsnovelle-eu-bedroht-weihnachtsgebaeck-mit-neuem-gesetz-82155212.bild.html"
+      "title": "Charakter & Eigenschaften So tickt das Sternzeichen Krebs",
+      "url": "https://www.bild.de/lifestyle/horoskop/lifestyle/sternzeichen-krebs-daten-eigenschaften-passende-zeichen-im-ueberblick-80619694.bild.html"
     },
     {
       "title": "Mit Radiofrequenzen : Sarah Knappik – diese Behandlung sorgt für gestraffte Haut",
@@ -245,7 +251,13 @@
       "image_title": "Forscher finden historische Sensation: Vor 780 000 Jahren wurde schon gekocht"
     },
     {
-      "title": "Wie Sie in Ihrem Bundesland aus der Kirche austreten : Marie zahlt Kirchensteuer – und ist ungetauft",
+      "title": "Oh, du Schreckliche! : Neue EU-Reform bedroht unser Weihnachtsgebäck",
+      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/herkunftsnovelle-eu-bedroht-weihnachtsgebaeck-mit-neuem-gesetz-82155212.bild.html",
+      "image_title": "Herkunftsnovelle: EU bedroht Weihnachtsgebäck mit neuem Gesetz"
+    },
+    {
+      "title": "Raus aus der Kirche, aber wie? : Marie zahlt Kirchensteuer – als Ungetaufte",
+      "teaser": "Nur Getaufte sind Kirchenmitglieder und damit kirchensteuerpflichtig? Von wegen!",
       "url": "https://www.bild.de/bild-plus/ratgeber/sparfochs/bild-kaempft-fuer-sie/was-tun-beim-kirchenaustritt-marie-ist-ungetauft-und-zahlt-trotzdem-kirchensteue-82100010.bild.html",
       "image_title": "Was tun beim Kirchenaustritt? Marie ist ungetauft und zahlt trotzdem Kirchensteuer!"
     },
@@ -272,12 +284,6 @@
       "teaser": "Die Chat-Funktion von OpenAI ist auf dem Wissensstand von 2021 und völlig humorlos.",
       "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/chatten-mit-kuenstlicher-intelligenz-wer-die-wm-gewinnt-keine-ahnung-82146564.bild.html",
       "image_title": "Chatten mit künstlicher Intelligenz: Wer die WM gewinnt? Keine Ahnung!"
-    },
-    {
-      "title": "Investment mit Insiderwissen : So funktioniert das Geschäft mit Rohstoffen wie Lithium",
-      "teaser": "Am Rohstoffmarkt sind die Preise angezogen – zumindest aus Verbrauchersicht.",
-      "url": "https://www.bild.de/bild-plus/ratgeber/2022/ratgeber/viel-insiderwissen-noetig-heikles-geschaeft-mit-rohstoffen-wie-lithium-82109138.bild.html",
-      "image_title": "Viel Insiderwissen nötig: Heikles Geschäft mit Rohstoffen wie Lithium"
     },
     {
       "title": "Fantasie-Bremse? : So verändern Tablets das Spielen unserer Kinder",
