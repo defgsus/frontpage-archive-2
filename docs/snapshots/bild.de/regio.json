@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-06T13:27:25",
+  "timestamp": "2022-12-06T14:17:13",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,375 +19,52 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.468e6ddd.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.a0822fdb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.b63563ef.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cbf71dc3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0b200ed2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.ea71e33e.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Die Briten berichten : Boris kommt schon nächste Woche frei",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/die-briten-berichten-boris-kommt-schon-naechste-woche-frei-82165700.bild.html",
-      "image_title": "Die Briten berichten: Boris kommt schon nächste Woche frei"
-    },
-    {
-      "title": "„Boystown“-Prozess : Hohe Haftstrafen für Darknet-Pädophile",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/prozess-um-kinderporno-plattform-boystown-hohe-haftstrafen-fuer-darknet-paedophi-82163960.bild.html",
-      "image_title": "„Boystown“-Prozess: Hohe Haftstrafen für Darknet-Pädophile"
-    },
-    {
-      "title": "Wunsch der Mitarbeiter abgelehnt : Linken-Stadträtin blockiert Clan-Razzia in Berlin",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berliner-linken-stadtraetin-blockiert-clan-razzia-82161890.bild.html",
-      "image_title": "Berliner Linken-Stadträtin blockiert Clan-Razzia"
-    },
-    {
-      "title": "Den perfekten Mord geplant : Er hatte die Grube im Wald schon ausgehoben",
-      "teaser": "Ein Bauingenieur plante das perfekte Verbrechen an seiner Ex, doch die wehrte sich!",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/den-perfekten-mord-geplant-er-hatte-die-grube-im-wald-schon-ausgehoben-82163868.bild.html",
-      "image_title": "Den perfekten Mord geplant: Er hatte die Grube im Wald schon ausgehoben"
-    },
-    {
-      "title": "Polizei-Großeinsatz in Berlin : Mann schießt auf seine Ex und flüchtet",
-      "teaser": "Großer Polizeieinsatz in der Berliner City-West. Gegen 17 Uhr soll ein Mann seine Ex-Frau auf dem Grünstreifen vor der Uran...",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/polizei-grosseinsatz-in-berlin-mann-schiesst-auf-seine-ex-und-fluechtet-82162122.bild.html",
-      "image_title": "Polizei-Großeinsatz in Berlin: Mann schießt auf seine Ex und flüchtet"
-    },
-    {
-      "title": "Kollegium-Brandbrief an Senatorin! : Hilferuf aus dem Lehrerzimmer",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/brandbrief-an-senatorin-schueler-verwuesten-klassen-beschimpfen-lehrer-hilferuf-82154442.bild.html",
-      "image_title": "Brandbrief an Senatorin! Schüler verwüsten Klassen, beschimpfen Lehrer! Hilferuf aus dem Lehrerzimmer"
-    },
-    {
-      "title": "Initiative sauer : Senat verpennt Platanen-Rettung",
-      "teaser": "In der Frage um die Zukunft der Platanen am Neustädter Deich ist derzeit Stillstand.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/initiative-sauer-senat-verpennt-platanen-rettung-82161094.bild.html",
-      "image_title": "Initiative sauer: Senat verpennt Platanen-Rettung"
-    },
-    {
-      "title": "Reha in Spanien, dann Attacke bei Werder : Agu wischt Wechsel erst mal weg",
-      "teaser": "Was wird aus dem verletzten Felix Agu? Ein Transfer ist aktuell noch kein Thema.",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-reha-dann-attacke-felix-agu-wischt-wechsel-erst-mal-weg-82158922.bild.html",
-      "image_title": "Werder Bremen: Reha, dann Attacke! Felix Agu wischt Wechsel erst mal weg"
-    },
-    {
-      "title": "Bundespräsident in Sachsen : Steinmeier im Bummelzug nach Freiberg",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/bundespraesident-in-sachsen-steinmeier-im-bummelzug-nach-freiberg-82167974.bild.html",
-      "image_title": "Bundespräsident in Sachsen: Steinmeier im Bummelzug nach Freiberg"
-    },
-    {
-      "title": "Sonntagsfrage : CDU in Sachsen wieder deutlicher vor AfD",
-      "teaser": "Nach Verlusten setzt sich die CDU in Sachsen wieder deutlicher von der AfD ab.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sonntagsfrage-cdu-in-sachsen-wieder-deutlicher-vor-afd-82166536.bild.html",
-      "image_title": "Sonntagsfrage: CDU in Sachsen wieder deutlicher vor AfD"
-    },
-    {
-      "title": "Transfer-Sperre, Testspiele, Tor-Ausbeute : Die drei großen Zwickau-Baustellen",
-      "teaser": "Drittligist FSV Zwickau legt wieder los. Auf Mannschaft und Bosse wartet viel Arbeit.",
-      "url": "https://www.bild.de/sport/fussball/fussball/die-drei-baustellen-des-fsv-zwickau-transfer-sperre-testspiele-tore-82164916.bild.html",
-      "image_title": "Die drei Baustellen des FSV Zwickau: Transfer-Sperre, Testspiele, Tore"
-    },
-    {
-      "title": "Versuchter Totschlag : Mann (20) verletzt Senioren mit Glasflasche",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/versuchter-totschlag-mann-20-verletzt-senioren-mit-glasflasche-82168652.bild.html",
-      "image_title": "Versuchter Totschlag: Mann (20) verletzt Senioren mit Glasflasche"
-    },
-    {
-      "title": "2. Liga mit 25 Jahren : Dresdner Schiri macht´s Dynamo vor",
-      "teaser": "Tanzt die Bundesliga bald nach der Pfeife von Richard Hempel (25)?",
-      "url": "https://www.bild.de/sport/fussball/fussball/2-liga-mit-25-jahren-dresdner-schiri-machts-dynamo-vor-82162586.bild.html",
-      "image_title": "2. Liga mit 25 Jahren: Dresdner Schiri macht´s Dynamo vor"
-    },
-    {
-      "title": "Weil er die D-Mark wieder einführen will : Bundesbank droht Reichsbürger-„König“",
-      "teaser": "Fitzeks geplante Währung ruft jetzt die Bundesbank auf den Plan.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/peter-fitzek-und-die-d-mark-bundesbank-droht-reichsbuerger-koenig-82161122.bild.html",
-      "image_title": "Peter Fitzek und die D-Mark: Bundesbank droht Reichsbürger-„König“"
-    },
-    {
-      "title": "Marcus R. (45) wegen Kindesmissbrauchs angeklagt : Das Monster von Wermelskirchen vor Gericht",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/kindesmissbrauchskomplex-das-monster-von-wermelskirchen-vor-gericht-82164206.bild.html",
-      "image_title": "Kindesmissbrauchskomplex: Monster von Wermelskirchen steht vor Gericht"
-    },
-    {
-      "title": "Alles richtig gemacht! : Fahrer rettet sich aus brennendem Lkw",
-      "teaser": "Geistesgegenwärtig und vorbildlich hat nach Angaben der Feuerwehr ein Lastwagenfahrer gehandelt...",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/alles-richtig-gemacht-fahrer-rettet-sich-aus-brennendem-lkw-82168576.bild.html",
-      "image_title": "Alles richtig gemacht!: Fahrer rettet sich aus brennendem Lkw"
-    },
-    {
-      "title": "Bei Heinos Kirchen-Konzert in Düsseldorf : Großes Wiedersehen mit Schwester Hannelore",
-      "teaser": "Was für eine himmlische Überraschung am Wochenende in Düsseldorf.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/bei-heinos-konzert-in-duesseldorf-grosses-wiedersehen-mit-hannelore-82162534.bild.html",
-      "image_title": "Bei Heinos Konzert in Düsseldorf: Großes Wiedersehen mit Hannelore"
-    },
-    {
-      "title": "TU Darmstadt : Frau nach Giftanschlag an Uni in Psychiatrie",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/tu-darmstadt-frau-nach-giftanschlag-an-uni-in-psychiatrie-82163836.bild.html",
-      "image_title": "TU Darmstadt: Frau nach Giftanschlag an Uni in Psychiatrie"
-    },
-    {
-      "title": "„ACAB“ : Streifenwagen im Einsatz beschmiert",
-      "teaser": "Während eines Polizeieinsatzes haben Unbekannte einen Streifenwagen beschmiert.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kassel-acab-streifenwagen-im-einsatz-beschmiert-82169064.bild.html",
-      "image_title": "Kassel: „ACAB“: Streifenwagen im Einsatz beschmiert"
-    },
-    {
-      "title": "40-Jähriger festgenommen : Mann (38) auf offener Straße erschossen",
-      "teaser": "Vor Ort wurde ein Tatverdächtiger (40) festgenommen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-mann-38-auf-offener-strasse-erschossen-82163210.bild.html",
-      "image_title": "Frankfurt-Praunheim: Mann (38) auf offener Straße erschossen"
-    },
-    {
-      "title": "„Es tut mir leid“ : KZ-Sekretärin bricht ihr Schweigen",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/es-tut-mir-leid-kz-sekretaerin-bricht-ihr-schweigen-und-bereut-82167218.bild.html",
-      "image_title": "„Es tut mir leid“: KZ-Sekretärin bricht ihr Schweigen"
-    },
-    {
-      "title": "Öffentlichkeitsfahndung : Kripo jagt die Kiez-Schläger",
-      "teaser": "Die Polizei fahndet nach fünf Männer, die am 8. Juli einen 21-Jährigen verprügelten.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/oeffentlichkeitsfahndung-kripo-jagt-die-kiez-schlaeger-82167320.bild.html",
-      "image_title": "Öffentlichkeitsfahndung: Kripo jagt die Kiez-Schläger"
-    },
-    {
-      "title": "Benjamin Welling : Fälschungs-Skandal um JU-Chef",
-      "teaser": "Stürzt JU-Chef Benjamin Welling über einen Unfall-Bericht?",
-      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/stuerzt-benjamin-welling-ueber-einen-unfall-bericht-faelschungs-skandal-um-ju-ch-82154638.bild.html",
-      "image_title": "Stürzt Benjamin Welling über einen Unfall-Bericht? Fälschungs-Skandal um JU-Chef"
-    },
-    {
-      "title": "Er knackte einen Schultresor : Polizei jagt Langfinger mit Autsch",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/er-knackte-einen-schultresor-polizei-jagt-langfinger-mit-autsch-82166302.bild.html",
-      "image_title": "Er knackte einen Schultresor: Polizei jagt Langfinger mit Autsch"
-    },
-    {
-      "title": "Prozess um 16 Tonnen Rauschgift : Der Spediteur der Kokain-Mafia",
-      "teaser": "Es ist das größte Rauschgiftnetzwerk, das jemals auf deutschem Boden enttarnt wurde.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/prozess-um-16-tonnen-rauschgift-der-spediteur-der-kokain-mafia-82154808.bild.html",
-      "image_title": "Prozess um 16 Tonnen Rauschgift: Der Spediteur der Kokain-Mafia"
-    },
-    {
-      "title": "Staatsanwalt sicher! : Diese Typen filmten sich beim Vergewaltigen",
-      "teaser": "Die Angeklagten reden von „einvernehmlichen Sex“, aber die Videos zeigen etwas anderes!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/staatsanwalt-sicher-diese-typen-filmten-sich-beim-vergewaltigen-82156100.bild.html",
-      "image_title": "Staatsanwalt sicher: Diese Typen filmten sich beim Vergewaltigen"
-    },
-    {
-      "title": "Klage gegen Kölner Erzbistum : Opfer fordert 700 000 Euro Schmerzensgeld",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koelner-erzbistum-opfer-fordert-700000-euro-schmerzensgeld-82167072.bild.html",
-      "image_title": "Kölner Erzbistum : Opfer fordert 700 000 Euro Schmerzensgeld"
-    },
-    {
-      "title": "Köln-Coach auf Familien-Reise : Baumgart zeigt sein Australien-Album",
-      "teaser": "Erholung pur. So verbrachte Köln-Coach Steffen Baumgart die Familien-Auszeit in Australien",
-      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-trainer-auf-familien-reise-steffen-baumgart-zeigt-sein-australien-alb-82166822.bild.html",
-      "image_title": "1. FC Köln: Trainer auf Familien-Reise: Steffen Baumgart zeigt sein Australien-Album"
-    },
-    {
-      "title": "Düsseldorfer Weihnachtsmärkte geräumt : Drohanrufe auch in Düren und Münster",
-      "teaser": "Nach einer Bedrohungslage waren alle Weihnachtsmärkte am Montagnachmittag geräumt worden.",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/polizei-prueft-zusammenhang-bedrohungslage-auch-in-dueren-und-muenster-82165420.bild.html",
-      "image_title": "Polizei prüft Zusammenhang: Bedrohungslage auch in Düren und Münster"
-    },
-    {
-      "title": "Handwerker drohen bei Energie-Hilfen leer auszugehen : Verheizt uns nicht!",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/energie-hilfen-handwerksbetriebe-drohen-leer-auszugehen-82161704.bild.html",
-      "image_title": "Energie-Hilfen: Handwerksbetriebe drohen leer auszugehen!"
-    },
-    {
-      "title": "Thomas Kundt : Tatort-Reiniger hat ‘nen Job im Gewandhaus",
-      "teaser": "Mitten im besinnlichen Advent füllt der Tatortreiniger das Gewandhaus.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/thomas-kundt-tatort-reiniger-hat-nen-job-im-gewandhaus-82161988.bild.html",
-      "image_title": "Thomas Kundt: Tatort-Reiniger hat ‘nen Job im Gewandhaus"
-    },
-    {
-      "title": "Bis zu 1,8 Mio. Euro von der FIFA : RB Leipzig winkt dicke WM-Prämie",
-      "teaser": "Keine Spiele, keine Einnahmen? Nicht bei RB Leipzig.",
-      "url": "https://www.bild.de/sport/fussball/rb-leipzig/bis-zu-1-8-mio-euro-von-der-fifa-rb-leipzig-winkt-dicke-wm-praemie-82161806.bild.html",
-      "image_title": "Bis zu 1,8 Mio. Euro von der FIFA: RB Leipzig winkt dicke WM-Prämie"
-    },
-    {
-      "title": "Hansa-Auftakt : Neidhart fehlt nach Nasen-OP",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-auftakt-neidhart-fehlt-nach-nasen-op-82160446.bild.html",
-      "image_title": "Hansa-Auftakt: Neidhart fehlt nach Nasen-OP"
-    },
-    {
-      "title": "Schlagerstar Frank Schöbel : „Sonnyboy des Sozialismus“ wird 80!",
-      "teaser": "Frank Schöbel wurde im gleichen Jahr geboren wie Jimi Hendrix, Paul McCartney und Barbra Streisand.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/schlagerstar-frank-schoebel-sunnyboy-des-sozialismus-wird-80-82153282.bild.html",
-      "image_title": "Schlagerstar Frank Schöbel: „Sonnyboy des Sozialismus“ wird 80!"
-    },
-    {
-      "title": "Brisant-Moderatorin Eldessouky : Warum James Bond sich von ihr losriss",
-      "teaser": "Marwa Eldessouky (39) ist Nachfolgerin Brisant-Moderatorin von Mareile Höppner (45).",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/tv-interview-mit-der-neuen-brisant-moderatorin-marwa-eldessouky-39-82154876.bild.html",
-      "image_title": "TV: Interview mit der neuen Brisant-Moderatorin Marwa Eldessouky (39)"
-    },
-    {
-      "title": "Im öffentlichen Nahverkehr : Zwei Bundesländer schaffen Masken ab",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/u-bahn-und-busse-maskenpflicht-in-u-bahn-endet-ab-samstag-82165460.bild.html",
-      "image_title": "Im öffentlichen Nahverkehr: Zwei Bundesländer schaffen Masken ab"
-    },
-    {
-      "title": "Lucas (7) seit Monaten verschwunden : „Meine Ex hat meinen Sohn entführt“",
-      "teaser": "Entführungs-Drama statt Familien-Idyll: Plötzlich war das Kind weg.",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/lucas-7-seit-monaten-verschwunden-meine-ex-hat-meinen-sohn-entfuehrt-82159238.bild.html",
-      "image_title": "Regenstauf: Lucas verschwunden: „Meine Ex hat meinen Sohn entführt“"
-    },
-    {
-      "title": "Nach Goldraub in Manching : Polizei findet Brechstange im Weiher",
-      "teaser": "Polizeitaucher haben in einem Weiher eine Brechstange und ein Elektromessgerät gefunden.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-goldraub-in-manching-polizei-findet-brechstange-im-weiher-82168542.bild.html",
-      "image_title": "Nach Goldraub in Manching: Polizei findet Brechstange im Weiher"
-    },
-    {
-      "title": "Wäre gut für den Club... : Wien will Klauß",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-waere-gut-fuer-den-club-wien-will-robert-klauss-82169252.bild.html",
-      "image_title": "FCN: Wäre gut für den Club...: Wien will Robert Klauß"
-    },
-    {
-      "title": "Asylbewerber ersticht 14-Jährige : Mädchenmord schon der zweite Schock für Gemeinde",
-      "teaser": "Ulm – Polizisten in Schutzanzügen sichern auf einer Straße im 4700-Einwohner-Ort Illerk...",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/asylbewerber-erstach-14-jaehrige-und-verletzt-ihre-freundin-schwer-der-killer-la-82162198.bild.html",
-      "image_title": "Asylbewerber ersticht 14-Jährige: Mädchenmord schon der zweite Schock für Gemeinde"
-    },
-    {
-      "title": "Nürnberg : Bei Pferdetransport Bremsen heiß gelaufen",
-      "teaser": "Durch das Gewicht von drei Pferden sind die Bremsen eines Tiertransporters heiß gelaufen.",
-      "url": "https://www.bild.de/regional/nuernberg/muenchen-aktuell/nuernberg-bei-pferdetransport-bremsen-heiss-gelaufen-82167668.bild.html",
-      "image_title": "Nürnberg: Bei Pferdetransport Bremsen heiß gelaufen"
-    },
-    {
-      "title": "Auch nicht zum 14. Geburtstag : Keiner darf Helene besuchen",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/auch-nicht-zum-14-geburtstag-keiner-darf-helene-besuchen-82169150.bild.html",
-      "image_title": "Auch nicht zum 14. Geburtstag: Keiner darf Helene besuchen"
-    },
-    {
-      "title": "18 Karat wegen Drogenhandels vor Gericht : Früher GOLD-Maske, jetzt PAPP-Hefter",
-      "teaser": "Nun musste ein Ordner herhalten. Der Rapper muss ich wegen Rauschgift verantworten.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-18-karat-wegen-drogenhandels-vor-gericht-82158216.bild.html",
-      "image_title": "Dortmund: „18 Karat“ wegen Drogenhandels vor Gericht"
-    },
-    {
-      "title": "Sattelzug rast in Kleinwagen : Fahrer (64) und Hund sterben bei Crash",
-      "teaser": "Bei einem schrecklichen Unfall auf der L 825 bei Brakel (Kreis Höxter) wurde abends ein Skoda-Fahrer († 64) getötet.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/sattelzug-rast-in-kleinwagen-fahrer-64-und-hund-sterben-bei-crash-82165106.bild.html",
-      "image_title": "Sattelzug rast in Kleinwagen: Fahrer (64) und Hund sterben bei Crash"
-    },
-    {
-      "title": "Der nächste Wirtschafts-Schock : Keine neuen Ford-Azubis in Saarlouis",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/der-naechste-wirtschafts-schock-keine-neuen-ford-azubis-in-saarlouis-82168154.bild.html",
-      "image_title": "Der nächste Wirtschafts-Schock: Keine neuen Ford-Azubis in Saarlouis"
-    },
-    {
-      "title": "Schüsse, Raub, Brandstiftung : Prozess um sechs Tage Wahnsinn",
-      "teaser": "Es war eine unfassbare Verbrecher-Tour im August 2020. Nun begann der Prozess.",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/frankfurt-aktuell/schuesse-raub-brandstiftung-prozess-um-sechs-tage-wahnsinn-82167770.bild.html",
-      "image_title": "Schüsse, Raub, Brandstiftung: Prozess um sechs Tage Wahnsinn"
-    },
-    {
-      "title": "Trotz Beschwerden : Rinderherde hält Gemeinde auf Trab",
-      "teaser": "Tierischer Ärger am Ortsrand: Dort irren seit Wochen acht Rinder durch ein Waldstück.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/trotz-beschwerden-tut-sich-nichts-rinderherde-haelt-gemeinde-auf-trab-82158442.bild.html",
-      "image_title": "Trotz Beschwerden : Rinderherde hält Gemeinde auf Trab"
-    },
-    {
-      "title": "Seine Leiche lag am Straßenrand : Rentner bleibt mit Auto im Schnee stecken – tot!",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/kaiserpfalz-rentner-74-bleibt-mit-auto-im-schnee-stecken-tot-82149828.bild.html",
-      "image_title": "Kaiserpfalz: Rentner (74) bleibt mit Auto im Schnee stecken – tot!"
-    },
-    {
-      "title": "Trucker schwer verletzt : Milchlaster schlittert in den Straßengraben",
-      "teaser": "Bei Aschersleben kippte ein mit Milchprodukten beladener Lkw in den Graben.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/unfall-bei-aschersleben-sachsen-anhalt-milchlaster-schlittert-in-den-strassengra-82154732.bild.html",
-      "image_title": "Unfall bei Aschersleben (Sachsen-Anhalt): Milchlaster schlittert in den Straßengraben"
-    },
-    {
-      "title": "6000 Euro wert! : Der Schuh der Mätresse von August dem Starken",
-      "teaser": "Trug diesen Schuh aus Ziegenleder die Gräfin immer nur dann, wenn sie zum König ging?",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/weissenfels-der-schuh-der-maetresse-von-august-dem-starken-82151740.bild.html",
-      "image_title": "Weißenfels: Der Schuh der Mätresse von August dem Starken"
-    },
-    {
-      "title": "Kidus Y. hat schon 20 Vorstrafen : Intensivtäter jetzt wegen Mordes vor Gericht",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/kidus-y-hat-20-vorstrafen-intensivtaeter-nun-wegen-mordes-vor-gericht-82168276.bild.html",
-      "image_title": "Kidus Y. hat 20 Vorstrafen: Intensivtäter nun wegen Mordes vor Gericht"
-    },
-    {
-      "title": "Heidelberg : Mann (24) sticht auf Betreuer (44) ein",
-      "teaser": "Er wollte mutmaßlich seinen Betreuer mit einem Messer töten.",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-aktuell/heidelberg-mann-24-sticht-auf-betreuer-44-ein-82167580.bild.html",
-      "image_title": "Heidelberg: Mann (24) sticht auf Betreuer (44) ein"
-    },
-    {
-      "title": "Mauro Bergonzoli : Star-Maler trauert um Katze Gina (30)",
-      "teaser": "Der Künstler und seine Muse müssen Abschied nehmen von ihrer geliebten Siamkatze.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/mauro-bergonzoli-star-maler-trauert-um-seine-katze-gina-30-82155766.bild.html",
-      "image_title": "Mauro Bergonzoli: Star-Maler trauert um seine Katze Gina (30)"
-    },
-    {
-      "title": "Historiker erforscht Ost-West-Geheimnis : Wie verschwand der rechtsextreme Arafat-General?",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/historiker-erforscht-wie-verschwand-arafats-rechtsextremer-general-82160812.bild.html",
-      "image_title": "Historiker erforscht: Wie verschwand Arafats rechtsextremer General?"
-    },
-    {
-      "title": "Erfurt im Fußball-Rausch : Kapitän Startsev will an der Spitze überwintern",
-      "teaser": "Erfurt im rot-weißen Fußball-Rausch! Seit dem 30. September ist RWE ungeschlagen!",
-      "url": "https://www.bild.de/sport/fussball/fussball/erfurt-im-fussball-rausch-kapitaen-startsev-will-an-spitze-ueberwintern-82161284.bild.html",
-      "image_title": "Erfurt im Fußball-Rausch: Kapitän Startsev will an Spitze überwintern"
-    },
-    {
-      "title": "Torlos-Serie endete : Endlich trifft auch Jenas Krauß wieder",
-      "teaser": "Unheimliche 218 Tage - so lange wartet Jenas Maximilian Krauß (26) auf ein Tor.",
-      "url": "https://www.bild.de/sport/fussball/fussball/torlos-serie-endete-endlich-trifft-auch-jenas-krauss-wieder-82160914.bild.html",
-      "image_title": "Torlos-Serie endete: Endlich trifft auch Jenas Krauß wieder"
-    }
-  ]
+  "articles": []
 }
