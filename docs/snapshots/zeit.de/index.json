@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-07T12:35:30",
+  "timestamp": "2022-12-07T13:25:40",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.f51351dd.mjs",
       "id": null,
       "text": null
@@ -76,62 +82,105 @@
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
       "id": null,
       "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
-      "id": null,
-      "text": null
     }
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Angela Merkel: \"Hätten schneller auf die Aggressivität Russlands reagieren müssen\"",
-      "teaser": "Angela Merkel spricht im Interview mit der ZEIT über ihren neuen Lebensabschnitt. Die Ex-Kanzlerin erklärt, was sie an ihrer Russland-Politik noch heute für richtig hält.",
-      "url": "https://www.zeit.de/2022/51/angela-merkel-russland-fluechtlingskrise-bundeskanzler",
-      "image_url": "https://img.zeit.de/2022/51/hatten-sie-gedacht-ich-komme-mit-pferdeschwanz-bild-1/cinema__980x420"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich",
-      "teaser": "Mit bundesweiten Razzien zerschlagen Ermittler eine Verschwörung im Reichsbüger-Milieu. Spuren führen in die Bundeswehr und zu einer Ex-Bundestagsabgeordneten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd-bilder/cinema__980x420",
-      "image_title": "Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich"
-    },
-    {
-      "title": "Razzia im Reichsbürgermilieu: Nancy Faeser spricht von \"Abgrund terroristischer Bedrohung\"",
-      "teaser": "Die Bundesregierung lobt die Razzia in der Reichsbürgerszene. Die Aktion richtete sich auch gegen eine ehemalige AfD-Abgeordnete – die Partei reagiert zurückhaltend.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-12/razzia-rechtsextreme-verschwoerung-reichsbuerger-marco-buschmann",
-      "image_url": "https://img.zeit.de/politik/2022-12/razzia-rechtsextreme-verschwoerung-reichsbuerger-bild-2/wide__822x462",
-      "image_title": "Razzia im Reichsbürgermilieu: Nancy Faeser spricht von \"Abgrund terroristischer Bedrohung\""
+      "title": "Z+ (abopflichtiger Inhalt); Heinrich XIII. Prinz Reuß: Der Putsch-Prinz",
+      "teaser": "Er war mit einem Model verheiratet und begeistert vom Motorsport. Nun soll Heinrich XIII. Prinz Reuß Rädelsführer einer rechtsextremen Verschwörung sein. Wie kam es dazu?",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/prinz-heinrich-xiii-rechtsextreme-verschwoerung-putsch",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/prinz-heinrich-xiii-rechtsextreme-verschwoerung-putsch-bild/cinema__1000x428"
     },
     {
       "title": "Razzia gegen Rechtsterroristen: Russland dementiert Verbindung zu Terrorverdächtigen in Deutschland",
       "teaser": "Nach der Razzia gegen mutmaßliche Rechtsterroristen in Deutschland prüfen die Ermittler auch Verbindungen nach Russland. Die russische Botschaft streitet diese ab.",
       "url": "https://www.zeit.de/politik/ausland/2022-12/razzia-reichsbuerger-russische-botschaft",
-      "image_url": "https://img.zeit.de/politik/2022-12/razzia-reichsbuerger-russische-botschaft-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2022-12/razzia-reichsbuerger-russische-botschaft-bild/cinema__980x420",
       "image_title": "Razzia gegen Rechtsterroristen: Russland dementiert Verbindung zu Terrorverdächtigen in Deutschland"
+    },
+    {
+      "title": "Razzia im Reichsbürgermilieu: Nancy Faeser spricht von \"Abgrund terroristischer Bedrohung\"",
+      "teaser": "Die Bundesregierung lobt die Razzia in der Reichsbürgerszene. Die Aktion richtete sich auch gegen eine ehemalige AfD-Abgeordnete – die Partei reagiert zurückhaltend.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-12/razzia-rechtsextreme-verschwoerung-reichsbuerger-marco-buschmann",
+      "image_url": "https://img.zeit.de/politik/2022-12/razzia-rechtsextreme-verschwoerung-reichsbuerger-bild-2/cinema__980x420",
+      "image_title": "Razzia im Reichsbürgermilieu: Nancy Faeser spricht von \"Abgrund terroristischer Bedrohung\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich",
+      "teaser": "Mit bundesweiten Razzien zerschlagen Ermittler eine Verschwörung im Reichsbüger-Milieu. Spuren führen in die Bundeswehr und zu einer Ex-Bundestagsabgeordneten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd-bilder/wide__822x462",
+      "image_title": "Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Angela Merkel: \"Hätten schneller auf die Aggressivität Russlands reagieren müssen\"",
+      "teaser": "Angela Merkel spricht im Interview mit der ZEIT über ihren neuen Lebensabschnitt. Die Ex-Kanzlerin erklärt, was sie an ihrer Russland-Politik noch heute für richtig hält.",
+      "url": "https://www.zeit.de/2022/51/angela-merkel-russland-fluechtlingskrise-bundeskanzler",
+      "image_url": "https://img.zeit.de/2022/51/hatten-sie-gedacht-ich-komme-mit-pferdeschwanz-bild-1/cinema__980x420",
+      "image_title": "Angela Merkel: \"Hätten schneller auf die Aggressivität Russlands reagieren müssen\""
+    },
+    {
+      "title": "Krankenhausreform: Der Kampf für eine bessere Kindermedizin",
+      "teaser": "Kranke Kinder leiden besonders unter dem ökonomischen Druck der Kliniken. Sie lassen sich nicht abfertigen, sondern brauchen Zuwendung. Und die muss bezahlt werden.",
+      "url": "https://www.zeit.de/2022/51/krankenhausreform-ansteckung-virus-impfstoff-winter",
+      "image_url": "https://img.zeit.de/2022/51/virus-ansteckung-krankenhaus-impfstoff-winter-teaser/wide__822x462",
+      "image_title": "Krankenhausreform: Der Kampf für eine bessere Kindermedizin"
     },
     {
       "title": "Andreas Merzhäuser: \"Die chinesische Regierung versucht, das Covid-Narrativ zu ändern\"",
       "teaser": "Andreas Merzhäuser leitet die deutsche Schule in Peking. Hier erklärt er, warum die chinesische Führung vor einem Dilemma steht und man Bildung dort ganz anders begreift.",
       "url": "https://www.zeit.de/kultur/2022-12/andreas-merzhaeuser-deutsche-schule-peking-corona-china",
-      "image_url": "https://img.zeit.de/kultur/2022-12/andreas-merzhaeuser-deutsche-schule-peking-corona-china-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2022-12/andreas-merzhaeuser-deutsche-schule-peking-corona-china-bild/wide__822x462",
       "image_title": "Andreas Merzhäuser: \"Die chinesische Regierung versucht, das Covid-Narrativ zu ändern\""
     },
     {
-      "title": "Liveblog: Ukraine-Krieg: Russland baut Verteidigungsstellen an ukrainischer Grenze auf",
-      "teaser": "An der ukrainisch-russischen Grenze stärkt Russland offenbar seine Verteidigung. Die USA verkaufen modernste Waffen an Polen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/2022-12/ukraine-russland-blogbild/wide__822x462",
-      "image_title": "Ukraine-Krieg: Russland baut Verteidigungsstellen an ukrainischer Grenze auf"
+      "title": "COP 15: Wie schafft es die Welt, 30 Prozent des Planeten bis 2030 zu schützen?",
+      "teaser": "Der Weltgipfel der UN zum Artenschutz will die Zerstörung der Natur stoppen. Montreal könnte werden, was Paris 2015 für den Klimaschutz war: ein Fahrplan aus der Krise.",
+      "url": "https://www.zeit.de/2022/51/cop15-biodiversitaet-konferenz-montreal",
+      "image_url": "https://img.zeit.de/wissen/2022-12/cop15-biodiversitaet/cinema__980x420",
+      "image_title": "COP 15: Wie schafft es die Welt, 30 Prozent des Planeten bis 2030 zu schützen?"
     },
     {
-      "title": "Ukraine-Karte aktuell: Russische Führung streut Gerüchte über ukrainische Invasionspläne",
-      "teaser": "Kremlpropagandisten warnen vor ukrainischen Bodenangriffen auf russisches Territorium. Damit könnte die Öffentlichkeit auf neue Mobilisierungswellen vorbereitet werden.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
-      "image_title": "Ukraine-Karte aktuell: Russische Führung streut Gerüchte über ukrainische Invasionspläne"
+      "title": "Liveblog: Ukraine-Krieg: Nato rechnet mit russischer Offensive im Frühjahr",
+      "teaser": "Russland nutzt offenbar den Winter, um Truppen neu aufzustellen. Die USA weisen eine Mitverantwortung für Angriffe auf russische Militärstützpunkte zurück. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/2022-12/ukraine-krieg-russland-newsblog-live-nato-bild/wide__822x462",
+      "image_title": "Ukraine-Krieg: Nato rechnet mit russischer Offensive im Frühjahr"
+    },
+    {
+      "title": "Afghanistan: Taliban vollstrecken erste öffentliche Hinrichtung seit Machtübernahme",
+      "teaser": "Nach ihrer Rückkehr an die Macht kündigten die Taliban an, Afghanistan weniger radikal führen zu wollen als in den Neunzigern. Nun richteten sie einen Mann hin.",
+      "url": "https://www.zeit.de/politik/ausland/2022-12/afghanistan-erste-oeffentliche-hinrichtung-taliban",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-12/afghanistan-erste-oeffentliche-hinrichtung-taliban-bild/wide__822x462",
+      "image_title": "Afghanistan: Taliban vollstrecken erste öffentliche Hinrichtung seit Machtübernahme"
+    },
+    {
+      "title": "Sexueller Missbrauch in der katholischen Kirche: Ein Sorry fürs Pornogucken",
+      "teaser": "Andreas Perr verklagt einen Pfarrer, der ihn sexuell missbrauchte. Und den ehemaligen Erzbischof und Papst Benedikt XVI., der den Täter geschützt haben soll.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/sexueller-missbrauch-katholische-kirche-ex-papst-benedikt-xvi-klage",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-12/sexueller-missbrauch-katholische-kirche-ex-papst-benedikt-xvi-klage-bild/wide__822x462",
+      "image_title": "Sexueller Missbrauch in der katholischen Kirche: Ein Sorry fürs Pornogucken"
+    },
+    {
+      "title": "Gutachten: Zentralrat der Juden fordert Abberufung von Walter Homolka",
+      "teaser": "Nach einem Gutachten sieht der Vorsitzende des Zentralrats der Juden die Vorwürfe gegen Rabbiner Walter Homolka bestätigt. Ein Verbleib in seinen Ämtern sei undenkbar.",
+      "url": "https://www.zeit.de/gesellschaft/2022-12/walter-homolka-zentralrat-gutachten-josef-schuster",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-12/walter-homolka-zentralrat-gutachten-josef-schuster-bild-2/wide__822x462",
+      "image_title": "Gutachten: Zentralrat der Juden fordert Abberufung von Walter Homolka"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Chez Krömer\": Spezialist für Arschlöcher",
+      "teaser": "Das Gute an Kurt Krömer war, dass er seine Interviews nicht als Journalist führte. Aber es ist trotzdem toll, dass er und der RBB nun mit \"Chez Krömer\" aufhören.",
+      "url": "https://www.zeit.de/2022/51/chez-kroemer-rbb-julian-reichelt",
+      "image_url": "https://img.zeit.de/2022/51/chez-kroemer-rbb-kurt-kroemer/cinema__980x420",
+      "image_title": "\"Chez Krömer\": Spezialist für Arschlöcher"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Jan Böhmermann: Ich lache los",
+      "teaser": "Eine Umfrage zeigt: Zwei Drittel der Deutschen finden Jan Böhmermann nicht lustig. Unser Kolumnist gehört also einer Minderheit an: Er lacht gern über Böhmermanns Witze.",
+      "url": "https://www.zeit.de/2022/51/jan-boehmermann-satire-humor-bosheit",
+      "image_url": "https://img.zeit.de/2022/51/jan-boehmermann-satire/wide__822x462",
+      "image_title": "Jan Böhmermann: Ich lache los"
     },
     {
       "title": "Angriff auf das US-Kapitol: Familie von totem Polizisten verweigert Republikanern den Händedruck",
@@ -146,13 +195,6 @@
       "url": "https://www.zeit.de/politik/ausland/2022-12/proteste-iran-mohammed-chatami",
       "image_url": "https://img.zeit.de/politik/2022-12/proteste-iran-mohammed-chatami-bild/wide__822x462",
       "image_title": "Proteste im Iran: Früherer Präsident warnt vor Unterdrückung der Freiheitsbewegung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jan Böhmermann: Ich lache los",
-      "teaser": "Eine Umfrage zeigt: Zwei Drittel der Deutschen finden Jan Böhmermann nicht lustig. Unser Kolumnist gehört also einer Minderheit an: Er lacht gern über Böhmermanns Witze.",
-      "url": "https://www.zeit.de/2022/51/jan-boehmermann-satire-humor-bosheit",
-      "image_url": "https://img.zeit.de/2022/51/jan-boehmermann-satire/cinema__980x420",
-      "image_title": "Jan Böhmermann: Ich lache los"
     },
     {
       "title": "Statistisches Bundesamt: Stromerzeugung in Kohlekraftwerken steigt an",
@@ -183,11 +225,11 @@
       "image_title": "Darmspiegelung und Krebsvorsorge: Was nützt der Blick in den Darm?"
     },
     {
-      "title": "Spanien: 150 Verletzte bei Zugunglück in Barcelona",
-      "teaser": "Zwei Vorortzüge sind im morgendlichen Berufsverkehr in Barcelona zusammengeprallt. Dabei wurden 150 Menschen verletzt, drei mussten ins Krankenhaus gebracht werden.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/spanien-barcelona-zugunglueck-150-verletzte",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-12/spanien-barcelona-zugunglueck-150-verletzte-bild-2/wide__822x462",
-      "image_title": "Spanien: 150 Verletzte bei Zugunglück in Barcelona"
+      "title": "Z+ (abopflichtiger Inhalt); Verbeamtung • Das Beste aus Z+: Das Beamtentum erzieht zum Duckmäusertum",
+      "teaser": "Berlin kämpft um Lehrerinnen und Lehrer – und will diese nun rückwirkend verbeamten. Ein großer Fehler, denn es fehlt an neuen Impulsen und Rebellengeist.",
+      "url": "https://www.zeit.de/politik/deutschland/2022-11/verbeamtung-lehrer-beamtenstatus-bildung-arbeitsmarkt",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/verbeamtung-lehrer-beamtenstatus-bildung/wide__822x462",
+      "image_title": "Verbeamtung • Das Beste aus Z+: Das Beamtentum erzieht zum Duckmäusertum"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); DFB: Wer kann der neue Klinsmann sein? Und wer soll ihn finden?",
@@ -195,13 +237,6 @@
       "url": "https://www.zeit.de/sport/2022-12/dfb-hansi-flick-thomas-tuchel-aki-watzke",
       "image_url": "https://img.zeit.de/sport/2022-12/hansi-flick-2/wide__822x462",
       "image_title": "DFB: Wer kann der neue Klinsmann sein? Und wer soll ihn finden?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verbeamtung • Das Beste aus Z+: Das Beamtentum erzieht zum Duckmäusertum",
-      "teaser": "Berlin kämpft um Lehrerinnen und Lehrer – und will diese nun rückwirkend verbeamten. Ein großer Fehler, denn es fehlt an neuen Impulsen und Rebellengeist.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/verbeamtung-lehrer-beamtenstatus-bildung-arbeitsmarkt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/verbeamtung-lehrer-beamtenstatus-bildung/wide__822x462",
-      "image_title": "Verbeamtung • Das Beste aus Z+: Das Beamtentum erzieht zum Duckmäusertum"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Seeteufelleber-Curry mit Kürbis: Der Seeteufel steckt im Detail",
@@ -237,12 +272,12 @@
       "url": "https://www.zeit.de/wirtschaft/2022-12/oelpreisdeckel-tanker-stau-tuerkische-kueste"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Cathy Hummels: \"Ich kann krass lieben\"",
-      "url": "https://www.zeit.de/sinn/2022-12/cathy-hummels-influencerin-depressionen-shitstorm"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Cathy Hummels: \"Ich kann krass lieben\"",
+      "url": "https://www.zeit.de/sinn/2022-12/cathy-hummels-influencerin-depressionen-shitstorm"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ADHS bei Erwachsenen : Das muss doch ADHS sein",
@@ -267,10 +302,10 @@
       "image_title": "Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Cathy Hummels: \"Ich kann krass lieben\"",
-      "url": "https://www.zeit.de/sinn/2022-12/cathy-hummels-influencerin-depressionen-shitstorm",
-      "image_url": "https://img.zeit.de/sinn/2022-12/cathy-hummels-influencerin-depressionen/wide__822x462",
-      "image_title": "Cathy Hummels: \"Ich kann krass lieben\""
+      "title": "Z+ (abopflichtiger Inhalt); Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd-bilder/wide__822x462",
+      "image_title": "Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich"
     },
     {
       "title": "Razzia im Reichsbürgermilieu: Nancy Faeser spricht von \"Abgrund terroristischer Bedrohung\"",
@@ -283,8 +318,8 @@
       "url": "https://www.zeit.de/politik/ausland/2022-12/ungarn-blockiert-eu-hilfen-ukraine"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/razzien-rechtsextreme-verschwoerung-putsch-birgit-malsack-winkemann-afd"
+      "title": "Z+ (abopflichtiger Inhalt); Cathy Hummels: \"Ich kann krass lieben\"",
+      "url": "https://www.zeit.de/sinn/2022-12/cathy-hummels-influencerin-depressionen-shitstorm"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Reichsbürger-Verschwörung: Der Prinz, die Richterin und ein geplatzter Staatsstreich",
@@ -316,18 +351,18 @@
       "image_title": "Cathy Hummels: \"Ich kann krass lieben\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wilhelm II.: Zopf, Puder und Größenwahn",
-      "teaser": "Mit seiner machthungrigen Weltpolitik sprach Wilhelm II. vielen Bürgerlichen aus dem Herzen. Doch die Entgleisungen des letzten Hohenzollern-Kaisers waren legendär.",
-      "url": "https://www.zeit.de/zeit-geschichte/2022/06/wilhelm-ii-kaiser-deutsches-reich-erster-weltkrieg",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2022/06/zopf-puder-und-groessenwahn-bild-2/wide__822x462",
-      "image_title": "Wilhelm II.: Zopf, Puder und Größenwahn"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Vorweihnachtszeit: Ein Königreich für eine Mehrfachsteckdose",
       "teaser": "Viele Meter Lichterkette, ein Schwibbogen auf dem Dach: Im sächsischen Kamenz strahlt ein Haus heller als die anderen. Wer erleuchtet da die Nacht? Und für wen?",
       "url": "https://www.zeit.de/2022/49/vorweihnachtszeit-zuhause-geschichten-orte",
       "image_url": "https://img.zeit.de/2022/49/hier-bin-ich-welt-bild-1/wide__822x462",
       "image_title": "Vorweihnachtszeit: Ein Königreich für eine Mehrfachsteckdose"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Australien: Die Stadt der Steine und der Hitze",
+      "teaser": "Im australischen Coober Pedy findet man nicht nur Edelsteine unter der Erde, sondern auch die Wohnräume der Menschen. Wie leben sie an diesem unwirklich heißen Ort?",
+      "url": "https://www.zeit.de/zeit-magazin/2022/49/australien-hitze-leben-hoehlen-coober-pedy",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-11/australien-hitze-leben-hoehlen-coober-pedy-teaser/wide__822x462",
+      "image_title": "Australien: Die Stadt der Steine und der Hitze"
     },
     {
       "title": "Verlagsangebot: Wie können wir ein gutes Leben führen?",
@@ -381,18 +416,18 @@
       "image_title": "US-Kongress: So funktionieren Senat und Repräsentantenhaus"
     },
     {
+      "title": "Ukraine-Karte aktuell: Russische Führung streut Gerüchte über ukrainische Invasionspläne",
+      "teaser": "Kremlpropagandisten warnen vor ukrainischen Bodenangriffen auf russisches Territorium. Damit könnte die Öffentlichkeit auf neue Mobilisierungswellen vorbereitet werden.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
+      "image_title": "Ukraine-Karte aktuell: Russische Führung streut Gerüchte über ukrainische Invasionspläne"
+    },
+    {
       "title": "DIK: Union kritisiert Themen und Gäste der Islamkonferenz",
       "teaser": "Mehreren Unionspolitikern kommt das Thema Islamismus bei der diesjährigen Islamkonferenz zu kurz. Auch die Zusammensetzung wird kritisiert.",
       "url": "https://www.zeit.de/politik/deutschland/2022-12/dik-union-kritik-themen-gaesteliste",
       "image_url": "https://img.zeit.de/politik/2022-12/dik-union-kritik-themen-gaesteliste-bild/wide__822x462",
       "image_title": "DIK: Union kritisiert Themen und Gäste der Islamkonferenz"
-    },
-    {
-      "title": "Asylpolitik in Frankreich: Humanität braucht Härte",
-      "teaser": "Vor vier Wochen ließ Frankreich die \"Ocean Viking\" mit 234 Flüchtlingen in Toulon einlaufen. Sollte Marine Le Pen je Präsidentin werden, wird man sich daran erinnern.",
-      "url": "https://www.zeit.de/politik/ausland/2022-12/frankreich-asylrecht-ocean-viking-migration-emmanuel-macron",
-      "image_url": "https://img.zeit.de/politik/2022-12/frankreich-asylrecht-ocean-viking-migration-emmanuel-macron-bild/wide__822x462",
-      "image_title": "Asylpolitik in Frankreich: Humanität braucht Härte"
     },
     {
       "title": "Worträtsel: Wortiger",
@@ -402,10 +437,17 @@
       "image_title": "Worträtsel: Wortiger"
     },
     {
+      "title": "Colorado: Anklage in 305 Punkten nach Angriff auf LGBTQ-Club",
+      "teaser": "Die Staatsanwaltschaft fordert nach dem Angriff mit fünf Toten eine Bestrafung \"mit der vollen Härte des Gesetzes\". Die angeklagte Person äußerte sich nicht.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/colorado-lgbt-club-angriff-anklage",
+      "image_url": "https://img.zeit.de/gesellschaft/2022-12/colorado-lgbt-club-angriff-anklage-bild/cinema__980x420",
+      "image_title": "Colorado: Anklage in 305 Punkten nach Angriff auf LGBTQ-Club"
+    },
+    {
       "title": "Lehrermangel: Stark-Watzinger fordert leistungsorientierte Bezahlung von Lehrkräften",
-      "teaser": "Besonders engagierte Lehrerinnen und Lehrer sollten mehr Geld erhalten, sagt die Bundesbildungsministerin. Sie will den Beruf dadurch attraktiver machen. 392 Kommentare",
+      "teaser": "Besonders engagierte Lehrerinnen und Lehrer sollten mehr Geld erhalten, sagt die Bundesbildungsministerin. Sie will den Beruf dadurch attraktiver machen.",
       "url": "https://www.zeit.de/gesellschaft/schule/2022-12/lehrermangel-bettina-stark-watzinger-bezahlung-lehrkraefte",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2022-12/bundesbildungsministerin-bettina-stark-watzinger-lehrkraefte-bezahlung/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2022-12/bundesbildungsministerin-bettina-stark-watzinger-lehrkraefte-bezahlung/wide__822x462",
       "image_title": "Lehrermangel: Stark-Watzinger fordert leistungsorientierte Bezahlung von Lehrkräften"
     },
     {
@@ -414,13 +456,6 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/missbrauch-katholische-kirche-koeln-prozess",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/landgericht-koeln/wide__822x462",
       "image_title": "Missbrauch in der katholischen Kirche: Die Kirche bekommt es mit dem Rechtsstaat zu tun"
-    },
-    {
-      "title": "Fall Walter Homolka: \"Ich mache den Weg frei\"",
-      "teaser": "Walter Homolka verzichtet auf eine weitere Machtposition in der jüdischen Gemeinschaft: Der Rabbiner kandidiert nicht mehr für den Vorstand der Union progressiver Juden.",
-      "url": "https://www.zeit.de/gesellschaft/2022-12/walter-homolka-rabbiner-union-progressiver-juden-machtmissbrauch",
-      "image_url": "https://img.zeit.de/gesellschaft/2022-12/walter-homolka-rabbiner-union-progressiver-juden-machtmissbrauch-bild/wide__822x462",
-      "image_title": "Fall Walter Homolka: \"Ich mache den Weg frei\""
     },
     {
       "title": "Staatsbeteiligung: Nun ist aber mal gut",
@@ -444,18 +479,18 @@
       "image_title": "Energiekrise: Öltanker stauen sich in türkischen Gewässern"
     },
     {
+      "title": "WirtschaftsWocheKrieg, Pandemie, Lieferketten: Der nette Chef wird zum Auslaufmodell",
+      "teaser": "In der Krise besinnen sich Vorgesetzte auf klassische Führungsstile: Sie entscheiden ohne Absprache mit dem Team. Zu groß ist der Druck, zu knapp die Zeit. Der Betriebsfrieden lässt sich trotzdem wahren.",
+      "url": "https://www.wiwo.de/erfolg/management/krieg-pandemie-lieferketten-der-nette-chef-wird-zum-auslaufmodell/28850774.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/chef-krise-laterale-fuehrung-gettyimages-763162493/28850910/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Krieg, Pandemie, Lieferketten: Der nette Chef wird zum Auslaufmodell"
+    },
+    {
       "title": "WirtschaftsWocheImmobilienverkauf: Vier Tipps, wie Sie Ihre Immobilie möglichst teuer verkaufen",
       "teaser": "Die Stimmung am Immobilienmarkt hat gedreht. Kaufinteressenten spekulieren nun auf Preisnachlässe. Diese vier Tipps helfen Verkäufern dabei, trotzdem einen guten Preis herauszuholen. Ein Gastbeitrag.",
       "url": "https://www.wiwo.de/my/finanzen/immobilien/immobilienverkauf-vier-tipps-wie-sie-ihre-immobilie-moeglichst-teuer-verkaufen/28846060.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/jenfelder-au-richtfest-fuer-rund-60-eigentumswohnungen/28846090/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Immobilienverkauf: Vier Tipps, wie Sie Ihre Immobilie möglichst teuer verkaufen"
-    },
-    {
-      "title": "WirtschaftsWocheEntscheiderpanel: Erstes Jahreszeugnis der Ampel: Schlecht wie noch nie",
-      "teaser": "Ein Jahr ist die Koalition aus SPD, FDP und Grünen nun im Amt. Die Erwartungen an die neue Regierung waren groß. Doch das Civey-Entscheiderpanel für die WiWo zeigt: So wenig Vertrauen genoss die Ampel noch nie.",
-      "url": "https://www.wiwo.de/politik/deutschland/entscheiderpanel-erstes-jahreszeugnis-der-ampel-schlecht-wie-noch-nie/28841494.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/koalitionsvertrag/28849404/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Entscheiderpanel: Erstes Jahreszeugnis der Ampel: Schlecht wie noch nie"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schlaganfall bei jungen Menschen: Der fatalste Fehler ist: abzuwarten",
@@ -612,17 +647,10 @@
       "image_title": "Verlagsangebot: Englischquiz – Achtung, falsche Freunde!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Australien: Die Stadt der Steine und der Hitze",
-      "teaser": "Im australischen Coober Pedy findet man nicht nur Edelsteine unter der Erde, sondern auch die Wohnräume der Menschen. Wie leben sie an diesem unwirklich heißen Ort?",
-      "url": "https://www.zeit.de/zeit-magazin/2022/49/australien-hitze-leben-hoehlen-coober-pedy",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-11/australien-hitze-leben-hoehlen-coober-pedy-teaser/cinema__980x420",
-      "image_title": "Australien: Die Stadt der Steine und der Hitze"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Lieblingskochbücher: Kochbücher, die uns durchs Leben begleiten",
       "teaser": "Gute Kochbücher sind wie Beziehungen: Manche sind seit Jahrzehnten stabile Begleiter, andere prägen eine bestimmte Phase. Unsere persönlichen Favoriten",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-12/lieblingsrezepte-kochbuecher-lebensabschnitte-erinnerungen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/lieblingsrezepte-kochbuecher-lebensabschnitte-2/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/lieblingsrezepte-kochbuecher-lebensabschnitte-2/cinema__980x420",
       "image_title": "Lieblingskochbücher: Kochbücher, die uns durchs Leben begleiten"
     },
     {
@@ -638,6 +666,13 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2022-11/natascha-kampusch-entfuehrung-freiheit-interview",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-12/natascha-kampusch-entfuehrung-freiheit/wide__822x462",
       "image_title": "Natascha Kampusch: \"Ich steck nicht ermordet in einer Plastiktüte. Also gibt es Hoffnung\""
+    },
+    {
+      "title": "Swipe Bag: Mehr Skulptur als Accessoire",
+      "teaser": "Die Swipe Bag ist weder richtig praktisch noch bequem. Trotzdem hat es die Tasche, die auf angenehm aufregende Weise überflüssig ist, auf die Laufstege geschafft.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/49/swipe-bag-handtasche-halbmond-stil",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2022-11/luna-bag-handtasche-halbmond-stil-bild/wide__822x462",
+      "image_title": "Swipe Bag: Mehr Skulptur als Accessoire"
     },
     {
       "title": "Jeden Tag neue Gewinne!",
@@ -662,11 +697,11 @@
       "image_title": "Investieren: Schlauer anlegen"
     },
     {
-      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__350x197__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abnehmen: \"Du darfst nicht wieder zunehmen, sonst verlierst du alles\"",
@@ -809,36 +844,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Haushalt: Saar-Landtag bekräftigt: Schulden trotz Schuldenbremse nötig",
-      "url": "https://www.zeit.de/news/2022-12/07/saar-landtag-bekraeftigt-schulden-trotz-schuldenbremse-noetig"
+      "title": "Maßnahmen-Politik: AfD will Amnestie für alle Verstöße gegen Corona-Maßnahmen",
+      "url": "https://www.zeit.de/news/2022-12/07/afd-will-amnestie-fuer-alle-verstoesse-gegen-corona-massnahmen"
     },
     {
-      "title": "Konferenz: Habeck und der Neustart der deutschen Wirtschaft in Afrika",
-      "url": "https://www.zeit.de/news/2022-12/07/habeck-und-der-neustart-der-deutschen-wirtschaft-in-afrika"
+      "title": "Ravensburg: Autofahrerin kommt von Straße ab und stirbt",
+      "url": "https://www.zeit.de/news/2022-12/07/autofahrerin-kommt-von-strasse-ab-und-stirbt"
     },
     {
-      "title": "Landtag: CDU-Fraktionschef Voigt: Bewegung beim Haushalt erkennbar",
-      "url": "https://www.zeit.de/news/2022-12/07/cdu-fraktionschef-voigt-bewegung-beim-haushalt-erkennbar"
+      "title": "Hauptbahnhof: Supermarkt in Halle wegen herrenlosem Koffer geräumt",
+      "url": "https://www.zeit.de/news/2022-12/07/supermarkt-in-halle-wegen-herrenlosem-koffer-geraeumt"
     },
     {
-      "title": "Brauchtum: Wunschzettel-Flut in Christkindpostfiliale eingetroffen",
-      "url": "https://www.zeit.de/news/2022-12/07/wunschzettel-flut-in-christkindpostfiliale-eingetroffen"
+      "title": "Gewerkschaft: Polizei: Reichsbürgerszene ist Gefahr für Demokratie",
+      "url": "https://www.zeit.de/news/2022-12/07/polizei-reichsbuergerszene-ist-gefahr-fuer-demokratie"
     },
     {
-      "title": "Luftverkehr: Spanische Fluggesellschaft Vueling weitet Angebot aus",
-      "url": "https://www.zeit.de/news/2022-12/07/spanische-fluggesellschaft-vueling-weitet-angebot-aus"
+      "title": "Zollernalbkreis: Mutmaßlicher «Reichsbürger» verhaftet - Nicht während Razzia",
+      "url": "https://www.zeit.de/news/2022-12/07/mutmasslicher-reichsbuerger-verhaftet-nicht-waehrend-razzia"
     },
     {
-      "title": "Landesamt für Statistik: Zahl der Asyl-Leistungsempfänger in Thüringen kaum verändert",
-      "url": "https://www.zeit.de/news/2022-12/07/zahl-der-asyl-leistungsempfaenger-in-thueringen-kaum-veraendert"
+      "title": "Landtag: Digital-Sitzungen von Kommunalparlamenten: Regel verlängert",
+      "url": "https://www.zeit.de/news/2022-12/07/digital-sitzungen-von-kommunalparlamenten-regel-verlaengert"
     },
     {
-      "title": "Reichsbürgerszene: AfD: Unschuldsvermutung gilt auch für Malsack-Winkemann",
-      "url": "https://www.zeit.de/news/2022-12/07/afd-unschuldsvermutung-gilt-auch-fuer-malsack-winkemann"
+      "title": "Fußball-Königsklasse: Champions League live bis 2027 bei DAZN, ZDF und Amazon",
+      "url": "https://www.zeit.de/news/2022-12/07/champions-league-live-bis-2027-bei-dazn-zdf-und-amazon"
     },
     {
-      "title": "Diebstahl: Überfall auf Juwelier: Flüchtende Räuber rempeln Mann an",
-      "url": "https://www.zeit.de/news/2022-12/07/ueberfall-auf-juwelier-fluechtende-raeuber-rempeln-mann-an"
+      "title": "Wetteraukreis: Jugendzentrum im Reichelsheim mit Hakenkreuz beschmiert",
+      "url": "https://www.zeit.de/news/2022-12/07/jugendzentrum-im-reichelsheim-mit-hakenkreuz-beschmiert"
     }
   ]
 }
