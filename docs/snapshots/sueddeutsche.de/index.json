@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-07T07:16:34",
+  "timestamp": "2022-12-07T08:24:04",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -123,7 +129,7 @@
   "articles": [
     {
       "title": "Der Prinz, der Putsch und der Pöbel",
-      "teaser": "Der Generalbundesanwalt ermittelt gegen eine mutmaßliche rechte Terrorgruppe, die einen Angriff auf den Bundestag und einen gewaltsamen Staatsstreich geplant haben soll. Die Spur führt zu einem Mitglied eines früheren Adelshauses und einer ehemaligen AfD-Bundestagsabgeordneten. Und, was die Ermittler besonders beunruhigt: zu früheren Spezialkräften der Bundeswehr.",
+      "teaser": "Der Generalbundesanwalt ermittelt gegen eine mutmaßliche rechte Terrorgruppe, die einen Angriff auf den Bundestag und einen gewaltsamen Staatsstreich geplant haben soll. Die Spur führt zu einem Mitglied eines früheren Adelshauses, einer ehemaligen AfD-Bundestagsabgeordneten - und, was die Ermittler besonders beunruhigt: zu früheren Spezialkräften der Bundeswehr.",
       "url": "https://www.sueddeutsche.de/politik/reichsbuerger-afd-razzia-terror-rechtsextremismus-verschwoerungstheorie-1.5710842",
       "author": "Florian Flade und Jörg Schmitt, München",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710843/1000x420"
@@ -135,10 +141,12 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710829/208x156"
     },
     {
-      "title": "Demokrat Warnock gewinnt Stichwahl in Georgia",
-      "teaser": "Der demokratische Kandidat erhält 51,3 Prozent der Stimmen nach einem stundenlangen Kopf-an-Kopf-Rennen. Die Partei von Präsident Joe Biden kann somit ihre hauchdünne Mehrheit im US-Senat ausbauen. Für Ex-Präsident Donald Trump ist das Ergebnis eine weitere Schlappe.",
-      "url": "https://www.sueddeutsche.de/politik/usa-senat-midterms-2022-georgia-walker-warnock-sieger-1.5710819",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710820/600x337"
+      "title": "Demokraten bauen ihre Macht im Senat aus",
+      "teaser": "Bei der spannenden Stichwahl in Georgia hat der Demokrat Raphael Warnock knapp gesiegt. Die Niederlage des republikanischen Kandidaten ist auch ein weiterer Rückschlag für Donald Trump.",
+      "url": "https://www.sueddeutsche.de/politik/usa-wahlen-senat-demokraten-1.5710840",
+      "author": "Fabian Fellmann, Washington",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710841/600x337",
+      "image_title": "Raphael Warnock spricht auf einer Wahlparty in Atlanta, nachdem sich sein Sieg abzeichnet."
     },
     {
       "title": "Ein Urteil zur Unzeit",
@@ -155,19 +163,19 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5179778/208x156"
     },
     {
+      "title": "Studie zu Hilfen für die Ukraine: EU überholt die USA",
+      "teaser": "Auf 52 Milliarden Euro summieren sich die Zusagen der Europäischen Union, Deutschland wird zum größten Geber innerhalb Europas. US-Außenminister Blinken erklärt, sein Land habe die Ukraine bei Angriffen innerhalb Russlands nicht unterstützt.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-hilfen-eu-usa-1.5710811",
+      "author": "Alle Entwicklungen im Liveblog",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710856/208x156",
+      "image_title": "Panzerhaubitze 2000 der Bundeswehr während einer Übung Die Panzerhaubitze 2000 wird von den Firmen KMW Krauss-Maffei We"
+    },
+    {
       "title": "Vom Boom am Bau ist nichts übrig",
       "teaser": "Der Wohnungsbau steckt in der Krise - und die Prognosen sind düster. Dabei fehlen schon jetzt Hunderttausende bezahlbare Wohnungen.",
       "url": "https://www.sueddeutsche.de/wirtschaft/wohnungen-neubau-mieten-preise-1.5710291",
       "author": "Stephan Radomsky",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710292/600x337"
-    },
-    {
-      "title": "USA weisen Rolle bei Angriffen auf Russland von sich",
-      "teaser": "Außenminister Blinken erklärt, die USA hätten die Ukraine weder zu Angriffen innerhalb Russlands ermutigt noch ihr dabei geholfen. Polen will die deutschen \"Patriot\"-Raketen auf einmal doch.",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnenangriff-russland-usa-1.5710811",
-      "author": "Alle Entwicklungen im Liveblog",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710812/208x156",
-      "image_title": "APEC Summit 2022 in Bangkok"
     },
     {
       "title": "Ein verwundeter Ort",
@@ -181,13 +189,7 @@
       "teaser": "Von der Nacht auf Mittwoch an verhandeln fast alle Staaten der Erde auf der Weltnaturkonferenz in Montréal. Wie schwierig das wird, zeigt der erbitterte Streit um eine einzige Detailfrage.",
       "url": "https://www.sueddeutsche.de/wissen/weltnaturkonferenz-montreal-artensterben-biodiversitaet-digitale-sequenzinformationen-1.5710394",
       "author": "Tina Baier",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.4460331/600x337"
-    },
-    {
-      "title": "Vizepräsidentin Kirchner zu sechs Jahren Haft verurteilt",
-      "teaser": "Ein Gericht hat die Politikerin der Veruntreuung öffentlicher Gelder für schuldig befunden. Gegen das Urteil kann sie aber noch Berufung einlegen.",
-      "url": "https://www.sueddeutsche.de/politik/argentinien-kirchner-urteil-haft-1.5710805",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710806/208x156"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.4460331/208x156"
     },
     {
       "title": "Ermittlungen wegen Betten in Twitter-Büro",
@@ -199,11 +201,12 @@
       "title": "Wie Urlaub in der Klimakrise aussehen könnte",
       "teaser": "Das Bayerische Zentrum für Tourismus lässt Landespolitiker über zukunftsfähigen Fremdenverkehr diskutieren. Aktuell wichtigster Streitpunkt: die Frage nach den Schneekanonen.",
       "url": "https://www.sueddeutsche.de/bayern/bayern-tourismus-klimawandel-winter-1.5710454",
+      "author": "Matthias Köpf, München",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710605/600x337"
     },
     {
       "title": "Portugal legt eine Galavorstellung hin - auch ohne Ronaldo",
-      "teaser": "Die Portugiesen leben im WM-Achtelfinale ihre Lust am Fußball aus und lassen sich von der Schweiz nicht dabei stören. Ronaldo-Ersatz Goncalo Ramos trifft beim 6:1 gleich dreifach, für den Star-Stürmer selbst bleibt nur ein Abseitstor übrig.",
+      "teaser": "Die Portugiesen leben im WM-Achtelfinale ihre Lust am Fußball aus und lassen sich von der Schweiz nicht dabei stören. Ronaldo-Ersatz Goncalo Ramos trifft beim 6:1 gleich dreifach - für Ronaldo bleibt nur ein Abseitstor übrig.",
       "url": "https://www.sueddeutsche.de/sport/portugal-schweiz-achtelfinale-ramos-1.5710807",
       "author": "Philipp Selldorf, Doha",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710808/600x337"
@@ -223,11 +226,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5428824/600x337"
     },
     {
-      "title": "Gute Unterhaltung",
-      "teaser": "Man hat streckenweise den Eindruck, man chatte mit einem menschenähnlichen Wesen: Was die künstliche Intelligenz hinter dem Bot Chat GPT draufhat.",
-      "url": "https://www.sueddeutsche.de/kultur/chatgpt-kuenstliche-intelligenz-1.5709623",
-      "author": "Andrian Kreye",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710406/208x156"
+      "title": "Roberts trägt Clooney",
+      "teaser": "Die Fan-Kutte ist das klassische Outfit eines Fußball-Ultras. Aber jetzt hat Julia Roberts so etwas wie eine edle Version davon erfunden: ein Kleid zu Ehren von George Clooney.",
+      "url": "https://www.sueddeutsche.de/panorama/julia-roberts-george-clooney-moschino-kleid-fankutte-mode-1.5710538",
+      "author": "Violetta Simon",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710539/208x156"
     },
     {
       "title": "\"Dass Frauen weniger Publikum ziehen, ist Humbug\"",
@@ -259,18 +262,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710464/208x156"
     },
     {
+      "title": "München will Ausnahmen für Diesel-Verbot prüfen",
+      "teaser": "Die Stadt sieht sich massiver Kritik ausgesetzt, weil das Umland in die Entscheidung nicht einbezogen wurde. Für einen Abschnitt des Mittleren Rings im Süden stellt sie nun Zugeständnisse in Aussicht.",
+      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/muenchen-dieselfahrverbot-mittlerer-ring-umland-ausnahmen-pruefung-1.5710641",
+      "author": "Iris Hilberth, Oberhaching",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5682321/208x156"
+    },
+    {
       "title": "\"Der Meinungsfreiheit in unserer Stadt einen Bärendienst erwiesen\"",
       "teaser": "Der Streit um das abgesetzte Stück am Metropoltheater geht weiter. Nun richtet der ehemalige Grünen-Bundestagsabgeordnete Jerzy Montag Vorwürfe an Bürgermeisterin Habenschaden.",
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-voegel-metropoltheater-antisemitismus-gruene-jerzy-montag-katrin-habenschaden-1.5710655",
       "author": "Anna Hoben",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5707185/208x156"
-    },
-    {
-      "title": "Was Unfallforscher München im Kampf gegen Raser raten",
-      "teaser": "Die Versicherungswirtschaft hat erhoben, wie oft in München zu schnell gefahren wird. Die Zahlen sind rückläufig, trotzdem sind die Experten alles andere als zufrieden.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-strassenverkehr-tempo-30-tempo-50-unfallforschung-1.5710629",
-      "author": "Andreas Schubert",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5681946/208x156"
     },
     {
       "title": "Lebkuchen, die zu Luxus werden",
@@ -302,18 +305,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5709789/208x156"
     },
     {
-      "title": "Die Abschaffung der Maskenpflicht ist zumindest vertretbar",
-      "teaser": "Corona alleine ist inzwischen nicht mehr dafür verantwortlich, dass Krankenhäuser erneut am Limit sind. Und wem nichts anderes als eine immer weitere Verlängerung der Maskenpflicht einfällt, der ignoriert die strukturellen Probleme im Gesundheitswesen.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-maskenpflicht-nahverkehr-kommentar-1.5710571",
-      "author": "Kommentar von Andreas Glas",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5176215/208x156"
+      "title": "Bayern will überfüllten Kinderkliniken mit kurzfristiger Finanzspritze helfen",
+      "teaser": "Eine Welle an Infektionen mit dem RS-Virus bei Kindern trifft die Kliniken gerade mit voller Wucht. Gesundheitsminister Holetschek stellt zusätzliches Geld in Aussicht.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-kinderkliniken-holetschek-rsv-1.5710857",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5452497/208x156"
     },
     {
-      "title": "Streit um U-Ausschüsse: Opposition wirft der CSU Trickserei vor",
-      "teaser": "Bei dem Streit geht es um die Reihenfolge, in der die Ausschüsse demnächst vom Landtag beschlossen werden sollen. Der Verdacht der Opposition: Parteichef Söder soll aus der Schusslinie.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-untersuchungsausschuss-stammstrecke-zukunftsmuseum-soeder-1.5710726",
-      "author": "Andreas Glas",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5578852/208x156"
+      "title": "\"Festkleben finde ich nicht schlimm\"",
+      "teaser": "Klimakleber blockieren die Straßen, Pendler stehen im Stau. Ein Gespräch mit dem Dachauer Vorsitzenden des Bund Naturschutzes Roderich Zauscher über den Sinn des Protests, seine Grenzen und den Klimaschutz im Landkreis Dachau.",
+      "url": "https://www.sueddeutsche.de/muenchen/dachau/dachau-klimaprotest-roderich-zauscher-1.5710439",
+      "author": "Ayça Balcı, Dachau",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710698/208x156"
     },
     {
       "title": "Misstrauen im mythischen Bergdorf",
@@ -323,18 +325,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5707694/208x156"
     },
     {
-      "title": "Demokraten bauen ihre Macht im Senat aus",
-      "teaser": "Bei der spannenden Stichwahl in Georgia hat der Demokrat Raphael Warnock knapp gesiegt. Die Niederlage seines Gegners ist auch eine weitere Schlappe für Donald Trump.",
-      "url": "https://www.sueddeutsche.de/politik/usa-wahlen-senat-demokraten-1.5710840",
-      "author": "Fabian Fellmann, Washington",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710841/208x156",
-      "image_title": "Raphael Warnock spricht auf einer Wahlparty in Atlanta, nachdem sich sein Sieg abzeichnet."
-    },
-    {
       "title": "Nachrichten des Tages - die Übersicht für Eilige",
       "teaser": "Was wichtig ist und wird.",
       "url": "https://www.sueddeutsche.de/politik/news-trump-ukraine-1.5710823",
       "author": "Philipp Saul",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710822/208x156"
+    },
+    {
+      "title": "Riesen-Razzia bei Reichsbürgern",
+      "teaser": "Seit dem frühen Morgen durchsuchen Beamte in einer der größten Razzien der Geschichte bundesweit Wohnungen von Rechten und Verschwörungserzählern. Das mutmaßliche Terrornetzwerk steht im Verdacht, einen Staatsstreich geplant zu haben.",
+      "url": "https://www.sueddeutsche.de/politik/reichsbuerger-razzia-terror-festnahmen-staatsstreich-bundestag-1.5710821",
+      "author": "Florian Flade und Jörg Schmitt",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710822/208x156"
     },
     {
@@ -351,11 +352,10 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5710599/208x156"
     },
     {
-      "title": "Roberts trägt Clooney",
-      "teaser": "Die Fan-Kutte ist das klassische Outfit eines Fußball-Ultras. Aber jetzt hat Julia Roberts so etwas wie eine edle Version davon erfunden: ein Kleid zu Ehren von George Clooney.",
-      "url": "https://www.sueddeutsche.de/panorama/julia-roberts-george-clooney-moschino-kleid-fankutte-mode-1.5710538",
-      "author": "Violetta Simon",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710539/208x156"
+      "title": "Tanz den Dark Wave",
+      "teaser": "Jenna Ortega lässt sich von uralten Tanzvideos inspirieren, Billie Eilish zählt zu den einflussreichsten Frauen 2022, und Ludger Pistor kocht in Sachen Religion sein eigenes Süppchen.",
+      "url": "https://www.sueddeutsche.de/panorama/promis-promi-news-billie-eilish-jenna-ortega-netflix-ludger-pistor-bbc-hilary-duff-1.5710399",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5710404/208x156"
     },
     {
       "title": "Die Chefin ist nach zwei Monaten schon wieder weg",
