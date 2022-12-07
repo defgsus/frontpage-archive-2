@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-07T14:17:05",
+  "timestamp": "2022-12-07T15:19:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.23048cec96c34f264111",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9025a419a5c887f5e0f8",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Cacti",
+      "url": "https://www.heise.de/news/Dienste-Monitoring-Angreifer-koennen-Cacti-beliebigen-Code-unterschieben-7369455.html"
+    },
     {
       "title": "Netgear-Router",
       "url": "https://www.heise.de/news/Jetzt-patchen-Fehlkonfiguration-in-Netgear-Router-laesst-Angreifer-auf-das-Geraet-7369071.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Server-Wartung-Gefaehrliche-BMC-Luecken-koennte-Supply-Chain-Attacken-ausloesen-7367963.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-ueber-Bluetooth-auf-Android-Geraete-schieben-7367211.html"
+      "title": "Dienste-Monitoring: Angreifer können Cacti beliebigen Code unterschieben",
+      "teaser": "In der Webanwendung Cacti, die etwa zur Diensteüberwachung dient, könnten Angreifer beliebigen Code einschleusen und ausführen. Ein Patch ist verfügbar.",
+      "url": "https://www.heise.de/news/Dienste-Monitoring-Angreifer-koennen-Cacti-beliebigen-Code-unterschieben-7369455.html"
     },
     {
       "title": "Schutz kritischer Infrastrukturen: Bundesregierung bessert für Gesetz nach",
@@ -145,11 +150,6 @@
       "title": "CryWiper: Fake-Ransomware zerstört Daten insbesondere in Russland",
       "teaser": "Die Virenanalysten von Kaspersky haben den Schädling CryWiper entdeckt, der sich als Ransomware ausgibt, Daten aber unwiderbringlich zerstört.",
       "url": "https://www.heise.de/news/CryWiper-Fake-Ransomware-zerstoert-Daten-insbesondere-in-Russland-7366160.html"
-    },
-    {
-      "title": "Sicherheitsupdate: Schadcode könnte durch Sophos-Firewalls schlüpfen",
-      "teaser": "Die Entwickler des Sicherheitssoftware-Anbieters Sophos haben in hauseigenen Firewalls sieben Sicherheitslücken geschlossen. Eine gilt als kritisch.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-koennte-durch-Sophos-Firewalls-schluepfen-7366076.html"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
