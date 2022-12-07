@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-07T05:17:26",
+  "timestamp": "2022-12-07T06:24:24",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.e714b79a.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.cf0494bf.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.b63563ef.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.cbf71dc3.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.0b200ed2.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.07d52861.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Fahrer verletzt, Täter gefasst! : Autokamera filmt brutalen Taxiüberfall",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-fahrer-verletzt-autokamera-filmt-brutalen-taxiueberfall-82172358.bild.html",
-      "image_url": "https://images.bild.de/638f74436ca3217f5a889137/a5dd58f179d5cda27d5dc6b258644647,8c6006b5?w=320",
-      "image_title": "Erfurt: Fahrer verletzt – Autokamera filmt brutalen Taxiüberfall"
-    },
-    {
-      "title": "„Ich möchte sein wie die anderen Kinder“ : Pia kämpft gegen Gehirn-Schwund",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/atrophie-pia-kaempft-gegen-gehirn-schwund-82159792.bild.html",
-      "image_url": "https://images.bild.de/638e0aba408b8f3982d79cad/46b68e11377c07c3301d8347cd5f39fc,a36dc2e6?w=320",
-      "image_title": "Atrophie: Pia kämpft gegen Gehirn-Schwund"
-    },
-    {
-      "title": "Lucas (7) seit Monaten verschwunden : „Meine Ex hat meinen Sohn entführt“",
-      "url": "https://www.bild.de/bild-plus/regional/muenchen/muenchen-aktuell/lucas-7-seit-monaten-verschwunden-meine-ex-hat-meinen-sohn-entfuehrt-82159238.bild.html",
-      "image_url": "https://images.bild.de/638e054b408b8f3982d79c9f/06293b63653c2bf9168223a378df9c62,3bbf78f?w=320",
-      "image_title": "Regenstauf: Lucas verschwunden: „Meine Ex hat meinen Sohn entführt“"
-    },
-    {
-      "title": "40-Jähriger festgenommen : Mann (38) auf offener Straße erschossen",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/frankfurt-mann-38-auf-offener-strasse-erschossen-82163210.bild.html",
-      "image_url": "https://images.bild.de/638e64d97ac70f529a015510/2a6c01d696a8594d5460035adacd70b8,5d6fb0eb?w=320",
-      "image_title": "Frankfurt-Praunheim: Mann (38) auf offener Straße erschossen"
-    },
-    {
-      "title": "Schüsse, Raub, Brandstiftung : Prozess um sechs Tage Wahnsinn",
-      "url": "https://www.bild.de/bild-plus/regional/saarland/frankfurt-aktuell/schuesse-raub-brandstiftung-prozess-um-sechs-tage-wahnsinn-82167770.bild.html",
-      "image_title": "Schüsse, Raub, Brandstiftung: Prozess um sechs Tage Wahnsinn"
-    },
-    {
-      "title": "FDP-Mann liebt Ex-Pornosternchen : Mit BILD begann Anninas Karriere",
-      "teaser": "BUSEN, BILD und BINGO – das gehörte zur Jahrtausend-Wende fest zusammen!",
-      "url": "https://www.bild.de/news/inland/news-inland/annina-ucatis-und-hagen-reinhold-mit-bild-begann-anninas-karriere-82151148.bild.html",
-      "image_title": "Annina Ucatis und Hagen Reinhold: Mit BILD begann Anninas Karriere"
-    },
-    {
-      "title": "Alles, was Sie wissen müssen : Das große Lotto-ABC",
-      "teaser": "Keine Ahnung, was Lotto eigentlich ist und wie es gespielt wird? Wir sagen es Ihnen.",
-      "url": "https://www.bild.de/news/inland/news-inland/lotto-spielen-alle-begriffe-und-regeln-im-grossen-lotto-abc-77475622.bild.html",
-      "image_title": "Lotto spielen: Alle Begriffe und Regeln im großen Lotto-ABC"
-    },
-    {
-      "title": "Heute im Milaneo : Dieser Nikolaus ist ein Weltmeister!",
-      "teaser": "Unter dieser Nikolaus-Mütze versteckt sich ein vierfacher Weltmeister!",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/heute-im-milaneo-dieser-nikolaus-ist-ein-weltmeister-82165196.bild.html",
-      "image_title": "Heute im Milaneo: Dieser Nikolaus ist ein Weltmeister!"
-    },
-    {
-      "title": "18 Karat wegen Drogenhandels vor Gericht : Früher GOLD-Maske, jetzt PAPP-Hefter",
-      "teaser": "Nun musste ein Ordner herhalten. Der Rapper muss ich wegen Rauschgift verantworten.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-18-karat-wegen-drogenhandels-vor-gericht-82158216.bild.html",
-      "image_title": "Dortmund: „18 Karat“ wegen Drogenhandels vor Gericht"
-    },
-    {
-      "title": "Neues Prinzenpaar aus Krefeld : Bei uns steht MS für MEGA-STARK",
-      "teaser": "Kerstin und Markus Schaefer sind Karnevals-Prinzenpaar – und das, obwohl sie MS haben.",
-      "url": "https://www.bild.de/bild-plus/regional/duesseldorf/duesseldorf-aktuell/krefeld-neues-prinzenpaar-unheilbar-krank-bei-uns-steht-ms-fuer-mega-stark-82147640.bild.html",
-      "image_title": "Krefeld: Neues Prinzenpaar unheilbar krank: Bei uns steht MS für MEGA-STARK"
-    },
-    {
-      "title": "Dieser Künstler schockt die Kirche : Ich war das mit dem Stinkefinger-Altar!",
-      "teaser": "Im Ländle gibt es ein umstrittenes Duplikat des Altars der St.-Johannis-Kirche.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/dieser-kuenstler-schockt-die-kirche-ich-war-das-mit-dem-stinkefinger-altar-82160140.bild.html",
-      "image_title": "Dieser Künstler schockt die Kirche: Ich war das mit dem Stinkefinger-Altar!"
-    },
-    {
-      "title": "Fachkräftemangel : Hospiz in Degerloch muss schließen",
-      "teaser": "Der Fachkräftemangel im Ländle zieht immer weitere Kreise.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/fachkraeftemangel-hospiz-in-degerloch-muss-schliessen-82158242.bild.html",
-      "image_title": "Fachkräftemangel: Hospiz in Degerloch muss schließen"
-    },
-    {
-      "title": "Party-Legende Michael Ammer (61) : „Annina träumte schon immer von einem Studium“",
-      "teaser": "Michael Ammer (61) traf in seinem Nachtleben auch Porno-Star Annina Ucatis (43).",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/party-legende-michael-ammer-61-feierte-mit-ucatis-annina-traeumte-schon-immer-vo-82160960.bild.html",
-      "image_title": "Party-Legende Michael Ammer (61): „Annina träumte schon immer von einem Studium“"
-    },
-    {
-      "title": "Der Held von der Esso nebenan : Erstochen, als er seine Freundin schützen wollte",
-      "teaser": "Er wollte seine Lebensgefährtin Anja beschützen, dann war Jochen N. (54) tot.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/news-inland/der-held-von-der-esso-nebenan-tankstellen-chef-wollte-seine-freundin-schuetzen-u-82161836.bild.html",
-      "image_title": "Der Held von der Esso nebenan: Erstochen, als er seine Freundin schützen wollte"
-    },
-    {
-      "title": "Weil er die D-Mark wieder einführen will : Bundesbank droht Reichsbürger-„König“",
-      "teaser": "Fitzeks geplante Währung ruft jetzt die Bundesbank auf den Plan.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/peter-fitzek-und-die-d-mark-bundesbank-droht-reichsbuerger-koenig-82161122.bild.html",
-      "image_title": "Peter Fitzek und die D-Mark: Bundesbank droht Reichsbürger-„König“"
-    },
-    {
-      "title": "Opa mit Lieblingsessen vergiftet? : Staatsanwalt fordert lange Strafen!",
-      "teaser": "Schlimme Vorwürfe gegen zwei Frauen. Sie stehen wegen Mordes am Großvater vor Gericht.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/traunstein-prozess-gegen-angehoerige-lebenslang-haftstrafe-gefordert-82157154.bild.html",
-      "image_title": "Traunstein: Prozess gegen Angehörige - Lebenslang Haftstrafe gefordert"
-    },
-    {
-      "title": "Mitarbeiterin bedroht : Kripo jagt fiesen Kiosk-Räuber",
-      "teaser": "Es sind nur 13 Sekunden, die haben es in sich: Vermummter bedroht Kiosk-Mitarbeiterin!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/kassel-mitarbeiterin-bedroht-kripo-jagt-fiesen-kiosk-raeuber-82156802.bild.html",
-      "image_title": "Kassel: Mitarbeiterin bedroht: Kripo jagt fiesen Kiosk-Räuber"
-    },
-    {
-      "title": "Arme Rentner dürfen gratis zum Friseur : Meine neuen Haare machen mich glücklich",
-      "teaser": "Einmal waschen, föhnen und stylen – und dann ab ins Varieté. Für 0 Euro.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/arme-rentner-duerfen-gratis-zum-friseur-und-ins-variet-meine-neuen-haare-machen-82147964.bild.html",
-      "image_title": "Arme Rentner dürfen gratis zum Friseur: Meine neuen Haare machen mich glücklich"
-    },
-    {
-      "title": "München : Klima-Aktivisten kleben sich auf Straße fest",
-      "teaser": "Aktivisten der „Letzten Generation“ klebten sich erneut auf einer Straße fest.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/muenchen-klima-aktivisten-kleben-sich-auf-strasse-fest-82154342.bild.html",
-      "image_title": "München: Klima-Aktivisten kleben sich auf Straße fest"
-    },
-    {
-      "title": "Seine Leiche lag am Straßenrand : Rentner bleibt mit Auto im Schnee stecken – tot!",
-      "teaser": "Ein Mann hatte sein Auto festgefahren und offenbar vergeblich versucht, es zu befreien.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/kaiserpfalz-rentner-74-bleibt-mit-auto-im-schnee-stecken-tot-82149828.bild.html",
-      "image_title": "Kaiserpfalz: Rentner (74) bleibt mit Auto im Schnee stecken – tot!"
-    },
-    {
-      "title": "Unfall-Drama in Hessen : Fahranfänger (18) stirbt bei Frontal-Crash",
-      "teaser": "Bei einem Frontal-Crash bei Groß-Zimmern kam ein 18-Jähriger ums Leben.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/gross-zimmern-unfall-drama-fahranfaenger-18-stirbt-bei-frontal-crash-82153158.bild.html",
-      "image_title": "Groß-Zimmern: Unfall-Drama: Fahranfänger (18) stirbt bei Frontal-Crash"
-    },
-    {
-      "title": "Verfolgungsjagd nach Lkw-Klau : Polizei hielt mich für einen Dieb – und schoss!",
-      "teaser": "Als er einen Lkw-Dieb verfolgte, geriet der Eigentümer plötzlich ins Visier der Polizei!",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/verfolgungsjagd-polizei-hielt-mich-fuer-lkw-dieb-und-schoss-82147814.bild.html",
-      "image_title": "Verfolgungsjagd: Polizei hielt mich für Lkw-Dieb – und schoss!"
-    },
-    {
-      "title": "Mit 1,6 Millionen Unterschriften : Karlsruherin hilft Hebammen im Bundestag",
-      "teaser": "Michelle setzte sich für eine Gesetzesänderung im Bundestag ein.",
-      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/mit-1-6-millionen-unterschriften-karlsruherin-hilft-hebammen-im-bundestag-82149922.bild.html",
-      "image_title": "Mit 1,6 Millionen Unterschriften: Karlsruherin hilft Hebammen im Bundestag"
-    },
-    {
-      "title": "DIESES Bundesland hatte besonderes Glück : Gleich zwei Lotto-Millionäre bei Sonderziehung",
-      "teaser": "Die Lotto-Fee ist offenbar in Thüringen zu Hause.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-gleich-zwei-lotto-millionaere-bei-nikolaus-sonderziehung-82150266.bild.html",
-      "image_title": "Thüringen: Gleich zwei Lotto-Millionäre bei Nikolaus-Sonderziehung"
-    },
-    {
-      "title": "In Erfurt : Autokamera filmt brutalen Taxiüberfall",
-      "url": "https://www.bild.de/video/clip/news-inland/fahrer-verletzt-taeter-gefasst-autokamera-filmt-brutalen-taxiueberfall-82173896.bild.html",
-      "image_title": "In Erfurt: Autokamera filmt brutalen Taxiüberfall"
-    },
-    {
-      "title": "Er fackelt nicht lange : Autobahn-Polizist wird für diese Aktion gefeiert",
-      "url": "https://www.bild.de/video/clip/news-inland/er-fackelt-nicht-lange-autobahnpolizist-wird-fuer-diese-aktion-gefeiert-82172654.bild.html",
-      "image_title": "Er fackelt nicht lange: Autobahn-Polizist wird für diese Aktion gefeiert"
-    },
-    {
-      "title": "Mann ersticht Mädchen (14) und verletzt Freundin : Killer lauerte auf dem Schulweg",
-      "url": "https://www.bild.de/video/clip/news-inland/mann-ersticht-maedchen-14-und-verletzt-freundin-killer-lauerte-auf-dem-schulweg-82166678.bild.html",
-      "image_title": "Mann ersticht Mädchen (14) und verletzt Freundin: Killer lauerte auf dem Schulweg"
-    }
-  ]
+  "articles": []
 }
