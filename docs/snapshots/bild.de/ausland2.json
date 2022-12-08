@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-08T08:24:29",
+  "timestamp": "2022-12-08T09:18:39",
   "url": "https://www.bild.de/politik/ausland/politik-ausland/home-15683414.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,217 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,41786346.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "src": "https://player.h-cdn.com/loader.js?customer=bild",
       "id": null,
       "text": null
     },
     {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.9e888cb1.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.6fe0a9c9.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.33aa7b91.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.0ea1da37.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.443106d6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.d0e2c5ac.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Anklage: „Krieg gegen Gott“ : Iran exekutiert ersten Freiheits-Demonstranten",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/iran-exekutiert-ersten-freiheits-demonstranten-82187002.bild.html",
-      "image_url": "https://images.bild.de/6391894524c3101af51a8049/8bda4ad7a8af3df25b1b8ffeae183fe2,416b0c4b?w=656",
-      "image_title": "Iran exekutiert ersten Freiheits-Demonstranten"
-    },
-    {
-      "title": "Ermittlungen wegen Rebellion : Perus Präsident abgesetzt und festgenommen",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/peru-praesident-castillo-abgesetzt-und-festgenommen-82186412.bild.html",
-      "image_url": "https://images.bild.de/639140e943b2ef0f36bad459/2b31c7795a1cc7a17152b5720ec73a08,36bfa577?w=320",
-      "image_title": "Peru: Präsident Castillo abgesetzt und festgenommen"
-    },
-    {
-      "title": "Russen-Medien schockiert : Ukraine kann jetzt sogar Moskau bombardieren!",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/ukraine-kann-jetzt-sogar-moskau-bombardieren-russen-medien-schockiert-82179846.bild.html",
-      "image_url": "https://images.bild.de/639089fe43b2ef0f36bad359/3b357818c67a01fae107f6e2d1f03973,929f62d8?w=320",
-      "image_title": "Ukraine kann jetzt sogar Moskau bombardieren! Russen-Medien schockiert"
-    },
-    {
-      "title": "Kadyrow immer wahnsinniger : Putins Bluthund gründet Kinder-Armee",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/putins-bluthund-gruendet-kinder-armee-kadyrow-immer-wahnsinniger-82181334.bild.html",
-      "image_url": "https://images.bild.de/639074fb1c8f0d02f3f009db/25d18138b434f6dff7d9a5dfe7f03500,62aeae09?w=320",
-      "image_title": "Putins Bluthund gründet Kinder-Armee: Kadyrow immer wahnsinniger"
-    },
-    {
-      "title": "Bericht über Ukraine-Krieg : USA wollen, dass Deutschland Panzer liefert",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/bericht-ueber-ukraine-krieg-usa-wollen-dass-deutschland-panzer-liefert-82176828.bild.html",
-      "image_title": "Bericht über Ukraine-Krieg: USA wollen, dass Deutschland Panzer liefert"
-    },
-    {
-      "title": "Erstmals seit ihrer Rückkehr an die Macht : Taliban richten Mann öffentlich hin",
-      "teaser": "Die Taliban haben einen Mann hingerichtet – vor Hunderten Zuschauern.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/afghanistan-taliban-richten-mann-oeffentlich-hin-erstmals-nach-ihrer-macht-rueck-82179076.bild.html",
-      "image_title": "Afghanistan: Taliban richten Mann öffentlich hin – erstmals nach ihrer Macht-Rückkehr"
-    },
-    {
-      "title": "„Khamenei brachte nichts als Leiden“ : Schwester rechnet mit Iran-Diktator ab",
-      "teaser": "Badri Hosseini Khamenei spricht die Missstände an, die ihr Bruder zu verantworten hat.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/iran-diktator-ali-khamenei-eigene-schwester-rechnet-mit-ihm-ab-82176964.bild.html",
-      "image_title": "Iran-Diktator Ali Khamenei: Eigene Schwester rechnet mit ihm ab!"
-    },
-    {
-      "title": "Briten-Geheimdienst sicher : Putin fürchtet ukrainischen Einmarsch!",
-      "teaser": "Der britische Geheimdienst berichtet: Russland baut eine Verteidigungslinie auf.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/krieg-in-der-ukraine-wladimir-putin-hat-angst-vor-ukraine-einmarsch-82176718.bild.html",
-      "image_title": "Krieg in der Ukraine:Putin fürchtet ukrainischen Einmarsch!"
-    },
-    {
-      "title": "Ex-Politiker im Kreml-TV : Russland droht die Auflösung!",
-      "teaser": "Diese Talkshow im russischen Propaganda-TV hat es in sich.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/kreml-propagandist-behauptet-russland-droht-die-aufloesung-82171254.bild.html",
-      "image_title": "Kreml-Propagandist behauptet: Russland droht die Auflösung!"
-    },
-    {
-      "title": "Woke-Wahnsinn in Großbritannien : Mathematik soll „entkolonialisiert“ werden",
-      "teaser": "In Großbritannien fordert man, den Mathe-Lehrplan zu entkolonialisieren",
-      "url": "https://www.bild.de/politik/ausland/politik-inland/woke-wahnsinn-in-grossbritannien-mathe-soll-entkolonialisiert-werden-82166104.bild.html",
-      "image_title": "Woke-Wahnsinn in Großbritannien: Mathe soll „entkolonialisiert“ werden"
-    },
-    {
-      "title": "Landesweit geplant : China kündigt Corona-Lockerungen an",
-      "teaser": "Das Reich der Mitte verkündete Erleichterungen für Quarantäne, PCR-Tests und Lockdowns.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/china-kuendigt-landesweite-corona-lockerungen-an-82175132.bild.html",
-      "image_title": "China kündigt landesweite Corona-Lockerungen an"
-    },
-    {
-      "title": "Er riss ihr Lieblingspony „Dolly“ : Gibt EU-Chefin Problemwolf zum Abschuss frei?",
-      "teaser": "Brüssel schützt die Raubtiere streng. Doch in der Heimat der EU-Chefin gab es ein Blutbad.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/er-riss-ihr-lieblingspony-dolly-gibt-eu-chefin-problemwolf-zum-abschuss-frei-82168772.bild.html",
-      "image_title": "Er riss ihr Lieblingspony „Dolly“: Gibt EU-Chefin Problemwolf zum Abschuss frei?"
-    },
-    {
-      "title": "Chaos-Staat Albanien : Angriff auf Oppositionschef bei Scholz-Besuch",
-      "teaser": "Ein Unbekannter versetzte Oppositionsführer Berisha einen heftigen Schlag.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/chaos-staat-albanien-angriff-auf-oppositionschef-bei-scholz-besuch-82174920.bild.html",
-      "image_title": "Chaos-Staat Albanien: Angriff auf Oppositionschef bei Scholz-Besuch"
-    },
-    {
-      "title": "Die Herzen der Inder gewonnen : Barfuß-Baerbock!",
-      "teaser": "Die deutsche Außenministerin besucht Indien. Und merkt schnell: Wenn sie punkten will, müssen die Schuhe weg!",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/so-gewann-die-aussenministerin-die-herzen-der-inder-barfuss-baerbock-82173206.bild.html",
-      "image_title": "Die Herzen der Inder gewonnen: Barfuß-Baerbock!"
-    },
-    {
-      "title": "Das Land ist lahmgelegt : Drei Tage Streik gegen die Mullahs",
-      "teaser": "Seit diesem Montag sollen Streiks das Wirtschaftssystem der Mullahs erschüttern.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/iraner-beginnen-anti-mullah-streik-das-land-ist-lahmgelegt-82157804.bild.html",
-      "image_title": "Iraner beginnen Anti-Mullah-Streik: Das Land ist lahmgelegt"
-    },
-    {
-      "title": "Öl-Krieg des Westens gegen Russland : Treffen die neuen Strafen Putin härter – oder uns?",
-      "teaser": "Ein weltweites Preis-Limit für russische Ausfuhren tritt in Kraft – mit globalen Risiken.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-inland/energie-sanktionen-gegen-russland-trifft-der-neue-oel-krieg-putin-haerter-oder-u-82164790.bild.html",
-      "image_title": "Energie-Sanktionen gegen Russland: Trifft der neue Öl-Krieg Putin härter – oder uns?"
-    },
-    {
-      "title": "Spektakuläre Angriffe tief in Russland : Ukraine zerstört russische Atombomber!",
-      "teaser": "Kaum zu glauben: die Militärbasen sind bis zu 700 km von der Grenze zur Ukraine entfernt.",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/spektakulaerer-angriff-tief-in-russland-ukraine-zerstoert-russischen-atombomber-82166282.bild.html",
-      "image_title": "Spektakulärer Angriff tief in Russland: Ukraine zerstört russischen Atombomber!"
-    },
-    {
-      "title": "Attacken auf russische Stützpunkte : Setzte die Ukraine alte Sowjet-Drohnen ein?",
-      "teaser": "Rätselraten in der Welt: Was passiert da auf den Luftwaffenstützpunkten in Russland?",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/raetselraten-nach-attacken-auf-russische-luftwaffenstuetzpunkte-setzte-die-ukrai-82167410.bild.html",
-      "image_title": "Attacken auf russische Stützpunkte: Setzte die Ukraine alte Sowjet-Drohnen ein?"
-    },
-    {
-      "title": "Es drohen schwere Strafen : Indonesien peitscht Anti-Sex-Gesetz durch",
-      "teaser": "Indonesien macht seine Androhung wahr und verabschiedet ein fürchterliches Steinzeit-Gesetz.",
-      "url": "https://www.bild.de/ratgeber/2022/ratgeber/indonesien-steinzeit-gesetz-verabschiedet-bis-zu-ein-jahr-knast-fuer-unehelichen-82164994.bild.html",
-      "image_title": "Indonesien: Steinzeit-Gesetz verabschiedet! Bis zu ein Jahr Knast für unehelichen Sex"
-    },
-    {
-      "title": "Kreml-Diktator auf der Krim-Brücke : Hätte die Ukraine Putin hier töten können?",
-      "teaser": "Begab sich Putin in die Reichweite der ukrainischer Streitkräfte? Hätten die Ukrainer den Kreml-Despoten auf seinem Brücken-Besuch ausschalten können?",
-      "url": "https://www.bild.de/bild-plus/politik/ausland/politik-ausland/kreml-diktator-besucht-krim-bruecke-haette-die-ukraine-putin-hier-toeten-koennen-82160836.bild.html",
-      "image_title": "Kreml-Diktator auf der Krim-Brücke: Hätte die Ukraine Putin hier töten können?"
-    },
-    {
-      "title": "Kiew Grand Ballet : Auf großer Tournee in Deutschland und die Schweiz",
-      "teaser": "Das Kiew Grand Ballett aus der Ukraine zählt zu den erfolgreichsten Tournee-Ensembles in der internationalen Ballettwelt. In ihrem H...",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/kiew-grand-ballet-auf-grosser-tournee-in-deutschland-und-die-schweiz-82159402.bild.html",
-      "image_title": "Kiew Grand Ballet: Auf großer Tournee in Deutschland und die Schweiz"
-    },
-    {
-      "title": "Habeck in Namibia : Deutschland will „grüne Energie“ aus Ex-Kolonie",
-      "teaser": "Die Ampel-Regierung setzt auf eine Milliardeninvestition in Lüderitz/Namibia.",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/habeck-in-namibia-deutschland-will-gruene-energie-aus-ex-kolonie-82159784.bild.html",
-      "image_title": "Habeck in Namibia: Deutschland will „grüne Energie“ aus Ex-Kolonie"
-    },
-    {
-      "title": "Neue Aufnahmen : Putin plötzlich auf der Krim-Brücke aufgetaucht!",
-      "teaser": "Der Kreml hat ein neues Video von Russen-Diktator Wladimir Putin (70) veröffentlicht! Es soll den Despoten auf der Krim-Brücke zeigen.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/neue-aufnahmen-putin-ploetzlich-auf-der-krim-bruecke-aufgetaucht-82159816.bild.html",
-      "image_title": "Neue Aufnahmen: Putin plötzlich auf der Krim-Brücke aufgetaucht!"
-    },
-    {
-      "title": "Elon Musk teilt brisante Vorwürfe : Hat Twitter in den US-Wahlkampf eingegriffen?",
-      "teaser": "Hat Twitter im Jahr 2020 den US-Präsidentschaftswahlkampf beeinflusst? Das geht aus de...",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/hat-twitter-brisante-berichte-ueber-bidens-sohn-zensiert-neuer-bericht-von-elon-82145804.bild.html",
-      "image_title": "Elon Musk teilt brisante Vorwürfe: Hat Twitter in den US-Wahlkampf eingegriffen?"
-    },
-    {
-      "title": "Gewaltiger Angriff im Video : Ukraine zerstört russische Atombomber!",
-      "url": "https://www.bild.de/video/clip/politik-ausland/bild-lagezentrum-ukraine-zerstoert-zwei-russen-bomber-in-russland-82167680.bild.html",
-      "image_title": "Gewaltiger Angriff im Video: Ukraine zerstört russische Atombomber!"
-    },
-    {
-      "title": "BILD-Lagezentrum : Bis zum bitteren Ende: Ukraine-Drohne lässt nicht locker",
-      "url": "https://www.bild.de/bild-plus/video/clip/bild-tv/bild-lagezentrum-bis-zum-bitteren-ende-ukraine-drohne-laesst-nicht-locker-82178938.bild.html",
-      "image_title": "BILD-Lagezentrum: Bis zum bitteren Ende: Ukraine-Drohne lässt nicht locker"
-    },
-    {
-      "title": "China lenkt ein : Corona-Lockerungen angekündigt",
-      "url": "https://www.bild.de/video/clip/news-ausland/china-lenkt-ein-corona-lockerungen-angekuendigt-82175664.bild.html",
-      "image_title": "China lenkt ein: Corona-Lockerungen angekündigt"
-    }
-  ]
+  "articles": []
 }
