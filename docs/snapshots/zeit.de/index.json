@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-11T15:17:46",
+  "timestamp": "2022-12-11T16:25:03",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -86,14 +86,17 @@
   ],
   "articles": [
     {
-      "title": "Danke, dass Sie ZEIT ONLINE nutzen.",
-      "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
+      "title": "Z+ (abopflichtiger Inhalt); Mainz: Der Bürgermeister nennt es ein Wunder",
+      "teaser": "Dank BioNtech schwimmt das verschuldete Mainz im Geld. Eine Geschichte, die viel über das zweifelhafte System erzählt, mit dem Gemeinden sich finanzieren müssen.",
+      "url": "https://www.zeit.de/2022/51/mainz-biontech-haushalt-geld-steuer",
+      "image_url": "https://img.zeit.de/2022/51/meins-bild-1/cinema__980x420"
     },
     {
       "title": "Börse: Big Oil statt Big Tech",
       "teaser": "Apple, Microsoft, Google, Amazon und Facebook waren die Börsenstars der letzten zwei Dekaden. Ihre Produkte aber sind in die Jahre gekommen, die Kurse fallen. War's das?",
       "url": "https://www.zeit.de/wirtschaft/2022-12/big-tech-gafa-aktienmarkt-boersenverluste",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-12/big-tech-gafa-aktienmarkt-boersenverluste-bild-2/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2022-12/big-tech-gafa-aktienmarkt-boersenverluste-bild-2/wide__822x462",
+      "image_title": "Börse: Big Oil statt Big Tech"
     },
     {
       "title": "Liveblog: Ukraine-Krieg: Hafen von Odessa nach Angriffen auf Energienetz außer Betrieb",
@@ -101,13 +104,6 @@
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
       "image_url": "https://img.zeit.de/politik/ausland/2022-12/ukraine-krieg-russland-odessa-hafen/wide__822x462",
       "image_title": "Ukraine-Krieg: Hafen von Odessa nach Angriffen auf Energienetz außer Betrieb"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Autobranche in Russland: So platzt ein weiterer Traum der Putin-Ära",
-      "teaser": "Erschwingliche Autos aus heimischer Produktion waren für viele Russen ein Wohlstandssymbol. Nun liegt die Branche in Trümmern. Und selbst China kann sie nicht retten.",
-      "url": "https://www.zeit.de/wirtschaft/2022-12/russland-autobranche-wladimir-putin-pkw-produktion-china",
-      "image_url": "https://img.zeit.de/wirtschaft/ausland/2022-12/russland-autobranche-wladimir-putin/wide__822x462",
-      "image_title": "Autobranche in Russland: So platzt ein weiterer Traum der Putin-Ära"
     },
     {
       "title": "Anschlag von 1988: FBI nimmt mutmaßlichen Lockerbie-Bombenbauer fest",
@@ -120,8 +116,15 @@
       "title": "Z+ (abopflichtiger Inhalt); Programmierer: \"Dieses Jahr spende ich ungefähr 18.000 Euro\"",
       "teaser": "Ralph, 34, hat Politik studiert, arbeitet aber als Programmierer. Er verdient heute dreimal so viel wie früher, lebt in einer WG und spendet alles, was er nicht braucht.",
       "url": "https://www.zeit.de/arbeit/2022-12/programmierer-informatik-gehalt-spende-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2022-12/programmierer/cinema__980x420",
+      "image_url": "https://img.zeit.de/arbeit/2022-12/programmierer/wide__822x462",
       "image_title": "Programmierer: \"Dieses Jahr spende ich ungefähr 18.000 Euro\""
+    },
+    {
+      "title": "Zweitmalignome: Der Krebs lange nach dem Krebs",
+      "teaser": "Jahrzehnte nach einer Behandlung im Kindesalter können sich manchmal neue Tumore bilden. Das Risiko dafür lässt sich jedoch immer besser absenken.",
+      "url": "https://www.zeit.de/gesundheit/2022-12/zweitmalignome-krebs-tumor-vorsorge",
+      "image_url": "https://img.zeit.de/gesundheit/2022-12/zweitmalignome-krebs-tumor-vorsorge-bild/cinema__980x420",
+      "image_title": "Zweitmalignome: Der Krebs lange nach dem Krebs"
     },
     {
       "title": "EU und Korruption: Transparency International fordert unabhängige Ethikkommission",
@@ -263,32 +266,25 @@
       "image_title": "Artensterben und Klimawandel: Die Welt nach der Motte"
     },
     {
-      "title": "Migration: Rettungsschiffe bringen mehr als 500 Migranten in italienische Häfen",
-      "teaser": "Zwei private Rettungsschiffe haben mit Migranten in den Häfen von Bari und Salerno angelegt. Italien will aber weiter an seiner restriktiven Migrationspolitik festhalten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/migration-seenotrettung-mittelmeer-fluechtlinge-italien",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/bari-italien-migranten-mittelmeer/wide__822x462",
-      "image_title": "Migration: Rettungsschiffe bringen mehr als 500 Migranten in italienische Häfen"
+      "title": "Z+ (abopflichtiger Inhalt); Stefan Kölsch über \"Sunday Scaries\": \"Negative Gedanken vergiften einen Großteil der Lebenszeit\"",
+      "teaser": "Sonntagabend und die Laune ist dahin? Das ist Risikoaversion, sagt ein Hirnforscher. Er erklärt den Sonntagsblues und wie man ihn in drei Schritten überwindet.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2022-10/stefan-koelsch-sunday-scaries-arbeit-angst-hirnforschung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-10/stefan-koelsch-sunday-scaries-arbeit-angst-hirnforschung-bild/wide__822x462",
+      "image_title": "Stefan Kölsch über \"Sunday Scaries\": \"Negative Gedanken vergiften einen Großteil der Lebenszeit\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Stress: Schluss mit dem Druck",
-      "teaser": "Wie kann man einem Burn-out vorbeugen und die Resilienz steigern? Hier schreibt der Psychologe Louis Lewitan, was er Menschen rät, die sich weniger stressen wollen.",
-      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2022/03/stress-psychologe-burn-out-resilienz",
-      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2022/03/schluss-mit-dem-druck-bild-1/wide__822x462",
-      "image_title": "Stress: Schluss mit dem Druck"
+      "title": "Z+ (abopflichtiger Inhalt); Langzeitarbeitslosigkeit: Ein Doktor stockt auf",
+      "teaser": "Michael Winkler hat studiert und promoviert – und ist seit der Einführung von Hartz IV arbeitslos. Alle erwarten, dass er einen Job findet. Aber muss er das überhaupt?",
+      "url": "https://www.zeit.de/arbeit/2022-02/langzeitarbeitslosigkeit-akademiker-doktortitel-hartz-iv",
+      "image_url": "https://img.zeit.de/arbeit/2022-02/langzeitarbeitslosigkeit-akademiker-doktortitel-hartz-iv-teaser/wide__822x462",
+      "image_title": "Langzeitarbeitslosigkeit: Ein Doktor stockt auf"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Trennung: Nur den Kindern zuliebe zusammenbleiben – geht das?",
-      "teaser": "Wenn Paare sich der Familie wegen nicht trennen, leiden oft die Kinder. Paartherapeut Wolfgang Schmidbauer rät, in einer solchen Lage das kleinste Übel zu suchen.",
-      "url": "https://www.zeit.de/zeit-magazin/2022/21/trennung-kinder-paartherapie",
-      "image_url": "https://img.zeit.de/zeit-magazin/2021-05/paartherapeut-wolfgang-schmidbauer-bild/wide__822x462",
-      "image_title": "Trennung: Nur den Kindern zuliebe zusammenbleiben – geht das?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Illegale Silikoninjektion: Atme, Bruder!",
-      "teaser": "Nach einer illegalen Penisvergrößerung liegt Martin im Sterben. Ihm wurde billiges Bausilikon gespritzt. Seine Schwester nimmt den Kampf auf – gegen Tod und Täter.",
-      "url": "https://www.zeit.de/zeit-verbrechen/2022/17/illegale-silikoninjektion-penisverlaengerung-koerperverletzung-tod",
-      "image_url": "https://img.zeit.de/zeit-verbrechen/2022/17/illegale-silikoninjektion-penisverlaengerung-koerperverletzung-tod-bild/wide__822x462",
-      "image_title": "Illegale Silikoninjektion: Atme, Bruder!"
+      "title": "Z+ (abopflichtiger Inhalt); Alte Liebe: Ein Anruf, der alles verändert",
+      "teaser": "Vor der Verlobung hat ihr Freund eine Ferienaffäre. Doch es stört die Beziehung nicht. Sie heiraten, bekommen Kinder. Dann klingelt 50 Jahre später das Telefon.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/30/alte-liebe-kontaktaufnahme-emotionen-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-07/alte-liebe-kontaktaufnahme-liebeskolumne/wide__822x462",
+      "image_title": "Alte Liebe: Ein Anruf, der alles verändert"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Robo-Advisor: Das Geld in der Maschine",
@@ -360,8 +356,8 @@
       "url": "https://www.zeit.de/wirtschaft/2022-12/russland-autobranche-wladimir-putin-pkw-produktion-china"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungsproblem Libido: \"Sie braucht es zweimal im Monat, ich alle zwei Tage\"",
-      "url": "https://www.zeit.de/zeit-magazin/2022-11/libido-beziehungsproblem-emotionale-distanz-die-sextagebuecher"
+      "title": "Z+ (abopflichtiger Inhalt); Alzheimer: Hoffnung, nach 100 Jahren Forschung",
+      "url": "https://www.zeit.de/2022/51/alzheimer-therapie-virtuelle-realitaet-gehirn"
     },
     {
       "title": "Rentenpolitik: Olaf Scholz will Andrang auf vorzeitigen Renteneintritt abschwächen",
@@ -410,8 +406,8 @@
       "url": "https://www.zeit.de/politik/ausland/2022-12/ukraine-ueberblick-ereignisse-tuerkei-odessa-2022-12-11"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungsproblem Libido: \"Sie braucht es zweimal im Monat, ich alle zwei Tage\"",
-      "url": "https://www.zeit.de/zeit-magazin/2022-11/libido-beziehungsproblem-emotionale-distanz-die-sextagebuecher"
+      "title": "Z+ (abopflichtiger Inhalt); Alzheimer: Hoffnung, nach 100 Jahren Forschung",
+      "url": "https://www.zeit.de/2022/51/alzheimer-therapie-virtuelle-realitaet-gehirn"
     },
     {
       "title": "Leipziger Erklärung: Linke grenzt sich mit Papier von Sahra Wagenknecht ab",
@@ -425,18 +421,18 @@
       "image_title": "Fernbeziehung im Ukraine-Krieg: Sie: \"Die Kinder fragen nach dir.\" Er: \"Ich vermisse euch so sehr.\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Autobranche in Russland: So platzt ein weiterer Traum der Putin-Ära",
+      "teaser": "Erschwingliche Autos aus heimischer Produktion waren für viele Russen ein Wohlstandssymbol. Nun liegt die Branche in Trümmern. Und selbst China kann sie nicht retten.",
+      "url": "https://www.zeit.de/wirtschaft/2022-12/russland-autobranche-wladimir-putin-pkw-produktion-china",
+      "image_url": "https://img.zeit.de/wirtschaft/ausland/2022-12/russland-autobranche-wladimir-putin/wide__822x462",
+      "image_title": "Autobranche in Russland: So platzt ein weiterer Traum der Putin-Ära"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Alzheimer: Hoffnung, nach 100 Jahren Forschung",
       "teaser": "Vergesslich, orientierungslos, irgendwann gar sprachlos: Die Alzheimer-Demenz zerstört Leben. Nun haben Forscher ein Mittel entdeckt, das wirken könnte.",
       "url": "https://www.zeit.de/2022/51/alzheimer-therapie-virtuelle-realitaet-gehirn",
       "image_url": "https://img.zeit.de/2022/51/ein-licht-im-dunkel-bild-1/wide__822x462",
       "image_title": "Alzheimer: Hoffnung, nach 100 Jahren Forschung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lebenszeituhr: \"Zeit ist eine viel härtere Währung als Geld\"",
-      "teaser": "Der Werber Jean-Remy von Matt hat eine Uhr entwickelt, die anzeigen soll, wie lange er noch leben wird. Macht ihn das glücklich?",
-      "url": "https://www.zeit.de/2022/51/lebenszeit-uhr-jean-remy-von-matt",
-      "image_url": "https://img.zeit.de/2022/51/wie-viel-zeit-bleibt-mir-noch-bild-1/wide__822x462",
-      "image_title": "Lebenszeituhr: \"Zeit ist eine viel härtere Währung als Geld\""
     },
     {
       "title": "Verlagsangebot: 6 magische Zugreisen – Der Weg ist das Ziel",
@@ -511,10 +507,17 @@
       "image_title": "Worträtsel: Wortiger"
     },
     {
+      "title": "Migration: Rettungsschiffe bringen mehr als 500 Migranten in italienische Häfen",
+      "teaser": "Zwei private Rettungsschiffe haben mit Migranten in den Häfen von Bari und Salerno angelegt. Italien will aber weiter an seiner restriktiven Migrationspolitik festhalten.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2022-12/migration-seenotrettung-mittelmeer-fluechtlinge-italien",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2022-12/bari-italien-migranten-mittelmeer/cinema__980x420",
+      "image_title": "Migration: Rettungsschiffe bringen mehr als 500 Migranten in italienische Häfen"
+    },
+    {
       "title": "Sachsen: Geiselnehmer von Dresden ist tot",
-      "teaser": "Der Geiselnehmer von Dresden starb an den Verletzungen, die er bei der SEK-Befreiung erlitt. Zuvor soll er in eine Redaktion geschossen und seine Mutter getötet haben. 256 Kommentare",
+      "teaser": "Der Geiselnehmer von Dresden starb an den Verletzungen, die er bei der SEK-Befreiung erlitt. Zuvor soll er in eine Redaktion geschossen und seine Mutter getötet haben.",
       "url": "https://www.zeit.de/gesellschaft/2022-12/geiselnehmer-dresden-tot-altmarkt-galerie-polizei-sachsen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-12/altmarktgalerie-dresden-geiselnahme-taeter-tot/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2022-12/altmarktgalerie-dresden-geiselnahme-taeter-tot/wide__822x462",
       "image_title": "Sachsen: Geiselnehmer von Dresden ist tot"
     },
     {
@@ -523,13 +526,6 @@
       "url": "https://www.zeit.de/2022/51/anmassung-dokumentarfilm-sexualstraftaeter-3sat",
       "image_url": "https://img.zeit.de/2022/51/der-moerder-ein-bilderraetsel-bild-1/wide__822x462",
       "image_title": "Dokumentarfilm \"Anmaßung\": Bild eines Mörders"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bildungssystem: Wer blockiert hier wen?",
-      "teaser": "Deutschland steckt in der Bildungskrise, doch Bund und Länder schieben sich gegenseitig die Verantwortung zu. Ein Streitgespräch darüber, was sich jetzt ändern muss",
-      "url": "https://www.zeit.de/2022/51/bildungssystem-krise-bettina-stark-watzinger-karin-prien",
-      "image_url": "https://img.zeit.de/2022/51/wer-blockiert-hier-wen-bild-1/wide__822x462",
-      "image_title": "Bildungssystem: Wer blockiert hier wen?"
     },
     {
       "title": "Iran: Proteste drücken iranische Währung auf Tiefstwert",
@@ -771,11 +767,11 @@
       "image_title": "Ausbildung: \"Ich bin nicht weniger schlau, weil ich eine Ausbildung mache\""
     },
     {
-      "title": "Verlagsangebot Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einwanderungsgeschichte: Schafft den \"Migrationshintergrund\" endlich ab!",
@@ -918,36 +914,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Brandenburg an der Havel: Autofahrer liefert sich Verfolgungsjagd mit der Polizei",
-      "url": "https://www.zeit.de/news/2022-12/11/autofahrer-liefert-sich-verfolgungsjagd-mit-der-polizei"
+      "title": "Eishockey: Eisbären kassieren Heimniederlage bei Hördlers Jubiläum",
+      "url": "https://www.zeit.de/news/2022-12/11/eisbaeren-kassieren-heimniederlage-bei-hoerdlers-jubilaeum"
     },
     {
-      "title": "Arbeitsmarkt: Vereinfachter Zugang zur Kurzarbeit bleibt bis Ende Juni",
-      "url": "https://www.zeit.de/news/2022-12/11/vereinfachter-zugang-zur-kurzarbeit-bleibt-bis-ende-juni"
+      "title": "Berlin: Feuerwehrleute protestieren für bessere Arbeitsbedingungen",
+      "url": "https://www.zeit.de/news/2022-12/11/feuerwehrleute-protestieren-fuer-bessere-arbeitsbedingungen"
     },
     {
-      "title": "Religion: Bätzing würdigt ehemaligen Erzbischof als Brückenbauer",
-      "url": "https://www.zeit.de/news/2022-12/11/baetzing-wuerdigt-ehemaligen-erzbischof-als-brueckenbauer"
+      "title": "Basektball: Rostock Seawolves müssen sich auch Oldenburg beugen",
+      "url": "https://www.zeit.de/news/2022-12/11/rostock-seawolves-muessen-sich-auch-oldenburg-beugen"
     },
     {
-      "title": "Türkei: Erdogan kündigt für 2023 letzte Kandidatur an",
-      "url": "https://www.zeit.de/news/2022-12/11/erdogan-kuendigt-fuer-2023-letzte-kandidatur-an"
+      "title": "Verkehr: Fahrplanwechsel bei Bahn und Bussen in Thüringen",
+      "url": "https://www.zeit.de/news/2022-12/11/fahrplanwechsel-bei-bahn-und-bussen-in-thueringen"
     },
     {
-      "title": "Handball: Füchse Berlin verlieren Spitzenspiel gegen SC Magdeburg",
-      "url": "https://www.zeit.de/news/2022-12/11/fuechse-berlin-verlieren-spitzenspiel-gegen-sc-magdeburg"
+      "title": "Reiter- und Jagdmesse: Mehr als 70.000 Besucher auf der «Pferd & Jagd»",
+      "url": "https://www.zeit.de/news/2022-12/11/mehr-als-70-000-besucher-auf-der-pferd-jagd"
     },
     {
-      "title": "Italien: Rettungsschiffe bringen mehr als 500 Migranten an Land",
-      "url": "https://www.zeit.de/news/2022-12/11/rettungsschiffe-bringen-mehr-als-500-migranten-an-land"
+      "title": "Hamburger Schauspielhaus: Publikum spendet 6000 Euro für Iran-Freiheitsbewegung",
+      "url": "https://www.zeit.de/news/2022-12/11/publikum-spendet-6000-euro-fuer-iran-freiheitsbewegung"
     },
     {
-      "title": "Landespolitik: Automatensprengungen: Banken wehren sich gegen Kritik",
-      "url": "https://www.zeit.de/news/2022-12/11/automatensprengungen-banken-wehren-sich-gegen-kritik"
+      "title": "Tischtennis: Eastside-Youngster Neumann rettet Punkt gegen Langstadt",
+      "url": "https://www.zeit.de/news/2022-12/11/eastside-youngster-neumann-rettet-punkt-gegen-langstadt"
     },
     {
-      "title": "Terrorismus: Mutmaßlicher Lockerbie-Bombenbauer in US-Gewahrsam",
-      "url": "https://www.zeit.de/news/2022-12/11/mutmasslicher-lockerbie-bombenbauer-in-us-gewahrsam"
+      "title": "Unfall: Frau nach Unfall mit Straßenbahn in Mainz gestorben",
+      "url": "https://www.zeit.de/news/2022-12/11/frau-nach-unfall-mit-strassenbahn-in-mainz-gestorben"
     }
   ]
 }
