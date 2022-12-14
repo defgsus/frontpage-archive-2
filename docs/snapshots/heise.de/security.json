@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-14T08:24:20",
+  "timestamp": "2022-12-14T09:18:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,27 +25,32 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.46542fdb1b283b4cc57a",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.e302778bd347432a76c8",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Angreifer-koennten-Schadcode-auf-Systeme-schieben-7393935.html"
+    },
+    {
+      "title": "Citrix ADC und Gateway",
+      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Citrix-ADC-und-Gateway-wird-angegriffen-7393898.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchdday-Schutzmechanismus-von-Windows-ausgehebelt-7393806.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-14-neue-Sicherheitsmeldungen-im-Dezember-7392718.html"
     },
     {
-      "title": "FortiOS Zero-Day",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Zero-Day-Luecke-in-FortiOS-wird-angegriffen-7392455.html"
-    },
-    {
-      "title": "Cisco IP Phone 7800, 8800",
-      "url": "https://www.heise.de/news/Bei-Anruf-Schadcode-Attacken-auf-IP-Telefone-von-Cisco-moeglich-7371588.html"
-    },
-    {
-      "title": "Cacti",
-      "url": "https://www.heise.de/news/Dienste-Monitoring-Angreifer-koennen-Cacti-beliebigen-Code-unterschieben-7369455.html"
+      "title": "Kritische Zero-Day-Lücke in Citrix ADC und Gateway wird angegriffen",
+      "teaser": "Angreifer missbrauchen derzeit eine Sicherheitslücke in Citrix Gateway und ADC, um beliebigen Code auf die Maschinen zu schleusen und auszuführen.",
+      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Citrix-ADC-und-Gateway-wird-angegriffen-7393898.html"
     },
     {
       "title": "IT-Security – Alternativen für fehlendes Sicherheits-Personal",
@@ -75,6 +80,16 @@
       "teaser": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt. Mit 10% Rabatt bis 9.1.23.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-7366481.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "Jetzt patchen! Kritische Zero-Day-Lücke in FortiOS wird angegriffen",
+      "teaser": "Fortinet meldet eine kritische Sicherheitslücke in FortiOS. Cyberkriminelle missbrauchen diese bereits für Angriffe. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Zero-Day-Luecke-in-FortiOS-wird-angegriffen-7392455.html"
+    },
+    {
+      "title": "Sparkassen warnen vor Phishing-SMS zur pushTAN",
+      "teaser": "SMS zu einer angeblich endenden \"S-pushTAN Verbindung\" sollen Menschen auf eine Phishing-Seite locken. Davor warnt die Sparkassen-Finanzgruppe dringend.",
+      "url": "https://www.heise.de/news/Sparkassen-warnen-vor-Phishing-SMS-zur-pushTAN-7388926.html"
     },
     {
       "title": "Ransomware: US-Ministerium warnt vor Bedrohung von Gesundheitseinrichtungen",
@@ -141,22 +156,6 @@
       "url": "https://www.heise.de/news/Hosted-Exchange-Anbieter-Rackspace-Opfer-von-Cyber-Angriff-7370011.html"
     },
     {
-      "title": "iCloud: Apple bringt Ende-zu-Ende-Verschlüsselung für Backups und Fotos",
-      "teaser": "iCloud-Daten lassen sich bald erheblich besser absichern. Apple hat weitere grundlegende Sicherheitsneuerungen für iMessage und Apple-ID in Aussicht gestellt.",
-      "url": "https://www.heise.de/news/iCloud-Apple-bringt-Ende-zu-Ende-Verschluesselung-fuer-Backups-und-Fotos-7369855.html",
-      "image_title": "Apple Fotos"
-    },
-    {
-      "title": "Dienste-Monitoring: Angreifer können Cacti beliebigen Code unterschieben",
-      "teaser": "In der Webanwendung Cacti, die etwa zur Diensteüberwachung dient, könnten Angreifer beliebigen Code einschleusen und ausführen. Ein Patch ist verfügbar.",
-      "url": "https://www.heise.de/news/Dienste-Monitoring-Angreifer-koennen-Cacti-beliebigen-Code-unterschieben-7369455.html"
-    },
-    {
-      "title": "Schutz kritischer Infrastrukturen: Bundesregierung bessert für Gesetz nach",
-      "teaser": "Das Innenministerium hat einiges am Entwurf für ein Kritis-Dachgesetz geändert. Es gibt nun unter anderem Finanzierungsvorbehalte und neue Bereiche.",
-      "url": "https://www.heise.de/news/Schutz-kritischer-Infrastrukturen-Bundesregierung-bessert-fuer-Gesetz-nach-7369304.html"
-    },
-    {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
       "teaser": "Der ideale Zeitpunkt auf einen Passwort-Manager anstatt auf Passwort-Schemas, einer Loseblattsammlung oder Browser-Verwaltung zu setzen, ist: jetzt!",
       "url": "https://www.heise.de/hintergrund/Wechsel-zum-Passwort-Manager-ein-wenig-Arbeit-ein-grosser-Sicherheitszugewinn-7358142.html"
@@ -172,6 +171,11 @@
       "url": "https://www.heise.de/hintergrund/MS-Office-So-funktioniert-der-neue-Office-Makroschutz-7164134.html"
     },
     {
+      "title": "Re: Finde Windows Partition nicht",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Finde-Windows-Partition-nicht/posting-42018921/show/"
+    },
+    {
       "title": "Minibericht: Syslock.exe nach Fake Microsoft Support Scam - keine Treffer",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Minibericht-Syslock-exe-nach-Fake-Microsoft-Support-Scam-keine-Treffer/posting-42015549/show/"
@@ -180,11 +184,6 @@
       "title": "Re: CobaltStrike auf Exchange-Server gefunden?????",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-CobaltStrike-auf-Exchange-Server-gefunden/posting-42008377/show/"
-    },
-    {
-      "title": "Re: Desinfect 2022 Zugriff verweigert error 5",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2022-Zugriff-verweigert-error-5/posting-42004499/show/"
     }
   ]
 }
