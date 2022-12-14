@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-14T11:15:36",
+  "timestamp": "2022-12-14T12:36:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-acht-Sicherheitslecks-ab-7394554.html"
+    },
+    {
+      "title": "Firefox & Thunderbird",
+      "url": "https://www.heise.de/news/Firefox-108-und-Thunderbird-102-6-bessern-Schwachstellen-aus-7394105.html"
+    },
+    {
       "title": "iOS 16.2, macOS 13.1",
       "url": "https://www.heise.de/news/iOS-16-2-und-macOS-13-1-Apple-behebt-zahlreiche-Sicherheitsluecken-und-Zero-Days-7393725.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-in-VMware-Anwendungen-geschlossen-7393971.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Angreifer-koennten-Schadcode-auf-Systeme-schieben-7393935.html"
+      "title": "Webbrowser: Chrome-Update dichtet acht Sicherheitslecks ab",
+      "teaser": "Google hat eine aktualisierte Version des Webbrowsers Chrome bereitgestellt. Sie schließt mindestens vier hochriskante Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-acht-Sicherheitslecks-ab-7394554.html",
+      "image_title": "Google Chrome Update"
     },
     {
-      "title": "Citrix ADC und Gateway",
-      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Citrix-ADC-und-Gateway-wird-angegriffen-7393898.html"
+      "title": "Firefox 108 und Thunderbird 102.6 bessern Schwachstellen aus",
+      "teaser": "Die neuen Versionen 108 von Firefox sowie 102.6 von Firefox ESR und Thunderbird schließen vorrangig Sicherheitslücken. Kleine Verbesserungen gab es aber auch.",
+      "url": "https://www.heise.de/news/Firefox-108-und-Thunderbird-102-6-bessern-Schwachstellen-aus-7394105.html"
     },
     {
       "title": "Continental: IT-Einbruch erfolgte über heruntergeladenen Browser von Mitarbeiter",
@@ -142,17 +153,6 @@
       "title": "Geschichte der Ransomware, Teil 1: Erpressung per Diskette",
       "teaser": "Auftakt eines Dreiteilers zur Geschichte der Ransomware: Die AIDS-Diskette forderte bereits 1989 Lösegeld. Und: Akademiker inspirierten spätere Erpresser.",
       "url": "https://www.heise.de/hintergrund/Geschichte-der-Ransomware-Teil-1-AIDS-Trojaner-Schadcode-per-Diskette-7366122.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser"
-    },
-    {
-      "title": "Anonym surfen: Tor-Browser 12.0 bringt Unterstützung für Apple-CPUs",
-      "teaser": "Die Entwickler des Tor-Projekts haben in Version 12.0 viele Verbesserungen in den Browser einfließen lassen. Neu ist etwa die Unterstützung von Apple Silicon.",
-      "url": "https://www.heise.de/news/Anonym-surfen-Tor-Browser-12-0-bringt-Unterstuetzung-fuer-Apple-CPUs-7371826.html",
-      "image_title": "Tor Brwoser 12.0 Oberfläche"
-    },
-    {
-      "title": "Bei Anruf Schadcode: Attacken auf IP-Telefone von Cisco möglich",
-      "teaser": "Ein wichtiges Sicherheitsupdate schließt eine Sicherheitslücke in zwei IP-Telefon-Serien von Cisco.",
-      "url": "https://www.heise.de/news/Bei-Anruf-Schadcode-Attacken-auf-IP-Telefone-von-Cisco-moeglich-7371588.html"
     },
     {
       "title": "Von Null auf Passwort-Manager – etwas Aufwand, großer Sicherheitsgewinn",
