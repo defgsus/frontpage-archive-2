@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-19T09:17:52",
+  "timestamp": "2022-12-19T10:21:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP BIOS",
+      "url": "https://www.heise.de/news/HP-kuemmert-sich-mit-BIOS-Updates-um-Schadcode-Luecken-7398783.html"
+    },
+    {
       "title": "Samba",
       "url": "https://www.heise.de/news/Kerberos-Authentifizierung-Sicherheitsprobleme-in-Samba-geloest-7398704.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Typo3-Neue-Fassungen-schliessen-hochriskante-Sicherheitsluecke-7395790.html"
     },
     {
-      "title": "Veeam & mehr",
-      "url": "https://www.heise.de/news/US-Behoerde-CISA-warnt-vor-Angriffen-etwa-auf-Veeam-7394722.html"
+      "title": "HP kümmert sich mit BIOS-Updates um Schadcode-Lücken",
+      "teaser": "Sicherheitsupdates schließen mehrere Schwachstellen in HP-Computern. Einige Lücken betreffen ausschließlich AMD-Systeme.",
+      "url": "https://www.heise.de/news/HP-kuemmert-sich-mit-BIOS-Updates-um-Schadcode-Luecken-7398783.html"
     },
     {
       "title": "Kerberos-Authentifizierung: Sicherheitsprobleme in Samba gelöst",
@@ -146,11 +151,6 @@
       "title": "Kritische Zero-Day-Lücke in Citrix ADC und Gateway wird angegriffen",
       "teaser": "Angreifer missbrauchen derzeit eine Sicherheitslücke in Citrix Gateway und ADC, um beliebigen Code auf die Maschinen zu schleusen und auszuführen.",
       "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Citrix-ADC-und-Gateway-wird-angegriffen-7393898.html"
-    },
-    {
-      "title": "Patchday: Schutzmechanismus von Windows ausgehebelt",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für Azure, Office, Windows & Co, veröffentlicht. Eine Windows-Lücke nutzen Angreifer bereits aus.",
-      "url": "https://www.heise.de/news/Patchdday-Schutzmechanismus-von-Windows-ausgehebelt-7393806.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
