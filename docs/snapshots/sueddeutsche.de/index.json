@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-21T15:19:22",
+  "timestamp": "2022-12-21T16:26:14",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -122,17 +128,18 @@
   ],
   "articles": [
     {
+      "title": "Wie die \"Patriots\" der Ukraine helfen können",
+      "teaser": "Nach langem Zögern hat US-Präsident Joe Biden der Ukraine das leistungsfähige Flugabwehrsystem zugesagt. Vor allem eine Bedrohung wird dadurch kleiner. Doch \"Patriots\" haben auch Schwachstellen.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/patriots-flugabwehrsystem-ukraine-e301085/",
+      "author": "Sebastian Gierke",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719816/1000x420"
+    },
+    {
       "title": "Selenskijs Besuch beim starken Bruder",
       "teaser": "Die spektakuläre Reise des ukrainischen Präsidenten ins Weiße Haus zeigt: Unter Joe Biden wollen die USA Führungsmacht der freien Welt bleiben. Für den Kriegsherrn in Moskau sind das schlechte Nachrichten.",
       "url": "https://www.sueddeutsche.de/meinung/joe-biden-wolodimir-selenskij-usa-ukraine-krieg-oval-office-weisses-haus-kommentar-1.5719743",
       "author": "Kommentar von Stefan Kornelius",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719744/1000x420"
-    },
-    {
-      "title": "Putin fordert schnellere Aufrüstung seiner Armee",
-      "teaser": "Der Kremlchef zeigt sich weiterhin überzeugt, dass Russland die Ukraine besiegen wird. Überraschend empfängt Chinas Staatschef Xi den früheren russischen Präsidenten Medwedjew.",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-news-putin-rede-xi-medwedew-usa-patriot-1.5718043",
-      "author": "Alle Entwicklungen im Liveblog"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719744/290x163"
     },
     {
       "title": "Der große Ausverkauf",
@@ -142,24 +149,73 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719691/208x156"
     },
     {
+      "title": "\"Als Krankenpflegerin sollte mein Lohn zum Leben reichen\"",
+      "teaser": "Zehntausende Pflegekräfte und Krankenwagenfahrer in England, Wales und Nordirland streiken. Als Ersatz sollen Soldaten einspringen. Die Briten wurden dazu aufgerufen, nur den Notruf zu wählen, wenn ihr Leben in Gefahr ist.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/pflege-grossbritannien-streik-nhs-1.5719498",
+      "author": "Miriam Dahlinger",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719499/208x156"
+    },
+    {
+      "title": "Die Daten? \"Dilettantisch gefälscht\"",
+      "teaser": "Bei der letzten Sitzung vor Weihnachten stehen im Wirecard-Prozess das Asien-Geschäft und die Rolle von Markus Braun im Zentrum. Zwischendurch geht es aber hoch her zwischen Anwälten und Gericht.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/wirecard-prozess-braun-marsalek-aerger-weihnachten-1.5719916",
+      "author": "Stephan Radomsky",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719917/600x337"
+    },
+    {
+      "title": "Jusos schließen SPD-Generalsekretär von sämtlichen Veranstaltungen aus",
+      "teaser": "Arif Taşdelen soll sich jungen Frauen gegenüber unangemessen verhalten haben. Die Vorwürfe reichen vom aufdringlichen Fragen nach Handynummern bis zu Kontaktversuchen via Kurznachrichten oder auf Social Media. Der 48-Jährige lässt über seine Anwältin ausrichten, er werde ein Awareness-Coaching besuchen.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-spd-tasdelen-frauen-jusos-1.5719942",
+      "author": "Andreas Glas, Johann Osel und Olaf Przybilla",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719943/600x337"
+    },
+    {
+      "title": "Die Benin-Bronzen können nur der Anfang sein",
+      "teaser": "Die Rückgabe der Kunstwerke an Nigeria ist ein wichtiges Zeichen. Doch damit kann Deutschland noch nicht zufrieden sein.",
+      "url": "https://www.sueddeutsche.de/meinung/benin-bronzen-nigeria-deutschland-kulturgueter-rueckgabe-kommentar-1.5719894",
+      "author": "Kommentar von Jörg Häntzschel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719895/290x163"
+    },
+    {
+      "title": "Die Kinder- und Jugendbücher des Jahres",
+      "teaser": "Ein Mädchen will Großvater werden, ein Sachbuch erklärt die Geschichte des Drecks und ein Jugendroman schildert einfühlsam, was Armut bedeutet. Zwölf Empfehlungen.",
+      "url": "https://www.sueddeutsche.de/kultur/kinderbuecher-jugendbuch-die-besten-kinderbuecher-2022-tipps-1.5719772",
+      "author": "SZ-Autorinnen und Autoren",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719954/208x156"
+    },
+    {
+      "title": "So schön wird's nie wieder",
+      "teaser": "Der Bildungsforscher Valentin Reitmajer denkt mit Wehmut an seine Dorfkindheit in den Fünfzigerjahren zurück. War sie wirklich so aufregend und lustig, wie er sie in Erinnerung hat? An Originalen, Kuriositäten und Skurrilitäten herrschte jedenfalls kein Mangel.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-kindheit-literatur-50er-jahre-niederbayern-1.5719192",
+      "author": "Hans Kratzer, Julbach",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719193/600x337"
+    },
+    {
+      "title": "Wie es um Bayern im Krisenjahr steht",
+      "teaser": "Krieg und Konjunktur, Geburten und Gäste, Wohnraum und Wissenschaft: Joachim Herrmann sagt, dass der Freistaat \"erstaunlich gut durch die Krise\" kommt. Das trifft aber nicht für alle Bereiche zu.",
+      "url": "https://www.sueddeutsche.de/bayern/statistik-jahrbuch-2022-bayern-zahlen-1.5719794",
+      "author": "Johann Osel, Fürth/München",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5560219/208x156"
+    },
+    {
       "title": "Sägen statt kleben",
       "teaser": "Aktivistinnen der \"Letzten Generation\" proben in Berlin eine neue Form des Klimaprotests. Ihr Ziel: Der Weihnachtsbaum vor dem Brandenburger Tor.",
       "url": "https://www.sueddeutsche.de/politik/letzte-generation-weihnachtsbaum-gekappt-klimaprotest-1.5719836",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719837/208x156"
     },
     {
-      "title": "Wer will wohl Musks Scherbenhaufen zusammenkehren?",
-      "teaser": "Elon Musk will den Twitter-Chefposten aufgeben. Es ist aber gar nicht so einfach, jemanden zu finden, der es sich antun würde, unter dem Multimilliardär zu arbeiten. Welche Kandidaten in Frage kommen.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/elon-musk-twitter-ceo-nachfolge-1.5719758",
-      "author": "Max Muth",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719759/600x337"
-    },
-    {
       "title": "Airbus verliert zwei Satelliten",
       "teaser": "Die erste kommerzielle Mission der Vega-C scheitert, sie kommt vom Kurs ab. Die neue Esa-Rakete hatte zwei Erdbeobachtungssatelliten von Airbus an Bord.",
       "url": "https://www.sueddeutsche.de/wirtschaft/raumfahrt-esa-airbus-vega-c-satelliten-1.5719884",
       "author": "Dieter Sürig",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719885/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719885/208x156"
+    },
+    {
+      "title": "Fahrt und schweigt!",
+      "teaser": "Die Formel 1 verhängt ihren Piloten einen Maulkorb, der erkennbar dem Ziel dient, den eigenen Hauptsponsor zu schützen: eine umstrittene Ölfirma aus Saudi-Arabien.",
+      "url": "https://www.sueddeutsche.de/sport/formel-1-kommentar-maulkorb-vettel-aramco-1.5719858",
+      "author": "Kommentar von Philipp Schneider",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5407688/600x337"
     },
     {
       "title": "Großbank gegen Ein-Mann-Betrieb",
@@ -169,62 +225,12 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719609/208x156"
     },
     {
-      "title": "So schön wird's nie wieder",
-      "teaser": "Der Bildungsforscher Valentin Reitmajer denkt mit Wehmut an seine Dorfkindheit in den Fünfzigerjahren zurück. War sie wirklich so aufregend und lustig, wie er sie in Erinnerung hat? An Originalen, Kuriositäten und Skurrilitäten herrschte jedenfalls kein Mangel.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-kindheit-literatur-50er-jahre-niederbayern-1.5719192",
-      "author": "Hans Kratzer, Julbach",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719193/208x156"
-    },
-    {
-      "title": "Bio sollte Massenware werden",
-      "teaser": "Biohändler wie Basic haben sich jahrelang selber verzwergt. Jetzt nehmen ihnen auch noch Aldi und Lidl Kunden weg. Aber so schlecht ist das gar nicht.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/basic-bio-lebensmittel-lebensmittel-aldi-lidl-inflation-insolvenz-1.5719645",
-      "author": "Kommentar von Michael Kläsgen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719646/290x163"
-    },
-    {
-      "title": "Der Mann für den schwierigen Schutz der europäischen Grenzen",
-      "teaser": "Der Niederländer Hans Leijtens ist neuer Chef der EU-Grenzschutzagentur Frontex. Ob es ihm gelingt, die Behörde aus den Schlagzeilen herauszuhalten?",
-      "url": "https://www.sueddeutsche.de/politik/hans-leijtens-frontex-niederlande-1.5719692",
-      "author": "Karoline Meta Beisel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719693/208x156"
-    },
-    {
-      "title": "\"Jeder Profi hat schon starke Einsamkeit erlebt\"",
-      "teaser": "Laura Siegemund gehört zu den besten Tennisspielerinnen Deutschlands, hat einen Abschluss in Psychologie - und war kurz davor, die Profi-Karriere aufzugeben. Ein Gespräch über Niederlagen und die Frage, wie man sich nach einem Tief wieder aufrappelt.",
-      "url": "https://www.sueddeutsche.de/sport/tennis-interview-siegemund-psychologie-einsamkeit-1.5719174",
-      "author": "Interview von Gerald Kleffmann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719176/600x337"
-    },
-    {
-      "title": "Bis Messi im Helikopter davonfliegt",
-      "teaser": "Millionen Fans feiern in den Straßen von Buenos Aires: Sie warten auf die Weltmeister, auf Messi, auf den WM-Pokal. Doch dann begehen ein paar Fans große Dummheiten - und es kommt ganz anders.",
-      "url": "https://www.sueddeutsche.de/sport/fussball-wm-weltmeister-argentinien-messi-feier-zusammenstoesse-1.5719477",
-      "author": "Christoph Gurk, Buenos Aires",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719480/208x156"
-    },
-    {
-      "title": "Schwere Jungs",
-      "teaser": "Unser Kolumnist verneigt sich vor katholischen alten Damen, die tun, worüber viele die Nase rümpfen: Sie helfen ehrenamtlich Menschen, die für viele Jahre hinter Gittern gelandet sind.",
-      "url": "https://www.sueddeutsche.de/leben/todesstrafe-usa-bruchsal-gefaengnis-1.5714438",
-      "author": "Ronen Steinke",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5698880/208x156"
-    },
-    {
       "title": "\"Aber Weihnachten ist doch ein Familienfest!\"",
       "teaser": "Lukas und Linn freuen sich schon sehr auf ein paar ruhige Weihnachtstage bei ihren Eltern. Nur: Bei den Eltern kommt keine Vorfreude auf.",
       "url": "https://www.jetzt.de/whatsapp-kolumne/weihnachten-eltern-wollen-ohne-kinder-feiern",
       "author": "Sophie Aschenbrenner",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719607/208x156",
       "image_title": "jtzt whatsappkolumne weihnachten ohne kinder"
-    },
-    {
-      "title": "Homo sovieticus",
-      "teaser": "Vor 100 Jahren wurde im prächtigen Moskauer Bolschoi-Theater die Sowjetunion offiziell gegründet - und von Stalin schon bald in ein Völkergefängnis verwandelt. Zu den Nachwirkungen gehört Putins Krieg gegen die Ukraine.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/gesellschaft/sowjetunion-geschichte-lenin-stalin-bolschoi-theater-e870948/",
-      "author": "Frank Nienhuysen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.1614945/600x337",
-      "image_title": "FILE PHOTO: 60 Years Since The Death Of Joseph Stalin"
     },
     {
       "title": "Soll man \"Harry Potter\" noch verschenken?",
@@ -240,37 +246,36 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719642/600x337"
     },
     {
+      "title": "Lauterbachs gefährliches Cannabis-Experiment",
+      "teaser": "Der Bundesgesundheitsminister will den Konsum des Rauschgifts legalisieren - auf einer vagen Basis.",
+      "url": "https://www.sueddeutsche.de/meinung/karl-lauterbach-cannabis-legalisierung-kommentar-1.5719717",
+      "author": "Kommentar von Hubert Wetzel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719718/208x156"
+    },
+    {
       "title": "Wer in dieser Gesellschaft für andere sorgt, wird nicht wertgeschätzt",
-      "teaser": "Vor allem in der Pflege, in Schulen und Kitas fehlen Fachkräfte. Die, die noch da sind, sind krank. Auffangen müssen es die Familien. Das Land ist in der Fürsorgekrise - doch es kümmert keinen.",
+      "teaser": "Vor allem in der Pflege, in Schulen und Kitas fehlen Fachkräfte. Viele von denen, die noch da sind, sind derzeit krank. Auffangen müssen es die Familien. Das Land ist in der Fürsorgekrise - doch es kümmert keinen.",
       "url": "https://www.sueddeutsche.de/meinung/kommentar-care-krise-scholz-1.5719558",
       "author": "Kommentar von Barbara Vorsamer",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719731/208x156"
     },
     {
-      "title": "Zu viel der Umfragen ohne Wert",
-      "teaser": "Elon Musk hat die Pseudo-Demokratie im Internet auf die Spitze getrieben. Umfragen sind allerdings generell eine Zumutung.",
-      "url": "https://www.sueddeutsche.de/meinung/elon-musk-twitter-umfragen-demokratie-1.5719134",
-      "author": "Kommentar von Johan Schloemann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719135/208x156"
+      "title": "\"Ich muss nicht alleine stark sein\"",
+      "teaser": "Anna S. wurde jahrelang von ihrem Ex-Mann gedemütigt und misshandelt. Vom Frauenhaus zog sie nun in ihre eigene Wohnung, die nur provisorisch eingerichtet ist - und lernt jetzt Selbstfürsorge.",
+      "url": "https://www.sueddeutsche.de/muenchen/dachau/dachau-frauenhaus-sz-adventskalender-1.5718282",
+      "author": "Carlotta Böttcher, Dachau",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5229143/208x156"
+    },
+    {
+      "title": "Verfahren gegen Bräurosl-Wirt eingestellt",
+      "teaser": "Der Wirt zahlte einen vierstelligen Euro-Betrag.",
+      "url": "https://www.sueddeutsche.de/muenchen/braeurosl-wirt-1.5720007"
     },
     {
       "title": "München spart spürbar Gas",
       "teaser": "Eine Analyse der Stadtwerke zeigt, dass der Verbrauch im November um rund 20 Prozent gesunken ist, bei Großbetrieben sogar um fast 30 Prozent.",
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-energiekrise-erdgas-verbrauch-1.5719882",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719883/208x156"
-    },
-    {
-      "title": "Untervermietung an Geflüchtete - Mieterverein legt Berufung ein",
-      "teaser": "Können Vermieter verhindern, dass ihre Mieter in humanitär begründeten Fällen Menschen bei sich aufnehmen? Ein Gräfelfinger hatte Ukrainerinnen beherbergt - und er will dieses Recht jetzt in höheren Gerichtsinstanzen durchfechten.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-mieterverein-untervermietung-gefluechtete-1.5719823",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719824/208x156"
-    },
-    {
-      "title": "Mangelverwaltung auf Rezept",
-      "teaser": "Ob Fiebersaft, Schmerzmittel oder Blutdrucksenker - jedes zweite verordnete Medikament ist aktuell nicht vorrätig. In den Apotheken herrscht \"Land unter\".",
-      "url": "https://www.sueddeutsche.de/muenchen/landkreismuenchen/apotheken-medikamentenmangel-fiebersaft-schmerzmittel-1.5719362",
-      "author": "Bernhard Lohr, Landkreis München",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719367/208x156"
     },
     {
       "title": "\"Hey, Bayern, mach dich mal locker\"",
@@ -327,17 +332,17 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5717639/208x156"
     },
     {
-      "title": "Wie hält der Papst es mit der Ukraine?",
-      "teaser": "Kritiker werfen Franziskus vor, sich angesichts des russischen Angriffskriegs nicht deutlich genug zu positionieren. Andere warnen davor, die Überparteilichkeit des Vatikans aufzugeben.",
-      "url": "https://www.sueddeutsche.de/politik/papst-ukraine-krieg-kritik-1.5719680",
-      "author": "Annette Zoch",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719681/208x156"
+      "title": "Kabinett beschließt kürzere Haft bei nicht bezahlter Geldstrafe",
+      "teaser": "Wer nach einer Verurteilung nicht zahlen kann, soll dafür nicht mehr so lange ins Gefängnis müssen wie bisher. Mit der Frage, ob das Schwarzfahren künftig keine Straftat mehr sein soll, will sich Justizminister Buschmann 2023 befassen.",
+      "url": "https://www.sueddeutsche.de/politik/ersatzfreiheitsstrafe-bundesregierung-haft-geldstrafe-1.5719928",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719929/208x156"
     },
     {
-      "title": "Ärzte und Apotheker rechnen noch viele Monate mit Engpässen",
-      "teaser": "Fachleute gehen davon aus, dass die Lieferprobleme bei Medikamenten auch 2023 anhalten und weitere Arzneimittel betreffen werden. Die Pläne von Gesundheitsminister Lauterbach helfen nach ihrer Einschätzung \"nur bedingt\".",
-      "url": "https://www.sueddeutsche.de/politik/medikamentenmangel-lauterbach-hausaerzte-apotheker-1.5719903",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719904/208x156"
+      "title": "Alles oder nichts",
+      "teaser": "Wladimir Putin genehmigt seiner Armee locker noch einmal 350 000 neue Stellen - den Krieg will er offenbar mit aller Härte weiterführen.",
+      "url": "https://www.sueddeutsche.de/politik/russland-putin-armee-1.5720022",
+      "author": "Frank Nienhuysen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5720055/208x156"
     },
     {
       "title": "Der Romantiker mit dem Giftpulver",
@@ -361,13 +366,6 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719224/208x156"
     },
     {
-      "title": "Gereizt in die Ferien",
-      "teaser": "Bei der letzten Sitzung vor Weihnachten geht es im Wirecard-Prozess noch einmal hoch her zwischen Anwälten und Gericht. Der Januar dürfte spannend werden.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/wirecard-prozess-braun-marsalek-1.5719916",
-      "author": "Stephan Radomsky",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719917/208x156"
-    },
-    {
       "title": "Wie die hohen Milchpreise Bio-Bauern belasten",
       "teaser": "Milch wird immer teurer, doch die Gewinner der Krise sind nicht Bio-Bauern, sondern konventionell wirtschaftende Landwirte. Das hat Folgen - nicht nur für die Verbraucher.",
       "url": "https://www.sueddeutsche.de/wirtschaft/bio-milch-landwirtschaft-preise-inflation-1.5719599",
@@ -375,17 +373,24 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719600/208x156"
     },
     {
-      "title": "\"Als Krankenpflegerin sollte mein Lohn zum Leben reichen.\"",
-      "teaser": "Zehntausende Pflegekräfte und Krankenwagenfahrer in England, Wales und Nordirland streiken. Als Ersatz sollen Soldaten einspringen. Die Briten wurden dazu aufgerufen, nur den Notruf zu wählen, wenn ihr Leben in Gefahr ist.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/pflege-grossbritannien-streik-nhs-1.5719498",
-      "author": "Miriam Dahlinger",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719499/208x156"
+      "title": "Wer will wohl Musks Scherbenhaufen zusammenkehren?",
+      "teaser": "Elon Musk will den Twitter-Chefposten aufgeben. Es ist aber gar nicht so einfach, jemanden zu finden, der es sich antun würde, unter dem Multimilliardär zu arbeiten. Welche Kandidaten in Frage kommen.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/elon-musk-twitter-ceo-nachfolge-1.5719758",
+      "author": "Max Muth",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719759/208x156"
     },
     {
-      "title": "Verfahren gegen Trump: \"Ein Politikverbot wäre die Höchststrafe\"",
-      "teaser": "Donald Trump ist der erste Ex-US-Präsident, gegen den der Kongress ein Strafverfahren empfiehlt. Jetzt geht es Schlag auf Schlag.",
-      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-verfahren-gegen-trump-ein-politikverbot-waere-die-hoechststrafe-1.5719294",
-      "author": "Fabian Fellmann und Lars Langenau",
+      "title": "Bio sollte Massenware werden",
+      "teaser": "Biohändler wie Basic haben sich jahrelang selber verzwergt. Jetzt nehmen ihnen auch noch Aldi und Lidl Kunden weg. Aber so schlecht ist das gar nicht.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/basic-bio-lebensmittel-lebensmittel-aldi-lidl-inflation-insolvenz-1.5719645",
+      "author": "Kommentar von Michael Kläsgen",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719646/208x156"
+    },
+    {
+      "title": "US-Waffenlieferungen: Patriots sind ein Signal, es kommt noch viel mehr",
+      "teaser": "Die USA liefern der Ukraine Patriot-Flugabwehr. Wird es zum entscheidenden Unterschied in diesem Krieg?",
+      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-us-waffenlieferungen-patriots-sind-ein-signal-es-kommt-noch-viel-mehr-1.5719979",
+      "author": "Florian Hassel und Lars Langenau",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5605764/208x156"
     },
     {
@@ -423,18 +428,18 @@
       "image_title": "Demonstrationen in Hamburg"
     },
     {
-      "title": "Welche Filme sich lohnen - und welche nicht",
-      "teaser": "Ein Kater zieht Stiefel an, ein Mann verliert seine Illusionen, und ein Esel betrachtet das absurde Treiben der Menschen - die Filmstarts der Woche in Kürze.",
-      "url": "https://www.sueddeutsche.de/kultur/kinostarts-filmstarts-rezensionen-1.5718896",
-      "author": "SZ-Autorinnen und -Autoren",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5718897/208x156"
+      "title": "Schauspieler bekommt recht",
+      "teaser": "Das Bundesarbeitsgericht Erfurt urteilt: Intendanten müssen Künstlern bei Nichtverlängerung ihres Vertrags die Gründe sagen - und zwar in einem formellen Gespräch.",
+      "url": "https://www.sueddeutsche.de/kultur/theater-goettingen-gdba-1.5719991",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719992/208x156"
     },
     {
-      "title": "Der neue König",
-      "teaser": "Jetzt ist es raus: Stefan Bachmann, Intendant in Köln, wird von 2024 an das Wiener Burgtheater leiten, diesen Palast der österreichischen Hochkultur.",
-      "url": "https://www.sueddeutsche.de/kultur/stefan-bachmann-burgtheater-wien-1.5719930",
-      "author": "Christine Dössel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719937/208x156"
+      "title": "Die Sonne und du",
+      "teaser": "Udo Jürgens wurde zum Weltstar, weil er sich in jeden Winkel seiner Seele hat schauen lassen. Ein Treffen mit seinem Sohn, der gerade eine CD-Box zusammengestellt hat.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/kultur/udo-juergens-cd-box-e672692/",
+      "author": "Tobias Haberl",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719912/208x156",
+      "image_title": "UDO JÜRGENS - Amerika Reise 1957 als Austauschstudent ( Alfred University ),New York, Juli 1957; Udo Jürgens - Pressebilder zu \"da capo\""
     },
     {
       "title": "Beitrag über Meghan Markle bringt Briten in Rage",
@@ -442,13 +447,6 @@
       "url": "https://www.sueddeutsche.de/medien/meghan-markle-jeremy-clarkson-hassbeitrag-harry-meghan-1.5719736",
       "author": "Lilly Brosowsky",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719737/208x156"
-    },
-    {
-      "title": "Fahrt und schweigt!",
-      "teaser": "Die Formel 1 verhängt seinen Piloten einen Maulkorb, der erkennbar dem Ziel dient, den eigenen Hauptsponsor zu schützen: eine umstrittene Ölfirma aus Saudi-Arabien.",
-      "url": "https://www.sueddeutsche.de/sport/formel-1-kommentar-maulkorb-vettel-1.5719858",
-      "author": "Kommentar von Philipp Schneider",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5407688/208x156"
     },
     {
       "title": "Alarmstimmung in Freak City",
@@ -459,10 +457,18 @@
       "image_title": "Justin Wright-Foreman von den Brose Bamberg"
     },
     {
-      "title": "Füllkrug kritisiert Umgang mit DFB-Auswahl",
-      "teaser": "Es sei erschreckend, wie viel Missgunst der Nationalmannschaft entgegengebracht werde, sagt der Bremer Stürmer. Trotz WM-Aus sieht er das DFB-Team gut aufgestellt.",
-      "url": "https://www.sueddeutsche.de/sport/niclas-fuellkrug-dfb-team-missgunst-fussball-wm-1.5719677",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719678/208x156"
+      "title": "\"Jeder Profi hat schon starke Einsamkeit erlebt\"",
+      "teaser": "Laura Siegemund gehört zu den besten Tennisspielerinnen Deutschlands, hat einen Abschluss in Psychologie - und war kurz davor, die Profi-Karriere aufzugeben. Ein Gespräch über Niederlagen und die Frage, wie man sich nach einem Tief wieder aufrappelt.",
+      "url": "https://www.sueddeutsche.de/sport/tennis-interview-siegemund-psychologie-einsamkeit-1.5719174",
+      "author": "Interview von Gerald Kleffmann",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719176/208x156"
+    },
+    {
+      "title": "Bis Messi im Helikopter davonfliegt",
+      "teaser": "Millionen Fans feiern in den Straßen von Buenos Aires: Sie warten auf die Weltmeister, auf Messi, auf den WM-Pokal. Doch dann begehen ein paar Fans große Dummheiten - und es kommt ganz anders.",
+      "url": "https://www.sueddeutsche.de/sport/fussball-wm-weltmeister-argentinien-messi-feier-zusammenstoesse-1.5719477",
+      "author": "Christoph Gurk, Buenos Aires",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5719480/208x156"
     },
     {
       "title": "Kapitän über Bord",
@@ -478,8 +484,8 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719476/208x156"
     },
     {
-      "title": "Die Therapie der Zukunft",
-      "teaser": "Eine weniger strikte Trennung zwischen den Schulen, mehr Unterstützung durch Computer, persönlichere Hilfe: Wie wird sich die Psychotherapie verändern? Fünf Thesen.",
+      "title": "Wenn die KI weiß, wie gut die Therapie läuft",
+      "teaser": "Apps, Videocalls oder Hirnstimulation: Wie wird die Psychotherapie der Zukunft aussehen? Fünf Thesen.",
       "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/psychotherapie-entwicklung-zukunft-computer-e144741/",
       "author": "Text: Jan Schwenkenbecher, Illustration: Stefan Dimitrov",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5719939/208x156"
