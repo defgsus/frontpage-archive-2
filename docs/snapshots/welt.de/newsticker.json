@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-22T19:14:07",
+  "timestamp": "2022-12-22T20:18:46",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Flüchtlingsunterbringung"
+    },
     {
       "title": "Politik",
       "url": "https://www.welt.de/politik/",
@@ -32,11 +37,6 @@
       "title": "Kriminalität",
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "topic": "„Letzte Generation“"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "topic": "Medienberichte"
     },
     {
       "title": "Russische Wagner-Söldner erhalten laut USA Waffen aus Nordkorea",
@@ -68,9 +68,15 @@
       "author": "Daniel Eckert"
     },
     {
-      "title": "Jetzt im Fernsehen",
-      "url": "https://www.welt.de/mediathek/video152403616/Das-WELT-TV-Programm-im-Livestream.html",
+      "title": "Aktuelle Nachrichten",
+      "url": "https://www.welt.de/politik/deutschland/video242851243/WELT-Aktuelle-Nachrichten.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Der eigentliche Skandal ist die Migrationspolitik dieser linken Ampelregierung“",
+      "url": "https://www.welt.de/politik/deutschland/video242844845/Weihnachtsbotschaft-Amthor-zum-Bautzener-CDU-Landrat.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Amthor zum Bautzener CDU-Landrat"
     },
     {
       "title": "„Es ist keine Weihnachtsbotschaft in dem Sinn. Es ist die Erklärung einer Zwangslage“",
@@ -110,27 +116,6 @@
       "url": "https://www.welt.de/politik/ausland/video242828249/Washington-Ukrainischer-Praesident-Selenskyj-zu-Besuch-in-den-USA.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Selenskyj in Washington"
-    },
-    {
-      "title": "„Dann wird ihnen die Laune vergehen“",
-      "url": "https://www.welt.de/politik/video242827505/Polizei-schaut-zu-Letzte-Generation-saegt-Spitze-von-Weihnachtsbaum-vor-Brandenburger-Tor-ab.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Aktivsten kürzen Weihnachtsbaum am Brandenburger Tor",
-      "topic": "Weihnachtsbaum-Spitze abgesägt"
-    },
-    {
-      "title": "Kretschmer verteidigt umstrittene Weihnachtsbotschaft von Bautzener Landrat",
-      "url": "https://www.welt.de/politik/deutschland/video242824615/Sachsens-Ministerpraesident-aeussert-sich-zu-Weihnachtsbotschaft-von-Bautzener-Landrat.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "W",
-      "topic": "„Botschaft ist verkürzt“"
-    },
-    {
-      "title": "„Er spricht von ‚neuen russischen Territorien‘ – Die Ukraine gibt es für ihn nicht“",
-      "url": "https://www.welt.de/politik/ausland/video242822635/Wladimir-Putins-militaerische-Ziele-Gustav-Gressel-analysiert-die-Rede.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Gustav Gressel",
-      "topic": "Analyse der Rede Putins"
     }
   ]
 }
