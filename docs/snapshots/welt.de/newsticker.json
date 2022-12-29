@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-29T11:14:29",
+  "timestamp": "2022-12-29T12:32:48",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "topic": "Deutlicher Stellenzuwachs"
+    },
     {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -39,11 +44,6 @@
       "topic": "Diskriminierungsvorwürfe"
     },
     {
-      "title": "Weltgeschehen",
-      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
-      "topic": "Vatikan in Sorge"
-    },
-    {
       "title": "Aha!",
       "url": "https://www.welt.de/podcasts/aha-zehn-minuten-alltags-wissen/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -65,6 +65,17 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Börsen-Podcast",
       "author": "Nando Sommerfeldt"
+    },
+    {
+      "title": "Aktuelle Nachrichten",
+      "url": "https://www.welt.de/vermischtes/video242926967/WELT-Aktuelle-Nachrichten.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Es wurde eine Kerze in seinem Geburtshaus entzündet“",
+      "url": "https://www.welt.de/vermischtes/prominente/video242932471/Papst-Benedikt-Jens-Reupert-berichtet-aus-Geburtsort-von-Joseph-Ratzinger.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Sorge um Benedikt"
     },
     {
       "title": "„Verteidigungsminister Schoigu soll weitere Söldnergruppe in diesem Krieg einsetzen“",
@@ -129,11 +140,6 @@
       "url": "https://www.welt.de/videos/video242899137/Corona-Lockerungen-Staatlich-gelenkte-Massnahmen-sind-nicht-notwendig.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Pandemie-Ende"
-    },
-    {
-      "title": "Aktuelle Nachrichten",
-      "url": "https://www.welt.de/vermischtes/video242926967/WELT-Aktuelle-Nachrichten.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
     }
   ]
 }
